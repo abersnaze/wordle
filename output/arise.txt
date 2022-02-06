@@ -1,0 +1,13044 @@
+aside
+	arise
+	aside 1
+	2
+plumb
+	arise
+	could 168
+	flunk 8
+	plumb 2
+	4
+sappy
+	arise
+	slant 61
+	scuba 7
+	savvy 3
+	sappy 1
+	5
+scorn
+	arise
+	short 25
+	scorn 3
+	3
+crawl
+	arise
+	grant 35
+	wrack 10
+	crawl 1
+	4
+pause
+	arise
+	lapse 10
+	pause 1
+	3
+bunny
+	arise
+	could 168
+	humph 15
+	bunny 6
+	4
+slack
+	arise
+	slant 61
+	slack 1
+	3
+chime
+	arise
+	utile 23
+	opine 8
+	chime 2
+	4
+clash
+	arise
+	slash 25
+	clash 2
+	3
+shirt
+	arise
+	shirk 5
+	shirt 1
+	3
+furor
+	arise
+	torch 64
+	furor 2
+	3
+spice
+	arise
+	spine 15
+	spice 3
+	3
+there
+	arise
+	verge 25
+	there 3
+	3
+lapel
+	arise
+	metal 79
+	lapel 7
+	3
+cater
+	arise
+	later 61
+	cater 4
+	3
+thief
+	arise
+	edict 15
+	thief 1
+	3
+shirk
+	arise
+	shirk 5
+	2
+shied
+	arise
+	shied 3
+	2
+ember
+	arise
+	outer 100
+	fever 14
+	ember 3
+	4
+hoist
+	arise
+	hoist 9
+	2
+teeth
+	arise
+	olden 121
+	beech 12
+	teeth 1
+	4
+briar
+	arise
+	briar 4
+	2
+tutor
+	arise
+	torch 64
+	tutor 2
+	3
+fried
+	arise
+	fried 9
+	2
+scoff
+	arise
+	stunk 80
+	scowl 12
+	scoff 2
+	4
+untie
+	arise
+	binge 25
+	untie 1
+	3
+musky
+	arise
+	stunk 80
+	musky 3
+	3
+renew
+	arise
+	outer 100
+	revel 4
+	renew 1
+	4
+roast
+	arise
+	harsh 3
+	roast 1
+	3
+avian
+	arise
+	axion 9
+	avian 2
+	3
+boxer
+	arise
+	outer 100
+	rower 19
+	mover 10
+	joker 5
+	boxer 3
+	6
+burly
+	arise
+	torch 64
+	burly 3
+	3
+sever
+	arise
+	sheer 20
+	sever 2
+	3
+field
+	arise
+	widen 35
+	field 2
+	3
+comic
+	arise
+	pilot 107
+	comic 4
+	3
+pinto
+	arise
+	pilot 107
+	pinto 1
+	3
+poppy
+	arise
+	could 168
+	boozy 14
+	poppy 2
+	4
+guise
+	arise
+	noise 3
+	guise 1
+	3
+deity
+	arise
+	edict 15
+	deity 1
+	3
+light
+	arise
+	pilot 107
+	light 2
+	3
+berth
+	arise
+	outer 100
+	berth 2
+	3
+droll
+	arise
+	trunk 49
+	droop 13
+	droll 1
+	4
+puree
+	arise
+	verge 25
+	puree 2
+	3
+mulch
+	arise
+	could 168
+	mulch 4
+	3
+eking
+	arise
+	edict 15
+	eking 2
+	3
+trace
+	arise
+	grace 18
+	trace 2
+	3
+media
+	arise
+	media 3
+	2
+nerve
+	arise
+	verge 25
+	nerve 1
+	3
+bingo
+	arise
+	pilot 107
+	bingo 2
+	3
+lemur
+	arise
+	outer 100
+	lemur 4
+	3
+avert
+	arise
+	alter 6
+	avert 1
+	3
+claim
+	arise
+	panic 35
+	claim 1
+	3
+slime
+	arise
+	spine 15
+	slime 7
+	3
+shove
+	arise
+	stone 17
+	slope 5
+	shove 2
+	4
+theft
+	arise
+	olden 121
+	beech 12
+	theft 1
+	4
+taste
+	arise
+	haste 29
+	taste 5
+	3
+tying
+	arise
+	cling 51
+	doing 7
+	tying 3
+	4
+cache
+	arise
+	cable 47
+	cache 2
+	3
+awake
+	arise
+	abate 20
+	agape 4
+	awake 2
+	4
+disco
+	arise
+	stoic 21
+	disco 1
+	3
+snake
+	arise
+	haste 29
+	slave 7
+	spade 3
+	snake 1
+	5
+dogma
+	arise
+	canal 154
+	dogma 5
+	3
+short
+	arise
+	short 25
+	2
+rocky
+	arise
+	torch 64
+	rocky 2
+	3
+bagel
+	arise
+	metal 79
+	lapel 7
+	gavel 4
+	bagel 1
+	5
+quell
+	arise
+	olden 121
+	belly 10
+	quell 1
+	4
+tryst
+	arise
+	crust 10
+	tryst 2
+	3
+clamp
+	arise
+	canal 154
+	clamp 3
+	3
+koala
+	arise
+	canal 154
+	llama 3
+	koala 1
+	4
+scour
+	arise
+	short 25
+	scour 1
+	3
+naval
+	arise
+	canal 154
+	naval 2
+	3
+error
+	arise
+	creed 22
+	error 2
+	3
+stoop
+	arise
+	stunk 80
+	stoop 4
+	3
+motor
+	arise
+	torch 64
+	motor 3
+	3
+rajah
+	arise
+	carol 62
+	radar 4
+	rajah 1
+	4
+alley
+	arise
+	angel 10
+	alley 2
+	3
+proud
+	arise
+	trunk 49
+	group 3
+	proud 1
+	4
+shunt
+	arise
+	stunk 80
+	shunt 1
+	3
+woman
+	arise
+	canal 154
+	woman 3
+	3
+hippy
+	arise
+	pilot 107
+	hippy 2
+	3
+froze
+	arise
+	trope 21
+	drove 7
+	froze 3
+	4
+basil
+	arise
+	slain 12
+	basil 1
+	3
+cabby
+	arise
+	canal 154
+	catty 5
+	cabby 2
+	4
+bylaw
+	arise
+	canal 154
+	bylaw 4
+	3
+utile
+	arise
+	utile 23
+	2
+horde
+	arise
+	verge 25
+	forte 4
+	horde 2
+	4
+admit
+	arise
+	admit 13
+	2
+imply
+	arise
+	pilot 107
+	imply 1
+	3
+patsy
+	arise
+	slash 25
+	patsy 2
+	3
+moose
+	arise
+	loose 20
+	moose 3
+	3
+niche
+	arise
+	binge 25
+	niche 2
+	3
+roger
+	arise
+	outer 100
+	rower 19
+	roger 2
+	4
+banal
+	arise
+	canal 154
+	banal 1
+	3
+bloke
+	arise
+	lunge 61
+	belle 8
+	bloke 1
+	4
+blitz
+	arise
+	cling 51
+	blimp 2
+	blitz 1
+	4
+jumbo
+	arise
+	could 168
+	outgo 7
+	jumbo 1
+	4
+plane
+	arise
+	cable 47
+	plate 8
+	plane 1
+	4
+savor
+	arise
+	strap 23
+	shark 7
+	savor 1
+	4
+lunch
+	arise
+	could 168
+	mulch 4
+	lunch 1
+	4
+taint
+	arise
+	taint 9
+	2
+azure
+	arise
+	azure 4
+	2
+gully
+	arise
+	could 168
+	gully 3
+	3
+swirl
+	arise
+	shirk 5
+	swirl 1
+	3
+pasta
+	arise
+	slant 61
+	pasta 4
+	3
+hasty
+	arise
+	slant 61
+	pasta 4
+	hasty 2
+	4
+edify
+	arise
+	edict 15
+	edify 1
+	3
+flush
+	arise
+	floss 17
+	flush 1
+	3
+fleck
+	arise
+	olden 121
+	fleck 4
+	3
+rowdy
+	arise
+	torch 64
+	roomy 7
+	rowdy 1
+	4
+civic
+	arise
+	pilot 107
+	windy 16
+	civic 2
+	4
+cheek
+	arise
+	olden 121
+	cheek 3
+	3
+gummy
+	arise
+	could 168
+	humph 15
+	gummy 2
+	4
+dwarf
+	arise
+	carol 62
+	dwarf 7
+	3
+amity
+	arise
+	axion 9
+	amity 2
+	3
+jewel
+	arise
+	olden 121
+	bevel 8
+	jewel 1
+	4
+zesty
+	arise
+	spelt 41
+	zesty 4
+	3
+spare
+	arise
+	spare 5
+	2
+torus
+	arise
+	short 25
+	torus 1
+	3
+excel
+	arise
+	olden 121
+	bevel 8
+	excel 3
+	4
+slurp
+	arise
+	short 25
+	slurp 2
+	3
+actor
+	arise
+	actor 14
+	2
+prose
+	arise
+	prose 1
+	2
+zebra
+	arise
+	later 61
+	ready 12
+	zebra 1
+	4
+juicy
+	arise
+	cling 51
+	quick 4
+	juicy 1
+	4
+baton
+	arise
+	canal 154
+	gaunt 9
+	baton 1
+	4
+cairn
+	arise
+	hairy 5
+	cairn 1
+	3
+phony
+	arise
+	could 168
+	phony 5
+	3
+madam
+	arise
+	canal 154
+	madam 2
+	3
+cough
+	arise
+	could 168
+	cough 3
+	3
+wrest
+	arise
+	cress 6
+	wrest 2
+	3
+might
+	arise
+	pilot 107
+	might 6
+	3
+denim
+	arise
+	widen 35
+	denim 1
+	3
+unzip
+	arise
+	pilot 107
+	unzip 1
+	3
+flick
+	arise
+	cling 51
+	flick 1
+	3
+while
+	arise
+	utile 23
+	while 2
+	3
+giant
+	arise
+	panic 35
+	giant 3
+	3
+dally
+	arise
+	canal 154
+	dally 10
+	3
+juice
+	arise
+	utile 23
+	juice 2
+	3
+shape
+	arise
+	haste 29
+	shape 6
+	3
+thump
+	arise
+	could 168
+	thump 2
+	3
+press
+	arise
+	cress 6
+	press 2
+	3
+forth
+	arise
+	torch 64
+	forth 3
+	3
+party
+	arise
+	carol 62
+	party 10
+	3
+seize
+	arise
+	spine 15
+	slime 7
+	seize 2
+	4
+clear
+	arise
+	later 61
+	clear 1
+	3
+cycle
+	arise
+	lunge 61
+	belle 8
+	cycle 2
+	4
+goose
+	arise
+	loose 20
+	moose 3
+	goose 2
+	4
+flung
+	arise
+	could 168
+	flunk 8
+	flung 1
+	4
+exist
+	arise
+	exist 2
+	2
+mover
+	arise
+	outer 100
+	rower 19
+	mover 10
+	4
+antic
+	arise
+	admit 13
+	antic 2
+	3
+gourd
+	arise
+	torch 64
+	mourn 7
+	gourd 1
+	4
+clued
+	arise
+	olden 121
+	clued 2
+	3
+axion
+	arise
+	axion 9
+	2
+model
+	arise
+	olden 121
+	model 1
+	3
+scrum
+	arise
+	short 25
+	scrum 4
+	3
+gecko
+	arise
+	olden 121
+	gecko 4
+	3
+equip
+	arise
+	widen 35
+	ethic 4
+	equip 1
+	4
+grasp
+	arise
+	brass 7
+	trash 3
+	grasp 1
+	4
+snowy
+	arise
+	stunk 80
+	snowy 6
+	3
+camel
+	arise
+	metal 79
+	camel 1
+	3
+tripe
+	arise
+	tripe 17
+	2
+blaze
+	arise
+	cable 47
+	blaze 3
+	3
+rover
+	arise
+	outer 100
+	rower 19
+	roger 2
+	rover 1
+	5
+diary
+	arise
+	nadir 17
+	diary 1
+	3
+agony
+	arise
+	aloft 29
+	agony 2
+	3
+livid
+	arise
+	pilot 107
+	livid 5
+	3
+chill
+	arise
+	cling 51
+	chill 3
+	3
+fluid
+	arise
+	pilot 107
+	fluid 3
+	3
+hardy
+	arise
+	carol 62
+	party 10
+	hardy 3
+	4
+stove
+	arise
+	stone 17
+	stove 3
+	3
+burst
+	arise
+	burst 4
+	2
+wharf
+	arise
+	carol 62
+	dwarf 7
+	wharf 1
+	4
+impel
+	arise
+	widen 35
+	impel 1
+	3
+bleat
+	arise
+	metal 79
+	bleat 4
+	3
+blond
+	arise
+	could 168
+	blond 3
+	3
+regal
+	arise
+	later 61
+	regal 7
+	3
+rebus
+	arise
+	sheer 20
+	rebus 1
+	3
+spiny
+	arise
+	stink 29
+	sling 5
+	spiny 2
+	4
+stink
+	arise
+	stink 29
+	2
+spoon
+	arise
+	stunk 80
+	snowy 6
+	spoon 1
+	4
+still
+	arise
+	stink 29
+	still 3
+	3
+slice
+	arise
+	spine 15
+	slime 7
+	slice 2
+	4
+brick
+	arise
+	drink 22
+	brick 4
+	3
+slave
+	arise
+	haste 29
+	slave 7
+	3
+cider
+	arise
+	ripen 34
+	diver 10
+	cider 2
+	4
+greet
+	arise
+	creed 22
+	green 4
+	greet 1
+	4
+store
+	arise
+	scree 10
+	store 5
+	3
+gamer
+	arise
+	later 61
+	wager 15
+	gamer 3
+	4
+boule
+	arise
+	lunge 61
+	flume 6
+	boule 1
+	4
+ninth
+	arise
+	pilot 107
+	ditch 13
+	ninth 2
+	4
+scone
+	arise
+	stone 17
+	scone 2
+	3
+stead
+	arise
+	stead 10
+	2
+farce
+	arise
+	barge 8
+	farce 2
+	3
+hello
+	arise
+	olden 121
+	hello 4
+	3
+leaky
+	arise
+	metal 79
+	leaky 4
+	3
+outdo
+	arise
+	could 168
+	outdo 1
+	3
+align
+	arise
+	axion 9
+	avian 2
+	align 1
+	4
+winch
+	arise
+	pilot 107
+	windy 16
+	winch 1
+	4
+adopt
+	arise
+	aloft 29
+	adopt 2
+	3
+lance
+	arise
+	cable 47
+	lance 1
+	3
+plait
+	arise
+	panic 35
+	plait 2
+	3
+filet
+	arise
+	widen 35
+	pixel 4
+	filet 1
+	4
+feign
+	arise
+	edict 15
+	feign 4
+	3
+speed
+	arise
+	spelt 41
+	speed 3
+	3
+mania
+	arise
+	panic 35
+	mania 1
+	3
+inlay
+	arise
+	panic 35
+	giant 3
+	inlay 1
+	4
+scaly
+	arise
+	slant 61
+	scaly 6
+	3
+cruel
+	arise
+	creed 22
+	cruel 1
+	3
+kinky
+	arise
+	pilot 107
+	windy 16
+	kinky 2
+	4
+inter
+	arise
+	ripen 34
+	inter 3
+	3
+exile
+	arise
+	utile 23
+	while 2
+	exile 1
+	4
+blend
+	arise
+	olden 121
+	blend 1
+	3
+curvy
+	arise
+	torch 64
+	curvy 3
+	3
+pubic
+	arise
+	pilot 107
+	pubic 1
+	3
+snore
+	arise
+	scree 10
+	store 5
+	snore 4
+	4
+fresh
+	arise
+	cress 6
+	wrest 2
+	fresh 1
+	4
+stump
+	arise
+	stunk 80
+	stump 3
+	3
+faint
+	arise
+	taint 9
+	faint 2
+	3
+trash
+	arise
+	brass 7
+	trash 3
+	3
+guild
+	arise
+	cling 51
+	guild 2
+	3
+odder
+	arise
+	outer 100
+	odder 4
+	3
+throw
+	arise
+	torch 64
+	throw 2
+	3
+totem
+	arise
+	olden 121
+	covey 5
+	totem 1
+	4
+loath
+	arise
+	canal 154
+	llama 8
+	loath 1
+	4
+belly
+	arise
+	olden 121
+	belly 10
+	3
+shave
+	arise
+	haste 29
+	shape 6
+	shave 5
+	4
+taffy
+	arise
+	canal 154
+	datum 20
+	taffy 3
+	4
+endow
+	arise
+	olden 121
+	endow 1
+	3
+evict
+	arise
+	edict 15
+	evict 1
+	3
+spiel
+	arise
+	shied 3
+	spiel 1
+	3
+choir
+	arise
+	birch 20
+	choir 1
+	3
+cello
+	arise
+	olden 121
+	hello 4
+	cello 1
+	4
+flack
+	arise
+	canal 154
+	flack 2
+	3
+chose
+	arise
+	loose 20
+	chose 3
+	3
+blare
+	arise
+	barge 8
+	blare 1
+	3
+heath
+	arise
+	metal 79
+	heath 3
+	3
+decal
+	arise
+	metal 79
+	decal 5
+	3
+start
+	arise
+	strap 23
+	start 2
+	3
+sling
+	arise
+	stink 29
+	sling 5
+	3
+brace
+	arise
+	grace 18
+	trace 2
+	brace 1
+	4
+verge
+	arise
+	verge 25
+	2
+spook
+	arise
+	stunk 80
+	shock 4
+	spook 1
+	4
+torch
+	arise
+	torch 64
+	2
+staid
+	arise
+	slain 12
+	staid 1
+	3
+penny
+	arise
+	olden 121
+	wench 6
+	penny 1
+	4
+viola
+	arise
+	panic 35
+	viola 5
+	3
+group
+	arise
+	trunk 49
+	group 3
+	3
+glass
+	arise
+	slash 25
+	glass 2
+	3
+elite
+	arise
+	utile 23
+	elite 1
+	3
+cover
+	arise
+	outer 100
+	rower 19
+	mover 10
+	cover 3
+	5
+canny
+	arise
+	canal 154
+	canny 3
+	3
+order
+	arise
+	creed 22
+	order 2
+	3
+riper
+	arise
+	ripen 34
+	riper 1
+	3
+ethic
+	arise
+	widen 35
+	ethic 4
+	3
+hussy
+	arise
+	floss 17
+	hussy 2
+	3
+often
+	arise
+	olden 121
+	often 1
+	3
+rabid
+	arise
+	nadir 17
+	rabid 2
+	3
+valve
+	arise
+	cable 47
+	halve 5
+	valve 1
+	4
+human
+	arise
+	canal 154
+	woman 3
+	human 1
+	4
+hazel
+	arise
+	metal 79
+	lapel 7
+	gavel 4
+	hazel 1
+	5
+marry
+	arise
+	carol 62
+	party 10
+	hardy 3
+	marry 1
+	5
+saint
+	arise
+	saint 1
+	2
+troll
+	arise
+	trunk 49
+	troll 2
+	3
+cleat
+	arise
+	metal 79
+	bleat 4
+	cleat 2
+	4
+swath
+	arise
+	slant 61
+	stack 4
+	swath 1
+	4
+flank
+	arise
+	canal 154
+	blank 6
+	flank 2
+	4
+nurse
+	arise
+	rouse 9
+	nurse 3
+	3
+table
+	arise
+	cable 47
+	table 2
+	3
+whale
+	arise
+	cable 47
+	whale 1
+	3
+grimy
+	arise
+	drink 22
+	primo 8
+	grimy 1
+	4
+cower
+	arise
+	outer 100
+	rower 19
+	cower 4
+	4
+stall
+	arise
+	slant 61
+	stall 2
+	3
+shade
+	arise
+	haste 29
+	shape 6
+	shave 5
+	shade 4
+	5
+lyric
+	arise
+	birch 20
+	lyric 2
+	3
+creme
+	arise
+	trope 21
+	creme 2
+	3
+ferry
+	arise
+	outer 100
+	clerk 15
+	ferry 3
+	4
+hobby
+	arise
+	could 168
+	boozy 14
+	hobby 1
+	4
+armor
+	arise
+	armor 6
+	2
+gaunt
+	arise
+	canal 154
+	gaunt 9
+	3
+sneak
+	arise
+	stead 10
+	sneak 2
+	3
+shall
+	arise
+	slant 61
+	scaly 6
+	shall 2
+	4
+beech
+	arise
+	olden 121
+	beech 12
+	3
+lodge
+	arise
+	lunge 61
+	lodge 2
+	3
+biome
+	arise
+	binge 25
+	biome 2
+	3
+curse
+	arise
+	rouse 9
+	nurse 3
+	curse 2
+	4
+cabal
+	arise
+	canal 154
+	cabal 1
+	3
+nasal
+	arise
+	slant 61
+	nasal 1
+	3
+scare
+	arise
+	spare 5
+	scare 4
+	3
+route
+	arise
+	verge 25
+	rhyme 4
+	route 1
+	4
+scrap
+	arise
+	strap 23
+	scrap 1
+	3
+range
+	arise
+	barge 8
+	range 1
+	3
+along
+	arise
+	aloft 29
+	along 2
+	3
+slash
+	arise
+	slash 25
+	2
+puffy
+	arise
+	could 168
+	humph 15
+	puffy 2
+	4
+arbor
+	arise
+	armor 6
+	arbor 2
+	3
+mercy
+	arise
+	outer 100
+	clerk 15
+	mercy 2
+	4
+mossy
+	arise
+	floss 17
+	mossy 2
+	3
+parka
+	arise
+	carol 62
+	party 10
+	parka 1
+	4
+diner
+	arise
+	ripen 34
+	diner 5
+	3
+apple
+	arise
+	abate 20
+	ankle 7
+	apple 2
+	4
+showy
+	arise
+	stunk 80
+	scowl 12
+	showy 1
+	4
+stack
+	arise
+	slant 61
+	stack 4
+	3
+wispy
+	arise
+	stoic 21
+	wispy 3
+	3
+riser
+	arise
+	riser 7
+	2
+peace
+	arise
+	cable 47
+	peace 1
+	3
+bully
+	arise
+	could 168
+	gully 3
+	bully 2
+	4
+abuse
+	arise
+	abuse 3
+	2
+shrug
+	arise
+	short 25
+	shrug 2
+	3
+macho
+	arise
+	canal 154
+	match 10
+	macho 1
+	4
+uncut
+	arise
+	could 168
+	hunch 8
+	uncut 1
+	4
+rebar
+	arise
+	later 61
+	rebar 3
+	3
+broil
+	arise
+	orbit 7
+	broil 1
+	3
+slush
+	arise
+	floss 17
+	slush 1
+	3
+venue
+	arise
+	lunge 61
+	venue 1
+	3
+perky
+	arise
+	outer 100
+	clerk 15
+	perky 2
+	4
+knife
+	arise
+	utile 23
+	opine 8
+	knife 1
+	4
+silky
+	arise
+	stoic 21
+	silky 3
+	3
+pride
+	arise
+	tripe 17
+	pride 4
+	3
+shock
+	arise
+	stunk 80
+	shock 4
+	3
+speck
+	arise
+	spelt 41
+	speed 3
+	speck 1
+	4
+speak
+	arise
+	stead 10
+	sneak 2
+	speak 1
+	4
+chick
+	arise
+	cling 51
+	chick 1
+	3
+vaunt
+	arise
+	canal 154
+	gaunt 9
+	vaunt 5
+	4
+tasty
+	arise
+	slant 61
+	pasta 4
+	hasty 2
+	tasty 1
+	5
+witch
+	arise
+	pilot 107
+	ditch 13
+	witch 2
+	4
+daunt
+	arise
+	canal 154
+	gaunt 9
+	vaunt 5
+	daunt 4
+	5
+drill
+	arise
+	drink 22
+	drill 2
+	3
+sixth
+	arise
+	stoic 21
+	sixth 3
+	3
+forty
+	arise
+	torch 64
+	forty 1
+	3
+leapt
+	arise
+	metal 79
+	leapt 4
+	3
+folly
+	arise
+	could 168
+	holly 8
+	folly 3
+	4
+mealy
+	arise
+	metal 79
+	mealy 1
+	3
+forge
+	arise
+	verge 25
+	forge 3
+	3
+villa
+	arise
+	panic 35
+	viola 5
+	villa 1
+	4
+crack
+	arise
+	grant 35
+	wrack 10
+	crack 1
+	4
+horny
+	arise
+	torch 64
+	horny 1
+	3
+rival
+	arise
+	nadir 17
+	circa 4
+	rival 1
+	4
+nobly
+	arise
+	could 168
+	holly 8
+	nobly 2
+	4
+prune
+	arise
+	trope 21
+	prune 2
+	3
+gusto
+	arise
+	stunk 80
+	gusto 5
+	3
+stout
+	arise
+	stunk 80
+	stout 1
+	3
+pivot
+	arise
+	pilot 107
+	pivot 1
+	3
+whelp
+	arise
+	olden 121
+	belly 10
+	whelp 2
+	4
+cress
+	arise
+	cress 6
+	2
+frock
+	arise
+	trunk 49
+	frock 4
+	3
+psalm
+	arise
+	slant 61
+	psalm 1
+	3
+fluke
+	arise
+	lunge 61
+	flume 6
+	fluke 2
+	4
+unfed
+	arise
+	olden 121
+	unfed 3
+	3
+bleak
+	arise
+	metal 79
+	glean 4
+	bleak 2
+	4
+ovoid
+	arise
+	pilot 107
+	comic 4
+	ovoid 1
+	4
+frame
+	arise
+	grace 18
+	drake 6
+	frame 2
+	4
+spend
+	arise
+	spelt 41
+	speed 3
+	spend 1
+	4
+gaily
+	arise
+	taint 9
+	gaily 2
+	3
+coast
+	arise
+	slash 25
+	coast 3
+	3
+truer
+	arise
+	creed 22
+	truer 2
+	3
+inbox
+	arise
+	pilot 107
+	inbox 1
+	3
+druid
+	arise
+	orbit 7
+	druid 1
+	3
+piano
+	arise
+	panic 35
+	piano 1
+	3
+bough
+	arise
+	could 168
+	mouth 7
+	bough 1
+	4
+vowel
+	arise
+	olden 121
+	hotel 7
+	vowel 2
+	4
+prime
+	arise
+	tripe 17
+	pride 4
+	prime 3
+	4
+elfin
+	arise
+	widen 35
+	elfin 2
+	3
+gloom
+	arise
+	could 168
+	bloom 5
+	gloom 1
+	4
+inlet
+	arise
+	widen 35
+	inlet 1
+	3
+worse
+	arise
+	rouse 9
+	worse 2
+	3
+grove
+	arise
+	trope 21
+	drove 7
+	grove 1
+	4
+waver
+	arise
+	later 61
+	wager 15
+	waver 2
+	4
+noise
+	arise
+	noise 3
+	2
+trait
+	arise
+	train 9
+	trait 2
+	3
+scant
+	arise
+	slant 61
+	scant 1
+	3
+cleft
+	arise
+	olden 121
+	fleck 4
+	cleft 1
+	4
+undue
+	arise
+	lunge 61
+	undue 1
+	3
+mange
+	arise
+	cable 47
+	gauge 8
+	mange 1
+	4
+quilt
+	arise
+	cling 51
+	quilt 4
+	3
+bobby
+	arise
+	could 168
+	boozy 14
+	bobby 1
+	4
+clang
+	arise
+	canal 154
+	clang 2
+	3
+guess
+	arise
+	guess 9
+	2
+tweed
+	arise
+	olden 121
+	tweed 3
+	3
+would
+	arise
+	could 168
+	would 1
+	3
+golly
+	arise
+	could 168
+	holly 8
+	folly 3
+	golly 2
+	5
+smell
+	arise
+	spelt 41
+	smell 4
+	3
+towel
+	arise
+	olden 121
+	hotel 7
+	towel 1
+	4
+tatty
+	arise
+	canal 154
+	datum 20
+	tatty 4
+	4
+meaty
+	arise
+	metal 79
+	meaty 2
+	3
+rusty
+	arise
+	short 25
+	rusty 1
+	3
+brown
+	arise
+	trunk 49
+	brown 5
+	3
+myrrh
+	arise
+	torch 64
+	myrrh 1
+	3
+straw
+	arise
+	strap 23
+	straw 2
+	3
+groom
+	arise
+	trunk 49
+	droop 13
+	groom 2
+	4
+pedal
+	arise
+	metal 79
+	decal 5
+	pedal 1
+	4
+fight
+	arise
+	pilot 107
+	might 6
+	fight 4
+	4
+rhyme
+	arise
+	verge 25
+	rhyme 4
+	3
+segue
+	arise
+	stone 17
+	segue 1
+	3
+blurb
+	arise
+	torch 64
+	blurb 3
+	3
+afire
+	arise
+	afire 1
+	2
+picky
+	arise
+	pilot 107
+	picky 4
+	3
+pooch
+	arise
+	could 168
+	botch 3
+	pooch 1
+	4
+wield
+	arise
+	widen 35
+	wield 1
+	3
+cadet
+	arise
+	metal 79
+	cadet 6
+	3
+stone
+	arise
+	stone 17
+	2
+filmy
+	arise
+	pilot 107
+	filmy 7
+	3
+bland
+	arise
+	canal 154
+	blank 6
+	bland 1
+	4
+habit
+	arise
+	panic 35
+	maxim 4
+	habit 2
+	4
+shown
+	arise
+	stunk 80
+	snowy 6
+	shown 1
+	4
+clump
+	arise
+	could 168
+	clump 3
+	3
+mimic
+	arise
+	pilot 107
+	windy 16
+	civic 2
+	mimic 1
+	5
+onion
+	arise
+	cling 51
+	unity 4
+	onion 1
+	4
+copse
+	arise
+	loose 20
+	copse 4
+	3
+saute
+	arise
+	haste 29
+	saute 1
+	3
+moral
+	arise
+	carol 62
+	moral 1
+	3
+about
+	arise
+	aloft 29
+	adopt 2
+	about 1
+	4
+foyer
+	arise
+	outer 100
+	rower 19
+	mover 10
+	joker 5
+	boxer 3
+	foyer 2
+	7
+tribe
+	arise
+	tripe 17
+	tribe 3
+	3
+which
+	arise
+	cling 51
+	quick 4
+	which 1
+	4
+donor
+	arise
+	torch 64
+	mourn 7
+	donor 1
+	4
+index
+	arise
+	widen 35
+	index 1
+	3
+melee
+	arise
+	lunge 61
+	belle 8
+	melee 2
+	4
+crane
+	arise
+	grace 18
+	crane 4
+	3
+tried
+	arise
+	fried 9
+	tried 4
+	3
+wench
+	arise
+	olden 121
+	wench 6
+	3
+beard
+	arise
+	later 61
+	ready 12
+	beard 2
+	4
+spike
+	arise
+	spine 15
+	spice 3
+	spike 2
+	4
+aphid
+	arise
+	admit 13
+	aphid 3
+	3
+mambo
+	arise
+	canal 154
+	datum 20
+	mambo 2
+	4
+boozy
+	arise
+	could 168
+	boozy 14
+	3
+strap
+	arise
+	strap 23
+	2
+these
+	arise
+	loose 20
+	these 5
+	3
+midge
+	arise
+	binge 25
+	midge 2
+	3
+binge
+	arise
+	binge 25
+	2
+coyly
+	arise
+	could 168
+	coyly 1
+	3
+zonal
+	arise
+	canal 154
+	zonal 2
+	3
+pygmy
+	arise
+	could 168
+	pygmy 2
+	3
+scent
+	arise
+	spelt 41
+	sheet 3
+	scent 1
+	4
+skimp
+	arise
+	stink 29
+	skimp 4
+	3
+satin
+	arise
+	slain 12
+	satin 1
+	3
+quill
+	arise
+	cling 51
+	quilt 4
+	quill 1
+	4
+chock
+	arise
+	could 168
+	chock 1
+	3
+polka
+	arise
+	canal 154
+	llama 8
+	polka 1
+	4
+swash
+	arise
+	slash 25
+	swash 3
+	3
+amuse
+	arise
+	abuse 3
+	amuse 1
+	3
+await
+	arise
+	admit 13
+	await 1
+	3
+tonga
+	arise
+	canal 154
+	tonga 2
+	3
+refit
+	arise
+	ripen 34
+	refit 3
+	3
+spite
+	arise
+	spine 15
+	spice 3
+	spike 2
+	spite 1
+	5
+agape
+	arise
+	abate 20
+	agape 4
+	3
+igloo
+	arise
+	pilot 107
+	igloo 1
+	3
+tarot
+	arise
+	carol 62
+	tarot 2
+	3
+throb
+	arise
+	torch 64
+	throw 2
+	throb 1
+	4
+cinch
+	arise
+	pilot 107
+	windy 16
+	cinch 3
+	4
+glove
+	arise
+	lunge 61
+	glove 2
+	3
+right
+	arise
+	birch 20
+	right 1
+	3
+swept
+	arise
+	spelt 41
+	swept 1
+	3
+medal
+	arise
+	metal 79
+	medal 1
+	3
+lithe
+	arise
+	binge 25
+	tilde 8
+	lithe 1
+	4
+trade
+	arise
+	grace 18
+	drake 6
+	trade 1
+	4
+cavil
+	arise
+	panic 35
+	cavil 2
+	3
+abode
+	arise
+	abate 20
+	abode 2
+	3
+burnt
+	arise
+	torch 64
+	burnt 1
+	3
+savvy
+	arise
+	slant 61
+	scuba 7
+	savvy 3
+	4
+butte
+	arise
+	lunge 61
+	butte 3
+	3
+femur
+	arise
+	outer 100
+	lemur 4
+	femur 2
+	4
+stole
+	arise
+	stone 17
+	stove 3
+	stole 2
+	4
+topaz
+	arise
+	canal 154
+	topaz 2
+	3
+shuck
+	arise
+	stunk 80
+	shuck 2
+	3
+botch
+	arise
+	could 168
+	botch 3
+	3
+lasso
+	arise
+	slash 25
+	lasso 1
+	3
+dingy
+	arise
+	pilot 107
+	windy 16
+	dingy 1
+	4
+crept
+	arise
+	creed 22
+	crept 1
+	3
+roach
+	arise
+	carol 62
+	roach 1
+	3
+toxin
+	arise
+	pilot 107
+	toxin 4
+	3
+again
+	arise
+	admit 13
+	again 4
+	3
+itchy
+	arise
+	pilot 107
+	itchy 2
+	3
+optic
+	arise
+	pilot 107
+	optic 2
+	3
+widow
+	arise
+	pilot 107
+	widow 1
+	3
+bilge
+	arise
+	binge 25
+	bilge 1
+	3
+skier
+	arise
+	skier 1
+	2
+guava
+	arise
+	canal 154
+	mamma 5
+	guava 1
+	4
+fancy
+	arise
+	canal 154
+	fancy 1
+	3
+revel
+	arise
+	outer 100
+	revel 4
+	3
+gauge
+	arise
+	cable 47
+	gauge 8
+	3
+droop
+	arise
+	trunk 49
+	droop 13
+	3
+lease
+	arise
+	lapse 10
+	lease 1
+	3
+rotor
+	arise
+	torch 64
+	motor 3
+	rotor 1
+	4
+safer
+	arise
+	smear 6
+	safer 2
+	3
+carat
+	arise
+	carol 62
+	carat 2
+	3
+sharp
+	arise
+	strap 23
+	sharp 1
+	3
+alter
+	arise
+	alter 6
+	2
+snort
+	arise
+	short 25
+	snort 2
+	3
+afoul
+	arise
+	aloft 29
+	afoul 1
+	3
+allow
+	arise
+	aloft 29
+	allow 2
+	3
+sepia
+	arise
+	sepia 1
+	2
+shrew
+	arise
+	sheer 20
+	shrew 1
+	3
+brass
+	arise
+	brass 7
+	2
+deuce
+	arise
+	lunge 61
+	etude 4
+	deuce 1
+	4
+lynch
+	arise
+	could 168
+	lynch 1
+	3
+hippo
+	arise
+	pilot 107
+	hippo 1
+	3
+ashen
+	arise
+	ashen 3
+	2
+brink
+	arise
+	drink 22
+	brink 1
+	3
+tepid
+	arise
+	widen 35
+	tepid 4
+	3
+realm
+	arise
+	later 61
+	regal 7
+	realm 1
+	4
+juror
+	arise
+	torch 64
+	furor 2
+	juror 1
+	4
+siren
+	arise
+	riser 7
+	siren 1
+	3
+surer
+	arise
+	sheer 20
+	surer 4
+	3
+udder
+	arise
+	outer 100
+	udder 5
+	3
+orbit
+	arise
+	orbit 7
+	2
+least
+	arise
+	least 5
+	2
+cable
+	arise
+	cable 47
+	2
+leper
+	arise
+	outer 100
+	fever 14
+	leper 2
+	4
+floor
+	arise
+	torch 64
+	floor 5
+	3
+story
+	arise
+	short 25
+	story 3
+	3
+brake
+	arise
+	grace 18
+	drake 6
+	brake 1
+	4
+gonad
+	arise
+	canal 154
+	gonad 1
+	3
+phone
+	arise
+	lunge 61
+	phone 2
+	3
+brunt
+	arise
+	trunk 49
+	brunt 2
+	3
+theta
+	arise
+	metal 79
+	cadet 6
+	theta 1
+	4
+aisle
+	arise
+	aisle 1
+	2
+defer
+	arise
+	outer 100
+	fever 14
+	defer 2
+	4
+eaten
+	arise
+	metal 79
+	eaten 1
+	3
+cubic
+	arise
+	pilot 107
+	cubic 6
+	3
+hinge
+	arise
+	binge 25
+	hinge 1
+	3
+super
+	arise
+	sheer 20
+	surer 4
+	super 1
+	4
+decor
+	arise
+	outer 100
+	decor 1
+	3
+coach
+	arise
+	canal 154
+	comma 5
+	coach 1
+	4
+flyer
+	arise
+	outer 100
+	fever 14
+	flyer 1
+	4
+olive
+	arise
+	utile 23
+	glide 3
+	olive 1
+	4
+ready
+	arise
+	later 61
+	ready 12
+	3
+match
+	arise
+	canal 154
+	match 10
+	3
+beget
+	arise
+	olden 121
+	cheek 3
+	beget 1
+	4
+heady
+	arise
+	metal 79
+	beady 5
+	heady 1
+	4
+lover
+	arise
+	outer 100
+	rower 19
+	mover 10
+	cover 3
+	lover 2
+	6
+affix
+	arise
+	admit 13
+	again 4
+	affix 1
+	4
+terra
+	arise
+	later 61
+	terra 4
+	3
+three
+	arise
+	verge 25
+	puree 2
+	three 1
+	4
+clown
+	arise
+	could 168
+	clown 3
+	3
+scuba
+	arise
+	slant 61
+	scuba 7
+	3
+thumb
+	arise
+	could 168
+	thump 2
+	thumb 1
+	4
+fatty
+	arise
+	canal 154
+	datum 20
+	tatty 4
+	fatty 3
+	5
+ranch
+	arise
+	carol 62
+	ranch 1
+	3
+sloth
+	arise
+	stunk 80
+	sloth 4
+	3
+derby
+	arise
+	outer 100
+	clerk 15
+	derby 2
+	4
+natal
+	arise
+	canal 154
+	naval 2
+	natal 1
+	4
+trick
+	arise
+	drink 22
+	brick 4
+	trick 3
+	4
+worth
+	arise
+	torch 64
+	forth 3
+	worth 2
+	4
+drama
+	arise
+	grant 35
+	wrack 10
+	drama 3
+	4
+needy
+	arise
+	olden 121
+	needy 1
+	3
+punch
+	arise
+	could 168
+	hunch 8
+	punch 3
+	4
+prank
+	arise
+	grant 35
+	prank 5
+	3
+mushy
+	arise
+	stunk 80
+	mushy 8
+	3
+eerie
+	arise
+	rifle 5
+	eerie 1
+	3
+infer
+	arise
+	ripen 34
+	inter 3
+	infer 2
+	4
+plier
+	arise
+	plier 4
+	2
+stiff
+	arise
+	stink 29
+	still 3
+	stiff 1
+	4
+style
+	arise
+	stone 17
+	style 1
+	3
+beret
+	arise
+	outer 100
+	beret 3
+	3
+fifth
+	arise
+	pilot 107
+	ditch 13
+	ninth 2
+	fifth 1
+	5
+tiger
+	arise
+	ripen 34
+	diver 10
+	fiber 5
+	tiger 2
+	5
+usage
+	arise
+	haste 29
+	slave 7
+	usage 1
+	4
+gazer
+	arise
+	later 61
+	wager 15
+	gamer 3
+	gazer 2
+	5
+joker
+	arise
+	outer 100
+	rower 19
+	mover 10
+	joker 5
+	5
+whack
+	arise
+	canal 154
+	whack 3
+	3
+graze
+	arise
+	grace 18
+	graze 5
+	3
+pinch
+	arise
+	pilot 107
+	picky 4
+	pinch 1
+	4
+lofty
+	arise
+	could 168
+	lofty 4
+	3
+vital
+	arise
+	panic 35
+	viola 5
+	vital 1
+	4
+broad
+	arise
+	grant 35
+	broad 2
+	3
+spade
+	arise
+	haste 29
+	slave 7
+	spade 3
+	4
+newer
+	arise
+	outer 100
+	fever 14
+	leper 2
+	newer 1
+	5
+bezel
+	arise
+	olden 121
+	bevel 8
+	bezel 2
+	4
+crook
+	arise
+	trunk 49
+	frock 4
+	crook 1
+	4
+crude
+	arise
+	trope 21
+	creme 2
+	crude 1
+	4
+slung
+	arise
+	stunk 80
+	slung 3
+	3
+sweep
+	arise
+	spelt 41
+	sweep 2
+	3
+shark
+	arise
+	strap 23
+	shark 7
+	3
+debut
+	arise
+	olden 121
+	debut 4
+	3
+relic
+	arise
+	ripen 34
+	refit 3
+	relic 1
+	4
+opine
+	arise
+	utile 23
+	opine 8
+	3
+swine
+	arise
+	spine 15
+	swine 2
+	3
+smith
+	arise
+	stink 29
+	swift 4
+	smith 1
+	4
+sting
+	arise
+	stink 29
+	sting 2
+	3
+swell
+	arise
+	spelt 41
+	smell 4
+	swell 2
+	4
+elude
+	arise
+	lunge 61
+	flume 6
+	elude 1
+	4
+billy
+	arise
+	pilot 107
+	filmy 7
+	billy 4
+	4
+bigot
+	arise
+	pilot 107
+	bigot 1
+	3
+swoop
+	arise
+	stunk 80
+	scowl 12
+	swoop 1
+	4
+shush
+	arise
+	floss 17
+	hussy 2
+	shush 1
+	4
+flame
+	arise
+	cable 47
+	plate 8
+	flame 4
+	4
+scale
+	arise
+	haste 29
+	slave 7
+	scale 1
+	4
+truss
+	arise
+	crust 10
+	truss 1
+	3
+matey
+	arise
+	metal 79
+	matey 1
+	3
+waste
+	arise
+	haste 29
+	taste 5
+	waste 4
+	4
+abase
+	arise
+	abuse 3
+	abase 1
+	3
+thorn
+	arise
+	torch 64
+	thorn 1
+	3
+flume
+	arise
+	lunge 61
+	flume 6
+	3
+freed
+	arise
+	creed 22
+	freed 3
+	3
+apnea
+	arise
+	angel 10
+	apnea 1
+	3
+voila
+	arise
+	taint 9
+	voila 2
+	3
+girly
+	arise
+	birch 20
+	girly 2
+	3
+elder
+	arise
+	outer 100
+	fever 14
+	ember 3
+	elder 1
+	5
+lower
+	arise
+	outer 100
+	rower 19
+	cower 4
+	lower 3
+	5
+spell
+	arise
+	spelt 41
+	spell 1
+	3
+lilac
+	arise
+	panic 35
+	lilac 1
+	3
+ruler
+	arise
+	outer 100
+	ruler 5
+	3
+swung
+	arise
+	stunk 80
+	slung 3
+	swung 1
+	4
+issue
+	arise
+	siege 5
+	issue 1
+	3
+flare
+	arise
+	barge 8
+	flare 1
+	3
+fault
+	arise
+	canal 154
+	dally 10
+	fault 2
+	4
+drier
+	arise
+	fried 9
+	drier 1
+	3
+hilly
+	arise
+	pilot 107
+	filmy 7
+	billy 4
+	hilly 3
+	5
+truce
+	arise
+	trope 21
+	truce 1
+	3
+forte
+	arise
+	verge 25
+	forte 4
+	3
+petal
+	arise
+	metal 79
+	petal 2
+	3
+resin
+	arise
+	riser 7
+	resin 1
+	3
+tight
+	arise
+	pilot 107
+	might 6
+	fight 4
+	tight 3
+	5
+trawl
+	arise
+	grant 35
+	trawl 4
+	3
+titan
+	arise
+	panic 35
+	giant 3
+	titan 1
+	4
+stake
+	arise
+	haste 29
+	stake 4
+	3
+tangy
+	arise
+	canal 154
+	tangy 9
+	3
+steep
+	arise
+	spelt 41
+	steep 1
+	3
+lever
+	arise
+	outer 100
+	fever 14
+	lever 2
+	4
+guard
+	arise
+	carol 62
+	dwarf 7
+	guard 1
+	4
+broom
+	arise
+	trunk 49
+	droop 13
+	groom 2
+	broom 1
+	5
+shoal
+	arise
+	slant 61
+	sadly 5
+	shoal 1
+	4
+brisk
+	arise
+	brisk 5
+	2
+miser
+	arise
+	riser 7
+	miser 2
+	3
+stave
+	arise
+	haste 29
+	stake 4
+	stave 3
+	4
+clock
+	arise
+	could 168
+	clown 3
+	clock 2
+	4
+place
+	arise
+	cable 47
+	place 1
+	3
+sugar
+	arise
+	strap 23
+	solar 3
+	sugar 1
+	4
+alert
+	arise
+	alter 6
+	alert 1
+	3
+hairy
+	arise
+	hairy 5
+	2
+every
+	arise
+	outer 100
+	clerk 15
+	every 1
+	4
+demon
+	arise
+	olden 121
+	demon 1
+	3
+enema
+	arise
+	metal 79
+	enema 3
+	3
+quick
+	arise
+	cling 51
+	thick 4
+	quick 1
+	4
+rally
+	arise
+	carol 62
+	rally 2
+	3
+bonus
+	arise
+	stunk 80
+	bonus 1
+	3
+dusky
+	arise
+	stunk 80
+	musky 3
+	dusky 2
+	4
+ardor
+	arise
+	armor 6
+	arbor 2
+	ardor 1
+	4
+leave
+	arise
+	cable 47
+	plate 8
+	leave 1
+	4
+surge
+	arise
+	scree 10
+	surge 1
+	3
+night
+	arise
+	pilot 107
+	might 6
+	fight 4
+	tight 3
+	night 2
+	6
+paint
+	arise
+	taint 9
+	faint 2
+	paint 1
+	4
+comfy
+	arise
+	could 168
+	comfy 2
+	3
+blurt
+	arise
+	torch 64
+	blurt 1
+	3
+scamp
+	arise
+	slant 61
+	scamp 7
+	3
+skirt
+	arise
+	shirk 5
+	skirt 1
+	3
+woken
+	arise
+	olden 121
+	woken 5
+	3
+bless
+	arise
+	guess 9
+	bless 2
+	3
+mucky
+	arise
+	could 168
+	hunch 8
+	mucky 1
+	4
+hover
+	arise
+	outer 100
+	rower 19
+	mover 10
+	cover 3
+	lover 2
+	hover 1
+	7
+watch
+	arise
+	canal 154
+	match 10
+	watch 4
+	4
+quack
+	arise
+	canal 154
+	whack 3
+	quack 1
+	4
+power
+	arise
+	outer 100
+	rower 19
+	cower 4
+	lower 3
+	power 2
+	6
+louse
+	arise
+	loose 20
+	louse 1
+	3
+couch
+	arise
+	could 168
+	cough 3
+	couch 1
+	4
+fella
+	arise
+	metal 79
+	leaky 4
+	fella 1
+	4
+stair
+	arise
+	stair 1
+	2
+sworn
+	arise
+	short 25
+	scorn 3
+	sworn 1
+	4
+dwell
+	arise
+	olden 121
+	dwell 2
+	3
+erode
+	arise
+	trope 21
+	drove 7
+	erode 1
+	4
+rupee
+	arise
+	verge 25
+	there 3
+	rupee 1
+	4
+happy
+	arise
+	canal 154
+	datum 20
+	gawky 4
+	happy 2
+	5
+ninja
+	arise
+	panic 35
+	ninja 2
+	3
+noisy
+	arise
+	hoist 9
+	noisy 1
+	3
+toast
+	arise
+	slash 25
+	coast 3
+	toast 2
+	4
+crick
+	arise
+	drink 22
+	brick 4
+	trick 3
+	crick 2
+	5
+bluff
+	arise
+	could 168
+	flunk 8
+	bluff 1
+	4
+solar
+	arise
+	strap 23
+	solar 3
+	3
+whisk
+	arise
+	hoist 9
+	whisk 2
+	3
+twist
+	arise
+	hoist 9
+	twist 1
+	3
+foist
+	arise
+	hoist 9
+	foist 3
+	3
+jelly
+	arise
+	olden 121
+	belly 10
+	jelly 1
+	4
+altar
+	arise
+	actor 14
+	altar 1
+	3
+trout
+	arise
+	trunk 49
+	trout 1
+	3
+wight
+	arise
+	pilot 107
+	might 6
+	fight 4
+	tight 3
+	night 2
+	wight 1
+	7
+float
+	arise
+	canal 154
+	bylaw 4
+	float 2
+	4
+minus
+	arise
+	stoic 21
+	wispy 3
+	minus 1
+	4
+glide
+	arise
+	utile 23
+	glide 3
+	3
+bride
+	arise
+	tripe 17
+	bride 7
+	3
+tunic
+	arise
+	pilot 107
+	itchy 2
+	tunic 1
+	4
+canoe
+	arise
+	cable 47
+	cache 2
+	canoe 1
+	4
+depot
+	arise
+	olden 121
+	depot 3
+	3
+arena
+	arise
+	arena 1
+	2
+idiot
+	arise
+	cling 51
+	idiot 5
+	3
+white
+	arise
+	utile 23
+	twine 3
+	white 1
+	4
+knoll
+	arise
+	could 168
+	knoll 1
+	3
+liege
+	arise
+	binge 25
+	midge 2
+	liege 1
+	4
+other
+	arise
+	outer 100
+	other 1
+	3
+recap
+	arise
+	later 61
+	ready 12
+	recap 2
+	4
+urine
+	arise
+	tripe 17
+	bride 7
+	crime 3
+	urine 1
+	5
+gusty
+	arise
+	stunk 80
+	gusto 5
+	gusty 1
+	4
+uncle
+	arise
+	lunge 61
+	uncle 1
+	3
+chest
+	arise
+	guess 9
+	chest 3
+	3
+thank
+	arise
+	canal 154
+	thank 2
+	3
+video
+	arise
+	widen 35
+	video 1
+	3
+tabby
+	arise
+	canal 154
+	datum 20
+	taffy 3
+	tabby 1
+	5
+waxen
+	arise
+	metal 79
+	waxen 5
+	3
+stern
+	arise
+	sheer 20
+	stern 2
+	3
+stint
+	arise
+	stink 29
+	sting 2
+	stint 1
+	4
+waist
+	arise
+	waist 2
+	2
+bayou
+	arise
+	canal 154
+	datum 20
+	bayou 1
+	4
+smart
+	arise
+	strap 23
+	smart 2
+	3
+queue
+	arise
+	lunge 61
+	butte 3
+	queue 1
+	4
+liner
+	arise
+	ripen 34
+	diner 5
+	liner 3
+	4
+whole
+	arise
+	lunge 61
+	belle 8
+	cycle 2
+	whole 1
+	5
+wrist
+	arise
+	brisk 5
+	prism 3
+	wrist 1
+	4
+sumac
+	arise
+	slant 61
+	scuba 7
+	sumac 1
+	4
+forgo
+	arise
+	torch 64
+	world 7
+	forgo 3
+	4
+cried
+	arise
+	fried 9
+	tried 4
+	cried 3
+	4
+whine
+	arise
+	utile 23
+	opine 8
+	whine 1
+	4
+easel
+	arise
+	stead 10
+	easel 1
+	3
+creep
+	arise
+	creed 22
+	creep 2
+	3
+surly
+	arise
+	short 25
+	scrum 4
+	surly 1
+	4
+angel
+	arise
+	angel 10
+	2
+basic
+	arise
+	slain 12
+	basic 2
+	3
+lousy
+	arise
+	floss 17
+	lousy 1
+	3
+afoot
+	arise
+	aloft 29
+	afoot 1
+	3
+grunt
+	arise
+	trunk 49
+	brunt 2
+	grunt 1
+	4
+arrow
+	arise
+	armor 6
+	arrow 1
+	3
+outgo
+	arise
+	could 168
+	outgo 7
+	3
+briny
+	arise
+	drink 22
+	bring 4
+	briny 1
+	4
+betel
+	arise
+	olden 121
+	bevel 8
+	bezel 2
+	betel 1
+	5
+mason
+	arise
+	slant 61
+	mason 1
+	3
+badge
+	arise
+	cable 47
+	badge 3
+	3
+chafe
+	arise
+	cable 47
+	chafe 1
+	3
+after
+	arise
+	alter 6
+	after 1
+	3
+banjo
+	arise
+	canal 154
+	tangy 9
+	banjo 1
+	4
+sower
+	arise
+	sheer 20
+	surer 4
+	sower 2
+	4
+suave
+	arise
+	haste 29
+	slave 7
+	suave 1
+	4
+tonic
+	arise
+	pilot 107
+	toxin 4
+	tonic 1
+	4
+entry
+	arise
+	outer 100
+	entry 3
+	3
+twine
+	arise
+	utile 23
+	twine 3
+	3
+flint
+	arise
+	cling 51
+	blink 3
+	flint 1
+	4
+wimpy
+	arise
+	pilot 107
+	hippy 2
+	wimpy 1
+	4
+manly
+	arise
+	canal 154
+	manly 2
+	3
+braid
+	arise
+	train 9
+	frail 3
+	braid 1
+	4
+vegan
+	arise
+	metal 79
+	began 5
+	vegan 1
+	4
+mound
+	arise
+	could 168
+	mound 6
+	3
+caper
+	arise
+	later 61
+	wager 15
+	parer 8
+	caper 1
+	5
+snarl
+	arise
+	strap 23
+	shark 7
+	scary 4
+	snarl 2
+	5
+salve
+	arise
+	haste 29
+	salve 2
+	3
+outer
+	arise
+	outer 100
+	2
+guppy
+	arise
+	could 168
+	humph 15
+	guppy 2
+	4
+vapid
+	arise
+	panic 35
+	vapid 1
+	3
+annoy
+	arise
+	aloft 29
+	annoy 1
+	3
+freak
+	arise
+	tread 11
+	freak 5
+	3
+pinky
+	arise
+	pilot 107
+	picky 4
+	pinky 1
+	4
+liken
+	arise
+	widen 35
+	liken 4
+	3
+prude
+	arise
+	trope 21
+	prune 2
+	prude 1
+	4
+caste
+	arise
+	haste 29
+	taste 5
+	waste 4
+	caste 3
+	5
+naive
+	arise
+	naive 3
+	2
+truly
+	arise
+	trunk 49
+	truly 3
+	3
+heart
+	arise
+	later 61
+	terra 4
+	heart 1
+	4
+cramp
+	arise
+	grant 35
+	wrack 10
+	cramp 2
+	4
+payee
+	arise
+	cable 47
+	gauge 8
+	payee 1
+	4
+canal
+	arise
+	canal 154
+	2
+dowel
+	arise
+	olden 121
+	dowel 1
+	3
+homer
+	arise
+	outer 100
+	rower 19
+	mover 10
+	homer 1
+	5
+arise
+	arise
+	-1
+hyper
+	arise
+	outer 100
+	fever 14
+	hyper 2
+	4
+crimp
+	arise
+	drink 22
+	primo 8
+	crimp 1
+	4
+spurt
+	arise
+	short 25
+	spurt 1
+	3
+crime
+	arise
+	tripe 17
+	bride 7
+	grime 3
+	crime 1
+	5
+being
+	arise
+	edict 15
+	feign 4
+	being 1
+	4
+skunk
+	arise
+	stunk 80
+	skunk 3
+	3
+rumba
+	arise
+	carol 62
+	dwarf 7
+	rumba 1
+	4
+bribe
+	arise
+	tripe 17
+	bride 7
+	bribe 2
+	4
+ripen
+	arise
+	ripen 34
+	2
+hefty
+	arise
+	olden 121
+	beech 12
+	hefty 1
+	4
+quota
+	arise
+	canal 154
+	dogma 5
+	quota 1
+	4
+sneer
+	arise
+	sheer 20
+	sneer 2
+	3
+prize
+	arise
+	tripe 17
+	prime 4
+	pride 3
+	prize 2
+	5
+sooth
+	arise
+	stunk 80
+	sloth 4
+	sooth 1
+	4
+value
+	arise
+	cable 47
+	halve 5
+	value 1
+	4
+squad
+	arise
+	slant 61
+	scuba 7
+	squad 1
+	4
+prism
+	arise
+	brisk 5
+	prism 3
+	3
+scion
+	arise
+	stink 29
+	scion 2
+	3
+hyena
+	arise
+	metal 79
+	waxen 5
+	hyena 1
+	4
+slang
+	arise
+	slant 61
+	slang 1
+	3
+mamma
+	arise
+	canal 154
+	mamma 4
+	3
+slick
+	arise
+	stink 29
+	slick 1
+	3
+shorn
+	arise
+	short 25
+	shorn 1
+	3
+axiom
+	arise
+	axion 9
+	axiom 1
+	3
+baker
+	arise
+	later 61
+	wager 15
+	parer 8
+	baker 2
+	5
+reply
+	arise
+	outer 100
+	clerk 15
+	reply 1
+	4
+daily
+	arise
+	taint 9
+	gaily 2
+	daily 1
+	4
+drool
+	arise
+	trunk 49
+	droop 13
+	drool 1
+	4
+plate
+	arise
+	cable 47
+	plate 8
+	3
+vogue
+	arise
+	lunge 61
+	vogue 1
+	3
+dying
+	arise
+	cling 51
+	doing 7
+	dying 1
+	4
+tough
+	arise
+	could 168
+	mouth 7
+	tough 1
+	4
+flair
+	arise
+	nadir 17
+	flair 2
+	3
+stalk
+	arise
+	slant 61
+	stall 2
+	stalk 1
+	4
+crash
+	arise
+	brash 7
+	trash 2
+	crash 1
+	4
+obese
+	arise
+	loose 20
+	obese 1
+	3
+craze
+	arise
+	grace 18
+	crane 4
+	craze 3
+	4
+quasi
+	arise
+	quasi 1
+	2
+shaft
+	arise
+	slant 61
+	shaft 1
+	3
+femme
+	arise
+	lunge 61
+	theme 8
+	femme 1
+	4
+honor
+	arise
+	torch 64
+	honor 1
+	3
+abled
+	arise
+	angel 10
+	alley 2
+	abled 1
+	4
+steam
+	arise
+	stead 10
+	steam 3
+	3
+shelf
+	arise
+	spelt 41
+	smell 4
+	shelf 1
+	4
+synod
+	arise
+	stunk 80
+	snowy 6
+	synod 1
+	4
+embed
+	arise
+	olden 121
+	tweed 3
+	embed 1
+	4
+loose
+	arise
+	loose 20
+	2
+crumb
+	arise
+	trunk 49
+	crumb 3
+	3
+guile
+	arise
+	utile 23
+	guile 1
+	3
+admin
+	arise
+	admit 13
+	admin 1
+	3
+roost
+	arise
+	burst 4
+	roost 1
+	3
+angst
+	arise
+	amass 4
+	angst 1
+	3
+dealt
+	arise
+	metal 79
+	leapt 4
+	dealt 1
+	4
+smoky
+	arise
+	stunk 80
+	smoky 1
+	3
+metal
+	arise
+	metal 79
+	2
+grope
+	arise
+	trope 21
+	grope 1
+	3
+tramp
+	arise
+	grant 35
+	trawl 4
+	tramp 2
+	4
+inert
+	arise
+	ripen 34
+	inert 1
+	3
+bathe
+	arise
+	cable 47
+	badge 3
+	bathe 1
+	4
+rigor
+	arise
+	birch 20
+	rigor 4
+	3
+hovel
+	arise
+	olden 121
+	hotel 7
+	hovel 1
+	4
+talon
+	arise
+	canal 154
+	talon 1
+	3
+lucid
+	arise
+	pilot 107
+	fluid 3
+	lucid 1
+	4
+drove
+	arise
+	trope 21
+	drove 7
+	3
+goofy
+	arise
+	could 168
+	boozy 14
+	goofy 1
+	4
+layer
+	arise
+	later 61
+	layer 2
+	3
+ovary
+	arise
+	carol 62
+	hoard 3
+	ovary 1
+	4
+undid
+	arise
+	pilot 107
+	cubic 6
+	undid 1
+	4
+slant
+	arise
+	slant 61
+	2
+kebab
+	arise
+	metal 79
+	began 5
+	kebab 1
+	4
+drink
+	arise
+	drink 22
+	2
+melon
+	arise
+	olden 121
+	melon 3
+	3
+miner
+	arise
+	ripen 34
+	diner 5
+	liner 3
+	miner 2
+	5
+stood
+	arise
+	stunk 80
+	stoop 4
+	stood 2
+	4
+token
+	arise
+	olden 121
+	woken 5
+	token 1
+	4
+pupal
+	arise
+	canal 154
+	total 6
+	pupal 1
+	4
+swing
+	arise
+	stink 29
+	swing 5
+	3
+wreck
+	arise
+	creed 22
+	wreck 1
+	3
+fizzy
+	arise
+	pilot 107
+	windy 16
+	fizzy 2
+	4
+savoy
+	arise
+	slant 61
+	scuba 7
+	savvy 3
+	savoy 1
+	5
+manor
+	arise
+	carol 62
+	rayon 7
+	manor 1
+	4
+pupil
+	arise
+	pilot 107
+	pupil 1
+	3
+ralph
+	arise
+	carol 62
+	rally 2
+	ralph 1
+	4
+troop
+	arise
+	trunk 49
+	troll 2
+	troop 1
+	4
+pizza
+	arise
+	panic 35
+	pizza 1
+	3
+delve
+	arise
+	lunge 61
+	belle 8
+	melee 2
+	delve 1
+	5
+world
+	arise
+	torch 64
+	world 7
+	3
+friar
+	arise
+	briar 4
+	friar 1
+	3
+erupt
+	arise
+	creed 22
+	error 2
+	erupt 1
+	4
+shout
+	arise
+	stunk 80
+	shout 3
+	3
+gloat
+	arise
+	canal 154
+	bylaw 4
+	float 2
+	gloat 1
+	5
+water
+	arise
+	later 61
+	cater 4
+	water 3
+	4
+whiny
+	arise
+	cling 51
+	joint 4
+	whiny 1
+	4
+avail
+	arise
+	admit 13
+	again 4
+	avail 1
+	4
+unmet
+	arise
+	olden 121
+	unmet 2
+	3
+adore
+	arise
+	azure 4
+	adore 2
+	3
+music
+	arise
+	stoic 21
+	music 1
+	3
+belle
+	arise
+	lunge 61
+	belle 8
+	3
+cause
+	arise
+	lapse 10
+	cause 2
+	3
+weedy
+	arise
+	olden 121
+	debut 4
+	weedy 1
+	4
+beady
+	arise
+	metal 79
+	beady 5
+	3
+enact
+	arise
+	metal 79
+	cadet 6
+	enact 2
+	4
+sheep
+	arise
+	spelt 41
+	sweep 2
+	sheep 1
+	4
+enter
+	arise
+	outer 100
+	meter 3
+	enter 1
+	4
+brine
+	arise
+	tripe 17
+	bride 7
+	bribe 2
+	brine 1
+	5
+elope
+	arise
+	lunge 61
+	belle 8
+	elope 1
+	4
+kappa
+	arise
+	canal 154
+	mamma 4
+	kappa 1
+	4
+today
+	arise
+	canal 154
+	topaz 2
+	today 1
+	4
+sunny
+	arise
+	stunk 80
+	sunny 1
+	3
+breed
+	arise
+	creed 22
+	freed 3
+	breed 2
+	4
+charm
+	arise
+	carol 62
+	charm 3
+	3
+quart
+	arise
+	carol 62
+	dwarf 7
+	quart 2
+	4
+soapy
+	arise
+	slant 61
+	scamp 7
+	soapy 1
+	4
+piper
+	arise
+	ripen 34
+	piper 2
+	3
+delay
+	arise
+	metal 79
+	delay 1
+	3
+pearl
+	arise
+	later 61
+	regal 7
+	pearl 1
+	4
+axial
+	arise
+	axion 9
+	axial 1
+	3
+flask
+	arise
+	slash 25
+	flask 3
+	3
+twixt
+	arise
+	cling 51
+	idiot 5
+	twixt 1
+	4
+essay
+	arise
+	stead 10
+	essay 1
+	3
+madly
+	arise
+	canal 154
+	dally 10
+	madly 2
+	4
+curio
+	arise
+	birch 20
+	lyric 2
+	curio 1
+	4
+brood
+	arise
+	trunk 49
+	droop 13
+	brood 1
+	4
+fanny
+	arise
+	canal 154
+	tangy 9
+	fanny 4
+	4
+gruel
+	arise
+	creed 22
+	truer 2
+	gruel 1
+	4
+pried
+	arise
+	fried 9
+	tried 4
+	cried 3
+	pried 2
+	5
+fritz
+	arise
+	drink 22
+	primo 8
+	fritz 3
+	4
+reset
+	arise
+	sheer 20
+	reset 1
+	3
+pudgy
+	arise
+	could 168
+	dumpy 5
+	pudgy 1
+	4
+above
+	arise
+	abate 20
+	abode 2
+	above 1
+	4
+hurry
+	arise
+	torch 64
+	hurry 1
+	3
+blunt
+	arise
+	could 168
+	flunk 8
+	blunt 1
+	4
+ivory
+	arise
+	birch 20
+	ivory 2
+	3
+debug
+	arise
+	olden 121
+	debut 4
+	debug 1
+	4
+sweat
+	arise
+	stead 10
+	sweat 1
+	3
+lumpy
+	arise
+	could 168
+	lumpy 3
+	3
+arose
+	arise
+	arose 1
+	2
+slope
+	arise
+	stone 17
+	slope 5
+	3
+steel
+	arise
+	spelt 41
+	steel 1
+	3
+drone
+	arise
+	trope 21
+	drove 7
+	drone 1
+	4
+favor
+	arise
+	carol 62
+	rayon 7
+	favor 3
+	4
+house
+	arise
+	loose 20
+	copse 4
+	house 2
+	4
+swift
+	arise
+	stink 29
+	swift 4
+	3
+glean
+	arise
+	metal 79
+	glean 4
+	3
+gleam
+	arise
+	metal 79
+	gleam 1
+	3
+badly
+	arise
+	canal 154
+	dally 10
+	madly 2
+	badly 1
+	5
+skiff
+	arise
+	stink 29
+	skimp 4
+	skiff 2
+	4
+mummy
+	arise
+	could 168
+	humph 15
+	gummy 2
+	mummy 1
+	5
+ovate
+	arise
+	cable 47
+	weave 6
+	ovate 1
+	4
+hedge
+	arise
+	lunge 61
+	hedge 3
+	3
+dodgy
+	arise
+	could 168
+	dowdy 8
+	dodgy 1
+	4
+maxim
+	arise
+	panic 35
+	maxim 4
+	3
+valid
+	arise
+	panic 35
+	maxim 4
+	habit 2
+	valid 1
+	5
+apply
+	arise
+	aloft 29
+	apply 3
+	3
+gruff
+	arise
+	trunk 49
+	crumb 3
+	gruff 1
+	4
+tardy
+	arise
+	carol 62
+	party 10
+	tardy 1
+	4
+glade
+	arise
+	cable 47
+	plate 8
+	flame 4
+	glade 2
+	5
+rogue
+	arise
+	verge 25
+	rogue 1
+	3
+manic
+	arise
+	panic 35
+	manic 1
+	3
+wager
+	arise
+	later 61
+	wager 15
+	3
+fibre
+	arise
+	rifle 5
+	fibre 1
+	3
+album
+	arise
+	aloft 29
+	alpha 3
+	album 1
+	4
+exalt
+	arise
+	metal 79
+	exalt 2
+	3
+rayon
+	arise
+	carol 62
+	rayon 7
+	3
+palsy
+	arise
+	slash 25
+	palsy 1
+	3
+payer
+	arise
+	later 61
+	wager 15
+	parer 8
+	payer 2
+	5
+grout
+	arise
+	trunk 49
+	grout 1
+	3
+erect
+	arise
+	creed 22
+	erect 1
+	3
+leafy
+	arise
+	metal 79
+	leaky 4
+	leafy 1
+	4
+posse
+	arise
+	loose 20
+	copse 4
+	posse 1
+	4
+chide
+	arise
+	utile 23
+	opine 8
+	chime 2
+	chide 1
+	5
+daisy
+	arise
+	waist 2
+	daisy 1
+	3
+overt
+	arise
+	outer 100
+	overt 1
+	3
+ovine
+	arise
+	utile 23
+	opine 8
+	ovine 1
+	4
+recur
+	arise
+	outer 100
+	lemur 4
+	recur 1
+	4
+smite
+	arise
+	spine 15
+	slime 7
+	smite 1
+	4
+scree
+	arise
+	scree 10
+	2
+primo
+	arise
+	drink 22
+	primo 8
+	3
+stuck
+	arise
+	stunk 80
+	stuck 1
+	3
+adapt
+	arise
+	aloft 29
+	adapt 1
+	3
+rural
+	arise
+	carol 62
+	rural 2
+	3
+tumor
+	arise
+	torch 64
+	tutor 2
+	tumor 1
+	4
+blank
+	arise
+	canal 154
+	blank 6
+	3
+blush
+	arise
+	floss 17
+	blush 2
+	3
+aglow
+	arise
+	aloft 29
+	aglow 1
+	3
+hotel
+	arise
+	olden 121
+	hotel 7
+	3
+stein
+	arise
+	stein 4
+	2
+agent
+	arise
+	angel 10
+	agent 1
+	3
+grace
+	arise
+	grace 18
+	2
+yeast
+	arise
+	least 5
+	yeast 3
+	3
+abbot
+	arise
+	aloft 29
+	abbot 1
+	3
+mourn
+	arise
+	torch 64
+	mourn 7
+	3
+harsh
+	arise
+	harsh 3
+	2
+wrath
+	arise
+	grant 35
+	trawl 4
+	wrath 1
+	4
+crazy
+	arise
+	grant 35
+	wrack 10
+	cramp 2
+	crazy 1
+	5
+amend
+	arise
+	angel 10
+	amend 1
+	3
+vault
+	arise
+	canal 154
+	dally 10
+	fault 2
+	vault 1
+	5
+purer
+	arise
+	outer 100
+	ruler 5
+	purer 1
+	4
+width
+	arise
+	pilot 107
+	ditch 13
+	width 1
+	4
+wring
+	arise
+	drink 22
+	bring 4
+	wring 1
+	4
+lurid
+	arise
+	birch 20
+	lurid 1
+	3
+smear
+	arise
+	smear 6
+	2
+reedy
+	arise
+	outer 100
+	clerk 15
+	reedy 1
+	4
+drift
+	arise
+	drink 22
+	drill 2
+	drift 1
+	4
+musty
+	arise
+	stunk 80
+	gusto 5
+	musty 3
+	4
+husky
+	arise
+	stunk 80
+	musky 3
+	dusky 2
+	husky 1
+	5
+borne
+	arise
+	verge 25
+	forte 4
+	horde 2
+	borne 1
+	5
+knack
+	arise
+	canal 154
+	knack 1
+	3
+croup
+	arise
+	trunk 49
+	group 3
+	croup 1
+	4
+usual
+	arise
+	slant 61
+	usual 2
+	3
+mayor
+	arise
+	carol 62
+	rayon 7
+	mayor 1
+	4
+chili
+	arise
+	cling 51
+	chill 3
+	chili 2
+	4
+email
+	arise
+	media 3
+	email 1
+	3
+stick
+	arise
+	stink 29
+	stick 1
+	3
+fever
+	arise
+	outer 100
+	fever 14
+	3
+perch
+	arise
+	outer 100
+	clerk 15
+	mercy 2
+	perch 1
+	5
+hoard
+	arise
+	carol 62
+	hoard 3
+	3
+agile
+	arise
+	alive 5
+	agile 1
+	3
+shale
+	arise
+	haste 29
+	shape 6
+	shave 5
+	shade 4
+	shale 3
+	6
+noose
+	arise
+	loose 20
+	moose 3
+	goose 2
+	noose 1
+	5
+pushy
+	arise
+	stunk 80
+	mushy 8
+	pushy 2
+	4
+labor
+	arise
+	carol 62
+	labor 2
+	3
+verse
+	arise
+	rouse 9
+	verse 2
+	3
+grief
+	arise
+	fried 9
+	grief 2
+	3
+quiet
+	arise
+	edict 15
+	quiet 1
+	3
+intro
+	arise
+	birch 20
+	ivory 2
+	intro 1
+	4
+bulky
+	arise
+	could 168
+	lumpy 3
+	bulky 1
+	4
+adage
+	arise
+	abate 20
+	agape 4
+	adage 1
+	4
+tawny
+	arise
+	canal 154
+	gaunt 9
+	tawny 1
+	4
+minty
+	arise
+	pilot 107
+	ditty 13
+	minty 2
+	4
+dusty
+	arise
+	stunk 80
+	gusto 5
+	musty 3
+	dusty 2
+	5
+found
+	arise
+	could 168
+	mound 6
+	found 5
+	4
+judge
+	arise
+	lunge 61
+	judge 3
+	3
+plush
+	arise
+	floss 17
+	blush 2
+	plush 1
+	4
+amaze
+	arise
+	abate 20
+	agape 4
+	awake 2
+	amaze 1
+	5
+balmy
+	arise
+	canal 154
+	dally 10
+	balmy 1
+	4
+grown
+	arise
+	trunk 49
+	brown 5
+	grown 4
+	4
+rapid
+	arise
+	nadir 17
+	rabid 2
+	rapid 1
+	4
+dwelt
+	arise
+	olden 121
+	dwell 2
+	dwelt 1
+	4
+spool
+	arise
+	stunk 80
+	scowl 12
+	spool 1
+	4
+trice
+	arise
+	tripe 17
+	trice 3
+	3
+pilot
+	arise
+	pilot 107
+	2
+ombre
+	arise
+	verge 25
+	rhyme 4
+	ombre 1
+	4
+flock
+	arise
+	could 168
+	flock 2
+	3
+solve
+	arise
+	stone 17
+	solve 1
+	3
+sushi
+	arise
+	stoic 21
+	silky 3
+	sushi 1
+	4
+humor
+	arise
+	torch 64
+	humor 2
+	3
+holly
+	arise
+	could 168
+	holly 8
+	3
+skill
+	arise
+	stink 29
+	skimp 4
+	skiff 2
+	skill 1
+	5
+maple
+	arise
+	cable 47
+	maple 3
+	3
+draft
+	arise
+	grant 35
+	draft 3
+	3
+wreak
+	arise
+	tread 11
+	freak 5
+	wreak 3
+	4
+awash
+	arise
+	amass 4
+	awash 1
+	3
+scope
+	arise
+	stone 17
+	slope 5
+	scope 1
+	4
+eight
+	arise
+	widen 35
+	eight 2
+	3
+shore
+	arise
+	scree 10
+	store 5
+	snore 4
+	shore 3
+	5
+later
+	arise
+	later 61
+	2
+elate
+	arise
+	cable 47
+	plate 8
+	elate 1
+	4
+wrung
+	arise
+	trunk 49
+	wrung 1
+	3
+nadir
+	arise
+	nadir 17
+	2
+ocean
+	arise
+	metal 79
+	ocean 3
+	3
+hunch
+	arise
+	could 168
+	hunch 8
+	3
+stuff
+	arise
+	stunk 80
+	stump 3
+	stuff 2
+	4
+train
+	arise
+	train 9
+	2
+vapor
+	arise
+	carol 62
+	rayon 7
+	favor 3
+	vapor 1
+	5
+paler
+	arise
+	later 61
+	paler 2
+	3
+frown
+	arise
+	trunk 49
+	brown 5
+	grown 4
+	frown 3
+	5
+finch
+	arise
+	pilot 107
+	windy 16
+	cinch 3
+	finch 1
+	5
+occur
+	arise
+	torch 64
+	occur 1
+	3
+blame
+	arise
+	cable 47
+	blaze 3
+	blame 2
+	4
+qualm
+	arise
+	canal 154
+	llama 8
+	qualm 1
+	4
+gnash
+	arise
+	slash 25
+	gnash 2
+	3
+taken
+	arise
+	metal 79
+	cadet 6
+	taken 1
+	4
+digit
+	arise
+	pilot 107
+	might 6
+	digit 1
+	4
+preen
+	arise
+	creed 22
+	green 4
+	preen 1
+	4
+dully
+	arise
+	could 168
+	dully 1
+	3
+space
+	arise
+	haste 29
+	slave 7
+	spade 3
+	space 1
+	5
+bliss
+	arise
+	hoist 9
+	bliss 1
+	3
+focal
+	arise
+	canal 154
+	focal 4
+	3
+laugh
+	arise
+	canal 154
+	dally 10
+	laugh 1
+	4
+snuck
+	arise
+	stunk 80
+	snuck 1
+	3
+money
+	arise
+	olden 121
+	money 3
+	3
+screw
+	arise
+	sheer 20
+	screw 1
+	3
+magic
+	arise
+	panic 35
+	magic 1
+	3
+graft
+	arise
+	grant 35
+	graft 1
+	3
+covey
+	arise
+	olden 121
+	covey 5
+	3
+envoy
+	arise
+	olden 121
+	envoy 4
+	3
+minim
+	arise
+	pilot 107
+	windy 16
+	cinch 3
+	minim 1
+	5
+ghost
+	arise
+	floss 17
+	ghost 2
+	3
+biddy
+	arise
+	pilot 107
+	windy 16
+	biddy 2
+	4
+posit
+	arise
+	stoic 21
+	posit 1
+	3
+quoth
+	arise
+	could 168
+	outgo 7
+	quoth 1
+	4
+brash
+	arise
+	brass 7
+	brash 1
+	3
+bible
+	arise
+	binge 25
+	biome 2
+	bible 1
+	4
+gnome
+	arise
+	lunge 61
+	gnome 1
+	3
+ensue
+	arise
+	stone 17
+	ensue 1
+	3
+caddy
+	arise
+	canal 154
+	catty 5
+	cabby 2
+	caddy 1
+	5
+stale
+	arise
+	haste 29
+	stake 4
+	stave 3
+	stale 2
+	5
+creed
+	arise
+	creed 22
+	2
+yearn
+	arise
+	later 61
+	ready 12
+	yearn 1
+	4
+joint
+	arise
+	cling 51
+	joint 4
+	3
+geeky
+	arise
+	olden 121
+	beech 12
+	geeky 1
+	4
+circa
+	arise
+	nadir 17
+	circa 4
+	3
+ankle
+	arise
+	abate 20
+	ankle 7
+	3
+rebel
+	arise
+	outer 100
+	revel 4
+	rebel 2
+	4
+wordy
+	arise
+	torch 64
+	world 7
+	wordy 1
+	4
+prone
+	arise
+	trope 21
+	prone 3
+	3
+handy
+	arise
+	canal 154
+	tangy 9
+	fanny 4
+	handy 2
+	5
+pouty
+	arise
+	could 168
+	mouth 7
+	pouty 1
+	4
+gypsy
+	arise
+	floss 17
+	gypsy 1
+	3
+adobe
+	arise
+	abate 20
+	adobe 2
+	3
+count
+	arise
+	could 168
+	cough 3
+	count 1
+	4
+comma
+	arise
+	canal 154
+	comma 5
+	3
+stilt
+	arise
+	stink 29
+	still 3
+	stilt 1
+	4
+crier
+	arise
+	fried 9
+	crier 1
+	3
+dimly
+	arise
+	pilot 107
+	livid 5
+	dimly 1
+	4
+medic
+	arise
+	widen 35
+	medic 1
+	3
+chirp
+	arise
+	twirl 7
+	chirp 2
+	3
+quest
+	arise
+	guess 9
+	quest 1
+	3
+gorge
+	arise
+	verge 25
+	forge 3
+	gorge 1
+	4
+sooty
+	arise
+	stunk 80
+	sloth 4
+	sooty 1
+	4
+tract
+	arise
+	grant 35
+	draft 3
+	tract 1
+	4
+stunt
+	arise
+	stunk 80
+	stunt 2
+	3
+macaw
+	arise
+	canal 154
+	macaw 1
+	3
+radii
+	arise
+	nadir 17
+	radii 2
+	3
+hunky
+	arise
+	could 168
+	humph 15
+	hunky 1
+	4
+pulpy
+	arise
+	could 168
+	lumpy 3
+	pulpy 1
+	4
+filly
+	arise
+	pilot 107
+	filmy 7
+	filly 1
+	4
+spore
+	arise
+	scree 10
+	store 5
+	snore 4
+	shore 3
+	spore 2
+	6
+kitty
+	arise
+	pilot 107
+	ditch 13
+	kitty 3
+	4
+scalp
+	arise
+	slant 61
+	scaly 6
+	scalp 2
+	4
+pence
+	arise
+	lunge 61
+	pence 4
+	3
+nylon
+	arise
+	could 168
+	bloom 5
+	nylon 1
+	4
+split
+	arise
+	stoic 21
+	split 1
+	3
+plaid
+	arise
+	panic 35
+	plait 2
+	plaid 1
+	4
+study
+	arise
+	stunk 80
+	stump 3
+	stuff 2
+	study 1
+	5
+nosey
+	arise
+	spelt 41
+	nosey 2
+	3
+fully
+	arise
+	could 168
+	gully 3
+	bully 2
+	fully 1
+	5
+frill
+	arise
+	drink 22
+	primo 8
+	fritz 3
+	frill 1
+	5
+opera
+	arise
+	later 61
+	ready 12
+	opera 1
+	4
+kiosk
+	arise
+	tipsy 6
+	kiosk 1
+	3
+suite
+	arise
+	spine 15
+	slime 7
+	seize 2
+	suite 1
+	5
+tacit
+	arise
+	panic 35
+	cavil 2
+	tacit 1
+	4
+sorry
+	arise
+	short 25
+	sorry 1
+	3
+turbo
+	arise
+	torch 64
+	turbo 1
+	3
+annul
+	arise
+	aloft 29
+	apply 3
+	annul 1
+	4
+sprig
+	arise
+	sprig 5
+	2
+pique
+	arise
+	binge 25
+	tilde 8
+	pique 3
+	4
+build
+	arise
+	cling 51
+	quilt 4
+	build 1
+	4
+grass
+	arise
+	brass 7
+	grass 2
+	3
+borax
+	arise
+	carol 62
+	borax 2
+	3
+swore
+	arise
+	scree 10
+	store 5
+	snore 4
+	shore 3
+	spore 2
+	swore 1
+	7
+legal
+	arise
+	metal 79
+	decal 5
+	legal 2
+	4
+viral
+	arise
+	nadir 17
+	circa 4
+	viral 1
+	4
+rough
+	arise
+	torch 64
+	rough 1
+	3
+muddy
+	arise
+	could 168
+	dumpy 5
+	muddy 1
+	4
+lathe
+	arise
+	cable 47
+	halve 5
+	lathe 1
+	4
+fetal
+	arise
+	metal 79
+	petal 2
+	fetal 1
+	4
+offer
+	arise
+	outer 100
+	odder 4
+	offer 2
+	4
+rumor
+	arise
+	torch 64
+	floor 5
+	rumor 1
+	4
+limbo
+	arise
+	pilot 107
+	limbo 2
+	3
+creek
+	arise
+	creed 22
+	creep 2
+	creek 1
+	4
+askew
+	arise
+	ashen 3
+	askew 2
+	3
+diver
+	arise
+	ripen 34
+	diver 10
+	3
+ethos
+	arise
+	spelt 41
+	zesty 4
+	ethos 1
+	4
+donut
+	arise
+	could 168
+	donut 1
+	3
+flood
+	arise
+	could 168
+	blond 3
+	flood 1
+	4
+polar
+	arise
+	carol 62
+	polar 3
+	3
+chain
+	arise
+	panic 35
+	chain 1
+	3
+glory
+	arise
+	torch 64
+	floor 5
+	glory 1
+	4
+epoch
+	arise
+	olden 121
+	gecko 4
+	epoch 1
+	4
+crave
+	arise
+	grace 18
+	crane 4
+	craze 3
+	crave 2
+	5
+brawl
+	arise
+	grant 35
+	wrack 10
+	brawl 2
+	4
+unite
+	arise
+	utile 23
+	unite 1
+	3
+bread
+	arise
+	tread 11
+	bread 2
+	3
+rebut
+	arise
+	outer 100
+	rebut 2
+	3
+snare
+	arise
+	spare 5
+	scare 4
+	snare 3
+	4
+shyly
+	arise
+	stunk 80
+	scowl 12
+	shyly 2
+	4
+deter
+	arise
+	outer 100
+	deter 3
+	3
+shack
+	arise
+	slant 61
+	scamp 7
+	shack 1
+	4
+vivid
+	arise
+	pilot 107
+	windy 16
+	vivid 1
+	4
+dozen
+	arise
+	olden 121
+	dozen 1
+	3
+berry
+	arise
+	outer 100
+	clerk 15
+	ferry 3
+	merry 2
+	berry 1
+	6
+siege
+	arise
+	siege 5
+	2
+leech
+	arise
+	olden 121
+	belly 10
+	leech 1
+	4
+nudge
+	arise
+	lunge 61
+	nudge 1
+	3
+grand
+	arise
+	grant 35
+	grand 1
+	3
+wheat
+	arise
+	metal 79
+	wheat 3
+	3
+chalk
+	arise
+	canal 154
+	clamp 3
+	chalk 1
+	4
+fewer
+	arise
+	outer 100
+	fever 14
+	fewer 1
+	4
+revue
+	arise
+	verge 25
+	revue 1
+	3
+taker
+	arise
+	later 61
+	taker 3
+	3
+cluck
+	arise
+	could 168
+	clump 3
+	cluck 2
+	4
+singe
+	arise
+	siege 5
+	singe 1
+	3
+lymph
+	arise
+	could 168
+	lymph 2
+	3
+croak
+	arise
+	grant 35
+	broad 2
+	croak 1
+	4
+waltz
+	arise
+	canal 154
+	dally 10
+	waltz 1
+	4
+alive
+	arise
+	alive 5
+	2
+etude
+	arise
+	lunge 61
+	etude 4
+	3
+mauve
+	arise
+	cable 47
+	gauge 8
+	mauve 2
+	4
+spray
+	arise
+	strap 23
+	spray 1
+	3
+spire
+	arise
+	spire 2
+	2
+lefty
+	arise
+	olden 121
+	belly 10
+	lefty 2
+	4
+glaze
+	arise
+	cable 47
+	plate 8
+	flame 4
+	glade 2
+	glaze 1
+	6
+grade
+	arise
+	grace 18
+	graze 5
+	grade 4
+	4
+eying
+	arise
+	edict 15
+	eking 2
+	eying 1
+	4
+abyss
+	arise
+	amass 4
+	abyss 1
+	3
+amber
+	arise
+	alter 6
+	amber 2
+	3
+agate
+	arise
+	abate 20
+	agate 1
+	3
+godly
+	arise
+	could 168
+	godly 2
+	3
+extol
+	arise
+	olden 121
+	hello 4
+	extol 1
+	4
+gamma
+	arise
+	canal 154
+	mamma 4
+	gamma 1
+	4
+jazzy
+	arise
+	canal 154
+	datum 20
+	gawky 4
+	happy 2
+	jazzy 1
+	6
+knead
+	arise
+	metal 79
+	ocean 3
+	knead 1
+	4
+baste
+	arise
+	haste 29
+	taste 5
+	waste 4
+	caste 3
+	baste 2
+	6
+ratio
+	arise
+	nadir 17
+	ratio 1
+	3
+offal
+	arise
+	canal 154
+	total 6
+	offal 1
+	4
+modem
+	arise
+	olden 121
+	modem 1
+	3
+lying
+	arise
+	cling 51
+	lying 1
+	3
+organ
+	arise
+	grant 35
+	organ 1
+	3
+bulge
+	arise
+	lunge 61
+	bulge 1
+	3
+drive
+	arise
+	tripe 17
+	bride 7
+	drive 1
+	4
+tipsy
+	arise
+	tipsy 6
+	2
+aloud
+	arise
+	aloft 29
+	along 2
+	aloud 1
+	4
+fifty
+	arise
+	pilot 107
+	ditch 13
+	minty 2
+	fifty 1
+	5
+wacky
+	arise
+	canal 154
+	match 10
+	wacky 1
+	4
+thigh
+	arise
+	cling 51
+	thigh 1
+	3
+bench
+	arise
+	olden 121
+	wench 6
+	bench 1
+	4
+elide
+	arise
+	utile 23
+	glide 3
+	elide 1
+	4
+smash
+	arise
+	slash 25
+	swash 3
+	smash 2
+	4
+tithe
+	arise
+	binge 25
+	tilde 8
+	tithe 1
+	4
+smoke
+	arise
+	stone 17
+	scope 5
+	shove 2
+	smoke 1
+	5
+purse
+	arise
+	rouse 9
+	nurse 3
+	curse 2
+	purse 1
+	5
+morph
+	arise
+	torch 64
+	morph 1
+	3
+slump
+	arise
+	stunk 80
+	slump 1
+	3
+nicer
+	arise
+	ripen 34
+	diner 5
+	nicer 1
+	4
+scald
+	arise
+	slant 61
+	scaly 6
+	scalp 2
+	scald 1
+	5
+ennui
+	arise
+	widen 35
+	ennui 2
+	3
+stand
+	arise
+	slant 61
+	stand 2
+	3
+oaken
+	arise
+	metal 79
+	waxen 5
+	oaken 2
+	4
+sauna
+	arise
+	slant 61
+	sauna 1
+	3
+scoop
+	arise
+	stunk 80
+	scowl 12
+	scoff 2
+	scoop 1
+	5
+cream
+	arise
+	tread 11
+	freak 5
+	cream 1
+	4
+ample
+	arise
+	abate 20
+	ankle 7
+	apple 2
+	ample 1
+	5
+butch
+	arise
+	could 168
+	hunch 8
+	butch 1
+	4
+tease
+	arise
+	lapse 10
+	tease 3
+	3
+saner
+	arise
+	smear 6
+	safer 2
+	saner 1
+	4
+felon
+	arise
+	olden 121
+	melon 3
+	felon 1
+	4
+magma
+	arise
+	canal 154
+	mamma 4
+	magma 1
+	4
+depth
+	arise
+	olden 121
+	debut 4
+	depth 1
+	4
+slunk
+	arise
+	stunk 80
+	skunk 3
+	slunk 2
+	4
+racer
+	arise
+	later 61
+	wager 15
+	parer 8
+	racer 1
+	5
+shake
+	arise
+	haste 29
+	shape 6
+	shave 5
+	shade 4
+	shale 3
+	shake 2
+	7
+rodeo
+	arise
+	outer 100
+	rodeo 1
+	3
+ulcer
+	arise
+	outer 100
+	udder 5
+	ulcer 2
+	4
+dried
+	arise
+	fried 9
+	tried 4
+	cried 3
+	pried 2
+	dried 1
+	6
+midst
+	arise
+	tipsy 6
+	midst 1
+	3
+rhino
+	arise
+	twirl 7
+	rhino 1
+	3
+squat
+	arise
+	slant 61
+	squat 1
+	3
+guide
+	arise
+	utile 23
+	juice 2
+	guide 1
+	4
+goody
+	arise
+	could 168
+	dowdy 8
+	goody 2
+	4
+tread
+	arise
+	tread 11
+	2
+wryly
+	arise
+	trunk 49
+	droop 13
+	wryly 1
+	4
+gipsy
+	arise
+	tipsy 6
+	gipsy 1
+	3
+dough
+	arise
+	could 168
+	dough 2
+	3
+comet
+	arise
+	olden 121
+	covey 5
+	comet 1
+	4
+swear
+	arise
+	smear 6
+	swear 3
+	3
+touch
+	arise
+	could 168
+	touch 3
+	3
+alarm
+	arise
+	actor 14
+	alarm 3
+	3
+river
+	arise
+	ripen 34
+	river 3
+	3
+rarer
+	arise
+	later 61
+	wager 15
+	parer 8
+	rarer 1
+	5
+woozy
+	arise
+	could 168
+	boozy 14
+	woozy 1
+	4
+conch
+	arise
+	could 168
+	comfy 2
+	conch 1
+	4
+sinew
+	arise
+	stein 4
+	sinew 1
+	3
+marsh
+	arise
+	harsh 3
+	marsh 1
+	3
+gumbo
+	arise
+	could 168
+	outgo 7
+	gumbo 1
+	4
+unwed
+	arise
+	olden 121
+	unfed 3
+	unwed 1
+	4
+meter
+	arise
+	outer 100
+	deter 3
+	meter 1
+	4
+dodge
+	arise
+	lunge 61
+	hedge 3
+	dodge 1
+	4
+pixel
+	arise
+	widen 35
+	pixel 4
+	3
+growl
+	arise
+	trunk 49
+	droop 13
+	growl 1
+	4
+major
+	arise
+	carol 62
+	rayon 7
+	favor 3
+	major 1
+	5
+panel
+	arise
+	metal 79
+	lapel 7
+	panel 1
+	4
+paddy
+	arise
+	canal 154
+	datum 20
+	paddy 2
+	4
+grape
+	arise
+	grace 18
+	graze 5
+	grade 4
+	grape 3
+	5
+islet
+	arise
+	stein 4
+	islet 1
+	3
+eagle
+	arise
+	cable 47
+	maple 3
+	eagle 2
+	4
+tempo
+	arise
+	olden 121
+	gecko 4
+	tempo 1
+	4
+cumin
+	arise
+	pilot 107
+	cubic 6
+	cumin 1
+	4
+robin
+	arise
+	birch 20
+	robin 1
+	3
+truck
+	arise
+	trunk 49
+	truck 1
+	3
+wrong
+	arise
+	trunk 49
+	wrong 4
+	3
+girth
+	arise
+	birch 20
+	girth 2
+	3
+pulse
+	arise
+	loose 20
+	pulse 1
+	3
+navel
+	arise
+	metal 79
+	lapel 7
+	gavel 4
+	navel 1
+	5
+limit
+	arise
+	pilot 107
+	light 2
+	limit 1
+	4
+aptly
+	arise
+	aloft 29
+	aptly 1
+	3
+groan
+	arise
+	grant 35
+	groan 1
+	3
+moist
+	arise
+	hoist 9
+	foist 3
+	moist 2
+	4
+tonal
+	arise
+	canal 154
+	zonal 2
+	tonal 1
+	4
+sandy
+	arise
+	slant 61
+	sandy 1
+	3
+thrum
+	arise
+	torch 64
+	thrum 1
+	3
+paper
+	arise
+	later 61
+	wager 15
+	parer 8
+	payer 2
+	paper 1
+	6
+rouse
+	arise
+	rouse 9
+	2
+twice
+	arise
+	utile 23
+	twice 3
+	3
+trove
+	arise
+	trope 21
+	trove 1
+	3
+alone
+	arise
+	abate 20
+	ankle 7
+	alone 1
+	4
+froth
+	arise
+	trunk 49
+	froth 3
+	3
+triad
+	arise
+	briar 4
+	triad 2
+	3
+mural
+	arise
+	carol 62
+	rural 2
+	mural 1
+	4
+earth
+	arise
+	later 61
+	earth 1
+	3
+fruit
+	arise
+	orbit 7
+	fruit 1
+	3
+choke
+	arise
+	lunge 61
+	theme 8
+	choke 1
+	4
+sleet
+	arise
+	spelt 41
+	sleet 1
+	3
+detox
+	arise
+	olden 121
+	depot 3
+	detox 1
+	4
+beset
+	arise
+	spelt 41
+	unset 3
+	beset 1
+	4
+haven
+	arise
+	metal 79
+	waxen 5
+	oaken 2
+	haven 1
+	5
+clean
+	arise
+	metal 79
+	glean 4
+	clean 1
+	4
+karma
+	arise
+	carol 62
+	party 10
+	karma 1
+	4
+chore
+	arise
+	verge 25
+	rhyme 4
+	chore 1
+	4
+bongo
+	arise
+	could 168
+	boozy 14
+	bongo 1
+	4
+abhor
+	arise
+	actor 14
+	abhor 1
+	3
+bring
+	arise
+	drink 22
+	bring 4
+	3
+wound
+	arise
+	could 168
+	mound 6
+	found 5
+	wound 4
+	5
+assay
+	arise
+	assay 2
+	2
+shook
+	arise
+	stunk 80
+	shock 4
+	shook 1
+	4
+idyll
+	arise
+	pilot 107
+	fluid 3
+	idyll 1
+	4
+lobby
+	arise
+	could 168
+	lofty 4
+	lobby 2
+	4
+piece
+	arise
+	binge 25
+	tilde 8
+	pique 3
+	piece 2
+	5
+baron
+	arise
+	carol 62
+	tarot 2
+	baron 1
+	4
+relax
+	arise
+	later 61
+	regal 7
+	relax 2
+	4
+board
+	arise
+	carol 62
+	hoard 3
+	board 1
+	4
+gayer
+	arise
+	later 61
+	wager 15
+	gamer 3
+	gazer 2
+	gayer 1
+	6
+vouch
+	arise
+	could 168
+	touch 3
+	vouch 2
+	4
+pitch
+	arise
+	pilot 107
+	pitch 2
+	3
+query
+	arise
+	outer 100
+	query 1
+	3
+octet
+	arise
+	olden 121
+	octet 1
+	3
+evoke
+	arise
+	lunge 61
+	theme 8
+	evoke 1
+	4
+chuck
+	arise
+	could 168
+	chuck 3
+	3
+fecal
+	arise
+	metal 79
+	decal 5
+	fecal 1
+	4
+mount
+	arise
+	could 168
+	mouth 7
+	mount 1
+	4
+ultra
+	arise
+	carol 62
+	ultra 2
+	3
+nerdy
+	arise
+	outer 100
+	clerk 15
+	derby 2
+	nerdy 1
+	5
+novel
+	arise
+	olden 121
+	novel 1
+	3
+ladle
+	arise
+	cable 47
+	maple 3
+	eagle 2
+	ladle 1
+	5
+snaky
+	arise
+	slant 61
+	snaky 3
+	3
+grind
+	arise
+	drink 22
+	grind 1
+	3
+point
+	arise
+	cling 51
+	joint 4
+	point 1
+	4
+unity
+	arise
+	cling 51
+	unity 4
+	3
+audit
+	arise
+	admit 13
+	audit 1
+	3
+doing
+	arise
+	cling 51
+	doing 7
+	3
+newly
+	arise
+	olden 121
+	newly 2
+	3
+dirge
+	arise
+	ridge 5
+	dirge 1
+	3
+click
+	arise
+	cling 51
+	click 3
+	3
+valet
+	arise
+	metal 79
+	exalt 2
+	valet 1
+	4
+exult
+	arise
+	olden 121
+	belly 10
+	whelp 2
+	exult 1
+	5
+sniff
+	arise
+	stink 29
+	scion 2
+	sniff 1
+	4
+stark
+	arise
+	strap 23
+	start 2
+	stark 1
+	4
+rifle
+	arise
+	rifle 5
+	2
+cacti
+	arise
+	panic 35
+	cacti 1
+	3
+ahead
+	arise
+	angel 10
+	ahead 2
+	3
+boney
+	arise
+	olden 121
+	money 3
+	boney 2
+	4
+slyly
+	arise
+	stunk 80
+	scowl 12
+	shyly 2
+	slyly 1
+	5
+strut
+	arise
+	short 25
+	strut 1
+	3
+exert
+	arise
+	outer 100
+	berth 2
+	exert 1
+	4
+porch
+	arise
+	torch 64
+	porch 1
+	3
+apron
+	arise
+	actor 14
+	apron 1
+	3
+befit
+	arise
+	widen 35
+	ethic 4
+	befit 1
+	4
+lucky
+	arise
+	could 168
+	mulch 4
+	lucky 1
+	4
+cobra
+	arise
+	carol 62
+	cobra 1
+	3
+dumpy
+	arise
+	could 168
+	dumpy 5
+	3
+puppy
+	arise
+	could 168
+	humph 15
+	guppy 2
+	puppy 1
+	5
+taboo
+	arise
+	canal 154
+	datum 20
+	taffy 3
+	taboo 1
+	5
+began
+	arise
+	metal 79
+	began 5
+	3
+junta
+	arise
+	canal 154
+	tonga 2
+	junta 1
+	4
+nutty
+	arise
+	could 168
+	humph 15
+	bunny 6
+	nutty 1
+	5
+dicey
+	arise
+	widen 35
+	dicey 1
+	3
+level
+	arise
+	olden 121
+	bevel 8
+	level 1
+	4
+clank
+	arise
+	canal 154
+	clang 2
+	clank 1
+	4
+smock
+	arise
+	stunk 80
+	shock 4
+	smock 1
+	4
+wince
+	arise
+	binge 25
+	wince 2
+	3
+belie
+	arise
+	binge 25
+	belie 1
+	3
+curly
+	arise
+	torch 64
+	curvy 3
+	curly 2
+	4
+genie
+	arise
+	binge 25
+	genie 1
+	3
+amass
+	arise
+	amass 4
+	2
+repel
+	arise
+	outer 100
+	revel 4
+	rebel 2
+	repel 1
+	5
+mecca
+	arise
+	metal 79
+	mecca 1
+	3
+lunge
+	arise
+	lunge 61
+	2
+brush
+	arise
+	crust 10
+	brush 1
+	3
+mower
+	arise
+	outer 100
+	rower 19
+	cower 4
+	lower 3
+	power 2
+	mower 1
+	7
+fugue
+	arise
+	lunge 61
+	fugue 1
+	3
+snack
+	arise
+	slant 61
+	snaky 3
+	snack 1
+	4
+bawdy
+	arise
+	canal 154
+	datum 20
+	paddy 2
+	bawdy 1
+	5
+local
+	arise
+	canal 154
+	focal 4
+	local 2
+	4
+oddly
+	arise
+	could 168
+	oddly 1
+	3
+sheet
+	arise
+	spelt 41
+	sheet 3
+	3
+crone
+	arise
+	trope 21
+	drove 7
+	froze 3
+	crone 2
+	5
+quail
+	arise
+	panic 35
+	quail 3
+	3
+opium
+	arise
+	cling 51
+	idiot 5
+	opium 1
+	4
+skulk
+	arise
+	stunk 80
+	shuck 2
+	skulk 1
+	4
+serve
+	arise
+	scree 10
+	serve 1
+	3
+thong
+	arise
+	could 168
+	phony 5
+	thong 1
+	4
+onset
+	arise
+	spelt 41
+	onset 3
+	3
+wooer
+	arise
+	outer 100
+	rower 19
+	wooer 1
+	4
+write
+	arise
+	tripe 17
+	write 1
+	3
+among
+	arise
+	aloft 29
+	agony 2
+	among 1
+	4
+spasm
+	arise
+	slash 25
+	spasm 1
+	3
+spunk
+	arise
+	stunk 80
+	skunk 3
+	slunk 2
+	spunk 1
+	5
+yield
+	arise
+	widen 35
+	field 2
+	yield 1
+	4
+gouge
+	arise
+	lunge 61
+	gouge 1
+	3
+ridge
+	arise
+	rifle 5
+	ridge 1
+	3
+joust
+	arise
+	floss 17
+	joust 1
+	3
+sassy
+	arise
+	slash 25
+	sassy 1
+	3
+oxide
+	arise
+	utile 23
+	opine 8
+	oxide 1
+	4
+wheel
+	arise
+	olden 121
+	bevel 8
+	excel 3
+	wheel 1
+	5
+poesy
+	arise
+	guess 9
+	chest 3
+	poesy 1
+	4
+shear
+	arise
+	smear 6
+	swear 3
+	shear 2
+	4
+fiber
+	arise
+	ripen 34
+	diver 10
+	fiber 5
+	4
+brain
+	arise
+	train 9
+	brain 3
+	3
+harpy
+	arise
+	carol 62
+	party 10
+	harpy 1
+	4
+moron
+	arise
+	torch 64
+	world 7
+	forgo 3
+	moron 1
+	5
+pansy
+	arise
+	slash 25
+	patsy 2
+	pansy 1
+	4
+forum
+	arise
+	torch 64
+	world 7
+	forgo 3
+	forum 1
+	5
+waive
+	arise
+	naive 3
+	waive 1
+	3
+horse
+	arise
+	rouse 9
+	worse 2
+	horse 1
+	4
+acute
+	arise
+	abate 20
+	acute 1
+	3
+merge
+	arise
+	verge 25
+	merge 1
+	3
+royal
+	arise
+	carol 62
+	royal 1
+	3
+sully
+	arise
+	stunk 80
+	sully 1
+	3
+prong
+	arise
+	trunk 49
+	wrong 4
+	prong 1
+	4
+icing
+	arise
+	cling 51
+	icing 1
+	3
+emcee
+	arise
+	lunge 61
+	theme 8
+	emcee 1
+	4
+booty
+	arise
+	could 168
+	boozy 14
+	booty 2
+	4
+eject
+	arise
+	olden 121
+	beech 12
+	eject 1
+	4
+going
+	arise
+	cling 51
+	doing 7
+	going 1
+	4
+yacht
+	arise
+	canal 154
+	match 10
+	yacht 1
+	4
+nasty
+	arise
+	slant 61
+	nasty 1
+	3
+windy
+	arise
+	pilot 107
+	windy 16
+	3
+fishy
+	arise
+	stoic 21
+	wispy 3
+	fishy 1
+	4
+brief
+	arise
+	fried 9
+	grief 2
+	brief 1
+	4
+equal
+	arise
+	metal 79
+	equal 1
+	3
+parry
+	arise
+	carol 62
+	party 10
+	parry 1
+	4
+scout
+	arise
+	stunk 80
+	shout 3
+	scout 2
+	4
+latte
+	arise
+	cable 47
+	halve 5
+	latte 1
+	4
+honey
+	arise
+	olden 121
+	money 3
+	boney 2
+	honey 1
+	5
+stock
+	arise
+	stunk 80
+	stock 1
+	3
+grill
+	arise
+	drink 22
+	primo 8
+	fritz 3
+	grill 1
+	5
+notch
+	arise
+	could 168
+	botch 3
+	notch 1
+	4
+meant
+	arise
+	metal 79
+	meaty 2
+	meant 1
+	4
+sonar
+	arise
+	strap 23
+	solar 3
+	sonar 1
+	4
+apart
+	arise
+	actor 14
+	apart 1
+	3
+covet
+	arise
+	olden 121
+	covey 5
+	covet 1
+	4
+cigar
+	arise
+	nadir 17
+	vicar 2
+	cigar 1
+	4
+octal
+	arise
+	canal 154
+	focal 4
+	octal 1
+	4
+rehab
+	arise
+	later 61
+	ready 12
+	recap 2
+	rehab 1
+	5
+hence
+	arise
+	lunge 61
+	hence 4
+	3
+sleep
+	arise
+	spelt 41
+	sleep 1
+	3
+stomp
+	arise
+	stunk 80
+	stoop 4
+	stomp 1
+	4
+trend
+	arise
+	creed 22
+	trend 1
+	3
+augur
+	arise
+	actor 14
+	augur 1
+	3
+basal
+	arise
+	slant 61
+	usual 2
+	basal 1
+	4
+polyp
+	arise
+	could 168
+	lofty 4
+	polyp 1
+	4
+force
+	arise
+	verge 25
+	forte 4
+	force 1
+	4
+until
+	arise
+	pilot 107
+	until 1
+	3
+lusty
+	arise
+	stunk 80
+	gusto 5
+	musty 3
+	dusty 2
+	lusty 1
+	6
+those
+	arise
+	loose 20
+	chose 3
+	those 2
+	4
+arson
+	arise
+	arson 1
+	2
+steer
+	arise
+	sheer 20
+	sneer 2
+	steer 1
+	4
+dutch
+	arise
+	could 168
+	dutch 2
+	3
+front
+	arise
+	trunk 49
+	front 1
+	3
+macro
+	arise
+	carol 62
+	macro 1
+	3
+worry
+	arise
+	torch 64
+	wordy 7
+	worry 1
+	4
+ionic
+	arise
+	pilot 107
+	comic 4
+	ionic 1
+	4
+penne
+	arise
+	lunge 61
+	pence 4
+	penne 1
+	4
+diode
+	arise
+	binge 25
+	tilde 8
+	diode 1
+	4
+proof
+	arise
+	trunk 49
+	droop 13
+	proof 1
+	4
+wrote
+	arise
+	trope 21
+	wrote 1
+	3
+gavel
+	arise
+	metal 79
+	lapel 7
+	gavel 4
+	4
+union
+	arise
+	cling 51
+	unity 4
+	union 1
+	4
+tulip
+	arise
+	pilot 107
+	tulip 1
+	3
+boast
+	arise
+	slash 25
+	coast 3
+	toast 2
+	boast 1
+	5
+datum
+	arise
+	canal 154
+	datum 20
+	3
+roomy
+	arise
+	torch 64
+	mourn 7
+	roomy 1
+	4
+rouge
+	arise
+	verge 25
+	rouge 1
+	3
+murky
+	arise
+	torch 64
+	burly 3
+	murky 2
+	4
+serif
+	arise
+	riser 7
+	serif 1
+	3
+twirl
+	arise
+	twirl 7
+	2
+track
+	arise
+	grant 35
+	trawl 4
+	tramp 2
+	track 1
+	5
+gaffe
+	arise
+	cable 47
+	gauge 8
+	gaffe 1
+	4
+decry
+	arise
+	outer 100
+	clerk 15
+	decry 1
+	4
+unlit
+	arise
+	pilot 107
+	unlit 1
+	3
+carry
+	arise
+	carol 62
+	carat 2
+	carry 1
+	4
+snout
+	arise
+	stunk 80
+	snout 1
+	3
+liver
+	arise
+	ripen 34
+	diver 10
+	liver 2
+	4
+probe
+	arise
+	trope 21
+	prone 3
+	probe 2
+	4
+syrup
+	arise
+	short 25
+	scrum 4
+	syrup 1
+	4
+widen
+	arise
+	widen 35
+	2
+final
+	arise
+	panic 35
+	ninja 2
+	final 1
+	4
+north
+	arise
+	torch 64
+	forth 3
+	worth 2
+	north 1
+	5
+adorn
+	arise
+	actor 14
+	adorn 2
+	3
+argue
+	arise
+	argue 1
+	2
+retry
+	arise
+	outer 100
+	entry 3
+	retry 1
+	4
+unify
+	arise
+	cling 51
+	unity 4
+	unify 1
+	4
+churn
+	arise
+	torch 64
+	churn 1
+	3
+haste
+	arise
+	haste 29
+	2
+gravy
+	arise
+	grant 35
+	gravy 2
+	3
+spine
+	arise
+	spine 15
+	2
+piggy
+	arise
+	pilot 107
+	picky 4
+	piggy 1
+	4
+merit
+	arise
+	ripen 34
+	merit 2
+	3
+sieve
+	arise
+	siege 5
+	sieve 1
+	3
+chump
+	arise
+	could 168
+	chuck 3
+	chump 1
+	4
+condo
+	arise
+	could 168
+	condo 1
+	3
+color
+	arise
+	torch 64
+	rocky 2
+	color 1
+	4
+golem
+	arise
+	olden 121
+	hotel 7
+	golem 1
+	4
+angry
+	arise
+	actor 14
+	alarm 3
+	angry 1
+	4
+blimp
+	arise
+	cling 51
+	blitz 2
+	blimp 1
+	4
+bluer
+	arise
+	outer 100
+	udder 5
+	bluer 1
+	4
+noble
+	arise
+	lunge 61
+	noble 2
+	3
+plank
+	arise
+	canal 154
+	blank 6
+	flank 2
+	plank 1
+	5
+awoke
+	arise
+	abate 20
+	ankle 7
+	awoke 1
+	4
+green
+	arise
+	creed 22
+	green 4
+	3
+ascot
+	arise
+	assay 2
+	ascot 1
+	3
+shift
+	arise
+	stink 29
+	shift 4
+	3
+terse
+	arise
+	rouse 9
+	verse 2
+	terse 1
+	4
+vodka
+	arise
+	canal 154
+	dogma 5
+	vodka 1
+	4
+feral
+	arise
+	later 61
+	regal 7
+	feral 1
+	4
+crass
+	arise
+	brass 7
+	grass 2
+	crass 1
+	4
+rinse
+	arise
+	rinse 1
+	2
+hotly
+	arise
+	could 168
+	holly 8
+	hotly 1
+	4
+atone
+	arise
+	abate 20
+	atone 1
+	3
+metro
+	arise
+	outer 100
+	metro 2
+	3
+dross
+	arise
+	crust 10
+	dross 2
+	3
+crush
+	arise
+	crust 10
+	crush 1
+	3
+guilt
+	arise
+	cling 51
+	guild 2
+	guilt 1
+	4
+purge
+	arise
+	verge 25
+	forge 3
+	purge 1
+	4
+blink
+	arise
+	cling 51
+	blind 3
+	blink 1
+	4
+guest
+	arise
+	guess 9
+	guest 1
+	3
+glyph
+	arise
+	could 168
+	lymph 2
+	glyph 1
+	4
+serum
+	arise
+	sheer 20
+	serum 1
+	3
+batty
+	arise
+	canal 154
+	datum 20
+	tatty 4
+	fatty 3
+	batty 2
+	6
+tuber
+	arise
+	outer 100
+	tuber 1
+	3
+gauze
+	arise
+	cable 47
+	gauge 8
+	gauze 1
+	4
+radar
+	arise
+	carol 62
+	radar 4
+	3
+bloat
+	arise
+	canal 154
+	bylaw 4
+	bloat 1
+	4
+drunk
+	arise
+	trunk 49
+	drunk 1
+	3
+locus
+	arise
+	stunk 80
+	mushy 8
+	locus 2
+	4
+alien
+	arise
+	alien 1
+	2
+frail
+	arise
+	train 9
+	frail 3
+	3
+gloss
+	arise
+	floss 17
+	gloss 1
+	3
+tally
+	arise
+	canal 154
+	dally 10
+	tally 1
+	4
+mince
+	arise
+	binge 25
+	wince 2
+	mince 1
+	4
+timer
+	arise
+	ripen 34
+	diver 10
+	fiber 5
+	tiger 2
+	timer 1
+	6
+canon
+	arise
+	canal 154
+	canny 3
+	canon 1
+	4
+lowly
+	arise
+	could 168
+	holly 8
+	lowly 1
+	4
+lunar
+	arise
+	carol 62
+	ultra 2
+	lunar 1
+	4
+poser
+	arise
+	sheer 20
+	poser 2
+	3
+ramen
+	arise
+	later 61
+	ramen 3
+	3
+willy
+	arise
+	pilot 107
+	filmy 7
+	billy 4
+	hilly 3
+	willy 2
+	6
+goner
+	arise
+	outer 100
+	rower 19
+	hover 10
+	joker 5
+	boxer 3
+	foyer 2
+	goner 1
+	8
+weary
+	arise
+	later 61
+	ready 12
+	weary 1
+	4
+angle
+	arise
+	abate 20
+	ankle 7
+	angle 1
+	4
+baler
+	arise
+	later 61
+	paler 2
+	baler 1
+	4
+heron
+	arise
+	outer 100
+	heron 1
+	3
+atoll
+	arise
+	aloft 29
+	atoll 1
+	3
+crest
+	arise
+	cress 6
+	crest 1
+	3
+cameo
+	arise
+	metal 79
+	enema 3
+	cameo 1
+	4
+bowel
+	arise
+	olden 121
+	hotel 7
+	vowel 2
+	bowel 1
+	5
+adult
+	arise
+	aloft 29
+	adult 1
+	3
+quake
+	arise
+	cable 47
+	weave 6
+	quake 1
+	4
+sight
+	arise
+	stoic 21
+	sixth 3
+	sight 1
+	4
+crony
+	arise
+	trunk 49
+	wrong 4
+	crony 2
+	4
+smack
+	arise
+	slant 61
+	scamp 7
+	smack 1
+	4
+grime
+	arise
+	tripe 17
+	bride 7
+	crime 3
+	grime 1
+	5
+inner
+	arise
+	ripen 34
+	inter 3
+	infer 2
+	inner 1
+	5
+pixie
+	arise
+	binge 25
+	tilde 8
+	pique 3
+	piece 2
+	pixie 1
+	6
+retch
+	arise
+	outer 100
+	entry 3
+	retch 1
+	4
+toxic
+	arise
+	pilot 107
+	toxin 4
+	toxic 1
+	4
+sadly
+	arise
+	slant 61
+	sadly 5
+	3
+humus
+	arise
+	stunk 80
+	mushy 8
+	humus 1
+	4
+parer
+	arise
+	later 61
+	wager 15
+	parer 8
+	4
+known
+	arise
+	could 168
+	phony 5
+	known 1
+	4
+chard
+	arise
+	carol 62
+	charm 3
+	chard 2
+	4
+wrack
+	arise
+	grant 35
+	wrack 10
+	3
+frank
+	arise
+	grant 35
+	prank 5
+	frank 3
+	4
+corny
+	arise
+	torch 64
+	corny 1
+	3
+sigma
+	arise
+	slain 12
+	sigma 1
+	3
+cloak
+	arise
+	canal 154
+	cloak 1
+	3
+pesky
+	arise
+	spelt 41
+	pesky 1
+	3
+ratty
+	arise
+	carol 62
+	radar 4
+	ratty 1
+	4
+mirth
+	arise
+	birch 20
+	girth 2
+	mirth 1
+	4
+piety
+	arise
+	widen 35
+	eight 2
+	piety 1
+	4
+trust
+	arise
+	crust 10
+	trust 1
+	3
+spelt
+	arise
+	spelt 41
+	2
+suing
+	arise
+	stink 29
+	sling 5
+	swing 2
+	suing 1
+	5
+havoc
+	arise
+	canal 154
+	match 10
+	havoc 1
+	4
+bloom
+	arise
+	could 168
+	bloom 5
+	3
+quirk
+	arise
+	twirl 7
+	chirp 2
+	quirk 1
+	4
+cabin
+	arise
+	panic 35
+	cabin 1
+	3
+sweet
+	arise
+	spelt 41
+	sheet 3
+	sweet 1
+	4
+leach
+	arise
+	metal 79
+	leaky 4
+	leach 1
+	4
+vomit
+	arise
+	pilot 107
+	vomit 1
+	3
+micro
+	arise
+	birch 20
+	micro 1
+	3
+parse
+	arise
+	parse 1
+	2
+tense
+	arise
+	loose 20
+	these 5
+	tense 1
+	4
+tweak
+	arise
+	metal 79
+	wheat 3
+	tweak 1
+	4
+label
+	arise
+	metal 79
+	lapel 7
+	label 1
+	4
+strip
+	arise
+	sprig 5
+	strip 1
+	3
+erase
+	arise
+	erase 1
+	2
+drawl
+	arise
+	grant 35
+	wrack 10
+	brawl 2
+	drawl 1
+	5
+shank
+	arise
+	slant 61
+	shank 2
+	3
+hatch
+	arise
+	canal 154
+	match 10
+	watch 4
+	hatch 3
+	5
+elect
+	arise
+	olden 121
+	fleck 4
+	elect 1
+	4
+bound
+	arise
+	could 168
+	mound 6
+	found 5
+	wound 4
+	bound 3
+	6
+tenet
+	arise
+	olden 121
+	unmet 2
+	tenet 1
+	4
+taper
+	arise
+	later 61
+	taker 3
+	taper 2
+	4
+cloud
+	arise
+	could 168
+	cloud 1
+	3
+nanny
+	arise
+	canal 154
+	tangy 9
+	fanny 4
+	nanny 1
+	5
+chase
+	arise
+	lapse 10
+	tease 3
+	chase 1
+	4
+rower
+	arise
+	outer 100
+	rower 19
+	3
+bleed
+	arise
+	olden 121
+	clued 2
+	bleed 1
+	4
+fungi
+	arise
+	pilot 107
+	cubic 6
+	fungi 1
+	4
+inept
+	arise
+	widen 35
+	ennui 2
+	inept 1
+	4
+jetty
+	arise
+	olden 121
+	beech 12
+	jetty 2
+	4
+pound
+	arise
+	could 168
+	found 6
+	mound 5
+	wound 4
+	bound 3
+	pound 2
+	7
+focus
+	arise
+	stunk 80
+	mushy 8
+	locus 2
+	focus 1
+	5
+fleet
+	arise
+	olden 121
+	fleet 2
+	3
+kayak
+	arise
+	canal 154
+	madam 2
+	kayak 1
+	4
+loyal
+	arise
+	canal 154
+	total 6
+	loyal 2
+	4
+valor
+	arise
+	carol 62
+	labor 2
+	valor 1
+	4
+elegy
+	arise
+	olden 121
+	fleck 4
+	elegy 1
+	4
+gayly
+	arise
+	canal 154
+	dally 10
+	gayly 1
+	4
+scary
+	arise
+	strap 23
+	shark 7
+	scary 4
+	4
+fixer
+	arise
+	ripen 34
+	diver 10
+	fiber 5
+	fixer 2
+	5
+smelt
+	arise
+	spelt 41
+	smelt 1
+	3
+snuff
+	arise
+	stunk 80
+	snuff 1
+	3
+helix
+	arise
+	widen 35
+	ethic 4
+	helix 1
+	4
+abort
+	arise
+	actor 14
+	abort 2
+	3
+maybe
+	arise
+	cable 47
+	badge 3
+	maybe 1
+	4
+caput
+	arise
+	canal 154
+	catty 5
+	caput 1
+	4
+imbue
+	arise
+	binge 25
+	imbue 1
+	3
+gooey
+	arise
+	olden 121
+	covey 5
+	gooey 1
+	4
+buddy
+	arise
+	could 168
+	dumpy 5
+	buddy 1
+	4
+duvet
+	arise
+	olden 121
+	tweed 3
+	duvet 1
+	4
+giddy
+	arise
+	pilot 107
+	windy 16
+	biddy 2
+	giddy 1
+	5
+wider
+	arise
+	ripen 34
+	diver 10
+	cider 2
+	wider 1
+	5
+awful
+	arise
+	aloft 29
+	awful 1
+	3
+could
+	arise
+	could 168
+	2
+beach
+	arise
+	metal 79
+	beady 5
+	beach 1
+	4
+pithy
+	arise
+	pilot 107
+	pitch 2
+	pithy 1
+	4
+alpha
+	arise
+	aloft 29
+	alpha 3
+	3
+globe
+	arise
+	lunge 61
+	glove 2
+	globe 1
+	4
+egret
+	arise
+	outer 100
+	beret 3
+	egret 1
+	4
+input
+	arise
+	pilot 107
+	input 1
+	3
+dunce
+	arise
+	lunge 61
+	dunce 2
+	3
+flash
+	arise
+	slash 25
+	clash 2
+	flash 1
+	4
+false
+	arise
+	lapse 10
+	false 1
+	3
+given
+	arise
+	widen 35
+	liken 4
+	given 2
+	4
+debit
+	arise
+	widen 35
+	tepid 4
+	debit 1
+	4
+moult
+	arise
+	could 168
+	moult 1
+	3
+shell
+	arise
+	spelt 41
+	smell 4
+	swell 2
+	shell 1
+	5
+sperm
+	arise
+	sheer 20
+	stern 2
+	sperm 1
+	4
+trail
+	arise
+	train 9
+	trait 2
+	trail 1
+	4
+pleat
+	arise
+	metal 79
+	bleat 4
+	cleat 2
+	pleat 1
+	5
+rivet
+	arise
+	ripen 34
+	river 3
+	rivet 1
+	4
+swarm
+	arise
+	strap 23
+	shark 7
+	scary 4
+	snarl 2
+	swarm 1
+	6
+ruder
+	arise
+	outer 100
+	ruler 5
+	ruder 1
+	4
+retro
+	arise
+	outer 100
+	metro 2
+	retro 1
+	4
+acorn
+	arise
+	actor 14
+	acorn 1
+	3
+gamut
+	arise
+	canal 154
+	datum 20
+	gamut 1
+	4
+plump
+	arise
+	could 168
+	flunk 8
+	plumb 2
+	plump 1
+	5
+gland
+	arise
+	canal 154
+	blank 6
+	gland 2
+	4
+chaff
+	arise
+	canal 154
+	comma 5
+	chaff 1
+	4
+peach
+	arise
+	metal 79
+	beady 5
+	peach 1
+	4
+coupe
+	arise
+	lunge 61
+	etude 4
+	coupe 1
+	4
+eager
+	arise
+	later 61
+	wager 15
+	eager 1
+	4
+flour
+	arise
+	torch 64
+	floor 5
+	flour 1
+	4
+owing
+	arise
+	cling 51
+	doing 7
+	owing 1
+	4
+minor
+	arise
+	birch 20
+	rigor 4
+	minor 1
+	4
+larva
+	arise
+	carol 62
+	larva 1
+	3
+quote
+	arise
+	lunge 61
+	butte 3
+	quote 1
+	4
+radio
+	arise
+	nadir 17
+	radii 2
+	radio 1
+	4
+prawn
+	arise
+	grant 35
+	prawn 3
+	3
+skull
+	arise
+	stunk 80
+	skull 1
+	3
+flute
+	arise
+	lunge 61
+	flume 6
+	fluke 2
+	flute 1
+	5
+attic
+	arise
+	admit 13
+	antic 2
+	attic 1
+	4
+brook
+	arise
+	trunk 49
+	frock 4
+	brook 1
+	4
+credo
+	arise
+	creed 22
+	credo 1
+	3
+bitty
+	arise
+	pilot 107
+	ditch 13
+	kitty 3
+	bitty 2
+	5
+sense
+	arise
+	loose 20
+	these 5
+	sense 2
+	4
+hutch
+	arise
+	could 168
+	hunch 8
+	hutch 1
+	4
+dirty
+	arise
+	birch 20
+	girly 2
+	dirty 1
+	4
+reign
+	arise
+	plier 4
+	reign 2
+	3
+snide
+	arise
+	spine 15
+	snide 1
+	3
+latch
+	arise
+	canal 154
+	latch 1
+	3
+petty
+	arise
+	olden 121
+	hefty 12
+	jetty 2
+	petty 1
+	5
+climb
+	arise
+	cling 51
+	click 3
+	climb 2
+	4
+doubt
+	arise
+	could 168
+	dough 2
+	doubt 1
+	4
+feast
+	arise
+	least 5
+	yeast 3
+	feast 2
+	4
+shalt
+	arise
+	slant 61
+	shalt 1
+	3
+shawl
+	arise
+	slant 61
+	scaly 6
+	shawl 1
+	4
+joist
+	arise
+	hoist 9
+	foist 3
+	moist 2
+	joist 1
+	5
+leant
+	arise
+	metal 79
+	leapt 4
+	leant 1
+	4
+sulky
+	arise
+	stunk 80
+	sulky 1
+	3
+sonic
+	arise
+	stoic 21
+	sonic 1
+	3
+patty
+	arise
+	canal 154
+	datum 20
+	tatty 4
+	fatty 3
+	batty 2
+	patty 1
+	7
+amiss
+	arise
+	amiss 1
+	2
+chant
+	arise
+	canal 154
+	chant 1
+	3
+grail
+	arise
+	train 9
+	frail 3
+	grail 1
+	4
+repay
+	arise
+	later 61
+	ready 12
+	repay 1
+	4
+piney
+	arise
+	widen 35
+	piney 1
+	3
+whose
+	arise
+	loose 20
+	chose 3
+	those 2
+	whose 1
+	5
+papal
+	arise
+	canal 154
+	papal 2
+	3
+haunt
+	arise
+	canal 154
+	gaunt 9
+	vaunt 5
+	daunt 4
+	haunt 3
+	6
+ficus
+	arise
+	stoic 21
+	ficus 1
+	3
+abbey
+	arise
+	angel 10
+	abbey 1
+	3
+eclat
+	arise
+	metal 79
+	bleat 4
+	eclat 1
+	4
+drake
+	arise
+	grace 18
+	drake 6
+	3
+aider
+	arise
+	aider 1
+	2
+motel
+	arise
+	olden 121
+	hotel 7
+	motel 1
+	4
+cacao
+	arise
+	canal 154
+	cacao 1
+	3
+ozone
+	arise
+	lunge 61
+	phone 2
+	ozone 1
+	4
+dolly
+	arise
+	could 168
+	godly 2
+	dolly 1
+	4
+champ
+	arise
+	canal 154
+	champ 5
+	3
+asset
+	arise
+	ashen 3
+	askew 2
+	asset 1
+	4
+whirl
+	arise
+	twirl 7
+	whirl 1
+	3
+mango
+	arise
+	canal 154
+	tangy 9
+	mango 1
+	4
+large
+	arise
+	barge 8
+	large 1
+	3
+shone
+	arise
+	stone 17
+	scone 2
+	shone 1
+	4
+curve
+	arise
+	verge 25
+	curve 1
+	3
+carve
+	arise
+	barge 8
+	farce 2
+	carve 1
+	4
+bicep
+	arise
+	widen 35
+	pixel 4
+	bicep 1
+	4
+rabbi
+	arise
+	nadir 17
+	rabbi 1
+	3
+buyer
+	arise
+	outer 100
+	ruler 5
+	buyer 2
+	4
+buggy
+	arise
+	could 168
+	humph 15
+	bunny 6
+	buggy 1
+	5
+image
+	arise
+	image 2
+	2
+raven
+	arise
+	later 61
+	ramen 3
+	raven 1
+	4
+lorry
+	arise
+	torch 64
+	world 7
+	lorry 1
+	4
+enjoy
+	arise
+	olden 121
+	envoy 4
+	enjoy 1
+	4
+edict
+	arise
+	edict 15
+	2
+verso
+	arise
+	verso 1
+	2
+booth
+	arise
+	could 168
+	boozy 14
+	booth 1
+	4
+vicar
+	arise
+	nadir 17
+	cigar 2
+	vicar 1
+	4
+chute
+	arise
+	lunge 61
+	coupe 4
+	chute 1
+	4
+sheer
+	arise
+	sheer 20
+	2
+silly
+	arise
+	stoic 21
+	silky 3
+	silly 1
+	4
+ruddy
+	arise
+	torch 64
+	blurb 3
+	ruddy 1
+	4
+chief
+	arise
+	edict 15
+	chief 1
+	3
+whiff
+	arise
+	cling 51
+	idiot 5
+	whiff 1
+	4
+merry
+	arise
+	outer 100
+	clerk 15
+	ferry 3
+	berry 2
+	merry 1
+	6
+gross
+	arise
+	crust 10
+	dross 2
+	gross 1
+	4
+dress
+	arise
+	cress 6
+	press 2
+	dress 1
+	4
+freer
+	arise
+	creed 22
+	green 4
+	freer 1
+	4
+avoid
+	arise
+	admit 13
+	aphid 3
+	avoid 1
+	4
+quite
+	arise
+	utile 23
+	quite 1
+	3
+risen
+	arise
+	riser 7
+	risen 1
+	3
+peril
+	arise
+	ripen 34
+	peril 1
+	3
+greed
+	arise
+	creed 22
+	freed 3
+	breed 2
+	greed 1
+	5
+spurn
+	arise
+	short 25
+	slurp 2
+	spurn 1
+	4
+storm
+	arise
+	short 25
+	story 3
+	storm 2
+	4
+motto
+	arise
+	could 168
+	boozy 14
+	motto 1
+	4
+snipe
+	arise
+	spine 15
+	snipe 1
+	3
+deign
+	arise
+	edict 15
+	deign 2
+	3
+mafia
+	arise
+	panic 35
+	maxim 4
+	mafia 1
+	4
+slosh
+	arise
+	floss 17
+	slosh 1
+	3
+jumpy
+	arise
+	could 168
+	humph 15
+	jumpy 1
+	4
+prior
+	arise
+	drink 22
+	primo 8
+	prior 1
+	4
+clack
+	arise
+	canal 154
+	clamp 3
+	clack 1
+	4
+brute
+	arise
+	trope 21
+	brute 1
+	3
+blade
+	arise
+	cable 47
+	blaze 3
+	blame 2
+	blade 1
+	5
+coral
+	arise
+	carol 62
+	coral 1
+	3
+hymen
+	arise
+	olden 121
+	hymen 2
+	3
+krill
+	arise
+	drink 22
+	krill 1
+	3
+gaudy
+	arise
+	canal 154
+	datum 20
+	gaudy 1
+	4
+leery
+	arise
+	outer 100
+	clerk 15
+	leery 1
+	4
+wiser
+	arise
+	riser 7
+	miser 2
+	wiser 1
+	4
+teach
+	arise
+	metal 79
+	heath 3
+	teach 1
+	4
+heavy
+	arise
+	metal 79
+	beady 5
+	heavy 1
+	4
+aping
+	arise
+	axion 9
+	aping 2
+	3
+grant
+	arise
+	grant 35
+	2
+lurch
+	arise
+	torch 64
+	lurch 1
+	3
+spilt
+	arise
+	stink 29
+	swift 4
+	spilt 1
+	4
+risky
+	arise
+	sprig 5
+	risky 2
+	3
+broke
+	arise
+	trope 21
+	drove 7
+	froze 3
+	crone 2
+	broke 1
+	6
+demur
+	arise
+	outer 100
+	lemur 4
+	femur 2
+	demur 1
+	5
+spied
+	arise
+	shied 3
+	spied 1
+	3
+anvil
+	arise
+	admit 13
+	again 4
+	anvil 1
+	4
+fence
+	arise
+	lunge 61
+	pence 4
+	hence 2
+	fence 1
+	5
+dummy
+	arise
+	could 168
+	dumpy 5
+	dummy 1
+	4
+razor
+	arise
+	carol 62
+	rayon 7
+	razor 1
+	4
+shoot
+	arise
+	stunk 80
+	sloth 4
+	shoot 1
+	4
+maize
+	arise
+	naive 3
+	maize 1
+	3
+alike
+	arise
+	alive 5
+	alike 1
+	3
+usurp
+	arise
+	short 25
+	usurp 1
+	3
+torso
+	arise
+	burst 4
+	torso 1
+	3
+fable
+	arise
+	cable 47
+	table 2
+	fable 1
+	4
+clung
+	arise
+	could 168
+	clump 3
+	cluck 2
+	clung 1
+	5
+eater
+	arise
+	later 61
+	cater 4
+	water 3
+	eater 2
+	5
+ditch
+	arise
+	pilot 107
+	ditch 13
+	3
+swoon
+	arise
+	stunk 80
+	snowy 6
+	swoon 1
+	4
+fling
+	arise
+	cling 51
+	fling 1
+	3
+gawky
+	arise
+	canal 154
+	datum 20
+	gawky 4
+	4
+using
+	arise
+	stink 29
+	using 1
+	3
+hydro
+	arise
+	torch 64
+	humor 2
+	hydro 1
+	4
+graph
+	arise
+	grant 35
+	gravy 2
+	graph 1
+	4
+court
+	arise
+	torch 64
+	court 1
+	3
+nomad
+	arise
+	canal 154
+	woman 3
+	nomad 1
+	4
+close
+	arise
+	loose 20
+	close 1
+	3
+idler
+	arise
+	ripen 34
+	idler 1
+	3
+price
+	arise
+	tripe 17
+	pride 4
+	prime 3
+	prize 2
+	price 1
+	6
+photo
+	arise
+	could 168
+	phony 5
+	photo 1
+	4
+leash
+	arise
+	least 5
+	leash 1
+	3
+drank
+	arise
+	grant 35
+	prank 5
+	frank 3
+	drank 2
+	5
+swamp
+	arise
+	slant 61
+	scamp 7
+	swamp 1
+	4
+slimy
+	arise
+	stink 29
+	spicy 4
+	slimy 1
+	4
+plied
+	arise
+	edict 15
+	deign 2
+	plied 1
+	4
+adept
+	arise
+	angel 10
+	ahead 2
+	adept 1
+	4
+ingot
+	arise
+	pilot 107
+	ingot 1
+	3
+wedge
+	arise
+	lunge 61
+	hedge 3
+	wedge 1
+	4
+finer
+	arise
+	ripen 34
+	diner 5
+	liner 3
+	miner 2
+	finer 1
+	6
+bushy
+	arise
+	stunk 80
+	mushy 8
+	pushy 2
+	bushy 1
+	5
+facet
+	arise
+	metal 79
+	cadet 6
+	facet 1
+	4
+tepee
+	arise
+	lunge 61
+	theme 8
+	tepee 1
+	4
+seedy
+	arise
+	spelt 41
+	seedy 2
+	3
+voice
+	arise
+	utile 23
+	opine 8
+	voice 1
+	4
+pouch
+	arise
+	could 168
+	touch 3
+	vouch 2
+	pouch 1
+	5
+bosom
+	arise
+	stunk 80
+	bosom 1
+	3
+decay
+	arise
+	metal 79
+	began 5
+	decay 1
+	4
+irony
+	arise
+	orbit 7
+	irony 1
+	3
+slide
+	arise
+	spine 15
+	slime 7
+	slice 2
+	slide 1
+	5
+chord
+	arise
+	torch 64
+	chord 1
+	3
+bevel
+	arise
+	olden 121
+	bevel 8
+	3
+omega
+	arise
+	metal 79
+	enema 3
+	omega 1
+	4
+stunk
+	arise
+	stunk 80
+	2
+heist
+	arise
+	exist 2
+	heist 1
+	3
+mocha
+	arise
+	canal 154
+	whack 3
+	mocha 1
+	4
+plain
+	arise
+	panic 35
+	plain 1
+	3
+stray
+	arise
+	strap 23
+	straw 2
+	stray 1
+	4
+young
+	arise
+	could 168
+	mouth 7
+	young 1
+	4
+sober
+	arise
+	sheer 20
+	surer 4
+	sower 2
+	sober 1
+	5
+harry
+	arise
+	carol 62
+	party 10
+	hardy 3
+	harry 1
+	5
+enemy
+	arise
+	olden 121
+	wench 6
+	enemy 2
+	4
+pesto
+	arise
+	spelt 41
+	pesto 1
+	3
+alloy
+	arise
+	aloft 29
+	allow 2
+	alloy 1
+	4
+cliff
+	arise
+	cling 51
+	click 3
+	climb 2
+	cliff 1
+	5
+lupus
+	arise
+	stunk 80
+	mushy 8
+	lupus 1
+	4
+scold
+	arise
+	stunk 80
+	scowl 12
+	scold 1
+	4
+weigh
+	arise
+	edict 15
+	feign 4
+	weigh 1
+	4
+llama
+	arise
+	canal 154
+	llama 3
+	3
+munch
+	arise
+	could 168
+	butch 8
+	punch 3
+	hunch 2
+	munch 1
+	6
+semen
+	arise
+	spelt 41
+	semen 2
+	3
+tilde
+	arise
+	binge 25
+	tilde 8
+	3
+theme
+	arise
+	lunge 61
+	theme 8
+	3
+knave
+	arise
+	cable 47
+	weave 6
+	knave 1
+	4
+flake
+	arise
+	cable 47
+	plate 8
+	flame 4
+	flake 1
+	5
+tweet
+	arise
+	olden 121
+	cheek 3
+	tweet 1
+	4
+china
+	arise
+	taint 9
+	china 1
+	3
+heard
+	arise
+	later 61
+	ready 12
+	beard 2
+	heard 1
+	5
+smile
+	arise
+	spine 15
+	slime 7
+	smile 1
+	4
+soggy
+	arise
+	stunk 80
+	scowl 12
+	soggy 1
+	4
+allay
+	arise
+	aloft 29
+	alpha 3
+	allay 1
+	4
+black
+	arise
+	canal 154
+	flack 2
+	black 1
+	4
+stare
+	arise
+	spare 5
+	scare 4
+	snare 3
+	stare 2
+	5
+humph
+	arise
+	could 168
+	humph 15
+	3
+furry
+	arise
+	torch 64
+	burly 3
+	murky 2
+	furry 1
+	5
+birth
+	arise
+	birch 20
+	birth 1
+	3
+drape
+	arise
+	grace 18
+	drake 6
+	drape 1
+	4
+woody
+	arise
+	could 168
+	dowdy 8
+	woody 1
+	4
+moldy
+	arise
+	could 168
+	moldy 1
+	3
+round
+	arise
+	torch 64
+	mourn 7
+	round 1
+	4
+mammy
+	arise
+	canal 154
+	datum 20
+	mambo 2
+	mammy 1
+	5
+react
+	arise
+	later 61
+	terra 4
+	react 1
+	4
+break
+	arise
+	tread 11
+	freak 5
+	wreak 3
+	break 2
+	5
+proxy
+	arise
+	trunk 49
+	droop 13
+	proxy 2
+	4
+ditto
+	arise
+	pilot 107
+	ditto 1
+	3
+masse
+	arise
+	lapse 10
+	cause 2
+	masse 1
+	4
+stoic
+	arise
+	stoic 21
+	2
+refer
+	arise
+	outer 100
+	fever 14
+	defer 2
+	refer 1
+	5
+clone
+	arise
+	lunge 61
+	noble 2
+	clone 1
+	4
+spout
+	arise
+	stunk 80
+	shout 3
+	scout 2
+	spout 1
+	5
+dryer
+	arise
+	creed 22
+	order 2
+	dryer 1
+	4
+welsh
+	arise
+	guess 9
+	welsh 1
+	3
+never
+	arise
+	outer 100
+	fever 14
+	lever 2
+	never 1
+	5
+batch
+	arise
+	canal 154
+	match 10
+	watch 4
+	hatch 3
+	batch 2
+	6
+plunk
+	arise
+	could 168
+	flunk 8
+	plunk 1
+	4
+flown
+	arise
+	could 168
+	bloom 5
+	flown 1
+	4
+below
+	arise
+	olden 121
+	hello 4
+	below 1
+	4
+flesh
+	arise
+	guess 9
+	chest 3
+	flesh 1
+	4
+cedar
+	arise
+	later 61
+	rebar 3
+	cedar 1
+	4
+modal
+	arise
+	canal 154
+	total 6
+	loyal 2
+	modal 1
+	5
+plead
+	arise
+	metal 79
+	glean 4
+	bleak 2
+	plead 1
+	5
+drain
+	arise
+	train 9
+	brain 3
+	drain 2
+	4
+thick
+	arise
+	cling 51
+	quick 4
+	thick 1
+	4
+cling
+	arise
+	cling 51
+	2
+fairy
+	arise
+	hairy 5
+	fairy 2
+	3
+clink
+	arise
+	cling 51
+	clink 1
+	3
+stamp
+	arise
+	slant 61
+	stack 4
+	stamp 2
+	4
+dense
+	arise
+	loose 20
+	these 5
+	sense 2
+	dense 1
+	5
+boost
+	arise
+	floss 17
+	ghost 2
+	boost 1
+	4
+prove
+	arise
+	trope 21
+	probe 3
+	prone 2
+	prove 1
+	5
+chasm
+	arise
+	slash 25
+	chasm 1
+	3
+crock
+	arise
+	trunk 49
+	frock 4
+	crock 1
+	4
+spree
+	arise
+	scree 10
+	spree 1
+	3
+testy
+	arise
+	spelt 41
+	zesty 4
+	testy 1
+	4
+idiom
+	arise
+	cling 51
+	idiot 5
+	idiom 1
+	4
+child
+	arise
+	cling 51
+	chill 3
+	chili 2
+	child 1
+	5
+inane
+	arise
+	image 2
+	inane 1
+	3
+plant
+	arise
+	canal 154
+	blank 6
+	gland 2
+	plant 1
+	5
+fiend
+	arise
+	widen 35
+	fiend 1
+	3
+patch
+	arise
+	canal 154
+	match 10
+	watch 4
+	hatch 3
+	batch 2
+	patch 1
+	7
+third
+	arise
+	twirl 7
+	third 1
+	3
+trite
+	arise
+	tripe 17
+	tribe 3
+	trice 2
+	trite 1
+	5
+worst
+	arise
+	burst 4
+	worst 1
+	3
+aloof
+	arise
+	aloft 29
+	aloof 1
+	3
+scene
+	arise
+	stone 17
+	scene 1
+	3
+flora
+	arise
+	carol 62
+	polar 3
+	flora 1
+	4
+stage
+	arise
+	haste 29
+	stake 4
+	stave 3
+	stale 2
+	stage 1
+	6
+abate
+	arise
+	abate 20
+	2
+spark
+	arise
+	strap 23
+	spark 1
+	3
+vigor
+	arise
+	birch 20
+	rigor 4
+	vigor 1
+	4
+birch
+	arise
+	birch 20
+	2
+scowl
+	arise
+	stunk 80
+	scowl 12
+	3
+glint
+	arise
+	cling 51
+	glint 1
+	3
+award
+	arise
+	actor 14
+	alarm 3
+	award 1
+	4
+tibia
+	arise
+	panic 35
+	quail 3
+	tibia 1
+	4
+delta
+	arise
+	metal 79
+	leapt 4
+	delta 1
+	4
+squib
+	arise
+	stoic 21
+	squib 1
+	3
+crepe
+	arise
+	trope 21
+	crepe 1
+	3
+agree
+	arise
+	azure 4
+	agree 1
+	3
+trump
+	arise
+	trunk 49
+	truly 3
+	trump 2
+	4
+dream
+	arise
+	tread 11
+	dream 1
+	3
+owner
+	arise
+	outer 100
+	odder 4
+	offer 2
+	owner 1
+	5
+tulle
+	arise
+	lunge 61
+	tulle 1
+	3
+plaza
+	arise
+	canal 154
+	llama 3
+	plaza 1
+	4
+clasp
+	arise
+	slash 25
+	flask 3
+	clasp 2
+	4
+linen
+	arise
+	widen 35
+	liken 4
+	linen 1
+	4
+mangy
+	arise
+	canal 154
+	tangy 9
+	mangy 1
+	4
+blood
+	arise
+	could 168
+	blond 3
+	blood 1
+	4
+first
+	arise
+	first 1
+	2
+spear
+	arise
+	smear 6
+	swear 3
+	shear 2
+	spear 1
+	5
+laden
+	arise
+	metal 79
+	laden 1
+	3
+aware
+	arise
+	azure 4
+	adore 2
+	aware 1
+	4
+ounce
+	arise
+	lunge 61
+	dunce 2
+	ounce 1
+	4
+rider
+	arise
+	ripen 34
+	river 3
+	rider 1
+	4
+share
+	arise
+	spare 5
+	scare 4
+	snare 3
+	stare 2
+	share 1
+	6
+basin
+	arise
+	slain 12
+	basin 1
+	3
+droit
+	arise
+	orbit 7
+	droit 1
+	3
+neigh
+	arise
+	edict 15
+	feign 4
+	neigh 1
+	4
+splat
+	arise
+	slant 61
+	splat 1
+	3
+setup
+	arise
+	spelt 41
+	setup 1
+	3
+stony
+	arise
+	stunk 80
+	stony 1
+	3
+genre
+	arise
+	verge 25
+	genre 1
+	3
+salvo
+	arise
+	slant 61
+	sadly 5
+	salvo 1
+	4
+mouth
+	arise
+	could 168
+	mouth 7
+	3
+bravo
+	arise
+	grant 35
+	wrack 10
+	drama 3
+	bravo 1
+	5
+beefy
+	arise
+	olden 121
+	beech 12
+	beefy 1
+	4
+spoof
+	arise
+	stunk 80
+	scowl 12
+	spoof 1
+	4
+missy
+	arise
+	tipsy 6
+	missy 2
+	3
+fetid
+	arise
+	widen 35
+	tepid 4
+	fetid 1
+	4
+spawn
+	arise
+	slant 61
+	snaky 3
+	spawn 1
+	4
+sleek
+	arise
+	spelt 41
+	sleek 1
+	3
+teddy
+	arise
+	olden 121
+	teddy 1
+	3
+catty
+	arise
+	canal 154
+	catty 5
+	3
+fudge
+	arise
+	lunge 61
+	judge 3
+	fudge 2
+	4
+jerky
+	arise
+	outer 100
+	clerk 15
+	perky 2
+	jerky 1
+	5
+flout
+	arise
+	could 168
+	flout 2
+	3
+logic
+	arise
+	pilot 107
+	logic 2
+	3
+aunty
+	arise
+	aloft 29
+	aunty 1
+	3
+thing
+	arise
+	cling 51
+	doing 7
+	tying 3
+	thing 1
+	5
+stung
+	arise
+	stunk 80
+	stunt 2
+	stung 1
+	4
+vinyl
+	arise
+	pilot 107
+	livid 5
+	vinyl 1
+	4
+poise
+	arise
+	noise 3
+	poise 1
+	3
+ditty
+	arise
+	pilot 107
+	ditch 13
+	ditty 1
+	4
+dowdy
+	arise
+	could 168
+	dowdy 8
+	3
+sheik
+	arise
+	stein 4
+	sheik 1
+	3
+trial
+	arise
+	briar 4
+	triad 2
+	trial 1
+	4
+foggy
+	arise
+	could 168
+	boozy 14
+	poppy 2
+	foggy 1
+	5
+ledge
+	arise
+	lunge 61
+	lodge 2
+	ledge 1
+	4
+rerun
+	arise
+	outer 100
+	rerun 1
+	3
+solid
+	arise
+	stoic 21
+	solid 1
+	3
+sedan
+	arise
+	stead 10
+	sedan 1
+	3
+extra
+	arise
+	later 61
+	extra 1
+	3
+mogul
+	arise
+	could 168
+	mogul 1
+	3
+artsy
+	arise
+	artsy 1
+	2
+cross
+	arise
+	crust 10
+	cross 1
+	3
+weave
+	arise
+	cable 47
+	weave 6
+	3
+staff
+	arise
+	slant 61
+	stack 4
+	stamp 2
+	staff 1
+	5
+queer
+	arise
+	outer 100
+	ruler 5
+	buyer 2
+	queer 1
+	5
+fetus
+	arise
+	spelt 41
+	zesty 4
+	fetus 1
+	4
+ninny
+	arise
+	pilot 107
+	windy 16
+	kinky 2
+	ninny 1
+	5
+spent
+	arise
+	spelt 41
+	spent 1
+	3
+heave
+	arise
+	cable 47
+	weave 6
+	heave 1
+	4
+crust
+	arise
+	crust 10
+	2
+bacon
+	arise
+	canal 154
+	bacon 1
+	3
+sword
+	arise
+	short 25
+	scorn 3
+	sword 1
+	4
+ought
+	arise
+	could 168
+	outgo 7
+	ought 1
+	4
+pagan
+	arise
+	canal 154
+	pagan 1
+	3
+tenth
+	arise
+	olden 121
+	wench 6
+	tenth 1
+	4
+barge
+	arise
+	barge 8
+	2
+tower
+	arise
+	outer 100
+	tower 1
+	3
+march
+	arise
+	carol 62
+	march 1
+	3
+hitch
+	arise
+	pilot 107
+	ditty 13
+	witch 2
+	hitch 1
+	5
+renal
+	arise
+	later 61
+	regal 7
+	renal 1
+	4
+tamer
+	arise
+	later 61
+	taker 3
+	taper 2
+	tamer 1
+	5
+youth
+	arise
+	could 168
+	mouth 7
+	youth 1
+	4
+cloth
+	arise
+	could 168
+	clown 3
+	clock 2
+	cloth 1
+	5
+built
+	arise
+	cling 51
+	quilt 4
+	built 1
+	4
+leggy
+	arise
+	olden 121
+	belly 10
+	lefty 2
+	leggy 1
+	5
+shiny
+	arise
+	stink 29
+	sling 5
+	spiny 2
+	shiny 1
+	5
+twang
+	arise
+	canal 154
+	thank 2
+	twang 1
+	4
+funky
+	arise
+	could 168
+	humph 15
+	bunny 6
+	funky 1
+	5
+harem
+	arise
+	later 61
+	ramen 3
+	harem 1
+	4
+truth
+	arise
+	trunk 49
+	truly 3
+	trump 2
+	truth 1
+	5
+vying
+	arise
+	cling 51
+	doing 7
+	tying 3
+	vying 1
+	5
+taunt
+	arise
+	canal 154
+	gaunt 9
+	vaunt 5
+	daunt 4
+	haunt 3
+	taunt 2
+	7
+carol
+	arise
+	carol 62
+	2
+aorta
+	arise
+	actor 14
+	abort 2
+	aorta 1
+	4
+jolly
+	arise
+	could 168
+	holly 8
+	folly 3
+	golly 2
+	jolly 1
+	6
+unfit
+	arise
+	pilot 107
+	unfit 1
+	3
+fetch
+	arise
+	olden 121
+	hefty 12
+	fetch 1
+	4
+iliac
+	arise
+	taint 9
+	voila 2
+	iliac 1
+	4
+rearm
+	arise
+	later 61
+	ready 12
+	rearm 2
+	4
+molar
+	arise
+	carol 62
+	polar 3
+	molar 1
+	4
+putty
+	arise
+	could 168
+	humph 15
+	puffy 2
+	putty 1
+	5
+crump
+	arise
+	trunk 49
+	crumb 3
+	crump 1
+	4
+ester
+	arise
+	sheer 20
+	ester 1
+	3
+score
+	arise
+	scree 10
+	score 1
+	3
+geese
+	arise
+	loose 20
+	these 5
+	geese 1
+	4
+aback
+	arise
+	aloft 29
+	aback 1
+	3
+fatal
+	arise
+	canal 154
+	papal 2
+	fatal 1
+	4
+crank
+	arise
+	grant 35
+	prank 5
+	frank 3
+	drank 2
+	crank 1
+	6
+baggy
+	arise
+	canal 154
+	datum 20
+	gawky 4
+	baggy 1
+	5
+dread
+	arise
+	tread 11
+	bread 2
+	dread 1
+	4
+flail
+	arise
+	panic 35
+	quail 3
+	flail 1
+	4
+spank
+	arise
+	slant 61
+	shank 2
+	spank 1
+	4
+crown
+	arise
+	trunk 49
+	brown 5
+	grown 4
+	frown 3
+	crown 2
+	6
+howdy
+	arise
+	could 168
+	dowdy 8
+	howdy 1
+	4
+fiery
+	arise
+	ripen 34
+	fiery 1
+	3
+mucus
+	arise
+	stunk 80
+	mushy 8
+	mucus 1
+	4
+curry
+	arise
+	torch 64
+	curvy 3
+	curly 2
+	curry 1
+	5
+cynic
+	arise
+	pilot 107
+	cubic 6
+	cynic 1
+	4
+lager
+	arise
+	later 61
+	layer 2
+	lager 1
+	4
+manga
+	arise
+	canal 154
+	manga 1
+	3
+agora
+	arise
+	actor 14
+	adorn 2
+	agora 1
+	4
+rainy
+	arise
+	hairy 5
+	rainy 1
+	3
+cyber
+	arise
+	outer 100
+	fever 14
+	hyper 2
+	cyber 1
+	5
+since
+	arise
+	siege 5
+	since 1
+	3
+slept
+	arise
+	spelt 41
+	slept 1
+	3
+array
+	arise
+	armor 6
+	array 1
+	3
+lipid
+	arise
+	pilot 107
+	lipid 1
+	3
+smote
+	arise
+	stone 17
+	smote 1
+	3
+remit
+	arise
+	ripen 34
+	refit 3
+	remit 1
+	4
+lapse
+	arise
+	lapse 10
+	2
+cease
+	arise
+	lapse 10
+	tease 3
+	cease 1
+	4
+slain
+	arise
+	slain 12
+	2
+budge
+	arise
+	lunge 61
+	judge 3
+	fudge 2
+	budge 1
+	5
+swami
+	arise
+	slain 12
+	swami 1
+	3
+wooly
+	arise
+	could 168
+	holly 8
+	nobly 2
+	wooly 1
+	5
+patio
+	arise
+	panic 35
+	patio 1
+	3
+vista
+	arise
+	slain 12
+	vista 1
+	3
+check
+	arise
+	olden 121
+	beech 12
+	check 1
+	4
+dowry
+	arise
+	torch 64
+	mourn 7
+	dowry 1
+	4
+hound
+	arise
+	could 168
+	mound 6
+	found 5
+	wound 4
+	bound 3
+	pound 2
+	hound 1
+	8
+jaunt
+	arise
+	canal 154
+	gaunt 9
+	vaunt 5
+	daunt 4
+	haunt 3
+	taunt 2
+	jaunt 1
+	8
+sally
+	arise
+	slant 61
+	sadly 5
+	sally 1
+	4
+umbra
+	arise
+	carol 62
+	dwarf 7
+	umbra 1
+	4
+class
+	arise
+	slash 25
+	glass 2
+	class 1
+	4
+salad
+	arise
+	slant 61
+	sadly 5
+	salad 1
+	4
+foamy
+	arise
+	canal 154
+	dogma 5
+	foamy 1
+	4
+tenor
+	arise
+	outer 100
+	tenor 1
+	3
+glare
+	arise
+	barge 8
+	glare 1
+	3
+fluff
+	arise
+	could 168
+	flunk 8
+	fluff 1
+	4
+shire
+	arise
+	spire 2
+	shire 1
+	3
+state
+	arise
+	haste 29
+	state 3
+	3
+quash
+	arise
+	slash 25
+	gnash 2
+	quash 1
+	4
+groin
+	arise
+	orbit 7
+	groin 1
+	3
+chunk
+	arise
+	could 168
+	chuck 3
+	chunk 1
+	4
+allot
+	arise
+	aloft 29
+	allot 1
+	3
+amble
+	arise
+	abate 20
+	adobe 2
+	amble 1
+	4
+wagon
+	arise
+	canal 154
+	gaunt 9
+	wagon 1
+	4
+faith
+	arise
+	taint 9
+	faith 1
+	3
+cutie
+	arise
+	binge 25
+	cutie 2
+	3
+lemon
+	arise
+	olden 121
+	melon 3
+	lemon 1
+	4
+pecan
+	arise
+	metal 79
+	began 5
+	pecan 1
+	4
+reuse
+	arise
+	rouse 9
+	reuse 1
+	3
+chart
+	arise
+	carol 62
+	charm 3
+	chard 2
+	chart 1
+	5
+weird
+	arise
+	plier 4
+	reign 2
+	weird 1
+	4
+salon
+	arise
+	slant 61
+	salon 1
+	3
+aroma
+	arise
+	armor 6
+	aroma 1
+	3
+fussy
+	arise
+	floss 17
+	fussy 1
+	3
+giver
+	arise
+	ripen 34
+	diver 10
+	liver 2
+	giver 1
+	5
+plume
+	arise
+	lunge 61
+	flume 6
+	plume 1
+	4
+sewer
+	arise
+	sheer 20
+	sever 2
+	sewer 1
+	4
+humid
+	arise
+	pilot 107
+	cubic 6
+	humid 1
+	4
+anime
+	arise
+	alive 5
+	anime 2
+	3
+great
+	arise
+	tread 11
+	great 1
+	3
+small
+	arise
+	slant 61
+	scaly 6
+	shall 2
+	small 1
+	5
+cheer
+	arise
+	outer 100
+	fever 14
+	ember 3
+	cheer 1
+	5
+cagey
+	arise
+	metal 79
+	waxen 5
+	cagey 1
+	4
+crowd
+	arise
+	trunk 49
+	droop 13
+	crowd 1
+	4
+clout
+	arise
+	could 168
+	clout 1
+	3
+tubal
+	arise
+	canal 154
+	total 6
+	tubal 1
+	4
+epoxy
+	arise
+	olden 121
+	gecko 4
+	epoxy 1
+	4
+khaki
+	arise
+	panic 35
+	viola 5
+	khaki 1
+	4
+visit
+	arise
+	stoic 21
+	visit 1
+	3
+dandy
+	arise
+	canal 154
+	tangy 9
+	fanny 4
+	handy 2
+	dandy 1
+	6
+creak
+	arise
+	tread 11
+	freak 5
+	wreak 3
+	break 2
+	creak 1
+	6
+movie
+	arise
+	binge 25
+	cutie 2
+	movie 1
+	4
+prowl
+	arise
+	trunk 49
+	droop 13
+	proxy 2
+	prowl 1
+	5
+knelt
+	arise
+	olden 121
+	newly 2
+	knelt 1
+	4
+grate
+	arise
+	grace 18
+	graze 5
+	grade 4
+	grape 3
+	grate 2
+	6
+topic
+	arise
+	pilot 107
+	optic 2
+	topic 1
+	4
+halve
+	arise
+	cable 47
+	halve 5
+	3
+conic
+	arise
+	pilot 107
+	comic 4
+	conic 1
+	4
+acrid
+	arise
+	acrid 1
+	2
+decoy
+	arise
+	olden 121
+	depot 3
+	decoy 1
+	4
+exact
+	arise
+	metal 79
+	cadet 6
+	enact 2
+	exact 1
+	5
+flaky
+	arise
+	canal 154
+	llama 8
+	flaky 1
+	4
+downy
+	arise
+	could 168
+	dowdy 8
+	downy 1
+	4
+venom
+	arise
+	olden 121
+	envoy 4
+	venom 1
+	4
+penal
+	arise
+	metal 79
+	decal 5
+	legal 2
+	penal 1
+	5
+debar
+	arise
+	later 61
+	rebar 3
+	debar 1
+	4
+duchy
+	arise
+	could 168
+	dutch 2
+	duchy 1
+	4
+lanky
+	arise
+	canal 154
+	manly 2
+	lanky 1
+	4
+privy
+	arise
+	drink 22
+	primo 8
+	privy 1
+	4
+death
+	arise
+	metal 79
+	heath 3
+	death 1
+	4
+stash
+	arise
+	slash 25
+	swash 3
+	smash 2
+	stash 1
+	5
+tango
+	arise
+	canal 154
+	tangy 9
+	tango 1
+	4
+booby
+	arise
+	could 168
+	boozy 14
+	booty 2
+	booby 1
+	5
+empty
+	arise
+	olden 121
+	beech 12
+	empty 1
+	4
+fauna
+	arise
+	canal 154
+	fauna 1
+	3
+early
+	arise
+	later 61
+	early 1
+	3
+elbow
+	arise
+	olden 121
+	elbow 1
+	3
+thyme
+	arise
+	lunge 61
+	theme 8
+	thyme 1
+	4
+prick
+	arise
+	drink 22
+	brick 4
+	trick 3
+	crick 2
+	prick 1
+	6
+blind
+	arise
+	cling 51
+	blink 3
+	blind 1
+	4
+chaos
+	arise
+	slant 61
+	chaos 1
+	3
+stain
+	arise
+	slain 12
+	stain 1
+	3
+tacky
+	arise
+	canal 154
+	match 10
+	tacky 1
+	4
+grave
+	arise
+	grace 18
+	graze 5
+	grade 4
+	grape 3
+	grate 2
+	grave 1
+	7
+saucy
+	arise
+	slant 61
+	scuba 7
+	saucy 1
+	4
+bunch
+	arise
+	could 168
+	hunch 8
+	punch 3
+	munch 2
+	bunch 1
+	6
+belch
+	arise
+	olden 121
+	belly 10
+	belch 1
+	4
+niece
+	arise
+	binge 25
+	niche 2
+	niece 1
+	4
+kneel
+	arise
+	olden 121
+	kneel 1
+	3
+loopy
+	arise
+	could 168
+	lofty 4
+	lobby 2
+	loopy 1
+	5
+stork
+	arise
+	short 25
+	story 3
+	storm 2
+	stork 1
+	5
+civil
+	arise
+	pilot 107
+	livid 5
+	civil 1
+	4
+hater
+	arise
+	later 61
+	cater 4
+	water 3
+	eater 2
+	hater 1
+	6
+voter
+	arise
+	outer 100
+	voter 1
+	3
+sissy
+	arise
+	tipsy 6
+	missy 2
+	sissy 1
+	4
+reach
+	arise
+	later 61
+	ready 12
+	rearm 2
+	reach 1
+	5
+coven
+	arise
+	olden 121
+	woken 5
+	coven 1
+	4
+olden
+	arise
+	olden 121
+	2
+spoil
+	arise
+	stoic 21
+	spoil 1
+	3
+clove
+	arise
+	lunge 61
+	belle 8
+	clove 1
+	4
+maker
+	arise
+	later 61
+	wager 15
+	parer 8
+	baker 2
+	maker 1
+	6
+whoop
+	arise
+	could 168
+	phony 5
+	whoop 1
+	4
+dance
+	arise
+	cable 47
+	dance 1
+	3
+gassy
+	arise
+	slash 25
+	gassy 1
+	3
+snoop
+	arise
+	stunk 80
+	snowy 6
+	snoop 1
+	4
+abide
+	arise
+	alive 5
+	anime 2
+	abide 1
+	4
+queen
+	arise
+	olden 121
+	hymen 2
+	queen 1
+	4
+bleep
+	arise
+	olden 121
+	fleet 2
+	bleep 1
+	4
+steal
+	arise
+	stead 10
+	steam 3
+	steal 2
+	4
+rigid
+	arise
+	birch 20
+	rigor 4
+	rigid 1
+	4
+stank
+	arise
+	slant 61
+	stand 2
+	stank 1
+	4
+folio
+	arise
+	pilot 107
+	folio 1
+	3
+irate
+	arise
+	irate 1
+	2
+cheap
+	arise
+	metal 79
+	ocean 3
+	cheap 1
+	4
+utter
+	arise
+	outer 100
+	utter 1
+	3
+mouse
+	arise
+	loose 20
+	copse 4
+	house 2
+	mouse 1
+	5
+relay
+	arise
+	later 61
+	regal 7
+	relax 2
+	relay 1
+	5
+bused
+	arise
+	spelt 41
+	nosey 2
+	bused 1
+	4
+older
+	arise
+	outer 100
+	odder 4
+	older 1
+	4
+catch
+	arise
+	canal 154
+	catty 5
+	catch 1
+	4
+brave
+	arise
+	grace 18
+	drake 6
+	frame 2
+	brave 1
+	5
+kneed
+	arise
+	olden 121
+	unfed 3
+	kneed 1
+	4
+ether
+	arise
+	outer 100
+	ether 1
+	3
+flirt
+	arise
+	twirl 7
+	flirt 1
+	3
+seven
+	arise
+	spelt 41
+	semen 2
+	seven 1
+	4
+aloft
+	arise
+	aloft 29
+	2
+incur
+	arise
+	birch 20
+	incur 1
+	3
+blown
+	arise
+	could 168
+	bloom 5
+	blown 1
+	4
+loamy
+	arise
+	canal 154
+	llama 8
+	loamy 1
+	4
+frisk
+	arise
+	brisk 5
+	frisk 1
+	3
+threw
+	arise
+	outer 100
+	beret 3
+	threw 1
+	4
+drawn
+	arise
+	grant 35
+	prawn 3
+	drawn 2
+	4
+spiky
+	arise
+	stink 29
+	skimp 4
+	spiky 1
+	4
+spicy
+	arise
+	stink 29
+	spicy 4
+	3
+under
+	arise
+	outer 100
+	udder 5
+	under 1
+	4
+dilly
+	arise
+	pilot 107
+	filmy 7
+	billy 4
+	hilly 3
+	willy 2
+	dilly 1
+	7
+aging
+	arise
+	axion 9
+	aping 2
+	aging 1
+	4
+lingo
+	arise
+	pilot 107
+	limbo 2
+	lingo 1
+	4
+trunk
+	arise
+	trunk 49
+	2
+scarf
+	arise
+	strap 23
+	shark 7
+	scary 4
+	scarf 1
+	5
+tooth
+	arise
+	could 168
+	boozy 14
+	tooth 1
+	4
+smirk
+	arise
+	shirk 5
+	smirk 1
+	3
+scram
+	arise
+	strap 23
+	scram 1
+	3
+dopey
+	arise
+	olden 121
+	dopey 1
+	3
+recut
+	arise
+	outer 100
+	rebut 2
+	recut 1
+	4
+flunk
+	arise
+	could 168
+	flunk 8
+	3
+booze
+	arise
+	lunge 61
+	theme 8
+	booze 1
+	4
+salty
+	arise
+	slant 61
+	salty 1
+	3
+total
+	arise
+	canal 154
+	total 6
+	3
+ghoul
+	arise
+	could 168
+	flout 2
+	ghoul 1
+	4
+bison
+	arise
+	stoic 21
+	bison 1
+	3
+motif
+	arise
+	pilot 107
+	toxin 4
+	motif 1
+	4
+shrub
+	arise
+	short 25
+	shrug 2
+	shrub 1
+	4
+shard
+	arise
+	strap 23
+	shark 7
+	shard 1
+	4
+woven
+	arise
+	olden 121
+	woken 5
+	woven 2
+	4
+rugby
+	arise
+	torch 64
+	blurb 3
+	rugby 1
+	4
+blast
+	arise
+	slash 25
+	flask 3
+	clasp 2
+	blast 1
+	5
+stoke
+	arise
+	stone 17
+	stove 3
+	stole 2
+	stoke 1
+	5
+libel
+	arise
+	widen 35
+	pixel 4
+	libel 1
+	4
+poker
+	arise
+	outer 100
+	rower 19
+	mover 10
+	joker 5
+	poker 1
+	6
+drown
+	arise
+	trunk 49
+	brown 5
+	grown 4
+	frown 3
+	crown 2
+	drown 1
+	7
+spill
+	arise
+	stink 29
+	spicy 4
+	spill 1
+	4
+upper
+	arise
+	outer 100
+	udder 5
+	ulcer 2
+	upper 1
+	5
+crisp
+	arise
+	brisk 5
+	prism 3
+	crisp 1
+	4
+swish
+	arise
+	hoist 9
+	whisk 2
+	swish 1
+	4
+frost
+	arise
+	crust 10
+	tryst 2
+	frost 1
+	4
+paste
+	arise
+	slate 29
+	taste 6
+	waste 5
+	caste 4
+	baste 3
+	haste 2
+	paste 1
+	8
+brand
+	arise
+	grant 35
+	prank 5
+	brand 1
+	4
+slate
+	arise
+	haste 29
+	state 3
+	slate 2
+	4
+sound
+	arise
+	stunk 80
+	slung 3
+	sound 1
+	4
+sauce
+	arise
+	haste 29
+	salve 2
+	sauce 1
+	4
+amply
+	arise
+	aloft 29
+	apply 3
+	amply 1
+	4
+shaky
+	arise
+	slant 61
+	scamp 7
+	shaky 2
+	4
+where
+	arise
+	verge 25
+	there 3
+	where 1
+	4
+stool
+	arise
+	stunk 80
+	stoop 4
+	stood 2
+	stool 1
+	5
+audio
+	arise
+	admit 13
+	aphid 3
+	audio 1
+	4
+buxom
+	arise
+	could 168
+	outgo 7
+	buxom 1
+	4
+steak
+	arise
+	stead 10
+	steam 3
+	steal 2
+	steak 1
+	5
+quark
+	arise
+	carol 62
+	dwarf 7
+	quart 2
+	quark 1
+	5
+vigil
+	arise
+	pilot 107
+	livid 5
+	vigil 1
+	4
+title
+	arise
+	binge 25
+	tilde 8
+	title 1
+	4
+vixen
+	arise
+	widen 35
+	liken 4
+	given 2
+	vixen 1
+	5
+filer
+	arise
+	ripen 34
+	diver 10
+	fiber 5
+	fixer 2
+	filer 1
+	6
+login
+	arise
+	pilot 107
+	logic 2
+	login 1
+	4
+icily
+	arise
+	cling 51
+	icily 1
+	3
+expel
+	arise
+	olden 121
+	bevel 8
+	excel 3
+	expel 1
+	5
+shady
+	arise
+	slant 61
+	scamp 7
+	shaky 2
+	shady 1
+	5
+basis
+	arise
+	slain 12
+	basic 2
+	basis 1
+	4
+annex
+	arise
+	angel 10
+	annex 1
+	3
+chess
+	arise
+	guess 9
+	bless 2
+	chess 1
+	4
+ebony
+	arise
+	olden 121
+	envoy 4
+	ebony 1
+	4
+upset
+	arise
+	spelt 41
+	upset 1
+	3
+skate
+	arise
+	slate 29
+	state 2
+	skate 1
+	4
+craft
+	arise
+	grant 35
+	draft 3
+	craft 1
+	4
+candy
+	arise
+	canal 154
+	canny 3
+	candy 1
+	4
+gripe
+	arise
+	tripe 17
+	gripe 1
+	3
+anger
+	arise
+	alter 6
+	amber 2
+	anger 1
+	4
+think
+	arise
+	cling 51
+	joint 4
+	think 1
+	4
+lumen
+	arise
+	olden 121
+	lumen 1
+	3
+dingo
+	arise
+	pilot 107
+	bingo 2
+	dingo 1
+	4
+frond
+	arise
+	trunk 49
+	wrong 4
+	crony 2
+	frond 1
+	5
+block
+	arise
+	could 168
+	flock 2
+	block 1
+	4
+cocoa
+	arise
+	canal 154
+	comma 5
+	cocoa 1
+	4
+phase
+	arise
+	lapse 10
+	phase 1
+	3
+women
+	arise
+	olden 121
+	woken 5
+	woven 2
+	women 1
+	5
+timid
+	arise
+	pilot 107
+	ditch 13
+	timid 1
+	4
+witty
+	arise
+	pilot 107
+	ditty 13
+	kitty 3
+	bitty 2
+	witty 1
+	6
+swill
+	arise
+	stink 29
+	spicy 4
+	swill 1
+	4
+foray
+	arise
+	carol 62
+	borax 2
+	foray 1
+	4
+daddy
+	arise
+	canal 154
+	datum 20
+	daddy 1
+	4
+teary
+	arise
+	later 61
+	terra 4
+	teary 1
+	4
+dairy
+	arise
+	hairy 5
+	fairy 2
+	dairy 1
+	4
+gulch
+	arise
+	could 168
+	mulch 4
+	gulch 1
+	4
+tidal
+	arise
+	panic 35
+	viola 5
+	tidal 1
+	4
+dryly
+	arise
+	trunk 49
+	droop 13
+	dryly 1
+	4
+colon
+	arise
+	could 168
+	colon 1
+	3
+their
+	arise
+	ripen 34
+	merit 2
+	their 1
+	4
+cheat
+	arise
+	metal 79
+	wheat 3
+	cheat 1
+	4
+print
+	arise
+	drink 22
+	bring 4
+	print 1
+	4
+cargo
+	arise
+	carol 62
+	cargo 1
+	3
+brawn
+	arise
+	grant 35
+	prawn 3
+	drawn 2
+	brawn 1
+	5
+trope
+	arise
+	trope 21
+	2
+raise
+	arise
+	raise 1
+	2
+grain
+	arise
+	train 9
+	brain 3
+	drain 2
+	grain 1
+	5
+event
+	arise
+	olden 121
+	wench 6
+	enemy 2
+	event 1
+	5
+bossy
+	arise
+	floss 17
+	mossy 2
+	bossy 1
+	4
+funny
+	arise
+	could 168
+	humph 15
+	bunny 6
+	funny 1
+	5
+knock
+	arise
+	could 168
+	knock 1
+	3
+scrub
+	arise
+	short 25
+	scrum 4
+	scrub 1
+	4
+panic
+	arise
+	panic 35
+	2
+shame
+	arise
+	haste 29
+	shape 6
+	shave 5
+	shade 4
+	shale 3
+	shake 2
+	shame 1
+	8
+snail
+	arise
+	slain 12
+	snail 1
+	3
+sport
+	arise
+	short 25
+	snort 2
+	sport 1
+	4
+dizzy
+	arise
+	pilot 107
+	windy 16
+	dizzy 1
+	4
+fuzzy
+	arise
+	could 168
+	humph 15
+	bunny 6
+	fuzzy 1
+	5
+bugle
+	arise
+	lunge 61
+	bugle 1
+	3
+filth
+	arise
+	pilot 107
+	filth 1
+	3
+evade
+	arise
+	cable 47
+	weave 6
+	evade 1
+	4
+welch
+	arise
+	olden 121
+	belly 10
+	welch 1
+	4
+learn
+	arise
+	later 61
+	learn 1
+	3
+moody
+	arise
+	could 168
+	dowdy 8
+	goody 2
+	moody 1
+	5
+satyr
+	arise
+	strap 23
+	smart 2
+	satyr 1
+	4
+anode
+	arise
+	abate 20
+	ankle 7
+	anode 1
+	4
+crate
+	arise
+	grace 18
+	crane 4
+	craze 3
+	crave 2
+	crate 1
+	6
+slink
+	arise
+	stink 29
+	slink 1
+	3
+corer
+	arise
+	outer 100
+	rower 19
+	corer 1
+	4
+milky
+	arise
+	pilot 107
+	filmy 7
+	milky 1
+	4
+spoke
+	arise
+	stone 17
+	slope 5
+	spoke 1
+	4
+sixty
+	arise
+	stoic 21
+	sixth 3
+	sixty 1
+	4
+begin
+	arise
+	widen 35
+	elfin 2
+	begin 1
+	4
+pluck
+	arise
+	could 168
+	pluck 1
+	3
+fjord
+	arise
+	torch 64
+	floor 5
+	fjord 1
+	4
+nymph
+	arise
+	could 168
+	pygmy 2
+	nymph 1
+	4
+shine
+	arise
+	spine 15
+	swine 2
+	shine 1
+	4
+floss
+	arise
+	floss 17
+	2
+randy
+	arise
+	carol 62
+	radar 4
+	randy 1
+	4
+sheen
+	arise
+	spelt 41
+	seedy 2
+	sheen 1
+	4
+begat
+	arise
+	metal 79
+	begat 1
+	3
+sloop
+	arise
+	stunk 80
+	scowl 12
+	sloop 1
+	4
+vocal
+	arise
+	canal 154
+	focal 4
+	local 2
+	vocal 1
+	5
+steed
+	arise
+	spelt 41
+	steed 1
+	3
+alibi
+	arise
+	axion 9
+	amity 2
+	alibi 1
+	4
+urban
+	arise
+	grant 35
+	urban 1
+	3
+virus
+	arise
+	sprig 5
+	virus 1
+	3
+jiffy
+	arise
+	pilot 107
+	windy 16
+	fizzy 2
+	jiffy 1
+	5
+flier
+	arise
+	plier 4
+	flier 1
+	3
+clerk
+	arise
+	outer 100
+	clerk 15
+	3
+month
+	arise
+	could 168
+	boozy 14
+	month 1
+	4
+vague
+	arise
+	cable 47
+	gauge 8
+	vague 1
+	4
+chair
+	arise
+	nadir 17
+	flair 2
+	chair 1
+	4
+wafer
+	arise
+	later 61
+	wager 15
+	waver 2
+	wafer 1
+	5
+devil
+	arise
+	widen 35
+	tepid 4
+	devil 1
+	4
+otter
+	arise
+	outer 100
+	otter 1
+	3
+tapir
+	arise
+	nadir 17
+	tapir 1
+	3
+broth
+	arise
+	trunk 49
+	froth 3
+	broth 1
+	4
+usher
+	arise
+	sheer 20
+	usher 1
+	3
+salsa
+	arise
+	slash 25
+	salsa 1
+	3
+caulk
+	arise
+	canal 154
+	caulk 1
+	3
+junto
+	arise
+	could 168
+	outgo 7
+	junto 1
+	4
+loser
+	arise
+	sheer 20
+	poser 2
+	loser 1
+	4
+crypt
+	arise
+	trunk 49
+	froth 3
+	crypt 1
+	4
+visor
+	arise
+	sprig 5
+	risky 2
+	visor 1
+	4
+raspy
+	arise
+	strap 23
+	raspy 1
+	3
+treat
+	arise
+	tread 11
+	treat 1
+	3
+unset
+	arise
+	spelt 41
+	onset 3
+	unset 1
+	4
+south
+	arise
+	stunk 80
+	south 1
+	3
+fraud
+	arise
+	grant 35
+	wrack 10
+	drama 3
+	fraud 1
+	5
+haute
+	arise
+	cable 47
+	gauge 8
+	mauve 2
+	haute 1
+	5
+ideal
+	arise
+	media 3
+	ideal 1
+	3
+toddy
+	arise
+	could 168
+	dowdy 8
+	toddy 1
+	4
+begun
+	arise
+	olden 121
+	begun 1
+	3
+tiara
+	arise
+	nadir 17
+	circa 4
+	tiara 1
+	4
+verve
+	arise
+	verge 25
+	verve 1
+	3
+viper
+	arise
+	ripen 34
+	piper 2
+	viper 1
+	4
+robot
+	arise
+	torch 64
+	motor 3
+	robot 1
+	4
+warty
+	arise
+	carol 62
+	party 10
+	warty 1
+	4
+pasty
+	arise
+	slant 61
+	hasty 4
+	tasty 2
+	pasty 1
+	5
+algae
+	arise
+	abate 20
+	algae 1
+	3
+beast
+	arise
+	least 5
+	yeast 3
+	feast 2
+	beast 1
+	5

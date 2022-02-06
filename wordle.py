@@ -1,4 +1,4 @@
-#!python3
+#! /usr/local/bin/python3
 
 import fileinput
 import sys
@@ -156,17 +156,6 @@ class Constraint:
                 fail = True
         return not fail
 
-    def score(self):
-        """
-        depricated: i don't like how this is a guess at how good the filter is.
-
-        how specific the constraints are. inverse how many letters are
-        allowed in each posision. if all 26 letters are allowed then
-        the score is 1/26. if only one letter is allowed then the score
-        is 1/1.
-        """
-        return sum(map(lambda allow: 1 / len(allow), self.allows))
-
 
 def do_score(args):
     guess, candidates = args
@@ -240,7 +229,7 @@ def daily():
     words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     hist = set(map(lambda x: x.strip().lower(), open("history.txt", "r")))
     candidates = words - hist
-    guesses = make_guess(candidates, constraints, words)
+    guesses = make_guess(candidates, constraints)
     print("number of candidates", len(guesses))
     for n in range(min(len(guesses), 20)):
         guess, score = guesses[n]

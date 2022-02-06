@@ -1,0 +1,12948 @@
+nasty
+	learn
+	saint 46
+	nasty 1
+	3
+synod
+	learn
+	count 103
+	synod 6
+	3
+chess
+	learn
+	suite 120
+	chess 2
+	3
+chaff
+	learn
+	chasm 38
+	chaff 1
+	3
+music
+	learn
+	hoist 212
+	music 4
+	3
+sixth
+	learn
+	hoist 212
+	sixth 1
+	3
+repay
+	learn
+	recap 6
+	repay 1
+	3
+pound
+	learn
+	count 103
+	pound 8
+	3
+sniff
+	learn
+	count 103
+	dingy 7
+	sniff 1
+	4
+warty
+	learn
+	tarot 61
+	warty 2
+	3
+curry
+	learn
+	story 29
+	curry 3
+	3
+lunar
+	learn
+	lunar 1
+	2
+rhyme
+	learn
+	trope 158
+	surge 7
+	rhyme 1
+	4
+stern
+	learn
+	stern 1
+	2
+snuck
+	learn
+	count 103
+	snuck 1
+	3
+rouge
+	learn
+	trope 158
+	forge 9
+	rouge 1
+	4
+yield
+	learn
+	stole 88
+	dwell 6
+	yield 2
+	4
+surly
+	learn
+	drill 21
+	surly 3
+	3
+stand
+	learn
+	scant 14
+	stand 2
+	3
+cleat
+	learn
+	table 36
+	cleat 4
+	3
+toast
+	learn
+	chasm 38
+	toast 3
+	3
+until
+	learn
+	sling 22
+	until 3
+	3
+green
+	learn
+	ripen 5
+	green 1
+	3
+quell
+	learn
+	stole 88
+	dwell 6
+	quell 1
+	4
+heron
+	learn
+	resin 4
+	heron 1
+	3
+doubt
+	learn
+	hoist 212
+	doubt 1
+	3
+leash
+	learn
+	leash 8
+	2
+stink
+	learn
+	count 103
+	think 5
+	stink 1
+	4
+bleed
+	learn
+	stole 88
+	expel 11
+	bleed 1
+	4
+comfy
+	learn
+	hoist 212
+	goody 13
+	comfy 3
+	4
+drone
+	learn
+	diner 22
+	drone 1
+	3
+finch
+	learn
+	count 103
+	finch 3
+	3
+mince
+	learn
+	snide 61
+	mince 6
+	3
+smell
+	learn
+	stole 88
+	smell 5
+	3
+exile
+	learn
+	stole 88
+	guile 6
+	exile 2
+	4
+fight
+	learn
+	hoist 212
+	fight 4
+	3
+scoff
+	learn
+	hoist 212
+	spook 7
+	scoff 1
+	4
+wrote
+	learn
+	trope 158
+	wrote 1
+	3
+climb
+	learn
+	solid 113
+	climb 14
+	3
+rarer
+	learn
+	taper 52
+	wager 12
+	rarer 5
+	4
+vapor
+	learn
+	tarot 61
+	favor 6
+	vapor 1
+	4
+sloop
+	learn
+	solid 113
+	stool 6
+	sloop 1
+	4
+fleet
+	learn
+	stole 88
+	fleet 4
+	3
+proxy
+	learn
+	grout 117
+	droop 12
+	proxy 1
+	4
+wryly
+	learn
+	drill 21
+	wryly 2
+	3
+salve
+	learn
+	table 36
+	salve 5
+	3
+erase
+	learn
+	grace 19
+	drake 8
+	erase 4
+	4
+spine
+	learn
+	snide 61
+	spine 3
+	3
+onion
+	learn
+	spoon 10
+	onion 1
+	3
+unlit
+	learn
+	sling 22
+	until 3
+	unlit 1
+	4
+jetty
+	learn
+	depth 43
+	jetty 3
+	3
+start
+	learn
+	shard 25
+	smart 7
+	start 1
+	4
+puffy
+	learn
+	hoist 212
+	dumpy 15
+	puffy 1
+	4
+mourn
+	learn
+	thorn 7
+	mourn 1
+	3
+bonus
+	learn
+	count 103
+	bonus 1
+	3
+deity
+	learn
+	depth 43
+	deity 1
+	3
+sassy
+	learn
+	patsy 100
+	sassy 3
+	3
+bunny
+	learn
+	count 103
+	bunny 5
+	3
+water
+	learn
+	taper 52
+	water 4
+	3
+snipe
+	learn
+	snide 61
+	snipe 1
+	3
+femur
+	learn
+	terse 40
+	femur 4
+	3
+privy
+	learn
+	grout 117
+	crimp 9
+	privy 1
+	4
+vaunt
+	learn
+	saint 46
+	vaunt 6
+	3
+chute
+	learn
+	suite 120
+	chute 1
+	3
+payer
+	learn
+	taper 52
+	payer 2
+	3
+newer
+	learn
+	newer 6
+	2
+grave
+	learn
+	grace 19
+	grave 5
+	3
+covey
+	learn
+	suite 120
+	epoch 9
+	covey 1
+	4
+forum
+	learn
+	grout 117
+	forum 2
+	3
+zebra
+	learn
+	zebra 2
+	2
+weave
+	learn
+	death 17
+	cease 3
+	weave 1
+	4
+split
+	learn
+	solid 113
+	split 1
+	3
+young
+	learn
+	count 103
+	pound 8
+	young 1
+	4
+juicy
+	learn
+	hoist 212
+	juicy 2
+	3
+quake
+	learn
+	stage 29
+	awake 5
+	quake 1
+	4
+dicey
+	learn
+	suite 120
+	dicey 3
+	3
+never
+	learn
+	newer 6
+	never 1
+	3
+nasal
+	learn
+	tonal 13
+	nasal 2
+	3
+prove
+	learn
+	trope 158
+	prove 3
+	3
+hasty
+	learn
+	patsy 100
+	hasty 2
+	3
+claim
+	learn
+	slack 34
+	claim 2
+	3
+bride
+	learn
+	trope 158
+	bride 7
+	3
+tango
+	learn
+	saint 46
+	tango 2
+	3
+allow
+	learn
+	atoll 68
+	allow 2
+	3
+share
+	learn
+	share 5
+	2
+spent
+	learn
+	snide 61
+	spent 2
+	3
+glint
+	learn
+	sling 22
+	glint 1
+	3
+renal
+	learn
+	renal 1
+	2
+smart
+	learn
+	shard 25
+	smart 7
+	3
+plumb
+	learn
+	solid 113
+	plumb 8
+	3
+alive
+	learn
+	table 36
+	alive 3
+	3
+dozen
+	learn
+	woven 14
+	dozen 2
+	3
+rearm
+	learn
+	heard 6
+	weary 3
+	rearm 1
+	4
+crept
+	learn
+	trope 158
+	crept 2
+	3
+lipid
+	learn
+	lumpy 18
+	lipid 1
+	3
+aping
+	learn
+	saint 46
+	aping 3
+	3
+spilt
+	learn
+	solid 113
+	spilt 8
+	3
+posit
+	learn
+	hoist 212
+	posit 1
+	3
+straw
+	learn
+	tarot 61
+	straw 3
+	3
+opium
+	learn
+	hoist 212
+	opium 2
+	3
+chunk
+	learn
+	count 103
+	chunk 1
+	3
+baste
+	learn
+	saute 55
+	baste 6
+	3
+fetus
+	learn
+	depth 43
+	fetus 4
+	3
+swear
+	learn
+	taper 52
+	swear 3
+	3
+randy
+	learn
+	randy 6
+	2
+blimp
+	learn
+	solid 113
+	climb 14
+	blimp 1
+	4
+learn
+	learn
+	-1
+payee
+	learn
+	saute 55
+	maybe 7
+	payee 1
+	4
+clear
+	learn
+	baler 5
+	clear 1
+	3
+rigid
+	learn
+	grout 117
+	rigid 2
+	3
+abate
+	learn
+	stage 29
+	abate 2
+	3
+every
+	learn
+	store 18
+	every 3
+	3
+civic
+	learn
+	hoist 212
+	pubic 13
+	civic 2
+	4
+goofy
+	learn
+	hoist 212
+	goody 13
+	goofy 1
+	4
+bloat
+	learn
+	atoll 68
+	bloat 3
+	3
+screw
+	learn
+	trope 158
+	rider 24
+	screw 2
+	4
+trash
+	learn
+	craft 29
+	trash 3
+	3
+aphid
+	learn
+	patsy 100
+	aphid 1
+	3
+blunt
+	learn
+	sling 22
+	flunk 4
+	blunt 1
+	4
+genie
+	learn
+	pence 19
+	tense 5
+	genie 2
+	4
+guile
+	learn
+	stole 88
+	guile 6
+	3
+plain
+	learn
+	plain 2
+	2
+video
+	learn
+	suite 120
+	dicey 3
+	video 1
+	4
+cliff
+	learn
+	solid 113
+	climb 14
+	cliff 2
+	4
+glide
+	learn
+	stole 88
+	flume 8
+	glide 2
+	4
+inbox
+	learn
+	count 103
+	synod 6
+	inbox 1
+	4
+scaly
+	learn
+	slack 34
+	scaly 3
+	3
+cumin
+	learn
+	spoon 10
+	cumin 1
+	3
+mouse
+	learn
+	suite 120
+	mouse 2
+	3
+silly
+	learn
+	solid 113
+	silly 2
+	3
+papal
+	learn
+	atoll 68
+	basil 7
+	papal 1
+	4
+coach
+	learn
+	chasm 38
+	coach 1
+	3
+geeky
+	learn
+	depth 43
+	geese 7
+	geeky 1
+	4
+joust
+	learn
+	hoist 212
+	joust 2
+	3
+steer
+	learn
+	trope 158
+	steer 6
+	3
+pluck
+	learn
+	solid 113
+	plumb 8
+	pluck 1
+	4
+novel
+	learn
+	noble 8
+	novel 1
+	3
+value
+	learn
+	table 36
+	salve 5
+	value 1
+	4
+spiny
+	learn
+	count 103
+	spiny 7
+	3
+filer
+	learn
+	idler 13
+	filer 1
+	3
+basil
+	learn
+	atoll 68
+	basil 7
+	3
+spook
+	learn
+	hoist 212
+	spook 7
+	3
+wager
+	learn
+	taper 52
+	wager 12
+	3
+ghost
+	learn
+	hoist 212
+	ghost 1
+	3
+alloy
+	learn
+	atoll 68
+	allow 2
+	alloy 1
+	4
+scone
+	learn
+	snide 61
+	scone 4
+	3
+bongo
+	learn
+	count 103
+	bongo 2
+	3
+dingy
+	learn
+	count 103
+	dingy 7
+	3
+axial
+	learn
+	atoll 68
+	axial 2
+	3
+baker
+	learn
+	taper 52
+	wager 12
+	rarer 5
+	baker 3
+	5
+brink
+	learn
+	grind 28
+	brink 3
+	3
+modem
+	learn
+	suite 120
+	epoch 9
+	modem 1
+	4
+alley
+	learn
+	table 36
+	gleam 5
+	alley 1
+	4
+dandy
+	learn
+	saint 46
+	candy 8
+	dandy 2
+	4
+rayon
+	learn
+	baron 7
+	rayon 1
+	3
+wiser
+	learn
+	trope 158
+	rider 24
+	wiser 5
+	4
+level
+	learn
+	ledge 5
+	level 2
+	3
+strip
+	learn
+	grout 117
+	birth 4
+	strip 1
+	4
+stout
+	learn
+	hoist 212
+	stout 3
+	3
+admin
+	learn
+	baton 15
+	admin 3
+	3
+locus
+	learn
+	lumpy 18
+	locus 1
+	3
+ankle
+	learn
+	ankle 6
+	2
+blond
+	learn
+	sling 22
+	flunk 4
+	blond 1
+	4
+spite
+	learn
+	suite 120
+	spite 2
+	3
+islet
+	learn
+	stole 88
+	islet 1
+	3
+kappa
+	learn
+	patsy 100
+	kappa 2
+	3
+noisy
+	learn
+	count 103
+	bongo 2
+	noisy 1
+	4
+shine
+	learn
+	snide 61
+	spine 3
+	shine 2
+	4
+chock
+	learn
+	hoist 212
+	chock 2
+	3
+drawn
+	learn
+	drawn 7
+	2
+snake
+	learn
+	snake 4
+	2
+fatal
+	learn
+	atoll 68
+	tidal 4
+	fatal 1
+	4
+those
+	learn
+	suite 120
+	those 2
+	3
+twang
+	learn
+	scant 14
+	twang 2
+	3
+decor
+	learn
+	terse 40
+	femur 4
+	decor 1
+	4
+vigor
+	learn
+	grout 117
+	vigor 3
+	3
+lingo
+	learn
+	lying 4
+	lingo 1
+	3
+tenth
+	learn
+	pence 19
+	venom 3
+	tenth 1
+	4
+creed
+	learn
+	trope 158
+	cried 18
+	creed 1
+	4
+slimy
+	learn
+	solid 113
+	spilt 8
+	slimy 2
+	4
+satin
+	learn
+	baton 15
+	satin 1
+	3
+joist
+	learn
+	hoist 212
+	joist 3
+	3
+flier
+	learn
+	idler 13
+	flier 2
+	3
+shove
+	learn
+	suite 120
+	spoke 4
+	shove 1
+	4
+clown
+	learn
+	clown 5
+	2
+joker
+	learn
+	trope 158
+	rower 18
+	hover 8
+	sober 4
+	joker 2
+	6
+putty
+	learn
+	hoist 212
+	putty 1
+	3
+recap
+	learn
+	recap 6
+	2
+grunt
+	learn
+	grind 28
+	grunt 1
+	3
+stool
+	learn
+	solid 113
+	stool 6
+	3
+below
+	learn
+	belle 18
+	belch 2
+	below 1
+	4
+yearn
+	learn
+	yearn 1
+	2
+mogul
+	learn
+	solid 113
+	moult 5
+	mogul 1
+	4
+twist
+	learn
+	hoist 212
+	twist 1
+	3
+flock
+	learn
+	solid 113
+	cloth 9
+	flock 2
+	4
+stoop
+	learn
+	hoist 212
+	stoop 5
+	3
+exert
+	learn
+	store 18
+	exert 1
+	3
+ensue
+	learn
+	snide 61
+	ensue 1
+	3
+worry
+	learn
+	story 29
+	worry 2
+	3
+circa
+	learn
+	tarot 61
+	scram 6
+	circa 1
+	4
+tithe
+	learn
+	suite 120
+	tithe 1
+	3
+whole
+	learn
+	stole 88
+	whole 1
+	3
+hence
+	learn
+	pence 19
+	hence 2
+	3
+hymen
+	learn
+	woven 14
+	hymen 3
+	3
+taboo
+	learn
+	patsy 100
+	tacit 6
+	taboo 1
+	4
+intro
+	learn
+	intro 2
+	2
+skate
+	learn
+	stage 29
+	skate 1
+	3
+theme
+	learn
+	suite 120
+	theme 2
+	3
+fresh
+	learn
+	trope 158
+	cried 18
+	fresh 1
+	4
+cabal
+	learn
+	atoll 68
+	basil 7
+	cabal 1
+	4
+phony
+	learn
+	count 103
+	phony 2
+	3
+canon
+	learn
+	baton 15
+	canon 3
+	3
+cubic
+	learn
+	hoist 212
+	pubic 13
+	cubic 1
+	4
+stain
+	learn
+	spawn 4
+	stain 1
+	3
+lease
+	learn
+	leash 8
+	lease 2
+	3
+fleck
+	learn
+	stole 88
+	expel 11
+	fleck 1
+	4
+angle
+	learn
+	ankle 6
+	angle 1
+	3
+extol
+	learn
+	stole 88
+	motel 4
+	extol 1
+	4
+unite
+	learn
+	snide 61
+	unite 2
+	3
+vinyl
+	learn
+	sling 22
+	until 3
+	vinyl 1
+	4
+organ
+	learn
+	baron 7
+	organ 2
+	3
+anvil
+	learn
+	tonal 13
+	anvil 1
+	3
+twirl
+	learn
+	blurt 8
+	twirl 1
+	3
+verse
+	learn
+	terse 40
+	verse 1
+	3
+broke
+	learn
+	trope 158
+	drove 5
+	broke 2
+	4
+salad
+	learn
+	atoll 68
+	salad 7
+	3
+stamp
+	learn
+	chasm 38
+	stamp 3
+	3
+hyper
+	learn
+	trope 158
+	purer 7
+	hyper 2
+	4
+sheen
+	learn
+	woven 14
+	hymen 3
+	sheen 1
+	4
+stoke
+	learn
+	suite 120
+	stove 2
+	stoke 1
+	4
+carry
+	learn
+	carry 12
+	2
+scuba
+	learn
+	patsy 100
+	scuba 4
+	3
+pasty
+	learn
+	patsy 100
+	pasty 1
+	3
+house
+	learn
+	suite 120
+	mouse 2
+	house 1
+	4
+gumbo
+	learn
+	hoist 212
+	gumbo 3
+	3
+sight
+	learn
+	hoist 212
+	sight 1
+	3
+aloud
+	learn
+	atoll 68
+	aloud 2
+	3
+annex
+	learn
+	amend 15
+	annex 2
+	3
+taunt
+	learn
+	saint 46
+	vaunt 6
+	taunt 5
+	4
+hoard
+	learn
+	shard 25
+	hoard 1
+	3
+magma
+	learn
+	patsy 100
+	magma 12
+	3
+shone
+	learn
+	snide 61
+	scone 4
+	shone 2
+	4
+wrong
+	learn
+	grind 28
+	wrong 3
+	3
+golem
+	learn
+	stole 88
+	dowel 7
+	golem 1
+	4
+maize
+	learn
+	saute 55
+	maybe 7
+	maize 1
+	4
+snort
+	learn
+	intro 2
+	snort 1
+	3
+worst
+	learn
+	grout 117
+	worst 2
+	3
+tonal
+	learn
+	tonal 13
+	2
+cacao
+	learn
+	patsy 100
+	magma 12
+	cacao 1
+	4
+fewer
+	learn
+	terse 40
+	fewer 5
+	3
+hover
+	learn
+	trope 158
+	rover 18
+	hover 3
+	4
+ebony
+	learn
+	snide 61
+	ebony 5
+	3
+mushy
+	learn
+	hoist 212
+	mushy 4
+	3
+women
+	learn
+	woven 14
+	women 2
+	3
+excel
+	learn
+	stole 88
+	expel 11
+	excel 1
+	4
+ditto
+	learn
+	hoist 212
+	ditto 2
+	3
+dolly
+	learn
+	solid 113
+	dolly 2
+	3
+shyly
+	learn
+	solid 113
+	shyly 6
+	3
+store
+	learn
+	store 18
+	2
+sword
+	learn
+	story 29
+	sword 1
+	3
+gourd
+	learn
+	story 29
+	gourd 2
+	3
+savoy
+	learn
+	patsy 100
+	savoy 3
+	3
+smoke
+	learn
+	suite 120
+	spoke 4
+	smoke 1
+	4
+harry
+	learn
+	carry 12
+	harry 3
+	3
+china
+	learn
+	saint 46
+	aping 3
+	china 1
+	4
+lilac
+	learn
+	local 6
+	lilac 1
+	3
+loyal
+	learn
+	local 6
+	loyal 1
+	3
+strap
+	learn
+	tarot 61
+	straw 3
+	strap 2
+	4
+knack
+	learn
+	scant 14
+	knack 1
+	3
+forte
+	learn
+	trope 158
+	forte 2
+	3
+whose
+	learn
+	suite 120
+	moose 7
+	whose 2
+	4
+crust
+	learn
+	grout 117
+	crust 3
+	3
+plant
+	learn
+	blank 11
+	slang 5
+	plant 1
+	4
+brisk
+	learn
+	grout 117
+	crimp 9
+	brisk 2
+	4
+beset
+	learn
+	depth 43
+	fetus 4
+	beset 1
+	4
+reach
+	learn
+	reach 3
+	2
+groan
+	learn
+	baron 7
+	organ 2
+	groan 1
+	4
+leper
+	learn
+	leper 3
+	2
+fauna
+	learn
+	saint 46
+	fauna 4
+	3
+fairy
+	learn
+	carry 12
+	fairy 3
+	3
+grill
+	learn
+	drill 21
+	grill 3
+	3
+hilly
+	learn
+	solid 113
+	filmy 7
+	hilly 3
+	4
+comet
+	learn
+	suite 120
+	comet 8
+	3
+point
+	learn
+	count 103
+	point 2
+	3
+lance
+	learn
+	lance 1
+	2
+shout
+	learn
+	hoist 212
+	shout 2
+	3
+title
+	learn
+	stole 88
+	title 2
+	3
+tease
+	learn
+	death 17
+	yeast 4
+	tease 1
+	4
+lurid
+	learn
+	lurid 3
+	2
+hairy
+	learn
+	carry 12
+	fairy 3
+	hairy 2
+	4
+leant
+	learn
+	leant 1
+	2
+quack
+	learn
+	chasm 38
+	quack 2
+	3
+utile
+	learn
+	stole 88
+	utile 1
+	3
+utter
+	learn
+	trope 158
+	steer 6
+	utter 1
+	4
+chair
+	learn
+	craft 29
+	chair 1
+	3
+fever
+	learn
+	terse 40
+	fewer 5
+	fever 1
+	4
+louse
+	learn
+	louse 6
+	2
+shelf
+	learn
+	stole 88
+	smell 5
+	shelf 1
+	4
+wedge
+	learn
+	depth 43
+	wedge 4
+	3
+furor
+	learn
+	grout 117
+	furor 5
+	3
+spiel
+	learn
+	stole 88
+	spiel 3
+	3
+bulky
+	learn
+	solid 113
+	gully 7
+	bulky 2
+	4
+phone
+	learn
+	snide 61
+	phone 3
+	3
+pithy
+	learn
+	hoist 212
+	width 7
+	pithy 1
+	4
+crazy
+	learn
+	craft 29
+	crass 5
+	crazy 3
+	4
+egret
+	learn
+	trope 158
+	steer 6
+	egret 1
+	4
+react
+	learn
+	reach 3
+	react 1
+	3
+blood
+	learn
+	solid 113
+	blood 3
+	3
+coral
+	learn
+	moral 16
+	coral 1
+	3
+ennui
+	learn
+	snide 61
+	ennui 2
+	3
+truth
+	learn
+	grout 117
+	truth 4
+	3
+boule
+	learn
+	stole 88
+	boule 1
+	3
+trick
+	learn
+	grout 117
+	trick 2
+	3
+dross
+	learn
+	grout 117
+	droop 12
+	dross 1
+	4
+burst
+	learn
+	grout 117
+	burst 1
+	3
+buxom
+	learn
+	hoist 212
+	gumbo 3
+	buxom 1
+	4
+resin
+	learn
+	resin 4
+	2
+derby
+	learn
+	terse 40
+	perch 5
+	derby 2
+	4
+heard
+	learn
+	heard 6
+	2
+eagle
+	learn
+	table 36
+	eagle 2
+	3
+mauve
+	learn
+	saute 55
+	gauge 3
+	mauve 1
+	4
+lodge
+	learn
+	louse 6
+	lodge 1
+	3
+frail
+	learn
+	trail 8
+	frail 2
+	3
+tweet
+	learn
+	suite 120
+	comet 8
+	tweet 1
+	4
+marsh
+	learn
+	tarot 61
+	marsh 7
+	3
+hovel
+	learn
+	stole 88
+	dowel 7
+	hovel 1
+	4
+allay
+	learn
+	atoll 68
+	allay 1
+	3
+catty
+	learn
+	patsy 100
+	catty 4
+	3
+login
+	learn
+	login 1
+	2
+aorta
+	learn
+	tarot 61
+	aorta 1
+	3
+chord
+	learn
+	story 29
+	chord 2
+	3
+brawn
+	learn
+	drawn 7
+	brawn 2
+	3
+wreck
+	learn
+	trope 158
+	cried 18
+	wreck 1
+	4
+amble
+	learn
+	table 36
+	amble 1
+	3
+fluff
+	learn
+	solid 113
+	plumb 8
+	fluff 2
+	4
+goody
+	learn
+	hoist 212
+	goody 13
+	3
+cagey
+	learn
+	saute 55
+	cagey 2
+	3
+begat
+	learn
+	media 6
+	begat 2
+	3
+brass
+	learn
+	craft 29
+	brash 9
+	brass 1
+	4
+cider
+	learn
+	trope 158
+	rider 24
+	cider 2
+	4
+ember
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	ember 1
+	5
+cable
+	learn
+	table 36
+	cable 2
+	3
+stray
+	learn
+	tarot 61
+	straw 3
+	strap 2
+	stray 1
+	5
+error
+	learn
+	trope 158
+	error 3
+	3
+glaze
+	learn
+	stale 18
+	blame 8
+	glaze 4
+	4
+noble
+	learn
+	noble 8
+	2
+prune
+	learn
+	diner 22
+	prune 5
+	3
+snail
+	learn
+	blank 11
+	snail 1
+	3
+broom
+	learn
+	grout 117
+	droop 12
+	broom 3
+	4
+tower
+	learn
+	trope 158
+	tower 1
+	3
+shock
+	learn
+	hoist 212
+	shock 3
+	3
+marry
+	learn
+	carry 12
+	harry 3
+	marry 2
+	4
+proof
+	learn
+	grout 117
+	droop 12
+	proof 1
+	4
+sulky
+	learn
+	solid 113
+	sulky 2
+	3
+gayer
+	learn
+	taper 52
+	wager 12
+	gayer 3
+	4
+grasp
+	learn
+	craft 29
+	brash 9
+	grasp 2
+	4
+porch
+	learn
+	grout 117
+	porch 6
+	3
+canoe
+	learn
+	amend 15
+	canoe 2
+	3
+manor
+	learn
+	randy 6
+	manor 1
+	3
+crawl
+	learn
+	trail 8
+	crawl 3
+	3
+ladle
+	learn
+	lapel 6
+	ladle 1
+	3
+shuck
+	learn
+	hoist 212
+	mushy 4
+	shuck 1
+	4
+voter
+	learn
+	trope 158
+	otter 4
+	voter 1
+	4
+cross
+	learn
+	grout 117
+	droop 12
+	cross 3
+	4
+bluff
+	learn
+	solid 113
+	plumb 8
+	bluff 1
+	4
+camel
+	learn
+	table 36
+	camel 4
+	3
+guppy
+	learn
+	hoist 212
+	dumpy 15
+	guppy 2
+	4
+range
+	learn
+	range 4
+	2
+shunt
+	learn
+	count 103
+	shunt 2
+	3
+saner
+	learn
+	range 4
+	saner 1
+	3
+niche
+	learn
+	snide 61
+	mince 6
+	niche 1
+	4
+vigil
+	learn
+	solid 113
+	vigil 3
+	3
+gleam
+	learn
+	table 36
+	plead 5
+	gleam 1
+	4
+miner
+	learn
+	diner 22
+	miner 2
+	3
+pouty
+	learn
+	hoist 212
+	pouty 4
+	3
+rigor
+	learn
+	grout 117
+	vigor 3
+	rigor 1
+	4
+input
+	learn
+	count 103
+	input 2
+	3
+saint
+	learn
+	saint 46
+	2
+gauge
+	learn
+	saute 55
+	gauge 3
+	3
+squib
+	learn
+	hoist 212
+	music 4
+	squib 1
+	4
+trait
+	learn
+	craft 29
+	trait 1
+	3
+belch
+	learn
+	belle 18
+	below 2
+	belch 1
+	4
+chick
+	learn
+	hoist 212
+	chick 3
+	3
+frond
+	learn
+	grind 28
+	frond 1
+	3
+faith
+	learn
+	patsy 100
+	tacit 6
+	faith 1
+	4
+dumpy
+	learn
+	hoist 212
+	dumpy 15
+	3
+alert
+	learn
+	alert 1
+	2
+mucus
+	learn
+	hoist 212
+	mucus 3
+	3
+money
+	learn
+	snide 61
+	ebony 5
+	money 2
+	4
+fungi
+	learn
+	count 103
+	fungi 7
+	3
+salty
+	learn
+	atoll 68
+	salty 3
+	3
+poesy
+	learn
+	suite 120
+	chess 2
+	poesy 1
+	4
+ready
+	learn
+	reach 3
+	ready 1
+	3
+baggy
+	learn
+	patsy 100
+	bawdy 10
+	baggy 1
+	4
+fried
+	learn
+	trope 158
+	cried 18
+	fried 2
+	4
+loath
+	learn
+	loath 3
+	2
+stave
+	learn
+	stage 29
+	stave 3
+	3
+chasm
+	learn
+	chasm 38
+	2
+owing
+	learn
+	count 103
+	phony 2
+	owing 1
+	4
+refer
+	learn
+	terse 40
+	fewer 5
+	refer 2
+	4
+soapy
+	learn
+	chasm 38
+	staff 3
+	soapy 1
+	4
+magic
+	learn
+	patsy 100
+	magma 12
+	magic 1
+	4
+flick
+	learn
+	solid 113
+	climb 14
+	flick 1
+	4
+yeast
+	learn
+	death 17
+	yeast 4
+	3
+oddly
+	learn
+	solid 113
+	oddly 1
+	3
+shaky
+	learn
+	chasm 38
+	shaky 3
+	3
+helix
+	learn
+	belle 18
+	welch 3
+	helix 1
+	4
+ledge
+	learn
+	ledge 5
+	2
+speed
+	learn
+	suite 120
+	sheep 4
+	speed 1
+	4
+world
+	learn
+	drill 21
+	world 1
+	3
+cream
+	learn
+	taper 52
+	creak 11
+	cream 1
+	4
+charm
+	learn
+	shard 25
+	charm 3
+	3
+itchy
+	learn
+	hoist 212
+	width 7
+	itchy 1
+	4
+deign
+	learn
+	deign 7
+	2
+risky
+	learn
+	grout 117
+	risky 2
+	3
+happy
+	learn
+	patsy 100
+	happy 1
+	3
+adult
+	learn
+	atoll 68
+	adult 2
+	3
+lover
+	learn
+	lover 4
+	2
+igloo
+	learn
+	solid 113
+	igloo 2
+	3
+puppy
+	learn
+	hoist 212
+	dumpy 15
+	guppy 2
+	puppy 1
+	5
+suave
+	learn
+	stage 29
+	spade 8
+	suave 4
+	4
+rowdy
+	learn
+	grout 117
+	porch 6
+	rowdy 1
+	4
+snout
+	learn
+	count 103
+	snout 1
+	3
+conic
+	learn
+	count 103
+	conic 3
+	3
+flail
+	learn
+	slack 34
+	plaid 4
+	flail 1
+	4
+afire
+	learn
+	opera 6
+	afire 2
+	3
+fixer
+	learn
+	trope 158
+	rider 24
+	fixer 5
+	4
+corer
+	learn
+	trope 158
+	rover 18
+	corer 1
+	4
+crown
+	learn
+	brown 8
+	crown 4
+	3
+spurt
+	learn
+	story 29
+	shirt 3
+	spurt 1
+	4
+wrist
+	learn
+	grout 117
+	wrist 4
+	3
+dying
+	learn
+	count 103
+	spiny 7
+	dying 2
+	4
+girth
+	learn
+	grout 117
+	girth 1
+	3
+loose
+	learn
+	louse 6
+	loose 1
+	3
+thump
+	learn
+	hoist 212
+	thumb 4
+	thump 1
+	4
+brand
+	learn
+	grand 7
+	brand 1
+	3
+chirp
+	learn
+	story 29
+	chirp 2
+	3
+gripe
+	learn
+	trope 158
+	gripe 2
+	3
+chide
+	learn
+	suite 120
+	chide 4
+	3
+exact
+	learn
+	stage 29
+	exact 1
+	3
+ratty
+	learn
+	tarot 61
+	ratty 1
+	3
+motif
+	learn
+	hoist 212
+	topic 3
+	motif 1
+	4
+heart
+	learn
+	heard 6
+	heart 1
+	3
+plead
+	learn
+	table 36
+	gleam 5
+	plead 1
+	4
+annoy
+	learn
+	saint 46
+	annoy 3
+	3
+shank
+	learn
+	scant 14
+	shank 2
+	3
+shear
+	learn
+	taper 52
+	swear 3
+	shear 2
+	4
+sweet
+	learn
+	suite 120
+	swept 5
+	sweet 1
+	4
+troll
+	learn
+	drill 21
+	troll 1
+	3
+giant
+	learn
+	scant 14
+	giant 1
+	3
+inter
+	learn
+	diner 22
+	inter 2
+	3
+tarot
+	learn
+	tarot 61
+	2
+champ
+	learn
+	chasm 38
+	champ 1
+	3
+corny
+	learn
+	grind 28
+	corny 3
+	3
+motel
+	learn
+	stole 88
+	motel 4
+	3
+bloom
+	learn
+	solid 113
+	cloth 9
+	bloom 2
+	4
+spike
+	learn
+	suite 120
+	spike 2
+	3
+morph
+	learn
+	grout 117
+	porch 6
+	morph 1
+	4
+boozy
+	learn
+	hoist 212
+	goody 13
+	boozy 3
+	4
+crick
+	learn
+	grout 117
+	crimp 9
+	crick 1
+	4
+mango
+	learn
+	saint 46
+	candy 8
+	mango 3
+	4
+unmet
+	learn
+	snide 61
+	enjoy 4
+	unmet 1
+	4
+foyer
+	learn
+	trope 158
+	rover 18
+	sower 8
+	joker 4
+	foyer 3
+	6
+tribe
+	learn
+	trope 158
+	tribe 4
+	3
+jelly
+	learn
+	belle 18
+	hello 3
+	jelly 1
+	4
+ranch
+	learn
+	randy 6
+	ranch 1
+	3
+livid
+	learn
+	lumpy 18
+	livid 3
+	3
+forty
+	learn
+	grout 117
+	worth 9
+	forty 1
+	4
+taffy
+	learn
+	patsy 100
+	taffy 3
+	3
+tacit
+	learn
+	patsy 100
+	tacit 6
+	3
+incur
+	learn
+	grind 28
+	incur 2
+	3
+spoon
+	learn
+	spoon 10
+	2
+clang
+	learn
+	blank 11
+	slang 5
+	clang 1
+	4
+diver
+	learn
+	trope 158
+	rider 24
+	diver 1
+	4
+jerky
+	learn
+	terse 40
+	jerky 5
+	3
+hatch
+	learn
+	patsy 100
+	hatch 6
+	3
+wrest
+	learn
+	trope 158
+	erect 4
+	wrest 1
+	4
+ozone
+	learn
+	snide 61
+	phone 3
+	ozone 1
+	4
+comma
+	learn
+	patsy 100
+	comma 9
+	3
+gummy
+	learn
+	hoist 212
+	dumpy 15
+	gummy 2
+	4
+uncut
+	learn
+	count 103
+	uncut 1
+	3
+torus
+	learn
+	grout 117
+	torus 1
+	3
+wheel
+	learn
+	stole 88
+	expel 11
+	wheel 1
+	4
+stalk
+	learn
+	slack 34
+	stalk 1
+	3
+glare
+	learn
+	glare 3
+	2
+broil
+	learn
+	drill 21
+	broil 1
+	3
+flour
+	learn
+	drill 21
+	flour 3
+	3
+tread
+	learn
+	taper 52
+	tread 2
+	3
+liver
+	learn
+	lover 4
+	liver 1
+	3
+ought
+	learn
+	hoist 212
+	ought 1
+	3
+slack
+	learn
+	slack 34
+	2
+petty
+	learn
+	depth 43
+	petty 2
+	3
+month
+	learn
+	count 103
+	month 1
+	3
+stake
+	learn
+	stage 29
+	stave 3
+	stake 2
+	4
+plaid
+	learn
+	slack 34
+	plaid 4
+	3
+realm
+	learn
+	realm 1
+	2
+fudge
+	learn
+	suite 120
+	fudge 5
+	3
+untie
+	learn
+	snide 61
+	untie 1
+	3
+graph
+	learn
+	craft 29
+	brash 9
+	graph 1
+	4
+giddy
+	learn
+	hoist 212
+	pubic 13
+	dizzy 4
+	giddy 1
+	5
+drama
+	learn
+	craft 29
+	brash 9
+	drama 2
+	4
+crush
+	learn
+	grout 117
+	crumb 5
+	crush 1
+	4
+tuber
+	learn
+	trope 158
+	timer 5
+	tuber 1
+	4
+smirk
+	learn
+	story 29
+	smirk 2
+	3
+mummy
+	learn
+	hoist 212
+	dumpy 15
+	gummy 2
+	mummy 1
+	5
+dowel
+	learn
+	stole 88
+	dowel 7
+	3
+edict
+	learn
+	suite 120
+	edict 3
+	3
+abase
+	learn
+	stage 29
+	phase 3
+	abase 1
+	4
+crowd
+	learn
+	grout 117
+	droop 12
+	crowd 1
+	4
+quart
+	learn
+	shard 25
+	quart 5
+	3
+bugle
+	learn
+	stole 88
+	guile 6
+	bugle 1
+	4
+tract
+	learn
+	craft 29
+	tract 1
+	3
+lying
+	learn
+	lying 4
+	2
+enjoy
+	learn
+	snide 61
+	enjoy 4
+	3
+ovoid
+	learn
+	hoist 212
+	ovoid 2
+	3
+silky
+	learn
+	solid 113
+	silly 2
+	silky 1
+	4
+tonga
+	learn
+	saint 46
+	tonga 3
+	3
+grief
+	learn
+	trope 158
+	cried 18
+	grief 2
+	4
+bushy
+	learn
+	hoist 212
+	mushy 4
+	bushy 2
+	4
+imply
+	learn
+	solid 113
+	climb 14
+	imply 1
+	4
+purse
+	learn
+	trope 158
+	spree 5
+	purse 1
+	4
+poise
+	learn
+	suite 120
+	poise 1
+	3
+swine
+	learn
+	snide 61
+	spine 3
+	shine 2
+	swine 1
+	5
+assay
+	learn
+	patsy 100
+	assay 1
+	3
+polyp
+	learn
+	solid 113
+	jolly 5
+	polyp 1
+	4
+clove
+	learn
+	stole 88
+	globe 5
+	clove 2
+	4
+grown
+	learn
+	brown 8
+	crown 4
+	grown 3
+	4
+latch
+	learn
+	local 6
+	latch 1
+	3
+murky
+	learn
+	grout 117
+	murky 3
+	3
+agate
+	learn
+	stage 29
+	agate 1
+	3
+steep
+	learn
+	suite 120
+	swept 5
+	steep 1
+	4
+weary
+	learn
+	heard 6
+	weary 3
+	3
+larva
+	learn
+	larva 2
+	2
+slave
+	learn
+	stale 18
+	slave 1
+	3
+bawdy
+	learn
+	patsy 100
+	bawdy 10
+	3
+flake
+	learn
+	stale 18
+	blame 8
+	glaze 4
+	flake 2
+	5
+gorge
+	learn
+	trope 158
+	forge 9
+	gorge 1
+	4
+edify
+	learn
+	suite 120
+	edify 2
+	3
+hydro
+	learn
+	story 29
+	hydro 1
+	3
+rotor
+	learn
+	grout 117
+	worth 9
+	rotor 2
+	4
+creak
+	learn
+	taper 52
+	creak 11
+	3
+scalp
+	learn
+	slack 34
+	scaly 3
+	scalp 2
+	4
+smack
+	learn
+	chasm 38
+	smack 2
+	3
+fancy
+	learn
+	saint 46
+	candy 8
+	fancy 1
+	4
+macaw
+	learn
+	patsy 100
+	magma 12
+	macaw 1
+	4
+diner
+	learn
+	diner 22
+	2
+brood
+	learn
+	grout 117
+	droop 12
+	brood 1
+	4
+mealy
+	learn
+	mealy 2
+	2
+finer
+	learn
+	diner 22
+	miner 2
+	finer 1
+	4
+ether
+	learn
+	trope 158
+	steer 6
+	ether 1
+	4
+recut
+	learn
+	terse 40
+	recut 5
+	3
+thong
+	learn
+	count 103
+	thong 2
+	3
+twixt
+	learn
+	hoist 212
+	twixt 1
+	3
+trial
+	learn
+	moral 16
+	trial 2
+	3
+condo
+	learn
+	count 103
+	conic 3
+	condo 1
+	4
+glade
+	learn
+	stale 18
+	blame 8
+	glaze 4
+	glade 1
+	5
+disco
+	learn
+	hoist 212
+	disco 1
+	3
+antic
+	learn
+	saint 46
+	antic 1
+	3
+unfed
+	learn
+	snide 61
+	unfed 4
+	3
+snide
+	learn
+	snide 61
+	2
+swirl
+	learn
+	blurt 8
+	swirl 2
+	3
+haven
+	learn
+	taken 7
+	haven 2
+	3
+axiom
+	learn
+	patsy 100
+	comma 9
+	axiom 1
+	4
+gloss
+	learn
+	solid 113
+	gloss 2
+	3
+swish
+	learn
+	hoist 212
+	swish 2
+	3
+naval
+	learn
+	tonal 13
+	nasal 2
+	naval 1
+	4
+focus
+	learn
+	hoist 212
+	focus 3
+	3
+prism
+	learn
+	grout 117
+	crimp 9
+	prism 1
+	4
+pivot
+	learn
+	hoist 212
+	pivot 2
+	3
+torso
+	learn
+	grout 117
+	worth 9
+	torso 1
+	4
+macro
+	learn
+	carry 12
+	macro 1
+	3
+thick
+	learn
+	hoist 212
+	thick 2
+	3
+stack
+	learn
+	chasm 38
+	stack 1
+	3
+idiot
+	learn
+	hoist 212
+	idiot 1
+	3
+vague
+	learn
+	saute 55
+	vague 1
+	3
+harem
+	learn
+	taper 52
+	harem 1
+	3
+erect
+	learn
+	trope 158
+	erect 4
+	3
+onset
+	learn
+	snide 61
+	onset 2
+	3
+befit
+	learn
+	depth 43
+	fetus 4
+	befit 1
+	4
+dirty
+	learn
+	grout 117
+	birth 4
+	dirty 1
+	4
+label
+	learn
+	lapel 6
+	label 1
+	3
+while
+	learn
+	stole 88
+	guile 6
+	exile 2
+	while 1
+	5
+hunch
+	learn
+	count 103
+	hunch 4
+	3
+nicer
+	learn
+	diner 22
+	nicer 1
+	3
+medal
+	learn
+	medal 10
+	2
+flora
+	learn
+	flora 2
+	2
+raise
+	learn
+	taper 52
+	carve 4
+	raise 1
+	4
+depth
+	learn
+	depth 43
+	2
+shirt
+	learn
+	story 29
+	shirt 3
+	3
+glean
+	learn
+	glean 3
+	2
+turbo
+	learn
+	grout 117
+	tutor 3
+	turbo 1
+	4
+swift
+	learn
+	hoist 212
+	swift 1
+	3
+conch
+	learn
+	count 103
+	conic 3
+	conch 1
+	4
+cacti
+	learn
+	patsy 100
+	tacit 6
+	cacti 1
+	4
+smite
+	learn
+	suite 120
+	spite 2
+	smite 1
+	4
+lupus
+	learn
+	lumpy 18
+	lupus 1
+	3
+mercy
+	learn
+	terse 40
+	jerky 5
+	derby 2
+	mercy 1
+	5
+piety
+	learn
+	suite 120
+	piety 1
+	3
+thorn
+	learn
+	thorn 7
+	2
+swell
+	learn
+	stole 88
+	smell 5
+	swell 3
+	4
+caste
+	learn
+	saute 55
+	baste 6
+	caste 5
+	4
+stoic
+	learn
+	hoist 212
+	stoic 1
+	3
+surer
+	learn
+	trope 158
+	rider 24
+	surer 1
+	4
+paint
+	learn
+	saint 46
+	paint 3
+	3
+sedan
+	learn
+	vegan 4
+	sedan 2
+	3
+vowel
+	learn
+	stole 88
+	dowel 7
+	vowel 2
+	4
+ruder
+	learn
+	trope 158
+	rider 24
+	ruder 1
+	4
+frank
+	learn
+	grand 7
+	frank 3
+	3
+gully
+	learn
+	solid 113
+	gully 7
+	3
+brawl
+	learn
+	trail 8
+	crawl 3
+	brawl 2
+	4
+tiara
+	learn
+	shard 25
+	quart 5
+	tiara 1
+	4
+algae
+	learn
+	table 36
+	alive 3
+	algae 1
+	4
+basal
+	learn
+	atoll 68
+	basil 7
+	basal 1
+	4
+count
+	learn
+	count 103
+	2
+abide
+	learn
+	saute 55
+	abide 5
+	3
+union
+	learn
+	spoon 10
+	union 1
+	3
+stung
+	learn
+	count 103
+	stung 2
+	3
+broth
+	learn
+	grout 117
+	broth 3
+	3
+dusty
+	learn
+	hoist 212
+	musty 7
+	dusty 2
+	4
+woody
+	learn
+	hoist 212
+	goody 13
+	woody 2
+	4
+valid
+	learn
+	atoll 68
+	salad 7
+	valid 1
+	4
+brash
+	learn
+	craft 29
+	brash 9
+	3
+scald
+	learn
+	slack 34
+	scaly 3
+	scalp 2
+	scald 1
+	5
+cramp
+	learn
+	craft 29
+	crash 5
+	crazy 3
+	cramp 2
+	5
+etude
+	learn
+	suite 120
+	etude 1
+	3
+stint
+	learn
+	count 103
+	stint 1
+	3
+crier
+	learn
+	trope 158
+	cried 18
+	crier 1
+	4
+butte
+	learn
+	suite 120
+	butte 2
+	3
+cower
+	learn
+	trope 158
+	rover 18
+	sower 8
+	cower 2
+	5
+downy
+	learn
+	count 103
+	downy 3
+	3
+skiff
+	learn
+	hoist 212
+	skiff 4
+	3
+awake
+	learn
+	stage 29
+	awake 5
+	3
+whale
+	learn
+	stale 18
+	whale 1
+	3
+meaty
+	learn
+	death 17
+	meaty 1
+	3
+flare
+	learn
+	glare 3
+	flare 2
+	3
+liege
+	learn
+	louse 6
+	liege 2
+	3
+urine
+	learn
+	diner 22
+	urine 2
+	3
+pubic
+	learn
+	hoist 212
+	pubic 13
+	3
+shawl
+	learn
+	slack 34
+	shalt 5
+	shawl 1
+	4
+setup
+	learn
+	depth 43
+	setup 2
+	3
+gloom
+	learn
+	solid 113
+	clout 9
+	bloom 2
+	gloom 1
+	5
+undid
+	learn
+	count 103
+	fungi 7
+	undid 2
+	4
+tabby
+	learn
+	patsy 100
+	taffy 3
+	tabby 2
+	4
+talon
+	learn
+	talon 3
+	2
+owner
+	learn
+	diner 22
+	owner 2
+	3
+steel
+	learn
+	stole 88
+	steel 1
+	3
+power
+	learn
+	trope 158
+	power 3
+	3
+puree
+	learn
+	trope 158
+	spree 5
+	puree 1
+	4
+proud
+	learn
+	grout 117
+	proud 2
+	3
+tilde
+	learn
+	stole 88
+	tilde 3
+	3
+seven
+	learn
+	deign 7
+	seven 2
+	3
+stock
+	learn
+	hoist 212
+	stoop 5
+	stock 1
+	4
+foggy
+	learn
+	hoist 212
+	goody 13
+	foggy 1
+	4
+piece
+	learn
+	suite 120
+	movie 6
+	piece 1
+	4
+stash
+	learn
+	chasm 38
+	swash 4
+	stash 1
+	4
+eerie
+	learn
+	terse 40
+	verge 4
+	eerie 1
+	4
+chime
+	learn
+	suite 120
+	chide 4
+	chime 1
+	4
+swept
+	learn
+	suite 120
+	swept 5
+	3
+rogue
+	learn
+	trope 158
+	forge 9
+	rogue 1
+	4
+polar
+	learn
+	moral 16
+	polar 2
+	3
+taste
+	learn
+	saute 55
+	baste 6
+	caste 5
+	taste 4
+	5
+mouth
+	learn
+	hoist 212
+	touch 7
+	mouth 2
+	4
+beech
+	learn
+	depth 43
+	beech 2
+	3
+rebel
+	learn
+	peril 6
+	rebel 2
+	3
+dally
+	learn
+	atoll 68
+	dally 3
+	3
+ester
+	learn
+	trope 158
+	steer 6
+	ester 1
+	4
+fuzzy
+	learn
+	hoist 212
+	dumpy 15
+	fuzzy 2
+	4
+skulk
+	learn
+	solid 113
+	shyly 6
+	skulk 2
+	4
+flout
+	learn
+	solid 113
+	cloth 9
+	flout 1
+	4
+gross
+	learn
+	grout 117
+	gross 2
+	3
+steal
+	learn
+	table 36
+	cleat 4
+	steal 1
+	4
+piney
+	learn
+	snide 61
+	piney 1
+	3
+minty
+	learn
+	count 103
+	minty 2
+	3
+boast
+	learn
+	chasm 38
+	toast 3
+	boast 1
+	4
+biome
+	learn
+	suite 120
+	movie 6
+	biome 1
+	4
+cloak
+	learn
+	atoll 68
+	cloak 1
+	3
+wrung
+	learn
+	grind 28
+	wrong 3
+	wrung 1
+	4
+clump
+	learn
+	solid 113
+	plumb 8
+	clump 1
+	4
+leggy
+	learn
+	ledge 5
+	leggy 1
+	3
+angel
+	learn
+	ankle 6
+	angel 1
+	3
+daily
+	learn
+	atoll 68
+	madly 7
+	daily 1
+	4
+snarl
+	learn
+	snarl 1
+	2
+steam
+	learn
+	saute 55
+	steam 4
+	3
+ahead
+	learn
+	saute 55
+	ahead 4
+	3
+waltz
+	learn
+	atoll 68
+	salty 3
+	waltz 1
+	4
+spicy
+	learn
+	hoist 212
+	skiff 4
+	spicy 1
+	4
+prong
+	learn
+	grind 28
+	wrong 3
+	prong 1
+	4
+pudgy
+	learn
+	hoist 212
+	dumpy 15
+	pudgy 1
+	4
+syrup
+	learn
+	grout 117
+	scrub 5
+	syrup 1
+	4
+debit
+	learn
+	depth 43
+	debit 3
+	3
+brook
+	learn
+	grout 117
+	droop 12
+	broom 3
+	brook 1
+	5
+choir
+	learn
+	grout 117
+	choir 2
+	3
+radio
+	learn
+	tarot 61
+	radio 1
+	3
+slash
+	learn
+	slack 34
+	slash 1
+	3
+slunk
+	learn
+	sling 22
+	slunk 1
+	3
+raven
+	learn
+	raven 2
+	2
+mucky
+	learn
+	hoist 212
+	dumpy 15
+	mucky 1
+	4
+blurt
+	learn
+	blurt 8
+	2
+ratio
+	learn
+	tarot 61
+	ratio 1
+	3
+friar
+	learn
+	tarot 61
+	friar 7
+	3
+rusty
+	learn
+	grout 117
+	rusty 1
+	3
+seedy
+	learn
+	depth 43
+	wedge 4
+	seedy 1
+	4
+evict
+	learn
+	suite 120
+	edict 3
+	evict 1
+	4
+crony
+	learn
+	grind 28
+	front 4
+	crony 1
+	4
+vegan
+	learn
+	vegan 4
+	2
+spark
+	learn
+	shard 25
+	smart 7
+	scarf 3
+	spark 1
+	5
+story
+	learn
+	story 29
+	2
+daddy
+	learn
+	patsy 100
+	bawdy 10
+	daddy 3
+	4
+felon
+	learn
+	felon 2
+	2
+spend
+	learn
+	snide 61
+	spend 1
+	3
+froze
+	learn
+	trope 158
+	drove 5
+	broke 2
+	froze 1
+	5
+there
+	learn
+	store 18
+	there 1
+	3
+ample
+	learn
+	table 36
+	ample 4
+	3
+hyena
+	learn
+	amend 15
+	hyena 1
+	3
+exalt
+	learn
+	stale 18
+	exalt 1
+	3
+moult
+	learn
+	solid 113
+	moult 5
+	3
+north
+	learn
+	grind 28
+	north 2
+	3
+bacon
+	learn
+	baton 15
+	bacon 1
+	3
+hazel
+	learn
+	table 36
+	camel 4
+	hazel 3
+	4
+grove
+	learn
+	trope 158
+	drove 5
+	grove 1
+	4
+media
+	learn
+	media 6
+	2
+flood
+	learn
+	solid 113
+	blood 3
+	flood 1
+	4
+vixen
+	learn
+	woven 14
+	vixen 1
+	3
+teddy
+	learn
+	depth 43
+	teddy 2
+	3
+geese
+	learn
+	depth 43
+	geese 7
+	3
+hoist
+	learn
+	hoist 212
+	2
+favor
+	learn
+	tarot 61
+	favor 6
+	3
+baler
+	learn
+	baler 5
+	2
+quote
+	learn
+	suite 120
+	butte 2
+	quote 1
+	4
+south
+	learn
+	hoist 212
+	south 2
+	3
+drive
+	learn
+	trope 158
+	bride 7
+	drive 1
+	4
+brown
+	learn
+	brown 8
+	2
+parse
+	learn
+	taper 52
+	parse 1
+	3
+cause
+	learn
+	saute 55
+	pause 2
+	cause 1
+	4
+gassy
+	learn
+	patsy 100
+	sassy 3
+	gassy 1
+	4
+await
+	learn
+	chasm 38
+	await 3
+	3
+rebar
+	learn
+	recap 6
+	rebar 2
+	3
+lapse
+	learn
+	lapel 6
+	lapse 1
+	3
+often
+	learn
+	woven 14
+	often 1
+	3
+upset
+	learn
+	suite 120
+	upset 1
+	3
+solve
+	learn
+	stole 88
+	solve 1
+	3
+birth
+	learn
+	grout 117
+	birth 4
+	3
+plate
+	learn
+	stale 18
+	plate 2
+	3
+perch
+	learn
+	terse 40
+	jerky 5
+	perch 1
+	4
+covet
+	learn
+	suite 120
+	comet 8
+	covet 1
+	4
+slope
+	learn
+	stole 88
+	slope 1
+	3
+human
+	learn
+	baton 15
+	admin 3
+	human 1
+	4
+flint
+	learn
+	sling 22
+	blink 4
+	flint 1
+	4
+ardor
+	learn
+	tarot 61
+	ardor 4
+	3
+theta
+	learn
+	saute 55
+	theta 1
+	3
+delay
+	learn
+	medal 10
+	delay 1
+	3
+eaten
+	learn
+	taken 7
+	eaten 1
+	3
+spare
+	learn
+	share 5
+	spare 3
+	3
+risen
+	learn
+	ripen 5
+	risen 1
+	3
+bobby
+	learn
+	hoist 212
+	goody 13
+	comfy 3
+	bobby 2
+	5
+skirt
+	learn
+	story 29
+	shirt 3
+	skirt 1
+	4
+cameo
+	learn
+	saute 55
+	cagey 2
+	cameo 1
+	4
+birch
+	learn
+	grout 117
+	risky 2
+	birch 1
+	4
+lunch
+	learn
+	lying 4
+	lunch 1
+	3
+manga
+	learn
+	saint 46
+	candy 8
+	mango 3
+	manga 1
+	5
+throb
+	learn
+	grout 117
+	worth 9
+	throb 1
+	4
+windy
+	learn
+	count 103
+	dingy 7
+	windy 1
+	4
+fiery
+	learn
+	store 18
+	every 3
+	fiery 2
+	4
+manly
+	learn
+	tonal 13
+	manly 1
+	3
+stork
+	learn
+	story 29
+	stork 2
+	3
+lynch
+	learn
+	lying 4
+	lynch 1
+	3
+movie
+	learn
+	suite 120
+	movie 6
+	3
+sandy
+	learn
+	saint 46
+	sandy 1
+	3
+cluck
+	learn
+	solid 113
+	plumb 8
+	fluff 2
+	cluck 1
+	5
+recur
+	learn
+	terse 40
+	decor 4
+	recur 1
+	4
+class
+	learn
+	slack 34
+	class 3
+	3
+eying
+	learn
+	snide 61
+	eying 2
+	3
+begin
+	learn
+	deign 7
+	begin 1
+	3
+rural
+	learn
+	moral 16
+	rural 2
+	3
+sprig
+	learn
+	grout 117
+	rigid 2
+	sprig 1
+	4
+usual
+	learn
+	atoll 68
+	basil 7
+	usual 1
+	4
+float
+	learn
+	atoll 68
+	bloat 3
+	float 2
+	4
+gruel
+	learn
+	idler 13
+	gruel 2
+	3
+laden
+	learn
+	laden 1
+	2
+toxin
+	learn
+	spoon 10
+	toxin 1
+	3
+funny
+	learn
+	count 103
+	bunny 5
+	funny 2
+	4
+audit
+	learn
+	patsy 100
+	about 7
+	audit 1
+	4
+guild
+	learn
+	solid 113
+	guild 3
+	3
+loser
+	learn
+	lover 4
+	loser 2
+	3
+paper
+	learn
+	taper 52
+	paper 2
+	3
+enter
+	learn
+	diner 22
+	enter 2
+	3
+gazer
+	learn
+	taper 52
+	wager 12
+	gayer 3
+	gazer 2
+	5
+flack
+	learn
+	slack 34
+	flack 3
+	3
+check
+	learn
+	suite 120
+	epoch 9
+	check 1
+	4
+award
+	learn
+	shard 25
+	award 3
+	3
+valor
+	learn
+	moral 16
+	valor 1
+	3
+verso
+	learn
+	terse 40
+	verso 1
+	3
+infer
+	learn
+	diner 22
+	inter 2
+	infer 1
+	4
+flame
+	learn
+	stale 18
+	blame 8
+	flame 1
+	4
+knead
+	learn
+	amend 15
+	knead 1
+	3
+broad
+	learn
+	tarot 61
+	broad 3
+	3
+write
+	learn
+	trope 158
+	write 2
+	3
+gamut
+	learn
+	patsy 100
+	tacit 6
+	gamut 1
+	4
+pinky
+	learn
+	count 103
+	dingy 7
+	pinky 2
+	4
+blind
+	learn
+	sling 22
+	blink 4
+	blind 1
+	4
+merit
+	learn
+	terse 40
+	merit 2
+	3
+sauna
+	learn
+	saint 46
+	sauna 1
+	3
+debar
+	learn
+	recap 6
+	debar 1
+	3
+hater
+	learn
+	taper 52
+	water 4
+	hater 3
+	4
+revel
+	learn
+	peril 6
+	rebel 2
+	revel 1
+	4
+chief
+	learn
+	suite 120
+	edify 2
+	chief 1
+	4
+elect
+	learn
+	stole 88
+	fleet 4
+	elect 1
+	4
+husky
+	learn
+	hoist 212
+	husky 2
+	3
+icily
+	learn
+	solid 113
+	climb 14
+	icily 1
+	4
+fifth
+	learn
+	hoist 212
+	width 7
+	fifth 1
+	4
+track
+	learn
+	craft 29
+	track 1
+	3
+mamma
+	learn
+	patsy 100
+	magma 12
+	mamma 1
+	4
+remit
+	learn
+	terse 40
+	recut 5
+	remit 2
+	4
+scent
+	learn
+	snide 61
+	spent 2
+	scent 1
+	4
+swath
+	learn
+	chasm 38
+	swath 1
+	3
+smoky
+	learn
+	hoist 212
+	spook 7
+	smoky 1
+	4
+slang
+	learn
+	clank 11
+	slang 5
+	3
+decal
+	learn
+	medal 10
+	decal 1
+	3
+tacky
+	learn
+	patsy 100
+	taffy 3
+	tabby 2
+	tacky 1
+	5
+crook
+	learn
+	grout 117
+	droop 12
+	broom 3
+	crook 1
+	5
+freed
+	learn
+	trope 158
+	cried 18
+	freed 3
+	4
+oxide
+	learn
+	suite 120
+	chide 4
+	oxide 1
+	4
+party
+	learn
+	tarot 61
+	warty 2
+	party 1
+	4
+steed
+	learn
+	suite 120
+	swept 5
+	steed 1
+	4
+whine
+	learn
+	snide 61
+	whine 4
+	3
+roger
+	learn
+	trope 158
+	rower 18
+	roger 2
+	4
+squat
+	learn
+	patsy 100
+	squat 3
+	3
+angst
+	learn
+	saint 46
+	angst 1
+	3
+olive
+	learn
+	stole 88
+	olive 1
+	3
+shrub
+	learn
+	grout 117
+	scrub 5
+	shrub 1
+	4
+slump
+	learn
+	solid 113
+	shyly 6
+	slump 1
+	4
+latte
+	learn
+	lapel 6
+	latte 2
+	3
+white
+	learn
+	suite 120
+	white 1
+	3
+scale
+	learn
+	stale 18
+	scale 2
+	3
+match
+	learn
+	patsy 100
+	hatch 6
+	match 4
+	4
+shrew
+	learn
+	trope 158
+	rider 24
+	screw 2
+	shrew 1
+	5
+grand
+	learn
+	grand 7
+	2
+artsy
+	learn
+	tarot 61
+	artsy 1
+	3
+tipsy
+	learn
+	hoist 212
+	tipsy 1
+	3
+plied
+	learn
+	stole 88
+	expel 11
+	plied 1
+	4
+enact
+	learn
+	snake 4
+	enact 1
+	3
+moron
+	learn
+	brown 8
+	moron 1
+	3
+feast
+	learn
+	death 17
+	yeast 4
+	feast 2
+	4
+colon
+	learn
+	clown 5
+	colon 1
+	3
+ovine
+	learn
+	snide 61
+	whine 4
+	ovine 2
+	4
+fibre
+	learn
+	store 18
+	fibre 2
+	3
+depot
+	learn
+	depth 43
+	depot 1
+	3
+lager
+	learn
+	lager 4
+	2
+forth
+	learn
+	grout 117
+	throw 9
+	forth 1
+	4
+amass
+	learn
+	chasm 38
+	amass 1
+	3
+clamp
+	learn
+	slack 34
+	claim 2
+	clamp 1
+	4
+wrack
+	learn
+	craft 29
+	wrack 1
+	3
+skunk
+	learn
+	count 103
+	skunk 3
+	3
+basis
+	learn
+	patsy 100
+	basis 2
+	3
+lathe
+	learn
+	lapel 6
+	latte 2
+	lathe 1
+	4
+bayou
+	learn
+	patsy 100
+	bayou 2
+	3
+cleft
+	learn
+	stole 88
+	fleet 4
+	cleft 1
+	4
+bleak
+	learn
+	table 36
+	bleak 2
+	3
+jewel
+	learn
+	belle 18
+	jewel 1
+	3
+linen
+	learn
+	linen 3
+	2
+icing
+	learn
+	count 103
+	icing 1
+	3
+pixel
+	learn
+	stole 88
+	expel 11
+	pixel 1
+	4
+trend
+	learn
+	diner 22
+	trend 1
+	3
+posse
+	learn
+	suite 120
+	moose 7
+	posse 2
+	4
+rodeo
+	learn
+	trope 158
+	rover 18
+	rodeo 1
+	4
+amaze
+	learn
+	stage 29
+	awake 5
+	amaze 1
+	4
+right
+	learn
+	grout 117
+	right 1
+	3
+pulpy
+	learn
+	solid 113
+	gully 7
+	bulky 2
+	pulpy 1
+	5
+these
+	learn
+	suite 120
+	those 2
+	these 1
+	4
+pixie
+	learn
+	suite 120
+	movie 6
+	pixie 1
+	4
+notch
+	learn
+	count 103
+	notch 2
+	3
+deter
+	learn
+	terse 40
+	deter 2
+	3
+stiff
+	learn
+	hoist 212
+	stiff 2
+	3
+irate
+	learn
+	grace 19
+	drake 8
+	erase 4
+	irate 3
+	5
+image
+	learn
+	stage 29
+	image 2
+	3
+kebab
+	learn
+	media 6
+	begat 2
+	kebab 1
+	4
+fluid
+	learn
+	solid 113
+	fluid 1
+	3
+hefty
+	learn
+	depth 43
+	hefty 1
+	3
+pansy
+	learn
+	saint 46
+	pansy 1
+	3
+theft
+	learn
+	suite 120
+	comet 8
+	theft 1
+	4
+octal
+	learn
+	atoll 68
+	octal 2
+	3
+siege
+	learn
+	suite 120
+	siege 2
+	3
+spied
+	learn
+	suite 120
+	spied 2
+	3
+coyly
+	learn
+	solid 113
+	moult 5
+	coyly 2
+	4
+brute
+	learn
+	trope 158
+	write 2
+	brute 1
+	4
+groin
+	learn
+	brown 8
+	groin 1
+	3
+filet
+	learn
+	stole 88
+	fleet 4
+	filet 1
+	4
+scout
+	learn
+	hoist 212
+	stout 3
+	scout 2
+	4
+pupil
+	learn
+	solid 113
+	vigil 3
+	pupil 1
+	4
+bluer
+	learn
+	idler 13
+	bluer 3
+	3
+unzip
+	learn
+	count 103
+	unify 7
+	undid 2
+	unzip 1
+	5
+scamp
+	learn
+	chasm 38
+	smack 2
+	scamp 1
+	4
+gaudy
+	learn
+	patsy 100
+	bawdy 10
+	daddy 3
+	gaudy 1
+	5
+venom
+	learn
+	pence 19
+	venom 3
+	3
+wispy
+	learn
+	hoist 212
+	music 4
+	wispy 1
+	4
+patch
+	learn
+	patsy 100
+	patch 2
+	3
+ovate
+	learn
+	stage 29
+	abate 2
+	ovate 1
+	4
+rivet
+	learn
+	trope 158
+	steer 6
+	rivet 1
+	4
+agent
+	learn
+	amend 15
+	agent 1
+	3
+facet
+	learn
+	saute 55
+	facet 3
+	3
+wench
+	learn
+	pence 19
+	wench 2
+	3
+parry
+	learn
+	carry 12
+	harry 3
+	marry 2
+	parry 1
+	5
+splat
+	learn
+	atoll 68
+	salty 3
+	splat 1
+	4
+swung
+	learn
+	count 103
+	skunk 3
+	swung 1
+	4
+weigh
+	learn
+	depth 43
+	beech 2
+	weigh 1
+	4
+scram
+	learn
+	tarot 61
+	scram 6
+	3
+blink
+	learn
+	sling 22
+	blink 4
+	3
+focal
+	learn
+	atoll 68
+	focal 4
+	3
+loamy
+	learn
+	loath 3
+	loamy 1
+	3
+aglow
+	learn
+	atoll 68
+	allow 3
+	aglow 1
+	4
+krill
+	learn
+	drill 21
+	grill 3
+	krill 2
+	4
+donor
+	learn
+	grind 28
+	donor 1
+	3
+nosey
+	learn
+	snide 61
+	nosey 1
+	3
+front
+	learn
+	grind 28
+	brunt 4
+	front 1
+	4
+bloke
+	learn
+	stole 88
+	globe 5
+	bloke 1
+	4
+hunky
+	learn
+	count 103
+	fungi 7
+	hunky 1
+	4
+borne
+	learn
+	diner 22
+	prune 5
+	borne 1
+	4
+light
+	learn
+	lumpy 18
+	livid 3
+	light 1
+	4
+table
+	learn
+	table 36
+	2
+meant
+	learn
+	meant 1
+	2
+apply
+	learn
+	atoll 68
+	apply 2
+	3
+close
+	learn
+	stole 88
+	close 1
+	3
+bilge
+	learn
+	stole 88
+	flume 8
+	bilge 1
+	4
+waste
+	learn
+	saute 55
+	baste 6
+	caste 5
+	taste 4
+	waste 3
+	6
+parka
+	learn
+	tarot 61
+	marsh 7
+	parka 1
+	4
+rocky
+	learn
+	grout 117
+	porch 6
+	rocky 1
+	4
+quark
+	learn
+	shard 25
+	quart 5
+	quark 1
+	4
+pygmy
+	learn
+	hoist 212
+	dumpy 15
+	pygmy 1
+	4
+great
+	learn
+	taper 52
+	great 1
+	3
+shard
+	learn
+	shard 25
+	2
+empty
+	learn
+	suite 120
+	empty 1
+	3
+frisk
+	learn
+	grout 117
+	crimp 9
+	brisk 2
+	frisk 1
+	5
+teary
+	learn
+	heard 6
+	weary 3
+	teary 1
+	4
+villa
+	learn
+	atoll 68
+	dally 3
+	villa 1
+	4
+roast
+	learn
+	craft 29
+	roast 1
+	3
+epoxy
+	learn
+	suite 120
+	epoch 9
+	epoxy 1
+	4
+tasty
+	learn
+	patsy 100
+	hasty 2
+	tasty 1
+	4
+abhor
+	learn
+	tarot 61
+	ardor 4
+	abhor 1
+	4
+alibi
+	learn
+	atoll 68
+	allay 4
+	alibi 2
+	4
+dizzy
+	learn
+	hoist 212
+	pubic 13
+	fizzy 4
+	dizzy 1
+	5
+raspy
+	learn
+	tarot 61
+	rapid 7
+	raspy 1
+	4
+ridge
+	learn
+	trope 158
+	surge 7
+	ridge 1
+	4
+kinky
+	learn
+	count 103
+	dingy 7
+	pinky 2
+	kinky 1
+	5
+qualm
+	learn
+	slack 34
+	qualm 3
+	3
+oaken
+	learn
+	taken 7
+	oaken 1
+	3
+duchy
+	learn
+	hoist 212
+	chump 3
+	duchy 1
+	4
+slosh
+	learn
+	solid 113
+	stool 6
+	slosh 1
+	4
+smelt
+	learn
+	stole 88
+	smelt 2
+	3
+aside
+	learn
+	saute 55
+	aside 1
+	3
+think
+	learn
+	count 103
+	think 5
+	3
+apart
+	learn
+	shard 25
+	quart 5
+	apart 1
+	4
+gamer
+	learn
+	taper 52
+	wager 12
+	gayer 3
+	gazer 2
+	gamer 1
+	6
+booze
+	learn
+	suite 120
+	evoke 5
+	booze 1
+	4
+fiend
+	learn
+	snide 61
+	fiend 1
+	3
+otter
+	learn
+	trope 158
+	otter 4
+	3
+rinse
+	learn
+	diner 22
+	rinse 1
+	3
+fatty
+	learn
+	patsy 100
+	catty 4
+	fatty 3
+	4
+sugar
+	learn
+	tarot 61
+	friar 7
+	sugar 1
+	4
+curio
+	learn
+	grout 117
+	furor 5
+	curio 1
+	4
+scold
+	learn
+	solid 113
+	scold 1
+	3
+whirl
+	learn
+	blurt 8
+	swirl 2
+	whirl 1
+	4
+sling
+	learn
+	sling 22
+	2
+sooth
+	learn
+	hoist 212
+	south 2
+	sooth 1
+	4
+chest
+	learn
+	suite 120
+	chest 2
+	3
+flunk
+	learn
+	sling 22
+	flunk 4
+	3
+could
+	learn
+	solid 113
+	could 2
+	3
+pride
+	learn
+	trope 158
+	pride 5
+	3
+caper
+	learn
+	taper 52
+	paper 2
+	caper 1
+	4
+place
+	learn
+	stale 18
+	blame 8
+	glaze 4
+	flake 2
+	place 1
+	6
+bland
+	learn
+	blank 11
+	bland 1
+	3
+floor
+	learn
+	drill 21
+	flour 3
+	floor 1
+	4
+emcee
+	learn
+	suite 120
+	evoke 5
+	emcee 1
+	4
+deuce
+	learn
+	depth 43
+	deuce 3
+	3
+rapid
+	learn
+	tarot 61
+	rapid 7
+	3
+renew
+	learn
+	newer 6
+	renew 1
+	3
+fella
+	learn
+	medal 10
+	fella 1
+	3
+vogue
+	learn
+	suite 120
+	vogue 3
+	3
+adobe
+	learn
+	saute 55
+	abide 5
+	adobe 1
+	4
+stale
+	learn
+	stale 18
+	2
+spank
+	learn
+	scant 14
+	shank 2
+	spank 1
+	4
+dwarf
+	learn
+	shard 25
+	dwarf 2
+	3
+elate
+	learn
+	stale 18
+	plate 2
+	elate 1
+	4
+pesky
+	learn
+	depth 43
+	pesky 1
+	3
+fling
+	learn
+	sling 22
+	fling 2
+	3
+arson
+	learn
+	baron 7
+	arson 1
+	3
+spasm
+	learn
+	chasm 38
+	spasm 1
+	3
+pesto
+	learn
+	depth 43
+	petty 2
+	pesto 1
+	4
+agree
+	learn
+	taper 52
+	agree 1
+	3
+taken
+	learn
+	taken 7
+	2
+prawn
+	learn
+	drawn 7
+	brawn 2
+	prawn 1
+	4
+ruddy
+	learn
+	grout 117
+	murky 3
+	ruddy 1
+	4
+taker
+	learn
+	taper 52
+	taker 2
+	3
+stony
+	learn
+	count 103
+	thong 2
+	stony 1
+	4
+minus
+	learn
+	count 103
+	fungi 7
+	minus 1
+	4
+sushi
+	learn
+	hoist 212
+	sushi 2
+	3
+limbo
+	learn
+	lumpy 18
+	limbo 2
+	3
+sappy
+	learn
+	patsy 100
+	sappy 1
+	3
+dowry
+	learn
+	story 29
+	worry 2
+	dowry 1
+	4
+batty
+	learn
+	patsy 100
+	catty 4
+	fatty 3
+	batty 2
+	5
+fetal
+	learn
+	medal 10
+	fetal 3
+	3
+needy
+	learn
+	pence 19
+	needy 1
+	3
+fetch
+	learn
+	depth 43
+	fetch 1
+	3
+harpy
+	learn
+	tarot 61
+	marsh 7
+	harpy 2
+	4
+lanky
+	learn
+	lanky 1
+	2
+spore
+	learn
+	store 18
+	spore 4
+	3
+lurch
+	learn
+	lurid 3
+	lurch 1
+	3
+forge
+	learn
+	trope 158
+	forge 9
+	3
+horny
+	learn
+	grind 28
+	corny 3
+	horny 1
+	4
+thing
+	learn
+	count 103
+	think 5
+	thing 1
+	4
+lower
+	learn
+	lover 4
+	loser 2
+	lower 1
+	4
+melon
+	learn
+	felon 2
+	melon 1
+	3
+junta
+	learn
+	saint 46
+	tonga 3
+	junta 1
+	4
+pagan
+	learn
+	baton 15
+	pagan 1
+	3
+rerun
+	learn
+	resin 4
+	rerun 1
+	3
+royal
+	learn
+	moral 16
+	royal 1
+	3
+vomit
+	learn
+	hoist 212
+	vomit 1
+	3
+sleek
+	learn
+	stole 88
+	spiel 3
+	sleek 1
+	4
+elegy
+	learn
+	stole 88
+	expel 11
+	elegy 1
+	4
+ashen
+	learn
+	taken 7
+	ashen 1
+	3
+clung
+	learn
+	fling 22
+	clung 2
+	3
+lusty
+	learn
+	lumpy 18
+	lusty 2
+	3
+spurn
+	learn
+	thorn 7
+	spurn 1
+	3
+route
+	learn
+	trope 158
+	forte 2
+	route 1
+	4
+maple
+	learn
+	table 36
+	eagle 2
+	maple 1
+	4
+evoke
+	learn
+	suite 120
+	evoke 5
+	3
+wight
+	learn
+	hoist 212
+	fight 4
+	wight 3
+	4
+leave
+	learn
+	leash 8
+	leafy 4
+	leave 2
+	4
+inept
+	learn
+	snide 61
+	ennui 2
+	inept 1
+	4
+piggy
+	learn
+	hoist 212
+	pubic 13
+	piggy 1
+	4
+denim
+	learn
+	pence 19
+	venom 3
+	denim 1
+	4
+pizza
+	learn
+	patsy 100
+	pizza 1
+	3
+lucid
+	learn
+	lumpy 18
+	lucid 1
+	3
+dingo
+	learn
+	count 103
+	synod 6
+	dingo 1
+	4
+brine
+	learn
+	diner 22
+	urine 2
+	brine 1
+	4
+mossy
+	learn
+	hoist 212
+	mossy 2
+	3
+shrug
+	learn
+	grout 117
+	shrug 1
+	3
+dusky
+	learn
+	hoist 212
+	mucus 3
+	dusky 1
+	4
+betel
+	learn
+	belle 18
+	betel 3
+	3
+since
+	learn
+	snide 61
+	singe 2
+	since 1
+	4
+lumen
+	learn
+	linen 3
+	lumen 1
+	3
+knoll
+	learn
+	sling 22
+	knoll 2
+	3
+sheer
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	sheer 1
+	5
+carol
+	learn
+	moral 16
+	carol 1
+	3
+hello
+	learn
+	belle 18
+	hello 3
+	3
+elbow
+	learn
+	stole 88
+	dowel 7
+	elbow 1
+	4
+round
+	learn
+	grind 28
+	round 1
+	3
+dummy
+	learn
+	hoist 212
+	dumpy 15
+	dummy 1
+	4
+dutch
+	learn
+	hoist 212
+	thumb 4
+	dutch 1
+	4
+myrrh
+	learn
+	story 29
+	myrrh 1
+	3
+spool
+	learn
+	solid 113
+	stool 6
+	spool 1
+	4
+glory
+	learn
+	blurt 8
+	glory 1
+	3
+drain
+	learn
+	drawn 7
+	drain 1
+	3
+salvo
+	learn
+	atoll 68
+	salvo 2
+	3
+dodgy
+	learn
+	hoist 212
+	goody 13
+	dodgy 1
+	4
+shady
+	learn
+	chasm 38
+	shaky 3
+	shady 1
+	4
+boxer
+	learn
+	trope 158
+	rover 18
+	sower 8
+	joker 4
+	foyer 3
+	boxer 2
+	7
+cobra
+	learn
+	carry 12
+	cobra 1
+	3
+whiny
+	learn
+	count 103
+	spiny 7
+	whiny 1
+	4
+grace
+	learn
+	grace 19
+	2
+gruff
+	learn
+	grout 117
+	gruff 1
+	3
+lobby
+	learn
+	lumpy 18
+	lobby 3
+	3
+humor
+	learn
+	grout 117
+	furor 5
+	humor 1
+	4
+joint
+	learn
+	count 103
+	point 2
+	joint 1
+	4
+craft
+	learn
+	craft 29
+	2
+stall
+	learn
+	slack 34
+	shalt 5
+	stall 1
+	4
+surge
+	learn
+	trope 158
+	surge 7
+	3
+testy
+	learn
+	depth 43
+	jetty 3
+	testy 1
+	4
+tapir
+	learn
+	tarot 61
+	tapir 1
+	3
+pried
+	learn
+	trope 158
+	pried 3
+	3
+soggy
+	learn
+	hoist 212
+	focus 3
+	soggy 2
+	4
+plush
+	learn
+	solid 113
+	plush 3
+	3
+octet
+	learn
+	suite 120
+	comet 8
+	octet 1
+	4
+thief
+	learn
+	suite 120
+	edict 3
+	thief 1
+	4
+gland
+	learn
+	blank 11
+	slang 5
+	gland 1
+	4
+arose
+	learn
+	taper 52
+	creak 11
+	arose 3
+	4
+cloth
+	learn
+	solid 113
+	cloth 9
+	3
+merge
+	learn
+	terse 40
+	verge 4
+	merge 1
+	4
+black
+	learn
+	slack 34
+	flack 3
+	black 2
+	4
+slime
+	learn
+	stole 88
+	slime 3
+	3
+swash
+	learn
+	chasm 38
+	swash 4
+	3
+which
+	learn
+	hoist 212
+	chick 3
+	which 1
+	4
+curly
+	learn
+	drill 21
+	surly 3
+	curly 2
+	4
+bevel
+	learn
+	belle 18
+	betel 3
+	bevel 2
+	4
+stair
+	learn
+	craft 29
+	stair 1
+	3
+ocean
+	learn
+	taken 7
+	ocean 1
+	3
+civil
+	learn
+	solid 113
+	vigil 3
+	civil 1
+	4
+abort
+	learn
+	carry 12
+	abort 3
+	3
+abyss
+	learn
+	patsy 100
+	abyss 1
+	3
+paler
+	learn
+	baler 5
+	paler 1
+	3
+touch
+	learn
+	hoist 212
+	touch 7
+	3
+diode
+	learn
+	suite 120
+	movie 6
+	diode 1
+	4
+furry
+	learn
+	story 29
+	curry 3
+	furry 2
+	4
+snare
+	learn
+	snare 1
+	2
+baron
+	learn
+	baron 7
+	2
+newly
+	learn
+	newly 1
+	2
+usage
+	learn
+	stage 29
+	usage 1
+	3
+basic
+	learn
+	patsy 100
+	basis 2
+	basic 1
+	4
+globe
+	learn
+	stole 88
+	globe 5
+	3
+impel
+	learn
+	stole 88
+	expel 11
+	impel 1
+	4
+brake
+	learn
+	grace 19
+	drake 8
+	brake 1
+	4
+truss
+	learn
+	grout 117
+	truth 4
+	truss 3
+	4
+banal
+	learn
+	tonal 13
+	banal 3
+	3
+haste
+	learn
+	saute 55
+	baste 6
+	caste 5
+	taste 4
+	waste 3
+	haste 2
+	7
+alarm
+	learn
+	alarm 1
+	2
+vodka
+	learn
+	patsy 100
+	comma 9
+	vodka 1
+	4
+molar
+	learn
+	moral 16
+	molar 1
+	3
+glove
+	learn
+	stole 88
+	globe 5
+	glove 1
+	4
+under
+	learn
+	diner 22
+	under 1
+	3
+musty
+	learn
+	hoist 212
+	musty 7
+	3
+clerk
+	learn
+	clerk 1
+	2
+heavy
+	learn
+	death 17
+	heavy 2
+	3
+chili
+	learn
+	solid 113
+	climb 14
+	chili 2
+	4
+pasta
+	learn
+	patsy 100
+	pasta 1
+	3
+spawn
+	learn
+	stain 4
+	spawn 1
+	3
+thrum
+	learn
+	grout 117
+	thrum 1
+	3
+steak
+	learn
+	saute 55
+	steam 4
+	steak 2
+	4
+nadir
+	learn
+	randy 6
+	nadir 1
+	3
+bravo
+	learn
+	craft 29
+	brash 9
+	bravo 2
+	4
+pinto
+	learn
+	count 103
+	pinto 1
+	3
+khaki
+	learn
+	chasm 38
+	khaki 1
+	3
+beach
+	learn
+	death 17
+	beach 2
+	3
+clack
+	learn
+	slack 34
+	flack 3
+	black 2
+	clack 1
+	5
+hitch
+	learn
+	hoist 212
+	hitch 1
+	3
+booby
+	learn
+	hoist 212
+	goody 13
+	boozy 3
+	booby 1
+	5
+welch
+	learn
+	belle 18
+	welch 3
+	3
+aunty
+	learn
+	saint 46
+	tonga 3
+	aunty 1
+	4
+mafia
+	learn
+	patsy 100
+	magma 12
+	mafia 1
+	4
+botch
+	learn
+	hoist 212
+	touch 7
+	botch 1
+	4
+spice
+	learn
+	suite 120
+	spike 2
+	spice 1
+	4
+visit
+	learn
+	hoist 212
+	visit 1
+	3
+booth
+	learn
+	hoist 212
+	touch 7
+	booth 1
+	4
+tepee
+	learn
+	depth 43
+	tepee 1
+	3
+least
+	learn
+	leash 8
+	lease 2
+	least 1
+	4
+beefy
+	learn
+	depth 43
+	geese 7
+	beefy 1
+	4
+heave
+	learn
+	death 17
+	heavy 2
+	heave 1
+	4
+admit
+	learn
+	patsy 100
+	about 7
+	admit 1
+	4
+horde
+	learn
+	trope 158
+	forge 9
+	horde 3
+	4
+lefty
+	learn
+	ledge 5
+	lefty 1
+	3
+koala
+	learn
+	slack 34
+	koala 1
+	3
+equip
+	learn
+	suite 120
+	equip 1
+	3
+exist
+	learn
+	suite 120
+	exist 1
+	3
+awoke
+	learn
+	saute 55
+	adobe 5
+	awoke 1
+	4
+ingot
+	learn
+	count 103
+	ingot 1
+	3
+unity
+	learn
+	count 103
+	unity 2
+	3
+crock
+	learn
+	grout 117
+	droop 12
+	cross 3
+	crock 1
+	5
+loopy
+	learn
+	lumpy 18
+	loopy 1
+	3
+creme
+	learn
+	trope 158
+	bride 7
+	creme 1
+	4
+acrid
+	learn
+	tarot 61
+	scram 6
+	acrid 1
+	4
+sperm
+	learn
+	store 18
+	sperm 1
+	3
+pearl
+	learn
+	pearl 1
+	2
+aging
+	learn
+	saint 46
+	aping 3
+	aging 1
+	4
+petal
+	learn
+	medal 10
+	fetal 3
+	petal 1
+	4
+scope
+	learn
+	suite 120
+	spoke 4
+	scope 1
+	4
+rover
+	learn
+	trope 158
+	rover 18
+	3
+slice
+	learn
+	stole 88
+	slime 3
+	slice 2
+	4
+tally
+	learn
+	atoll 68
+	tally 1
+	3
+lasso
+	learn
+	local 6
+	lasso 1
+	3
+heath
+	learn
+	death 17
+	heath 1
+	3
+hardy
+	learn
+	tarot 61
+	marsh 7
+	harpy 2
+	hardy 1
+	5
+tunic
+	learn
+	count 103
+	tunic 1
+	3
+slush
+	learn
+	solid 113
+	shyly 6
+	slush 1
+	4
+elfin
+	learn
+	elfin 2
+	2
+shave
+	learn
+	stage 29
+	spade 8
+	suave 4
+	shave 1
+	5
+topic
+	learn
+	hoist 212
+	topic 3
+	3
+crank
+	learn
+	grand 7
+	frank 3
+	crank 2
+	4
+primo
+	learn
+	grout 117
+	primo 2
+	3
+actor
+	learn
+	tarot 61
+	actor 1
+	3
+chant
+	learn
+	scant 14
+	chant 1
+	3
+scion
+	learn
+	spoon 10
+	scion 1
+	3
+matey
+	learn
+	saute 55
+	facet 3
+	matey 1
+	4
+shiny
+	learn
+	count 103
+	spiny 7
+	shiny 1
+	4
+guest
+	learn
+	suite 120
+	guest 2
+	3
+short
+	learn
+	story 29
+	short 2
+	3
+rabid
+	learn
+	tarot 61
+	rapid 7
+	rabid 1
+	4
+stunk
+	learn
+	count 103
+	stung 2
+	stunk 1
+	4
+crumb
+	learn
+	grout 117
+	crumb 5
+	3
+wring
+	learn
+	grind 28
+	wring 2
+	3
+madly
+	learn
+	atoll 68
+	madly 7
+	3
+plunk
+	learn
+	sling 22
+	flunk 4
+	plunk 1
+	4
+stage
+	learn
+	stage 29
+	2
+expel
+	learn
+	stole 88
+	expel 11
+	3
+breed
+	learn
+	trope 158
+	cried 18
+	freed 3
+	breed 2
+	5
+karma
+	learn
+	tarot 61
+	marsh 7
+	karma 1
+	4
+shirk
+	learn
+	story 29
+	smirk 2
+	shirk 1
+	4
+tardy
+	learn
+	tarot 61
+	tardy 1
+	3
+titan
+	learn
+	baton 15
+	titan 1
+	3
+sixty
+	learn
+	hoist 212
+	sixty 1
+	3
+maybe
+	learn
+	saute 55
+	maybe 7
+	3
+sadly
+	learn
+	atoll 68
+	madly 7
+	sadly 2
+	4
+shook
+	learn
+	hoist 212
+	shock 3
+	shook 1
+	4
+query
+	learn
+	store 18
+	every 3
+	fiery 2
+	query 1
+	5
+scoop
+	learn
+	hoist 212
+	spook 7
+	scoop 2
+	4
+staff
+	learn
+	chasm 38
+	staff 3
+	3
+foist
+	learn
+	hoist 212
+	joist 3
+	foist 2
+	4
+catch
+	learn
+	patsy 100
+	hatch 6
+	match 4
+	catch 3
+	5
+rider
+	learn
+	trope 158
+	rider 24
+	3
+aware
+	learn
+	share 5
+	aware 1
+	3
+dance
+	learn
+	amend 15
+	dance 1
+	3
+epoch
+	learn
+	suite 120
+	epoch 9
+	3
+guard
+	learn
+	shard 25
+	award 3
+	guard 2
+	4
+third
+	learn
+	story 29
+	third 1
+	3
+sloth
+	learn
+	solid 113
+	stool 6
+	sloth 1
+	4
+siren
+	learn
+	ripen 5
+	siren 1
+	3
+plume
+	learn
+	stole 88
+	flume 8
+	plume 1
+	4
+poker
+	learn
+	trope 158
+	power 3
+	poker 2
+	4
+prick
+	learn
+	grout 117
+	crimp 9
+	prick 1
+	4
+cease
+	learn
+	death 17
+	cease 3
+	3
+spiky
+	learn
+	hoist 212
+	skiff 4
+	spiky 1
+	4
+miser
+	learn
+	trope 158
+	rider 24
+	wiser 5
+	miser 1
+	5
+droop
+	learn
+	grout 117
+	droop 12
+	3
+naive
+	learn
+	amend 15
+	canoe 2
+	naive 1
+	4
+thank
+	learn
+	scant 14
+	twang 2
+	thank 1
+	4
+rumor
+	learn
+	grout 117
+	furor 5
+	rumor 1
+	4
+briny
+	learn
+	grind 28
+	brink 3
+	briny 1
+	4
+cinch
+	learn
+	count 103
+	cinch 2
+	3
+evade
+	learn
+	stage 29
+	awake 5
+	evade 2
+	4
+relay
+	learn
+	relay 4
+	2
+fluke
+	learn
+	stole 88
+	flume 8
+	fluke 1
+	4
+pecan
+	learn
+	vegan 4
+	sedan 2
+	pecan 1
+	4
+crone
+	learn
+	diner 22
+	prune 5
+	crone 1
+	4
+worse
+	learn
+	trope 158
+	forge 9
+	horde 3
+	worse 1
+	5
+worth
+	learn
+	grout 117
+	worth 9
+	3
+gonad
+	learn
+	saint 46
+	annoy 3
+	gonad 1
+	4
+opera
+	learn
+	opera 6
+	2
+bread
+	learn
+	taper 52
+	creak 11
+	bread 3
+	4
+arrow
+	learn
+	tarot 61
+	arrow 1
+	3
+greed
+	learn
+	trope 158
+	cried 18
+	freed 3
+	breed 2
+	greed 1
+	6
+index
+	learn
+	snide 61
+	index 1
+	3
+rower
+	learn
+	trope 158
+	rover 18
+	roger 2
+	rower 1
+	5
+small
+	learn
+	slack 34
+	shalt 5
+	small 1
+	4
+gloat
+	learn
+	atoll 68
+	bloat 3
+	float 2
+	gloat 1
+	5
+clone
+	learn
+	noble 8
+	clone 1
+	3
+satyr
+	learn
+	tarot 61
+	ratty 2
+	satyr 1
+	4
+maker
+	learn
+	taper 52
+	wager 12
+	rarer 5
+	baker 3
+	maker 1
+	6
+valet
+	learn
+	table 36
+	valet 1
+	3
+blame
+	learn
+	stale 18
+	blame 8
+	3
+ninja
+	learn
+	saint 46
+	ninja 1
+	3
+queue
+	learn
+	suite 120
+	fudge 5
+	queue 1
+	4
+reset
+	learn
+	terse 40
+	reset 1
+	3
+snaky
+	learn
+	scant 14
+	snaky 1
+	3
+entry
+	learn
+	entry 3
+	2
+flush
+	learn
+	solid 113
+	plush 3
+	flush 2
+	4
+feral
+	learn
+	relay 4
+	feral 1
+	3
+brush
+	learn
+	grout 117
+	crumb 5
+	brush 1
+	4
+ivory
+	learn
+	story 29
+	ivory 1
+	3
+beret
+	learn
+	terse 40
+	beret 1
+	3
+grout
+	learn
+	grout 117
+	2
+timer
+	learn
+	trope 158
+	timer 5
+	3
+unfit
+	learn
+	count 103
+	input 2
+	unfit 1
+	4
+scant
+	learn
+	scant 14
+	2
+rehab
+	learn
+	recap 6
+	rebar 2
+	rehab 1
+	4
+quilt
+	learn
+	solid 113
+	climb 14
+	quilt 3
+	4
+dress
+	learn
+	trope 158
+	cried 18
+	dress 1
+	4
+allot
+	learn
+	atoll 68
+	allot 1
+	3
+chalk
+	learn
+	slack 34
+	chalk 1
+	3
+armor
+	learn
+	tarot 61
+	ardor 4
+	armor 2
+	4
+omega
+	learn
+	saute 55
+	ahead 4
+	omega 1
+	4
+palsy
+	learn
+	atoll 68
+	salad 7
+	palsy 1
+	4
+layer
+	learn
+	lager 4
+	layer 2
+	3
+maxim
+	learn
+	patsy 100
+	magma 12
+	maxim 2
+	4
+plier
+	learn
+	idler 13
+	flier 2
+	plier 1
+	4
+crepe
+	learn
+	trope 158
+	gripe 2
+	crepe 1
+	4
+axion
+	learn
+	baton 15
+	axion 1
+	3
+carat
+	learn
+	tarot 61
+	carat 1
+	3
+spray
+	learn
+	tarot 61
+	scram 6
+	spray 1
+	4
+build
+	learn
+	solid 113
+	guild 3
+	build 1
+	4
+ideal
+	learn
+	table 36
+	gleam 5
+	ideal 1
+	4
+grail
+	learn
+	trail 8
+	frail 2
+	grail 1
+	4
+blank
+	learn
+	blank 11
+	2
+godly
+	learn
+	solid 113
+	godly 1
+	3
+munch
+	learn
+	count 103
+	hunch 4
+	munch 3
+	4
+shack
+	learn
+	chasm 38
+	shack 1
+	3
+patsy
+	learn
+	patsy 100
+	2
+price
+	learn
+	trope 158
+	pride 5
+	price 3
+	4
+would
+	learn
+	solid 113
+	could 2
+	would 1
+	4
+occur
+	learn
+	grout 117
+	forum 2
+	occur 1
+	4
+tooth
+	learn
+	hoist 212
+	touch 7
+	tooth 1
+	4
+altar
+	learn
+	moral 16
+	altar 1
+	3
+roach
+	learn
+	craft 29
+	roach 1
+	3
+treat
+	learn
+	taper 52
+	tread 2
+	treat 1
+	4
+offer
+	learn
+	trope 158
+	rover 18
+	offer 2
+	4
+pinch
+	learn
+	count 103
+	finch 3
+	pinch 2
+	4
+cargo
+	learn
+	tarot 61
+	cargo 1
+	3
+crave
+	learn
+	grace 19
+	crave 3
+	3
+wharf
+	learn
+	shard 25
+	charm 3
+	wharf 1
+	4
+email
+	learn
+	stale 18
+	email 1
+	3
+hutch
+	learn
+	hoist 212
+	hutch 1
+	3
+tenor
+	learn
+	newer 6
+	tenor 1
+	3
+growl
+	learn
+	drill 21
+	growl 2
+	3
+sever
+	learn
+	terse 40
+	sever 2
+	3
+affix
+	learn
+	patsy 100
+	comma 9
+	affix 1
+	4
+weird
+	learn
+	merry 8
+	weird 1
+	3
+bosom
+	learn
+	hoist 212
+	focus 3
+	soggy 2
+	bosom 1
+	5
+abled
+	learn
+	table 36
+	bleak 2
+	abled 1
+	4
+forgo
+	learn
+	grout 117
+	vigor 3
+	forgo 1
+	4
+graze
+	learn
+	grace 19
+	grave 5
+	graze 4
+	4
+atoll
+	learn
+	atoll 68
+	2
+alpha
+	learn
+	atoll 68
+	allay 4
+	alpha 1
+	4
+stilt
+	learn
+	solid 113
+	spilt 8
+	stilt 1
+	4
+teeth
+	learn
+	depth 43
+	teeth 1
+	3
+avian
+	learn
+	baton 15
+	admin 3
+	avian 1
+	4
+banjo
+	learn
+	saint 46
+	candy 8
+	mango 3
+	banjo 1
+	5
+manic
+	learn
+	saint 46
+	manic 3
+	3
+scree
+	learn
+	trope 158
+	surge 7
+	scree 1
+	4
+mimic
+	learn
+	hoist 212
+	pubic 13
+	civic 2
+	mimic 1
+	5
+baton
+	learn
+	baton 15
+	2
+askew
+	learn
+	saute 55
+	askew 2
+	3
+cutie
+	learn
+	suite 120
+	cutie 1
+	3
+demon
+	learn
+	deign 7
+	demon 1
+	3
+avail
+	learn
+	slack 34
+	qualm 3
+	avail 1
+	4
+quite
+	learn
+	suite 120
+	quite 1
+	3
+belle
+	learn
+	belle 18
+	2
+shift
+	learn
+	hoist 212
+	shift 1
+	3
+along
+	learn
+	tonal 13
+	along 1
+	3
+prude
+	learn
+	trope 158
+	pride 5
+	prude 1
+	4
+bough
+	learn
+	hoist 212
+	couch 7
+	bough 2
+	4
+idiom
+	learn
+	hoist 212
+	opium 2
+	idiom 1
+	4
+moose
+	learn
+	suite 120
+	moose 7
+	3
+where
+	learn
+	store 18
+	where 2
+	3
+cover
+	learn
+	trope 158
+	rower 18
+	hover 8
+	cover 2
+	5
+blaze
+	learn
+	stale 18
+	blame 8
+	blaze 2
+	4
+exult
+	learn
+	stole 88
+	exult 2
+	3
+taint
+	learn
+	saint 46
+	paint 3
+	taint 2
+	4
+fraud
+	learn
+	craft 29
+	fraud 1
+	3
+voila
+	learn
+	atoll 68
+	voila 1
+	3
+queer
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	queer 1
+	5
+kitty
+	learn
+	hoist 212
+	kitty 6
+	3
+skull
+	learn
+	solid 113
+	shyly 6
+	skulk 2
+	skull 1
+	5
+homer
+	learn
+	trope 158
+	rower 18
+	hover 8
+	homer 1
+	5
+break
+	learn
+	taper 52
+	creak 11
+	break 3
+	4
+hurry
+	learn
+	story 29
+	curry 3
+	furry 2
+	hurry 1
+	5
+space
+	learn
+	stage 29
+	spade 8
+	space 1
+	4
+guava
+	learn
+	chasm 38
+	await 3
+	guava 1
+	4
+threw
+	learn
+	trope 158
+	timer 5
+	threw 1
+	4
+tubal
+	learn
+	atoll 68
+	tidal 4
+	tubal 1
+	4
+labor
+	learn
+	larva 2
+	labor 1
+	3
+gaily
+	learn
+	atoll 68
+	madly 7
+	gaily 2
+	4
+coupe
+	learn
+	suite 120
+	vogue 3
+	coupe 1
+	4
+gnome
+	learn
+	snide 61
+	gnome 1
+	3
+amiss
+	learn
+	patsy 100
+	amiss 1
+	3
+bench
+	learn
+	pence 19
+	wench 2
+	bench 1
+	4
+knock
+	learn
+	count 103
+	knock 1
+	3
+hedge
+	learn
+	depth 43
+	hedge 1
+	3
+field
+	learn
+	stole 88
+	dwell 6
+	yield 2
+	field 1
+	5
+grime
+	learn
+	trope 158
+	bride 7
+	grime 2
+	4
+masse
+	learn
+	saute 55
+	masse 1
+	3
+skier
+	learn
+	trope 158
+	rider 24
+	skier 1
+	4
+penny
+	learn
+	pence 19
+	penny 1
+	3
+punch
+	learn
+	count 103
+	hunch 4
+	munch 3
+	punch 2
+	5
+wacky
+	learn
+	patsy 100
+	bawdy 10
+	wacky 1
+	4
+tepid
+	learn
+	depth 43
+	tepid 1
+	3
+mangy
+	learn
+	saint 46
+	candy 8
+	mangy 1
+	4
+penal
+	learn
+	penal 1
+	2
+binge
+	learn
+	snide 61
+	mince 6
+	binge 2
+	4
+older
+	learn
+	idler 13
+	older 2
+	3
+aback
+	learn
+	chasm 38
+	quack 2
+	aback 1
+	4
+bicep
+	learn
+	suite 120
+	dicey 3
+	bicep 1
+	4
+minor
+	learn
+	grind 28
+	incur 2
+	minor 1
+	4
+hippy
+	learn
+	hoist 212
+	hippy 2
+	3
+ulcer
+	learn
+	idler 13
+	bluer 3
+	ulcer 1
+	4
+flank
+	learn
+	blank 11
+	flank 3
+	3
+spelt
+	learn
+	stole 88
+	smelt 2
+	spelt 1
+	4
+relax
+	learn
+	relay 4
+	relax 1
+	3
+tried
+	learn
+	trope 158
+	tried 2
+	3
+shire
+	learn
+	store 18
+	shire 2
+	3
+jolly
+	learn
+	solid 113
+	jolly 5
+	3
+moldy
+	learn
+	solid 113
+	dolly 2
+	moldy 1
+	4
+seize
+	learn
+	depth 43
+	geese 7
+	seize 1
+	4
+slide
+	learn
+	stole 88
+	slime 3
+	slice 2
+	slide 1
+	5
+poser
+	learn
+	trope 158
+	power 3
+	poker 2
+	poser 1
+	5
+trump
+	learn
+	grout 117
+	truth 4
+	truss 3
+	trump 2
+	5
+boney
+	learn
+	snide 61
+	ebony 5
+	boney 1
+	4
+racer
+	learn
+	taper 52
+	wager 12
+	rarer 5
+	racer 1
+	5
+greet
+	learn
+	trope 158
+	erect 4
+	greet 1
+	4
+shalt
+	learn
+	slack 34
+	shalt 5
+	3
+guide
+	learn
+	suite 120
+	guide 2
+	3
+cyber
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	cyber 1
+	5
+segue
+	learn
+	depth 43
+	geese 7
+	segue 1
+	4
+riper
+	learn
+	trope 158
+	purer 7
+	riper 1
+	4
+blend
+	learn
+	noble 8
+	blend 1
+	3
+phase
+	learn
+	stage 29
+	phase 3
+	3
+semen
+	learn
+	deign 7
+	seven 2
+	semen 1
+	4
+suite
+	learn
+	suite 120
+	2
+ditty
+	learn
+	hoist 212
+	kitty 6
+	ditty 3
+	4
+spoke
+	learn
+	suite 120
+	spoke 4
+	3
+sweat
+	learn
+	saute 55
+	steam 4
+	sweat 1
+	4
+slurp
+	learn
+	blurt 8
+	slurp 1
+	3
+towel
+	learn
+	stole 88
+	motel 4
+	towel 1
+	4
+apron
+	learn
+	baron 7
+	apron 1
+	3
+serum
+	learn
+	terse 40
+	serum 2
+	3
+flair
+	learn
+	trail 8
+	flair 1
+	3
+grass
+	learn
+	craft 29
+	brash 9
+	grasp 2
+	grass 1
+	5
+awful
+	learn
+	atoll 68
+	axial 2
+	awful 1
+	4
+polka
+	learn
+	atoll 68
+	salvo 2
+	polka 1
+	4
+harsh
+	learn
+	tarot 61
+	marsh 7
+	harsh 1
+	4
+easel
+	learn
+	table 36
+	camel 4
+	hazel 3
+	easel 2
+	5
+detox
+	learn
+	depth 43
+	debit 3
+	detox 1
+	4
+liner
+	learn
+	liner 1
+	2
+noise
+	learn
+	snide 61
+	noise 1
+	3
+reuse
+	learn
+	terse 40
+	reuse 1
+	3
+demur
+	learn
+	terse 40
+	femur 4
+	demur 1
+	4
+kiosk
+	learn
+	hoist 212
+	kiosk 1
+	3
+gayly
+	learn
+	atoll 68
+	madly 7
+	gaily 2
+	gayly 1
+	5
+jaunt
+	learn
+	saint 46
+	vaunt 6
+	taunt 5
+	jaunt 4
+	5
+rally
+	learn
+	moral 16
+	rally 2
+	3
+mammy
+	learn
+	patsy 100
+	bawdy 10
+	mammy 2
+	4
+folly
+	learn
+	solid 113
+	jolly 5
+	folly 3
+	4
+goner
+	learn
+	diner 22
+	owner 2
+	goner 1
+	4
+sewer
+	learn
+	terse 40
+	sever 2
+	sewer 1
+	4
+flume
+	learn
+	stole 88
+	flume 8
+	3
+grate
+	learn
+	grace 19
+	grave 5
+	graze 4
+	grate 3
+	5
+inane
+	learn
+	snake 4
+	inane 1
+	3
+cater
+	learn
+	taper 52
+	water 4
+	hater 3
+	cater 2
+	5
+batch
+	learn
+	patsy 100
+	hatch 6
+	match 4
+	catch 3
+	batch 2
+	6
+scary
+	learn
+	shard 25
+	smart 7
+	scary 3
+	4
+sooty
+	learn
+	hoist 212
+	sooty 1
+	3
+super
+	learn
+	trope 158
+	purer 7
+	super 1
+	4
+crimp
+	learn
+	grout 117
+	crimp 9
+	3
+flute
+	learn
+	stole 88
+	tilde 3
+	flute 1
+	4
+river
+	learn
+	trope 158
+	rider 24
+	river 2
+	4
+bison
+	learn
+	spoon 10
+	bison 1
+	3
+prior
+	learn
+	grout 117
+	primo 2
+	prior 1
+	4
+rough
+	learn
+	grout 117
+	rough 1
+	3
+shale
+	learn
+	stale 18
+	scale 2
+	shale 1
+	4
+vapid
+	learn
+	patsy 100
+	kappa 2
+	vapid 1
+	4
+lapel
+	learn
+	lapel 6
+	2
+chaos
+	learn
+	chasm 38
+	chaos 1
+	3
+bingo
+	learn
+	count 103
+	synod 6
+	bingo 1
+	4
+jumpy
+	learn
+	hoist 212
+	dumpy 15
+	jumpy 1
+	4
+boost
+	learn
+	hoist 212
+	joust 2
+	boost 1
+	4
+stank
+	learn
+	scant 14
+	stand 2
+	stank 1
+	4
+heady
+	learn
+	death 17
+	heady 1
+	3
+plane
+	learn
+	plane 1
+	2
+borax
+	learn
+	tarot 61
+	borax 2
+	3
+noose
+	learn
+	snide 61
+	noose 1
+	3
+crate
+	learn
+	grace 19
+	crave 3
+	crate 2
+	4
+lemur
+	learn
+	leper 3
+	lemur 1
+	3
+arbor
+	learn
+	tarot 61
+	ardor 4
+	armor 2
+	arbor 1
+	5
+major
+	learn
+	tarot 61
+	favor 6
+	major 3
+	4
+found
+	learn
+	count 103
+	pound 8
+	found 6
+	4
+waxen
+	learn
+	taken 7
+	haven 2
+	waxen 1
+	4
+aloft
+	learn
+	atoll 68
+	aloft 1
+	3
+after
+	learn
+	taper 52
+	after 1
+	3
+trite
+	learn
+	trope 158
+	tribe 4
+	trite 2
+	4
+cocoa
+	learn
+	patsy 100
+	comma 9
+	cocoa 1
+	4
+inert
+	learn
+	entry 3
+	inert 1
+	3
+gravy
+	learn
+	craft 29
+	brash 9
+	drama 2
+	gravy 1
+	5
+widow
+	learn
+	hoist 212
+	ovoid 2
+	widow 1
+	4
+enema
+	learn
+	amend 15
+	enema 1
+	3
+adapt
+	learn
+	chasm 38
+	await 3
+	adapt 1
+	4
+going
+	learn
+	count 103
+	downy 3
+	going 1
+	4
+brace
+	learn
+	grace 19
+	brace 2
+	3
+unify
+	learn
+	count 103
+	fungi 7
+	unify 1
+	4
+slung
+	learn
+	sling 22
+	slung 1
+	3
+verve
+	learn
+	terse 40
+	verge 4
+	verve 1
+	4
+mount
+	learn
+	count 103
+	mount 1
+	3
+curse
+	learn
+	trope 158
+	surge 7
+	curse 1
+	4
+flung
+	learn
+	sling 22
+	clung 2
+	flung 1
+	4
+shall
+	learn
+	slack 34
+	shalt 5
+	shall 1
+	4
+stunt
+	learn
+	count 103
+	shunt 2
+	stunt 1
+	4
+bound
+	learn
+	count 103
+	pound 8
+	found 6
+	bound 5
+	5
+serve
+	learn
+	terse 40
+	serve 1
+	3
+peace
+	learn
+	death 17
+	cease 3
+	peace 1
+	4
+fugue
+	learn
+	suite 120
+	fudge 5
+	fugue 1
+	4
+panic
+	learn
+	saint 46
+	manic 3
+	panic 1
+	4
+whisk
+	learn
+	hoist 212
+	swish 2
+	whisk 1
+	4
+ombre
+	learn
+	store 18
+	ombre 1
+	3
+diary
+	learn
+	shard 25
+	dwarf 2
+	diary 1
+	4
+again
+	learn
+	stain 4
+	again 2
+	3
+humus
+	learn
+	hoist 212
+	husky 2
+	humus 1
+	4
+defer
+	learn
+	terse 40
+	fewer 5
+	refer 2
+	defer 1
+	5
+rifle
+	learn
+	idler 13
+	rifle 1
+	3
+howdy
+	learn
+	hoist 212
+	howdy 2
+	3
+delve
+	learn
+	belle 18
+	delve 2
+	3
+preen
+	learn
+	ripen 5
+	preen 1
+	3
+rouse
+	learn
+	trope 158
+	forge 9
+	rouse 1
+	4
+sleep
+	learn
+	stole 88
+	spiel 3
+	sleep 1
+	4
+revue
+	learn
+	terse 40
+	revue 1
+	3
+metro
+	learn
+	merry 8
+	metro 1
+	3
+outgo
+	learn
+	hoist 212
+	outgo 2
+	3
+umbra
+	learn
+	carry 12
+	abort 3
+	umbra 1
+	4
+ovary
+	learn
+	shard 25
+	quart 5
+	ovary 1
+	4
+obese
+	learn
+	suite 120
+	moose 7
+	obese 1
+	4
+mange
+	learn
+	amend 15
+	mange 1
+	3
+strut
+	learn
+	grout 117
+	strut 1
+	3
+extra
+	learn
+	opera 6
+	extra 1
+	3
+iliac
+	learn
+	atoll 68
+	salad 7
+	iliac 1
+	4
+quill
+	learn
+	solid 113
+	climb 14
+	quilt 3
+	quill 1
+	5
+winch
+	learn
+	count 103
+	finch 3
+	pinch 2
+	winch 1
+	5
+quail
+	learn
+	slack 34
+	qualm 3
+	quail 1
+	4
+shied
+	learn
+	suite 120
+	spied 2
+	shied 1
+	4
+eject
+	learn
+	suite 120
+	comet 8
+	eject 1
+	4
+leach
+	learn
+	leash 8
+	leach 1
+	3
+amber
+	learn
+	taper 52
+	amber 2
+	3
+decay
+	learn
+	media 6
+	decay 1
+	3
+mural
+	learn
+	moral 16
+	mural 1
+	3
+color
+	learn
+	drill 21
+	flour 3
+	color 1
+	4
+natal
+	learn
+	tonal 13
+	natal 1
+	3
+ghoul
+	learn
+	solid 113
+	cloth 9
+	ghoul 1
+	4
+nudge
+	learn
+	snide 61
+	nudge 2
+	3
+later
+	learn
+	lager 4
+	layer 2
+	later 1
+	4
+slate
+	learn
+	stale 18
+	slate 1
+	3
+drape
+	learn
+	grace 19
+	drake 8
+	drape 1
+	4
+creep
+	learn
+	trope 158
+	pried 3
+	creep 1
+	4
+vista
+	learn
+	patsy 100
+	squat 3
+	vista 1
+	4
+stone
+	learn
+	snide 61
+	scone 4
+	shone 2
+	stone 1
+	5
+aisle
+	learn
+	table 36
+	ample 4
+	aisle 2
+	4
+twine
+	learn
+	snide 61
+	whine 4
+	twine 1
+	4
+weedy
+	learn
+	depth 43
+	wedge 4
+	weedy 1
+	4
+ruler
+	learn
+	idler 13
+	ruler 1
+	3
+tutor
+	learn
+	grout 117
+	tumor 3
+	tutor 1
+	4
+vault
+	learn
+	atoll 68
+	vault 2
+	3
+usher
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	usher 1
+	5
+vicar
+	learn
+	tarot 61
+	friar 7
+	vicar 2
+	4
+pulse
+	learn
+	stole 88
+	pulse 1
+	3
+usurp
+	learn
+	story 29
+	usurp 1
+	3
+havoc
+	learn
+	patsy 100
+	magma 12
+	havoc 1
+	4
+shake
+	learn
+	stage 29
+	spade 8
+	suave 4
+	shake 2
+	5
+cedar
+	learn
+	recap 6
+	cedar 1
+	3
+bylaw
+	learn
+	atoll 68
+	salad 7
+	bylaw 1
+	4
+regal
+	learn
+	relay 4
+	regal 1
+	3
+hobby
+	learn
+	hoist 212
+	howdy 2
+	hobby 1
+	4
+saute
+	learn
+	saute 55
+	2
+gawky
+	learn
+	patsy 100
+	bawdy 10
+	gawky 1
+	4
+vying
+	learn
+	count 103
+	spiny 7
+	dying 2
+	vying 1
+	5
+carve
+	learn
+	taper 52
+	carve 4
+	3
+attic
+	learn
+	patsy 100
+	attic 1
+	3
+couch
+	learn
+	hoist 212
+	couch 7
+	3
+uncle
+	learn
+	noble 8
+	uncle 1
+	3
+known
+	learn
+	spoon 10
+	known 1
+	3
+cigar
+	learn
+	tarot 61
+	friar 7
+	vicar 2
+	cigar 1
+	5
+witch
+	learn
+	hoist 212
+	width 7
+	witch 1
+	4
+shown
+	learn
+	spoon 10
+	shown 1
+	3
+thumb
+	learn
+	hoist 212
+	thumb 4
+	3
+glyph
+	learn
+	solid 113
+	plumb 8
+	glyph 1
+	4
+tweed
+	learn
+	suite 120
+	comet 8
+	tweed 1
+	4
+leafy
+	learn
+	leash 8
+	leafy 4
+	3
+belie
+	learn
+	belle 18
+	belie 1
+	3
+argue
+	learn
+	taper 52
+	creak 11
+	arose 3
+	argue 1
+	5
+lyric
+	learn
+	lurid 3
+	lyric 1
+	3
+staid
+	learn
+	chasm 38
+	staff 3
+	staid 1
+	4
+hotel
+	learn
+	stole 88
+	motel 4
+	hotel 1
+	4
+fully
+	learn
+	solid 113
+	gully 7
+	fully 2
+	4
+leaky
+	learn
+	leash 8
+	leafy 4
+	leaky 1
+	4
+brave
+	learn
+	grace 19
+	drake 8
+	erase 4
+	irate 3
+	brave 2
+	6
+bigot
+	learn
+	hoist 212
+	pivot 2
+	bigot 1
+	4
+mania
+	learn
+	saint 46
+	manic 3
+	mania 1
+	4
+chump
+	learn
+	hoist 212
+	chump 3
+	3
+smash
+	learn
+	chasm 38
+	smash 1
+	3
+creek
+	learn
+	trope 158
+	cried 18
+	creek 1
+	4
+swoon
+	learn
+	spoon 10
+	swoon 1
+	3
+devil
+	learn
+	belle 18
+	devil 1
+	3
+snoop
+	learn
+	count 103
+	synod 6
+	snoop 1
+	4
+buddy
+	learn
+	hoist 212
+	dumpy 15
+	buddy 1
+	4
+churn
+	learn
+	thorn 7
+	churn 1
+	3
+nymph
+	learn
+	count 103
+	dingy 7
+	nymph 1
+	4
+coven
+	learn
+	woven 14
+	coven 1
+	3
+large
+	learn
+	lager 4
+	large 1
+	3
+quoth
+	learn
+	hoist 212
+	quoth 2
+	3
+amply
+	learn
+	atoll 68
+	apply 2
+	amply 1
+	4
+fanny
+	learn
+	saint 46
+	fauna 4
+	fanny 1
+	4
+shell
+	learn
+	stole 88
+	smell 5
+	swell 3
+	shell 2
+	5
+clasp
+	learn
+	slack 34
+	class 3
+	clasp 2
+	4
+endow
+	learn
+	snide 61
+	unfed 4
+	endow 1
+	4
+micro
+	learn
+	story 29
+	gourd 2
+	micro 1
+	4
+grimy
+	learn
+	grout 117
+	grimy 1
+	3
+relic
+	learn
+	peril 6
+	relic 1
+	3
+wider
+	learn
+	trope 158
+	rider 24
+	cider 2
+	wider 1
+	5
+mason
+	learn
+	baton 15
+	canon 3
+	mason 2
+	4
+imbue
+	learn
+	suite 120
+	imbue 2
+	3
+snack
+	learn
+	scant 14
+	snack 1
+	3
+hippo
+	learn
+	hoist 212
+	hippo 1
+	3
+trice
+	learn
+	trope 158
+	tribe 4
+	trite 2
+	trice 1
+	5
+wordy
+	learn
+	grout 117
+	porch 6
+	wordy 1
+	4
+stuck
+	learn
+	hoist 212
+	musty 7
+	stuck 2
+	4
+guilt
+	learn
+	solid 113
+	climb 14
+	quilt 3
+	guilt 1
+	5
+fussy
+	learn
+	hoist 212
+	fussy 2
+	3
+plaza
+	learn
+	slack 34
+	plaid 4
+	plaza 1
+	4
+canny
+	learn
+	saint 46
+	fauna 4
+	canny 2
+	4
+spoil
+	learn
+	solid 113
+	spoil 1
+	3
+jazzy
+	learn
+	patsy 100
+	bawdy 10
+	mammy 2
+	jazzy 1
+	5
+idyll
+	learn
+	solid 113
+	idyll 2
+	3
+crisp
+	learn
+	grout 117
+	crimp 9
+	crisp 1
+	4
+bathe
+	learn
+	saute 55
+	bathe 1
+	3
+stead
+	learn
+	saute 55
+	steam 4
+	steak 2
+	stead 1
+	5
+afoul
+	learn
+	atoll 68
+	afoul 1
+	3
+event
+	learn
+	snide 61
+	ebony 5
+	event 1
+	4
+awash
+	learn
+	chasm 38
+	swash 4
+	awash 1
+	4
+glass
+	learn
+	slack 34
+	glass 3
+	3
+quash
+	learn
+	chasm 38
+	swash 4
+	quash 1
+	4
+sissy
+	learn
+	hoist 212
+	sissy 3
+	3
+sumac
+	learn
+	patsy 100
+	scuba 4
+	sumac 1
+	4
+terra
+	learn
+	zebra 2
+	terra 1
+	3
+cavil
+	learn
+	atoll 68
+	basil 7
+	cavil 1
+	4
+quasi
+	learn
+	chasm 38
+	toast 3
+	quasi 1
+	4
+flyer
+	learn
+	idler 13
+	bluer 3
+	flyer 1
+	4
+style
+	learn
+	stole 88
+	style 1
+	3
+viper
+	learn
+	trope 158
+	purer 7
+	hyper 2
+	viper 1
+	5
+venue
+	learn
+	pence 19
+	tense 5
+	genie 2
+	venue 1
+	5
+cried
+	learn
+	trope 158
+	cried 18
+	3
+mocha
+	learn
+	patsy 100
+	comma 9
+	mocha 1
+	4
+peril
+	learn
+	peril 6
+	2
+billy
+	learn
+	solid 113
+	filmy 7
+	hilly 3
+	billy 2
+	5
+avoid
+	learn
+	patsy 100
+	comma 9
+	avoid 2
+	4
+droll
+	learn
+	drill 21
+	droll 1
+	3
+gulch
+	learn
+	solid 113
+	gully 7
+	gulch 1
+	4
+medic
+	learn
+	depth 43
+	wedge 4
+	medic 1
+	4
+clued
+	learn
+	stole 88
+	expel 11
+	clued 1
+	4
+slant
+	learn
+	blank 11
+	slang 5
+	slant 1
+	4
+aroma
+	learn
+	tarot 61
+	broad 3
+	aroma 1
+	4
+order
+	learn
+	trope 158
+	error 3
+	order 1
+	4
+caulk
+	learn
+	atoll 68
+	madly 7
+	caulk 1
+	4
+swarm
+	learn
+	shard 25
+	smart 7
+	swarm 1
+	4
+triad
+	learn
+	tarot 61
+	triad 1
+	3
+rajah
+	learn
+	tarot 61
+	rapid 7
+	rajah 1
+	4
+tweak
+	learn
+	saute 55
+	tweak 4
+	3
+buyer
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	buyer 1
+	5
+choke
+	learn
+	suite 120
+	evoke 5
+	choke 1
+	4
+judge
+	learn
+	suite 120
+	fudge 5
+	judge 2
+	4
+penne
+	learn
+	pence 19
+	penne 1
+	3
+blush
+	learn
+	solid 113
+	plush 3
+	flush 2
+	blush 1
+	5
+rumba
+	learn
+	tarot 61
+	friar 7
+	rumba 1
+	4
+tripe
+	learn
+	trope 158
+	tripe 1
+	3
+thigh
+	learn
+	hoist 212
+	thick 2
+	thigh 1
+	4
+slept
+	learn
+	stole 88
+	slept 2
+	3
+pupal
+	learn
+	atoll 68
+	basil 7
+	pupal 1
+	4
+udder
+	learn
+	trope 158
+	rider 24
+	udder 1
+	4
+unset
+	learn
+	snide 61
+	onset 2
+	unset 1
+	4
+tumor
+	learn
+	grout 117
+	tutor 3
+	tumor 1
+	4
+ascot
+	learn
+	patsy 100
+	squat 3
+	ascot 1
+	4
+burly
+	learn
+	drill 21
+	surly 3
+	curly 2
+	burly 1
+	5
+nylon
+	learn
+	clown 5
+	nylon 1
+	3
+heist
+	learn
+	depth 43
+	heist 1
+	3
+their
+	learn
+	trope 158
+	timer 5
+	their 1
+	4
+hound
+	learn
+	count 103
+	pound 8
+	found 6
+	bound 5
+	hound 4
+	6
+tidal
+	learn
+	atoll 68
+	tidal 4
+	3
+drawl
+	learn
+	trail 8
+	crawl 3
+	brawl 2
+	drawl 1
+	5
+dully
+	learn
+	solid 113
+	dully 1
+	3
+bunch
+	learn
+	count 103
+	hunch 4
+	munch 3
+	punch 2
+	bunch 1
+	6
+swing
+	learn
+	count 103
+	spiny 7
+	swing 1
+	4
+muddy
+	learn
+	hoist 212
+	dumpy 15
+	muddy 1
+	4
+leery
+	learn
+	leery 1
+	2
+quirk
+	learn
+	story 29
+	chirp 2
+	quirk 1
+	4
+ninny
+	learn
+	count 103
+	spiny 7
+	ninny 1
+	4
+queen
+	learn
+	woven 14
+	hymen 3
+	queen 1
+	4
+rebus
+	learn
+	terse 40
+	rebus 1
+	3
+speak
+	learn
+	saute 55
+	speak 1
+	3
+booty
+	learn
+	hoist 212
+	pouty 4
+	booty 1
+	4
+goose
+	learn
+	suite 120
+	moose 7
+	goose 1
+	4
+truer
+	learn
+	trope 158
+	tried 2
+	truer 1
+	4
+spree
+	learn
+	trope 158
+	spree 5
+	3
+nerdy
+	learn
+	newer 6
+	nerdy 1
+	3
+fritz
+	learn
+	grout 117
+	trick 2
+	fritz 1
+	4
+local
+	learn
+	local 6
+	2
+scrap
+	learn
+	tarot 61
+	scram 6
+	scrap 1
+	4
+bully
+	learn
+	solid 113
+	gully 7
+	fully 2
+	bully 1
+	5
+topaz
+	learn
+	patsy 100
+	topaz 2
+	3
+essay
+	learn
+	saute 55
+	askew 2
+	essay 1
+	4
+stove
+	learn
+	suite 120
+	stoke 2
+	stove 1
+	4
+yacht
+	learn
+	patsy 100
+	yacht 1
+	3
+beast
+	learn
+	death 17
+	yeast 4
+	feast 2
+	beast 1
+	5
+rugby
+	learn
+	grout 117
+	rugby 1
+	3
+snuff
+	learn
+	count 103
+	snuff 1
+	3
+crime
+	learn
+	trope 158
+	bride 7
+	grime 2
+	crime 1
+	5
+optic
+	learn
+	hoist 212
+	ditto 2
+	optic 1
+	4
+court
+	learn
+	story 29
+	court 1
+	3
+purer
+	learn
+	trope 158
+	purer 7
+	3
+nutty
+	learn
+	count 103
+	unity 2
+	nutty 1
+	4
+enemy
+	learn
+	snide 61
+	enjoy 4
+	enemy 1
+	4
+viola
+	learn
+	atoll 68
+	viola 1
+	3
+undue
+	learn
+	snide 61
+	undue 1
+	3
+pause
+	learn
+	saute 55
+	cause 2
+	pause 1
+	4
+blitz
+	learn
+	solid 113
+	climb 14
+	blitz 1
+	4
+swill
+	learn
+	solid 113
+	spilt 8
+	swill 2
+	4
+irony
+	learn
+	grind 28
+	irony 1
+	3
+shoot
+	learn
+	hoist 212
+	shout 2
+	shoot 1
+	4
+gypsy
+	learn
+	hoist 212
+	fussy 2
+	gypsy 1
+	4
+ultra
+	learn
+	flora 2
+	ultra 1
+	3
+shoal
+	learn
+	atoll 68
+	shoal 1
+	3
+cheap
+	learn
+	saute 55
+	ahead 4
+	cheap 1
+	4
+drill
+	learn
+	drill 21
+	2
+atone
+	learn
+	amend 15
+	atone 1
+	3
+stein
+	learn
+	woven 14
+	stein 1
+	3
+sound
+	learn
+	count 103
+	pound 8
+	found 6
+	bound 5
+	hound 4
+	sound 3
+	7
+abode
+	learn
+	saute 55
+	abide 5
+	abode 1
+	4
+embed
+	learn
+	suite 120
+	epoch 9
+	embed 1
+	4
+spear
+	learn
+	taper 52
+	spear 1
+	3
+parer
+	learn
+	taper 52
+	payer 2
+	parer 1
+	4
+drier
+	learn
+	trope 158
+	cried 18
+	drier 1
+	4
+pilot
+	learn
+	solid 113
+	igloo 2
+	pilot 1
+	4
+valve
+	learn
+	table 36
+	salve 5
+	valve 2
+	4
+doing
+	learn
+	count 103
+	downy 3
+	doing 1
+	4
+orbit
+	learn
+	grout 117
+	orbit 1
+	3
+honey
+	learn
+	snide 61
+	ebony 5
+	money 2
+	honey 1
+	5
+among
+	learn
+	saint 46
+	agony 2
+	among 1
+	4
+scorn
+	learn
+	thorn 7
+	scorn 2
+	3
+croup
+	learn
+	grout 117
+	proud 2
+	croup 1
+	4
+limit
+	learn
+	lumpy 18
+	limbo 2
+	limit 1
+	4
+halve
+	learn
+	table 36
+	salve 5
+	valve 2
+	halve 1
+	5
+bleep
+	learn
+	stole 88
+	expel 11
+	bleep 1
+	4
+crane
+	learn
+	crane 1
+	2
+kneed
+	learn
+	snide 61
+	unfed 4
+	kneed 1
+	4
+comic
+	learn
+	hoist 212
+	comic 1
+	3
+chard
+	learn
+	shard 25
+	chard 1
+	3
+graft
+	learn
+	craft 29
+	graft 2
+	3
+cadet
+	learn
+	saute 55
+	facet 3
+	cadet 1
+	4
+dealt
+	learn
+	mealy 2
+	dealt 1
+	3
+habit
+	learn
+	patsy 100
+	tacit 6
+	habit 1
+	4
+crypt
+	learn
+	grout 117
+	wrist 4
+	crypt 1
+	4
+budge
+	learn
+	suite 120
+	fudge 5
+	judge 2
+	budge 1
+	5
+token
+	learn
+	woven 14
+	dozen 2
+	token 1
+	4
+widen
+	learn
+	woven 14
+	widen 1
+	3
+coast
+	learn
+	chasm 38
+	coast 1
+	3
+feign
+	learn
+	deign 7
+	feign 1
+	3
+crest
+	learn
+	trope 158
+	erect 4
+	crest 1
+	4
+nobly
+	learn
+	fling 22
+	knoll 2
+	nobly 1
+	4
+inlet
+	learn
+	noble 8
+	inlet 2
+	3
+clean
+	learn
+	glean 3
+	clean 1
+	3
+daisy
+	learn
+	patsy 100
+	sassy 3
+	daisy 1
+	4
+viral
+	learn
+	moral 16
+	rural 2
+	viral 1
+	4
+moral
+	learn
+	moral 16
+	2
+reign
+	learn
+	resin 4
+	reign 1
+	3
+modal
+	learn
+	atoll 68
+	focal 4
+	modal 1
+	4
+piano
+	learn
+	scant 14
+	piano 1
+	3
+mambo
+	learn
+	patsy 100
+	magma 12
+	maxim 2
+	mambo 1
+	5
+squad
+	learn
+	patsy 100
+	scuba 4
+	squad 1
+	4
+pushy
+	learn
+	hoist 212
+	mushy 4
+	bushy 2
+	pushy 1
+	5
+sonar
+	learn
+	randy 6
+	sonar 1
+	3
+shame
+	learn
+	stage 29
+	spade 8
+	suave 4
+	shake 2
+	shame 1
+	6
+eking
+	learn
+	snide 61
+	eying 2
+	eking 1
+	4
+savvy
+	learn
+	patsy 100
+	savoy 3
+	savvy 1
+	4
+woven
+	learn
+	woven 14
+	2
+panel
+	learn
+	ankle 6
+	panel 2
+	3
+trail
+	learn
+	trail 8
+	2
+tulip
+	learn
+	solid 113
+	tulip 1
+	3
+trace
+	learn
+	grace 19
+	brace 2
+	trace 1
+	4
+leapt
+	learn
+	leash 8
+	leafy 4
+	leave 2
+	leapt 1
+	5
+today
+	learn
+	patsy 100
+	today 2
+	3
+scene
+	learn
+	snide 61
+	scone 4
+	scene 1
+	4
+tiger
+	learn
+	trope 158
+	timer 5
+	tiger 1
+	4
+sonic
+	learn
+	count 103
+	sonic 2
+	3
+cling
+	learn
+	sling 22
+	fling 2
+	cling 1
+	4
+stump
+	learn
+	hoist 212
+	musty 7
+	stump 1
+	4
+tatty
+	learn
+	patsy 100
+	catty 4
+	fatty 3
+	batty 2
+	tatty 1
+	6
+first
+	learn
+	grout 117
+	first 1
+	3
+chart
+	learn
+	shard 25
+	charm 3
+	chart 1
+	4
+aider
+	learn
+	taper 52
+	amber 2
+	aider 1
+	4
+trout
+	learn
+	grout 117
+	trout 1
+	3
+freak
+	learn
+	taper 52
+	creak 11
+	break 3
+	freak 2
+	5
+plait
+	learn
+	slack 34
+	plaid 4
+	plait 1
+	4
+pique
+	learn
+	suite 120
+	imbue 2
+	pique 1
+	4
+throw
+	learn
+	grout 117
+	worth 9
+	throw 1
+	4
+quick
+	learn
+	hoist 212
+	juicy 2
+	quick 1
+	4
+bliss
+	learn
+	solid 113
+	bliss 1
+	3
+about
+	learn
+	patsy 100
+	about 7
+	3
+clank
+	learn
+	clank 11
+	2
+stole
+	learn
+	stole 88
+	2
+drunk
+	learn
+	grind 28
+	drunk 1
+	3
+dogma
+	learn
+	patsy 100
+	comma 9
+	dogma 1
+	4
+abbey
+	learn
+	saute 55
+	ahead 4
+	abbey 1
+	4
+arena
+	learn
+	range 4
+	arena 1
+	3
+bagel
+	learn
+	table 36
+	bagel 1
+	3
+witty
+	learn
+	hoist 212
+	kitty 6
+	ditty 3
+	witty 2
+	5
+issue
+	learn
+	suite 120
+	issue 1
+	3
+taper
+	learn
+	taper 52
+	2
+lithe
+	learn
+	louse 6
+	liege 2
+	lithe 1
+	4
+opine
+	learn
+	snide 61
+	whine 4
+	ovine 2
+	opine 1
+	5
+quest
+	learn
+	suite 120
+	guest 2
+	quest 1
+	4
+zesty
+	learn
+	depth 43
+	jetty 3
+	zesty 1
+	4
+other
+	learn
+	trope 158
+	otter 4
+	other 1
+	4
+balmy
+	learn
+	atoll 68
+	salad 7
+	balmy 1
+	4
+earth
+	learn
+	taper 52
+	earth 1
+	3
+click
+	learn
+	solid 113
+	climb 14
+	cliff 2
+	click 1
+	5
+eater
+	learn
+	taper 52
+	water 4
+	hater 3
+	cater 2
+	eater 1
+	6
+patty
+	learn
+	patsy 100
+	patty 1
+	3
+spoof
+	learn
+	hoist 212
+	spook 7
+	spoof 1
+	4
+blast
+	learn
+	slack 34
+	glass 3
+	blast 2
+	4
+midst
+	learn
+	hoist 212
+	midst 1
+	3
+giver
+	learn
+	trope 158
+	rider 24
+	wiser 5
+	fixer 3
+	giver 1
+	6
+mound
+	learn
+	count 103
+	pound 8
+	found 6
+	bound 5
+	hound 4
+	sound 3
+	mound 2
+	8
+quota
+	learn
+	patsy 100
+	about 7
+	quota 1
+	4
+ionic
+	learn
+	count 103
+	sonic 2
+	ionic 1
+	4
+might
+	learn
+	hoist 212
+	fight 4
+	wight 3
+	might 2
+	5
+acorn
+	learn
+	acorn 3
+	2
+brunt
+	learn
+	grind 28
+	front 4
+	brunt 1
+	4
+sorry
+	learn
+	story 29
+	sorry 1
+	3
+dowdy
+	learn
+	hoist 212
+	goody 13
+	dowdy 1
+	4
+merry
+	learn
+	merry 8
+	2
+groom
+	learn
+	grout 117
+	gross 2
+	groom 1
+	4
+mayor
+	learn
+	tarot 61
+	favor 6
+	major 3
+	mayor 1
+	5
+sharp
+	learn
+	shard 25
+	sharp 2
+	3
+waver
+	learn
+	taper 52
+	wager 12
+	waver 2
+	4
+buggy
+	learn
+	hoist 212
+	dumpy 15
+	fuzzy 2
+	buggy 1
+	5
+fruit
+	learn
+	grout 117
+	crust 3
+	fruit 1
+	4
+refit
+	learn
+	terse 40
+	recut 5
+	remit 2
+	refit 1
+	5
+blare
+	learn
+	glare 3
+	flare 2
+	blare 1
+	4
+stuff
+	learn
+	hoist 212
+	musty 7
+	stuck 2
+	stuff 1
+	5
+wimpy
+	learn
+	hoist 212
+	pubic 13
+	wimpy 1
+	4
+drool
+	learn
+	drill 21
+	drool 1
+	3
+inlay
+	learn
+	tonal 13
+	inlay 1
+	3
+chuck
+	learn
+	hoist 212
+	chump 3
+	chuck 1
+	4
+dryer
+	learn
+	trope 158
+	cried 18
+	dryer 1
+	4
+cloud
+	learn
+	solid 113
+	blood 3
+	cloud 1
+	4
+solid
+	learn
+	solid 113
+	2
+purge
+	learn
+	trope 158
+	spree 5
+	purge 1
+	4
+nanny
+	learn
+	saint 46
+	fauna 4
+	canny 2
+	nanny 1
+	5
+inner
+	learn
+	diner 22
+	inner 1
+	3
+ethic
+	learn
+	suite 120
+	ethic 2
+	3
+retry
+	learn
+	merry 8
+	retry 1
+	3
+blurb
+	learn
+	blurt 8
+	blurb 1
+	3
+verge
+	learn
+	terse 40
+	verge 4
+	3
+night
+	learn
+	count 103
+	night 1
+	3
+druid
+	learn
+	grout 117
+	crumb 5
+	druid 1
+	4
+pitch
+	learn
+	hoist 212
+	width 7
+	pitch 1
+	4
+slink
+	learn
+	fling 22
+	blind 4
+	slink 2
+	4
+psalm
+	learn
+	slack 34
+	psalm 1
+	3
+bezel
+	learn
+	belle 18
+	betel 3
+	bevel 2
+	bezel 1
+	5
+unwed
+	learn
+	snide 61
+	unfed 4
+	unwed 1
+	4
+sworn
+	learn
+	thorn 7
+	scorn 2
+	sworn 1
+	4
+robot
+	learn
+	grout 117
+	worst 2
+	robot 1
+	4
+gaunt
+	learn
+	saint 46
+	vaunt 6
+	taunt 5
+	jaunt 4
+	gaunt 3
+	6
+draft
+	learn
+	craft 29
+	graft 2
+	draft 1
+	4
+smile
+	learn
+	stole 88
+	smile 1
+	3
+grain
+	learn
+	drawn 7
+	grain 3
+	3
+sinew
+	learn
+	snide 61
+	sinew 1
+	3
+tenet
+	learn
+	pence 19
+	tenet 1
+	3
+prose
+	learn
+	trope 158
+	prove 3
+	prose 2
+	4
+grope
+	learn
+	trope 158
+	grope 1
+	3
+whiff
+	learn
+	hoist 212
+	chick 3
+	whiff 1
+	4
+jumbo
+	learn
+	hoist 212
+	gumbo 3
+	jumbo 1
+	4
+legal
+	learn
+	legal 1
+	2
+above
+	learn
+	saute 55
+	abide 5
+	above 1
+	4
+lemon
+	learn
+	lemon 1
+	2
+wince
+	learn
+	snide 61
+	mince 6
+	wince 1
+	4
+drown
+	learn
+	brown 8
+	crown 4
+	grown 3
+	drown 2
+	5
+child
+	learn
+	solid 113
+	guild 3
+	child 1
+	4
+neigh
+	learn
+	pence 19
+	neigh 2
+	3
+laugh
+	learn
+	local 6
+	laugh 1
+	3
+smock
+	learn
+	hoist 212
+	spook 7
+	smock 1
+	4
+truck
+	learn
+	grout 117
+	truth 4
+	trump 3
+	truss 2
+	truck 1
+	6
+sepia
+	learn
+	media 6
+	sepia 1
+	3
+scare
+	learn
+	share 5
+	spare 3
+	scare 2
+	4
+tamer
+	learn
+	taper 52
+	taker 2
+	tamer 1
+	4
+lousy
+	learn
+	lumpy 18
+	lousy 1
+	3
+board
+	learn
+	shard 25
+	award 3
+	guard 2
+	board 1
+	5
+nomad
+	learn
+	saint 46
+	annoy 3
+	nomad 1
+	4
+mover
+	learn
+	trope 158
+	rower 18
+	hover 8
+	cover 2
+	mover 1
+	6
+acute
+	learn
+	saute 55
+	acute 1
+	3
+avert
+	learn
+	opera 6
+	avert 1
+	3
+youth
+	learn
+	hoist 212
+	touch 7
+	mouth 2
+	youth 1
+	5
+humid
+	learn
+	hoist 212
+	hippy 2
+	humid 1
+	4
+sheep
+	learn
+	suite 120
+	sheep 4
+	3
+canal
+	learn
+	tonal 13
+	banal 3
+	canal 1
+	4
+eclat
+	learn
+	table 36
+	cleat 4
+	eclat 1
+	4
+missy
+	learn
+	hoist 212
+	sissy 3
+	missy 1
+	4
+curvy
+	learn
+	grout 117
+	murky 3
+	curvy 1
+	4
+fizzy
+	learn
+	hoist 212
+	pubic 13
+	dizzy 4
+	fizzy 1
+	5
+cheat
+	learn
+	saute 55
+	tweak 4
+	cheat 1
+	4
+bitty
+	learn
+	hoist 212
+	kitty 6
+	ditty 3
+	witty 2
+	bitty 1
+	6
+blade
+	learn
+	stale 18
+	blame 8
+	blaze 2
+	blade 1
+	5
+dwell
+	learn
+	stole 88
+	dwell 6
+	3
+crump
+	learn
+	grout 117
+	crumb 5
+	crump 1
+	4
+dunce
+	learn
+	snide 61
+	nudge 2
+	dunce 1
+	4
+elite
+	learn
+	stole 88
+	tilde 3
+	elite 1
+	4
+musky
+	learn
+	hoist 212
+	mucus 3
+	musky 1
+	4
+adept
+	learn
+	saute 55
+	tweak 4
+	adept 1
+	4
+frost
+	learn
+	grout 117
+	frost 2
+	3
+wooly
+	learn
+	solid 113
+	moult 5
+	coyly 2
+	wooly 1
+	5
+dopey
+	learn
+	suite 120
+	epoch 9
+	dopey 1
+	4
+terse
+	learn
+	terse 40
+	2
+wooer
+	learn
+	trope 158
+	wooer 1
+	3
+smear
+	learn
+	taper 52
+	swear 3
+	shear 2
+	smear 1
+	5
+clink
+	learn
+	sling 22
+	blink 4
+	clink 1
+	4
+plump
+	learn
+	solid 113
+	plumb 8
+	plump 1
+	4
+caddy
+	learn
+	patsy 100
+	bawdy 10
+	daddy 3
+	caddy 1
+	5
+vivid
+	learn
+	hoist 212
+	pubic 13
+	vivid 1
+	4
+aloof
+	learn
+	atoll 68
+	aloud 2
+	aloof 1
+	4
+toxic
+	learn
+	hoist 212
+	topic 3
+	toxic 1
+	4
+envoy
+	learn
+	snide 61
+	enjoy 4
+	envoy 1
+	4
+sneer
+	learn
+	diner 22
+	enter 2
+	sneer 1
+	4
+drake
+	learn
+	grace 19
+	drake 8
+	3
+print
+	learn
+	grind 28
+	brink 3
+	print 1
+	4
+spunk
+	learn
+	count 103
+	skunk 3
+	spunk 1
+	4
+swoop
+	learn
+	hoist 212
+	spook 7
+	scoop 2
+	swoop 1
+	5
+juror
+	learn
+	grout 117
+	furor 5
+	juror 1
+	4
+elide
+	learn
+	stole 88
+	flume 8
+	glide 2
+	elide 1
+	5
+cabby
+	learn
+	patsy 100
+	bawdy 10
+	cabby 1
+	4
+sheik
+	learn
+	suite 120
+	sheik 1
+	3
+afoot
+	learn
+	patsy 100
+	about 7
+	afoot 1
+	4
+spade
+	learn
+	stage 29
+	spade 8
+	3
+trope
+	learn
+	trope 158
+	2
+reply
+	learn
+	peril 6
+	reply 1
+	3
+honor
+	learn
+	grind 28
+	north 2
+	honor 1
+	4
+midge
+	learn
+	suite 120
+	movie 6
+	midge 1
+	4
+picky
+	learn
+	hoist 212
+	pubic 13
+	picky 1
+	4
+solar
+	learn
+	moral 16
+	polar 2
+	solar 1
+	4
+pence
+	learn
+	pence 19
+	2
+rupee
+	learn
+	trope 158
+	spree 5
+	rupee 1
+	4
+tying
+	learn
+	count 103
+	think 5
+	tying 1
+	4
+freer
+	learn
+	trope 158
+	cried 18
+	freer 1
+	4
+patio
+	learn
+	patsy 100
+	patch 2
+	patio 1
+	4
+clout
+	learn
+	solid 113
+	cloth 9
+	clout 1
+	4
+rhino
+	learn
+	grind 28
+	rhino 1
+	3
+froth
+	learn
+	grout 117
+	broth 3
+	froth 1
+	4
+nerve
+	learn
+	newer 6
+	nerve 1
+	3
+cheer
+	learn
+	trope 158
+	rider 24
+	cheer 7
+	4
+cruel
+	learn
+	idler 13
+	gruel 2
+	cruel 1
+	4
+tramp
+	learn
+	craft 29
+	trash 3
+	tramp 1
+	4
+begun
+	learn
+	deign 7
+	begun 1
+	3
+fault
+	learn
+	atoll 68
+	vault 2
+	fault 1
+	4
+prime
+	learn
+	trope 158
+	pride 5
+	price 3
+	prime 2
+	5
+false
+	learn
+	table 36
+	salve 5
+	false 1
+	4
+ferry
+	learn
+	merry 8
+	ferry 2
+	3
+gusty
+	learn
+	hoist 212
+	musty 7
+	dusty 2
+	gusty 1
+	5
+thyme
+	learn
+	suite 120
+	theme 2
+	thyme 1
+	4
+trunk
+	learn
+	grind 28
+	front 4
+	trunk 1
+	4
+vocal
+	learn
+	atoll 68
+	focal 4
+	vocal 1
+	4
+cheek
+	learn
+	suite 120
+	epoch 9
+	cheek 1
+	4
+teach
+	learn
+	death 17
+	teach 1
+	3
+whoop
+	learn
+	hoist 212
+	chock 2
+	whoop 1
+	4
+welsh
+	learn
+	belle 18
+	welch 3
+	welsh 1
+	4
+speck
+	learn
+	suite 120
+	sheep 4
+	speck 1
+	4
+trove
+	learn
+	trope 158
+	trove 1
+	3
+motto
+	learn
+	hoist 212
+	pouty 4
+	motto 1
+	4
+agony
+	learn
+	saint 46
+	among 2
+	agony 1
+	4
+funky
+	learn
+	count 103
+	fungi 7
+	funky 1
+	4
+foamy
+	learn
+	chasm 38
+	foamy 1
+	3
+kneel
+	learn
+	noble 8
+	inlet 2
+	kneel 1
+	4
+farce
+	learn
+	taper 52
+	carve 4
+	farce 1
+	4
+foray
+	learn
+	tarot 61
+	borax 2
+	foray 1
+	4
+clash
+	learn
+	slack 34
+	class 3
+	clasp 2
+	clash 1
+	5
+tense
+	learn
+	pence 19
+	tense 5
+	3
+tough
+	learn
+	hoist 212
+	touch 7
+	tough 1
+	4
+lucky
+	learn
+	lumpy 18
+	lusty 2
+	lucky 1
+	4
+score
+	learn
+	store 18
+	spore 4
+	score 3
+	4
+craze
+	learn
+	grace 19
+	crave 3
+	crate 2
+	craze 1
+	5
+dread
+	learn
+	taper 52
+	creak 11
+	bread 3
+	dread 1
+	5
+outdo
+	learn
+	hoist 212
+	outgo 2
+	outdo 1
+	4
+fence
+	learn
+	pence 19
+	hence 2
+	fence 1
+	4
+probe
+	learn
+	trope 158
+	prove 3
+	prose 2
+	probe 1
+	5
+scowl
+	learn
+	solid 113
+	stool 6
+	scowl 1
+	4
+braid
+	learn
+	craft 29
+	brash 9
+	bravo 2
+	braid 1
+	5
+brick
+	learn
+	grout 117
+	crimp 9
+	brick 1
+	4
+shorn
+	learn
+	thorn 7
+	shorn 1
+	3
+skimp
+	learn
+	hoist 212
+	skiff 4
+	skimp 1
+	4
+decoy
+	learn
+	depth 43
+	deuce 3
+	decoy 1
+	4
+total
+	learn
+	atoll 68
+	octal 2
+	total 1
+	4
+ethos
+	learn
+	suite 120
+	chest 2
+	ethos 1
+	4
+debug
+	learn
+	depth 43
+	deuce 3
+	debug 1
+	4
+whelp
+	learn
+	stole 88
+	dwell 6
+	whelp 1
+	4
+final
+	learn
+	tonal 13
+	banal 3
+	final 1
+	4
+macho
+	learn
+	patsy 100
+	magma 12
+	macho 1
+	4
+truce
+	learn
+	trope 158
+	tribe 4
+	truce 1
+	4
+liken
+	learn
+	linen 3
+	liken 1
+	3
+salsa
+	learn
+	atoll 68
+	salad 7
+	salsa 1
+	4
+dirge
+	learn
+	trope 158
+	surge 7
+	dirge 1
+	4
+chain
+	learn
+	stain 4
+	again 2
+	chain 1
+	4
+curve
+	learn
+	trope 158
+	surge 7
+	curve 1
+	4
+guess
+	learn
+	suite 120
+	guess 2
+	3
+outer
+	learn
+	trope 158
+	other 4
+	outer 1
+	4
+filth
+	learn
+	solid 113
+	filmy 7
+	filth 1
+	4
+chase
+	learn
+	stage 29
+	phase 3
+	chase 1
+	4
+mulch
+	learn
+	solid 113
+	gully 7
+	mulch 1
+	4
+droit
+	learn
+	grout 117
+	frost 2
+	droit 1
+	4
+drift
+	learn
+	grout 117
+	wrist 4
+	drift 1
+	4
+libel
+	learn
+	louse 6
+	libel 1
+	3
+dryly
+	learn
+	drill 21
+	dryly 1
+	3
+model
+	learn
+	stole 88
+	vowel 7
+	model 1
+	4
+stood
+	learn
+	hoist 212
+	stoop 5
+	stood 1
+	4
+wafer
+	learn
+	taper 52
+	wager 12
+	waver 2
+	wafer 1
+	5
+gecko
+	learn
+	depth 43
+	geese 7
+	gecko 1
+	4
+scrum
+	learn
+	grout 117
+	scrub 5
+	scrum 1
+	4
+berry
+	learn
+	merry 8
+	ferry 2
+	berry 1
+	4
+scour
+	learn
+	grout 117
+	scour 1
+	3
+sense
+	learn
+	pence 19
+	tense 5
+	sense 2
+	4
+width
+	learn
+	hoist 212
+	width 7
+	3
+azure
+	learn
+	opera 6
+	afire 2
+	azure 1
+	4
+niece
+	learn
+	snide 61
+	mince 6
+	niece 1
+	4
+erode
+	learn
+	trope 158
+	drove 5
+	erode 1
+	4
+totem
+	learn
+	suite 120
+	comet 8
+	totem 1
+	4
+showy
+	learn
+	hoist 212
+	shock 3
+	showy 1
+	4
+being
+	learn
+	pence 19
+	neigh 2
+	being 1
+	4
+dense
+	learn
+	pence 19
+	tense 5
+	sense 2
+	dense 1
+	5
+sheet
+	learn
+	suite 120
+	swept 5
+	sheet 1
+	4
+knave
+	learn
+	snake 4
+	knave 1
+	3
+nurse
+	learn
+	diner 22
+	prune 5
+	nurse 1
+	4
+sleet
+	learn
+	stole 88
+	slept 2
+	sleet 1
+	4
+woozy
+	learn
+	hoist 212
+	goody 13
+	boozy 3
+	woozy 1
+	5
+whack
+	learn
+	chasm 38
+	whack 1
+	3
+razor
+	learn
+	tarot 61
+	favor 6
+	major 3
+	razor 1
+	5
+zonal
+	learn
+	tonal 13
+	zonal 1
+	3
+hotly
+	learn
+	solid 113
+	moult 5
+	hotly 1
+	4
+badly
+	learn
+	atoll 68
+	madly 7
+	sadly 2
+	badly 1
+	5
+mirth
+	learn
+	grout 117
+	birth 4
+	mirth 1
+	4
+haute
+	learn
+	saute 55
+	haute 1
+	3
+early
+	learn
+	baler 5
+	early 1
+	3
+suing
+	learn
+	count 103
+	bunny 5
+	suing 1
+	4
+gavel
+	learn
+	table 36
+	camel 4
+	hazel 3
+	easel 2
+	gavel 1
+	6
+lever
+	learn
+	leper 3
+	lever 1
+	3
+girly
+	learn
+	drill 21
+	girly 1
+	3
+genre
+	learn
+	genre 1
+	2
+shush
+	learn
+	hoist 212
+	shush 1
+	3
+juice
+	learn
+	suite 120
+	guide 2
+	juice 1
+	4
+adore
+	learn
+	opera 6
+	adore 1
+	3
+copse
+	learn
+	suite 120
+	moose 7
+	posse 2
+	copse 1
+	5
+humph
+	learn
+	hoist 212
+	humph 1
+	3
+flirt
+	learn
+	blurt 8
+	flirt 1
+	3
+chill
+	learn
+	solid 113
+	climb 14
+	chili 2
+	chill 1
+	5
+dream
+	learn
+	taper 52
+	creak 11
+	bread 3
+	dream 1
+	5
+gouge
+	learn
+	suite 120
+	vogue 3
+	gouge 1
+	4
+duvet
+	learn
+	suite 120
+	duvet 1
+	3
+sneak
+	learn
+	amend 15
+	sneak 1
+	3
+ripen
+	learn
+	ripen 5
+	2
+overt
+	learn
+	store 18
+	overt 1
+	3
+pleat
+	learn
+	table 36
+	cleat 4
+	pleat 1
+	4
+flown
+	learn
+	clown 5
+	flown 2
+	3
+elder
+	learn
+	idler 13
+	older 2
+	elder 1
+	4
+grant
+	learn
+	grand 7
+	grant 1
+	3
+clock
+	learn
+	solid 113
+	cloth 9
+	clock 1
+	4
+ramen
+	learn
+	raven 2
+	ramen 1
+	3
+barge
+	learn
+	taper 52
+	carve 4
+	barge 1
+	4
+rebut
+	learn
+	terse 40
+	recut 5
+	rebut 1
+	4
+metal
+	learn
+	medal 10
+	metal 1
+	3
+shape
+	learn
+	stage 29
+	spade 8
+	shape 1
+	4
+kayak
+	learn
+	patsy 100
+	bayou 2
+	kayak 1
+	4
+credo
+	learn
+	trope 158
+	error 3
+	credo 1
+	4
+paste
+	learn
+	saute 55
+	caste 6
+	baste 5
+	taste 4
+	waste 3
+	haste 2
+	paste 1
+	8
+piper
+	learn
+	trope 158
+	purer 7
+	piper 1
+	4
+perky
+	learn
+	terse 40
+	jerky 5
+	perky 1
+	4
+haunt
+	learn
+	saint 46
+	vaunt 6
+	taunt 5
+	jaunt 4
+	gaunt 3
+	haunt 2
+	7
+pooch
+	learn
+	hoist 212
+	couch 7
+	pooch 1
+	4
+waist
+	learn
+	patsy 100
+	waist 1
+	3
+femme
+	learn
+	depth 43
+	geese 7
+	femme 1
+	4
+ounce
+	learn
+	snide 61
+	phone 3
+	ounce 1
+	4
+vouch
+	learn
+	hoist 212
+	couch 7
+	vouch 2
+	4
+force
+	learn
+	trope 158
+	forge 9
+	force 1
+	4
+still
+	learn
+	solid 113
+	spilt 8
+	still 1
+	4
+shade
+	learn
+	stage 29
+	spade 8
+	shade 1
+	4
+snowy
+	learn
+	count 103
+	synod 6
+	snowy 1
+	4
+knelt
+	learn
+	noble 8
+	knelt 1
+	3
+ralph
+	learn
+	moral 16
+	rally 2
+	ralph 1
+	4
+snore
+	learn
+	entry 3
+	snore 1
+	3
+align
+	learn
+	talon 3
+	align 1
+	3
+blown
+	learn
+	clown 5
+	flown 2
+	blown 1
+	4
+sweep
+	learn
+	suite 120
+	sheep 4
+	sweep 1
+	4
+drink
+	learn
+	grind 28
+	drink 1
+	3
+chafe
+	learn
+	stage 29
+	awake 5
+	evade 2
+	chafe 1
+	5
+prize
+	learn
+	trope 158
+	pride 5
+	price 3
+	prime 2
+	prize 1
+	6
+flask
+	learn
+	slack 34
+	flask 1
+	3
+using
+	learn
+	count 103
+	bunny 5
+	using 1
+	4
+adorn
+	learn
+	acorn 3
+	adorn 1
+	3
+beard
+	learn
+	heard 6
+	beard 1
+	3
+twice
+	learn
+	suite 120
+	twice 1
+	3
+tibia
+	learn
+	patsy 100
+	about 7
+	tibia 1
+	4
+roost
+	learn
+	grout 117
+	roost 1
+	3
+wrath
+	learn
+	craft 29
+	trash 3
+	wrath 1
+	4
+saucy
+	learn
+	patsy 100
+	savoy 3
+	saucy 1
+	4
+spell
+	learn
+	stole 88
+	smell 5
+	swell 3
+	shell 2
+	spell 1
+	6
+amuse
+	learn
+	saute 55
+	amuse 2
+	3
+bossy
+	learn
+	hoist 212
+	mossy 2
+	bossy 1
+	4
+wheat
+	learn
+	saute 55
+	tweak 4
+	wheat 1
+	4
+cycle
+	learn
+	stole 88
+	guile 6
+	cycle 1
+	4
+navel
+	learn
+	ankle 6
+	panel 2
+	navel 1
+	4
+radar
+	learn
+	tarot 61
+	rapid 7
+	radar 1
+	4
+woken
+	learn
+	woven 14
+	women 2
+	woken 1
+	4
+gamma
+	learn
+	patsy 100
+	magma 12
+	gamma 1
+	4
+sting
+	learn
+	count 103
+	think 5
+	sting 1
+	4
+ditch
+	learn
+	hoist 212
+	width 7
+	ditch 1
+	4
+equal
+	learn
+	table 36
+	gleam 5
+	equal 1
+	4
+mecca
+	learn
+	media 6
+	mecca 1
+	3
+briar
+	learn
+	tarot 61
+	friar 7
+	briar 1
+	4
+tempo
+	learn
+	depth 43
+	setup 2
+	tempo 1
+	4
+cough
+	learn
+	hoist 212
+	couch 7
+	cough 1
+	4
+aptly
+	learn
+	atoll 68
+	adult 2
+	aptly 1
+	4
+voice
+	learn
+	suite 120
+	chide 4
+	voice 1
+	4
+robin
+	learn
+	brown 8
+	robin 1
+	3
+timid
+	learn
+	hoist 212
+	kitty 6
+	timid 1
+	4
+slick
+	learn
+	solid 113
+	spilt 8
+	slimy 2
+	slick 1
+	5
+golly
+	learn
+	solid 113
+	jolly 5
+	folly 3
+	golly 2
+	5
+photo
+	learn
+	hoist 212
+	quoth 2
+	photo 1
+	4
+handy
+	learn
+	saint 46
+	candy 8
+	dandy 2
+	handy 1
+	5
+fable
+	learn
+	table 36
+	cable 2
+	fable 1
+	4
+skill
+	learn
+	solid 113
+	spilt 8
+	swill 2
+	skill 1
+	5
+upper
+	learn
+	trope 158
+	purer 7
+	upper 1
+	4
+singe
+	learn
+	snide 61
+	since 2
+	singe 1
+	4
+rabbi
+	learn
+	tarot 61
+	rapid 7
+	rabbi 1
+	4
+reedy
+	learn
+	terse 40
+	fewer 5
+	reedy 1
+	4
+smote
+	learn
+	suite 120
+	smote 1
+	3
+meter
+	learn
+	terse 40
+	deter 2
+	meter 1
+	4
+wound
+	learn
+	count 103
+	pound 8
+	found 6
+	bound 5
+	hound 4
+	sound 3
+	mound 2
+	wound 1
+	9
+lymph
+	learn
+	lumpy 18
+	lymph 1
+	3
+rainy
+	learn
+	randy 6
+	rainy 1
+	3
+cairn
+	learn
+	acorn 3
+	cairn 1
+	3
+sport
+	learn
+	story 29
+	short 2
+	sport 1
+	4
+apnea
+	learn
+	amend 15
+	annex 2
+	apnea 1
+	4
+gusto
+	learn
+	hoist 212
+	stoop 5
+	gusto 1
+	4
+pouch
+	learn
+	hoist 212
+	couch 7
+	vouch 2
+	pouch 1
+	5
+bless
+	learn
+	stole 88
+	bless 2
+	3
+daunt
+	learn
+	saint 46
+	taunt 6
+	vaunt 5
+	jaunt 4
+	gaunt 3
+	haunt 2
+	daunt 1
+	8
+toddy
+	learn
+	hoist 212
+	pouty 4
+	toddy 1
+	4
+tight
+	learn
+	hoist 212
+	fight 4
+	wight 3
+	might 2
+	tight 1
+	6
+trust
+	learn
+	grout 117
+	crust 3
+	trust 1
+	4
+retch
+	learn
+	terse 40
+	recut 5
+	retch 1
+	4
+smith
+	learn
+	hoist 212
+	smith 1
+	3
+bible
+	learn
+	stole 88
+	guile 6
+	bible 1
+	4
+junto
+	learn
+	count 103
+	junto 1
+	3
+logic
+	learn
+	lumpy 18
+	livid 3
+	logic 1
+	4
+sally
+	learn
+	atoll 68
+	dally 3
+	sally 1
+	4
+badge
+	learn
+	saute 55
+	maybe 7
+	badge 1
+	4
+shark
+	learn
+	shard 25
+	sharp 2
+	shark 1
+	4
+dodge
+	learn
+	suite 120
+	evoke 5
+	dodge 1
+	4
+array
+	learn
+	tarot 61
+	scram 6
+	array 1
+	4
+ficus
+	learn
+	hoist 212
+	music 4
+	ficus 1
+	4
+flash
+	learn
+	slack 34
+	glass 3
+	blast 2
+	flash 1
+	5
+minim
+	learn
+	count 103
+	windy 7
+	minim 1
+	4
+adopt
+	learn
+	patsy 100
+	topaz 2
+	adopt 1
+	4
+album
+	learn
+	atoll 68
+	allay 4
+	alibi 2
+	album 1
+	5
+shaft
+	learn
+	chasm 38
+	shaky 3
+	shaft 1
+	4
+motor
+	learn
+	grout 117
+	worth 9
+	rotor 2
+	motor 1
+	5
+leech
+	learn
+	ledge 5
+	level 2
+	leech 1
+	4
+tulle
+	learn
+	stole 88
+	title 2
+	tulle 1
+	4
+fecal
+	learn
+	medal 10
+	fetal 3
+	fecal 1
+	4
+floss
+	learn
+	solid 113
+	gloss 2
+	floss 1
+	4
+scarf
+	learn
+	shard 25
+	smart 7
+	scary 3
+	scarf 1
+	5
+willy
+	learn
+	solid 113
+	filmy 7
+	hilly 3
+	billy 2
+	willy 1
+	6
+annul
+	learn
+	tonal 13
+	annul 1
+	3
+grape
+	learn
+	grace 19
+	grave 5
+	graze 4
+	grate 3
+	grape 2
+	6
+rival
+	learn
+	moral 16
+	trial 2
+	rival 1
+	4
+virus
+	learn
+	grout 117
+	scrub 5
+	virus 1
+	4
+folio
+	learn
+	solid 113
+	folio 1
+	3
+erupt
+	learn
+	trope 158
+	crept 2
+	erupt 1
+	4
+amity
+	learn
+	patsy 100
+	today 2
+	amity 1
+	4
+brief
+	learn
+	trope 158
+	cried 18
+	grief 2
+	brief 1
+	5
+lowly
+	learn
+	lumpy 18
+	lobby 3
+	lowly 2
+	4
+quiet
+	learn
+	suite 120
+	quiet 1
+	3
+fiber
+	learn
+	trope 158
+	rider 24
+	wiser 5
+	fixer 3
+	fiber 1
+	6
+alter
+	learn
+	paler 5
+	alter 1
+	3
+olden
+	learn
+	elfin 2
+	olden 1
+	3
+safer
+	learn
+	taper 52
+	wager 12
+	rarer 5
+	baker 3
+	safer 1
+	6
+audio
+	learn
+	patsy 100
+	comma 9
+	avoid 2
+	audio 1
+	5
+moody
+	learn
+	hoist 212
+	goody 13
+	woody 2
+	moody 1
+	5
+gipsy
+	learn
+	hoist 212
+	sissy 3
+	gipsy 1
+	4
+alien
+	learn
+	glean 3
+	alien 1
+	3
+crass
+	learn
+	craft 29
+	crass 5
+	3
+agile
+	learn
+	table 36
+	ample 4
+	aisle 2
+	agile 1
+	5
+gooey
+	learn
+	suite 120
+	epoch 9
+	gooey 1
+	4
+tonic
+	learn
+	count 103
+	notch 2
+	tonic 1
+	4
+lofty
+	learn
+	lumpy 18
+	lobby 3
+	lowly 2
+	lofty 1
+	5
+prowl
+	learn
+	drill 21
+	growl 2
+	prowl 1
+	4
+dried
+	learn
+	trope 158
+	cried 18
+	fried 2
+	dried 1
+	5
+dough
+	learn
+	hoist 212
+	couch 7
+	bough 2
+	dough 1
+	5
+stick
+	learn
+	hoist 212
+	stiff 2
+	stick 1
+	4
+serif
+	learn
+	terse 40
+	serum 2
+	serif 1
+	4
+dwelt
+	learn
+	stole 88
+	exult 2
+	dwelt 1
+	4
+eight
+	learn
+	suite 120
+	ethic 2
+	eight 1
+	4
+press
+	learn
+	trope 158
+	pried 3
+	press 1
+	4
+decry
+	learn
+	merry 8
+	decry 1
+	3
+group
+	learn
+	grout 117
+	group 1
+	3
+woman
+	learn
+	baton 15
+	woman 1
+	3
+drove
+	learn
+	trope 158
+	drove 5
+	3
+cello
+	learn
+	belle 18
+	hello 3
+	cello 1
+	4
+faint
+	learn
+	saint 46
+	paint 3
+	taint 2
+	faint 1
+	5
+beget
+	learn
+	depth 43
+	fetus 4
+	beget 1
+	4
+bowel
+	learn
+	stole 88
+	dowel 7
+	vowel 2
+	bowel 1
+	5
+radii
+	learn
+	tarot 61
+	rapid 7
+	radii 1
+	4
+frock
+	learn
+	grout 117
+	droop 12
+	cross 3
+	frock 1
+	5
+apple
+	learn
+	table 36
+	ample 4
+	apple 1
+	4
+wield
+	learn
+	stole 88
+	dwell 6
+	wield 1
+	4
+swore
+	learn
+	store 18
+	spore 4
+	score 3
+	swore 2
+	5
+bribe
+	learn
+	trope 158
+	bride 7
+	bribe 1
+	4
+fjord
+	learn
+	story 29
+	chord 2
+	fjord 1
+	4
+stare
+	learn
+	share 5
+	spare 3
+	scare 2
+	stare 1
+	5
+frill
+	learn
+	drill 21
+	grill 3
+	krill 2
+	frill 1
+	5
+peach
+	learn
+	death 17
+	beach 2
+	peach 1
+	4
+spout
+	learn
+	hoist 212
+	stout 3
+	scout 2
+	spout 1
+	5
+candy
+	learn
+	saint 46
+	candy 8
+	3
+state
+	learn
+	stage 29
+	stave 3
+	stake 2
+	state 1
+	5
+study
+	learn
+	hoist 212
+	musty 7
+	study 1
+	4
+sober
+	learn
+	trope 158
+	rover 18
+	sower 8
+	sober 1
+	5
+prone
+	learn
+	diner 22
+	prune 5
+	prone 1
+	4
+agora
+	learn
+	carry 12
+	abort 3
+	agora 1
+	4
+repel
+	learn
+	peril 6
+	repel 1
+	3
+dairy
+	learn
+	carry 12
+	fairy 3
+	hairy 2
+	dairy 1
+	5
+offal
+	learn
+	atoll 68
+	focal 4
+	offal 1
+	4
+savor
+	learn
+	tarot 61
+	favor 6
+	savor 1
+	4
+sauce
+	learn
+	saute 55
+	sauce 1
+	3
+prank
+	learn
+	grand 7
+	frank 3
+	crank 2
+	prank 1
+	5
+scrub
+	learn
+	grout 117
+	scrub 5
+	3
+cress
+	learn
+	trope 158
+	cried 18
+	cress 1
+	4
+truly
+	learn
+	drill 21
+	wryly 2
+	truly 1
+	4
+death
+	learn
+	death 17
+	2
+spire
+	learn
+	store 18
+	shire 2
+	spire 1
+	4
+swami
+	learn
+	chasm 38
+	stamp 3
+	swami 1
+	4
+torch
+	learn
+	grout 117
+	worth 9
+	torch 1
+	4
+plank
+	learn
+	blank 11
+	flank 3
+	clank 2
+	plank 1
+	5
+built
+	learn
+	solid 113
+	climb 14
+	built 1
+	4
+spill
+	learn
+	solid 113
+	spilt 8
+	spill 1
+	4
+moist
+	learn
+	hoist 212
+	joist 3
+	foist 2
+	moist 1
+	5
+troop
+	learn
+	grout 117
+	broth 3
+	troop 1
+	4
+anode
+	learn
+	amend 15
+	anode 1
+	3
+odder
+	learn
+	trope 158
+	rover 18
+	offer 2
+	odder 1
+	5
+dilly
+	learn
+	solid 113
+	dilly 1
+	3
+stomp
+	learn
+	hoist 212
+	stoop 5
+	stomp 1
+	4
+three
+	learn
+	trope 158
+	three 1
+	3
+waive
+	learn
+	saute 55
+	maybe 7
+	waive 3
+	4
+tryst
+	learn
+	grout 117
+	wrist 4
+	tryst 1
+	4
+knife
+	learn
+	snide 61
+	unite 2
+	knife 1
+	4
+pedal
+	learn
+	medal 10
+	pedal 1
+	3
+melee
+	learn
+	belle 18
+	delve 2
+	melee 1
+	4
+beady
+	learn
+	death 17
+	beady 1
+	3
+riser
+	learn
+	trope 158
+	rider 24
+	river 2
+	riser 1
+	5
+block
+	learn
+	solid 113
+	cloth 9
+	flock 2
+	block 1
+	5
+crude
+	learn
+	trope 158
+	bride 7
+	crude 1
+	4
+retro
+	learn
+	merry 8
+	retro 1
+	3
+sower
+	learn
+	trope 158
+	rover 18
+	sower 8
+	4
+shore
+	learn
+	store 18
+	spore 4
+	score 3
+	swore 2
+	shore 1
+	6
+stark
+	learn
+	shard 25
+	smart 7
+	stark 1
+	4
+berth
+	learn
+	terse 40
+	merit 2
+	berth 1
+	4
+poppy
+	learn
+	hoist 212
+	goody 13
+	comfy 3
+	poppy 2
+	5
+datum
+	learn
+	patsy 100
+	hatch 6
+	datum 1
+	4
+agape
+	learn
+	stage 29
+	agape 1
+	3
+guise
+	learn
+	suite 120
+	guise 1
+	3
+arise
+	learn
+	taper 52
+	creak 11
+	arose 3
+	arise 1
+	5
+elude
+	learn
+	stole 88
+	flume 8
+	elude 1
+	4
+crack
+	learn
+	craft 29
+	crass 5
+	crazy 3
+	cramp 2
+	crack 1
+	6
+paddy
+	learn
+	patsy 100
+	paddy 1
+	3
+fetid
+	learn
+	depth 43
+	teddy 2
+	fetid 1
+	4
+grade
+	learn
+	grace 19
+	grave 5
+	graze 4
+	grate 3
+	grape 2
+	grade 1
+	7
+burnt
+	learn
+	grind 28
+	corny 3
+	burnt 1
+	4
+bused
+	learn
+	suite 120
+	guess 2
+	bused 1
+	4
+cabin
+	learn
+	baton 15
+	cabin 1
+	3
+llama
+	learn
+	loath 3
+	llama 1
+	3
+angry
+	learn
+	angry 1
+	2
+frame
+	learn
+	grace 19
+	drake 8
+	erase 4
+	irate 3
+	brave 2
+	frame 1
+	7
+anime
+	learn
+	amend 15
+	anime 1
+	3
+mower
+	learn
+	trope 158
+	rower 18
+	cower 3
+	sower 2
+	mower 1
+	6
+idler
+	learn
+	idler 13
+	2
+march
+	learn
+	tarot 61
+	marsh 7
+	march 1
+	4
+lumpy
+	learn
+	lumpy 18
+	2
+amend
+	learn
+	amend 15
+	2
+roomy
+	learn
+	grout 117
+	choir 2
+	roomy 1
+	4
+abbot
+	learn
+	patsy 100
+	about 7
+	abbot 1
+	4
+crash
+	learn
+	craft 29
+	crass 5
+	crash 1
+	4
+sully
+	learn
+	solid 113
+	sulky 2
+	sully 1
+	4
+basin
+	learn
+	baton 15
+	basin 1
+	3
+croak
+	learn
+	tarot 61
+	broad 3
+	croak 1
+	4
+slyly
+	learn
+	solid 113
+	shyly 6
+	slyly 1
+	4
+gnash
+	learn
+	scant 14
+	gnash 1
+	3
+milky
+	learn
+	solid 113
+	filmy 7
+	milky 1
+	4
+anger
+	learn
+	range 4
+	anger 1
+	3
+alike
+	learn
+	table 36
+	alive 3
+	alike 1
+	4
+bring
+	learn
+	grind 28
+	wring 2
+	bring 1
+	4
+ninth
+	learn
+	count 103
+	minty 2
+	ninth 1
+	4
+wagon
+	learn
+	baton 15
+	canon 3
+	mason 2
+	wagon 1
+	5
+butch
+	learn
+	hoist 212
+	thumb 4
+	butch 1
+	4
+train
+	learn
+	drawn 7
+	grain 3
+	train 2
+	4
+vital
+	learn
+	atoll 68
+	tidal 4
+	vital 1
+	4
+donut
+	learn
+	count 103
+	donut 1
+	3
+gaffe
+	learn
+	saute 55
+	maybe 7
+	waive 3
+	gaffe 2
+	5
+watch
+	learn
+	patsy 100
+	hatch 6
+	match 4
+	catch 3
+	batch 2
+	watch 1
+	7
+wreak
+	learn
+	taper 52
+	creak 11
+	break 3
+	freak 2
+	wreak 1
+	6
+holly
+	learn
+	solid 113
+	jolly 5
+	folly 3
+	golly 2
+	holly 1
+	6
+alone
+	learn
+	ankle 6
+	alone 1
+	3
+tangy
+	learn
+	saint 46
+	tango 2
+	tangy 1
+	4
+cache
+	learn
+	saute 55
+	maybe 7
+	waive 3
+	gaffe 2
+	cache 1
+	6
+grind
+	learn
+	grind 28
+	2
+given
+	learn
+	woven 14
+	given 1
+	3
+drank
+	learn
+	grand 7
+	drank 1
+	3
+debut
+	learn
+	depth 43
+	debit 3
+	debut 1
+	4
+visor
+	learn
+	grout 117
+	porch 6
+	visor 1
+	4
+biddy
+	learn
+	hoist 212
+	pubic 13
+	biddy 1
+	4
+chose
+	learn
+	suite 120
+	moose 7
+	whose 2
+	chose 1
+	5
+tawny
+	learn
+	saint 46
+	tawny 1
+	3
+urban
+	learn
+	baron 7
+	urban 1
+	3
+elope
+	learn
+	stole 88
+	globe 5
+	clove 2
+	elope 1
+	5
+sigma
+	learn
+	patsy 100
+	scuba 4
+	sigma 1
+	4
+frown
+	learn
+	brown 8
+	crown 4
+	grown 3
+	drown 2
+	frown 1
+	6
+sunny
+	learn
+	count 103
+	bunny 5
+	sunny 2
+	4
+hussy
+	learn
+	hoist 212
+	hussy 1
+	3
+filmy
+	learn
+	solid 113
+	filmy 7
+	3
+salon
+	learn
+	talon 3
+	salon 1
+	3
+madam
+	learn
+	patsy 100
+	magma 12
+	madam 1
+	4
+caput
+	learn
+	patsy 100
+	caput 1
+	3
+brain
+	learn
+	drawn 7
+	grain 3
+	train 2
+	brain 1
+	5
+sieve
+	learn
+	suite 120
+	siege 2
+	sieve 1
+	4
+lorry
+	learn
+	lorry 1
+	2
+jiffy
+	learn
+	hoist 212
+	pubic 13
+	dizzy 4
+	jiffy 1
+	5
+flesh
+	learn
+	stole 88
+	bless 2
+	flesh 1
+	4
+chore
+	learn
+	store 18
+	chore 1
+	3
+trade
+	learn
+	grace 19
+	drake 8
+	trade 1
+	4
+trawl
+	learn
+	trail 8
+	trawl 1
+	3
+adage
+	learn
+	stage 29
+	image 2
+	adage 1
+	4
+delta
+	learn
+	medal 10
+	delta 1
+	3
+cynic
+	learn
+	count 103
+	cinch 2
+	cynic 1
+	4
+fishy
+	learn
+	hoist 212
+	sushi 2
+	fishy 1
+	4
+lunge
+	learn
+	lunge 1
+	2
+slain
+	learn
+	plain 2
+	slain 1
+	3
+augur
+	learn
+	tarot 61
+	friar 7
+	augur 1
+	4
+storm
+	learn
+	story 29
+	stork 2
+	storm 1
+	4
+bulge
+	learn
+	stole 88
+	flume 8
+	bulge 1
+	4
+flaky
+	learn
+	slack 34
+	flaky 1
+	3
+dimly
+	learn
+	solid 113
+	idyll 2
+	dimly 1
+	4
+asset
+	learn
+	saute 55
+	asset 1
+	3
+fifty
+	learn
+	hoist 212
+	kitty 6
+	fifty 1
+	4
+began
+	learn
+	vegan 4
+	began 1
+	3
+filly
+	learn
+	solid 113
+	filmy 7
+	filly 1
+	4
+horse
+	learn
+	trope 158
+	forge 9
+	horde 3
+	horse 1
+	5
+swamp
+	learn
+	chasm 38
+	stamp 3
+	swamp 1
+	4
+eager
+	learn
+	taper 52
+	wager 12
+	eager 1
+	4
+gauze
+	learn
+	saute 55
+	gauge 3
+	gauze 1
+	4
+abuse
+	learn
+	saute 55
+	amuse 2
+	abuse 1
+	4
+hinge
+	learn
+	snide 61
+	mince 6
+	binge 2
+	hinge 1
+	5
+digit
+	learn
+	hoist 212
+	digit 1
+	3
+belly
+	learn
+	belle 18
+	belly 1
+	3
+bleat
+	learn
+	table 36
+	bleat 1
+	3

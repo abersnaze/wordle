@@ -1,0 +1,12997 @@
+awash
+	aisle
+	amass 6
+	awash 1
+	3
+clash
+	aisle
+	slash 23
+	clash 2
+	3
+shown
+	aisle
+	snort 92
+	shown 3
+	3
+tweet
+	aisle
+	tenor 172
+	tweet 3
+	3
+horny
+	aisle
+	thorn 196
+	horny 2
+	3
+chasm
+	aisle
+	trash 73
+	chasm 1
+	3
+amber
+	aisle
+	arena 12
+	amber 2
+	3
+stiff
+	aisle
+	stink 41
+	stiff 1
+	3
+plume
+	aisle
+	bulge 17
+	flume 5
+	plume 1
+	4
+tuber
+	aisle
+	tenor 172
+	tuber 2
+	3
+toddy
+	aisle
+	thorn 196
+	toddy 1
+	3
+space
+	aisle
+	stare 30
+	shape 9
+	space 2
+	4
+quash
+	aisle
+	trash 73
+	smash 4
+	quash 2
+	4
+umbra
+	aisle
+	carat 171
+	brand 22
+	umbra 2
+	4
+coast
+	aisle
+	trash 73
+	coast 2
+	3
+motor
+	aisle
+	thorn 196
+	motor 4
+	3
+scrub
+	aisle
+	snort 92
+	scrub 5
+	3
+third
+	aisle
+	print 86
+	third 1
+	3
+basil
+	aisle
+	basil 1
+	2
+atone
+	aisle
+	adage 18
+	atone 5
+	3
+tamer
+	aisle
+	react 96
+	tamer 9
+	3
+fluid
+	aisle
+	cling 30
+	fluid 1
+	3
+grasp
+	aisle
+	trash 73
+	grasp 4
+	3
+shalt
+	aisle
+	stall 11
+	shalt 1
+	3
+skulk
+	aisle
+	sully 7
+	skulk 1
+	3
+leaky
+	aisle
+	petal 49
+	leaky 4
+	3
+lasso
+	aisle
+	basal 3
+	lasso 1
+	3
+banjo
+	aisle
+	carat 171
+	dandy 19
+	banjo 2
+	4
+angle
+	aisle
+	ample 5
+	angle 2
+	3
+quill
+	aisle
+	guild 16
+	quill 3
+	3
+smite
+	aisle
+	snipe 16
+	smite 4
+	3
+gouge
+	aisle
+	puree 82
+	gouge 4
+	3
+retch
+	aisle
+	tenor 172
+	retch 6
+	3
+timid
+	aisle
+	ditch 62
+	timid 1
+	3
+phone
+	aisle
+	puree 82
+	phone 1
+	3
+ready
+	aisle
+	react 96
+	ready 2
+	3
+rebus
+	aisle
+	steer 49
+	rebus 2
+	3
+wooer
+	aisle
+	tenor 172
+	rower 19
+	wooer 1
+	4
+chief
+	aisle
+	fetid 45
+	grief 4
+	chief 1
+	4
+quilt
+	aisle
+	guild 16
+	quill 3
+	quilt 1
+	4
+wreck
+	aisle
+	tenor 172
+	greed 9
+	wreck 1
+	4
+leash
+	aisle
+	leash 3
+	2
+patty
+	aisle
+	carat 171
+	tangy 12
+	patty 3
+	4
+fizzy
+	aisle
+	ditch 62
+	pinky 12
+	fizzy 2
+	4
+relic
+	aisle
+	peril 11
+	relic 1
+	3
+staff
+	aisle
+	trash 73
+	stank 6
+	staff 2
+	4
+weigh
+	aisle
+	fetid 45
+	weigh 4
+	3
+hunch
+	aisle
+	thorn 196
+	nymph 6
+	hunch 2
+	4
+slime
+	aisle
+	slime 3
+	2
+widen
+	aisle
+	diner 30
+	widen 1
+	3
+pleat
+	aisle
+	petal 49
+	pleat 1
+	3
+royal
+	aisle
+	carol 67
+	royal 1
+	3
+eaten
+	aisle
+	react 96
+	taken 5
+	eaten 1
+	4
+conic
+	aisle
+	print 86
+	conic 7
+	3
+octet
+	aisle
+	tenor 172
+	comet 3
+	octet 1
+	4
+caput
+	aisle
+	carat 171
+	caput 1
+	3
+stone
+	aisle
+	store 47
+	stone 3
+	3
+tonic
+	aisle
+	print 86
+	tonic 3
+	3
+tidal
+	aisle
+	vital 6
+	tidal 1
+	3
+siren
+	aisle
+	siren 2
+	2
+booth
+	aisle
+	thorn 196
+	booth 2
+	3
+tonga
+	aisle
+	carat 171
+	tonga 5
+	3
+flack
+	aisle
+	carol 67
+	flack 2
+	3
+water
+	aisle
+	react 96
+	tamer 9
+	water 3
+	4
+ditch
+	aisle
+	ditch 62
+	2
+slide
+	aisle
+	slime 3
+	slide 2
+	3
+young
+	aisle
+	thorn 196
+	mound 9
+	young 1
+	4
+hence
+	aisle
+	puree 82
+	hence 7
+	3
+rodeo
+	aisle
+	tenor 172
+	rodeo 2
+	3
+could
+	aisle
+	dully 28
+	could 2
+	3
+gourd
+	aisle
+	thorn 196
+	gourd 3
+	3
+boozy
+	aisle
+	thorn 196
+	goody 7
+	boozy 3
+	4
+covey
+	aisle
+	tenor 172
+	epoxy 6
+	covey 1
+	4
+slosh
+	aisle
+	slump 20
+	slosh 2
+	3
+fever
+	aisle
+	tenor 172
+	defer 7
+	fever 2
+	4
+wiser
+	aisle
+	wiser 4
+	2
+chafe
+	aisle
+	grace 44
+	chafe 1
+	3
+plane
+	aisle
+	large 22
+	blame 9
+	plate 5
+	plane 2
+	5
+shorn
+	aisle
+	snort 92
+	shorn 3
+	3
+drift
+	aisle
+	print 86
+	drift 1
+	3
+papal
+	aisle
+	carol 67
+	natal 5
+	papal 1
+	4
+elate
+	aisle
+	large 22
+	blame 9
+	plate 5
+	elate 1
+	5
+bylaw
+	aisle
+	carol 67
+	plank 10
+	bylaw 1
+	4
+threw
+	aisle
+	tenor 172
+	threw 1
+	3
+girly
+	aisle
+	dilly 7
+	girly 1
+	3
+weary
+	aisle
+	react 96
+	weary 4
+	3
+unzip
+	aisle
+	print 86
+	unzip 1
+	3
+amiss
+	aisle
+	amiss 1
+	2
+orbit
+	aisle
+	print 86
+	orbit 3
+	3
+newly
+	aisle
+	hello 12
+	newly 2
+	3
+start
+	aisle
+	trash 73
+	start 3
+	3
+power
+	aisle
+	tenor 172
+	rower 19
+	power 3
+	4
+print
+	aisle
+	print 86
+	2
+where
+	aisle
+	puree 82
+	where 5
+	3
+later
+	aisle
+	petal 49
+	later 1
+	3
+flail
+	aisle
+	trail 15
+	flail 2
+	3
+fluff
+	aisle
+	clump 57
+	flung 7
+	fluff 1
+	4
+riper
+	aisle
+	diner 30
+	viper 9
+	riper 2
+	4
+below
+	aisle
+	rebel 59
+	below 2
+	3
+going
+	aisle
+	print 86
+	doing 7
+	going 1
+	4
+truss
+	aisle
+	snort 92
+	truss 1
+	3
+frond
+	aisle
+	thorn 196
+	wrong 4
+	frond 2
+	4
+curvy
+	aisle
+	thorn 196
+	crumb 7
+	curvy 1
+	4
+bossy
+	aisle
+	mushy 16
+	bossy 1
+	3
+mirth
+	aisle
+	ditch 62
+	mirth 5
+	3
+clout
+	aisle
+	clump 57
+	clout 2
+	3
+spelt
+	aisle
+	shell 7
+	spelt 2
+	3
+bloom
+	aisle
+	clump 57
+	bloom 2
+	3
+trove
+	aisle
+	puree 82
+	trove 11
+	3
+aping
+	aisle
+	admit 18
+	aping 4
+	3
+crown
+	aisle
+	thorn 196
+	crown 5
+	3
+horse
+	aisle
+	store 47
+	horse 3
+	3
+swine
+	aisle
+	snipe 16
+	swine 2
+	3
+muddy
+	aisle
+	thorn 196
+	dumpy 15
+	muddy 1
+	4
+lumen
+	aisle
+	rebel 59
+	golem 4
+	lumen 1
+	4
+greed
+	aisle
+	tenor 172
+	greed 9
+	3
+value
+	aisle
+	large 22
+	value 3
+	3
+briar
+	aisle
+	train 42
+	briar 2
+	3
+ivory
+	aisle
+	print 86
+	ivory 3
+	3
+nomad
+	aisle
+	carat 171
+	nomad 4
+	3
+chirp
+	aisle
+	print 86
+	chirp 1
+	3
+stamp
+	aisle
+	trash 73
+	stank 6
+	staff 2
+	stamp 1
+	5
+excel
+	aisle
+	rebel 59
+	excel 4
+	3
+leery
+	aisle
+	rebel 59
+	leery 1
+	3
+moron
+	aisle
+	thorn 196
+	moron 1
+	3
+storm
+	aisle
+	snort 92
+	storm 3
+	3
+balmy
+	aisle
+	carol 67
+	balmy 4
+	3
+arson
+	aisle
+	arson 2
+	2
+carry
+	aisle
+	carat 171
+	carry 2
+	3
+crook
+	aisle
+	thorn 196
+	droop 15
+	broom 4
+	crook 1
+	5
+thing
+	aisle
+	print 86
+	thing 3
+	3
+tulle
+	aisle
+	bugle 8
+	tulle 1
+	3
+moody
+	aisle
+	thorn 196
+	goody 7
+	moody 2
+	4
+krill
+	aisle
+	guild 16
+	krill 5
+	3
+ocean
+	aisle
+	react 96
+	ocean 4
+	3
+gaily
+	aisle
+	gaily 3
+	2
+fetus
+	aisle
+	steer 49
+	fetus 1
+	3
+rigid
+	aisle
+	ditch 62
+	giddy 6
+	rigid 1
+	4
+gecko
+	aisle
+	tenor 172
+	gecko 1
+	3
+knead
+	aisle
+	react 96
+	knead 7
+	3
+knelt
+	aisle
+	hello 12
+	knelt 3
+	3
+robot
+	aisle
+	thorn 196
+	motor 4
+	robot 1
+	4
+trawl
+	aisle
+	carol 67
+	trawl 3
+	3
+shawl
+	aisle
+	slash 23
+	shawl 1
+	3
+shape
+	aisle
+	stare 30
+	shape 9
+	3
+proof
+	aisle
+	thorn 196
+	droop 15
+	proof 1
+	4
+thief
+	aisle
+	fetid 45
+	thief 1
+	3
+utter
+	aisle
+	tenor 172
+	utter 2
+	3
+brain
+	aisle
+	train 42
+	brain 3
+	3
+glory
+	aisle
+	clump 57
+	flood 7
+	glory 2
+	4
+mania
+	aisle
+	train 42
+	mania 3
+	3
+bunch
+	aisle
+	thorn 196
+	nymph 6
+	hunch 2
+	bunch 1
+	5
+geese
+	aisle
+	store 47
+	geese 2
+	3
+pivot
+	aisle
+	ditch 62
+	pinto 5
+	pivot 1
+	4
+shark
+	aisle
+	trash 73
+	shark 3
+	3
+slump
+	aisle
+	slump 20
+	2
+groin
+	aisle
+	print 86
+	groin 1
+	3
+goody
+	aisle
+	thorn 196
+	goody 7
+	3
+yacht
+	aisle
+	carat 171
+	yacht 1
+	3
+ramen
+	aisle
+	react 96
+	ramen 3
+	3
+pasta
+	aisle
+	pasty 9
+	pasta 1
+	3
+elegy
+	aisle
+	rebel 59
+	elegy 3
+	3
+madam
+	aisle
+	carat 171
+	madam 3
+	3
+twirl
+	aisle
+	cling 30
+	twirl 2
+	3
+vomit
+	aisle
+	print 86
+	vomit 1
+	3
+email
+	aisle
+	email 2
+	2
+delay
+	aisle
+	petal 49
+	delay 3
+	3
+react
+	aisle
+	react 96
+	2
+after
+	aisle
+	arena 12
+	amber 2
+	after 1
+	4
+posit
+	aisle
+	posit 3
+	2
+itchy
+	aisle
+	print 86
+	itchy 3
+	3
+grief
+	aisle
+	fetid 45
+	grief 4
+	3
+hello
+	aisle
+	hello 12
+	2
+shout
+	aisle
+	snort 92
+	shout 5
+	3
+baton
+	aisle
+	carat 171
+	tangy 12
+	baton 1
+	4
+allow
+	aisle
+	allot 16
+	allow 2
+	3
+diner
+	aisle
+	diner 30
+	2
+octal
+	aisle
+	carol 67
+	focal 4
+	octal 1
+	4
+plump
+	aisle
+	clump 57
+	plump 1
+	3
+rumor
+	aisle
+	thorn 196
+	furor 9
+	rumor 1
+	4
+croak
+	aisle
+	carat 171
+	croak 1
+	3
+shear
+	aisle
+	steak 16
+	shear 4
+	3
+spark
+	aisle
+	trash 73
+	scary 4
+	spark 2
+	4
+feast
+	aisle
+	steak 16
+	feast 3
+	3
+earth
+	aisle
+	react 96
+	tamer 9
+	earth 1
+	4
+pushy
+	aisle
+	mushy 16
+	pushy 2
+	3
+tardy
+	aisle
+	carat 171
+	warty 3
+	tardy 1
+	4
+bland
+	aisle
+	carol 67
+	plank 10
+	bland 2
+	4
+quiet
+	aisle
+	fetid 45
+	quiet 4
+	3
+ardor
+	aisle
+	abort 28
+	ardor 4
+	3
+fable
+	aisle
+	fable 7
+	2
+swarm
+	aisle
+	trash 73
+	scary 4
+	spark 2
+	swarm 1
+	5
+copse
+	aisle
+	store 47
+	mouse 4
+	copse 1
+	4
+kneel
+	aisle
+	rebel 59
+	excel 4
+	kneel 2
+	4
+aware
+	aisle
+	adage 18
+	aware 4
+	3
+dwarf
+	aisle
+	carat 171
+	brand 22
+	dwarf 1
+	4
+edict
+	aisle
+	fetid 45
+	edict 1
+	3
+gaffe
+	aisle
+	grace 44
+	gauze 3
+	gaffe 1
+	4
+banal
+	aisle
+	carol 67
+	natal 5
+	banal 1
+	4
+brave
+	aisle
+	grace 44
+	drake 6
+	brave 2
+	4
+sully
+	aisle
+	sully 7
+	2
+melon
+	aisle
+	rebel 59
+	felon 6
+	melon 1
+	4
+essay
+	aisle
+	essay 1
+	2
+avert
+	aisle
+	arena 12
+	avert 1
+	3
+motif
+	aisle
+	print 86
+	itchy 3
+	motif 1
+	4
+mound
+	aisle
+	thorn 196
+	mound 9
+	3
+botch
+	aisle
+	thorn 196
+	mouth 4
+	botch 1
+	4
+picky
+	aisle
+	ditch 62
+	micro 4
+	picky 1
+	4
+early
+	aisle
+	mealy 6
+	early 1
+	3
+beech
+	aisle
+	tenor 172
+	beech 5
+	3
+wedge
+	aisle
+	puree 82
+	hence 7
+	wedge 2
+	4
+spank
+	aisle
+	trash 73
+	snack 8
+	spank 1
+	4
+slant
+	aisle
+	slash 23
+	slant 3
+	3
+candy
+	aisle
+	carat 171
+	candy 5
+	3
+pecan
+	aisle
+	react 96
+	pecan 2
+	3
+pesky
+	aisle
+	pesto 12
+	pesky 1
+	3
+weedy
+	aisle
+	tenor 172
+	beech 5
+	weedy 2
+	4
+groan
+	aisle
+	carat 171
+	groan 4
+	3
+syrup
+	aisle
+	snort 92
+	scrub 5
+	syrup 2
+	4
+month
+	aisle
+	thorn 196
+	month 2
+	3
+movie
+	aisle
+	trice 38
+	movie 3
+	3
+frost
+	aisle
+	snort 92
+	frost 2
+	3
+petal
+	aisle
+	petal 49
+	2
+icily
+	aisle
+	guild 16
+	krill 5
+	icily 2
+	4
+dusky
+	aisle
+	mushy 16
+	dusty 5
+	dusky 1
+	4
+bevel
+	aisle
+	rebel 59
+	bevel 3
+	3
+swung
+	aisle
+	snort 92
+	spunk 4
+	swung 1
+	4
+swami
+	aisle
+	stair 9
+	swami 1
+	3
+abase
+	aisle
+	abuse 4
+	abase 1
+	3
+badge
+	aisle
+	grace 44
+	badge 3
+	3
+piggy
+	aisle
+	ditch 62
+	pinky 12
+	piggy 1
+	4
+gaunt
+	aisle
+	carat 171
+	gaunt 7
+	3
+bushy
+	aisle
+	mushy 16
+	pushy 2
+	bushy 1
+	4
+penny
+	aisle
+	tenor 172
+	bench 3
+	penny 1
+	4
+fungi
+	aisle
+	print 86
+	conic 7
+	fungi 1
+	4
+fishy
+	aisle
+	visor 9
+	missy 4
+	fishy 2
+	4
+toxic
+	aisle
+	print 86
+	itchy 3
+	toxic 1
+	4
+refit
+	aisle
+	fetid 45
+	refit 2
+	3
+frill
+	aisle
+	guild 16
+	krill 5
+	frill 1
+	4
+manga
+	aisle
+	carat 171
+	manga 6
+	3
+ruddy
+	aisle
+	thorn 196
+	crumb 7
+	ruddy 1
+	4
+vault
+	aisle
+	madly 13
+	vault 3
+	3
+whole
+	aisle
+	bugle 8
+	whole 2
+	3
+sweet
+	aisle
+	steer 49
+	sweet 2
+	3
+camel
+	aisle
+	petal 49
+	bagel 6
+	camel 3
+	4
+befit
+	aisle
+	fetid 45
+	refit 2
+	befit 1
+	4
+slate
+	aisle
+	salve 6
+	slate 1
+	3
+above
+	aisle
+	adage 18
+	atone 5
+	above 2
+	4
+bleed
+	aisle
+	rebel 59
+	bleed 2
+	3
+scalp
+	aisle
+	stall 11
+	scalp 3
+	3
+disco
+	aisle
+	visor 9
+	disco 1
+	3
+spent
+	aisle
+	steer 49
+	spent 3
+	3
+apply
+	aisle
+	apply 5
+	2
+nasty
+	aisle
+	pasty 9
+	nasty 3
+	3
+valet
+	aisle
+	petal 49
+	valet 1
+	3
+irony
+	aisle
+	print 86
+	irony 1
+	3
+imply
+	aisle
+	guild 16
+	imply 1
+	3
+pesto
+	aisle
+	pesto 12
+	2
+touch
+	aisle
+	thorn 196
+	touch 2
+	3
+gauze
+	aisle
+	grace 44
+	gauze 3
+	3
+brand
+	aisle
+	carat 171
+	brand 22
+	3
+faint
+	aisle
+	train 42
+	faint 2
+	3
+sorry
+	aisle
+	snort 92
+	sorry 1
+	3
+mourn
+	aisle
+	thorn 196
+	mourn 1
+	3
+burst
+	aisle
+	snort 92
+	trust 4
+	burst 1
+	4
+juice
+	aisle
+	trice 38
+	juice 2
+	3
+offal
+	aisle
+	carol 67
+	tonal 6
+	offal 1
+	4
+blown
+	aisle
+	clump 57
+	flood 7
+	glory 2
+	blown 1
+	5
+swish
+	aisle
+	stink 41
+	swish 2
+	3
+flaky
+	aisle
+	carol 67
+	plank 10
+	flaky 1
+	4
+welsh
+	aisle
+	slept 8
+	welsh 1
+	3
+range
+	aisle
+	grace 44
+	range 2
+	3
+rivet
+	aisle
+	diner 30
+	rivet 1
+	3
+coral
+	aisle
+	carol 67
+	coral 1
+	3
+lodge
+	aisle
+	bulge 17
+	lodge 2
+	3
+being
+	aisle
+	fetid 45
+	weigh 4
+	being 1
+	4
+giver
+	aisle
+	diner 30
+	viper 9
+	giver 2
+	4
+tatty
+	aisle
+	carat 171
+	batty 12
+	patty 3
+	tatty 2
+	5
+ghost
+	aisle
+	snort 92
+	ghost 2
+	3
+image
+	aisle
+	naive 6
+	image 2
+	3
+apnea
+	aisle
+	arena 12
+	apnea 1
+	3
+bingo
+	aisle
+	ditch 62
+	pinky 12
+	bingo 3
+	4
+sauce
+	aisle
+	stare 30
+	sauce 1
+	3
+bugle
+	aisle
+	bugle 8
+	2
+liege
+	aisle
+	liege 4
+	2
+whack
+	aisle
+	carat 171
+	whack 4
+	3
+onset
+	aisle
+	pesto 12
+	onset 1
+	3
+gulch
+	aisle
+	clump 57
+	lunch 4
+	gulch 1
+	4
+drool
+	aisle
+	clump 57
+	drool 6
+	3
+purer
+	aisle
+	tenor 172
+	purer 12
+	3
+caste
+	aisle
+	caste 7
+	2
+quote
+	aisle
+	puree 82
+	nudge 9
+	quote 2
+	4
+ridge
+	aisle
+	binge 16
+	ridge 3
+	3
+shank
+	aisle
+	trash 73
+	shank 5
+	3
+crush
+	aisle
+	snort 92
+	crush 2
+	3
+shift
+	aisle
+	stink 41
+	shift 4
+	3
+hedge
+	aisle
+	puree 82
+	hence 7
+	hedge 1
+	4
+wound
+	aisle
+	thorn 196
+	mound 9
+	wound 4
+	4
+reply
+	aisle
+	hello 12
+	newly 2
+	reply 1
+	4
+thyme
+	aisle
+	puree 82
+	ozone 6
+	thyme 1
+	4
+piney
+	aisle
+	diner 30
+	piney 1
+	3
+grown
+	aisle
+	thorn 196
+	crown 5
+	grown 4
+	4
+taste
+	aisle
+	caste 7
+	taste 5
+	3
+fetid
+	aisle
+	fetid 45
+	2
+vouch
+	aisle
+	thorn 196
+	vouch 8
+	3
+write
+	aisle
+	trice 38
+	write 1
+	3
+defer
+	aisle
+	tenor 172
+	defer 7
+	3
+gauge
+	aisle
+	grace 44
+	gauze 3
+	gauge 1
+	4
+hinge
+	aisle
+	binge 16
+	hinge 1
+	3
+stung
+	aisle
+	snort 92
+	stung 2
+	3
+glide
+	aisle
+	elide 5
+	glide 1
+	3
+decor
+	aisle
+	tenor 172
+	decor 1
+	3
+chute
+	aisle
+	puree 82
+	gouge 4
+	chute 1
+	4
+nosey
+	aisle
+	pesto 12
+	nosey 1
+	3
+karma
+	aisle
+	carat 171
+	karma 2
+	3
+bulky
+	aisle
+	clump 57
+	bulky 2
+	3
+mucus
+	aisle
+	snort 92
+	mucus 3
+	3
+foist
+	aisle
+	stink 41
+	foist 6
+	3
+woody
+	aisle
+	thorn 196
+	goody 7
+	moody 2
+	woody 1
+	5
+hover
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	4
+maybe
+	aisle
+	grace 44
+	maybe 5
+	3
+grope
+	aisle
+	puree 82
+	grope 2
+	3
+lager
+	aisle
+	petal 49
+	lager 4
+	3
+queer
+	aisle
+	tenor 172
+	purer 12
+	queer 2
+	4
+dozen
+	aisle
+	tenor 172
+	woven 6
+	dozen 1
+	4
+lefty
+	aisle
+	rebel 59
+	felon 6
+	lefty 1
+	4
+donor
+	aisle
+	thorn 196
+	donor 3
+	3
+surer
+	aisle
+	steer 49
+	surer 4
+	3
+plank
+	aisle
+	carol 67
+	plank 10
+	3
+hitch
+	aisle
+	ditch 62
+	hitch 3
+	3
+cadet
+	aisle
+	react 96
+	cadet 3
+	3
+taint
+	aisle
+	train 42
+	taint 1
+	3
+snout
+	aisle
+	snort 92
+	snout 1
+	3
+jewel
+	aisle
+	rebel 59
+	jewel 2
+	3
+minus
+	aisle
+	first 11
+	minus 1
+	3
+coyly
+	aisle
+	dully 28
+	wryly 5
+	coyly 1
+	4
+ounce
+	aisle
+	puree 82
+	nudge 9
+	ounce 1
+	4
+biome
+	aisle
+	binge 16
+	biome 1
+	3
+await
+	aisle
+	admit 18
+	await 1
+	3
+elfin
+	aisle
+	peril 11
+	elfin 1
+	3
+shoot
+	aisle
+	snort 92
+	shout 5
+	shoot 1
+	4
+mossy
+	aisle
+	mushy 16
+	mossy 1
+	3
+sonic
+	aisle
+	stink 41
+	sonic 1
+	3
+glass
+	aisle
+	slash 23
+	glass 2
+	3
+billy
+	aisle
+	dilly 7
+	billy 4
+	3
+whirl
+	aisle
+	cling 30
+	twirl 2
+	whirl 1
+	4
+cabby
+	aisle
+	carat 171
+	candy 5
+	cabby 1
+	4
+cable
+	aisle
+	fable 7
+	cable 2
+	3
+ester
+	aisle
+	steer 49
+	ester 1
+	3
+ficus
+	aisle
+	first 11
+	ficus 1
+	3
+floss
+	aisle
+	slump 20
+	floss 2
+	3
+flirt
+	aisle
+	cling 30
+	flirt 3
+	3
+vying
+	aisle
+	print 86
+	doing 7
+	vying 2
+	4
+spout
+	aisle
+	snort 92
+	shout 5
+	spout 3
+	4
+snuff
+	aisle
+	snort 92
+	snuff 2
+	3
+tilde
+	aisle
+	liege 4
+	tilde 1
+	3
+habit
+	aisle
+	train 42
+	habit 2
+	3
+pouch
+	aisle
+	thorn 196
+	vouch 8
+	pouch 2
+	4
+mamma
+	aisle
+	carat 171
+	manga 6
+	mamma 1
+	4
+fluke
+	aisle
+	bulge 17
+	flume 5
+	fluke 2
+	4
+belly
+	aisle
+	hello 12
+	belly 2
+	3
+impel
+	aisle
+	peril 11
+	impel 1
+	3
+spoof
+	aisle
+	snort 92
+	shock 10
+	spoof 2
+	4
+maple
+	aisle
+	fable 7
+	maple 3
+	3
+stair
+	aisle
+	stair 9
+	2
+myrrh
+	aisle
+	thorn 196
+	myrrh 2
+	3
+mauve
+	aisle
+	grace 44
+	maybe 5
+	mauve 1
+	4
+unify
+	aisle
+	print 86
+	unify 3
+	3
+hazel
+	aisle
+	petal 49
+	bagel 6
+	camel 3
+	hazel 2
+	5
+macro
+	aisle
+	carat 171
+	macro 2
+	3
+scram
+	aisle
+	trash 73
+	scram 6
+	3
+aphid
+	aisle
+	admit 18
+	aphid 4
+	3
+hairy
+	aisle
+	train 42
+	hairy 4
+	3
+knife
+	aisle
+	trice 38
+	opine 6
+	knife 1
+	4
+login
+	aisle
+	cling 30
+	login 1
+	3
+fleet
+	aisle
+	rebel 59
+	fleet 1
+	3
+caulk
+	aisle
+	madly 13
+	vault 3
+	caulk 1
+	4
+broil
+	aisle
+	cling 30
+	broil 5
+	3
+enema
+	aisle
+	react 96
+	knead 7
+	enema 1
+	4
+soggy
+	aisle
+	snort 92
+	soggy 1
+	3
+eager
+	aisle
+	react 96
+	wager 20
+	eager 1
+	4
+lurid
+	aisle
+	cling 30
+	broil 5
+	lurid 1
+	4
+trial
+	aisle
+	trail 15
+	trial 1
+	3
+guile
+	aisle
+	guile 4
+	2
+harpy
+	aisle
+	carat 171
+	harpy 6
+	3
+taken
+	aisle
+	react 96
+	taken 5
+	3
+annex
+	aisle
+	arena 12
+	annex 1
+	3
+coupe
+	aisle
+	puree 82
+	coupe 1
+	3
+abide
+	aisle
+	abide 3
+	2
+worse
+	aisle
+	store 47
+	horse 3
+	worse 1
+	4
+atoll
+	aisle
+	apply 5
+	atoll 2
+	3
+polar
+	aisle
+	carol 67
+	polar 3
+	3
+clank
+	aisle
+	carol 67
+	clank 4
+	3
+proxy
+	aisle
+	thorn 196
+	droop 15
+	proxy 1
+	4
+queen
+	aisle
+	tenor 172
+	unfed 6
+	queen 1
+	4
+scent
+	aisle
+	steer 49
+	spent 3
+	scent 1
+	4
+pause
+	aisle
+	stare 30
+	pause 2
+	3
+solar
+	aisle
+	slash 23
+	salvo 6
+	solar 1
+	4
+yearn
+	aisle
+	react 96
+	weary 4
+	yearn 1
+	4
+zesty
+	aisle
+	pesto 12
+	zesty 2
+	3
+scone
+	aisle
+	store 47
+	scone 6
+	3
+hyper
+	aisle
+	tenor 172
+	purer 12
+	hyper 1
+	4
+shrub
+	aisle
+	snort 92
+	scrub 5
+	shrub 1
+	4
+track
+	aisle
+	carat 171
+	track 1
+	3
+beady
+	aisle
+	react 96
+	beady 3
+	3
+dusty
+	aisle
+	mushy 16
+	dusty 5
+	3
+scoff
+	aisle
+	snort 92
+	shock 10
+	scoff 2
+	4
+sower
+	aisle
+	steer 49
+	surer 4
+	sower 2
+	4
+usurp
+	aisle
+	snort 92
+	usurp 1
+	3
+butch
+	aisle
+	thorn 196
+	butch 3
+	3
+wrong
+	aisle
+	thorn 196
+	wrong 4
+	3
+ashen
+	aisle
+	ashen 2
+	2
+fecal
+	aisle
+	petal 49
+	regal 7
+	fecal 3
+	4
+maxim
+	aisle
+	train 42
+	maxim 4
+	3
+lurch
+	aisle
+	clump 57
+	lurch 4
+	3
+froze
+	aisle
+	puree 82
+	drove 11
+	froze 4
+	4
+snowy
+	aisle
+	snort 92
+	snowy 2
+	3
+train
+	aisle
+	train 42
+	2
+prism
+	aisle
+	stink 41
+	prism 2
+	3
+gonad
+	aisle
+	carat 171
+	nomad 4
+	gonad 1
+	4
+rabid
+	aisle
+	train 42
+	rabid 4
+	3
+goner
+	aisle
+	tenor 172
+	goner 2
+	3
+yield
+	aisle
+	yield 3
+	2
+quest
+	aisle
+	steer 49
+	quest 3
+	3
+spare
+	aisle
+	stare 30
+	spare 4
+	3
+daddy
+	aisle
+	carat 171
+	dandy 19
+	daddy 1
+	4
+grain
+	aisle
+	train 42
+	brain 3
+	grain 2
+	4
+loyal
+	aisle
+	carol 67
+	tonal 6
+	loyal 2
+	4
+tulip
+	aisle
+	cling 30
+	broil 5
+	tulip 1
+	4
+fault
+	aisle
+	madly 13
+	vault 3
+	fault 1
+	4
+folio
+	aisle
+	cling 30
+	broil 5
+	folio 1
+	4
+gloom
+	aisle
+	clump 57
+	bloom 2
+	gloom 1
+	4
+enter
+	aisle
+	tenor 172
+	enter 1
+	3
+lunch
+	aisle
+	clump 57
+	lurch 4
+	lunch 1
+	4
+steer
+	aisle
+	steer 49
+	2
+hefty
+	aisle
+	tenor 172
+	depth 7
+	hefty 1
+	4
+flare
+	aisle
+	large 22
+	flare 2
+	3
+zonal
+	aisle
+	carol 67
+	tonal 6
+	zonal 1
+	4
+creme
+	aisle
+	puree 82
+	where 5
+	creme 1
+	4
+amaze
+	aisle
+	adage 18
+	aware 4
+	amaze 2
+	4
+stale
+	aisle
+	stale 3
+	2
+pagan
+	aisle
+	carat 171
+	madam 3
+	pagan 2
+	4
+shuck
+	aisle
+	snort 92
+	shuck 2
+	3
+quota
+	aisle
+	carat 171
+	tonga 5
+	quota 1
+	4
+attic
+	aisle
+	admit 18
+	attic 2
+	3
+pixie
+	aisle
+	binge 16
+	pixie 5
+	3
+trade
+	aisle
+	grace 44
+	drake 6
+	trade 1
+	4
+crude
+	aisle
+	puree 82
+	brute 6
+	crude 1
+	4
+affix
+	aisle
+	admit 18
+	affix 2
+	3
+squat
+	aisle
+	trash 73
+	squat 1
+	3
+missy
+	aisle
+	visor 9
+	missy 4
+	3
+shyly
+	aisle
+	sully 7
+	shyly 1
+	3
+revel
+	aisle
+	rebel 59
+	revel 2
+	3
+spill
+	aisle
+	spilt 6
+	spill 1
+	3
+focal
+	aisle
+	carol 67
+	focal 4
+	3
+large
+	aisle
+	large 22
+	2
+deter
+	aisle
+	tenor 172
+	deter 2
+	3
+equal
+	aisle
+	petal 49
+	equal 1
+	3
+salvo
+	aisle
+	slash 23
+	salvo 6
+	3
+gleam
+	aisle
+	petal 49
+	clean 5
+	gleam 2
+	4
+opine
+	aisle
+	trice 38
+	opine 6
+	3
+usual
+	aisle
+	slash 23
+	usual 1
+	3
+visit
+	aisle
+	visor 9
+	visit 1
+	3
+fibre
+	aisle
+	binge 16
+	fibre 1
+	3
+wrote
+	aisle
+	puree 82
+	trove 11
+	wrote 1
+	4
+macaw
+	aisle
+	carat 171
+	macaw 1
+	3
+sepia
+	aisle
+	sepia 1
+	2
+aloof
+	aisle
+	allot 16
+	aloof 1
+	3
+ferry
+	aisle
+	tenor 172
+	merry 10
+	ferry 2
+	4
+amass
+	aisle
+	amass 6
+	2
+caddy
+	aisle
+	carat 171
+	candy 5
+	caddy 1
+	4
+deign
+	aisle
+	fetid 45
+	deign 1
+	3
+swell
+	aisle
+	shell 7
+	swell 3
+	3
+vaunt
+	aisle
+	carat 171
+	gaunt 7
+	vaunt 5
+	4
+civil
+	aisle
+	limit 13
+	civil 2
+	3
+these
+	aisle
+	store 47
+	these 2
+	3
+graft
+	aisle
+	carat 171
+	graft 4
+	3
+arose
+	aisle
+	abuse 4
+	arose 1
+	3
+wring
+	aisle
+	print 86
+	bring 6
+	wring 1
+	4
+jelly
+	aisle
+	hello 12
+	belly 2
+	jelly 1
+	4
+panic
+	aisle
+	train 42
+	mania 3
+	panic 1
+	4
+ninny
+	aisle
+	ditch 62
+	pinky 12
+	ninny 1
+	4
+proud
+	aisle
+	thorn 196
+	droop 15
+	proud 1
+	4
+tried
+	aisle
+	fetid 45
+	tried 1
+	3
+organ
+	aisle
+	carat 171
+	groan 4
+	organ 1
+	4
+handy
+	aisle
+	carat 171
+	dandy 19
+	handy 1
+	4
+macho
+	aisle
+	carat 171
+	macho 5
+	3
+stood
+	aisle
+	snort 92
+	stoop 6
+	stood 1
+	4
+cheek
+	aisle
+	tenor 172
+	cheek 3
+	3
+smile
+	aisle
+	smile 1
+	2
+murky
+	aisle
+	thorn 196
+	crumb 7
+	murky 1
+	4
+cleat
+	aisle
+	petal 49
+	cleat 3
+	3
+bound
+	aisle
+	thorn 196
+	mound 9
+	wound 4
+	bound 3
+	5
+peace
+	aisle
+	grace 44
+	peace 1
+	3
+sandy
+	aisle
+	trash 73
+	sauna 9
+	sandy 1
+	4
+style
+	aisle
+	style 2
+	2
+rajah
+	aisle
+	carat 171
+	rajah 2
+	3
+tonal
+	aisle
+	carol 67
+	tonal 6
+	3
+scary
+	aisle
+	trash 73
+	scary 4
+	3
+whine
+	aisle
+	trice 38
+	opine 6
+	whine 1
+	4
+midst
+	aisle
+	first 11
+	midst 1
+	3
+slick
+	aisle
+	slink 9
+	slick 1
+	3
+gaudy
+	aisle
+	carat 171
+	dandy 19
+	gaudy 2
+	4
+troll
+	aisle
+	dully 28
+	troll 2
+	3
+brawn
+	aisle
+	carat 171
+	brand 22
+	brawn 1
+	4
+latch
+	aisle
+	carol 67
+	latch 1
+	3
+saint
+	aisle
+	stair 9
+	saint 1
+	3
+other
+	aisle
+	tenor 172
+	other 4
+	3
+share
+	aisle
+	stare 30
+	spare 4
+	share 3
+	4
+amble
+	aisle
+	ample 5
+	amble 1
+	3
+civic
+	aisle
+	ditch 62
+	micro 4
+	civic 1
+	4
+treat
+	aisle
+	react 96
+	treat 2
+	3
+award
+	aisle
+	abort 28
+	award 2
+	3
+deuce
+	aisle
+	puree 82
+	deuce 3
+	3
+showy
+	aisle
+	snort 92
+	shock 10
+	showy 1
+	4
+drown
+	aisle
+	thorn 196
+	crown 5
+	grown 4
+	drown 3
+	5
+porch
+	aisle
+	thorn 196
+	porch 4
+	3
+clung
+	aisle
+	clump 57
+	clung 2
+	3
+vowel
+	aisle
+	rebel 59
+	vowel 8
+	3
+witch
+	aisle
+	ditch 62
+	hitch 3
+	witch 2
+	4
+axiom
+	aisle
+	admit 18
+	axiom 1
+	3
+trait
+	aisle
+	train 42
+	trait 1
+	3
+dully
+	aisle
+	dully 28
+	2
+slink
+	aisle
+	slink 9
+	2
+horde
+	aisle
+	puree 82
+	forge 6
+	horde 2
+	4
+suing
+	aisle
+	stink 41
+	suing 4
+	3
+chili
+	aisle
+	guild 16
+	krill 5
+	icily 2
+	chili 1
+	5
+scene
+	aisle
+	store 47
+	scene 3
+	3
+unlit
+	aisle
+	cling 30
+	unlit 2
+	3
+alarm
+	aisle
+	allot 16
+	alarm 3
+	3
+child
+	aisle
+	guild 16
+	child 1
+	3
+crank
+	aisle
+	carat 171
+	crank 7
+	3
+flask
+	aisle
+	slash 23
+	flask 3
+	3
+bough
+	aisle
+	thorn 196
+	vouch 8
+	bough 2
+	4
+daily
+	aisle
+	gaily 3
+	daily 1
+	3
+gully
+	aisle
+	dully 28
+	gully 3
+	3
+tumor
+	aisle
+	thorn 196
+	tumor 3
+	3
+brine
+	aisle
+	trice 38
+	pride 10
+	brine 4
+	4
+decal
+	aisle
+	petal 49
+	regal 7
+	fecal 3
+	decal 1
+	5
+speak
+	aisle
+	steak 16
+	speak 2
+	3
+shrug
+	aisle
+	snort 92
+	scrub 5
+	syrup 2
+	shrug 1
+	5
+bread
+	aisle
+	react 96
+	wager 20
+	bread 6
+	4
+peril
+	aisle
+	peril 11
+	2
+broom
+	aisle
+	thorn 196
+	droop 15
+	broom 4
+	4
+havoc
+	aisle
+	carat 171
+	macho 5
+	havoc 1
+	4
+dwelt
+	aisle
+	hello 12
+	knelt 3
+	dwelt 1
+	4
+court
+	aisle
+	thorn 196
+	court 1
+	3
+tacky
+	aisle
+	carat 171
+	watch 6
+	tacky 1
+	4
+beget
+	aisle
+	tenor 172
+	depth 7
+	beget 1
+	4
+laden
+	aisle
+	petal 49
+	lager 4
+	laden 1
+	4
+snack
+	aisle
+	trash 73
+	snack 8
+	3
+probe
+	aisle
+	puree 82
+	probe 3
+	3
+foamy
+	aisle
+	carat 171
+	foamy 4
+	3
+alibi
+	aisle
+	anvil 5
+	alibi 1
+	3
+gypsy
+	aisle
+	snort 92
+	mucus 3
+	gypsy 1
+	4
+patio
+	aisle
+	train 42
+	habit 2
+	patio 1
+	4
+stuck
+	aisle
+	snort 92
+	stuck 4
+	3
+freak
+	aisle
+	react 96
+	wager 20
+	bread 6
+	freak 1
+	5
+belle
+	aisle
+	bugle 8
+	belle 1
+	3
+aglow
+	aisle
+	allot 16
+	aglow 1
+	3
+spurn
+	aisle
+	snort 92
+	spurn 1
+	3
+total
+	aisle
+	carol 67
+	tonal 6
+	total 1
+	4
+kayak
+	aisle
+	carat 171
+	madam 3
+	pagan 2
+	kayak 1
+	5
+helix
+	aisle
+	peril 11
+	helix 1
+	3
+anode
+	aisle
+	adage 18
+	anode 2
+	3
+tally
+	aisle
+	madly 13
+	tally 3
+	3
+downy
+	aisle
+	thorn 196
+	mound 9
+	downy 1
+	4
+easel
+	aisle
+	easel 1
+	2
+afoot
+	aisle
+	abort 28
+	afoot 2
+	3
+folly
+	aisle
+	dully 28
+	folly 4
+	3
+sappy
+	aisle
+	trash 73
+	sauna 9
+	savoy 3
+	sappy 1
+	5
+trust
+	aisle
+	snort 92
+	trust 4
+	3
+biddy
+	aisle
+	ditch 62
+	giddy 6
+	biddy 1
+	4
+overt
+	aisle
+	tenor 172
+	overt 1
+	3
+scarf
+	aisle
+	trash 73
+	scary 4
+	scarf 1
+	4
+union
+	aisle
+	print 86
+	unify 3
+	union 1
+	4
+throw
+	aisle
+	thorn 196
+	throw 2
+	3
+cyber
+	aisle
+	tenor 172
+	purer 12
+	cyber 3
+	4
+field
+	aisle
+	yield 3
+	field 2
+	3
+learn
+	aisle
+	petal 49
+	leaky 4
+	learn 2
+	4
+toxin
+	aisle
+	print 86
+	tonic 3
+	toxin 1
+	4
+first
+	aisle
+	first 11
+	2
+heart
+	aisle
+	react 96
+	heart 1
+	3
+sound
+	aisle
+	snort 92
+	sound 2
+	3
+occur
+	aisle
+	thorn 196
+	furor 9
+	occur 1
+	4
+parka
+	aisle
+	carat 171
+	karma 2
+	parka 1
+	4
+arena
+	aisle
+	arena 12
+	2
+dwell
+	aisle
+	hello 12
+	dwell 2
+	3
+manly
+	aisle
+	madly 13
+	manly 1
+	3
+state
+	aisle
+	stare 30
+	state 4
+	3
+gawky
+	aisle
+	carat 171
+	dandy 19
+	gawky 5
+	4
+clump
+	aisle
+	clump 57
+	2
+fuzzy
+	aisle
+	thorn 196
+	dumpy 15
+	fuzzy 2
+	4
+corny
+	aisle
+	thorn 196
+	donor 3
+	corny 1
+	4
+score
+	aisle
+	store 47
+	score 5
+	3
+gayer
+	aisle
+	react 96
+	wager 20
+	gayer 3
+	4
+abyss
+	aisle
+	amass 6
+	abyss 1
+	3
+skirt
+	aisle
+	stink 41
+	skirt 1
+	3
+comet
+	aisle
+	tenor 172
+	comet 3
+	3
+belie
+	aisle
+	elide 5
+	belie 1
+	3
+olden
+	aisle
+	rebel 59
+	lumen 4
+	olden 1
+	4
+stick
+	aisle
+	stink 41
+	stick 1
+	3
+flora
+	aisle
+	carol 67
+	polar 3
+	flora 1
+	4
+bleat
+	aisle
+	petal 49
+	cleat 3
+	bleat 1
+	4
+puffy
+	aisle
+	thorn 196
+	dumpy 15
+	puffy 1
+	4
+catch
+	aisle
+	carat 171
+	catch 2
+	3
+seven
+	aisle
+	steer 49
+	seven 2
+	3
+cello
+	aisle
+	hello 12
+	cello 1
+	3
+bosom
+	aisle
+	mushy 16
+	bosom 1
+	3
+pilot
+	aisle
+	limit 13
+	pilot 1
+	3
+depth
+	aisle
+	tenor 172
+	depth 7
+	3
+money
+	aisle
+	tenor 172
+	money 3
+	3
+sprig
+	aisle
+	stink 41
+	sprig 2
+	3
+drain
+	aisle
+	train 42
+	brain 3
+	grain 2
+	drain 1
+	5
+farce
+	aisle
+	grace 44
+	farce 1
+	3
+creed
+	aisle
+	tenor 172
+	greed 9
+	creed 3
+	4
+genie
+	aisle
+	trice 38
+	movie 3
+	genie 1
+	4
+reuse
+	aisle
+	store 47
+	purse 5
+	reuse 1
+	4
+askew
+	aisle
+	ashen 2
+	askew 1
+	3
+droop
+	aisle
+	thorn 196
+	droop 15
+	3
+admit
+	aisle
+	admit 18
+	2
+micro
+	aisle
+	ditch 62
+	micro 4
+	3
+maize
+	aisle
+	naive 6
+	maize 1
+	3
+savoy
+	aisle
+	trash 73
+	sauna 9
+	savoy 3
+	4
+again
+	aisle
+	admit 18
+	affix 2
+	again 1
+	4
+chuck
+	aisle
+	thorn 196
+	chuck 2
+	3
+craze
+	aisle
+	grace 44
+	craze 4
+	3
+cleft
+	aisle
+	rebel 59
+	elect 4
+	cleft 1
+	4
+morph
+	aisle
+	thorn 196
+	porch 4
+	morph 1
+	4
+baggy
+	aisle
+	carat 171
+	dandy 19
+	gawky 5
+	baggy 1
+	5
+genre
+	aisle
+	puree 82
+	where 5
+	genre 1
+	4
+adept
+	aisle
+	arena 12
+	adept 1
+	3
+adopt
+	aisle
+	abort 28
+	afoot 2
+	adopt 1
+	4
+cough
+	aisle
+	thorn 196
+	vouch 8
+	cough 1
+	4
+broad
+	aisle
+	carat 171
+	groan 4
+	broad 1
+	4
+might
+	aisle
+	ditch 62
+	might 6
+	3
+hotel
+	aisle
+	rebel 59
+	vowel 8
+	hotel 3
+	4
+adapt
+	aisle
+	abort 28
+	adapt 1
+	3
+jerky
+	aisle
+	tenor 172
+	merry 10
+	jerky 3
+	4
+sneak
+	aisle
+	steak 16
+	speak 2
+	sneak 1
+	4
+crept
+	aisle
+	tenor 172
+	crept 6
+	3
+raise
+	aisle
+	raise 1
+	2
+fresh
+	aisle
+	steer 49
+	dress 4
+	fresh 1
+	4
+inept
+	aisle
+	fetid 45
+	quiet 4
+	inept 2
+	4
+petty
+	aisle
+	tenor 172
+	depth 7
+	petty 1
+	4
+yeast
+	aisle
+	steak 16
+	feast 3
+	yeast 2
+	4
+event
+	aisle
+	tenor 172
+	event 2
+	3
+drier
+	aisle
+	fetid 45
+	drier 2
+	3
+basis
+	aisle
+	basis 3
+	2
+drill
+	aisle
+	guild 16
+	drill 1
+	3
+favor
+	aisle
+	carat 171
+	rayon 8
+	favor 3
+	4
+brook
+	aisle
+	thorn 196
+	droop 15
+	broom 4
+	brook 1
+	5
+video
+	aisle
+	diner 30
+	video 1
+	3
+flood
+	aisle
+	clump 57
+	flood 7
+	3
+canoe
+	aisle
+	grace 44
+	canoe 2
+	3
+grime
+	aisle
+	trice 38
+	pride 10
+	brine 4
+	grime 1
+	5
+sharp
+	aisle
+	trash 73
+	shark 3
+	sharp 2
+	4
+hovel
+	aisle
+	rebel 59
+	vowel 8
+	hovel 2
+	4
+husky
+	aisle
+	mushy 16
+	husky 2
+	3
+tribe
+	aisle
+	trice 38
+	tribe 3
+	3
+tepid
+	aisle
+	fetid 45
+	tepid 1
+	3
+pique
+	aisle
+	binge 16
+	pixie 5
+	pique 2
+	4
+cheap
+	aisle
+	react 96
+	ocean 4
+	cheap 1
+	4
+chill
+	aisle
+	guild 16
+	krill 5
+	chill 1
+	4
+skier
+	aisle
+	sheik 8
+	skier 1
+	3
+flung
+	aisle
+	clump 57
+	flung 7
+	3
+wryly
+	aisle
+	dully 28
+	wryly 5
+	3
+eagle
+	aisle
+	fable 7
+	maple 3
+	eagle 2
+	4
+evict
+	aisle
+	fetid 45
+	quiet 4
+	evict 1
+	4
+medal
+	aisle
+	petal 49
+	regal 7
+	fecal 3
+	medal 1
+	5
+comfy
+	aisle
+	thorn 196
+	gumbo 9
+	comfy 1
+	4
+oxide
+	aisle
+	trice 38
+	opine 6
+	oxide 1
+	4
+swamp
+	aisle
+	trash 73
+	snack 8
+	swamp 2
+	4
+known
+	aisle
+	thorn 196
+	known 1
+	3
+level
+	aisle
+	rebel 59
+	jewel 2
+	level 1
+	4
+drama
+	aisle
+	carat 171
+	drama 1
+	3
+growl
+	aisle
+	clump 57
+	drool 6
+	growl 1
+	4
+livid
+	aisle
+	limit 13
+	livid 2
+	3
+adult
+	aisle
+	apply 5
+	atoll 2
+	adult 1
+	4
+delve
+	aisle
+	bulge 17
+	delve 2
+	3
+snore
+	aisle
+	store 47
+	score 5
+	snore 4
+	4
+cease
+	aisle
+	stare 30
+	cease 4
+	3
+teddy
+	aisle
+	tenor 172
+	teddy 2
+	3
+filer
+	aisle
+	liner 8
+	filer 1
+	3
+purge
+	aisle
+	puree 82
+	purge 1
+	3
+naive
+	aisle
+	naive 6
+	2
+covet
+	aisle
+	tenor 172
+	comet 3
+	covet 1
+	4
+pedal
+	aisle
+	petal 49
+	pedal 2
+	3
+swoop
+	aisle
+	snort 92
+	shock 10
+	spoof 2
+	swoop 1
+	5
+obese
+	aisle
+	store 47
+	mouse 4
+	obese 1
+	4
+group
+	aisle
+	thorn 196
+	droop 15
+	group 2
+	4
+bench
+	aisle
+	tenor 172
+	bench 3
+	3
+still
+	aisle
+	spilt 6
+	still 1
+	3
+cigar
+	aisle
+	tiara 11
+	cigar 2
+	3
+pansy
+	aisle
+	trash 73
+	pansy 1
+	3
+mouth
+	aisle
+	thorn 196
+	mouth 4
+	3
+lingo
+	aisle
+	limit 13
+	lingo 1
+	3
+annoy
+	aisle
+	abort 28
+	annoy 1
+	3
+brown
+	aisle
+	thorn 196
+	crown 5
+	grown 4
+	drown 3
+	brown 2
+	6
+alien
+	aisle
+	alien 1
+	2
+gusto
+	aisle
+	mushy 16
+	gusto 1
+	3
+sheet
+	aisle
+	steer 49
+	sweet 2
+	sheet 1
+	4
+radar
+	aisle
+	carat 171
+	rajah 2
+	radar 1
+	4
+noisy
+	aisle
+	stink 41
+	noisy 1
+	3
+widow
+	aisle
+	ditch 62
+	giddy 6
+	widow 1
+	4
+nadir
+	aisle
+	train 42
+	nadir 1
+	3
+fetal
+	aisle
+	petal 49
+	fetal 2
+	3
+piety
+	aisle
+	diner 30
+	piety 2
+	3
+furry
+	aisle
+	thorn 196
+	furry 2
+	3
+mason
+	aisle
+	pasty 9
+	mason 1
+	3
+denim
+	aisle
+	fetid 45
+	denim 2
+	3
+river
+	aisle
+	diner 30
+	viper 9
+	giver 2
+	river 1
+	5
+devil
+	aisle
+	peril 11
+	devil 1
+	3
+plier
+	aisle
+	peril 11
+	plier 1
+	3
+shelf
+	aisle
+	shell 7
+	shelf 1
+	3
+briny
+	aisle
+	print 86
+	bring 6
+	briny 2
+	4
+creak
+	aisle
+	react 96
+	creak 3
+	3
+aging
+	aisle
+	admit 18
+	aping 4
+	aging 1
+	4
+boast
+	aisle
+	trash 73
+	coast 2
+	boast 1
+	4
+drive
+	aisle
+	trice 38
+	pride 10
+	drive 1
+	4
+stout
+	aisle
+	snort 92
+	shout 5
+	spout 3
+	stout 2
+	5
+joint
+	aisle
+	print 86
+	joint 1
+	3
+adorn
+	aisle
+	abort 28
+	adorn 3
+	3
+dopey
+	aisle
+	tenor 172
+	epoxy 6
+	dopey 1
+	4
+flyer
+	aisle
+	rebel 59
+	lower 5
+	flyer 2
+	4
+wacky
+	aisle
+	carat 171
+	macho 5
+	wacky 1
+	4
+float
+	aisle
+	carol 67
+	float 6
+	3
+stork
+	aisle
+	snort 92
+	storm 3
+	stork 2
+	4
+faith
+	aisle
+	train 42
+	cacti 2
+	faith 1
+	4
+squad
+	aisle
+	trash 73
+	sauna 9
+	squad 1
+	4
+repel
+	aisle
+	rebel 59
+	revel 2
+	repel 1
+	4
+bulge
+	aisle
+	bulge 17
+	2
+retro
+	aisle
+	tenor 172
+	retro 2
+	3
+theme
+	aisle
+	puree 82
+	hence 7
+	theme 1
+	4
+apple
+	aisle
+	ample 5
+	apple 1
+	3
+voter
+	aisle
+	tenor 172
+	other 4
+	voter 1
+	4
+gloat
+	aisle
+	carol 67
+	float 6
+	gloat 2
+	4
+depot
+	aisle
+	tenor 172
+	depot 2
+	3
+emcee
+	aisle
+	puree 82
+	emcee 1
+	3
+laugh
+	aisle
+	carol 67
+	balmy 4
+	laugh 1
+	4
+mimic
+	aisle
+	ditch 62
+	micro 4
+	mimic 1
+	4
+pooch
+	aisle
+	thorn 196
+	pooch 1
+	3
+stoke
+	aisle
+	store 47
+	stone 3
+	stoke 2
+	4
+gayly
+	aisle
+	madly 13
+	tally 3
+	gayly 1
+	4
+shoal
+	aisle
+	slash 23
+	shoal 1
+	3
+snoop
+	aisle
+	snort 92
+	snowy 2
+	snoop 1
+	4
+valid
+	aisle
+	trail 15
+	valid 1
+	3
+groom
+	aisle
+	thorn 196
+	droop 15
+	broom 4
+	groom 1
+	5
+rowdy
+	aisle
+	thorn 196
+	furor 9
+	rowdy 2
+	4
+mangy
+	aisle
+	carat 171
+	dandy 19
+	nanny 3
+	mangy 1
+	5
+bring
+	aisle
+	print 86
+	bring 6
+	3
+quake
+	aisle
+	grace 44
+	weave 6
+	quake 1
+	4
+shove
+	aisle
+	store 47
+	scone 6
+	smoke 3
+	shove 1
+	5
+taffy
+	aisle
+	carat 171
+	tangy 12
+	tatty 3
+	taffy 2
+	5
+edify
+	aisle
+	fetid 45
+	edify 1
+	3
+sieve
+	aisle
+	singe 5
+	sieve 1
+	3
+slunk
+	aisle
+	slump 20
+	slunk 3
+	3
+omega
+	aisle
+	react 96
+	knead 7
+	omega 1
+	4
+shell
+	aisle
+	shell 7
+	2
+youth
+	aisle
+	thorn 196
+	mouth 4
+	youth 1
+	4
+hotly
+	aisle
+	dully 28
+	wryly 5
+	hotly 2
+	4
+meter
+	aisle
+	tenor 172
+	deter 2
+	meter 1
+	4
+perch
+	aisle
+	tenor 172
+	merry 10
+	perch 1
+	4
+shack
+	aisle
+	trash 73
+	shank 5
+	shack 1
+	4
+decay
+	aisle
+	react 96
+	pecan 2
+	decay 1
+	4
+store
+	aisle
+	store 47
+	2
+bravo
+	aisle
+	carat 171
+	brand 22
+	bravo 1
+	4
+peach
+	aisle
+	react 96
+	peach 2
+	3
+elect
+	aisle
+	rebel 59
+	elegy 3
+	elect 1
+	4
+algae
+	aisle
+	algae 2
+	2
+today
+	aisle
+	carat 171
+	today 2
+	3
+tryst
+	aisle
+	snort 92
+	trust 4
+	tryst 1
+	4
+frail
+	aisle
+	trail 15
+	frail 2
+	3
+flown
+	aisle
+	clump 57
+	flood 7
+	flown 1
+	4
+query
+	aisle
+	tenor 172
+	greed 9
+	query 1
+	4
+close
+	aisle
+	close 6
+	2
+tenor
+	aisle
+	tenor 172
+	2
+kiosk
+	aisle
+	first 11
+	kiosk 2
+	3
+roost
+	aisle
+	snort 92
+	frost 2
+	roost 1
+	4
+beard
+	aisle
+	react 96
+	weary 4
+	beard 2
+	4
+model
+	aisle
+	rebel 59
+	vowel 8
+	hotel 3
+	model 1
+	5
+wooly
+	aisle
+	dully 28
+	wryly 5
+	wooly 1
+	4
+spiel
+	aisle
+	spiel 2
+	2
+agony
+	aisle
+	abort 28
+	agony 2
+	3
+dicey
+	aisle
+	diner 30
+	dicey 1
+	3
+mango
+	aisle
+	carat 171
+	dandy 19
+	banjo 2
+	mango 1
+	5
+broth
+	aisle
+	thorn 196
+	broth 2
+	3
+serum
+	aisle
+	steer 49
+	serum 1
+	3
+clove
+	aisle
+	bulge 17
+	clove 3
+	3
+rusty
+	aisle
+	mushy 16
+	dusty 5
+	rusty 2
+	4
+loath
+	aisle
+	carol 67
+	float 6
+	loath 1
+	4
+blitz
+	aisle
+	cling 30
+	flirt 3
+	blitz 1
+	4
+screw
+	aisle
+	steer 49
+	screw 2
+	3
+prove
+	aisle
+	puree 82
+	probe 3
+	prove 2
+	4
+prude
+	aisle
+	puree 82
+	prude 2
+	3
+undid
+	aisle
+	print 86
+	conic 7
+	undid 1
+	4
+light
+	aisle
+	limit 13
+	light 1
+	3
+token
+	aisle
+	tenor 172
+	token 1
+	3
+sniff
+	aisle
+	stink 41
+	sniff 2
+	3
+pixel
+	aisle
+	liner 8
+	pixel 2
+	3
+smith
+	aisle
+	stink 41
+	shift 4
+	smith 1
+	4
+allot
+	aisle
+	allot 16
+	2
+detox
+	aisle
+	tenor 172
+	depot 2
+	detox 1
+	4
+sperm
+	aisle
+	steer 49
+	sperm 1
+	3
+blame
+	aisle
+	large 22
+	blame 9
+	3
+grade
+	aisle
+	grace 44
+	grade 5
+	3
+buggy
+	aisle
+	thorn 196
+	dumpy 15
+	fuzzy 2
+	buggy 1
+	5
+front
+	aisle
+	thorn 196
+	front 1
+	3
+medic
+	aisle
+	fetid 45
+	denim 2
+	medic 1
+	4
+chock
+	aisle
+	thorn 196
+	chock 2
+	3
+dress
+	aisle
+	steer 49
+	dress 4
+	3
+sumac
+	aisle
+	trash 73
+	sauna 9
+	sumac 1
+	4
+rebar
+	aisle
+	react 96
+	rebar 3
+	3
+titan
+	aisle
+	tiara 11
+	titan 1
+	3
+fully
+	aisle
+	dully 28
+	gully 3
+	fully 2
+	4
+druid
+	aisle
+	print 86
+	druid 1
+	3
+rower
+	aisle
+	tenor 172
+	rower 19
+	3
+watch
+	aisle
+	carat 171
+	watch 6
+	3
+gross
+	aisle
+	snort 92
+	gross 3
+	3
+poppy
+	aisle
+	thorn 196
+	gumbo 9
+	poppy 2
+	4
+feign
+	aisle
+	fetid 45
+	feign 1
+	3
+debit
+	aisle
+	fetid 45
+	debit 1
+	3
+marsh
+	aisle
+	trash 73
+	marsh 2
+	3
+fatty
+	aisle
+	carat 171
+	tangy 12
+	patty 3
+	fatty 2
+	5
+flush
+	aisle
+	slump 20
+	flush 2
+	3
+prune
+	aisle
+	puree 82
+	prude 2
+	prune 1
+	4
+vital
+	aisle
+	vital 6
+	2
+sword
+	aisle
+	snort 92
+	sword 1
+	3
+surge
+	aisle
+	store 47
+	scree 4
+	surge 1
+	4
+erode
+	aisle
+	puree 82
+	where 5
+	erode 1
+	4
+craft
+	aisle
+	carat 171
+	craft 2
+	3
+cumin
+	aisle
+	print 86
+	conic 7
+	cumin 1
+	4
+recap
+	aisle
+	react 96
+	recap 1
+	3
+trump
+	aisle
+	thorn 196
+	trump 2
+	3
+gamer
+	aisle
+	react 96
+	wager 20
+	gayer 3
+	gamer 2
+	5
+crest
+	aisle
+	steer 49
+	crest 2
+	3
+kitty
+	aisle
+	ditch 62
+	kitty 3
+	3
+egret
+	aisle
+	tenor 172
+	crept 6
+	egret 1
+	4
+crump
+	aisle
+	thorn 196
+	crumb 7
+	crump 1
+	4
+ovine
+	aisle
+	trice 38
+	opine 6
+	ovine 1
+	4
+click
+	aisle
+	cling 30
+	click 3
+	3
+sleep
+	aisle
+	slept 8
+	sleep 1
+	3
+inner
+	aisle
+	fetid 45
+	eying 5
+	inner 1
+	4
+furor
+	aisle
+	thorn 196
+	furor 9
+	3
+brash
+	aisle
+	trash 73
+	brash 2
+	3
+tweak
+	aisle
+	react 96
+	taken 5
+	tweak 1
+	4
+judge
+	aisle
+	puree 82
+	nudge 9
+	judge 3
+	4
+spike
+	aisle
+	snipe 16
+	spike 4
+	3
+valve
+	aisle
+	large 22
+	value 3
+	valve 1
+	4
+erase
+	aisle
+	stare 30
+	erase 1
+	3
+about
+	aisle
+	abort 28
+	about 1
+	3
+leapt
+	aisle
+	petal 49
+	leapt 1
+	3
+onion
+	aisle
+	print 86
+	unify 3
+	onion 1
+	4
+basic
+	aisle
+	basis 3
+	basic 2
+	3
+amity
+	aisle
+	admit 18
+	amity 1
+	3
+tibia
+	aisle
+	tiara 11
+	tibia 1
+	3
+basal
+	aisle
+	basal 3
+	2
+rural
+	aisle
+	carol 67
+	rural 2
+	3
+wager
+	aisle
+	react 96
+	wager 20
+	3
+sauna
+	aisle
+	trash 73
+	sauna 9
+	3
+preen
+	aisle
+	tenor 172
+	preen 2
+	3
+whale
+	aisle
+	fable 7
+	whale 1
+	3
+splat
+	aisle
+	slash 23
+	salvo 6
+	splat 1
+	4
+brace
+	aisle
+	grace 44
+	brace 2
+	3
+shrew
+	aisle
+	steer 49
+	screw 2
+	shrew 1
+	4
+paler
+	aisle
+	petal 49
+	paler 1
+	3
+forth
+	aisle
+	thorn 196
+	forth 2
+	3
+debar
+	aisle
+	react 96
+	debar 2
+	3
+blind
+	aisle
+	cling 30
+	blind 3
+	3
+begin
+	aisle
+	fetid 45
+	begin 1
+	3
+cargo
+	aisle
+	carat 171
+	carry 2
+	cargo 1
+	4
+poesy
+	aisle
+	steer 49
+	guess 3
+	poesy 1
+	4
+shiny
+	aisle
+	stink 41
+	suing 4
+	shiny 2
+	4
+noise
+	aisle
+	snipe 16
+	noise 1
+	3
+carat
+	aisle
+	carat 171
+	2
+shone
+	aisle
+	store 47
+	scone 6
+	shone 1
+	4
+guess
+	aisle
+	steer 49
+	guess 3
+	3
+sulky
+	aisle
+	slump 20
+	sulky 1
+	3
+meaty
+	aisle
+	react 96
+	death 3
+	meaty 1
+	4
+rally
+	aisle
+	madly 13
+	tally 3
+	rally 1
+	4
+scrap
+	aisle
+	trash 73
+	scram 6
+	scrap 1
+	4
+stare
+	aisle
+	stare 30
+	2
+round
+	aisle
+	thorn 196
+	donor 3
+	round 1
+	4
+glade
+	aisle
+	large 22
+	glade 2
+	3
+gripe
+	aisle
+	trice 38
+	pride 10
+	gripe 1
+	4
+buddy
+	aisle
+	thorn 196
+	dumpy 15
+	buddy 1
+	4
+super
+	aisle
+	steer 49
+	surer 4
+	super 1
+	4
+terra
+	aisle
+	react 96
+	terra 1
+	3
+sloop
+	aisle
+	slump 20
+	sloop 1
+	3
+chose
+	aisle
+	store 47
+	goose 5
+	chose 2
+	4
+anger
+	aisle
+	arena 12
+	anger 1
+	3
+ombre
+	aisle
+	puree 82
+	trove 11
+	ombre 1
+	4
+tapir
+	aisle
+	train 42
+	tapir 1
+	3
+vista
+	aisle
+	vista 1
+	2
+cling
+	aisle
+	cling 30
+	2
+dirge
+	aisle
+	binge 16
+	ridge 3
+	dirge 1
+	4
+mulch
+	aisle
+	clump 57
+	mulch 1
+	3
+rapid
+	aisle
+	train 42
+	rabid 4
+	rapid 1
+	4
+optic
+	aisle
+	print 86
+	optic 2
+	3
+rouse
+	aisle
+	store 47
+	horse 3
+	rouse 1
+	4
+gravy
+	aisle
+	carat 171
+	brand 22
+	gravy 2
+	4
+tipsy
+	aisle
+	first 11
+	tipsy 1
+	3
+rotor
+	aisle
+	thorn 196
+	motor 4
+	rotor 1
+	4
+duvet
+	aisle
+	tenor 172
+	duvet 3
+	3
+angst
+	aisle
+	amass 6
+	angst 2
+	3
+radii
+	aisle
+	train 42
+	rabid 4
+	radii 2
+	4
+unity
+	aisle
+	print 86
+	unity 1
+	3
+altar
+	aisle
+	allot 16
+	altar 1
+	3
+fling
+	aisle
+	cling 30
+	fling 1
+	3
+corer
+	aisle
+	tenor 172
+	rower 19
+	corer 1
+	4
+lucky
+	aisle
+	clump 57
+	lurch 4
+	lucky 1
+	4
+weave
+	aisle
+	grace 44
+	weave 6
+	3
+hydro
+	aisle
+	thorn 196
+	hydro 1
+	3
+whose
+	aisle
+	store 47
+	goose 5
+	chose 2
+	whose 1
+	5
+dowry
+	aisle
+	thorn 196
+	gourd 3
+	dowry 1
+	4
+ethic
+	aisle
+	fetid 45
+	ethic 2
+	3
+slung
+	aisle
+	slump 20
+	slunk 3
+	slung 1
+	4
+awake
+	aisle
+	adage 18
+	aware 4
+	awake 1
+	4
+inlay
+	aisle
+	trail 15
+	inlay 2
+	3
+relay
+	aisle
+	petal 49
+	relay 3
+	3
+reign
+	aisle
+	fetid 45
+	weigh 4
+	reign 1
+	4
+tract
+	aisle
+	carat 171
+	tract 1
+	3
+drone
+	aisle
+	puree 82
+	trove 11
+	drone 4
+	4
+prime
+	aisle
+	trice 38
+	pride 10
+	prime 2
+	4
+heavy
+	aisle
+	react 96
+	beady 3
+	heavy 1
+	4
+spicy
+	aisle
+	stink 41
+	swish 2
+	spicy 1
+	4
+radio
+	aisle
+	train 42
+	rabid 4
+	radii 2
+	radio 1
+	5
+idiot
+	aisle
+	print 86
+	idiot 2
+	3
+smoke
+	aisle
+	store 47
+	scone 6
+	smoke 3
+	4
+charm
+	aisle
+	carat 171
+	crank 7
+	charm 2
+	4
+quasi
+	aisle
+	stair 9
+	quasi 1
+	3
+grant
+	aisle
+	carat 171
+	graft 4
+	grant 1
+	4
+worth
+	aisle
+	thorn 196
+	forth 2
+	worth 1
+	4
+gruff
+	aisle
+	thorn 196
+	crumb 7
+	gruff 1
+	4
+fatal
+	aisle
+	carol 67
+	natal 5
+	fatal 1
+	4
+dirty
+	aisle
+	ditch 62
+	dirty 2
+	3
+snake
+	aisle
+	stare 30
+	shape 9
+	snake 2
+	4
+torch
+	aisle
+	thorn 196
+	torch 1
+	3
+prose
+	aisle
+	store 47
+	prose 1
+	3
+frank
+	aisle
+	carat 171
+	brand 22
+	frank 2
+	4
+taboo
+	aisle
+	carat 171
+	tangy 12
+	taboo 1
+	4
+roach
+	aisle
+	carat 171
+	roach 2
+	3
+cloak
+	aisle
+	carol 67
+	cloak 1
+	3
+jumbo
+	aisle
+	thorn 196
+	gumbo 9
+	jumbo 1
+	4
+rebel
+	aisle
+	rebel 59
+	2
+album
+	aisle
+	allot 16
+	alarm 3
+	album 1
+	4
+femme
+	aisle
+	puree 82
+	hence 7
+	wedge 2
+	femme 1
+	5
+amuse
+	aisle
+	abuse 4
+	amuse 1
+	3
+gazer
+	aisle
+	react 96
+	wager 20
+	gayer 3
+	gamer 2
+	gazer 1
+	6
+notch
+	aisle
+	thorn 196
+	month 2
+	notch 1
+	4
+teeth
+	aisle
+	tenor 172
+	teddy 2
+	teeth 1
+	4
+wrung
+	aisle
+	thorn 196
+	wrung 2
+	3
+legal
+	aisle
+	petal 49
+	regal 7
+	legal 1
+	4
+waist
+	aisle
+	stair 9
+	waist 1
+	3
+fence
+	aisle
+	puree 82
+	hence 7
+	fence 1
+	4
+strip
+	aisle
+	stink 41
+	strip 2
+	3
+plead
+	aisle
+	petal 49
+	plead 1
+	3
+idiom
+	aisle
+	print 86
+	chick 6
+	idiom 1
+	4
+guest
+	aisle
+	steer 49
+	quest 3
+	guest 1
+	4
+limbo
+	aisle
+	limit 13
+	limbo 1
+	3
+slept
+	aisle
+	slept 8
+	2
+moist
+	aisle
+	stink 41
+	foist 6
+	moist 3
+	4
+crazy
+	aisle
+	carat 171
+	crank 7
+	crazy 2
+	4
+rumba
+	aisle
+	carat 171
+	brand 22
+	umbra 2
+	rumba 1
+	5
+amply
+	aisle
+	amply 5
+	2
+twice
+	aisle
+	trice 38
+	twice 1
+	3
+forge
+	aisle
+	puree 82
+	forge 6
+	3
+noble
+	aisle
+	bugle 8
+	noble 1
+	3
+loamy
+	aisle
+	carol 67
+	float 6
+	loamy 2
+	4
+ought
+	aisle
+	thorn 196
+	mouth 4
+	ought 1
+	4
+angel
+	aisle
+	alley 5
+	angel 1
+	3
+vocal
+	aisle
+	carol 67
+	focal 4
+	vocal 2
+	4
+brood
+	aisle
+	thorn 196
+	droop 15
+	brood 1
+	4
+lupus
+	aisle
+	slump 20
+	lupus 1
+	3
+jolly
+	aisle
+	dully 28
+	folly 4
+	jolly 3
+	4
+otter
+	aisle
+	tenor 172
+	other 4
+	otter 1
+	4
+lever
+	aisle
+	rebel 59
+	lever 2
+	3
+wordy
+	aisle
+	thorn 196
+	furor 9
+	wordy 1
+	4
+satin
+	aisle
+	stair 9
+	satin 1
+	3
+lousy
+	aisle
+	slump 20
+	lousy 1
+	3
+gland
+	aisle
+	carol 67
+	plank 10
+	bland 2
+	gland 1
+	5
+ninja
+	aisle
+	tiara 11
+	ninja 2
+	3
+udder
+	aisle
+	tenor 172
+	purer 12
+	udder 1
+	4
+hippo
+	aisle
+	ditch 62
+	hippo 2
+	3
+cobra
+	aisle
+	carat 171
+	crank 7
+	cobra 1
+	4
+opera
+	aisle
+	react 96
+	wager 20
+	bread 6
+	opera 1
+	5
+swear
+	aisle
+	steak 16
+	shear 4
+	swear 3
+	4
+shirk
+	aisle
+	stink 41
+	shirk 2
+	3
+chord
+	aisle
+	thorn 196
+	chord 1
+	3
+slash
+	aisle
+	slash 23
+	2
+guppy
+	aisle
+	thorn 196
+	dumpy 15
+	guppy 2
+	4
+thong
+	aisle
+	thorn 196
+	thong 1
+	3
+canny
+	aisle
+	carat 171
+	candy 5
+	canny 1
+	4
+guild
+	aisle
+	guild 16
+	2
+kebab
+	aisle
+	react 96
+	kebab 3
+	3
+metal
+	aisle
+	petal 49
+	fetal 2
+	metal 1
+	4
+viper
+	aisle
+	diner 30
+	viper 9
+	3
+urine
+	aisle
+	trice 38
+	pride 10
+	brine 4
+	urine 1
+	5
+dream
+	aisle
+	react 96
+	wager 20
+	bread 6
+	dream 1
+	5
+ethos
+	aisle
+	steer 49
+	ethos 1
+	3
+islet
+	aisle
+	spiel 2
+	islet 1
+	3
+snort
+	aisle
+	snort 92
+	2
+silly
+	aisle
+	silly 1
+	2
+lemon
+	aisle
+	rebel 59
+	felon 6
+	lemon 1
+	4
+spook
+	aisle
+	snort 92
+	shock 10
+	spook 1
+	4
+never
+	aisle
+	tenor 172
+	never 2
+	3
+parer
+	aisle
+	react 96
+	wager 20
+	parer 5
+	4
+night
+	aisle
+	ditch 62
+	might 6
+	night 5
+	4
+pupal
+	aisle
+	carol 67
+	pupal 2
+	3
+index
+	aisle
+	fetid 45
+	drier 2
+	index 1
+	4
+spool
+	aisle
+	slump 20
+	spool 1
+	3
+ditto
+	aisle
+	ditch 62
+	ditto 2
+	3
+ovary
+	aisle
+	carat 171
+	brand 22
+	ovary 3
+	4
+couch
+	aisle
+	thorn 196
+	vouch 8
+	pouch 2
+	couch 1
+	5
+topaz
+	aisle
+	carat 171
+	today 2
+	topaz 1
+	4
+valor
+	aisle
+	carol 67
+	valor 2
+	3
+silky
+	aisle
+	silky 1
+	2
+smirk
+	aisle
+	stink 41
+	shirk 2
+	smirk 1
+	4
+homer
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	homer 1
+	5
+stave
+	aisle
+	stare 30
+	state 4
+	stave 3
+	4
+awful
+	aisle
+	allot 16
+	awful 2
+	3
+cream
+	aisle
+	react 96
+	creak 3
+	cream 1
+	4
+leper
+	aisle
+	rebel 59
+	lever 2
+	leper 1
+	4
+paddy
+	aisle
+	carat 171
+	dandy 19
+	paddy 1
+	4
+twang
+	aisle
+	carat 171
+	tonga 5
+	twang 1
+	4
+ennui
+	aisle
+	fetid 45
+	eying 5
+	ennui 1
+	4
+bagel
+	aisle
+	petal 49
+	bagel 6
+	3
+grass
+	aisle
+	trash 73
+	grasp 4
+	grass 1
+	4
+booze
+	aisle
+	puree 82
+	ozone 6
+	booze 1
+	4
+roger
+	aisle
+	tenor 172
+	rower 19
+	roger 2
+	4
+drove
+	aisle
+	puree 82
+	trove 11
+	drove 2
+	4
+parse
+	aisle
+	stare 30
+	parse 1
+	3
+pulpy
+	aisle
+	clump 57
+	pulpy 1
+	3
+swoon
+	aisle
+	snort 92
+	shown 3
+	swoon 1
+	4
+waste
+	aisle
+	caste 7
+	taste 5
+	waste 4
+	4
+zebra
+	aisle
+	react 96
+	debar 2
+	zebra 1
+	4
+aloft
+	aisle
+	allot 16
+	aloft 1
+	3
+incur
+	aisle
+	print 86
+	incur 2
+	3
+sight
+	aisle
+	first 11
+	sight 1
+	3
+chide
+	aisle
+	trice 38
+	chide 2
+	3
+scoop
+	aisle
+	snort 92
+	shock 10
+	scoff 2
+	scoop 1
+	5
+panel
+	aisle
+	petal 49
+	panel 1
+	3
+crimp
+	aisle
+	print 86
+	crimp 1
+	3
+vapor
+	aisle
+	carat 171
+	rayon 8
+	favor 3
+	vapor 1
+	5
+froth
+	aisle
+	thorn 196
+	broth 2
+	froth 1
+	4
+caper
+	aisle
+	react 96
+	creak 3
+	caper 1
+	4
+endow
+	aisle
+	tenor 172
+	enjoy 3
+	endow 1
+	4
+torus
+	aisle
+	snort 92
+	torus 2
+	3
+humid
+	aisle
+	print 86
+	humid 4
+	3
+semen
+	aisle
+	steer 49
+	seven 2
+	semen 1
+	4
+fifth
+	aisle
+	ditch 62
+	mirth 5
+	fifth 2
+	4
+goose
+	aisle
+	store 47
+	goose 5
+	3
+venue
+	aisle
+	puree 82
+	deuce 3
+	venue 1
+	4
+robin
+	aisle
+	print 86
+	incur 2
+	robin 1
+	4
+knack
+	aisle
+	carat 171
+	whack 4
+	knack 2
+	4
+waver
+	aisle
+	react 96
+	wager 20
+	waver 2
+	4
+paper
+	aisle
+	react 96
+	wager 20
+	parer 5
+	paper 2
+	5
+grunt
+	aisle
+	thorn 196
+	grunt 3
+	3
+acute
+	aisle
+	adage 18
+	atone 5
+	acute 1
+	4
+piper
+	aisle
+	diner 30
+	viper 9
+	riper 2
+	piper 1
+	5
+birth
+	aisle
+	ditch 62
+	mirth 5
+	birth 2
+	4
+butte
+	aisle
+	puree 82
+	nudge 9
+	quote 2
+	butte 1
+	5
+goofy
+	aisle
+	thorn 196
+	goody 7
+	goofy 1
+	4
+asset
+	aisle
+	asset 1
+	2
+infer
+	aisle
+	fetid 45
+	grief 4
+	infer 1
+	4
+braid
+	aisle
+	train 42
+	braid 1
+	3
+shaky
+	aisle
+	trash 73
+	shank 5
+	shaky 1
+	4
+shire
+	aisle
+	snipe 16
+	smite 4
+	shire 2
+	4
+hilly
+	aisle
+	dilly 7
+	billy 4
+	hilly 3
+	4
+slang
+	aisle
+	slash 23
+	slant 3
+	slang 1
+	4
+amend
+	aisle
+	arena 12
+	amend 2
+	3
+moldy
+	aisle
+	clump 57
+	moldy 1
+	3
+stash
+	aisle
+	trash 73
+	stash 1
+	3
+final
+	aisle
+	vital 6
+	final 1
+	3
+death
+	aisle
+	react 96
+	death 3
+	3
+whisk
+	aisle
+	stink 41
+	brisk 3
+	whisk 1
+	4
+woozy
+	aisle
+	thorn 196
+	goody 7
+	boozy 3
+	woozy 1
+	5
+halve
+	aisle
+	large 22
+	value 3
+	halve 1
+	4
+elder
+	aisle
+	rebel 59
+	elder 1
+	3
+paste
+	aisle
+	caste 7
+	taste 5
+	waste 4
+	paste 3
+	5
+title
+	aisle
+	title 3
+	2
+pizza
+	aisle
+	tiara 11
+	ninja 2
+	pizza 1
+	4
+dandy
+	aisle
+	carat 171
+	dandy 19
+	3
+grape
+	aisle
+	grace 44
+	grade 5
+	grape 4
+	4
+bayou
+	aisle
+	carat 171
+	dandy 19
+	bayou 1
+	4
+mouse
+	aisle
+	store 47
+	mouse 4
+	3
+plait
+	aisle
+	trail 15
+	plait 1
+	3
+owner
+	aisle
+	tenor 172
+	goner 2
+	owner 1
+	4
+abbot
+	aisle
+	abort 28
+	abbot 1
+	3
+crier
+	aisle
+	fetid 45
+	eying 5
+	crier 1
+	4
+order
+	aisle
+	tenor 172
+	rower 19
+	order 1
+	4
+munch
+	aisle
+	thorn 196
+	nymph 6
+	munch 1
+	4
+sling
+	aisle
+	slink 9
+	sling 1
+	3
+satyr
+	aisle
+	trash 73
+	satyr 4
+	3
+stunk
+	aisle
+	snort 92
+	stung 2
+	stunk 1
+	4
+hasty
+	aisle
+	pasty 9
+	nasty 3
+	hasty 2
+	4
+flair
+	aisle
+	trail 15
+	flair 1
+	3
+mower
+	aisle
+	tenor 172
+	rower 19
+	power 3
+	mower 2
+	5
+virus
+	aisle
+	first 11
+	virus 1
+	3
+apron
+	aisle
+	abort 28
+	ardor 4
+	apron 1
+	4
+drawl
+	aisle
+	carol 67
+	trawl 3
+	drawl 2
+	4
+queue
+	aisle
+	puree 82
+	queue 1
+	3
+heath
+	aisle
+	react 96
+	death 3
+	heath 1
+	4
+brisk
+	aisle
+	stink 41
+	brisk 3
+	3
+skull
+	aisle
+	sully 7
+	skull 1
+	3
+llama
+	aisle
+	carol 67
+	plank 10
+	llama 1
+	4
+bobby
+	aisle
+	thorn 196
+	gumbo 9
+	bobby 1
+	4
+shave
+	aisle
+	stare 30
+	shape 9
+	shave 4
+	4
+mucky
+	aisle
+	thorn 196
+	dumpy 15
+	mucky 1
+	4
+penne
+	aisle
+	puree 82
+	penne 2
+	3
+augur
+	aisle
+	abort 28
+	augur 2
+	3
+fussy
+	aisle
+	mushy 16
+	dusty 5
+	fussy 1
+	4
+cruel
+	aisle
+	rebel 59
+	cruel 2
+	3
+willy
+	aisle
+	dilly 7
+	billy 4
+	hilly 3
+	willy 2
+	5
+claim
+	aisle
+	trail 15
+	plain 3
+	claim 1
+	4
+nasal
+	aisle
+	basal 3
+	nasal 1
+	3
+lumpy
+	aisle
+	clump 57
+	lumpy 1
+	3
+basin
+	aisle
+	basis 3
+	basic 2
+	basin 1
+	4
+spasm
+	aisle
+	trash 73
+	spasm 1
+	3
+agora
+	aisle
+	abort 28
+	adorn 3
+	agora 1
+	4
+stain
+	aisle
+	stair 9
+	stain 2
+	3
+sleet
+	aisle
+	slept 8
+	sleet 1
+	3
+teary
+	aisle
+	react 96
+	teary 1
+	3
+prior
+	aisle
+	print 86
+	prior 4
+	3
+dunce
+	aisle
+	puree 82
+	nudge 9
+	dunce 1
+	4
+intro
+	aisle
+	print 86
+	intro 1
+	3
+nudge
+	aisle
+	puree 82
+	budge 9
+	judge 3
+	nudge 2
+	5
+freer
+	aisle
+	tenor 172
+	purer 12
+	freer 2
+	4
+hyena
+	aisle
+	react 96
+	knead 7
+	hyena 1
+	4
+honor
+	aisle
+	thorn 196
+	horny 2
+	honor 1
+	4
+inbox
+	aisle
+	print 86
+	conic 7
+	inbox 1
+	4
+tense
+	aisle
+	store 47
+	these 2
+	tense 1
+	4
+truck
+	aisle
+	thorn 196
+	trump 2
+	truck 1
+	4
+cacao
+	aisle
+	carat 171
+	cacao 1
+	3
+slurp
+	aisle
+	slump 20
+	slurp 1
+	3
+alive
+	aisle
+	alive 2
+	2
+haven
+	aisle
+	react 96
+	knead 7
+	haven 2
+	4
+tasty
+	aisle
+	pasty 9
+	nasty 3
+	hasty 2
+	tasty 1
+	5
+worst
+	aisle
+	snort 92
+	worst 1
+	3
+renal
+	aisle
+	petal 49
+	regal 7
+	renal 1
+	4
+flout
+	aisle
+	clump 57
+	flout 2
+	3
+gummy
+	aisle
+	thorn 196
+	dumpy 15
+	gummy 2
+	4
+spire
+	aisle
+	snipe 16
+	spike 4
+	spire 3
+	4
+spoil
+	aisle
+	slink 9
+	spoil 3
+	3
+leggy
+	aisle
+	rebel 59
+	felon 6
+	leggy 1
+	4
+golem
+	aisle
+	rebel 59
+	lumen 4
+	golem 1
+	4
+baler
+	aisle
+	petal 49
+	lager 4
+	baler 1
+	4
+loopy
+	aisle
+	clump 57
+	loopy 2
+	3
+quart
+	aisle
+	carat 171
+	graft 4
+	quart 1
+	4
+untie
+	aisle
+	trice 38
+	untie 1
+	3
+lynch
+	aisle
+	clump 57
+	lynch 1
+	3
+aunty
+	aisle
+	abort 28
+	aunty 1
+	3
+hurry
+	aisle
+	thorn 196
+	myrrh 2
+	hurry 1
+	4
+oaken
+	aisle
+	react 96
+	knead 7
+	oaken 1
+	4
+saute
+	aisle
+	stare 30
+	saute 1
+	3
+shore
+	aisle
+	store 47
+	score 5
+	snore 4
+	shore 3
+	5
+trice
+	aisle
+	trice 38
+	2
+straw
+	aisle
+	trash 73
+	satyr 4
+	straw 2
+	4
+warty
+	aisle
+	carat 171
+	party 3
+	warty 1
+	4
+mogul
+	aisle
+	clump 57
+	mogul 1
+	3
+comma
+	aisle
+	carat 171
+	comma 5
+	3
+stray
+	aisle
+	trash 73
+	satyr 4
+	stray 1
+	4
+junto
+	aisle
+	thorn 196
+	count 4
+	junto 1
+	4
+mummy
+	aisle
+	thorn 196
+	dumpy 15
+	gummy 2
+	mummy 1
+	5
+scrum
+	aisle
+	snort 92
+	scrub 5
+	scrum 1
+	4
+sissy
+	aisle
+	visor 9
+	missy 4
+	sissy 1
+	4
+tenet
+	aisle
+	tenor 172
+	tenet 2
+	3
+cavil
+	aisle
+	trail 15
+	cavil 1
+	3
+dairy
+	aisle
+	train 42
+	hairy 4
+	dairy 2
+	4
+bawdy
+	aisle
+	carat 171
+	dandy 19
+	gaudy 2
+	bawdy 1
+	5
+shine
+	aisle
+	snipe 16
+	swine 2
+	shine 1
+	4
+blink
+	aisle
+	cling 30
+	blind 3
+	blink 1
+	4
+flunk
+	aisle
+	clump 57
+	flung 7
+	flunk 1
+	4
+pulse
+	aisle
+	close 6
+	pulse 1
+	3
+hussy
+	aisle
+	mushy 16
+	husky 2
+	hussy 1
+	4
+wrack
+	aisle
+	carat 171
+	roach 2
+	wrack 1
+	4
+tooth
+	aisle
+	thorn 196
+	tooth 1
+	3
+began
+	aisle
+	react 96
+	kebab 3
+	began 1
+	4
+refer
+	aisle
+	tenor 172
+	defer 7
+	refer 1
+	4
+debut
+	aisle
+	tenor 172
+	depth 7
+	debut 1
+	4
+serve
+	aisle
+	store 47
+	scree 4
+	serve 1
+	4
+carve
+	aisle
+	grace 44
+	carve 1
+	3
+leave
+	aisle
+	large 22
+	leave 1
+	3
+wrist
+	aisle
+	stink 41
+	foist 6
+	wrist 2
+	4
+often
+	aisle
+	tenor 172
+	often 1
+	3
+borax
+	aisle
+	carat 171
+	borax 2
+	3
+ultra
+	aisle
+	carol 67
+	ultra 2
+	3
+leant
+	aisle
+	petal 49
+	leant 2
+	3
+pried
+	aisle
+	fetid 45
+	pried 3
+	3
+comic
+	aisle
+	print 86
+	humid 4
+	comic 1
+	4
+media
+	aisle
+	media 1
+	2
+blimp
+	aisle
+	cling 30
+	flirt 3
+	blimp 1
+	4
+layer
+	aisle
+	petal 49
+	lager 4
+	layer 1
+	4
+anvil
+	aisle
+	anvil 5
+	2
+prank
+	aisle
+	carat 171
+	brand 22
+	frank 2
+	prank 1
+	5
+enact
+	aisle
+	react 96
+	enact 2
+	3
+brink
+	aisle
+	print 86
+	bring 6
+	briny 2
+	brink 1
+	5
+jiffy
+	aisle
+	ditch 62
+	pinky 12
+	fizzy 2
+	jiffy 1
+	5
+naval
+	aisle
+	carol 67
+	natal 5
+	naval 1
+	4
+dealt
+	aisle
+	mealy 6
+	dealt 1
+	3
+chick
+	aisle
+	print 86
+	chick 6
+	3
+exact
+	aisle
+	react 96
+	enact 2
+	exact 1
+	4
+rival
+	aisle
+	vital 6
+	rival 1
+	3
+cried
+	aisle
+	fetid 45
+	pried 3
+	cried 2
+	4
+betel
+	aisle
+	rebel 59
+	bevel 3
+	betel 2
+	4
+stomp
+	aisle
+	snort 92
+	stoop 6
+	stomp 1
+	4
+sushi
+	aisle
+	posit 3
+	sushi 1
+	3
+prowl
+	aisle
+	clump 57
+	loopy 2
+	prowl 1
+	4
+curio
+	aisle
+	print 86
+	ivory 3
+	curio 1
+	4
+vodka
+	aisle
+	carat 171
+	foamy 4
+	vodka 1
+	4
+droll
+	aisle
+	dully 28
+	droll 1
+	3
+guide
+	aisle
+	trice 38
+	opine 6
+	guide 1
+	4
+patsy
+	aisle
+	trash 73
+	patsy 1
+	3
+guava
+	aisle
+	carat 171
+	manga 7
+	guava 1
+	4
+bloat
+	aisle
+	carol 67
+	float 6
+	gloat 2
+	bloat 1
+	5
+igloo
+	aisle
+	cling 30
+	igloo 1
+	3
+bribe
+	aisle
+	trice 38
+	pride 10
+	brine 4
+	bribe 1
+	5
+crane
+	aisle
+	grace 44
+	craze 4
+	crane 3
+	4
+croup
+	aisle
+	thorn 196
+	droop 15
+	group 2
+	croup 1
+	5
+nylon
+	aisle
+	clump 57
+	drool 6
+	nylon 1
+	4
+right
+	aisle
+	ditch 62
+	might 6
+	night 5
+	right 4
+	5
+gamut
+	aisle
+	carat 171
+	gaunt 7
+	gamut 1
+	4
+meant
+	aisle
+	react 96
+	meant 1
+	3
+venom
+	aisle
+	tenor 172
+	venom 1
+	3
+drunk
+	aisle
+	thorn 196
+	wrung 2
+	drunk 1
+	4
+giant
+	aisle
+	tiara 11
+	giant 1
+	3
+agile
+	aisle
+	agile 1
+	2
+truly
+	aisle
+	dully 28
+	truly 1
+	3
+whiny
+	aisle
+	print 86
+	doing 7
+	whiny 1
+	4
+blare
+	aisle
+	large 22
+	flare 2
+	blare 1
+	4
+swift
+	aisle
+	stink 41
+	shift 4
+	swift 1
+	4
+theft
+	aisle
+	tenor 172
+	tweet 3
+	theft 1
+	4
+hoist
+	aisle
+	stink 41
+	foist 6
+	moist 3
+	hoist 2
+	5
+tiara
+	aisle
+	tiara 11
+	2
+crock
+	aisle
+	thorn 196
+	droop 15
+	crock 2
+	4
+ovate
+	aisle
+	grace 44
+	weave 6
+	ovate 1
+	4
+exist
+	aisle
+	sheik 8
+	exist 1
+	3
+teach
+	aisle
+	react 96
+	teach 1
+	3
+scorn
+	aisle
+	snort 92
+	shorn 3
+	scorn 2
+	4
+smear
+	aisle
+	steak 16
+	shear 4
+	swear 3
+	smear 2
+	5
+vixen
+	aisle
+	diner 30
+	vixen 2
+	3
+foray
+	aisle
+	carat 171
+	borax 2
+	foray 1
+	4
+lymph
+	aisle
+	clump 57
+	lymph 1
+	3
+merry
+	aisle
+	tenor 172
+	merry 10
+	3
+revue
+	aisle
+	puree 82
+	revue 1
+	3
+major
+	aisle
+	carat 171
+	rayon 8
+	favor 3
+	major 1
+	5
+opium
+	aisle
+	print 86
+	opium 1
+	3
+wince
+	aisle
+	binge 16
+	wince 2
+	3
+wheel
+	aisle
+	rebel 59
+	excel 4
+	kneel 2
+	wheel 1
+	5
+burnt
+	aisle
+	thorn 196
+	grunt 3
+	burnt 1
+	4
+cabin
+	aisle
+	train 42
+	cabin 1
+	3
+label
+	aisle
+	petal 49
+	bagel 6
+	label 1
+	4
+fugue
+	aisle
+	puree 82
+	nudge 9
+	fugue 1
+	4
+magic
+	aisle
+	train 42
+	maxim 4
+	magic 2
+	4
+lance
+	aisle
+	large 22
+	lathe 3
+	lance 1
+	4
+ozone
+	aisle
+	puree 82
+	ozone 6
+	3
+manor
+	aisle
+	carat 171
+	rayon 8
+	manor 1
+	4
+marry
+	aisle
+	carat 171
+	harpy 6
+	marry 1
+	4
+tower
+	aisle
+	tenor 172
+	tower 1
+	3
+ledge
+	aisle
+	globe 17
+	ledge 2
+	3
+swirl
+	aisle
+	slink 9
+	swirl 1
+	3
+prawn
+	aisle
+	carat 171
+	brand 22
+	prawn 1
+	4
+kneed
+	aisle
+	tenor 172
+	unfed 6
+	kneed 1
+	4
+flier
+	aisle
+	peril 11
+	flier 2
+	3
+cache
+	aisle
+	grace 44
+	canoe 2
+	cache 1
+	4
+bilge
+	aisle
+	liege 4
+	bilge 1
+	3
+plaza
+	aisle
+	carol 67
+	plank 10
+	plaza 1
+	4
+tough
+	aisle
+	thorn 196
+	touch 2
+	tough 1
+	4
+crime
+	aisle
+	trice 38
+	crime 1
+	3
+elite
+	aisle
+	elide 5
+	elite 1
+	3
+safer
+	aisle
+	steak 16
+	safer 2
+	3
+sleek
+	aisle
+	slept 8
+	sleek 1
+	3
+filth
+	aisle
+	limit 13
+	filth 1
+	3
+rearm
+	aisle
+	react 96
+	ready 2
+	rearm 1
+	4
+clock
+	aisle
+	clump 57
+	clock 3
+	3
+rogue
+	aisle
+	puree 82
+	truce 6
+	rogue 1
+	4
+plate
+	aisle
+	large 22
+	plate 9
+	3
+synod
+	aisle
+	snort 92
+	sound 2
+	synod 1
+	4
+waxen
+	aisle
+	react 96
+	knead 7
+	haven 2
+	waxen 1
+	5
+clean
+	aisle
+	petal 49
+	clean 5
+	3
+forum
+	aisle
+	thorn 196
+	furor 9
+	forum 1
+	4
+humus
+	aisle
+	snort 92
+	mucus 3
+	humus 1
+	4
+skill
+	aisle
+	spilt 6
+	skill 2
+	3
+mince
+	aisle
+	binge 16
+	wince 2
+	mince 1
+	4
+sooty
+	aisle
+	snort 92
+	stoop 6
+	sooty 2
+	4
+dryer
+	aisle
+	tenor 172
+	purer 12
+	freer 2
+	dryer 1
+	5
+spice
+	aisle
+	snipe 16
+	spike 4
+	spire 3
+	spice 2
+	5
+entry
+	aisle
+	tenor 172
+	entry 1
+	3
+colon
+	aisle
+	clump 57
+	colon 2
+	3
+ankle
+	aisle
+	ample 5
+	angle 2
+	ankle 1
+	4
+drake
+	aisle
+	grace 44
+	drake 6
+	3
+bezel
+	aisle
+	rebel 59
+	bevel 3
+	betel 2
+	bezel 1
+	5
+chalk
+	aisle
+	madly 13
+	chalk 2
+	3
+clerk
+	aisle
+	rebel 59
+	clerk 1
+	3
+cower
+	aisle
+	tenor 172
+	rower 19
+	power 3
+	mower 2
+	cower 1
+	6
+sheik
+	aisle
+	sheik 8
+	2
+tying
+	aisle
+	print 86
+	thing 3
+	tying 1
+	4
+plied
+	aisle
+	peril 11
+	plied 1
+	3
+inlet
+	aisle
+	peril 11
+	inlet 1
+	3
+flesh
+	aisle
+	slept 8
+	flesh 2
+	3
+newer
+	aisle
+	tenor 172
+	never 2
+	newer 1
+	4
+modem
+	aisle
+	tenor 172
+	epoxy 6
+	modem 1
+	4
+doing
+	aisle
+	print 86
+	doing 7
+	3
+elope
+	aisle
+	bulge 17
+	clove 3
+	elope 1
+	4
+blurt
+	aisle
+	clump 57
+	flung 7
+	blurt 2
+	4
+rouge
+	aisle
+	puree 82
+	brute 6
+	rouge 1
+	4
+which
+	aisle
+	print 86
+	chick 6
+	which 1
+	4
+tiger
+	aisle
+	diner 30
+	viper 9
+	tiger 4
+	4
+tabby
+	aisle
+	carat 171
+	tangy 12
+	tatty 3
+	taffy 2
+	tabby 1
+	6
+split
+	aisle
+	slink 9
+	spoil 3
+	split 1
+	4
+stony
+	aisle
+	snort 92
+	stony 1
+	3
+white
+	aisle
+	trice 38
+	quite 3
+	white 1
+	4
+scour
+	aisle
+	snort 92
+	scour 1
+	3
+swept
+	aisle
+	steer 49
+	spent 3
+	swept 1
+	4
+harsh
+	aisle
+	trash 73
+	marsh 2
+	harsh 1
+	4
+south
+	aisle
+	snort 92
+	south 1
+	3
+maker
+	aisle
+	react 96
+	wager 20
+	parer 5
+	maker 2
+	5
+evade
+	aisle
+	grace 44
+	weave 6
+	evade 1
+	4
+savor
+	aisle
+	trash 73
+	scram 6
+	savor 1
+	4
+brake
+	aisle
+	grace 44
+	drake 6
+	brake 1
+	4
+facet
+	aisle
+	react 96
+	cadet 3
+	facet 1
+	4
+pluck
+	aisle
+	clump 57
+	pluck 1
+	3
+sheen
+	aisle
+	steer 49
+	sweep 4
+	sheen 1
+	4
+bicep
+	aisle
+	diner 30
+	bicep 1
+	3
+agate
+	aisle
+	adage 18
+	agate 2
+	3
+sassy
+	aisle
+	pasty 9
+	sassy 2
+	3
+cubic
+	aisle
+	print 86
+	humid 4
+	cubic 1
+	4
+awoke
+	aisle
+	adage 18
+	atone 5
+	above 2
+	awoke 1
+	5
+salad
+	aisle
+	slash 23
+	salvo 6
+	salad 2
+	4
+salve
+	aisle
+	salve 6
+	2
+quite
+	aisle
+	trice 38
+	quite 3
+	3
+exile
+	aisle
+	guile 4
+	exile 2
+	3
+dilly
+	aisle
+	dilly 7
+	2
+flint
+	aisle
+	cling 30
+	blind 3
+	flint 1
+	4
+liver
+	aisle
+	liner 8
+	liver 1
+	3
+owing
+	aisle
+	print 86
+	doing 7
+	owing 1
+	4
+beach
+	aisle
+	react 96
+	peach 2
+	beach 1
+	4
+gusty
+	aisle
+	mushy 16
+	dusty 5
+	rusty 2
+	gusty 1
+	5
+offer
+	aisle
+	tenor 172
+	rower 19
+	offer 2
+	4
+heady
+	aisle
+	react 96
+	beady 3
+	heady 1
+	4
+sloth
+	aisle
+	slump 20
+	slosh 2
+	sloth 1
+	4
+baker
+	aisle
+	react 96
+	wager 20
+	parer 5
+	maker 2
+	baker 1
+	6
+clasp
+	aisle
+	slash 23
+	flask 3
+	clasp 2
+	4
+globe
+	aisle
+	bulge 17
+	globe 1
+	3
+flash
+	aisle
+	slash 23
+	clash 2
+	flash 1
+	4
+audio
+	aisle
+	admit 18
+	aphid 4
+	audio 1
+	4
+wimpy
+	aisle
+	ditch 62
+	pinky 12
+	wimpy 1
+	4
+actor
+	aisle
+	abort 28
+	actor 2
+	3
+foyer
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	poker 4
+	foyer 2
+	6
+music
+	aisle
+	posit 3
+	music 1
+	3
+verve
+	aisle
+	puree 82
+	verve 4
+	3
+stoic
+	aisle
+	stink 41
+	strip 2
+	stoic 1
+	4
+fight
+	aisle
+	ditch 62
+	might 6
+	night 5
+	right 4
+	fight 3
+	6
+while
+	aisle
+	guile 4
+	exile 2
+	while 1
+	4
+hutch
+	aisle
+	thorn 196
+	butch 3
+	hutch 2
+	4
+brick
+	aisle
+	print 86
+	brick 3
+	3
+annul
+	aisle
+	allot 16
+	awful 2
+	annul 1
+	4
+adobe
+	aisle
+	adage 18
+	adobe 2
+	3
+woken
+	aisle
+	tenor 172
+	woven 6
+	woken 2
+	4
+pitch
+	aisle
+	ditch 62
+	hitch 3
+	witch 2
+	pitch 1
+	5
+ascot
+	aisle
+	amass 6
+	ascot 1
+	3
+niece
+	aisle
+	binge 16
+	niece 2
+	3
+mecca
+	aisle
+	react 96
+	mecca 1
+	3
+chart
+	aisle
+	carat 171
+	craft 2
+	chart 1
+	4
+begat
+	aisle
+	react 96
+	begat 1
+	3
+clink
+	aisle
+	cling 30
+	clink 1
+	3
+grand
+	aisle
+	carat 171
+	brand 22
+	grand 1
+	4
+glare
+	aisle
+	large 22
+	glare 1
+	3
+oddly
+	aisle
+	dully 28
+	oddly 2
+	3
+abled
+	aisle
+	alley 5
+	abled 1
+	3
+strap
+	aisle
+	trash 73
+	satyr 4
+	straw 2
+	strap 1
+	5
+penal
+	aisle
+	petal 49
+	pedal 2
+	penal 1
+	4
+retry
+	aisle
+	tenor 172
+	retch 6
+	retry 1
+	4
+friar
+	aisle
+	train 42
+	briar 2
+	friar 1
+	4
+blood
+	aisle
+	clump 57
+	flood 7
+	blood 1
+	4
+worry
+	aisle
+	thorn 196
+	gourd 3
+	worry 1
+	4
+ralph
+	aisle
+	carol 67
+	ralph 1
+	3
+repay
+	aisle
+	react 96
+	rebar 3
+	repay 1
+	4
+dummy
+	aisle
+	thorn 196
+	dumpy 15
+	dummy 1
+	4
+rabbi
+	aisle
+	train 42
+	hairy 4
+	rabbi 1
+	4
+brunt
+	aisle
+	thorn 196
+	grunt 3
+	brunt 1
+	4
+purse
+	aisle
+	store 47
+	purse 5
+	3
+clued
+	aisle
+	rebel 59
+	lumen 4
+	clued 1
+	4
+rugby
+	aisle
+	thorn 196
+	crumb 7
+	rugby 1
+	4
+avail
+	aisle
+	anvil 5
+	avail 1
+	3
+ample
+	aisle
+	ample 5
+	2
+doubt
+	aisle
+	thorn 196
+	doubt 5
+	3
+piano
+	aisle
+	tiara 11
+	piano 1
+	3
+dodgy
+	aisle
+	thorn 196
+	gumbo 9
+	dodgy 2
+	4
+baron
+	aisle
+	carat 171
+	harpy 6
+	baron 1
+	4
+clack
+	aisle
+	carol 67
+	clank 4
+	clack 1
+	4
+crowd
+	aisle
+	thorn 196
+	droop 15
+	crowd 1
+	4
+swing
+	aisle
+	stink 41
+	suing 4
+	swing 1
+	4
+scree
+	aisle
+	store 47
+	spree 4
+	scree 1
+	4
+slain
+	aisle
+	slain 2
+	2
+parry
+	aisle
+	carat 171
+	harpy 6
+	parry 1
+	4
+abuse
+	aisle
+	abuse 4
+	2
+eying
+	aisle
+	fetid 45
+	eying 5
+	3
+borne
+	aisle
+	puree 82
+	forge 6
+	horde 2
+	borne 1
+	5
+align
+	aisle
+	anvil 5
+	align 1
+	3
+cynic
+	aisle
+	print 86
+	conic 7
+	cynic 1
+	4
+green
+	aisle
+	tenor 172
+	preen 2
+	green 1
+	4
+crisp
+	aisle
+	stink 41
+	prism 2
+	crisp 1
+	4
+gooey
+	aisle
+	tenor 172
+	epoxy 6
+	gooey 1
+	4
+flank
+	aisle
+	carol 67
+	plank 10
+	flank 2
+	4
+niche
+	aisle
+	binge 16
+	niece 2
+	niche 1
+	4
+trout
+	aisle
+	thorn 196
+	trout 2
+	3
+libel
+	aisle
+	liner 8
+	libel 1
+	3
+assay
+	aisle
+	arson 2
+	assay 1
+	3
+dance
+	aisle
+	grace 44
+	dance 1
+	3
+prone
+	aisle
+	puree 82
+	probe 3
+	prove 2
+	prone 1
+	5
+budge
+	aisle
+	puree 82
+	budge 9
+	3
+clamp
+	aisle
+	carol 67
+	clank 4
+	clamp 1
+	4
+puppy
+	aisle
+	thorn 196
+	dumpy 15
+	guppy 2
+	puppy 1
+	5
+sting
+	aisle
+	stink 41
+	sting 2
+	3
+trope
+	aisle
+	puree 82
+	grope 2
+	trope 1
+	4
+study
+	aisle
+	snort 92
+	stuck 4
+	study 3
+	4
+match
+	aisle
+	carat 171
+	watch 6
+	match 4
+	4
+liken
+	aisle
+	liner 8
+	liken 1
+	3
+skimp
+	aisle
+	stink 41
+	skimp 3
+	3
+sweep
+	aisle
+	steer 49
+	sweep 4
+	3
+admin
+	aisle
+	admit 18
+	admin 1
+	3
+mealy
+	aisle
+	mealy 6
+	2
+leafy
+	aisle
+	petal 49
+	leaky 4
+	leafy 1
+	4
+spied
+	aisle
+	sheik 8
+	spied 1
+	3
+knave
+	aisle
+	grace 44
+	weave 6
+	knave 1
+	4
+block
+	aisle
+	clump 57
+	block 2
+	3
+idyll
+	aisle
+	guild 16
+	idyll 1
+	3
+alloy
+	aisle
+	allot 16
+	allow 2
+	alloy 1
+	4
+erupt
+	aisle
+	tenor 172
+	crept 6
+	erupt 1
+	4
+trick
+	aisle
+	print 86
+	trick 2
+	3
+shirt
+	aisle
+	stink 41
+	shift 4
+	shirt 1
+	4
+aisle
+	aisle
+	-1
+older
+	aisle
+	rebel 59
+	lower 5
+	older 1
+	4
+sober
+	aisle
+	steer 49
+	surer 4
+	sower 2
+	sober 1
+	5
+filet
+	aisle
+	liner 8
+	pixel 2
+	filet 1
+	4
+lusty
+	aisle
+	lusty 1
+	2
+moral
+	aisle
+	carol 67
+	moral 1
+	3
+suite
+	aisle
+	snipe 16
+	smite 4
+	suite 1
+	4
+humph
+	aisle
+	thorn 196
+	humph 2
+	3
+melee
+	aisle
+	bulge 17
+	delve 2
+	melee 1
+	4
+gipsy
+	aisle
+	first 11
+	kiosk 2
+	gipsy 1
+	4
+board
+	aisle
+	carat 171
+	brand 22
+	board 1
+	4
+nobly
+	aisle
+	dully 28
+	wryly 5
+	hotly 2
+	nobly 1
+	5
+wheat
+	aisle
+	react 96
+	wheat 1
+	3
+stove
+	aisle
+	store 47
+	stone 3
+	stoke 2
+	stove 1
+	5
+louse
+	aisle
+	close 6
+	louse 1
+	3
+stake
+	aisle
+	stare 30
+	state 4
+	stave 3
+	stake 2
+	5
+shake
+	aisle
+	stare 30
+	shape 9
+	shave 4
+	shake 3
+	5
+check
+	aisle
+	tenor 172
+	cheek 3
+	check 1
+	4
+throb
+	aisle
+	thorn 196
+	throw 2
+	throb 1
+	4
+decoy
+	aisle
+	tenor 172
+	decoy 1
+	3
+recut
+	aisle
+	tenor 172
+	retch 6
+	recut 1
+	4
+grimy
+	aisle
+	print 86
+	brick 3
+	grimy 1
+	4
+spray
+	aisle
+	trash 73
+	scram 6
+	spray 1
+	4
+novel
+	aisle
+	rebel 59
+	vowel 8
+	hovel 2
+	novel 1
+	5
+azure
+	aisle
+	adage 18
+	atone 5
+	azure 1
+	4
+ether
+	aisle
+	tenor 172
+	utter 2
+	ether 1
+	4
+usher
+	aisle
+	steer 49
+	usher 1
+	3
+sooth
+	aisle
+	snort 92
+	stoop 6
+	sooty 2
+	sooth 1
+	5
+chime
+	aisle
+	trice 38
+	chide 2
+	chime 1
+	4
+aptly
+	aisle
+	apply 5
+	aptly 1
+	3
+lobby
+	aisle
+	clump 57
+	drool 6
+	lobby 2
+	4
+setup
+	aisle
+	steer 49
+	setup 1
+	3
+agent
+	aisle
+	arena 12
+	amend 2
+	agent 1
+	4
+crepe
+	aisle
+	puree 82
+	crepe 1
+	3
+unfed
+	aisle
+	tenor 172
+	unfed 6
+	3
+gumbo
+	aisle
+	thorn 196
+	gumbo 9
+	3
+buyer
+	aisle
+	tenor 172
+	purer 12
+	queer 2
+	buyer 1
+	5
+floor
+	aisle
+	clump 57
+	flood 7
+	floor 1
+	4
+vegan
+	aisle
+	react 96
+	kebab 3
+	vegan 1
+	4
+scare
+	aisle
+	stare 30
+	spare 4
+	share 3
+	scare 2
+	5
+gavel
+	aisle
+	petal 49
+	bagel 6
+	gavel 1
+	4
+salty
+	aisle
+	slash 23
+	salvo 6
+	salad 2
+	salty 1
+	5
+mambo
+	aisle
+	carat 171
+	dandy 19
+	mambo 1
+	4
+hatch
+	aisle
+	carat 171
+	watch 6
+	match 4
+	hatch 3
+	5
+acrid
+	aisle
+	admit 18
+	aphid 4
+	acrid 2
+	4
+rhyme
+	aisle
+	puree 82
+	trove 11
+	rhyme 1
+	4
+dally
+	aisle
+	madly 13
+	dally 1
+	3
+felon
+	aisle
+	rebel 59
+	felon 6
+	3
+ranch
+	aisle
+	carat 171
+	macro 2
+	ranch 1
+	4
+crypt
+	aisle
+	thorn 196
+	crypt 1
+	3
+thump
+	aisle
+	thorn 196
+	thump 2
+	3
+poker
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	poker 4
+	5
+holly
+	aisle
+	dully 28
+	folly 4
+	jolly 3
+	holly 2
+	5
+fraud
+	aisle
+	carat 171
+	brand 22
+	fraud 1
+	4
+snipe
+	aisle
+	snipe 16
+	2
+bowel
+	aisle
+	rebel 59
+	bowel 1
+	3
+false
+	aisle
+	salve 6
+	false 1
+	3
+sonar
+	aisle
+	trash 73
+	scram 6
+	sonar 2
+	4
+cinch
+	aisle
+	ditch 62
+	cinch 5
+	3
+wrest
+	aisle
+	steer 49
+	crest 2
+	wrest 1
+	4
+mural
+	aisle
+	carol 67
+	rural 2
+	mural 1
+	4
+stool
+	aisle
+	slump 20
+	stool 2
+	3
+tangy
+	aisle
+	carat 171
+	batty 12
+	tangy 3
+	4
+witty
+	aisle
+	ditch 62
+	kitty 3
+	witty 2
+	4
+apart
+	aisle
+	abort 28
+	apart 1
+	3
+stint
+	aisle
+	stink 41
+	sting 2
+	stint 1
+	4
+shade
+	aisle
+	stare 30
+	shape 9
+	shave 4
+	shake 3
+	shade 2
+	6
+polka
+	aisle
+	carol 67
+	float 6
+	loamy 2
+	polka 1
+	5
+scald
+	aisle
+	stall 11
+	scalp 3
+	scald 2
+	4
+sixth
+	aisle
+	first 11
+	sixth 2
+	3
+snide
+	aisle
+	snipe 16
+	snide 1
+	3
+rover
+	aisle
+	tenor 172
+	rower 19
+	roger 2
+	rover 1
+	5
+tread
+	aisle
+	react 96
+	tamer 9
+	tread 1
+	4
+chant
+	aisle
+	carat 171
+	chant 1
+	3
+cairn
+	aisle
+	train 42
+	cairn 1
+	3
+giddy
+	aisle
+	ditch 62
+	giddy 6
+	3
+spiny
+	aisle
+	stink 41
+	suing 4
+	shiny 2
+	spiny 1
+	5
+fairy
+	aisle
+	train 42
+	hairy 4
+	dairy 2
+	fairy 1
+	5
+welch
+	aisle
+	rebel 59
+	felon 6
+	welch 1
+	4
+nanny
+	aisle
+	carat 171
+	dandy 19
+	nanny 3
+	4
+haste
+	aisle
+	caste 7
+	taste 5
+	waste 4
+	paste 3
+	haste 2
+	6
+stand
+	aisle
+	trash 73
+	stank 6
+	stand 1
+	4
+given
+	aisle
+	diner 30
+	vixen 2
+	given 1
+	4
+duchy
+	aisle
+	thorn 196
+	humph 2
+	duchy 1
+	4
+dimly
+	aisle
+	dilly 7
+	dimly 1
+	3
+leech
+	aisle
+	rebel 59
+	leech 1
+	3
+fjord
+	aisle
+	thorn 196
+	fjord 1
+	3
+cause
+	aisle
+	stare 30
+	pause 2
+	cause 1
+	4
+cheer
+	aisle
+	tenor 172
+	purer 12
+	cyber 3
+	cheer 1
+	5
+press
+	aisle
+	steer 49
+	dress 4
+	press 2
+	4
+lease
+	aisle
+	salve 6
+	lease 1
+	3
+rehab
+	aisle
+	react 96
+	rebar 3
+	rehab 1
+	4
+count
+	aisle
+	thorn 196
+	count 4
+	3
+hymen
+	aisle
+	tenor 172
+	unfed 6
+	hymen 1
+	4
+cider
+	aisle
+	diner 30
+	cider 3
+	3
+stall
+	aisle
+	stall 11
+	2
+matey
+	aisle
+	react 96
+	taken 5
+	matey 1
+	4
+bible
+	aisle
+	title 3
+	bible 2
+	3
+wagon
+	aisle
+	carat 171
+	dandy 19
+	wagon 1
+	4
+build
+	aisle
+	guild 16
+	build 1
+	3
+cover
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	cover 2
+	5
+exert
+	aisle
+	tenor 172
+	crept 6
+	exert 1
+	4
+recur
+	aisle
+	tenor 172
+	refer 7
+	recur 1
+	4
+slope
+	aisle
+	close 6
+	slope 1
+	3
+madly
+	aisle
+	madly 13
+	2
+utile
+	aisle
+	guile 4
+	utile 1
+	3
+mover
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	cover 2
+	mover 1
+	6
+outdo
+	aisle
+	thorn 196
+	outdo 5
+	3
+beefy
+	aisle
+	tenor 172
+	beech 5
+	beefy 1
+	4
+evoke
+	aisle
+	puree 82
+	hence 7
+	evoke 1
+	4
+human
+	aisle
+	carat 171
+	nomad 4
+	human 1
+	4
+badly
+	aisle
+	madly 13
+	badly 1
+	3
+crick
+	aisle
+	print 86
+	brick 3
+	crick 1
+	4
+singe
+	aisle
+	singe 5
+	2
+cacti
+	aisle
+	train 42
+	faith 2
+	cacti 1
+	4
+cliff
+	aisle
+	cling 30
+	click 3
+	cliff 2
+	4
+surly
+	aisle
+	sully 7
+	surly 1
+	3
+merge
+	aisle
+	puree 82
+	verve 4
+	merge 1
+	4
+would
+	aisle
+	dully 28
+	could 2
+	would 1
+	4
+smock
+	aisle
+	snort 92
+	shock 10
+	smock 1
+	4
+nurse
+	aisle
+	store 47
+	purse 5
+	nurse 2
+	4
+binge
+	aisle
+	binge 16
+	2
+spurt
+	aisle
+	snort 92
+	spurt 1
+	3
+anime
+	aisle
+	abide 3
+	anime 2
+	3
+minor
+	aisle
+	ditch 62
+	pinky 12
+	bingo 3
+	minor 1
+	5
+clear
+	aisle
+	petal 49
+	clean 5
+	clear 1
+	4
+sever
+	aisle
+	steer 49
+	sever 2
+	3
+harem
+	aisle
+	react 96
+	wager 20
+	harem 1
+	4
+ulcer
+	aisle
+	rebel 59
+	lover 5
+	flyer 2
+	ulcer 1
+	5
+raven
+	aisle
+	react 96
+	ramen 3
+	raven 1
+	4
+dross
+	aisle
+	snort 92
+	gross 3
+	dross 2
+	4
+stack
+	aisle
+	trash 73
+	stank 6
+	stack 1
+	4
+dough
+	aisle
+	thorn 196
+	vouch 8
+	bough 2
+	dough 1
+	5
+along
+	aisle
+	allot 16
+	along 2
+	3
+steel
+	aisle
+	slept 8
+	steel 1
+	3
+credo
+	aisle
+	tenor 172
+	rodeo 2
+	credo 1
+	4
+creep
+	aisle
+	tenor 172
+	greed 9
+	creep 2
+	4
+exult
+	aisle
+	hello 12
+	knelt 3
+	exult 1
+	4
+palsy
+	aisle
+	slash 23
+	palsy 1
+	3
+thorn
+	aisle
+	thorn 196
+	2
+alert
+	aisle
+	alley 5
+	alert 1
+	3
+siege
+	aisle
+	singe 5
+	siege 1
+	3
+whiff
+	aisle
+	print 86
+	chick 6
+	whiff 1
+	4
+eight
+	aisle
+	diner 30
+	piety 2
+	eight 1
+	4
+tubal
+	aisle
+	carol 67
+	pupal 2
+	tubal 1
+	4
+lanky
+	aisle
+	carol 67
+	balmy 4
+	lanky 1
+	4
+ebony
+	aisle
+	tenor 172
+	woven 6
+	ebony 1
+	4
+taunt
+	aisle
+	carat 171
+	gaunt 7
+	vaunt 5
+	taunt 4
+	5
+waive
+	aisle
+	naive 6
+	waive 1
+	3
+batty
+	aisle
+	carat 171
+	tangy 12
+	patty 3
+	fatty 2
+	batty 1
+	6
+allay
+	aisle
+	allot 16
+	allay 1
+	3
+puree
+	aisle
+	puree 82
+	2
+lying
+	aisle
+	cling 30
+	lying 1
+	3
+lowly
+	aisle
+	dully 28
+	lowly 1
+	3
+width
+	aisle
+	ditch 62
+	width 1
+	3
+prick
+	aisle
+	print 86
+	prior 4
+	prick 2
+	4
+flock
+	aisle
+	clump 57
+	block 2
+	flock 1
+	4
+urban
+	aisle
+	carat 171
+	groan 4
+	urban 1
+	4
+frisk
+	aisle
+	stink 41
+	brisk 3
+	frisk 1
+	4
+bluer
+	aisle
+	rebel 59
+	bluer 1
+	3
+datum
+	aisle
+	carat 171
+	tangy 12
+	datum 1
+	4
+pinch
+	aisle
+	ditch 62
+	cinch 5
+	pinch 3
+	4
+snare
+	aisle
+	stare 30
+	spare 4
+	share 3
+	scare 2
+	snare 1
+	6
+inane
+	aisle
+	naive 6
+	inane 1
+	3
+cluck
+	aisle
+	clump 57
+	clung 2
+	cluck 1
+	4
+imbue
+	aisle
+	trice 38
+	movie 3
+	imbue 1
+	4
+clang
+	aisle
+	carol 67
+	clank 4
+	clang 1
+	4
+sunny
+	aisle
+	snort 92
+	spunk 4
+	sunny 1
+	4
+salon
+	aisle
+	slash 23
+	salvo 6
+	salon 1
+	4
+snaky
+	aisle
+	trash 73
+	snack 8
+	snaky 1
+	4
+booty
+	aisle
+	thorn 196
+	booty 1
+	3
+shard
+	aisle
+	trash 73
+	shark 3
+	sharp 2
+	shard 1
+	5
+wharf
+	aisle
+	carat 171
+	brand 22
+	ovary 3
+	wharf 2
+	5
+aider
+	aisle
+	aider 1
+	2
+found
+	aisle
+	thorn 196
+	mound 9
+	wound 4
+	bound 3
+	found 2
+	6
+trash
+	aisle
+	trash 73
+	2
+vicar
+	aisle
+	tiara 11
+	cigar 2
+	vicar 1
+	4
+enjoy
+	aisle
+	tenor 172
+	enjoy 3
+	3
+putty
+	aisle
+	thorn 196
+	putty 1
+	3
+rider
+	aisle
+	diner 30
+	cider 3
+	rider 2
+	4
+tepee
+	aisle
+	puree 82
+	tepee 1
+	3
+ionic
+	aisle
+	print 86
+	conic 7
+	ionic 1
+	4
+remit
+	aisle
+	fetid 45
+	remit 2
+	3
+their
+	aisle
+	fetid 45
+	ethic 2
+	their 1
+	4
+beret
+	aisle
+	tenor 172
+	retch 6
+	beret 1
+	4
+usage
+	aisle
+	stare 30
+	cease 4
+	usage 1
+	4
+angry
+	aisle
+	abort 28
+	award 2
+	angry 1
+	4
+cutie
+	aisle
+	trice 38
+	cutie 1
+	3
+stoop
+	aisle
+	snort 92
+	stoop 6
+	3
+kappa
+	aisle
+	carat 171
+	manga 6
+	kappa 1
+	4
+grill
+	aisle
+	guild 16
+	grill 1
+	3
+spine
+	aisle
+	snipe 16
+	spine 1
+	3
+scion
+	aisle
+	stink 41
+	sniff 2
+	scion 1
+	4
+smote
+	aisle
+	store 47
+	smote 1
+	3
+bonus
+	aisle
+	snort 92
+	bonus 1
+	3
+bused
+	aisle
+	pesto 12
+	bused 1
+	3
+heave
+	aisle
+	grace 44
+	weave 6
+	heave 1
+	4
+cagey
+	aisle
+	react 96
+	ocean 4
+	cagey 1
+	4
+undue
+	aisle
+	puree 82
+	gouge 4
+	undue 1
+	4
+broke
+	aisle
+	puree 82
+	trove 11
+	drone 4
+	froze 2
+	broke 1
+	6
+ideal
+	aisle
+	email 2
+	ideal 1
+	3
+beast
+	aisle
+	steak 16
+	feast 3
+	yeast 2
+	beast 1
+	5
+every
+	aisle
+	tenor 172
+	greed 9
+	every 1
+	4
+wight
+	aisle
+	ditch 62
+	night 6
+	might 5
+	right 4
+	fight 3
+	wight 2
+	7
+shush
+	aisle
+	snort 92
+	shuck 2
+	shush 1
+	4
+flume
+	aisle
+	bulge 17
+	flume 5
+	3
+steak
+	aisle
+	steak 16
+	2
+crone
+	aisle
+	puree 82
+	trove 11
+	drone 4
+	crone 1
+	5
+heist
+	aisle
+	sheik 8
+	heist 1
+	3
+think
+	aisle
+	print 86
+	thing 3
+	think 1
+	4
+under
+	aisle
+	tenor 172
+	under 1
+	3
+crash
+	aisle
+	trash 73
+	brash 2
+	crash 1
+	4
+bongo
+	aisle
+	thorn 196
+	mound 9
+	bongo 1
+	4
+thick
+	aisle
+	print 86
+	thick 2
+	3
+brawl
+	aisle
+	carol 67
+	trawl 3
+	drawl 2
+	brawl 1
+	5
+aback
+	aisle
+	abort 28
+	aback 1
+	3
+outgo
+	aisle
+	thorn 196
+	doubt 5
+	outgo 1
+	4
+punch
+	aisle
+	thorn 196
+	nymph 6
+	punch 1
+	4
+trunk
+	aisle
+	thorn 196
+	trunk 1
+	3
+antic
+	aisle
+	admit 18
+	attic 2
+	antic 1
+	4
+fiery
+	aisle
+	diner 30
+	fiery 1
+	3
+molar
+	aisle
+	carol 67
+	polar 3
+	molar 1
+	4
+scale
+	aisle
+	stale 3
+	scale 2
+	3
+dread
+	aisle
+	react 96
+	wager 20
+	bread 6
+	dread 1
+	5
+epoxy
+	aisle
+	tenor 172
+	epoxy 6
+	3
+poise
+	aisle
+	spine 16
+	poise 1
+	3
+shunt
+	aisle
+	snort 92
+	shunt 2
+	3
+towel
+	aisle
+	rebel 59
+	vowel 8
+	towel 2
+	4
+truth
+	aisle
+	thorn 196
+	truth 1
+	3
+chair
+	aisle
+	train 42
+	chair 1
+	3
+plumb
+	aisle
+	clump 57
+	plumb 1
+	3
+stuff
+	aisle
+	snort 92
+	stuck 4
+	study 3
+	stuff 2
+	5
+crack
+	aisle
+	carat 171
+	crank 7
+	crack 1
+	4
+among
+	aisle
+	abort 28
+	agony 2
+	among 1
+	4
+nicer
+	aisle
+	diner 30
+	nicer 1
+	3
+knoll
+	aisle
+	dully 28
+	troll 2
+	knoll 1
+	4
+shame
+	aisle
+	stare 30
+	shape 9
+	shave 4
+	shake 3
+	shade 2
+	shame 1
+	7
+mocha
+	aisle
+	carat 171
+	whack 4
+	mocha 1
+	4
+unfit
+	aisle
+	print 86
+	unfit 2
+	3
+lunar
+	aisle
+	carol 67
+	ultra 2
+	lunar 1
+	4
+serif
+	aisle
+	sheik 8
+	serif 1
+	3
+dogma
+	aisle
+	carat 171
+	foamy 4
+	dogma 1
+	4
+thrum
+	aisle
+	thorn 196
+	thrum 1
+	3
+adore
+	aisle
+	adage 18
+	adobe 2
+	adore 1
+	4
+uncle
+	aisle
+	bugle 8
+	uncle 1
+	3
+phony
+	aisle
+	thorn 196
+	phony 1
+	3
+lathe
+	aisle
+	large 22
+	latte 3
+	lathe 1
+	4
+girth
+	aisle
+	ditch 62
+	mirth 5
+	birth 2
+	girth 1
+	5
+spunk
+	aisle
+	snort 92
+	spunk 4
+	3
+poser
+	aisle
+	pesto 12
+	poser 1
+	3
+solid
+	aisle
+	slink 9
+	spoil 3
+	solid 1
+	4
+logic
+	aisle
+	cling 30
+	logic 1
+	3
+scaly
+	aisle
+	stall 11
+	scalp 3
+	scald 2
+	scaly 1
+	5
+arrow
+	aisle
+	abort 28
+	ardor 4
+	arrow 1
+	4
+quirk
+	aisle
+	print 86
+	quirk 1
+	3
+junta
+	aisle
+	carat 171
+	tonga 5
+	junta 1
+	4
+pithy
+	aisle
+	ditch 62
+	pithy 1
+	3
+point
+	aisle
+	print 86
+	point 1
+	3
+leach
+	aisle
+	petal 49
+	leaky 4
+	learn 2
+	leach 1
+	5
+sixty
+	aisle
+	first 11
+	sixth 2
+	sixty 1
+	4
+eerie
+	aisle
+	trice 38
+	eerie 1
+	3
+larva
+	aisle
+	carol 67
+	larva 1
+	3
+flute
+	aisle
+	bulge 17
+	flume 5
+	fluke 2
+	flute 1
+	5
+femur
+	aisle
+	tenor 172
+	defer 7
+	femur 1
+	4
+olive
+	aisle
+	elide 5
+	olive 1
+	3
+masse
+	aisle
+	caste 7
+	masse 1
+	3
+coven
+	aisle
+	tenor 172
+	woven 6
+	coven 1
+	4
+ensue
+	aisle
+	ensue 2
+	2
+aroma
+	aisle
+	abort 28
+	aroma 1
+	3
+sheep
+	aisle
+	steer 49
+	sweep 4
+	sheep 1
+	4
+unmet
+	aisle
+	tenor 172
+	event 2
+	unmet 1
+	4
+breed
+	aisle
+	tenor 172
+	greed 9
+	creed 3
+	breed 2
+	5
+using
+	aisle
+	stink 41
+	using 1
+	3
+avian
+	aisle
+	admit 18
+	aping 4
+	avian 2
+	4
+chain
+	aisle
+	train 42
+	chain 1
+	3
+frame
+	aisle
+	grace 44
+	drake 6
+	brave 2
+	frame 1
+	5
+burly
+	aisle
+	dully 28
+	burly 2
+	3
+neigh
+	aisle
+	fetid 45
+	weigh 4
+	neigh 1
+	4
+wrath
+	aisle
+	carat 171
+	wrath 2
+	3
+pouty
+	aisle
+	thorn 196
+	doubt 5
+	pouty 1
+	4
+dense
+	aisle
+	store 47
+	geese 2
+	dense 1
+	4
+crumb
+	aisle
+	thorn 196
+	crumb 7
+	3
+slice
+	aisle
+	slime 3
+	slide 2
+	slice 1
+	4
+cross
+	aisle
+	snort 92
+	gross 3
+	dross 2
+	cross 1
+	5
+ghoul
+	aisle
+	clump 57
+	bulky 2
+	ghoul 1
+	4
+agree
+	aisle
+	adage 18
+	agree 2
+	3
+gloss
+	aisle
+	slump 20
+	floss 2
+	gloss 1
+	4
+fauna
+	aisle
+	carat 171
+	manga 6
+	fauna 1
+	4
+avoid
+	aisle
+	admit 18
+	aphid 4
+	acrid 2
+	avoid 1
+	5
+slack
+	aisle
+	slash 23
+	slant 3
+	slack 1
+	4
+snarl
+	aisle
+	slash 23
+	snarl 1
+	3
+party
+	aisle
+	carat 171
+	warty 3
+	party 1
+	4
+alone
+	aisle
+	algae 2
+	alone 1
+	3
+shaft
+	aisle
+	trash 73
+	shaft 1
+	3
+wafer
+	aisle
+	react 96
+	wager 20
+	waver 2
+	wafer 1
+	5
+roomy
+	aisle
+	thorn 196
+	droop 15
+	roomy 1
+	4
+quick
+	aisle
+	print 86
+	chick 6
+	quick 1
+	4
+droit
+	aisle
+	print 86
+	orbit 3
+	droit 1
+	4
+metro
+	aisle
+	tenor 172
+	retro 2
+	metro 1
+	4
+ninth
+	aisle
+	ditch 62
+	mirth 5
+	fifth 2
+	ninth 1
+	5
+wispy
+	aisle
+	visor 9
+	missy 4
+	fishy 2
+	wispy 1
+	5
+quail
+	aisle
+	trail 15
+	flail 2
+	quail 1
+	4
+hound
+	aisle
+	thorn 196
+	hound 2
+	3
+shied
+	aisle
+	sheik 8
+	shied 1
+	3
+taper
+	aisle
+	react 96
+	tamer 9
+	taper 2
+	4
+boxer
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	poker 4
+	foyer 2
+	boxer 1
+	7
+dizzy
+	aisle
+	ditch 62
+	dizzy 3
+	3
+smoky
+	aisle
+	snort 92
+	shock 10
+	smoky 1
+	4
+juicy
+	aisle
+	print 86
+	chick 6
+	juicy 1
+	4
+bunny
+	aisle
+	thorn 196
+	bunny 3
+	3
+daisy
+	aisle
+	stair 9
+	daisy 1
+	3
+mammy
+	aisle
+	carat 171
+	dandy 19
+	gawky 5
+	mammy 3
+	5
+waltz
+	aisle
+	carol 67
+	balmy 4
+	waltz 1
+	4
+spree
+	aisle
+	store 47
+	scree 4
+	spree 1
+	4
+boule
+	aisle
+	bugle 8
+	boule 1
+	3
+demon
+	aisle
+	tenor 172
+	demon 1
+	3
+plunk
+	aisle
+	clump 57
+	plunk 1
+	3
+creek
+	aisle
+	tenor 172
+	greed 9
+	creep 2
+	creek 1
+	5
+least
+	aisle
+	leash 3
+	least 1
+	3
+short
+	aisle
+	snort 92
+	short 2
+	3
+prong
+	aisle
+	thorn 196
+	wrong 4
+	prong 1
+	4
+china
+	aisle
+	train 42
+	china 1
+	3
+world
+	aisle
+	dully 28
+	world 1
+	3
+salsa
+	aisle
+	slash 23
+	salsa 1
+	3
+break
+	aisle
+	react 96
+	wager 20
+	bread 6
+	break 1
+	5
+haute
+	aisle
+	grace 44
+	maybe 5
+	haute 1
+	4
+geeky
+	aisle
+	tenor 172
+	beech 5
+	weedy 2
+	geeky 1
+	5
+blast
+	aisle
+	slash 23
+	flask 3
+	clasp 2
+	blast 1
+	5
+verge
+	aisle
+	puree 82
+	verve 4
+	verge 1
+	4
+happy
+	aisle
+	carat 171
+	dandy 19
+	gawky 5
+	mammy 3
+	happy 2
+	6
+crawl
+	aisle
+	carol 67
+	crawl 1
+	3
+taker
+	aisle
+	react 96
+	tamer 9
+	taper 2
+	taker 1
+	5
+sewer
+	aisle
+	steer 49
+	sever 2
+	sewer 1
+	4
+spilt
+	aisle
+	spilt 6
+	2
+thumb
+	aisle
+	thorn 196
+	thump 2
+	thumb 1
+	4
+chaff
+	aisle
+	carat 171
+	comma 5
+	chaff 1
+	4
+steep
+	aisle
+	steer 49
+	steep 2
+	3
+bigot
+	aisle
+	ditch 62
+	pinto 5
+	bigot 1
+	4
+cress
+	aisle
+	steer 49
+	dress 4
+	press 2
+	cress 1
+	5
+eking
+	aisle
+	fetid 45
+	eying 5
+	eking 1
+	4
+seedy
+	aisle
+	steer 49
+	seedy 1
+	3
+sheer
+	aisle
+	steer 49
+	sheer 2
+	3
+minty
+	aisle
+	ditch 62
+	pinto 5
+	minty 1
+	4
+pinto
+	aisle
+	ditch 62
+	pinto 5
+	3
+raspy
+	aisle
+	pasty 9
+	raspy 1
+	3
+saucy
+	aisle
+	trash 73
+	sauna 9
+	saucy 1
+	4
+drink
+	aisle
+	print 86
+	bring 6
+	drink 1
+	4
+north
+	aisle
+	thorn 196
+	north 1
+	3
+ember
+	aisle
+	tenor 172
+	purer 12
+	cyber 3
+	ember 1
+	5
+slush
+	aisle
+	slump 20
+	slunk 3
+	slush 1
+	4
+pubic
+	aisle
+	print 86
+	pubic 1
+	3
+vigor
+	aisle
+	ditch 62
+	pinky 12
+	vigor 2
+	4
+unset
+	aisle
+	pesto 12
+	unset 1
+	3
+ditty
+	aisle
+	ditch 62
+	ditto 2
+	ditty 1
+	4
+abbey
+	aisle
+	arena 12
+	abbey 1
+	3
+aloud
+	aisle
+	allot 16
+	along 2
+	aloud 1
+	4
+forty
+	aisle
+	thorn 196
+	motor 4
+	forty 1
+	4
+tempo
+	aisle
+	tenor 172
+	tempo 1
+	3
+pence
+	aisle
+	puree 82
+	penne 2
+	pence 1
+	4
+climb
+	aisle
+	cling 30
+	click 3
+	cliff 2
+	climb 1
+	5
+cedar
+	aisle
+	react 96
+	cedar 1
+	3
+viral
+	aisle
+	vital 6
+	viral 1
+	3
+shall
+	aisle
+	stall 11
+	shall 2
+	3
+plant
+	aisle
+	carol 67
+	plank 10
+	plant 1
+	4
+squib
+	aisle
+	stink 41
+	sprig 2
+	squib 1
+	4
+lucid
+	aisle
+	cling 30
+	lucid 2
+	3
+cloth
+	aisle
+	clump 57
+	clock 3
+	cloth 2
+	4
+heard
+	aisle
+	react 96
+	weary 4
+	beard 2
+	heard 1
+	5
+vigil
+	aisle
+	limit 13
+	civil 2
+	vigil 1
+	4
+lithe
+	aisle
+	liege 4
+	lithe 1
+	3
+knock
+	aisle
+	thorn 196
+	knock 1
+	3
+until
+	aisle
+	cling 30
+	unlit 2
+	until 1
+	4
+afire
+	aisle
+	abide 3
+	anime 2
+	afire 1
+	4
+crust
+	aisle
+	snort 92
+	trust 4
+	crust 1
+	4
+exalt
+	aisle
+	mealy 6
+	exalt 1
+	3
+slimy
+	aisle
+	slink 9
+	slimy 1
+	3
+haunt
+	aisle
+	carat 171
+	gaunt 7
+	vaunt 5
+	taunt 4
+	haunt 3
+	6
+crate
+	aisle
+	grace 44
+	craze 4
+	crane 3
+	crate 2
+	5
+greet
+	aisle
+	tenor 172
+	crept 6
+	greet 1
+	4
+pupil
+	aisle
+	cling 30
+	broil 5
+	pupil 1
+	4
+guise
+	aisle
+	snipe 16
+	guise 1
+	3
+pudgy
+	aisle
+	thorn 196
+	dumpy 15
+	pudgy 1
+	4
+afoul
+	aisle
+	allot 16
+	afoul 1
+	3
+bless
+	aisle
+	slept 8
+	flesh 2
+	bless 1
+	4
+flame
+	aisle
+	large 22
+	blame 9
+	flame 1
+	4
+scant
+	aisle
+	trash 73
+	stank 6
+	scant 1
+	4
+wield
+	aisle
+	yield 3
+	field 2
+	wield 1
+	4
+diode
+	aisle
+	binge 16
+	pixie 5
+	diode 2
+	4
+class
+	aisle
+	slash 23
+	glass 2
+	class 1
+	4
+rhino
+	aisle
+	print 86
+	rhino 1
+	3
+spore
+	aisle
+	store 47
+	score 5
+	snore 4
+	shore 3
+	spore 2
+	6
+frown
+	aisle
+	thorn 196
+	crown 5
+	grown 4
+	drown 3
+	brown 2
+	frown 1
+	7
+staid
+	aisle
+	stair 9
+	stain 2
+	staid 1
+	4
+those
+	aisle
+	store 47
+	those 1
+	3
+lorry
+	aisle
+	clump 57
+	drool 6
+	lorry 1
+	4
+rayon
+	aisle
+	carat 171
+	rayon 8
+	3
+focus
+	aisle
+	snort 92
+	focus 1
+	3
+dowel
+	aisle
+	rebel 59
+	vowel 8
+	towel 2
+	dowel 1
+	5
+stalk
+	aisle
+	stall 11
+	stalk 1
+	3
+spear
+	aisle
+	steak 16
+	shear 4
+	swear 3
+	smear 2
+	spear 1
+	6
+berth
+	aisle
+	tenor 172
+	retch 6
+	berth 1
+	4
+buxom
+	aisle
+	thorn 196
+	gumbo 9
+	buxom 1
+	4
+lunge
+	aisle
+	bulge 17
+	lunge 1
+	3
+plain
+	aisle
+	trail 15
+	plain 3
+	3
+grout
+	aisle
+	thorn 196
+	grout 1
+	3
+tawny
+	aisle
+	carat 171
+	tangy 12
+	tawny 1
+	4
+women
+	aisle
+	tenor 172
+	woven 6
+	woken 2
+	women 1
+	5
+odder
+	aisle
+	tenor 172
+	rower 19
+	offer 2
+	odder 1
+	5
+carol
+	aisle
+	carol 67
+	2
+pride
+	aisle
+	trice 38
+	pride 10
+	3
+diary
+	aisle
+	tiara 11
+	diary 1
+	3
+lemur
+	aisle
+	rebel 59
+	lemur 1
+	3
+twixt
+	aisle
+	print 86
+	idiot 2
+	twixt 1
+	4
+etude
+	aisle
+	puree 82
+	deuce 3
+	etude 1
+	4
+twine
+	aisle
+	trice 38
+	twine 1
+	3
+tight
+	aisle
+	ditch 62
+	might 6
+	night 5
+	right 4
+	fight 3
+	wight 2
+	tight 1
+	8
+cycle
+	aisle
+	bugle 8
+	whole 2
+	cycle 1
+	4
+chess
+	aisle
+	steer 49
+	guess 3
+	chess 1
+	4
+mount
+	aisle
+	thorn 196
+	count 4
+	mount 1
+	4
+lapse
+	aisle
+	salve 6
+	lapse 1
+	3
+suave
+	aisle
+	stare 30
+	shape 9
+	snake 2
+	suave 1
+	5
+fudge
+	aisle
+	puree 82
+	nudge 9
+	judge 3
+	budge 2
+	fudge 1
+	6
+navel
+	aisle
+	petal 49
+	bagel 6
+	camel 3
+	hazel 2
+	navel 1
+	6
+boost
+	aisle
+	snort 92
+	ghost 2
+	boost 1
+	4
+fewer
+	aisle
+	tenor 172
+	defer 7
+	fever 2
+	fewer 1
+	5
+payer
+	aisle
+	react 96
+	wager 20
+	parer 5
+	paper 2
+	payer 1
+	6
+trace
+	aisle
+	grace 44
+	brace 2
+	trace 1
+	4
+labor
+	aisle
+	carol 67
+	valor 2
+	labor 1
+	4
+rinse
+	aisle
+	singe 5
+	rinse 1
+	3
+forte
+	aisle
+	puree 82
+	forge 6
+	forte 2
+	4
+black
+	aisle
+	carol 67
+	flack 2
+	black 1
+	4
+rebut
+	aisle
+	tenor 172
+	retch 6
+	rebut 1
+	4
+twist
+	aisle
+	stink 41
+	foist 6
+	wrist 2
+	twist 1
+	5
+small
+	aisle
+	stall 11
+	shall 2
+	small 1
+	4
+payee
+	aisle
+	grace 44
+	maybe 5
+	payee 1
+	4
+crony
+	aisle
+	thorn 196
+	wrong 4
+	frond 2
+	crony 1
+	5
+pound
+	aisle
+	thorn 196
+	mound 9
+	wound 4
+	bound 3
+	found 2
+	pound 1
+	7
+grind
+	aisle
+	print 86
+	bring 6
+	grind 1
+	4
+loose
+	aisle
+	close 6
+	loose 1
+	3
+mafia
+	aisle
+	train 42
+	maxim 4
+	magic 2
+	mafia 1
+	5
+color
+	aisle
+	clump 57
+	colon 2
+	color 1
+	4
+woman
+	aisle
+	carat 171
+	nomad 4
+	woman 1
+	4
+quoth
+	aisle
+	thorn 196
+	booth 2
+	quoth 1
+	4
+arise
+	aisle
+	arise 2
+	2
+since
+	aisle
+	singe 5
+	since 1
+	3
+torso
+	aisle
+	snort 92
+	torus 2
+	torso 1
+	4
+villa
+	aisle
+	villa 2
+	2
+curse
+	aisle
+	store 47
+	nurse 5
+	purse 2
+	curse 1
+	5
+rerun
+	aisle
+	tenor 172
+	rerun 2
+	3
+story
+	aisle
+	snort 92
+	storm 3
+	stork 2
+	story 1
+	5
+jumpy
+	aisle
+	thorn 196
+	dumpy 15
+	jumpy 1
+	4
+eclat
+	aisle
+	petal 49
+	cleat 3
+	eclat 1
+	4
+smelt
+	aisle
+	shell 7
+	spelt 2
+	smelt 1
+	4
+funky
+	aisle
+	thorn 196
+	bunny 3
+	funky 1
+	4
+glove
+	aisle
+	bulge 17
+	glove 1
+	3
+tango
+	aisle
+	carat 171
+	tangy 12
+	tango 1
+	4
+pearl
+	aisle
+	petal 49
+	pearl 1
+	3
+cameo
+	aisle
+	react 96
+	ocean 4
+	cameo 1
+	4
+lyric
+	aisle
+	cling 30
+	lucid 2
+	lyric 1
+	4
+reedy
+	aisle
+	tenor 172
+	merry 10
+	reedy 1
+	4
+filmy
+	aisle
+	limit 13
+	filmy 2
+	3
+armor
+	aisle
+	abort 28
+	ardor 4
+	armor 1
+	4
+snail
+	aisle
+	slain 2
+	snail 1
+	3
+sneer
+	aisle
+	steer 49
+	sheer 2
+	sneer 1
+	4
+truer
+	aisle
+	tenor 172
+	tuber 2
+	truer 1
+	4
+fifty
+	aisle
+	ditch 62
+	pinto 5
+	fifty 1
+	4
+birch
+	aisle
+	ditch 62
+	cinch 5
+	birch 1
+	4
+savvy
+	aisle
+	trash 73
+	sauna 9
+	savoy 3
+	savvy 1
+	5
+honey
+	aisle
+	tenor 172
+	money 3
+	honey 2
+	4
+abode
+	aisle
+	adage 18
+	anode 2
+	abode 1
+	4
+shock
+	aisle
+	snort 92
+	shock 10
+	3
+rifle
+	aisle
+	title 3
+	bible 2
+	rifle 1
+	4
+triad
+	aisle
+	train 42
+	triad 1
+	3
+chase
+	aisle
+	stare 30
+	cease 4
+	chase 1
+	4
+motto
+	aisle
+	thorn 196
+	doubt 5
+	motto 1
+	4
+wench
+	aisle
+	tenor 172
+	bench 3
+	wench 1
+	4
+gnome
+	aisle
+	puree 82
+	ozone 6
+	gnome 1
+	4
+musky
+	aisle
+	mushy 16
+	musky 2
+	3
+ruder
+	aisle
+	tenor 172
+	purer 12
+	ruder 1
+	4
+talon
+	aisle
+	carol 67
+	talon 1
+	3
+dryly
+	aisle
+	dully 28
+	dryly 1
+	3
+embed
+	aisle
+	tenor 172
+	cheek 3
+	embed 1
+	4
+stink
+	aisle
+	stink 41
+	2
+hater
+	aisle
+	react 96
+	tamer 9
+	water 3
+	hater 2
+	5
+flake
+	aisle
+	large 22
+	blame 9
+	plate 5
+	flake 1
+	5
+khaki
+	aisle
+	train 42
+	khaki 1
+	3
+delta
+	aisle
+	petal 49
+	leant 2
+	delta 1
+	4
+elide
+	aisle
+	elide 5
+	2
+regal
+	aisle
+	petal 49
+	regal 7
+	3
+skunk
+	aisle
+	snort 92
+	spunk 4
+	skunk 1
+	4
+beset
+	aisle
+	pesto 12
+	beset 2
+	3
+unite
+	aisle
+	trice 38
+	quite 3
+	unite 1
+	4
+foggy
+	aisle
+	thorn 196
+	gumbo 9
+	dodgy 2
+	foggy 1
+	5
+extra
+	aisle
+	react 96
+	tamer 9
+	extra 1
+	4
+fruit
+	aisle
+	print 86
+	orbit 3
+	fruit 1
+	4
+rarer
+	aisle
+	react 96
+	ramen 3
+	rarer 1
+	4
+eject
+	aisle
+	tenor 172
+	duvet 3
+	eject 1
+	4
+hoard
+	aisle
+	carat 171
+	brand 22
+	hoard 2
+	4
+icing
+	aisle
+	print 86
+	doing 7
+	vying 2
+	icing 1
+	5
+aside
+	aisle
+	arise 2
+	aside 1
+	3
+adage
+	aisle
+	adage 18
+	2
+curve
+	aisle
+	puree 82
+	curve 1
+	3
+barge
+	aisle
+	grace 44
+	range 2
+	barge 1
+	4
+fried
+	aisle
+	fetid 45
+	fried 1
+	3
+abate
+	aisle
+	adage 18
+	aware 4
+	amaze 2
+	abate 1
+	5
+blaze
+	aisle
+	large 22
+	plate 9
+	blame 5
+	blaze 2
+	5
+local
+	aisle
+	carol 67
+	focal 4
+	vocal 2
+	local 1
+	5
+tunic
+	aisle
+	print 86
+	tonic 3
+	tunic 1
+	4
+saner
+	aisle
+	steak 16
+	safer 2
+	saner 1
+	4
+howdy
+	aisle
+	thorn 196
+	vouch 8
+	howdy 2
+	4
+drawn
+	aisle
+	carat 171
+	brand 22
+	drawn 1
+	4
+bride
+	aisle
+	trice 38
+	pride 10
+	bride 1
+	4
+catty
+	aisle
+	carat 171
+	catch 2
+	catty 1
+	4
+idler
+	aisle
+	peril 11
+	flier 2
+	idler 1
+	4
+canon
+	aisle
+	carat 171
+	candy 5
+	canon 1
+	4
+ingot
+	aisle
+	print 86
+	unfit 2
+	ingot 1
+	4
+tripe
+	aisle
+	trice 38
+	tribe 3
+	tripe 2
+	4
+godly
+	aisle
+	dully 28
+	oddly 2
+	godly 1
+	4
+piece
+	aisle
+	binge 16
+	pixie 5
+	pique 2
+	piece 1
+	5
+verse
+	aisle
+	store 47
+	purse 5
+	verse 1
+	4
+bleak
+	aisle
+	petal 49
+	clean 5
+	gleam 2
+	bleak 1
+	5
+blunt
+	aisle
+	clump 57
+	flung 7
+	blunt 1
+	4
+sugar
+	aisle
+	trash 73
+	scram 6
+	sonar 2
+	sugar 1
+	5
+alpha
+	aisle
+	allot 16
+	alarm 3
+	alpha 1
+	4
+mercy
+	aisle
+	tenor 172
+	merry 10
+	mercy 1
+	4
+scuba
+	aisle
+	trash 73
+	sauna 9
+	scuba 1
+	4
+rough
+	aisle
+	thorn 196
+	porch 4
+	rough 1
+	4
+tenth
+	aisle
+	tenor 172
+	tenet 2
+	tenth 1
+	4
+erect
+	aisle
+	tenor 172
+	crept 6
+	erect 1
+	4
+ladle
+	aisle
+	fable 7
+	maple 3
+	eagle 2
+	ladle 1
+	5
+glint
+	aisle
+	cling 30
+	glint 1
+	3
+tacit
+	aisle
+	train 42
+	tacit 1
+	3
+reach
+	aisle
+	react 96
+	reach 1
+	3
+draft
+	aisle
+	carat 171
+	graft 4
+	draft 1
+	4
+argue
+	aisle
+	adage 18
+	agree 2
+	argue 1
+	4
+artsy
+	aisle
+	amass 6
+	angst 2
+	artsy 1
+	4
+nerdy
+	aisle
+	tenor 172
+	rerun 2
+	nerdy 1
+	4
+patch
+	aisle
+	carat 171
+	watch 6
+	match 4
+	hatch 3
+	patch 2
+	6
+jaunt
+	aisle
+	carat 171
+	gaunt 7
+	vaunt 5
+	taunt 4
+	haunt 3
+	jaunt 2
+	7
+wider
+	aisle
+	diner 30
+	cider 3
+	rider 2
+	wider 1
+	5
+bully
+	aisle
+	dully 28
+	gully 3
+	fully 2
+	bully 1
+	5
+epoch
+	aisle
+	tenor 172
+	epoxy 6
+	epoch 1
+	4
+lipid
+	aisle
+	limit 13
+	livid 2
+	lipid 1
+	4
+totem
+	aisle
+	tenor 172
+	totem 1
+	3
+iliac
+	aisle
+	trail 15
+	inlay 2
+	iliac 1
+	4
+baste
+	aisle
+	caste 7
+	taste 5
+	waste 4
+	paste 3
+	haste 2
+	baste 1
+	7
+there
+	aisle
+	puree 82
+	where 5
+	there 1
+	4
+joker
+	aisle
+	tenor 172
+	rower 19
+	hover 8
+	poker 4
+	joker 1
+	6
+dingy
+	aisle
+	ditch 62
+	dizzy 3
+	dingy 1
+	4
+steam
+	aisle
+	steak 16
+	steam 2
+	3
+blurb
+	aisle
+	clump 57
+	flung 7
+	blurt 2
+	blurb 1
+	5
+arbor
+	aisle
+	abort 28
+	arbor 1
+	3
+choir
+	aisle
+	print 86
+	ivory 3
+	choir 1
+	4
+motel
+	aisle
+	rebel 59
+	vowel 8
+	hotel 3
+	motel 1
+	5
+vague
+	aisle
+	grace 44
+	badge 3
+	vague 1
+	4
+natal
+	aisle
+	carol 67
+	natal 5
+	3
+drank
+	aisle
+	carat 171
+	brand 22
+	drank 1
+	4
+timer
+	aisle
+	diner 30
+	viper 9
+	tiger 4
+	timer 1
+	5
+quark
+	aisle
+	carat 171
+	brand 22
+	ovary 3
+	wharf 2
+	quark 1
+	6
+swill
+	aisle
+	spilt 6
+	skill 2
+	swill 1
+	4
+skiff
+	aisle
+	stink 41
+	skimp 3
+	skiff 1
+	4
+joust
+	aisle
+	snort 92
+	joust 1
+	3
+winch
+	aisle
+	ditch 62
+	cinch 5
+	pinch 3
+	winch 2
+	5
+paint
+	aisle
+	train 42
+	faint 2
+	paint 1
+	4
+finch
+	aisle
+	ditch 62
+	cinch 5
+	pinch 3
+	winch 2
+	finch 1
+	6
+deity
+	aisle
+	fetid 45
+	deity 1
+	3
+funny
+	aisle
+	thorn 196
+	bunny 3
+	funny 1
+	4
+abhor
+	aisle
+	abort 28
+	abhor 1
+	3
+grate
+	aisle
+	grace 44
+	grade 5
+	grape 4
+	grate 3
+	5
+table
+	aisle
+	fable 7
+	cable 2
+	table 1
+	4
+dumpy
+	aisle
+	thorn 196
+	dumpy 15
+	3
+trend
+	aisle
+	tenor 172
+	trend 1
+	3
+stock
+	aisle
+	snort 92
+	stoop 6
+	stock 1
+	4
+locus
+	aisle
+	slump 20
+	locus 1
+	3
+razor
+	aisle
+	carat 171
+	rayon 8
+	razor 1
+	4
+axial
+	aisle
+	anvil 5
+	axial 1
+	3
+needy
+	aisle
+	tenor 172
+	needy 2
+	3
+spite
+	aisle
+	snipe 16
+	spike 4
+	spire 3
+	spice 2
+	spite 1
+	6
+cater
+	aisle
+	react 96
+	cater 1
+	3
+sinew
+	aisle
+	siren 2
+	sinew 1
+	3
+filly
+	aisle
+	dilly 7
+	billy 4
+	hilly 3
+	willy 2
+	filly 1
+	6
+scold
+	aisle
+	sully 7
+	scold 1
+	3
+golly
+	aisle
+	dully 28
+	folly 4
+	jolly 3
+	holly 2
+	golly 1
+	6
+moose
+	aisle
+	store 47
+	goose 5
+	moose 2
+	4
+windy
+	aisle
+	ditch 62
+	giddy 6
+	windy 1
+	4
+chunk
+	aisle
+	thorn 196
+	chunk 1
+	3
+price
+	aisle
+	trice 38
+	price 1
+	3
+elbow
+	aisle
+	rebel 59
+	elbow 1
+	3
+bitty
+	aisle
+	ditch 62
+	kitty 3
+	witty 2
+	bitty 1
+	5
+nymph
+	aisle
+	thorn 196
+	nymph 6
+	3
+sally
+	aisle
+	stall 11
+	sally 1
+	3
+brute
+	aisle
+	puree 82
+	brute 6
+	3
+manic
+	aisle
+	train 42
+	mania 3
+	manic 1
+	4
+gruel
+	aisle
+	rebel 59
+	cruel 2
+	gruel 1
+	4
+grove
+	aisle
+	puree 82
+	trove 11
+	drove 2
+	grove 1
+	5
+abort
+	aisle
+	abort 28
+	2
+loser
+	aisle
+	loser 1
+	2
+privy
+	aisle
+	print 86
+	prior 4
+	prick 2
+	privy 1
+	5
+crave
+	aisle
+	grace 44
+	craze 4
+	crane 3
+	crate 2
+	crave 1
+	6
+enemy
+	aisle
+	tenor 172
+	unfed 6
+	enemy 1
+	4
+spend
+	aisle
+	steer 49
+	spend 2
+	3
+liner
+	aisle
+	liner 8
+	2
+limit
+	aisle
+	limit 13
+	2
+topic
+	aisle
+	print 86
+	optic 2
+	topic 1
+	4
+dowdy
+	aisle
+	thorn 196
+	gumbo 9
+	poppy 2
+	dowdy 1
+	5
+bliss
+	aisle
+	slink 9
+	bliss 1
+	3
+begun
+	aisle
+	tenor 172
+	needy 2
+	begun 1
+	4
+smell
+	aisle
+	shell 7
+	swell 3
+	smell 2
+	4
+shady
+	aisle
+	trash 73
+	shank 5
+	shady 1
+	4
+pygmy
+	aisle
+	thorn 196
+	dumpy 15
+	pygmy 1
+	4
+weird
+	aisle
+	fetid 45
+	weird 1
+	3
+crass
+	aisle
+	trash 73
+	grasp 4
+	crass 2
+	4
+vinyl
+	aisle
+	limit 13
+	vinyl 1
+	3
+hardy
+	aisle
+	carat 171
+	harpy 6
+	hardy 2
+	4
+prize
+	aisle
+	trice 38
+	pride 10
+	prime 2
+	prize 1
+	5
+spade
+	aisle
+	stare 30
+	shape 9
+	space 2
+	spade 1
+	5
+grace
+	aisle
+	grace 44
+	2
+chest
+	aisle
+	steer 49
+	quest 3
+	chest 1
+	4
+troop
+	aisle
+	thorn 196
+	trout 2
+	troop 1
+	4
+rainy
+	aisle
+	train 42
+	rainy 1
+	3
+blend
+	aisle
+	rebel 59
+	blend 1
+	3
+feral
+	aisle
+	petal 49
+	regal 7
+	feral 1
+	4
+scamp
+	aisle
+	trash 73
+	snack 8
+	scamp 1
+	4
+ripen
+	aisle
+	diner 30
+	ripen 1
+	3
+ruler
+	aisle
+	rebel 59
+	ruler 1
+	3
+phase
+	aisle
+	stare 30
+	cease 4
+	phase 1
+	4
+speed
+	aisle
+	steer 49
+	sweep 4
+	speed 1
+	4
+irate
+	aisle
+	naive 6
+	image 2
+	irate 1
+	4
+three
+	aisle
+	puree 82
+	three 1
+	3
+whelp
+	aisle
+	hello 12
+	whelp 1
+	3
+drape
+	aisle
+	grace 44
+	drake 6
+	drape 1
+	4
+voila
+	aisle
+	gaily 3
+	voila 1
+	3
+coach
+	aisle
+	carat 171
+	comma 5
+	coach 1
+	4
+audit
+	aisle
+	admit 18
+	audit 1
+	3
+solve
+	aisle
+	close 6
+	solve 1
+	3
+fella
+	aisle
+	mealy 6
+	fella 1
+	3
+frock
+	aisle
+	thorn 196
+	droop 15
+	crock 2
+	frock 1
+	5
+blush
+	aisle
+	slump 20
+	flush 2
+	blush 1
+	4
+bleep
+	aisle
+	rebel 59
+	bleed 2
+	bleep 1
+	4
+dutch
+	aisle
+	thorn 196
+	butch 3
+	hutch 2
+	dutch 1
+	5
+envoy
+	aisle
+	tenor 172
+	enjoy 3
+	envoy 1
+	4
+grail
+	aisle
+	trail 15
+	frail 2
+	grail 1
+	4
+smart
+	aisle
+	trash 73
+	start 3
+	smart 1
+	4
+sense
+	aisle
+	store 47
+	scene 3
+	sense 1
+	4
+inter
+	aisle
+	fetid 45
+	inter 1
+	3
+renew
+	aisle
+	tenor 172
+	renew 1
+	3
+scout
+	aisle
+	snort 92
+	shout 5
+	spout 3
+	stout 2
+	scout 1
+	6
+brief
+	aisle
+	fetid 45
+	grief 4
+	brief 1
+	4
+fiber
+	aisle
+	diner 30
+	viper 9
+	tiger 4
+	fiber 2
+	5
+chump
+	aisle
+	thorn 196
+	chuck 2
+	chump 1
+	4
+stunt
+	aisle
+	snort 92
+	shunt 2
+	stunt 1
+	4
+donut
+	aisle
+	thorn 196
+	count 4
+	donut 1
+	4
+spoke
+	aisle
+	store 47
+	scone 6
+	smoke 3
+	spoke 1
+	5
+hunky
+	aisle
+	thorn 196
+	nymph 6
+	hunky 1
+	4
+grave
+	aisle
+	grace 44
+	grape 5
+	grade 4
+	grate 3
+	grave 2
+	6
+quack
+	aisle
+	carat 171
+	whack 4
+	knack 2
+	quack 1
+	5
+condo
+	aisle
+	thorn 196
+	mound 9
+	condo 1
+	4
+stern
+	aisle
+	steer 49
+	stern 1
+	3
+verso
+	aisle
+	steer 49
+	rebus 2
+	verso 1
+	4
+woven
+	aisle
+	tenor 172
+	woven 6
+	3
+diver
+	aisle
+	diner 30
+	diver 1
+	3
+trite
+	aisle
+	trice 38
+	tribe 3
+	tripe 2
+	trite 1
+	5
+relax
+	aisle
+	petal 49
+	delay 3
+	relax 1
+	4
+inert
+	aisle
+	fetid 45
+	quiet 4
+	inept 2
+	inert 1
+	5
+sedan
+	aisle
+	steak 16
+	sedan 1
+	3
+linen
+	aisle
+	liner 8
+	linen 1
+	3
+march
+	aisle
+	carat 171
+	march 1
+	3
+humor
+	aisle
+	thorn 196
+	porch 4
+	humor 1
+	4
+great
+	aisle
+	react 96
+	treat 2
+	great 1
+	4
+dried
+	aisle
+	fetid 45
+	pried 3
+	cried 2
+	dried 1
+	5
+plush
+	aisle
+	slump 20
+	plush 1
+	3
+scowl
+	aisle
+	slump 20
+	stool 2
+	scowl 1
+	4
+spell
+	aisle
+	shell 7
+	swell 3
+	smell 2
+	spell 1
+	5
+rocky
+	aisle
+	thorn 196
+	furor 9
+	rowdy 2
+	rocky 1
+	5
+terse
+	aisle
+	store 47
+	terse 1
+	3
+champ
+	aisle
+	carat 171
+	comma 5
+	champ 1
+	4
+house
+	aisle
+	store 47
+	mouse 4
+	house 1
+	4
+finer
+	aisle
+	diner 30
+	finer 2
+	3
+truce
+	aisle
+	puree 82
+	brute 6
+	truce 1
+	4
+error
+	aisle
+	tenor 172
+	error 1
+	3
+bacon
+	aisle
+	carat 171
+	macho 5
+	bacon 1
+	4
+fiend
+	aisle
+	diner 30
+	fiend 1
+	3
+smack
+	aisle
+	trash 73
+	snack 8
+	smack 1
+	4
+jazzy
+	aisle
+	carat 171
+	dandy 19
+	gawky 5
+	mammy 3
+	happy 2
+	jazzy 1
+	7
+kinky
+	aisle
+	ditch 62
+	pinky 12
+	kinky 1
+	4
+gassy
+	aisle
+	pasty 9
+	sassy 2
+	gassy 1
+	4
+trail
+	aisle
+	trail 15
+	2
+polyp
+	aisle
+	clump 57
+	polyp 1
+	3
+digit
+	aisle
+	ditch 62
+	dirty 2
+	digit 1
+	4
+graph
+	aisle
+	carat 171
+	brand 22
+	gravy 2
+	graph 1
+	5
+graze
+	aisle
+	grace 44
+	grade 5
+	grape 4
+	grate 3
+	grave 2
+	graze 1
+	7
+freed
+	aisle
+	tenor 172
+	creed 9
+	greed 3
+	breed 2
+	freed 1
+	6
+chaos
+	aisle
+	trash 73
+	shank 5
+	chaos 1
+	4
+force
+	aisle
+	puree 82
+	forge 6
+	forte 2
+	force 1
+	5
+bloke
+	aisle
+	bulge 17
+	bloke 1
+	3
+primo
+	aisle
+	print 86
+	prior 4
+	primo 1
+	4
+strut
+	aisle
+	snort 92
+	strut 1
+	3
+cabal
+	aisle
+	carol 67
+	cabal 2
+	3
+spiky
+	aisle
+	stink 41
+	skimp 3
+	spiky 1
+	4
+debug
+	aisle
+	tenor 172
+	beech 5
+	debug 1
+	4
+tease
+	aisle
+	stare 30
+	tease 1
+	3
+unwed
+	aisle
+	tenor 172
+	unfed 6
+	unwed 1
+	4
+canal
+	aisle
+	carol 67
+	cabal 2
+	canal 1
+	4
+visor
+	aisle
+	visor 9
+	2
+chore
+	aisle
+	puree 82
+	trove 11
+	chore 1
+	4
+brush
+	aisle
+	snort 92
+	crush 2
+	brush 1
+	4
+ratio
+	aisle
+	train 42
+	ratio 1
+	3
+bathe
+	aisle
+	grace 44
+	maybe 5
+	bathe 1
+	4
+theta
+	aisle
+	react 96
+	taken 5
+	theta 1
+	4
+brass
+	aisle
+	trash 73
+	grasp 4
+	crass 2
+	brass 1
+	5
+seize
+	aisle
+	snipe 16
+	smite 4
+	shire 2
+	seize 1
+	5
+sport
+	aisle
+	snort 92
+	short 2
+	sport 1
+	4
+fixer
+	aisle
+	diner 30
+	viper 9
+	tiger 4
+	fiber 2
+	fixer 1
+	6
+lower
+	aisle
+	rebel 59
+	lower 5
+	3
+flour
+	aisle
+	clump 57
+	flout 2
+	flour 1
+	4
+berry
+	aisle
+	tenor 172
+	merry 10
+	ferry 2
+	berry 1
+	5
+stank
+	aisle
+	trash 73
+	stank 6
+	3
+acorn
+	aisle
+	abort 28
+	adorn 3
+	acorn 1
+	4
+issue
+	aisle
+	issue 1
+	2
+tarot
+	aisle
+	carat 171
+	tarot 1
+	3
+tramp
+	aisle
+	carat 171
+	wrath 2
+	tramp 1
+	4
+axion
+	aisle
+	admit 18
+	aping 4
+	avian 2
+	axion 1
+	5
+cheat
+	aisle
+	react 96
+	cadet 3
+	cheat 1
+	4
+joist
+	aisle
+	stink 41
+	foist 6
+	moist 3
+	hoist 2
+	joist 1
+	6
+built
+	aisle
+	guild 16
+	quill 3
+	built 1
+	4
+upset
+	aisle
+	pesto 12
+	upset 1
+	3
+expel
+	aisle
+	rebel 59
+	excel 4
+	expel 1
+	4
+glaze
+	aisle
+	large 22
+	glade 2
+	glaze 1
+	4
+mushy
+	aisle
+	mushy 16
+	2
+dingo
+	aisle
+	ditch 62
+	dizzy 3
+	dingo 1
+	4
+guard
+	aisle
+	carat 171
+	brand 22
+	hoard 2
+	guard 1
+	5
+dodge
+	aisle
+	puree 82
+	ozone 6
+	dodge 1
+	4
+hippy
+	aisle
+	ditch 62
+	hippo 2
+	hippy 1
+	4
+decry
+	aisle
+	tenor 172
+	merry 10
+	decry 1
+	4
+blade
+	aisle
+	large 22
+	blame 9
+	blaze 2
+	blade 1
+	5
+dying
+	aisle
+	print 86
+	doing 7
+	dying 1
+	4
+demur
+	aisle
+	tenor 172
+	defer 7
+	demur 1
+	4
+empty
+	aisle
+	tenor 172
+	duvet 3
+	empty 1
+	4
+moult
+	aisle
+	dully 28
+	moult 1
+	3
+skate
+	aisle
+	stare 30
+	skate 1
+	3
+array
+	aisle
+	abort 28
+	augur 2
+	array 1
+	4
+wreak
+	aisle
+	react 96
+	wager 20
+	wreak 1
+	4
+stump
+	aisle
+	snort 92
+	stuck 4
+	study 3
+	stuff 2
+	stump 1
+	6
+mange
+	aisle
+	grace 44
+	badge 3
+	mange 1
+	4
+gorge
+	aisle
+	puree 82
+	forge 6
+	gorge 1
+	4
+boney
+	aisle
+	tenor 172
+	money 3
+	honey 2
+	boney 1
+	5
+sworn
+	aisle
+	snort 92
+	shorn 3
+	scorn 2
+	sworn 1
+	5
+gamma
+	aisle
+	carat 171
+	manga 6
+	gamma 1
+	4
+thank
+	aisle
+	carat 171
+	tonga 5
+	thank 1
+	4
+stein
+	aisle
+	sheik 8
+	stein 1
+	3
+voice
+	aisle
+	trice 38
+	juice 2
+	voice 1
+	4
+cloud
+	aisle
+	clump 57
+	clout 2
+	cloud 1
+	4
+booby
+	aisle
+	thorn 196
+	goody 7
+	boozy 3
+	booby 1
+	5
+flick
+	aisle
+	cling 30
+	flick 1
+	3
+clone
+	aisle
+	bulge 17
+	clove 3
+	clone 1
+	4
+spoon
+	aisle
+	snort 92
+	shown 3
+	spoon 1
+	4
+alter
+	aisle
+	alley 5
+	alter 1
+	3
+photo
+	aisle
+	thorn 196
+	photo 1
+	3
+thigh
+	aisle
+	print 86
+	thick 2
+	thigh 1
+	4
+heron
+	aisle
+	tenor 172
+	heron 1
+	3
+sigma
+	aisle
+	sigma 1
+	2
+stole
+	aisle
+	style 2
+	stole 1
+	3
+input
+	aisle
+	print 86
+	input 1
+	3
+fleck
+	aisle
+	rebel 59
+	cleft 4
+	fleck 1
+	4
+risen
+	aisle
+	wiser 4
+	risen 1
+	3
+smash
+	aisle
+	trash 73
+	smash 4
+	3
+nutty
+	aisle
+	thorn 196
+	nutty 2
+	3
+snuck
+	aisle
+	snort 92
+	snuff 2
+	snuck 1
+	4
+lilac
+	aisle
+	vital 6
+	lilac 1
+	3
+riser
+	aisle
+	wiser 4
+	riser 2
+	3
+daunt
+	aisle
+	carat 171
+	gaunt 7
+	vaunt 5
+	taunt 4
+	haunt 3
+	jaunt 2
+	daunt 1
+	8
+lapel
+	aisle
+	petal 49
+	lapel 1
+	3
+guilt
+	aisle
+	guild 16
+	guilt 1
+	3
+equip
+	aisle
+	fetid 45
+	equip 1
+	3
+lover
+	aisle
+	rebel 59
+	lower 5
+	lover 1
+	4
+resin
+	aisle
+	resin 1
+	2
+sweat
+	aisle
+	steak 16
+	sweat 1
+	3
+fritz
+	aisle
+	print 86
+	trick 2
+	fritz 1
+	4
+uncut
+	aisle
+	thorn 196
+	nutty 2
+	uncut 1
+	4
+psalm
+	aisle
+	stall 11
+	psalm 1
+	3
+rigor
+	aisle
+	ditch 62
+	pinky 12
+	vigor 2
+	rigor 1
+	5
+magma
+	aisle
+	carat 171
+	manga 6
+	magma 1
+	4
+ratty
+	aisle
+	carat 171
+	ratty 1
+	3
+place
+	aisle
+	large 22
+	blame 9
+	plate 5
+	plane 2
+	place 1
+	6
+blank
+	aisle
+	carol 67
+	plank 10
+	flank 2
+	blank 1
+	5
+midge
+	aisle
+	binge 16
+	ridge 3
+	midge 1
+	4
+qualm
+	aisle
+	madly 13
+	qualm 1
+	3
+noose
+	aisle
+	store 47
+	goose 5
+	moose 2
+	noose 1
+	5
+steal
+	aisle
+	leash 3
+	steal 1
+	3
+fetch
+	aisle
+	tenor 172
+	depth 7
+	fetch 1
+	4
+dolly
+	aisle
+	dully 28
+	dolly 1
+	3
+juror
+	aisle
+	thorn 196
+	furor 9
+	juror 1
+	4
+reset
+	aisle
+	pesto 12
+	beset 2
+	reset 1
+	4
+bison
+	aisle
+	visor 9
+	bison 1
+	3
+cramp
+	aisle
+	carat 171
+	crank 7
+	crazy 2
+	cramp 1
+	5
+swore
+	aisle
+	store 47
+	score 5
+	snore 4
+	shore 3
+	spore 2
+	swore 1
+	7
+roast
+	aisle
+	trash 73
+	roast 1
+	3
+ahead
+	aisle
+	arena 12
+	ahead 1
+	3
+ovoid
+	aisle
+	print 86
+	humid 4
+	ovoid 1
+	4
+segue
+	aisle
+	store 47
+	scene 3
+	segue 1
+	4
+miser
+	aisle
+	wiser 4
+	riser 2
+	miser 1
+	4
+eater
+	aisle
+	react 96
+	tamer 9
+	water 3
+	hater 2
+	eater 1
+	6
+gnash
+	aisle
+	trash 73
+	smash 4
+	quash 2
+	gnash 1
+	5
+milky
+	aisle
+	limit 13
+	filmy 2
+	milky 1
+	4
+whoop
+	aisle
+	thorn 196
+	chock 2
+	whoop 1
+	4
+batch
+	aisle
+	carat 171
+	watch 6
+	match 4
+	hatch 3
+	patch 2
+	batch 1
+	7
+hobby
+	aisle
+	thorn 196
+	vouch 8
+	howdy 2
+	hobby 1
+	5
+scope
+	aisle
+	store 47
+	scone 6
+	scope 1
+	4
+vogue
+	aisle
+	puree 82
+	gouge 4
+	vogue 1
+	4
+glyph
+	aisle
+	clump 57
+	glyph 1
+	3
+swash
+	aisle
+	trash 73
+	smash 4
+	swash 1
+	4
+rupee
+	aisle
+	puree 82
+	rupee 1
+	3
+glean
+	aisle
+	petal 49
+	clean 5
+	glean 1
+	4
+stark
+	aisle
+	trash 73
+	start 3
+	stark 1
+	4
+curly
+	aisle
+	dully 28
+	burly 2
+	curly 1
+	4
+choke
+	aisle
+	puree 82
+	ozone 6
+	choke 1
+	4
+route
+	aisle
+	puree 82
+	brute 6
+	route 1
+	4
+perky
+	aisle
+	tenor 172
+	merry 10
+	jerky 3
+	perky 1
+	5
+randy
+	aisle
+	carat 171
+	rayon 8
+	randy 1
+	4
+conch
+	aisle
+	thorn 196
+	hound 2
+	conch 1
+	4
+lofty
+	aisle
+	clump 57
+	drool 6
+	lobby 2
+	lofty 1
+	5
+belch
+	aisle
+	rebel 59
+	below 2
+	belch 1
+	4
+fanny
+	aisle
+	carat 171
+	dandy 19
+	nanny 3
+	fanny 1
+	5
+stage
+	aisle
+	stare 30
+	state 4
+	stave 3
+	stake 2
+	stage 1
+	6
+shook
+	aisle
+	snort 92
+	shock 10
+	shook 1
+	4
+chard
+	aisle
+	carat 171
+	crank 7
+	charm 2
+	chard 1
+	5
+toast
+	aisle
+	trash 73
+	toast 1
+	3
+tweed
+	aisle
+	tenor 172
+	tweet 3
+	tweed 1
+	4
+alley
+	aisle
+	alley 5
+	2
+agape
+	aisle
+	adage 18
+	agate 2
+	agape 1
+	4
+elude
+	aisle
+	bulge 17
+	flume 5
+	elude 1
+	4
+speck
+	aisle
+	steer 49
+	spend 2
+	speck 1
+	4
+harry
+	aisle
+	carat 171
+	harpy 6
+	hardy 2
+	harry 1
+	5
+tutor
+	aisle
+	thorn 196
+	tumor 3
+	tutor 1
+	4
+blond
+	aisle
+	clump 57
+	flood 7
+	blond 1
+	4
+vivid
+	aisle
+	ditch 62
+	giddy 6
+	vivid 1
+	4
+derby
+	aisle
+	tenor 172
+	merry 10
+	jerky 3
+	derby 1
+	5
+alike
+	aisle
+	alive 2
+	alike 1
+	3
+latte
+	aisle
+	large 22
+	lathe 3
+	latte 1
+	4
+slave
+	aisle
+	salve 6
+	slave 1
+	3
+sadly
+	aisle
+	stall 11
+	sadly 1
+	3
+nerve
+	aisle
+	puree 82
+	verve 4
+	nerve 1
+	4
+fancy
+	aisle
+	carat 171
+	macho 5
+	fancy 1
+	4
+modal
+	aisle
+	carol 67
+	tonal 6
+	loyal 2
+	modal 1
+	5
+clown
+	aisle
+	clump 57
+	clock 3
+	cloth 2
+	clown 1
+	5
+plaid
+	aisle
+	trail 15
+	plain 3
+	plaid 1
+	4
+posse
+	aisle
+	ensue 2
+	posse 1
+	3
+steed
+	aisle
+	steer 49
+	steep 2
+	steed 1
+	4
+upper
+	aisle
+	tenor 172
+	purer 12
+	upper 1
+	4
+circa
+	aisle
+	tiara 11
+	circa 1
+	3
+mayor
+	aisle
+	carat 171
+	rayon 8
+	mayor 1
+	4
+jetty
+	aisle
+	tenor 172
+	depth 7
+	jetty 1
+	4
+extol
+	aisle
+	rebel 59
+	extol 1
+	3
+miner
+	aisle
+	diner 30
+	finer 2
+	miner 1
+	4
+pasty
+	aisle
+	pasty 9
+	2
+pinky
+	aisle
+	ditch 62
+	pinky 12
+	3
+minim
+	aisle
+	ditch 62
+	pinky 12
+	bingo 3
+	minim 1
+	5
+spawn
+	aisle
+	trash 73
+	snack 8
+	spawn 1
+	4
+swath
+	aisle
+	trash 73
+	swath 1
+	3
+racer
+	aisle
+	react 96
+	racer 1
+	3
+cocoa
+	aisle
+	carat 171
+	comma 5
+	cocoa 1
+	4
+turbo
+	aisle
+	thorn 196
+	tumor 3
+	turbo 1
+	4
+risky
+	aisle
+	visor 9
+	risky 1
+	3
+churn
+	aisle
+	thorn 196
+	churn 1
+	3
+stilt
+	aisle
+	spilt 6
+	stilt 1
+	3
+koala
+	aisle
+	madly 13
+	chalk 2
+	koala 1
+	4
+slyly
+	aisle
+	sully 7
+	slyly 1
+	3
+forgo
+	aisle
+	thorn 196
+	furor 9
+	forgo 1
+	4
+curry
+	aisle
+	thorn 196
+	furry 2
+	curry 1
+	4
+soapy
+	aisle
+	trash 73
+	snack 8
+	swamp 2
+	soapy 1
+	5
+stead
+	aisle
+	steak 16
+	steam 2
+	stead 1
+	4
+vapid
+	aisle
+	train 42
+	maxim 4
+	vapid 1
+	4
+realm
+	aisle
+	mealy 6
+	realm 1
+	3
+aorta
+	aisle
+	abort 28
+	actor 2
+	aorta 1
+	4
+shale
+	aisle
+	stale 3
+	scale 2
+	shale 1
+	4
+bluff
+	aisle
+	clump 57
+	flung 7
+	bluff 1
+	4
+musty
+	aisle
+	mushy 16
+	musky 2
+	musty 1
+	4
+outer
+	aisle
+	tenor 172
+	other 4
+	outer 1
+	4
+merit
+	aisle
+	fetid 45
+	remit 2
+	merit 1
+	4
+viola
+	aisle
+	villa 2
+	viola 1
+	3
+quell
+	aisle
+	hello 12
+	dwell 2
+	quell 1
+	4
+testy
+	aisle
+	pesto 12
+	zesty 2
+	testy 1
+	4
+tithe
+	aisle
+	binge 16
+	pixie 5
+	diode 2
+	tithe 1
+	5

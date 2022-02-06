@@ -1,0 +1,12961 @@
+exert
+	alert
+	exert 3
+	2
+wrist
+	alert
+	frost 24
+	trust 4
+	wrist 1
+	4
+cover
+	alert
+	siren 160
+	rower 32
+	mover 8
+	cover 2
+	5
+brisk
+	alert
+	crony 98
+	brisk 6
+	3
+thong
+	alert
+	south 84
+	thong 1
+	3
+droop
+	alert
+	crony 98
+	droop 10
+	3
+fault
+	alert
+	fault 4
+	2
+stint
+	alert
+	hoist 45
+	stint 2
+	3
+viral
+	alert
+	moral 22
+	viral 2
+	3
+blast
+	alert
+	blast 7
+	2
+crept
+	alert
+	crest 5
+	crept 1
+	3
+decor
+	alert
+	siren 160
+	prude 18
+	decor 1
+	4
+quest
+	alert
+	sheet 13
+	quest 2
+	3
+piggy
+	alert
+	sonic 196
+	whiff 9
+	giddy 4
+	piggy 1
+	5
+forgo
+	alert
+	crony 98
+	rough 11
+	forgo 1
+	4
+koala
+	alert
+	sally 60
+	koala 5
+	3
+latte
+	alert
+	latte 8
+	2
+ovate
+	alert
+	taste 23
+	ovate 1
+	3
+brief
+	alert
+	siren 160
+	cried 8
+	brief 2
+	4
+gusty
+	alert
+	south 84
+	gusty 3
+	3
+recut
+	alert
+	rebut 10
+	recut 1
+	3
+angle
+	alert
+	angle 9
+	2
+brood
+	alert
+	crony 98
+	droop 10
+	brood 1
+	4
+deter
+	alert
+	outer 35
+	deter 5
+	3
+trace
+	alert
+	cater 13
+	trace 1
+	3
+evoke
+	alert
+	noise 145
+	evoke 2
+	3
+dress
+	alert
+	creed 22
+	dress 1
+	3
+grand
+	alert
+	baron 77
+	grand 5
+	3
+idiot
+	alert
+	hoist 45
+	idiot 1
+	3
+liege
+	alert
+	wheel 15
+	liege 1
+	3
+album
+	alert
+	alloy 10
+	alibi 4
+	album 1
+	4
+chasm
+	alert
+	candy 110
+	chasm 7
+	3
+stage
+	alert
+	taste 23
+	stage 3
+	3
+newer
+	alert
+	siren 160
+	renew 6
+	newer 1
+	4
+avert
+	alert
+	avert 1
+	2
+touch
+	alert
+	south 84
+	touch 2
+	3
+cider
+	alert
+	siren 160
+	diver 11
+	cider 3
+	4
+boney
+	alert
+	noise 145
+	women 8
+	boney 2
+	4
+fence
+	alert
+	noise 145
+	pence 7
+	fence 2
+	4
+woozy
+	alert
+	sonic 196
+	goody 16
+	woozy 3
+	4
+clove
+	alert
+	slope 23
+	clove 5
+	3
+extol
+	alert
+	lithe 13
+	extol 3
+	3
+river
+	alert
+	siren 160
+	diver 11
+	river 2
+	4
+exact
+	alert
+	feast 9
+	exact 2
+	3
+image
+	alert
+	sauce 61
+	knave 6
+	image 1
+	4
+mammy
+	alert
+	candy 110
+	gassy 10
+	mammy 3
+	4
+skulk
+	alert
+	silly 84
+	skulk 2
+	3
+daunt
+	alert
+	haunt 24
+	daunt 5
+	3
+atoll
+	alert
+	atoll 2
+	2
+abort
+	alert
+	abort 2
+	2
+dusky
+	alert
+	sonic 196
+	mushy 10
+	dusky 2
+	4
+kneed
+	alert
+	sheen 30
+	kneed 1
+	3
+macro
+	alert
+	chard 28
+	macro 1
+	3
+catch
+	alert
+	nasty 49
+	match 9
+	catch 5
+	4
+beset
+	alert
+	onset 21
+	beset 2
+	3
+rigid
+	alert
+	crony 98
+	rigid 5
+	3
+slick
+	alert
+	slunk 52
+	slick 1
+	3
+stilt
+	alert
+	moult 11
+	stilt 2
+	3
+taker
+	alert
+	cater 13
+	taker 3
+	3
+girth
+	alert
+	north 31
+	girth 3
+	3
+slice
+	alert
+	slope 23
+	slice 3
+	3
+bison
+	alert
+	sonic 196
+	bison 1
+	3
+valet
+	alert
+	leapt 7
+	valet 2
+	3
+arson
+	alert
+	arbor 11
+	arson 1
+	3
+drunk
+	alert
+	crony 98
+	bring 7
+	drunk 1
+	4
+pagan
+	alert
+	candy 110
+	mason 6
+	pagan 1
+	4
+plied
+	alert
+	slope 23
+	plied 1
+	3
+grail
+	alert
+	moral 22
+	crawl 5
+	grail 2
+	4
+beefy
+	alert
+	sheen 30
+	beefy 5
+	3
+clink
+	alert
+	slunk 52
+	clink 2
+	3
+inner
+	alert
+	siren 160
+	inner 2
+	3
+salvo
+	alert
+	sally 60
+	salvo 4
+	3
+smear
+	alert
+	dream 12
+	smear 1
+	3
+otter
+	alert
+	outer 35
+	otter 1
+	3
+south
+	alert
+	south 84
+	2
+acute
+	alert
+	abate 4
+	acute 1
+	3
+spray
+	alert
+	baron 77
+	spray 4
+	3
+blitz
+	alert
+	cloth 3
+	blitz 1
+	3
+sixty
+	alert
+	south 84
+	sixty 1
+	3
+stony
+	alert
+	south 84
+	stoop 6
+	stoic 3
+	stony 1
+	5
+bloke
+	alert
+	slope 23
+	clove 5
+	bloke 2
+	4
+wager
+	alert
+	barge 49
+	gayer 5
+	wager 2
+	4
+nomad
+	alert
+	candy 110
+	nomad 1
+	3
+jelly
+	alert
+	belie 59
+	cello 7
+	jelly 1
+	4
+liver
+	alert
+	liver 20
+	2
+shall
+	alert
+	sally 60
+	shall 2
+	3
+sworn
+	alert
+	shorn 25
+	sworn 2
+	3
+verve
+	alert
+	siren 160
+	force 15
+	verve 4
+	4
+eking
+	alert
+	noise 145
+	eking 5
+	3
+plumb
+	alert
+	slunk 52
+	plumb 6
+	3
+sport
+	alert
+	sport 7
+	2
+iliac
+	alert
+	slack 30
+	iliac 1
+	3
+dodge
+	alert
+	noise 145
+	gouge 5
+	dodge 1
+	4
+spook
+	alert
+	sonic 196
+	spook 6
+	3
+enemy
+	alert
+	sheen 30
+	enemy 3
+	3
+among
+	alert
+	again 20
+	among 1
+	3
+grime
+	alert
+	siren 160
+	pride 10
+	grime 3
+	4
+unmet
+	alert
+	onset 21
+	unmet 1
+	3
+smith
+	alert
+	south 84
+	smith 2
+	3
+booze
+	alert
+	noise 145
+	gouge 5
+	booze 1
+	4
+catty
+	alert
+	nasty 49
+	catty 5
+	3
+kneel
+	alert
+	wheel 15
+	kneel 1
+	3
+nutty
+	alert
+	south 84
+	nutty 3
+	3
+debit
+	alert
+	onset 21
+	edict 6
+	debit 1
+	4
+groom
+	alert
+	crony 98
+	droop 10
+	groom 3
+	4
+windy
+	alert
+	sonic 196
+	windy 6
+	3
+choke
+	alert
+	noise 145
+	evoke 2
+	choke 1
+	4
+disco
+	alert
+	sonic 196
+	disco 1
+	3
+churn
+	alert
+	shorn 25
+	churn 1
+	3
+breed
+	alert
+	creed 22
+	breed 3
+	3
+extra
+	alert
+	teary 4
+	extra 1
+	3
+strut
+	alert
+	frost 24
+	strut 1
+	3
+myrrh
+	alert
+	shorn 25
+	myrrh 2
+	3
+parse
+	alert
+	barge 49
+	farce 3
+	parse 1
+	4
+grape
+	alert
+	barge 49
+	grape 5
+	3
+flier
+	alert
+	flier 7
+	2
+alert
+	alert
+	-1
+actor
+	alert
+	actor 3
+	2
+avoid
+	alert
+	again 20
+	avoid 4
+	3
+clank
+	alert
+	slack 30
+	clank 1
+	3
+allay
+	alert
+	alloy 10
+	allay 1
+	3
+prose
+	alert
+	siren 160
+	prose 4
+	3
+bonus
+	alert
+	sonic 196
+	bonus 1
+	3
+truly
+	alert
+	truly 2
+	2
+moldy
+	alert
+	silly 84
+	bulky 3
+	moldy 1
+	4
+sooty
+	alert
+	south 84
+	sooty 1
+	3
+atone
+	alert
+	abate 4
+	atone 1
+	3
+whole
+	alert
+	belie 59
+	louse 7
+	whole 1
+	4
+cough
+	alert
+	sonic 196
+	cough 6
+	3
+guise
+	alert
+	noise 145
+	guise 1
+	3
+gnome
+	alert
+	noise 145
+	phone 4
+	gnome 1
+	4
+exalt
+	alert
+	least 7
+	exalt 1
+	3
+wrong
+	alert
+	crony 98
+	wrong 3
+	3
+chant
+	alert
+	haunt 24
+	chant 1
+	3
+nasal
+	alert
+	sally 60
+	nasal 4
+	3
+bitty
+	alert
+	south 84
+	bitty 6
+	3
+demur
+	alert
+	siren 160
+	prude 18
+	demur 1
+	4
+spare
+	alert
+	heard 10
+	spare 3
+	3
+eater
+	alert
+	cater 13
+	eater 3
+	3
+blurb
+	alert
+	blurb 3
+	2
+older
+	alert
+	flier 7
+	older 4
+	3
+gloom
+	alert
+	slunk 52
+	blimp 8
+	gloom 1
+	4
+duvet
+	alert
+	onset 21
+	duvet 3
+	3
+stray
+	alert
+	tapir 17
+	stray 3
+	3
+forum
+	alert
+	crony 98
+	furor 11
+	forum 1
+	4
+worth
+	alert
+	north 31
+	worth 2
+	3
+plate
+	alert
+	plate 3
+	2
+frank
+	alert
+	baron 77
+	grand 5
+	frank 3
+	4
+kinky
+	alert
+	sonic 196
+	windy 6
+	kinky 3
+	4
+cloak
+	alert
+	slack 30
+	cloak 1
+	3
+aloud
+	alert
+	alloy 10
+	aloud 2
+	3
+rider
+	alert
+	siren 160
+	diver 11
+	cider 3
+	rider 2
+	5
+idiom
+	alert
+	sonic 196
+	idiom 4
+	3
+navel
+	alert
+	ladle 42
+	navel 7
+	3
+ninth
+	alert
+	south 84
+	ninth 3
+	3
+karma
+	alert
+	baron 77
+	marsh 7
+	karma 1
+	4
+tepee
+	alert
+	spite 47
+	tepee 1
+	3
+waive
+	alert
+	sauce 61
+	mange 8
+	waive 2
+	4
+women
+	alert
+	noise 145
+	women 8
+	3
+leech
+	alert
+	wheel 15
+	leech 1
+	3
+fjord
+	alert
+	shorn 25
+	fjord 2
+	3
+ninny
+	alert
+	sonic 196
+	windy 6
+	kinky 3
+	ninny 1
+	5
+bread
+	alert
+	dream 12
+	bread 1
+	3
+crane
+	alert
+	barge 49
+	crane 7
+	3
+lusty
+	alert
+	until 8
+	lusty 1
+	3
+qualm
+	alert
+	sally 60
+	koala 5
+	qualm 1
+	4
+mania
+	alert
+	candy 110
+	mania 4
+	3
+fatty
+	alert
+	nasty 49
+	catty 5
+	fatty 4
+	4
+roach
+	alert
+	baron 77
+	roach 2
+	3
+jaunt
+	alert
+	haunt 24
+	daunt 5
+	jaunt 4
+	4
+steam
+	alert
+	steam 5
+	2
+savoy
+	alert
+	candy 110
+	gassy 10
+	savoy 3
+	4
+jumbo
+	alert
+	sonic 196
+	jumbo 4
+	3
+mound
+	alert
+	sonic 196
+	mound 8
+	3
+tooth
+	alert
+	south 84
+	tooth 3
+	3
+vault
+	alert
+	fault 4
+	vault 1
+	3
+candy
+	alert
+	candy 110
+	2
+crack
+	alert
+	baron 77
+	crash 17
+	crack 3
+	4
+glyph
+	alert
+	slunk 52
+	blimp 8
+	glyph 1
+	4
+build
+	alert
+	silly 84
+	build 4
+	3
+melee
+	alert
+	belie 59
+	melee 2
+	3
+spill
+	alert
+	silly 84
+	spill 3
+	3
+elide
+	alert
+	slope 23
+	elide 5
+	3
+essay
+	alert
+	sauce 61
+	essay 1
+	3
+rebut
+	alert
+	rebut 10
+	2
+occur
+	alert
+	crony 98
+	occur 2
+	3
+bring
+	alert
+	crony 98
+	bring 7
+	3
+waste
+	alert
+	taste 23
+	waste 5
+	3
+gipsy
+	alert
+	sonic 196
+	gipsy 5
+	3
+watch
+	alert
+	nasty 49
+	match 9
+	catch 5
+	watch 4
+	5
+screw
+	alert
+	siren 160
+	screw 5
+	3
+raspy
+	alert
+	baron 77
+	rapid 5
+	raspy 1
+	4
+witch
+	alert
+	south 84
+	witch 5
+	3
+camel
+	alert
+	ladle 42
+	navel 7
+	camel 4
+	4
+derby
+	alert
+	siren 160
+	force 15
+	jerky 3
+	derby 1
+	5
+irony
+	alert
+	crony 98
+	irony 1
+	3
+skunk
+	alert
+	sonic 196
+	skunk 4
+	3
+clasp
+	alert
+	slack 30
+	clasp 3
+	3
+saute
+	alert
+	taste 23
+	saute 1
+	3
+ascot
+	alert
+	adopt 10
+	ascot 2
+	3
+cloth
+	alert
+	cloth 3
+	2
+thumb
+	alert
+	south 84
+	thumb 2
+	3
+squib
+	alert
+	sonic 196
+	squib 1
+	3
+brash
+	alert
+	baron 77
+	brash 4
+	3
+death
+	alert
+	taste 23
+	death 3
+	3
+stall
+	alert
+	talon 16
+	stall 3
+	3
+hunky
+	alert
+	sonic 196
+	funny 4
+	hunky 1
+	4
+smack
+	alert
+	candy 110
+	smack 8
+	3
+abhor
+	alert
+	arbor 11
+	abhor 1
+	3
+sober
+	alert
+	siren 160
+	sewer 5
+	sober 2
+	4
+weary
+	alert
+	heard 10
+	weary 3
+	3
+alloy
+	alert
+	allow 10
+	alloy 1
+	3
+water
+	alert
+	cater 13
+	eater 3
+	water 2
+	4
+mushy
+	alert
+	sonic 196
+	mushy 10
+	3
+crash
+	alert
+	baron 77
+	crash 17
+	3
+badge
+	alert
+	sauce 61
+	mange 8
+	badge 1
+	4
+kebab
+	alert
+	sauce 61
+	beady 7
+	kebab 1
+	4
+wound
+	alert
+	sonic 196
+	mound 8
+	wound 5
+	4
+there
+	alert
+	there 2
+	2
+knave
+	alert
+	sauce 61
+	knave 6
+	3
+eight
+	alert
+	onset 21
+	edict 6
+	eight 1
+	4
+fable
+	alert
+	ladle 42
+	fable 4
+	3
+slate
+	alert
+	plate 3
+	slate 2
+	3
+haste
+	alert
+	taste 23
+	waste 5
+	haste 4
+	4
+synod
+	alert
+	sonic 196
+	synod 1
+	3
+segue
+	alert
+	noise 145
+	segue 1
+	3
+brute
+	alert
+	outer 35
+	brute 2
+	3
+liken
+	alert
+	belie 59
+	liken 5
+	3
+cheap
+	alert
+	sneak 8
+	cheap 1
+	3
+harsh
+	alert
+	baron 77
+	marsh 7
+	harsh 1
+	4
+grant
+	alert
+	craft 9
+	grant 2
+	3
+fight
+	alert
+	hoist 45
+	fight 5
+	3
+chide
+	alert
+	noise 145
+	chide 4
+	3
+trove
+	alert
+	outer 35
+	trove 4
+	3
+resin
+	alert
+	siren 160
+	resin 1
+	3
+scant
+	alert
+	haunt 24
+	scant 2
+	3
+motel
+	alert
+	lithe 13
+	extol 3
+	motel 1
+	4
+axion
+	alert
+	again 20
+	axion 1
+	3
+plane
+	alert
+	blade 10
+	plane 6
+	3
+tuber
+	alert
+	outer 35
+	tuber 1
+	3
+krill
+	alert
+	drill 20
+	krill 3
+	3
+cause
+	alert
+	sauce 61
+	cause 1
+	3
+randy
+	alert
+	baron 77
+	randy 4
+	3
+fibre
+	alert
+	chore 16
+	fibre 3
+	3
+cameo
+	alert
+	sauce 61
+	cameo 2
+	3
+steed
+	alert
+	steed 8
+	2
+these
+	alert
+	steed 8
+	these 1
+	3
+ennui
+	alert
+	noise 145
+	widen 8
+	ennui 1
+	4
+stork
+	alert
+	stork 6
+	2
+opine
+	alert
+	noise 145
+	opine 2
+	3
+creme
+	alert
+	creed 22
+	creme 2
+	3
+rainy
+	alert
+	baron 77
+	randy 4
+	rainy 1
+	4
+sense
+	alert
+	noise 145
+	sense 2
+	3
+snake
+	alert
+	sauce 61
+	shade 7
+	snake 1
+	4
+burly
+	alert
+	drill 20
+	burly 3
+	3
+beach
+	alert
+	sauce 61
+	beach 3
+	3
+stare
+	alert
+	teary 4
+	stare 1
+	3
+gruel
+	alert
+	liver 20
+	gruel 4
+	3
+night
+	alert
+	hoist 45
+	fight 5
+	night 4
+	4
+flesh
+	alert
+	bleed 9
+	flesh 2
+	3
+amend
+	alert
+	amend 2
+	2
+dimly
+	alert
+	silly 84
+	dimly 1
+	3
+hoist
+	alert
+	hoist 45
+	2
+stump
+	alert
+	south 84
+	stunk 6
+	stump 3
+	4
+golly
+	alert
+	silly 84
+	golly 9
+	3
+tread
+	alert
+	tread 1
+	2
+hater
+	alert
+	cater 13
+	eater 3
+	water 2
+	hater 1
+	5
+cried
+	alert
+	siren 160
+	cried 8
+	3
+loose
+	alert
+	belie 59
+	louse 7
+	loose 1
+	4
+berth
+	alert
+	outer 35
+	berth 7
+	3
+preen
+	alert
+	creed 22
+	preen 3
+	3
+bench
+	alert
+	noise 145
+	wench 7
+	bench 1
+	4
+sheik
+	alert
+	sheen 30
+	sheik 1
+	3
+shear
+	alert
+	dream 12
+	shear 3
+	3
+slide
+	alert
+	slope 23
+	slice 3
+	slide 2
+	4
+quirk
+	alert
+	shorn 25
+	curry 3
+	quirk 1
+	4
+theta
+	alert
+	steam 5
+	theta 1
+	3
+input
+	alert
+	hoist 45
+	input 3
+	3
+often
+	alert
+	spite 47
+	often 6
+	3
+tenor
+	alert
+	outer 35
+	tenor 1
+	3
+sieve
+	alert
+	sheen 30
+	sieve 3
+	3
+label
+	alert
+	ladle 42
+	label 2
+	3
+blank
+	alert
+	slack 30
+	blank 3
+	3
+strip
+	alert
+	north 31
+	strip 1
+	3
+viola
+	alert
+	sally 60
+	koala 5
+	viola 1
+	4
+posit
+	alert
+	hoist 45
+	posit 1
+	3
+heart
+	alert
+	heart 1
+	2
+pesto
+	alert
+	spite 47
+	pesto 1
+	3
+reply
+	alert
+	liver 20
+	reply 1
+	3
+while
+	alert
+	belie 59
+	while 3
+	3
+mourn
+	alert
+	shorn 25
+	mourn 1
+	3
+arena
+	alert
+	arena 1
+	2
+chord
+	alert
+	shorn 25
+	chord 1
+	3
+erupt
+	alert
+	rebut 10
+	erupt 1
+	3
+cress
+	alert
+	creed 22
+	cress 1
+	3
+relic
+	alert
+	liver 20
+	relic 2
+	3
+larva
+	alert
+	moral 22
+	larva 1
+	3
+swarm
+	alert
+	chard 28
+	spark 4
+	swarm 1
+	4
+jolly
+	alert
+	silly 84
+	golly 9
+	jolly 4
+	4
+chess
+	alert
+	sheen 30
+	chess 1
+	3
+taper
+	alert
+	cater 13
+	taker 3
+	taper 2
+	4
+polar
+	alert
+	moral 22
+	polar 2
+	3
+evade
+	alert
+	sauce 61
+	knave 6
+	evade 1
+	4
+niche
+	alert
+	noise 145
+	niche 1
+	3
+width
+	alert
+	south 84
+	ninth 3
+	width 2
+	4
+beard
+	alert
+	heard 10
+	beard 1
+	3
+bawdy
+	alert
+	candy 110
+	paddy 4
+	bawdy 2
+	4
+metal
+	alert
+	latte 8
+	metal 3
+	3
+midge
+	alert
+	noise 145
+	pixie 4
+	midge 1
+	4
+condo
+	alert
+	sonic 196
+	condo 2
+	3
+sting
+	alert
+	south 84
+	stink 4
+	sting 1
+	4
+spite
+	alert
+	spite 47
+	2
+stalk
+	alert
+	total 16
+	stalk 3
+	3
+scram
+	alert
+	baron 77
+	spray 4
+	scram 1
+	4
+space
+	alert
+	sauce 61
+	space 1
+	3
+debug
+	alert
+	noise 145
+	debug 2
+	3
+groan
+	alert
+	baron 77
+	groan 2
+	3
+moral
+	alert
+	coral 22
+	moral 1
+	3
+music
+	alert
+	sonic 196
+	music 1
+	3
+mince
+	alert
+	noise 145
+	mince 5
+	3
+using
+	alert
+	sonic 196
+	using 1
+	3
+oxide
+	alert
+	noise 145
+	oxide 1
+	3
+total
+	alert
+	total 16
+	2
+bleed
+	alert
+	bleed 9
+	2
+burst
+	alert
+	frost 24
+	burst 1
+	3
+perch
+	alert
+	siren 160
+	force 15
+	perch 2
+	4
+abbey
+	alert
+	abase 20
+	abbey 1
+	3
+split
+	alert
+	moult 11
+	split 2
+	3
+hippo
+	alert
+	sonic 196
+	idiom 4
+	hippo 1
+	4
+picky
+	alert
+	sonic 196
+	chick 5
+	picky 1
+	4
+wrest
+	alert
+	crest 5
+	wrest 1
+	3
+sword
+	alert
+	shorn 25
+	sword 1
+	3
+droll
+	alert
+	drill 20
+	droll 1
+	3
+polyp
+	alert
+	silly 84
+	polyp 2
+	3
+chuck
+	alert
+	sonic 196
+	chuck 4
+	3
+outer
+	alert
+	outer 35
+	2
+haute
+	alert
+	taste 23
+	haute 1
+	3
+revel
+	alert
+	liver 20
+	revel 1
+	3
+spike
+	alert
+	noise 145
+	spike 3
+	3
+diode
+	alert
+	noise 145
+	diode 2
+	3
+budge
+	alert
+	noise 145
+	fudge 9
+	budge 2
+	4
+wiser
+	alert
+	siren 160
+	wiser 3
+	3
+valid
+	alert
+	sally 60
+	valid 1
+	3
+mogul
+	alert
+	silly 84
+	mogul 3
+	3
+penny
+	alert
+	noise 145
+	wench 7
+	penny 1
+	4
+slink
+	alert
+	slunk 52
+	slink 1
+	3
+china
+	alert
+	candy 110
+	china 2
+	3
+error
+	alert
+	siren 160
+	force 15
+	error 1
+	4
+frond
+	alert
+	crony 98
+	wrong 3
+	frond 1
+	4
+buddy
+	alert
+	sonic 196
+	dumpy 15
+	buddy 1
+	4
+prude
+	alert
+	siren 160
+	prude 18
+	3
+leave
+	alert
+	ladle 42
+	leave 2
+	3
+smelt
+	alert
+	smelt 4
+	2
+clear
+	alert
+	clear 1
+	2
+sneer
+	alert
+	creed 22
+	sneer 3
+	3
+pupal
+	alert
+	sally 60
+	focal 9
+	pupal 1
+	4
+first
+	alert
+	frost 24
+	first 1
+	3
+croup
+	alert
+	crony 98
+	crook 5
+	croup 3
+	4
+idyll
+	alert
+	silly 84
+	idyll 1
+	3
+write
+	alert
+	outer 35
+	berth 7
+	write 2
+	4
+vague
+	alert
+	sauce 61
+	vague 1
+	3
+heavy
+	alert
+	sauce 61
+	beady 7
+	heavy 1
+	4
+rabbi
+	alert
+	baron 77
+	rabbi 2
+	3
+stamp
+	alert
+	nasty 49
+	stamp 5
+	3
+class
+	alert
+	slack 30
+	clasp 3
+	class 2
+	4
+verse
+	alert
+	siren 160
+	verso 6
+	verse 1
+	4
+wreck
+	alert
+	creed 22
+	wreck 1
+	3
+cynic
+	alert
+	sonic 196
+	cynic 1
+	3
+hound
+	alert
+	sonic 196
+	mound 8
+	wound 5
+	hound 4
+	5
+ounce
+	alert
+	noise 145
+	phone 4
+	ounce 1
+	4
+ratty
+	alert
+	tapir 17
+	ratty 2
+	3
+utile
+	alert
+	lithe 13
+	utile 1
+	3
+bilge
+	alert
+	belie 59
+	bilge 1
+	3
+gaffe
+	alert
+	sauce 61
+	mange 8
+	gaffe 1
+	4
+stuff
+	alert
+	south 84
+	stunk 6
+	stump 3
+	stuff 2
+	5
+baler
+	alert
+	relay 12
+	baler 2
+	3
+birch
+	alert
+	crony 98
+	birch 3
+	3
+guide
+	alert
+	noise 145
+	chide 4
+	guide 1
+	4
+tasty
+	alert
+	nasty 49
+	tasty 3
+	3
+miner
+	alert
+	siren 160
+	miner 4
+	3
+visor
+	alert
+	crony 98
+	furor 11
+	visor 2
+	4
+pixie
+	alert
+	noise 145
+	pixie 4
+	3
+owing
+	alert
+	sonic 196
+	owing 4
+	3
+skull
+	alert
+	silly 84
+	skull 1
+	3
+maxim
+	alert
+	candy 110
+	mamma 8
+	maxim 1
+	4
+puree
+	alert
+	siren 160
+	corer 3
+	puree 1
+	4
+totem
+	alert
+	spite 47
+	often 6
+	totem 1
+	4
+swish
+	alert
+	sonic 196
+	spiky 6
+	swish 1
+	4
+petal
+	alert
+	latte 8
+	metal 3
+	petal 2
+	4
+fraud
+	alert
+	baron 77
+	crash 17
+	fraud 3
+	4
+mural
+	alert
+	moral 22
+	mural 1
+	3
+puppy
+	alert
+	sonic 196
+	dumpy 15
+	puppy 2
+	4
+revue
+	alert
+	siren 160
+	prude 18
+	revue 2
+	4
+tubal
+	alert
+	total 16
+	tubal 2
+	3
+choir
+	alert
+	crony 98
+	choir 1
+	3
+crown
+	alert
+	crony 98
+	crown 1
+	3
+vegan
+	alert
+	sauce 61
+	beady 7
+	vegan 1
+	4
+newly
+	alert
+	belie 59
+	newly 3
+	3
+cater
+	alert
+	cater 13
+	2
+teach
+	alert
+	taste 23
+	teach 1
+	3
+trust
+	alert
+	frost 24
+	trust 4
+	3
+wordy
+	alert
+	crony 98
+	wordy 2
+	3
+tramp
+	alert
+	tapir 17
+	tramp 1
+	3
+pushy
+	alert
+	sonic 196
+	mushy 10
+	pushy 2
+	4
+whiff
+	alert
+	sonic 196
+	whiff 9
+	3
+butte
+	alert
+	spite 47
+	butte 3
+	3
+alpha
+	alert
+	alloy 10
+	alibi 4
+	alpha 1
+	4
+hazel
+	alert
+	ladle 42
+	navel 7
+	camel 4
+	hazel 3
+	5
+giant
+	alert
+	haunt 24
+	scant 2
+	giant 1
+	4
+rarer
+	alert
+	barge 49
+	rarer 3
+	3
+wider
+	alert
+	siren 160
+	diver 11
+	cider 3
+	rider 2
+	wider 1
+	6
+smite
+	alert
+	spite 47
+	smite 2
+	3
+faint
+	alert
+	haunt 24
+	faint 4
+	3
+chill
+	alert
+	silly 84
+	chill 2
+	3
+savvy
+	alert
+	candy 110
+	gassy 10
+	savoy 3
+	savvy 1
+	5
+macho
+	alert
+	candy 110
+	macho 5
+	3
+lorry
+	alert
+	whirl 3
+	lorry 1
+	3
+orbit
+	alert
+	frost 24
+	orbit 1
+	3
+gloat
+	alert
+	blast 7
+	gloat 2
+	3
+druid
+	alert
+	crony 98
+	brisk 6
+	druid 1
+	4
+tabby
+	alert
+	nasty 49
+	tabby 3
+	3
+icing
+	alert
+	sonic 196
+	icing 1
+	3
+acorn
+	alert
+	acorn 5
+	2
+creep
+	alert
+	creed 22
+	creep 2
+	3
+coral
+	alert
+	moral 22
+	coral 1
+	3
+widow
+	alert
+	sonic 196
+	idiom 4
+	widow 1
+	4
+paper
+	alert
+	barge 49
+	caper 11
+	paper 1
+	4
+reach
+	alert
+	barge 49
+	reach 5
+	3
+asset
+	alert
+	asset 1
+	2
+croak
+	alert
+	baron 77
+	roach 2
+	croak 1
+	4
+porch
+	alert
+	crony 98
+	occur 2
+	porch 1
+	4
+ashen
+	alert
+	abase 20
+	ashen 2
+	3
+horde
+	alert
+	siren 160
+	force 15
+	horde 2
+	4
+never
+	alert
+	siren 160
+	renew 6
+	never 1
+	4
+augur
+	alert
+	arbor 11
+	augur 1
+	3
+check
+	alert
+	sheen 30
+	check 1
+	3
+photo
+	alert
+	south 84
+	photo 1
+	3
+marsh
+	alert
+	baron 77
+	harpy 7
+	marsh 2
+	4
+upset
+	alert
+	onset 21
+	beset 2
+	upset 1
+	4
+dilly
+	alert
+	silly 84
+	dilly 5
+	3
+gauge
+	alert
+	sauce 61
+	gauge 3
+	3
+glove
+	alert
+	slope 23
+	clove 5
+	glove 1
+	4
+spine
+	alert
+	noise 145
+	spine 5
+	3
+harpy
+	alert
+	baron 77
+	marsh 7
+	harpy 2
+	4
+slept
+	alert
+	fleet 5
+	slept 1
+	3
+comet
+	alert
+	onset 21
+	comet 2
+	3
+pubic
+	alert
+	sonic 196
+	civic 4
+	pubic 1
+	4
+humor
+	alert
+	crony 98
+	furor 11
+	humor 1
+	4
+crony
+	alert
+	crony 98
+	2
+smote
+	alert
+	spite 47
+	smote 1
+	3
+saucy
+	alert
+	candy 110
+	saucy 2
+	3
+welsh
+	alert
+	belie 59
+	cello 7
+	welsh 1
+	4
+rodeo
+	alert
+	siren 160
+	rower 32
+	rodeo 1
+	4
+forth
+	alert
+	north 31
+	worth 2
+	forth 1
+	4
+stung
+	alert
+	south 84
+	stunk 6
+	stung 1
+	4
+creed
+	alert
+	creed 22
+	2
+basis
+	alert
+	candy 110
+	mamma 8
+	basis 1
+	4
+vocal
+	alert
+	sally 60
+	focal 9
+	vocal 2
+	4
+gayer
+	alert
+	barge 49
+	gayer 5
+	3
+frill
+	alert
+	drill 20
+	krill 3
+	frill 2
+	4
+lever
+	alert
+	liver 20
+	lever 2
+	3
+grope
+	alert
+	siren 160
+	prude 18
+	grope 1
+	4
+caste
+	alert
+	taste 23
+	waste 5
+	haste 4
+	caste 3
+	5
+wheat
+	alert
+	wheat 3
+	2
+cross
+	alert
+	crony 98
+	crook 5
+	croup 3
+	cross 2
+	5
+flank
+	alert
+	slack 30
+	blank 3
+	flank 2
+	4
+splat
+	alert
+	fault 4
+	splat 1
+	3
+nicer
+	alert
+	siren 160
+	miner 4
+	nicer 1
+	4
+carat
+	alert
+	craft 9
+	carat 1
+	3
+tiara
+	alert
+	tiara 2
+	2
+ought
+	alert
+	hoist 45
+	ought 1
+	3
+broth
+	alert
+	north 31
+	broth 2
+	3
+havoc
+	alert
+	candy 110
+	macho 5
+	havoc 1
+	4
+brake
+	alert
+	barge 49
+	brake 3
+	3
+quark
+	alert
+	chard 28
+	spark 4
+	quark 1
+	4
+llama
+	alert
+	slack 30
+	plaid 7
+	llama 1
+	4
+suing
+	alert
+	sonic 196
+	suing 5
+	3
+whisk
+	alert
+	sonic 196
+	gipsy 5
+	whisk 1
+	4
+crime
+	alert
+	siren 160
+	pride 10
+	grime 3
+	crime 1
+	5
+woman
+	alert
+	candy 110
+	spawn 7
+	woman 1
+	4
+flick
+	alert
+	slunk 52
+	flick 5
+	3
+topaz
+	alert
+	nasty 49
+	topaz 2
+	3
+freak
+	alert
+	dream 12
+	freak 4
+	3
+copse
+	alert
+	noise 145
+	moose 6
+	copse 3
+	4
+lurid
+	alert
+	drill 20
+	lurid 1
+	3
+belie
+	alert
+	belie 59
+	2
+prune
+	alert
+	siren 160
+	prune 4
+	3
+sniff
+	alert
+	sonic 196
+	suing 5
+	sniff 1
+	4
+rhyme
+	alert
+	siren 160
+	prude 18
+	rhyme 1
+	4
+ridge
+	alert
+	siren 160
+	ridge 1
+	3
+thrum
+	alert
+	north 31
+	thrum 1
+	3
+cheek
+	alert
+	sheen 30
+	cheek 1
+	3
+layer
+	alert
+	relay 12
+	layer 1
+	3
+rumor
+	alert
+	crony 98
+	furor 11
+	rumor 1
+	4
+super
+	alert
+	siren 160
+	sewer 5
+	sober 2
+	super 1
+	5
+urban
+	alert
+	baron 77
+	urban 1
+	3
+novel
+	alert
+	belie 59
+	novel 8
+	3
+boozy
+	alert
+	sonic 196
+	goody 16
+	woozy 3
+	boozy 1
+	5
+stomp
+	alert
+	south 84
+	stoop 6
+	stomp 1
+	4
+spout
+	alert
+	hoist 45
+	spout 4
+	3
+attic
+	alert
+	attic 4
+	2
+taken
+	alert
+	taste 23
+	taken 1
+	3
+dusty
+	alert
+	south 84
+	gusty 3
+	dusty 2
+	4
+eaten
+	alert
+	taste 23
+	eaten 2
+	3
+scour
+	alert
+	crony 98
+	scour 1
+	3
+squat
+	alert
+	haunt 24
+	squat 1
+	3
+roast
+	alert
+	craft 9
+	roast 1
+	3
+habit
+	alert
+	haunt 24
+	habit 1
+	3
+triad
+	alert
+	tapir 17
+	triad 1
+	3
+widen
+	alert
+	noise 145
+	widen 8
+	3
+clout
+	alert
+	flint 5
+	clout 1
+	3
+libel
+	alert
+	belie 59
+	libel 1
+	3
+forge
+	alert
+	siren 160
+	force 15
+	forge 1
+	4
+gummy
+	alert
+	sonic 196
+	dumpy 15
+	gummy 2
+	4
+rower
+	alert
+	siren 160
+	rower 32
+	3
+fiber
+	alert
+	siren 160
+	diver 11
+	fiber 4
+	4
+shiny
+	alert
+	sonic 196
+	suing 5
+	shiny 2
+	4
+shown
+	alert
+	sonic 196
+	shown 5
+	3
+miser
+	alert
+	siren 160
+	wiser 3
+	miser 2
+	4
+primo
+	alert
+	crony 98
+	primo 2
+	3
+shack
+	alert
+	candy 110
+	smack 8
+	shack 1
+	4
+cacao
+	alert
+	candy 110
+	cacao 1
+	3
+goner
+	alert
+	siren 160
+	renew 6
+	goner 1
+	4
+pedal
+	alert
+	ladle 42
+	pedal 2
+	3
+rebus
+	alert
+	siren 160
+	prose 4
+	rebus 1
+	4
+surge
+	alert
+	siren 160
+	surge 3
+	3
+paddy
+	alert
+	candy 110
+	paddy 4
+	3
+joust
+	alert
+	hoist 45
+	joust 2
+	3
+bunny
+	alert
+	sonic 196
+	funny 4
+	bunny 1
+	4
+dealt
+	alert
+	least 7
+	dealt 1
+	3
+pivot
+	alert
+	hoist 45
+	pivot 3
+	3
+cargo
+	alert
+	baron 77
+	cargo 1
+	3
+start
+	alert
+	start 4
+	2
+lease
+	alert
+	ladle 42
+	leave 2
+	lease 1
+	4
+hefty
+	alert
+	spite 47
+	hefty 3
+	3
+greet
+	alert
+	crest 5
+	greet 1
+	3
+stick
+	alert
+	south 84
+	stink 4
+	stick 1
+	4
+fauna
+	alert
+	candy 110
+	mason 6
+	fauna 1
+	4
+today
+	alert
+	nasty 49
+	today 1
+	3
+juice
+	alert
+	noise 145
+	chide 4
+	juice 1
+	4
+assay
+	alert
+	again 20
+	assay 1
+	3
+loser
+	alert
+	liver 20
+	loser 3
+	3
+cabal
+	alert
+	sally 60
+	banal 7
+	cabal 1
+	4
+token
+	alert
+	spite 47
+	often 6
+	token 1
+	4
+daily
+	alert
+	sally 60
+	madly 6
+	daily 1
+	4
+count
+	alert
+	hoist 45
+	count 4
+	3
+decry
+	alert
+	chore 16
+	decry 1
+	3
+gouge
+	alert
+	noise 145
+	gouge 5
+	3
+ozone
+	alert
+	noise 145
+	phone 4
+	ozone 1
+	4
+tardy
+	alert
+	tapir 17
+	tardy 1
+	3
+tithe
+	alert
+	spite 47
+	cutie 3
+	tithe 1
+	4
+wryly
+	alert
+	drill 20
+	wryly 1
+	3
+plaid
+	alert
+	slack 30
+	plaid 7
+	3
+tamer
+	alert
+	cater 13
+	taker 3
+	taper 2
+	tamer 1
+	5
+graft
+	alert
+	craft 9
+	graft 2
+	3
+cease
+	alert
+	sauce 61
+	cease 2
+	3
+refit
+	alert
+	rebut 10
+	refit 3
+	3
+stack
+	alert
+	nasty 49
+	stamp 5
+	stack 4
+	4
+syrup
+	alert
+	crony 98
+	syrup 1
+	3
+spiny
+	alert
+	sonic 196
+	suing 5
+	shiny 2
+	spiny 1
+	5
+grove
+	alert
+	siren 160
+	prude 18
+	grove 3
+	4
+pinch
+	alert
+	sonic 196
+	pinch 4
+	3
+point
+	alert
+	hoist 45
+	joint 2
+	point 1
+	4
+stool
+	alert
+	until 8
+	stool 1
+	3
+adage
+	alert
+	abase 20
+	adage 4
+	3
+rabid
+	alert
+	baron 77
+	rabbi 2
+	rabid 1
+	4
+chili
+	alert
+	silly 84
+	build 4
+	chili 1
+	4
+aider
+	alert
+	arise 7
+	aider 1
+	3
+crest
+	alert
+	crest 5
+	2
+alter
+	alert
+	alter 1
+	2
+aglow
+	alert
+	afoul 9
+	aglow 1
+	3
+least
+	alert
+	least 7
+	2
+scion
+	alert
+	sonic 196
+	scion 1
+	3
+comic
+	alert
+	sonic 196
+	comic 1
+	3
+sever
+	alert
+	siren 160
+	sewer 5
+	sever 1
+	4
+medic
+	alert
+	noise 145
+	medic 4
+	3
+organ
+	alert
+	baron 77
+	groan 2
+	organ 1
+	4
+expel
+	alert
+	belie 59
+	expel 4
+	3
+drier
+	alert
+	siren 160
+	cried 8
+	drier 1
+	4
+enjoy
+	alert
+	noise 145
+	envoy 6
+	enjoy 1
+	4
+seize
+	alert
+	noise 145
+	spike 3
+	seize 1
+	4
+diary
+	alert
+	chard 28
+	diary 2
+	3
+sedan
+	alert
+	sauce 61
+	sedan 2
+	3
+slang
+	alert
+	slack 30
+	slang 3
+	3
+grief
+	alert
+	siren 160
+	cried 8
+	brief 2
+	grief 1
+	5
+bulky
+	alert
+	silly 84
+	bulky 3
+	3
+tight
+	alert
+	hoist 45
+	fight 5
+	night 4
+	tight 3
+	5
+denim
+	alert
+	noise 145
+	widen 8
+	denim 1
+	4
+steel
+	alert
+	steel 1
+	2
+clued
+	alert
+	slope 23
+	clued 2
+	3
+cluck
+	alert
+	slunk 52
+	cluck 2
+	3
+ether
+	alert
+	outer 35
+	tiger 3
+	ether 1
+	4
+nasty
+	alert
+	nasty 49
+	2
+tatty
+	alert
+	nasty 49
+	catty 5
+	fatty 4
+	tatty 3
+	5
+dicey
+	alert
+	noise 145
+	medic 4
+	dicey 1
+	4
+minim
+	alert
+	sonic 196
+	minim 1
+	3
+sleek
+	alert
+	bleed 9
+	sleek 2
+	3
+pried
+	alert
+	siren 160
+	cried 8
+	pried 3
+	4
+skirt
+	alert
+	sport 7
+	skirt 2
+	3
+civil
+	alert
+	silly 84
+	vigil 6
+	civil 1
+	4
+bound
+	alert
+	sonic 196
+	mound 8
+	wound 5
+	hound 4
+	bound 3
+	6
+glean
+	alert
+	glean 5
+	2
+crawl
+	alert
+	moral 22
+	crawl 5
+	3
+tripe
+	alert
+	outer 35
+	berth 7
+	tripe 2
+	4
+grasp
+	alert
+	baron 77
+	crash 17
+	grasp 2
+	4
+spool
+	alert
+	silly 84
+	spool 2
+	3
+repay
+	alert
+	barge 49
+	reach 5
+	repay 1
+	4
+zesty
+	alert
+	spite 47
+	zesty 2
+	3
+flaky
+	alert
+	slack 30
+	flaky 1
+	3
+urine
+	alert
+	siren 160
+	urine 2
+	3
+crook
+	alert
+	crony 98
+	crook 5
+	3
+unzip
+	alert
+	sonic 196
+	unzip 2
+	3
+parry
+	alert
+	chard 28
+	parry 4
+	3
+ghoul
+	alert
+	silly 84
+	mogul 3
+	ghoul 1
+	4
+maple
+	alert
+	ladle 42
+	fable 4
+	maple 2
+	4
+glaze
+	alert
+	blade 10
+	plane 6
+	flame 4
+	glaze 2
+	5
+tumor
+	alert
+	north 31
+	tumor 3
+	3
+hatch
+	alert
+	nasty 49
+	match 9
+	catch 5
+	watch 4
+	hatch 3
+	6
+obese
+	alert
+	sheen 30
+	obese 2
+	3
+botch
+	alert
+	south 84
+	botch 2
+	3
+safer
+	alert
+	barge 49
+	caper 11
+	safer 5
+	4
+scalp
+	alert
+	sally 60
+	scalp 2
+	3
+khaki
+	alert
+	candy 110
+	swami 11
+	khaki 1
+	4
+reset
+	alert
+	rebut 10
+	refit 3
+	reset 1
+	4
+peril
+	alert
+	liver 20
+	relic 2
+	peril 1
+	4
+pinky
+	alert
+	sonic 196
+	windy 6
+	kinky 3
+	pinky 1
+	5
+dryly
+	alert
+	drill 20
+	dryly 1
+	3
+honey
+	alert
+	noise 145
+	women 8
+	boney 2
+	honey 1
+	5
+booby
+	alert
+	sonic 196
+	goody 16
+	woozy 3
+	booby 1
+	5
+saint
+	alert
+	haunt 24
+	faint 4
+	saint 3
+	4
+stash
+	alert
+	nasty 49
+	stamp 5
+	stack 4
+	stash 3
+	5
+idler
+	alert
+	liver 20
+	idler 1
+	3
+plead
+	alert
+	glean 5
+	plead 2
+	3
+leapt
+	alert
+	least 7
+	leapt 2
+	3
+comfy
+	alert
+	sonic 196
+	cough 6
+	comfy 1
+	4
+align
+	alert
+	alloy 10
+	alibi 4
+	align 1
+	4
+manly
+	alert
+	sally 60
+	madly 6
+	manly 1
+	4
+knock
+	alert
+	sonic 196
+	knock 1
+	3
+purse
+	alert
+	siren 160
+	verso 6
+	purse 2
+	4
+humph
+	alert
+	sonic 196
+	dumpy 15
+	humph 1
+	4
+delay
+	alert
+	ladle 42
+	delay 2
+	3
+tempo
+	alert
+	spite 47
+	tempo 1
+	3
+trash
+	alert
+	tapir 17
+	trash 2
+	3
+knoll
+	alert
+	silly 84
+	knoll 1
+	3
+outdo
+	alert
+	south 84
+	outdo 2
+	3
+frown
+	alert
+	crony 98
+	frown 5
+	3
+tried
+	alert
+	outer 35
+	three 3
+	tried 1
+	4
+taffy
+	alert
+	nasty 49
+	tabby 3
+	taffy 2
+	4
+brawn
+	alert
+	baron 77
+	brawn 2
+	3
+humus
+	alert
+	sonic 196
+	mushy 10
+	humus 1
+	4
+thick
+	alert
+	south 84
+	thick 5
+	3
+claim
+	alert
+	slack 30
+	claim 3
+	3
+truer
+	alert
+	outer 35
+	truer 1
+	3
+batch
+	alert
+	nasty 49
+	match 9
+	catch 5
+	watch 4
+	hatch 3
+	batch 2
+	7
+leery
+	alert
+	leery 1
+	2
+brick
+	alert
+	crony 98
+	brick 2
+	3
+emcee
+	alert
+	noise 145
+	fugue 9
+	emcee 1
+	4
+shrub
+	alert
+	crony 98
+	rigid 5
+	shrub 1
+	4
+abate
+	alert
+	abate 4
+	2
+chase
+	alert
+	sauce 61
+	cease 2
+	chase 1
+	4
+guest
+	alert
+	sheet 13
+	quest 2
+	guest 1
+	4
+fizzy
+	alert
+	sonic 196
+	whiff 9
+	fizzy 1
+	4
+woken
+	alert
+	noise 145
+	women 8
+	woken 2
+	4
+corer
+	alert
+	siren 160
+	puree 3
+	corer 1
+	4
+shelf
+	alert
+	wheel 15
+	shelf 1
+	3
+title
+	alert
+	lithe 13
+	title 1
+	3
+cavil
+	alert
+	sally 60
+	canal 7
+	cavil 1
+	4
+vapor
+	alert
+	baron 77
+	favor 6
+	vapor 1
+	4
+slimy
+	alert
+	slunk 52
+	slimy 4
+	3
+cabby
+	alert
+	candy 110
+	cabby 1
+	3
+blind
+	alert
+	slunk 52
+	fling 4
+	blind 1
+	4
+grave
+	alert
+	barge 49
+	grape 5
+	grave 4
+	4
+spoof
+	alert
+	sonic 196
+	spook 6
+	spoof 1
+	4
+gonad
+	alert
+	candy 110
+	gonad 1
+	3
+flute
+	alert
+	flute 2
+	2
+swept
+	alert
+	sheet 13
+	swept 3
+	3
+chair
+	alert
+	baron 77
+	crash 17
+	chair 1
+	4
+share
+	alert
+	heard 10
+	share 1
+	3
+curio
+	alert
+	crony 98
+	curio 1
+	3
+lumpy
+	alert
+	silly 84
+	lumpy 4
+	3
+hello
+	alert
+	belie 59
+	cello 7
+	hello 1
+	4
+plump
+	alert
+	slunk 52
+	plumb 6
+	plump 1
+	4
+basil
+	alert
+	sally 60
+	nasal 4
+	basil 1
+	4
+block
+	alert
+	slunk 52
+	flick 5
+	block 2
+	4
+swill
+	alert
+	silly 84
+	spill 3
+	swill 2
+	4
+swami
+	alert
+	candy 110
+	swami 11
+	3
+scale
+	alert
+	ladle 42
+	scale 3
+	3
+swore
+	alert
+	chore 16
+	snore 3
+	swore 2
+	4
+hotel
+	alert
+	lithe 13
+	hotel 1
+	3
+sleep
+	alert
+	bleed 9
+	sleek 2
+	sleep 1
+	4
+heath
+	alert
+	taste 23
+	death 3
+	heath 1
+	4
+femur
+	alert
+	siren 160
+	prude 18
+	femur 2
+	4
+homer
+	alert
+	siren 160
+	rower 32
+	hover 8
+	homer 1
+	5
+would
+	alert
+	silly 84
+	would 2
+	3
+again
+	alert
+	again 20
+	2
+gulch
+	alert
+	silly 84
+	gulch 3
+	3
+shave
+	alert
+	sauce 61
+	shade 7
+	shave 4
+	4
+decay
+	alert
+	sauce 61
+	decay 2
+	3
+abase
+	alert
+	abase 20
+	2
+retro
+	alert
+	retro 5
+	2
+usage
+	alert
+	sauce 61
+	usage 1
+	3
+growl
+	alert
+	drill 20
+	growl 2
+	3
+spell
+	alert
+	wheel 15
+	spell 3
+	3
+brine
+	alert
+	siren 160
+	urine 2
+	brine 1
+	4
+paint
+	alert
+	haunt 24
+	faint 4
+	saint 3
+	paint 2
+	5
+hedge
+	alert
+	noise 145
+	fudge 9
+	hedge 2
+	4
+prowl
+	alert
+	drill 20
+	growl 2
+	prowl 1
+	4
+impel
+	alert
+	belie 59
+	liken 5
+	impel 2
+	4
+arise
+	alert
+	arise 7
+	2
+reuse
+	alert
+	siren 160
+	prose 4
+	reuse 1
+	4
+slump
+	alert
+	slunk 52
+	slump 2
+	3
+gripe
+	alert
+	siren 160
+	pride 10
+	gripe 1
+	4
+scoop
+	alert
+	sonic 196
+	scoop 4
+	3
+ruddy
+	alert
+	crony 98
+	ruddy 4
+	3
+epoch
+	alert
+	noise 145
+	gecko 4
+	epoch 1
+	4
+under
+	alert
+	siren 160
+	renew 6
+	under 1
+	4
+quill
+	alert
+	silly 84
+	chill 2
+	quill 1
+	4
+bacon
+	alert
+	candy 110
+	bacon 1
+	3
+wrath
+	alert
+	tapir 17
+	stray 3
+	wrath 1
+	4
+boule
+	alert
+	belie 59
+	boule 2
+	3
+bribe
+	alert
+	siren 160
+	pride 10
+	grime 3
+	bribe 1
+	5
+troll
+	alert
+	truly 2
+	troll 1
+	3
+spice
+	alert
+	noise 145
+	spike 3
+	spice 1
+	4
+price
+	alert
+	siren 160
+	pride 10
+	price 3
+	4
+abled
+	alert
+	angle 9
+	abled 1
+	3
+angry
+	alert
+	acorn 5
+	angry 1
+	3
+sloop
+	alert
+	slunk 52
+	slimy 4
+	sloop 2
+	4
+break
+	alert
+	dream 12
+	freak 4
+	break 3
+	4
+greed
+	alert
+	creed 22
+	breed 3
+	greed 2
+	4
+siege
+	alert
+	sheen 30
+	sieve 3
+	siege 1
+	4
+seven
+	alert
+	noise 145
+	seven 2
+	3
+fully
+	alert
+	silly 84
+	golly 9
+	fully 3
+	4
+munch
+	alert
+	sonic 196
+	munch 4
+	3
+delve
+	alert
+	belie 59
+	melee 2
+	delve 1
+	4
+pique
+	alert
+	noise 145
+	pixie 4
+	pique 1
+	4
+cliff
+	alert
+	slunk 52
+	blimp 8
+	cliff 1
+	4
+exile
+	alert
+	belie 59
+	exile 1
+	3
+deuce
+	alert
+	noise 145
+	fudge 9
+	deuce 1
+	4
+dizzy
+	alert
+	sonic 196
+	whiff 9
+	giddy 4
+	dizzy 1
+	5
+chafe
+	alert
+	sauce 61
+	chafe 1
+	3
+gooey
+	alert
+	noise 145
+	gooey 4
+	3
+vowel
+	alert
+	belie 59
+	novel 8
+	vowel 1
+	4
+evict
+	alert
+	onset 21
+	edict 6
+	evict 1
+	4
+noose
+	alert
+	noise 145
+	noose 1
+	3
+event
+	alert
+	sheet 13
+	event 2
+	3
+briny
+	alert
+	crony 98
+	briny 1
+	3
+lumen
+	alert
+	belie 59
+	novel 8
+	lumen 1
+	4
+blurt
+	alert
+	blurt 2
+	2
+baggy
+	alert
+	candy 110
+	gassy 10
+	baggy 1
+	4
+apple
+	alert
+	angle 9
+	ample 4
+	apple 1
+	4
+plant
+	alert
+	blast 7
+	plant 2
+	3
+gamma
+	alert
+	candy 110
+	mamma 8
+	gamma 1
+	4
+booty
+	alert
+	south 84
+	booty 2
+	3
+cello
+	alert
+	belie 59
+	cello 7
+	3
+stiff
+	alert
+	south 84
+	stink 4
+	stiff 1
+	4
+shush
+	alert
+	sonic 196
+	shush 1
+	3
+voila
+	alert
+	sally 60
+	koala 5
+	voila 1
+	4
+hyper
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	hyper 1
+	5
+tryst
+	alert
+	frost 24
+	trust 4
+	tryst 1
+	4
+hitch
+	alert
+	south 84
+	witch 5
+	hitch 3
+	4
+vixen
+	alert
+	noise 145
+	widen 8
+	vixen 2
+	4
+cower
+	alert
+	siren 160
+	rower 32
+	cower 3
+	4
+stank
+	alert
+	nasty 49
+	stank 3
+	3
+graph
+	alert
+	baron 77
+	crash 17
+	graph 1
+	4
+angel
+	alert
+	angle 9
+	angel 1
+	3
+hobby
+	alert
+	sonic 196
+	goody 16
+	hobby 3
+	4
+milky
+	alert
+	silly 84
+	milky 2
+	3
+realm
+	alert
+	relay 12
+	realm 1
+	3
+aisle
+	alert
+	angle 9
+	ample 4
+	aisle 1
+	4
+snort
+	alert
+	sport 7
+	snort 2
+	3
+feast
+	alert
+	feast 9
+	2
+melon
+	alert
+	belie 59
+	cello 7
+	melon 2
+	4
+suave
+	alert
+	sauce 61
+	suave 1
+	3
+agree
+	alert
+	arise 7
+	agree 1
+	3
+beret
+	alert
+	rebut 10
+	beret 1
+	3
+tease
+	alert
+	taste 23
+	tease 1
+	3
+lasso
+	alert
+	sally 60
+	nasal 4
+	lasso 1
+	4
+right
+	alert
+	frost 24
+	right 2
+	3
+swine
+	alert
+	noise 145
+	spine 5
+	swine 2
+	4
+truce
+	alert
+	outer 35
+	brute 2
+	truce 1
+	4
+gross
+	alert
+	crony 98
+	droop 10
+	gross 1
+	4
+lover
+	alert
+	liver 20
+	lever 2
+	lover 1
+	4
+shirk
+	alert
+	shorn 25
+	shirk 1
+	3
+dolly
+	alert
+	silly 84
+	golly 9
+	jolly 4
+	dolly 3
+	5
+glide
+	alert
+	slope 23
+	elide 5
+	glide 1
+	4
+spawn
+	alert
+	candy 110
+	spawn 7
+	3
+empty
+	alert
+	spite 47
+	empty 3
+	3
+curry
+	alert
+	shorn 25
+	curry 3
+	3
+sulky
+	alert
+	silly 84
+	sulky 1
+	3
+grill
+	alert
+	drill 20
+	krill 3
+	grill 2
+	4
+wench
+	alert
+	noise 145
+	wench 7
+	3
+focus
+	alert
+	sonic 196
+	focus 1
+	3
+model
+	alert
+	belie 59
+	novel 8
+	model 2
+	4
+theft
+	alert
+	sheet 13
+	theft 1
+	3
+hussy
+	alert
+	sonic 196
+	mushy 10
+	hussy 2
+	4
+bushy
+	alert
+	sonic 196
+	mushy 10
+	pushy 2
+	bushy 1
+	5
+fetal
+	alert
+	latte 8
+	metal 3
+	petal 2
+	fetal 1
+	5
+pizza
+	alert
+	candy 110
+	swami 11
+	pizza 1
+	4
+excel
+	alert
+	belie 59
+	expel 4
+	excel 1
+	4
+grace
+	alert
+	barge 49
+	grape 5
+	grave 4
+	grace 3
+	5
+masse
+	alert
+	sauce 61
+	masse 1
+	3
+flush
+	alert
+	slunk 52
+	flush 3
+	3
+furry
+	alert
+	shorn 25
+	curry 3
+	furry 1
+	4
+spear
+	alert
+	dream 12
+	shear 3
+	spear 2
+	4
+butch
+	alert
+	south 84
+	butch 3
+	3
+woven
+	alert
+	noise 145
+	women 8
+	woken 2
+	woven 1
+	5
+knife
+	alert
+	noise 145
+	knife 2
+	3
+gourd
+	alert
+	shorn 25
+	gourd 4
+	3
+topic
+	alert
+	south 84
+	toxin 6
+	topic 1
+	4
+dryer
+	alert
+	siren 160
+	rower 32
+	dryer 1
+	4
+cream
+	alert
+	dream 12
+	cream 1
+	3
+swing
+	alert
+	sonic 196
+	suing 5
+	swing 1
+	4
+climb
+	alert
+	slunk 52
+	blimp 8
+	climb 1
+	4
+octet
+	alert
+	onset 21
+	octet 1
+	3
+gassy
+	alert
+	candy 110
+	gassy 10
+	3
+ranch
+	alert
+	baron 77
+	randy 4
+	ranch 1
+	4
+flask
+	alert
+	slack 30
+	flask 1
+	3
+black
+	alert
+	slack 30
+	black 3
+	3
+moult
+	alert
+	moult 11
+	2
+dandy
+	alert
+	candy 110
+	dandy 3
+	3
+smash
+	alert
+	candy 110
+	swami 11
+	smash 2
+	4
+tense
+	alert
+	spite 47
+	tense 2
+	3
+hairy
+	alert
+	chard 28
+	hairy 2
+	3
+poser
+	alert
+	siren 160
+	poser 2
+	3
+above
+	alert
+	abase 20
+	above 3
+	3
+utter
+	alert
+	outer 35
+	utter 1
+	3
+mummy
+	alert
+	sonic 196
+	dumpy 15
+	gummy 2
+	mummy 1
+	5
+payer
+	alert
+	barge 49
+	caper 11
+	payer 1
+	4
+uncut
+	alert
+	hoist 45
+	uncut 1
+	3
+mucky
+	alert
+	sonic 196
+	chuck 4
+	mucky 1
+	4
+tenth
+	alert
+	spite 47
+	hefty 3
+	tenth 1
+	4
+torus
+	alert
+	north 31
+	torus 2
+	3
+third
+	alert
+	stork 6
+	third 1
+	3
+bland
+	alert
+	slack 30
+	plaid 7
+	bland 2
+	4
+coven
+	alert
+	noise 145
+	women 8
+	coven 2
+	4
+mower
+	alert
+	siren 160
+	rower 32
+	cower 3
+	mower 2
+	5
+shame
+	alert
+	sauce 61
+	shade 7
+	shave 4
+	shame 3
+	5
+snuff
+	alert
+	sonic 196
+	skunk 4
+	snuff 1
+	4
+verge
+	alert
+	siren 160
+	force 15
+	verve 4
+	verge 1
+	5
+embed
+	alert
+	noise 145
+	debug 2
+	embed 1
+	4
+roost
+	alert
+	frost 24
+	roost 1
+	3
+shoot
+	alert
+	hoist 45
+	shoot 2
+	3
+clang
+	alert
+	slack 30
+	claim 3
+	clang 1
+	4
+friar
+	alert
+	baron 77
+	crash 17
+	friar 1
+	4
+broom
+	alert
+	crony 98
+	droop 10
+	groom 3
+	broom 1
+	5
+giddy
+	alert
+	sonic 196
+	whiff 9
+	giddy 4
+	4
+worry
+	alert
+	shorn 25
+	gourd 4
+	worry 1
+	4
+edict
+	alert
+	onset 21
+	edict 6
+	3
+begun
+	alert
+	noise 145
+	wench 7
+	begun 1
+	4
+shalt
+	alert
+	fault 4
+	shalt 1
+	3
+biome
+	alert
+	noise 145
+	diode 2
+	biome 1
+	4
+dread
+	alert
+	dream 12
+	dread 1
+	3
+befit
+	alert
+	onset 21
+	edict 6
+	befit 1
+	4
+hinge
+	alert
+	noise 145
+	mince 5
+	hinge 2
+	4
+awake
+	alert
+	abase 20
+	adage 4
+	awake 2
+	4
+cable
+	alert
+	ladle 42
+	fable 4
+	cable 1
+	4
+maybe
+	alert
+	sauce 61
+	mange 8
+	maybe 2
+	4
+vodka
+	alert
+	candy 110
+	vodka 3
+	3
+zonal
+	alert
+	sally 60
+	focal 9
+	zonal 2
+	4
+bliss
+	alert
+	slunk 52
+	floss 3
+	bliss 1
+	4
+rebel
+	alert
+	liver 20
+	gruel 4
+	rebel 2
+	4
+begin
+	alert
+	noise 145
+	widen 8
+	begin 1
+	4
+faith
+	alert
+	nasty 49
+	faith 2
+	3
+lodge
+	alert
+	belie 59
+	louse 7
+	lodge 1
+	4
+relay
+	alert
+	relay 12
+	2
+worse
+	alert
+	siren 160
+	verso 6
+	worse 2
+	4
+broil
+	alert
+	drill 20
+	broil 1
+	3
+puffy
+	alert
+	sonic 196
+	dumpy 15
+	puffy 1
+	4
+crick
+	alert
+	crony 98
+	crimp 6
+	crick 1
+	4
+alike
+	alert
+	alike 6
+	2
+whiny
+	alert
+	sonic 196
+	vying 4
+	whiny 1
+	4
+click
+	alert
+	slunk 52
+	flick 5
+	click 1
+	4
+gazer
+	alert
+	barge 49
+	gayer 5
+	gazer 2
+	4
+borax
+	alert
+	baron 77
+	borax 1
+	3
+quash
+	alert
+	candy 110
+	swami 11
+	quash 1
+	4
+where
+	alert
+	every 5
+	where 1
+	3
+north
+	alert
+	north 31
+	2
+sumac
+	alert
+	candy 110
+	smack 8
+	sumac 1
+	4
+entry
+	alert
+	retro 5
+	entry 1
+	3
+fuzzy
+	alert
+	sonic 196
+	dumpy 15
+	fuzzy 2
+	4
+blunt
+	alert
+	flint 5
+	blunt 1
+	3
+spent
+	alert
+	sheet 13
+	swept 3
+	spent 1
+	4
+brawl
+	alert
+	moral 22
+	crawl 5
+	brawl 2
+	4
+fleck
+	alert
+	bleed 9
+	flesh 2
+	fleck 1
+	4
+phase
+	alert
+	sauce 61
+	phase 1
+	3
+uncle
+	alert
+	belie 59
+	louse 7
+	uncle 1
+	4
+motif
+	alert
+	south 84
+	toxin 6
+	motif 1
+	4
+enact
+	alert
+	feast 9
+	exact 2
+	enact 1
+	4
+glade
+	alert
+	blade 10
+	glade 1
+	3
+magma
+	alert
+	candy 110
+	mamma 8
+	magma 1
+	4
+beech
+	alert
+	sheen 30
+	beech 1
+	3
+swell
+	alert
+	wheel 15
+	swell 2
+	3
+bigot
+	alert
+	hoist 45
+	pivot 3
+	bigot 1
+	4
+trait
+	alert
+	craft 9
+	grant 2
+	trait 1
+	4
+unite
+	alert
+	spite 47
+	unite 3
+	3
+mamma
+	alert
+	candy 110
+	mamma 8
+	3
+nymph
+	alert
+	sonic 196
+	nymph 1
+	3
+goofy
+	alert
+	sonic 196
+	goody 16
+	goofy 1
+	4
+roger
+	alert
+	siren 160
+	rower 32
+	roger 2
+	4
+rugby
+	alert
+	crony 98
+	ruddy 4
+	rugby 1
+	4
+array
+	alert
+	arbor 11
+	array 1
+	3
+brace
+	alert
+	barge 49
+	brake 3
+	brace 2
+	4
+funny
+	alert
+	sonic 196
+	funny 4
+	3
+round
+	alert
+	crony 98
+	round 2
+	3
+fetus
+	alert
+	spite 47
+	fetus 2
+	3
+meaty
+	alert
+	taste 23
+	death 3
+	meaty 1
+	4
+mouth
+	alert
+	south 84
+	mouth 2
+	3
+scare
+	alert
+	heard 10
+	spare 3
+	scare 2
+	4
+femme
+	alert
+	noise 145
+	fudge 9
+	femme 1
+	4
+whose
+	alert
+	noise 145
+	whose 2
+	3
+vying
+	alert
+	sonic 196
+	vying 4
+	3
+lance
+	alert
+	ladle 42
+	lance 2
+	3
+gawky
+	alert
+	candy 110
+	gassy 10
+	gawky 1
+	4
+usurp
+	alert
+	shorn 25
+	usurp 1
+	3
+caulk
+	alert
+	sally 60
+	caulk 1
+	3
+chaos
+	alert
+	candy 110
+	chasm 7
+	chaos 1
+	4
+world
+	alert
+	drill 20
+	world 1
+	3
+field
+	alert
+	wheel 15
+	field 2
+	3
+alone
+	alert
+	alike 6
+	alone 2
+	3
+leafy
+	alert
+	ladle 42
+	leafy 4
+	3
+willy
+	alert
+	silly 84
+	willy 5
+	3
+papal
+	alert
+	sally 60
+	banal 7
+	papal 1
+	4
+sonic
+	alert
+	sonic 196
+	2
+bugle
+	alert
+	belie 59
+	boule 2
+	bugle 1
+	4
+piper
+	alert
+	siren 160
+	diver 11
+	fiber 4
+	piper 2
+	5
+wheel
+	alert
+	wheel 15
+	2
+molar
+	alert
+	moral 22
+	molar 1
+	3
+pinto
+	alert
+	south 84
+	pinto 2
+	3
+worst
+	alert
+	frost 24
+	worst 1
+	3
+clown
+	alert
+	slunk 52
+	clown 3
+	3
+aping
+	alert
+	again 20
+	aping 1
+	3
+drawl
+	alert
+	moral 22
+	crawl 5
+	brawl 2
+	drawl 1
+	5
+chirp
+	alert
+	shorn 25
+	chirp 1
+	3
+feral
+	alert
+	relay 12
+	feral 1
+	3
+gamer
+	alert
+	barge 49
+	gayer 5
+	gazer 2
+	gamer 1
+	5
+doing
+	alert
+	sonic 196
+	doing 2
+	3
+baste
+	alert
+	taste 23
+	waste 5
+	haste 4
+	caste 3
+	baste 2
+	6
+blown
+	alert
+	slunk 52
+	clown 3
+	blown 2
+	4
+surer
+	alert
+	siren 160
+	screw 5
+	surer 2
+	4
+steer
+	alert
+	steer 3
+	2
+prime
+	alert
+	siren 160
+	pride 10
+	price 3
+	prime 2
+	5
+tonic
+	alert
+	south 84
+	toxin 6
+	tonic 1
+	4
+lobby
+	alert
+	silly 84
+	lumpy 4
+	lobby 1
+	4
+fancy
+	alert
+	candy 110
+	fancy 1
+	3
+tying
+	alert
+	south 84
+	tying 2
+	3
+opium
+	alert
+	sonic 196
+	idiom 4
+	opium 1
+	4
+vomit
+	alert
+	hoist 45
+	vomit 1
+	3
+final
+	alert
+	sally 60
+	focal 9
+	final 1
+	4
+shaft
+	alert
+	haunt 24
+	shaft 1
+	3
+elbow
+	alert
+	slope 23
+	olden 2
+	elbow 1
+	4
+quota
+	alert
+	nasty 49
+	quota 1
+	3
+enema
+	alert
+	sneak 8
+	enema 1
+	3
+house
+	alert
+	noise 145
+	moose 6
+	copse 3
+	house 1
+	5
+legal
+	alert
+	ladle 42
+	legal 1
+	3
+moody
+	alert
+	sonic 196
+	goody 16
+	moody 2
+	4
+stale
+	alert
+	latte 8
+	stale 1
+	3
+press
+	alert
+	creed 22
+	press 2
+	3
+fetid
+	alert
+	spite 47
+	fetid 2
+	3
+ocean
+	alert
+	sneak 8
+	ocean 1
+	3
+lunch
+	alert
+	silly 84
+	mogul 3
+	lunch 1
+	4
+stair
+	alert
+	tapir 17
+	stair 1
+	3
+waxen
+	alert
+	sauce 61
+	waxen 3
+	3
+drive
+	alert
+	siren 160
+	pride 10
+	drive 1
+	4
+adobe
+	alert
+	abase 20
+	adobe 1
+	3
+soapy
+	alert
+	candy 110
+	soapy 3
+	3
+vital
+	alert
+	total 16
+	fatal 3
+	vital 1
+	4
+junta
+	alert
+	nasty 49
+	junta 1
+	3
+stoic
+	alert
+	south 84
+	stoop 6
+	stoic 3
+	4
+heady
+	alert
+	sauce 61
+	beady 7
+	heady 1
+	4
+risky
+	alert
+	crony 98
+	ruddy 4
+	risky 1
+	4
+blimp
+	alert
+	slunk 52
+	blimp 8
+	3
+detox
+	alert
+	spite 47
+	often 6
+	detox 1
+	4
+bayou
+	alert
+	candy 110
+	bayou 2
+	3
+helix
+	alert
+	belie 59
+	helix 1
+	3
+sauce
+	alert
+	sauce 61
+	2
+lofty
+	alert
+	until 8
+	lofty 1
+	3
+spurn
+	alert
+	shorn 25
+	spurn 1
+	3
+woody
+	alert
+	sonic 196
+	goody 16
+	moody 2
+	woody 1
+	5
+fifth
+	alert
+	south 84
+	ninth 3
+	width 2
+	fifth 1
+	5
+retch
+	alert
+	outer 35
+	retch 1
+	3
+badly
+	alert
+	sally 60
+	madly 6
+	badly 1
+	4
+smell
+	alert
+	wheel 15
+	spell 3
+	smell 1
+	4
+inbox
+	alert
+	sonic 196
+	owing 4
+	inbox 1
+	4
+snack
+	alert
+	candy 110
+	snack 2
+	3
+deity
+	alert
+	spite 47
+	deity 1
+	3
+shirt
+	alert
+	sport 7
+	skirt 2
+	shirt 1
+	4
+bagel
+	alert
+	ladle 42
+	navel 7
+	camel 4
+	bagel 3
+	5
+briar
+	alert
+	baron 77
+	brash 4
+	briar 1
+	4
+torch
+	alert
+	north 31
+	torch 1
+	3
+joist
+	alert
+	hoist 45
+	joist 3
+	3
+wedge
+	alert
+	noise 145
+	fudge 9
+	hedge 2
+	wedge 1
+	5
+might
+	alert
+	hoist 45
+	fight 5
+	night 4
+	tight 3
+	might 2
+	6
+flour
+	alert
+	flour 2
+	2
+rearm
+	alert
+	yearn 10
+	beard 3
+	rearm 1
+	4
+sally
+	alert
+	sally 60
+	2
+truth
+	alert
+	north 31
+	truth 1
+	3
+juror
+	alert
+	crony 98
+	furor 11
+	juror 1
+	4
+talon
+	alert
+	total 16
+	talon 1
+	3
+amiss
+	alert
+	again 20
+	amiss 2
+	3
+hymen
+	alert
+	noise 145
+	wench 7
+	hymen 1
+	4
+major
+	alert
+	baron 77
+	favor 6
+	major 3
+	4
+patio
+	alert
+	nasty 49
+	match 9
+	patio 1
+	4
+speed
+	alert
+	sheen 30
+	speed 2
+	3
+sappy
+	alert
+	candy 110
+	gassy 10
+	savoy 3
+	sappy 1
+	5
+being
+	alert
+	noise 145
+	eking 5
+	being 1
+	4
+cheer
+	alert
+	creed 22
+	cheer 1
+	3
+bride
+	alert
+	siren 160
+	pride 10
+	bride 1
+	4
+regal
+	alert
+	relay 12
+	regal 2
+	3
+lyric
+	alert
+	drill 20
+	lyric 1
+	3
+honor
+	alert
+	crony 98
+	honor 5
+	3
+sheer
+	alert
+	creed 22
+	sneer 3
+	sheer 1
+	4
+shunt
+	alert
+	hoist 45
+	shunt 1
+	3
+foamy
+	alert
+	candy 110
+	soapy 3
+	foamy 1
+	4
+sorry
+	alert
+	shorn 25
+	sorry 1
+	3
+thyme
+	alert
+	spite 47
+	thyme 2
+	3
+vicar
+	alert
+	baron 77
+	crash 17
+	vicar 1
+	4
+wield
+	alert
+	wheel 15
+	wield 1
+	3
+elegy
+	alert
+	bleed 9
+	elegy 1
+	3
+mover
+	alert
+	siren 160
+	rower 32
+	mover 8
+	4
+daddy
+	alert
+	candy 110
+	paddy 4
+	daddy 1
+	4
+quilt
+	alert
+	moult 11
+	quilt 3
+	3
+style
+	alert
+	lithe 13
+	style 3
+	3
+paler
+	alert
+	relay 12
+	baler 2
+	paler 1
+	4
+wrung
+	alert
+	crony 98
+	bring 7
+	wrung 1
+	4
+began
+	alert
+	sauce 61
+	beady 7
+	began 1
+	4
+duchy
+	alert
+	sonic 196
+	chuck 4
+	duchy 1
+	4
+cloud
+	alert
+	slunk 52
+	cloud 1
+	3
+umbra
+	alert
+	chard 28
+	parry 4
+	umbra 1
+	4
+ensue
+	alert
+	noise 145
+	ensue 1
+	3
+table
+	alert
+	latte 8
+	table 1
+	3
+leggy
+	alert
+	belie 59
+	newly 3
+	leggy 1
+	4
+dairy
+	alert
+	chard 28
+	dairy 1
+	3
+shade
+	alert
+	sauce 61
+	shade 7
+	3
+gaunt
+	alert
+	haunt 24
+	daunt 5
+	jaunt 4
+	gaunt 3
+	5
+arrow
+	alert
+	armor 11
+	arrow 1
+	3
+ladle
+	alert
+	ladle 42
+	2
+hovel
+	alert
+	belie 59
+	novel 8
+	hovel 1
+	4
+optic
+	alert
+	south 84
+	optic 1
+	3
+quack
+	alert
+	candy 110
+	smack 8
+	quack 2
+	4
+eagle
+	alert
+	ladle 42
+	fable 4
+	maple 2
+	eagle 1
+	5
+flume
+	alert
+	slope 23
+	elide 5
+	flume 2
+	4
+sheet
+	alert
+	sheet 13
+	2
+wrote
+	alert
+	outer 35
+	trove 4
+	wrote 1
+	4
+leper
+	alert
+	liver 20
+	loser 3
+	leper 1
+	4
+elude
+	alert
+	slope 23
+	elide 5
+	elude 1
+	4
+alive
+	alert
+	alike 6
+	alive 1
+	3
+bossy
+	alert
+	sonic 196
+	bossy 3
+	3
+ferry
+	alert
+	chore 16
+	ferry 4
+	3
+scrum
+	alert
+	crony 98
+	birch 3
+	scrum 1
+	4
+reign
+	alert
+	siren 160
+	reign 1
+	3
+frisk
+	alert
+	crony 98
+	brisk 6
+	frisk 1
+	4
+folly
+	alert
+	silly 84
+	golly 9
+	jolly 4
+	dolly 3
+	folly 2
+	6
+edify
+	alert
+	noise 145
+	edify 3
+	3
+grain
+	alert
+	baron 77
+	drain 4
+	grain 1
+	4
+sissy
+	alert
+	sonic 196
+	spiky 6
+	sissy 1
+	4
+petty
+	alert
+	spite 47
+	empty 3
+	petty 1
+	4
+great
+	alert
+	great 2
+	2
+snowy
+	alert
+	sonic 196
+	shown 5
+	snowy 1
+	4
+agile
+	alert
+	angle 9
+	agile 1
+	3
+abode
+	alert
+	abase 20
+	above 3
+	abode 1
+	4
+drink
+	alert
+	crony 98
+	bring 7
+	drink 1
+	4
+wharf
+	alert
+	chard 28
+	shark 3
+	wharf 1
+	4
+inept
+	alert
+	sheet 13
+	inept 1
+	3
+lingo
+	alert
+	silly 84
+	vigil 6
+	lingo 1
+	4
+flung
+	alert
+	slunk 52
+	flung 2
+	3
+teary
+	alert
+	terra 4
+	teary 1
+	3
+trump
+	alert
+	north 31
+	trump 4
+	3
+built
+	alert
+	moult 11
+	quilt 3
+	built 2
+	4
+stunt
+	alert
+	hoist 45
+	stunt 1
+	3
+fluid
+	alert
+	slunk 52
+	plumb 6
+	fluid 2
+	4
+haunt
+	alert
+	haunt 24
+	2
+queen
+	alert
+	sheen 30
+	queen 1
+	3
+fleet
+	alert
+	fleet 5
+	2
+strap
+	alert
+	tapir 17
+	strap 1
+	3
+crank
+	alert
+	baron 77
+	grand 5
+	frank 3
+	crank 2
+	5
+abbot
+	alert
+	adopt 10
+	ascot 2
+	abbot 1
+	4
+pansy
+	alert
+	candy 110
+	fanny 4
+	pansy 2
+	4
+donor
+	alert
+	crony 98
+	honor 5
+	donor 1
+	4
+doubt
+	alert
+	hoist 45
+	count 4
+	doubt 1
+	4
+favor
+	alert
+	baron 77
+	favor 6
+	3
+notch
+	alert
+	south 84
+	botch 2
+	notch 1
+	4
+stoke
+	alert
+	spite 47
+	stoke 3
+	3
+value
+	alert
+	ladle 42
+	value 5
+	3
+creek
+	alert
+	creed 22
+	creep 2
+	creek 1
+	4
+waltz
+	alert
+	total 16
+	stalk 3
+	waltz 1
+	4
+madam
+	alert
+	candy 110
+	madam 2
+	3
+trice
+	alert
+	outer 35
+	berth 7
+	tripe 2
+	trice 1
+	5
+refer
+	alert
+	siren 160
+	rower 32
+	refer 2
+	4
+thigh
+	alert
+	south 84
+	witch 5
+	thigh 1
+	4
+twine
+	alert
+	spite 47
+	twine 2
+	3
+baton
+	alert
+	nasty 49
+	baton 2
+	3
+mimic
+	alert
+	sonic 196
+	civic 4
+	mimic 1
+	4
+quote
+	alert
+	spite 47
+	butte 3
+	quote 1
+	4
+tangy
+	alert
+	nasty 49
+	tangy 2
+	3
+farce
+	alert
+	barge 49
+	farce 3
+	3
+ghost
+	alert
+	hoist 45
+	ghost 1
+	3
+mambo
+	alert
+	candy 110
+	mamma 8
+	mambo 1
+	4
+bible
+	alert
+	belie 59
+	bible 1
+	3
+flown
+	alert
+	slunk 52
+	clown 3
+	blown 2
+	flown 1
+	5
+merit
+	alert
+	rebut 10
+	merit 1
+	3
+sheep
+	alert
+	sheen 30
+	sheep 1
+	3
+riser
+	alert
+	siren 160
+	wiser 3
+	miser 2
+	riser 1
+	5
+false
+	alert
+	ladle 42
+	value 5
+	false 1
+	4
+toddy
+	alert
+	south 84
+	toxin 6
+	toddy 1
+	4
+polka
+	alert
+	sally 60
+	polka 1
+	3
+floss
+	alert
+	slunk 52
+	floss 3
+	3
+knack
+	alert
+	candy 110
+	snack 2
+	knack 1
+	4
+slosh
+	alert
+	slunk 52
+	slimy 4
+	sloop 2
+	slosh 1
+	5
+filer
+	alert
+	liver 20
+	filer 1
+	3
+ovoid
+	alert
+	sonic 196
+	ovoid 1
+	3
+ombre
+	alert
+	chore 16
+	ombre 1
+	3
+rapid
+	alert
+	baron 77
+	rapid 5
+	3
+draft
+	alert
+	craft 9
+	graft 2
+	draft 1
+	4
+finer
+	alert
+	siren 160
+	miner 4
+	finer 2
+	4
+roomy
+	alert
+	crony 98
+	roomy 1
+	3
+cleat
+	alert
+	cleat 3
+	2
+basic
+	alert
+	candy 110
+	macho 5
+	basic 1
+	4
+pupil
+	alert
+	silly 84
+	logic 4
+	pupil 1
+	4
+goody
+	alert
+	sonic 196
+	goody 16
+	3
+charm
+	alert
+	chard 28
+	charm 1
+	3
+ditty
+	alert
+	south 84
+	bitty 6
+	ditty 3
+	4
+store
+	alert
+	retro 5
+	store 1
+	3
+kiosk
+	alert
+	sonic 196
+	kiosk 1
+	3
+twixt
+	alert
+	hoist 45
+	twixt 1
+	3
+audit
+	alert
+	adopt 10
+	audit 1
+	3
+adult
+	alert
+	adult 1
+	2
+caddy
+	alert
+	candy 110
+	caddy 1
+	3
+morph
+	alert
+	crony 98
+	furor 11
+	morph 1
+	4
+pulse
+	alert
+	belie 59
+	pulse 2
+	3
+shire
+	alert
+	chore 16
+	shire 1
+	3
+cadet
+	alert
+	feast 9
+	cadet 1
+	3
+dingo
+	alert
+	sonic 196
+	dingo 2
+	3
+drill
+	alert
+	drill 20
+	2
+shoal
+	alert
+	sally 60
+	shoal 3
+	3
+drake
+	alert
+	barge 49
+	crane 7
+	drake 4
+	4
+crave
+	alert
+	barge 49
+	crane 7
+	crave 2
+	4
+yacht
+	alert
+	haunt 24
+	yacht 1
+	3
+swamp
+	alert
+	candy 110
+	swami 11
+	swamp 1
+	4
+gecko
+	alert
+	noise 145
+	gecko 4
+	3
+joker
+	alert
+	siren 160
+	rower 32
+	hover 8
+	joker 4
+	5
+welch
+	alert
+	belie 59
+	cello 7
+	welch 1
+	4
+inlet
+	alert
+	inlet 4
+	2
+prior
+	alert
+	crony 98
+	primo 2
+	prior 1
+	4
+macaw
+	alert
+	candy 110
+	macho 5
+	macaw 1
+	4
+elite
+	alert
+	flute 2
+	elite 1
+	3
+toast
+	alert
+	haunt 24
+	toast 3
+	3
+carry
+	alert
+	chard 28
+	carry 3
+	3
+stern
+	alert
+	there 2
+	stern 1
+	3
+sassy
+	alert
+	candy 110
+	gassy 10
+	sassy 1
+	4
+along
+	alert
+	alloy 10
+	aloud 2
+	along 1
+	4
+clamp
+	alert
+	slack 30
+	claim 3
+	clamp 1
+	4
+stole
+	alert
+	lithe 13
+	style 3
+	stole 1
+	4
+crazy
+	alert
+	baron 77
+	crash 17
+	crack 3
+	crazy 2
+	5
+drove
+	alert
+	siren 160
+	prude 18
+	drove 1
+	4
+stood
+	alert
+	south 84
+	stoop 6
+	stood 1
+	4
+terra
+	alert
+	teary 4
+	terra 1
+	3
+vinyl
+	alert
+	silly 84
+	vinyl 1
+	3
+laugh
+	alert
+	sally 60
+	banal 7
+	laugh 1
+	4
+avail
+	alert
+	afoul 9
+	avail 3
+	3
+proud
+	alert
+	crony 98
+	brood 10
+	proud 1
+	4
+motor
+	alert
+	north 31
+	motor 2
+	3
+trope
+	alert
+	outer 35
+	trove 4
+	trope 1
+	4
+learn
+	alert
+	learn 2
+	2
+twang
+	alert
+	nasty 49
+	twang 4
+	3
+genie
+	alert
+	noise 145
+	mince 5
+	genie 1
+	4
+thorn
+	alert
+	stork 6
+	thorn 1
+	3
+scope
+	alert
+	noise 145
+	spoke 4
+	scope 1
+	4
+drape
+	alert
+	barge 49
+	crave 7
+	drake 4
+	drape 1
+	5
+sound
+	alert
+	sonic 196
+	sound 1
+	3
+trial
+	alert
+	trial 3
+	2
+gaudy
+	alert
+	candy 110
+	paddy 4
+	bawdy 2
+	gaudy 1
+	5
+tribe
+	alert
+	outer 35
+	berth 7
+	tribe 1
+	4
+amass
+	alert
+	again 20
+	amass 3
+	3
+lathe
+	alert
+	latte 8
+	lathe 1
+	3
+board
+	alert
+	chard 28
+	board 2
+	3
+mirth
+	alert
+	north 31
+	girth 3
+	mirth 2
+	4
+wacky
+	alert
+	candy 110
+	saucy 2
+	wacky 1
+	4
+scarf
+	alert
+	chard 28
+	scarf 2
+	3
+musky
+	alert
+	sonic 196
+	mushy 10
+	musky 1
+	4
+plait
+	alert
+	blast 7
+	plant 2
+	plait 1
+	4
+folio
+	alert
+	silly 84
+	folio 2
+	3
+snuck
+	alert
+	sonic 196
+	snuck 1
+	3
+ripen
+	alert
+	siren 160
+	ripen 1
+	3
+oaken
+	alert
+	sauce 61
+	waxen 3
+	oaken 2
+	4
+wooly
+	alert
+	silly 84
+	wooly 5
+	3
+moron
+	alert
+	crony 98
+	honor 5
+	moron 1
+	4
+broad
+	alert
+	baron 77
+	broad 2
+	3
+holly
+	alert
+	silly 84
+	golly 9
+	jolly 4
+	dolly 3
+	folly 2
+	holly 1
+	7
+brush
+	alert
+	crony 98
+	brisk 6
+	brush 1
+	4
+whack
+	alert
+	candy 110
+	smack 8
+	quack 2
+	whack 1
+	5
+spiel
+	alert
+	belie 59
+	liken 5
+	impel 2
+	spiel 1
+	5
+chief
+	alert
+	noise 145
+	edify 3
+	chief 1
+	4
+vivid
+	alert
+	sonic 196
+	vivid 2
+	3
+viper
+	alert
+	siren 160
+	diver 11
+	viper 1
+	4
+gland
+	alert
+	slack 30
+	plaid 7
+	bland 2
+	gland 1
+	5
+joint
+	alert
+	hoist 45
+	point 2
+	joint 1
+	4
+caper
+	alert
+	barge 49
+	caper 11
+	3
+sheen
+	alert
+	sheen 30
+	2
+cinch
+	alert
+	sonic 196
+	pinch 4
+	cinch 3
+	4
+laden
+	alert
+	ladle 42
+	laden 1
+	3
+until
+	alert
+	until 8
+	2
+crumb
+	alert
+	crony 98
+	crimp 6
+	crumb 1
+	4
+fudge
+	alert
+	noise 145
+	fudge 9
+	3
+ivory
+	alert
+	shorn 25
+	fjord 2
+	ivory 1
+	4
+motto
+	alert
+	south 84
+	booty 2
+	motto 1
+	4
+mecca
+	alert
+	sauce 61
+	beach 3
+	mecca 1
+	4
+minor
+	alert
+	crony 98
+	honor 5
+	minor 1
+	4
+rival
+	alert
+	moral 22
+	rival 1
+	3
+ratio
+	alert
+	tapir 17
+	ratio 1
+	3
+oddly
+	alert
+	silly 84
+	wooly 5
+	oddly 1
+	4
+ethic
+	alert
+	spite 47
+	fetid 2
+	ethic 1
+	4
+stuck
+	alert
+	south 84
+	stunk 6
+	stuck 1
+	4
+chard
+	alert
+	chard 28
+	2
+spoil
+	alert
+	silly 84
+	spoil 1
+	3
+psalm
+	alert
+	sally 60
+	psalm 1
+	3
+clean
+	alert
+	glean 5
+	clean 1
+	3
+wooer
+	alert
+	siren 160
+	rower 32
+	wooer 1
+	4
+terse
+	alert
+	outer 35
+	berth 7
+	terse 1
+	4
+tarot
+	alert
+	craft 9
+	tarot 1
+	3
+match
+	alert
+	nasty 49
+	match 9
+	3
+grate
+	alert
+	cater 13
+	grate 3
+	3
+noise
+	alert
+	noise 145
+	2
+brave
+	alert
+	barge 49
+	brake 3
+	brace 2
+	brave 1
+	5
+foist
+	alert
+	hoist 45
+	joist 3
+	foist 2
+	4
+prone
+	alert
+	siren 160
+	prune 4
+	prone 1
+	4
+gusto
+	alert
+	south 84
+	gusto 1
+	3
+biddy
+	alert
+	sonic 196
+	whiff 9
+	giddy 4
+	biddy 1
+	5
+opera
+	alert
+	opera 1
+	2
+curvy
+	alert
+	crony 98
+	curvy 1
+	3
+scary
+	alert
+	chard 28
+	scarf 2
+	scary 1
+	4
+witty
+	alert
+	south 84
+	bitty 6
+	ditty 3
+	witty 2
+	5
+meter
+	alert
+	outer 35
+	deter 5
+	meter 1
+	4
+braid
+	alert
+	baron 77
+	brash 4
+	braid 1
+	4
+mulch
+	alert
+	silly 84
+	gulch 3
+	mulch 1
+	4
+nadir
+	alert
+	baron 77
+	randy 4
+	nadir 1
+	4
+taste
+	alert
+	taste 23
+	2
+pooch
+	alert
+	sonic 196
+	cough 6
+	pooch 1
+	4
+undue
+	alert
+	noise 145
+	pence 7
+	undue 1
+	4
+flash
+	alert
+	slack 30
+	flash 2
+	3
+flirt
+	alert
+	blurt 2
+	flirt 1
+	3
+dodgy
+	alert
+	sonic 196
+	goody 16
+	dodgy 1
+	4
+eerie
+	alert
+	siren 160
+	eerie 1
+	3
+eager
+	alert
+	barge 49
+	gayer 5
+	wager 2
+	eager 1
+	5
+diner
+	alert
+	siren 160
+	miner 4
+	finer 2
+	diner 1
+	5
+piece
+	alert
+	sheen 30
+	beefy 5
+	piece 2
+	4
+agony
+	alert
+	again 20
+	agony 1
+	3
+glory
+	alert
+	blurb 3
+	glory 1
+	3
+freer
+	alert
+	creed 22
+	preen 3
+	freer 1
+	4
+hunch
+	alert
+	sonic 196
+	munch 4
+	hunch 3
+	4
+elder
+	alert
+	flier 7
+	older 4
+	elder 1
+	4
+bless
+	alert
+	bleed 9
+	bless 1
+	3
+rhino
+	alert
+	crony 98
+	round 2
+	rhino 1
+	4
+maker
+	alert
+	barge 49
+	caper 11
+	safer 5
+	maker 2
+	5
+conch
+	alert
+	sonic 196
+	condo 2
+	conch 1
+	4
+smart
+	alert
+	start 4
+	smart 1
+	3
+march
+	alert
+	baron 77
+	marsh 7
+	march 1
+	4
+reedy
+	alert
+	creed 22
+	reedy 1
+	3
+skier
+	alert
+	siren 160
+	skier 1
+	3
+radar
+	alert
+	baron 77
+	rapid 5
+	radar 1
+	4
+route
+	alert
+	outer 35
+	route 1
+	3
+dutch
+	alert
+	south 84
+	butch 3
+	dutch 2
+	4
+spade
+	alert
+	sauce 61
+	shade 7
+	spade 1
+	4
+weedy
+	alert
+	sheen 30
+	beefy 5
+	weedy 2
+	4
+leash
+	alert
+	ladle 42
+	leafy 4
+	leash 2
+	4
+royal
+	alert
+	moral 22
+	royal 1
+	3
+ample
+	alert
+	angle 9
+	ample 4
+	3
+union
+	alert
+	sonic 196
+	owing 4
+	union 1
+	4
+short
+	alert
+	sport 7
+	snort 2
+	short 1
+	4
+octal
+	alert
+	total 16
+	octal 1
+	3
+diver
+	alert
+	siren 160
+	diver 11
+	3
+yield
+	alert
+	wheel 15
+	field 2
+	yield 1
+	4
+bluer
+	alert
+	flier 7
+	older 4
+	bluer 2
+	4
+bluff
+	alert
+	slunk 52
+	plumb 6
+	bluff 1
+	4
+brain
+	alert
+	baron 77
+	brawn 2
+	brain 1
+	4
+shook
+	alert
+	sonic 196
+	spook 6
+	shook 1
+	4
+trunk
+	alert
+	north 31
+	trunk 1
+	3
+aging
+	alert
+	again 20
+	aging 1
+	3
+rayon
+	alert
+	baron 77
+	rayon 1
+	3
+slave
+	alert
+	blade 10
+	plane 6
+	flame 4
+	glaze 2
+	slave 1
+	6
+slack
+	alert
+	slack 30
+	2
+shape
+	alert
+	sauce 61
+	shade 7
+	shave 4
+	shame 3
+	shape 2
+	6
+thief
+	alert
+	spite 47
+	thief 1
+	3
+omega
+	alert
+	sneak 8
+	omega 1
+	3
+whoop
+	alert
+	sonic 196
+	jumbo 4
+	whoop 1
+	4
+twirl
+	alert
+	twirl 1
+	2
+ingot
+	alert
+	hoist 45
+	pivot 3
+	ingot 1
+	4
+fatal
+	alert
+	total 16
+	fatal 3
+	3
+burnt
+	alert
+	frost 24
+	right 2
+	burnt 1
+	4
+mauve
+	alert
+	sauce 61
+	gauge 3
+	mauve 1
+	4
+arbor
+	alert
+	arbor 11
+	2
+heron
+	alert
+	siren 160
+	heron 2
+	3
+merry
+	alert
+	chore 16
+	ferry 4
+	merry 2
+	4
+alley
+	alert
+	alike 6
+	alley 1
+	3
+kayak
+	alert
+	candy 110
+	bayou 2
+	kayak 1
+	4
+salad
+	alert
+	sally 60
+	salvo 4
+	salad 2
+	4
+dried
+	alert
+	siren 160
+	cried 8
+	pried 3
+	dried 2
+	5
+buggy
+	alert
+	sonic 196
+	dumpy 15
+	fuzzy 2
+	buggy 1
+	5
+affix
+	alert
+	again 20
+	avoid 4
+	affix 1
+	4
+ready
+	alert
+	barge 49
+	reach 5
+	ready 1
+	4
+salty
+	alert
+	total 16
+	stalk 3
+	salty 1
+	4
+cigar
+	alert
+	baron 77
+	crash 17
+	cigar 1
+	4
+nerdy
+	alert
+	siren 160
+	nerdy 3
+	3
+minty
+	alert
+	south 84
+	bitty 6
+	minty 2
+	4
+crust
+	alert
+	frost 24
+	trust 4
+	crust 1
+	4
+dough
+	alert
+	sonic 196
+	goody 16
+	dough 1
+	4
+theme
+	alert
+	steed 8
+	theme 2
+	3
+hippy
+	alert
+	sonic 196
+	whiff 9
+	hippy 1
+	4
+rogue
+	alert
+	siren 160
+	prude 18
+	revue 2
+	rogue 1
+	5
+moose
+	alert
+	noise 145
+	moose 6
+	3
+debar
+	alert
+	barge 49
+	debar 3
+	3
+piety
+	alert
+	steed 8
+	piety 1
+	3
+finch
+	alert
+	sonic 196
+	pinch 4
+	cinch 3
+	finch 2
+	5
+fluff
+	alert
+	slunk 52
+	plumb 6
+	fluid 2
+	fluff 1
+	5
+egret
+	alert
+	rebut 10
+	egret 1
+	3
+crude
+	alert
+	siren 160
+	prude 18
+	crude 1
+	4
+video
+	alert
+	noise 145
+	video 1
+	3
+jumpy
+	alert
+	sonic 196
+	dumpy 15
+	jumpy 1
+	4
+artsy
+	alert
+	actor 3
+	artsy 1
+	3
+still
+	alert
+	until 8
+	still 1
+	3
+quell
+	alert
+	wheel 15
+	spell 3
+	quell 1
+	4
+dowel
+	alert
+	belie 59
+	novel 8
+	model 2
+	dowel 1
+	5
+afoul
+	alert
+	afoul 9
+	2
+chime
+	alert
+	noise 145
+	chide 4
+	chime 1
+	4
+order
+	alert
+	siren 160
+	rower 32
+	order 1
+	4
+range
+	alert
+	barge 49
+	range 1
+	3
+tiger
+	alert
+	outer 35
+	tiger 3
+	3
+turbo
+	alert
+	north 31
+	turbo 1
+	3
+graze
+	alert
+	barge 49
+	grape 5
+	grave 4
+	grace 3
+	graze 2
+	6
+guava
+	alert
+	candy 110
+	swami 11
+	guava 1
+	4
+logic
+	alert
+	silly 84
+	logic 4
+	3
+gruff
+	alert
+	crony 98
+	brisk 6
+	gruff 1
+	4
+ramen
+	alert
+	barge 49
+	caper 11
+	ramen 2
+	4
+shank
+	alert
+	candy 110
+	spawn 7
+	shank 1
+	4
+leach
+	alert
+	ladle 42
+	leafy 4
+	leash 2
+	leach 1
+	5
+circa
+	alert
+	baron 77
+	spray 4
+	circa 1
+	4
+brink
+	alert
+	crony 98
+	bring 7
+	brink 1
+	4
+raise
+	alert
+	barge 49
+	raise 1
+	3
+dogma
+	alert
+	candy 110
+	vodka 3
+	dogma 1
+	4
+flint
+	alert
+	flint 5
+	2
+itchy
+	alert
+	south 84
+	thick 5
+	itchy 1
+	4
+shaky
+	alert
+	candy 110
+	soapy 3
+	shaky 1
+	4
+flora
+	alert
+	flora 1
+	2
+penne
+	alert
+	noise 145
+	pence 7
+	penne 1
+	4
+venue
+	alert
+	noise 145
+	pence 7
+	venue 1
+	4
+pluck
+	alert
+	slunk 52
+	cluck 2
+	pluck 1
+	4
+jetty
+	alert
+	spite 47
+	hefty 3
+	jetty 1
+	4
+mercy
+	alert
+	siren 160
+	force 15
+	perch 2
+	mercy 1
+	5
+godly
+	alert
+	silly 84
+	wooly 5
+	godly 3
+	4
+hotly
+	alert
+	until 8
+	hotly 1
+	3
+cumin
+	alert
+	sonic 196
+	cumin 1
+	3
+slain
+	alert
+	slack 30
+	slang 3
+	slain 1
+	4
+clock
+	alert
+	slunk 52
+	flick 5
+	block 2
+	clock 1
+	5
+slurp
+	alert
+	blurb 3
+	slurp 1
+	3
+anime
+	alert
+	abase 20
+	anime 3
+	3
+fiend
+	alert
+	sheen 30
+	fiend 1
+	3
+dopey
+	alert
+	noise 145
+	gooey 4
+	dopey 2
+	4
+tawny
+	alert
+	nasty 49
+	tangy 2
+	tawny 1
+	4
+await
+	alert
+	adopt 10
+	await 2
+	3
+credo
+	alert
+	creed 22
+	credo 1
+	3
+banal
+	alert
+	sally 60
+	banal 7
+	3
+shark
+	alert
+	chard 28
+	shark 3
+	3
+canon
+	alert
+	candy 110
+	canon 1
+	3
+batty
+	alert
+	nasty 49
+	catty 5
+	fatty 4
+	tatty 3
+	batty 2
+	6
+risen
+	alert
+	siren 160
+	risen 1
+	3
+brunt
+	alert
+	frost 24
+	brunt 4
+	3
+midst
+	alert
+	hoist 45
+	midst 1
+	3
+troop
+	alert
+	north 31
+	tumor 3
+	troop 1
+	4
+horny
+	alert
+	crony 98
+	horny 1
+	3
+guard
+	alert
+	chard 28
+	board 2
+	guard 1
+	4
+coast
+	alert
+	haunt 24
+	toast 3
+	coast 2
+	4
+slant
+	alert
+	blast 7
+	slant 1
+	3
+thing
+	alert
+	south 84
+	thick 5
+	thing 1
+	4
+putty
+	alert
+	south 84
+	nutty 3
+	putty 1
+	4
+tunic
+	alert
+	south 84
+	tunic 1
+	3
+login
+	alert
+	silly 84
+	logic 4
+	login 1
+	4
+murky
+	alert
+	crony 98
+	ruddy 4
+	murky 1
+	4
+sneak
+	alert
+	sneak 8
+	2
+smock
+	alert
+	sonic 196
+	scoop 4
+	smock 2
+	4
+bloat
+	alert
+	blast 7
+	bloat 1
+	3
+fresh
+	alert
+	creed 22
+	press 2
+	fresh 1
+	4
+onset
+	alert
+	onset 21
+	2
+lupus
+	alert
+	silly 84
+	lupus 2
+	3
+bused
+	alert
+	noise 145
+	bused 2
+	3
+axial
+	alert
+	afoul 9
+	avail 3
+	axial 1
+	4
+heard
+	alert
+	heard 10
+	2
+shorn
+	alert
+	shorn 25
+	2
+nudge
+	alert
+	noise 145
+	nudge 1
+	3
+email
+	alert
+	ladle 42
+	penal 4
+	email 1
+	4
+wring
+	alert
+	crony 98
+	bring 7
+	wring 1
+	4
+cheat
+	alert
+	wheat 3
+	cheat 1
+	3
+silky
+	alert
+	silly 84
+	silky 1
+	3
+caput
+	alert
+	haunt 24
+	caput 2
+	3
+alarm
+	alert
+	alarm 1
+	2
+remit
+	alert
+	rebut 10
+	refit 3
+	remit 1
+	4
+stake
+	alert
+	taste 23
+	stage 3
+	stake 2
+	4
+admit
+	alert
+	adopt 10
+	admit 1
+	3
+hydro
+	alert
+	shorn 25
+	hydro 1
+	3
+naval
+	alert
+	sally 60
+	banal 7
+	naval 1
+	4
+plume
+	alert
+	slope 23
+	plume 1
+	3
+semen
+	alert
+	noise 145
+	seven 2
+	semen 1
+	4
+dross
+	alert
+	crony 98
+	droop 10
+	dross 1
+	4
+bleak
+	alert
+	glean 5
+	plead 2
+	bleak 1
+	4
+erect
+	alert
+	crest 5
+	erect 1
+	3
+mason
+	alert
+	candy 110
+	mason 6
+	3
+adept
+	alert
+	adept 2
+	2
+argue
+	alert
+	arise 7
+	argue 1
+	3
+pleat
+	alert
+	cleat 3
+	pleat 2
+	3
+hoard
+	alert
+	chard 28
+	hoard 1
+	3
+dwarf
+	alert
+	chard 28
+	diary 2
+	dwarf 1
+	4
+creak
+	alert
+	dream 12
+	freak 4
+	break 3
+	creak 2
+	5
+mango
+	alert
+	candy 110
+	mania 4
+	mango 1
+	4
+barge
+	alert
+	barge 49
+	2
+plunk
+	alert
+	slunk 52
+	plunk 2
+	3
+betel
+	alert
+	lithe 13
+	extol 3
+	betel 1
+	4
+teddy
+	alert
+	spite 47
+	often 6
+	teddy 1
+	4
+feign
+	alert
+	noise 145
+	eking 5
+	feign 2
+	4
+labor
+	alert
+	moral 22
+	labor 2
+	3
+panic
+	alert
+	candy 110
+	panic 2
+	3
+rinse
+	alert
+	siren 160
+	rinse 1
+	3
+voter
+	alert
+	outer 35
+	voter 1
+	3
+armor
+	alert
+	arbor 11
+	armor 2
+	3
+chaff
+	alert
+	candy 110
+	chasm 7
+	chaff 1
+	4
+swung
+	alert
+	sonic 196
+	skunk 4
+	swung 1
+	4
+green
+	alert
+	creed 22
+	preen 3
+	green 1
+	4
+allow
+	alert
+	alloy 10
+	allow 1
+	3
+manga
+	alert
+	candy 110
+	mania 4
+	manga 1
+	4
+child
+	alert
+	silly 84
+	build 4
+	child 1
+	4
+ultra
+	alert
+	ultra 1
+	2
+lurch
+	alert
+	drill 20
+	lurch 2
+	3
+filth
+	alert
+	until 8
+	filth 1
+	3
+howdy
+	alert
+	sonic 196
+	goody 16
+	howdy 2
+	4
+payee
+	alert
+	sauce 61
+	mange 8
+	waive 2
+	payee 1
+	5
+tutor
+	alert
+	north 31
+	tumor 3
+	tutor 1
+	4
+blood
+	alert
+	slunk 52
+	blimp 8
+	blood 1
+	4
+offer
+	alert
+	siren 160
+	rower 32
+	offer 2
+	4
+lying
+	alert
+	silly 84
+	lying 1
+	3
+rural
+	alert
+	moral 22
+	viral 2
+	rural 1
+	4
+slung
+	alert
+	slunk 52
+	slung 1
+	3
+shrug
+	alert
+	crony 98
+	rigid 5
+	shrug 1
+	4
+nanny
+	alert
+	candy 110
+	nanny 4
+	3
+couch
+	alert
+	sonic 196
+	cough 6
+	couch 1
+	4
+aloft
+	alert
+	aloft 2
+	2
+crass
+	alert
+	baron 77
+	crash 17
+	crass 1
+	4
+aside
+	alert
+	abase 20
+	aside 1
+	3
+color
+	alert
+	drill 20
+	lurch 2
+	color 1
+	4
+query
+	alert
+	every 5
+	query 2
+	3
+blend
+	alert
+	bleed 9
+	blend 1
+	3
+curly
+	alert
+	drill 20
+	burly 3
+	curly 2
+	4
+stead
+	alert
+	steam 5
+	stead 2
+	3
+radii
+	alert
+	baron 77
+	rapid 5
+	radii 1
+	4
+think
+	alert
+	south 84
+	thick 5
+	think 1
+	4
+chain
+	alert
+	candy 110
+	china 2
+	chain 1
+	4
+wimpy
+	alert
+	sonic 196
+	whiff 9
+	wimpy 1
+	4
+plier
+	alert
+	flier 7
+	plier 1
+	3
+inlay
+	alert
+	sally 60
+	inlay 1
+	3
+whine
+	alert
+	noise 145
+	knife 2
+	whine 1
+	4
+deign
+	alert
+	noise 145
+	eking 5
+	feign 2
+	deign 1
+	5
+bough
+	alert
+	sonic 196
+	goody 16
+	bough 1
+	4
+loath
+	alert
+	total 16
+	loath 1
+	3
+aloof
+	alert
+	alloy 10
+	aloof 1
+	3
+frock
+	alert
+	crony 98
+	frock 1
+	3
+sweet
+	alert
+	sheet 13
+	sweet 1
+	3
+repel
+	alert
+	liver 20
+	gruel 4
+	rebel 2
+	repel 1
+	5
+basin
+	alert
+	candy 110
+	mason 6
+	basin 1
+	4
+craft
+	alert
+	craft 9
+	2
+pygmy
+	alert
+	sonic 196
+	dumpy 15
+	pygmy 1
+	4
+endow
+	alert
+	noise 145
+	envoy 6
+	endow 1
+	4
+ahead
+	alert
+	amend 2
+	ahead 1
+	3
+irate
+	alert
+	cater 13
+	grate 3
+	irate 1
+	4
+sandy
+	alert
+	candy 110
+	dandy 3
+	sandy 2
+	4
+flout
+	alert
+	flint 5
+	flout 1
+	3
+harem
+	alert
+	barge 49
+	rarer 3
+	harem 1
+	4
+slime
+	alert
+	slope 23
+	slice 3
+	slide 2
+	slime 1
+	5
+lousy
+	alert
+	silly 84
+	lousy 1
+	3
+tonal
+	alert
+	total 16
+	tonal 1
+	3
+purer
+	alert
+	siren 160
+	puree 3
+	purer 1
+	4
+tapir
+	alert
+	tapir 17
+	2
+tacit
+	alert
+	haunt 24
+	tacit 2
+	3
+given
+	alert
+	noise 145
+	widen 8
+	vixen 2
+	given 1
+	5
+gayly
+	alert
+	sally 60
+	madly 6
+	gayly 2
+	4
+haven
+	alert
+	sauce 61
+	waxen 3
+	oaken 2
+	haven 1
+	5
+leant
+	alert
+	leapt 7
+	least 2
+	leant 1
+	4
+which
+	alert
+	sonic 196
+	chick 5
+	which 1
+	4
+overt
+	alert
+	exert 3
+	overt 2
+	3
+felon
+	alert
+	belie 59
+	cello 7
+	melon 2
+	felon 1
+	5
+alien
+	alert
+	alike 6
+	alien 1
+	3
+pouty
+	alert
+	south 84
+	pouty 1
+	3
+bobby
+	alert
+	sonic 196
+	goody 16
+	hobby 3
+	bobby 1
+	5
+envoy
+	alert
+	noise 145
+	envoy 6
+	3
+pence
+	alert
+	noise 145
+	pence 7
+	3
+quasi
+	alert
+	candy 110
+	swami 11
+	quasi 1
+	4
+silly
+	alert
+	silly 84
+	2
+bleep
+	alert
+	bleed 9
+	bleep 1
+	3
+adorn
+	alert
+	acorn 5
+	adorn 1
+	3
+those
+	alert
+	spite 47
+	tense 2
+	those 1
+	4
+forte
+	alert
+	outer 35
+	trove 4
+	forte 1
+	4
+unlit
+	alert
+	moult 11
+	unlit 1
+	3
+prize
+	alert
+	siren 160
+	pride 10
+	price 3
+	prime 2
+	prize 1
+	6
+mafia
+	alert
+	candy 110
+	mamma 8
+	mafia 1
+	4
+recap
+	alert
+	barge 49
+	reach 5
+	recap 1
+	4
+print
+	alert
+	frost 24
+	brunt 4
+	print 1
+	4
+cocoa
+	alert
+	candy 110
+	chasm 7
+	cocoa 1
+	4
+broke
+	alert
+	siren 160
+	prude 18
+	grove 3
+	broke 2
+	5
+cutie
+	alert
+	spite 47
+	cutie 3
+	3
+surly
+	alert
+	drill 20
+	burly 3
+	curly 2
+	surly 1
+	5
+whirl
+	alert
+	whirl 3
+	2
+comma
+	alert
+	candy 110
+	chasm 7
+	comma 1
+	4
+lunge
+	alert
+	belie 59
+	louse 7
+	lunge 1
+	4
+scone
+	alert
+	noise 145
+	scone 2
+	3
+beast
+	alert
+	feast 9
+	beast 2
+	3
+ruder
+	alert
+	siren 160
+	rower 32
+	refer 2
+	ruder 1
+	5
+weird
+	alert
+	chore 16
+	ferry 4
+	weird 1
+	4
+olden
+	alert
+	slope 23
+	elbow 2
+	olden 1
+	4
+awoke
+	alert
+	abase 20
+	anime 3
+	awoke 1
+	4
+twice
+	alert
+	spite 47
+	twine 2
+	twice 1
+	4
+slush
+	alert
+	slunk 52
+	slump 2
+	slush 1
+	4
+grout
+	alert
+	frost 24
+	grout 3
+	3
+hover
+	alert
+	siren 160
+	rower 32
+	mover 8
+	cover 2
+	hover 1
+	6
+shock
+	alert
+	sonic 196
+	scoop 4
+	smock 2
+	shock 1
+	5
+conic
+	alert
+	sonic 196
+	conic 2
+	3
+carol
+	alert
+	moral 22
+	carol 1
+	3
+nosey
+	alert
+	noise 145
+	nosey 1
+	3
+parer
+	alert
+	barge 49
+	rarer 3
+	parer 1
+	4
+smoke
+	alert
+	noise 145
+	spoke 4
+	smoke 1
+	4
+adore
+	alert
+	adore 4
+	2
+lapse
+	alert
+	ladle 42
+	lance 2
+	lapse 1
+	4
+agate
+	alert
+	abate 4
+	agate 1
+	3
+prawn
+	alert
+	baron 77
+	drain 4
+	prawn 1
+	4
+satin
+	alert
+	nasty 49
+	satin 1
+	3
+fritz
+	alert
+	north 31
+	fritz 2
+	3
+queer
+	alert
+	creed 22
+	sneer 3
+	queer 1
+	4
+other
+	alert
+	outer 35
+	other 1
+	3
+clash
+	alert
+	slack 30
+	clasp 3
+	class 2
+	clash 1
+	5
+coupe
+	alert
+	noise 145
+	gouge 5
+	coupe 1
+	4
+stand
+	alert
+	nasty 49
+	stank 3
+	stand 1
+	4
+sperm
+	alert
+	every 5
+	sperm 1
+	3
+jerky
+	alert
+	siren 160
+	force 15
+	jerky 3
+	4
+tidal
+	alert
+	total 16
+	tubal 2
+	tidal 1
+	4
+cruel
+	alert
+	liver 20
+	gruel 4
+	cruel 1
+	4
+blade
+	alert
+	blade 10
+	2
+flunk
+	alert
+	slunk 52
+	plunk 2
+	flunk 1
+	4
+mount
+	alert
+	hoist 45
+	count 4
+	mount 1
+	4
+lithe
+	alert
+	lithe 13
+	2
+torso
+	alert
+	north 31
+	torus 2
+	torso 1
+	4
+elate
+	alert
+	plate 3
+	slate 2
+	elate 1
+	4
+ficus
+	alert
+	sonic 196
+	ficus 1
+	3
+rerun
+	alert
+	siren 160
+	heron 2
+	rerun 1
+	4
+steal
+	alert
+	steal 1
+	2
+snail
+	alert
+	sally 60
+	shoal 3
+	snail 1
+	4
+rebar
+	alert
+	barge 49
+	debar 3
+	rebar 1
+	4
+early
+	alert
+	relay 12
+	early 1
+	3
+bathe
+	alert
+	taste 23
+	bathe 1
+	3
+smile
+	alert
+	belie 59
+	while 3
+	smile 2
+	4
+trend
+	alert
+	steer 3
+	trend 1
+	3
+annex
+	alert
+	abase 20
+	annex 1
+	3
+sharp
+	alert
+	chard 28
+	shark 3
+	sharp 1
+	4
+dully
+	alert
+	silly 84
+	golly 9
+	fully 3
+	dully 2
+	5
+aroma
+	alert
+	arbor 11
+	aroma 1
+	3
+small
+	alert
+	sally 60
+	shall 2
+	small 1
+	4
+tulle
+	alert
+	lithe 13
+	stole 3
+	tulle 1
+	4
+posse
+	alert
+	noise 145
+	moose 6
+	copse 3
+	posse 1
+	5
+snaky
+	alert
+	candy 110
+	snaky 1
+	3
+proxy
+	alert
+	crony 98
+	proxy 1
+	3
+heave
+	alert
+	sauce 61
+	knave 6
+	heave 2
+	4
+louse
+	alert
+	belie 59
+	louse 7
+	3
+rupee
+	alert
+	siren 160
+	rower 32
+	rupee 1
+	4
+outgo
+	alert
+	south 84
+	outdo 2
+	outgo 1
+	4
+whale
+	alert
+	ladle 42
+	scale 3
+	whale 1
+	4
+flare
+	alert
+	glare 3
+	flare 2
+	3
+elfin
+	alert
+	slope 23
+	clued 2
+	elfin 1
+	4
+pulpy
+	alert
+	silly 84
+	bulky 3
+	pulpy 1
+	4
+swath
+	alert
+	nasty 49
+	swath 1
+	3
+chart
+	alert
+	start 4
+	chart 2
+	3
+tilde
+	alert
+	lithe 13
+	tilde 1
+	3
+freed
+	alert
+	creed 22
+	breed 3
+	greed 2
+	freed 1
+	5
+radio
+	alert
+	baron 77
+	radio 1
+	3
+halve
+	alert
+	ladle 42
+	value 5
+	halve 2
+	4
+geese
+	alert
+	sheen 30
+	obese 2
+	geese 1
+	4
+canal
+	alert
+	sally 60
+	banal 7
+	canal 1
+	4
+abuse
+	alert
+	abase 20
+	abuse 1
+	3
+gypsy
+	alert
+	sonic 196
+	mushy 10
+	gypsy 1
+	4
+plush
+	alert
+	slunk 52
+	flush 3
+	plush 2
+	4
+bulge
+	alert
+	belie 59
+	bulge 1
+	3
+fella
+	alert
+	ladle 42
+	fella 1
+	3
+shore
+	alert
+	chore 16
+	shore 1
+	3
+snide
+	alert
+	noise 145
+	spine 5
+	snide 1
+	4
+berry
+	alert
+	chore 16
+	ferry 4
+	merry 2
+	berry 1
+	5
+dwelt
+	alert
+	smelt 4
+	dwelt 2
+	3
+curve
+	alert
+	siren 160
+	force 15
+	curve 1
+	4
+magic
+	alert
+	candy 110
+	macho 5
+	magic 1
+	4
+tract
+	alert
+	craft 9
+	tract 1
+	3
+snarl
+	alert
+	snarl 1
+	2
+guild
+	alert
+	silly 84
+	build 4
+	guild 1
+	4
+hasty
+	alert
+	nasty 49
+	tasty 3
+	hasty 2
+	4
+unity
+	alert
+	south 84
+	nutty 3
+	unity 1
+	4
+antic
+	alert
+	attic 4
+	antic 1
+	3
+shady
+	alert
+	candy 110
+	shady 1
+	3
+unwed
+	alert
+	noise 145
+	wench 7
+	unwed 1
+	4
+chick
+	alert
+	sonic 196
+	chick 5
+	3
+satyr
+	alert
+	tapir 17
+	satyr 1
+	3
+vogue
+	alert
+	noise 145
+	gouge 5
+	vogue 1
+	4
+inter
+	alert
+	outer 35
+	deter 5
+	inter 1
+	4
+flail
+	alert
+	slack 30
+	plaid 7
+	flail 1
+	4
+apart
+	alert
+	abort 2
+	apart 1
+	3
+patsy
+	alert
+	nasty 49
+	patsy 1
+	3
+timid
+	alert
+	south 84
+	tying 2
+	timid 1
+	4
+abide
+	alert
+	abase 20
+	above 3
+	abide 1
+	4
+shyly
+	alert
+	silly 84
+	shyly 1
+	3
+plank
+	alert
+	slack 30
+	blank 3
+	flank 2
+	plank 1
+	5
+tenet
+	alert
+	onset 21
+	tenet 1
+	3
+rajah
+	alert
+	baron 77
+	radar 5
+	rajah 1
+	4
+billy
+	alert
+	silly 84
+	dilly 5
+	willy 4
+	billy 3
+	5
+easel
+	alert
+	ladle 42
+	navel 7
+	camel 4
+	hazel 3
+	bagel 2
+	easel 1
+	7
+musty
+	alert
+	south 84
+	gusty 3
+	dusty 2
+	musty 1
+	5
+avian
+	alert
+	again 20
+	avian 1
+	3
+balmy
+	alert
+	sally 60
+	balmy 1
+	3
+jewel
+	alert
+	belie 59
+	jewel 2
+	3
+clack
+	alert
+	slack 30
+	black 3
+	clack 2
+	4
+quail
+	alert
+	sally 60
+	focal 9
+	quail 1
+	4
+tango
+	alert
+	nasty 49
+	baton 2
+	tango 1
+	4
+vista
+	alert
+	nasty 49
+	vista 1
+	3
+sewer
+	alert
+	siren 160
+	sewer 5
+	3
+pixel
+	alert
+	belie 59
+	liken 5
+	pixel 1
+	4
+solid
+	alert
+	silly 84
+	solid 1
+	3
+sight
+	alert
+	hoist 45
+	sight 1
+	3
+crush
+	alert
+	crony 98
+	crimp 6
+	crush 1
+	4
+queue
+	alert
+	sheen 30
+	beefy 5
+	piece 2
+	queue 1
+	5
+chunk
+	alert
+	sonic 196
+	chunk 1
+	3
+fever
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	fever 2
+	5
+aunty
+	alert
+	attic 4
+	aunty 1
+	3
+elect
+	alert
+	fleet 5
+	elect 1
+	3
+golem
+	alert
+	belie 59
+	golem 1
+	3
+lapel
+	alert
+	ladle 42
+	label 2
+	lapel 1
+	4
+noisy
+	alert
+	sonic 196
+	noisy 1
+	3
+belch
+	alert
+	belie 59
+	belch 3
+	3
+modem
+	alert
+	noise 145
+	gooey 4
+	modem 1
+	4
+lemon
+	alert
+	belie 59
+	newly 3
+	lemon 1
+	4
+flack
+	alert
+	slack 30
+	black 3
+	clack 2
+	flack 1
+	5
+crock
+	alert
+	crony 98
+	crook 5
+	crock 1
+	4
+shrew
+	alert
+	siren 160
+	screw 5
+	shrew 1
+	4
+winch
+	alert
+	sonic 196
+	pinch 4
+	cinch 3
+	finch 2
+	winch 1
+	6
+dumpy
+	alert
+	sonic 196
+	dumpy 15
+	3
+igloo
+	alert
+	silly 84
+	folio 2
+	igloo 1
+	4
+equal
+	alert
+	ladle 42
+	penal 4
+	equal 1
+	4
+beady
+	alert
+	sauce 61
+	beady 7
+	3
+renew
+	alert
+	siren 160
+	renew 6
+	3
+spoon
+	alert
+	sonic 196
+	shown 5
+	spoon 1
+	4
+ovary
+	alert
+	chard 28
+	spark 4
+	ovary 1
+	4
+etude
+	alert
+	spite 47
+	thyme 2
+	etude 1
+	4
+digit
+	alert
+	hoist 45
+	input 3
+	digit 1
+	4
+scent
+	alert
+	sheet 13
+	swept 3
+	scent 1
+	4
+allot
+	alert
+	aloft 2
+	allot 1
+	3
+eject
+	alert
+	sheet 13
+	event 2
+	eject 1
+	4
+taunt
+	alert
+	haunt 24
+	daunt 5
+	jaunt 4
+	gaunt 3
+	taunt 2
+	6
+truck
+	alert
+	north 31
+	trump 4
+	truck 2
+	4
+wince
+	alert
+	noise 145
+	mince 5
+	wince 1
+	4
+unset
+	alert
+	onset 21
+	unset 1
+	3
+coach
+	alert
+	candy 110
+	chasm 7
+	coach 1
+	4
+ditch
+	alert
+	south 84
+	witch 5
+	hitch 3
+	ditch 2
+	5
+cobra
+	alert
+	chard 28
+	carry 3
+	cobra 1
+	4
+pride
+	alert
+	siren 160
+	pride 10
+	3
+imply
+	alert
+	silly 84
+	imply 2
+	3
+flock
+	alert
+	slunk 52
+	flick 5
+	flock 1
+	4
+genre
+	alert
+	chore 16
+	fibre 3
+	genre 1
+	4
+blaze
+	alert
+	blade 10
+	blaze 2
+	3
+scree
+	alert
+	siren 160
+	screw 5
+	scree 1
+	4
+speak
+	alert
+	sneak 8
+	speak 1
+	3
+icily
+	alert
+	silly 84
+	imply 2
+	icily 1
+	4
+brand
+	alert
+	baron 77
+	brand 1
+	3
+threw
+	alert
+	outer 35
+	threw 3
+	3
+natal
+	alert
+	total 16
+	fatal 3
+	natal 1
+	4
+globe
+	alert
+	slope 23
+	clove 5
+	bloke 2
+	globe 1
+	5
+humid
+	alert
+	sonic 196
+	vivid 2
+	humid 1
+	4
+speck
+	alert
+	sheen 30
+	speck 1
+	3
+crimp
+	alert
+	crony 98
+	crimp 6
+	3
+later
+	alert
+	later 1
+	2
+dream
+	alert
+	dream 12
+	2
+neigh
+	alert
+	noise 145
+	neigh 1
+	3
+spasm
+	alert
+	candy 110
+	swami 11
+	smash 2
+	spasm 1
+	5
+pitch
+	alert
+	south 84
+	witch 5
+	hitch 3
+	ditch 2
+	pitch 1
+	6
+three
+	alert
+	outer 35
+	threw 3
+	three 1
+	4
+level
+	alert
+	belie 59
+	jewel 2
+	level 1
+	4
+maize
+	alert
+	sauce 61
+	mange 8
+	maybe 2
+	maize 1
+	5
+dirty
+	alert
+	north 31
+	dirty 1
+	3
+tally
+	alert
+	total 16
+	tally 1
+	3
+audio
+	alert
+	again 20
+	avoid 4
+	audio 1
+	4
+spicy
+	alert
+	sonic 196
+	spicy 1
+	3
+dance
+	alert
+	sauce 61
+	dance 1
+	3
+spend
+	alert
+	sheen 30
+	spend 1
+	3
+ideal
+	alert
+	ideal 1
+	2
+kitty
+	alert
+	south 84
+	bitty 6
+	ditty 3
+	witty 2
+	kitty 1
+	6
+awful
+	alert
+	afoul 9
+	awful 1
+	3
+dowry
+	alert
+	shorn 25
+	gourd 4
+	dowry 1
+	4
+salve
+	alert
+	ladle 42
+	value 5
+	halve 2
+	salve 1
+	5
+savor
+	alert
+	baron 77
+	favor 6
+	savor 1
+	4
+probe
+	alert
+	siren 160
+	prude 18
+	probe 2
+	4
+could
+	alert
+	silly 84
+	would 2
+	could 1
+	4
+virus
+	alert
+	crony 98
+	rigid 5
+	virus 1
+	4
+fishy
+	alert
+	sonic 196
+	gipsy 5
+	fishy 1
+	4
+gamut
+	alert
+	haunt 24
+	caput 2
+	gamut 1
+	4
+large
+	alert
+	relay 12
+	large 2
+	3
+floor
+	alert
+	flour 2
+	floor 1
+	3
+drool
+	alert
+	drill 20
+	drool 1
+	3
+shone
+	alert
+	noise 145
+	scone 2
+	shone 1
+	4
+every
+	alert
+	every 5
+	2
+recur
+	alert
+	siren 160
+	prude 18
+	femur 2
+	recur 1
+	5
+solar
+	alert
+	moral 22
+	polar 2
+	solar 1
+	4
+fling
+	alert
+	slunk 52
+	fling 4
+	3
+penal
+	alert
+	ladle 42
+	penal 4
+	3
+bowel
+	alert
+	belie 59
+	bowel 1
+	3
+scoff
+	alert
+	sonic 196
+	scoop 4
+	scoff 1
+	4
+clerk
+	alert
+	clerk 1
+	2
+lipid
+	alert
+	silly 84
+	vigil 6
+	lipid 1
+	4
+odder
+	alert
+	siren 160
+	rower 32
+	offer 2
+	odder 1
+	5
+soggy
+	alert
+	sonic 196
+	soggy 1
+	3
+guilt
+	alert
+	moult 11
+	quilt 3
+	built 2
+	guilt 1
+	5
+ardor
+	alert
+	arbor 11
+	armor 2
+	ardor 1
+	4
+shake
+	alert
+	sauce 61
+	shade 7
+	shave 4
+	shame 3
+	shape 2
+	shake 1
+	7
+amply
+	alert
+	afoul 9
+	amply 2
+	3
+hutch
+	alert
+	south 84
+	butch 3
+	dutch 2
+	hutch 1
+	5
+stave
+	alert
+	taste 23
+	stage 3
+	stake 2
+	stave 1
+	5
+sauna
+	alert
+	candy 110
+	mason 6
+	sauna 1
+	4
+decoy
+	alert
+	noise 145
+	gecko 4
+	decoy 1
+	4
+covey
+	alert
+	noise 145
+	gooey 4
+	dopey 2
+	covey 1
+	5
+squad
+	alert
+	candy 110
+	vodka 3
+	squad 1
+	4
+knelt
+	alert
+	smelt 4
+	dwelt 2
+	knelt 1
+	4
+salsa
+	alert
+	sally 60
+	salvo 4
+	salad 2
+	salsa 1
+	5
+valor
+	alert
+	moral 22
+	labor 2
+	valor 1
+	4
+mocha
+	alert
+	candy 110
+	smack 8
+	mocha 1
+	4
+sully
+	alert
+	silly 84
+	sully 1
+	3
+lefty
+	alert
+	lithe 13
+	lefty 1
+	3
+known
+	alert
+	sonic 196
+	known 2
+	3
+plain
+	alert
+	slack 30
+	plaid 7
+	plain 1
+	4
+boast
+	alert
+	haunt 24
+	toast 3
+	coast 2
+	boast 1
+	5
+trade
+	alert
+	cater 13
+	grate 3
+	trade 1
+	4
+chore
+	alert
+	chore 16
+	2
+pilot
+	alert
+	moult 11
+	pilot 1
+	3
+yeast
+	alert
+	feast 9
+	beast 2
+	yeast 1
+	4
+devil
+	alert
+	belie 59
+	devil 1
+	3
+ruler
+	alert
+	liver 20
+	ruler 1
+	3
+vaunt
+	alert
+	haunt 24
+	daunt 5
+	jaunt 4
+	gaunt 3
+	taunt 2
+	vaunt 1
+	7
+apply
+	alert
+	afoul 9
+	amply 2
+	apply 1
+	4
+crepe
+	alert
+	creed 22
+	creme 2
+	crepe 1
+	4
+enter
+	alert
+	outer 35
+	deter 5
+	enter 2
+	4
+sweep
+	alert
+	sheen 30
+	speed 2
+	sweep 1
+	4
+react
+	alert
+	react 1
+	2
+flair
+	alert
+	flair 1
+	2
+boost
+	alert
+	hoist 45
+	joust 2
+	boost 1
+	4
+frail
+	alert
+	moral 22
+	crawl 5
+	grail 2
+	frail 1
+	5
+exult
+	alert
+	inlet 4
+	exult 1
+	3
+fifty
+	alert
+	south 84
+	bitty 6
+	minty 2
+	fifty 1
+	5
+spurt
+	alert
+	sport 7
+	spurt 1
+	3
+stark
+	alert
+	tiara 2
+	stark 1
+	3
+spree
+	alert
+	siren 160
+	screw 5
+	surer 2
+	spree 1
+	5
+cling
+	alert
+	slunk 52
+	fling 4
+	cling 1
+	4
+scaly
+	alert
+	sally 60
+	scaly 1
+	3
+agent
+	alert
+	adept 2
+	agent 1
+	3
+fruit
+	alert
+	frost 24
+	fruit 1
+	3
+cleft
+	alert
+	fleet 5
+	cleft 1
+	3
+vigor
+	alert
+	crony 98
+	furor 11
+	visor 2
+	vigor 1
+	5
+axiom
+	alert
+	again 20
+	amiss 2
+	axiom 1
+	4
+punch
+	alert
+	sonic 196
+	munch 4
+	hunch 3
+	punch 2
+	5
+lucid
+	alert
+	silly 84
+	logic 4
+	lucid 1
+	4
+crump
+	alert
+	crony 98
+	crimp 6
+	crump 1
+	4
+wreak
+	alert
+	dream 12
+	freak 4
+	break 3
+	creak 2
+	wreak 1
+	6
+skate
+	alert
+	taste 23
+	skate 1
+	3
+birth
+	alert
+	north 31
+	girth 3
+	mirth 2
+	birth 1
+	5
+whelp
+	alert
+	wheel 15
+	whelp 1
+	3
+slope
+	alert
+	slope 23
+	2
+sunny
+	alert
+	sonic 196
+	sunny 1
+	3
+quick
+	alert
+	sonic 196
+	chick 5
+	quick 1
+	4
+erode
+	alert
+	siren 160
+	prude 18
+	erode 1
+	4
+moist
+	alert
+	hoist 45
+	joist 3
+	foist 2
+	moist 1
+	5
+afoot
+	alert
+	adopt 10
+	afoot 2
+	3
+aware
+	alert
+	adore 4
+	aware 3
+	3
+relax
+	alert
+	relay 12
+	relax 1
+	3
+grass
+	alert
+	baron 77
+	crash 17
+	grasp 2
+	grass 1
+	5
+salon
+	alert
+	sally 60
+	salvo 4
+	salon 1
+	4
+swoon
+	alert
+	sonic 196
+	shown 5
+	swoon 1
+	4
+front
+	alert
+	frost 24
+	front 1
+	3
+tepid
+	alert
+	spite 47
+	tepid 1
+	3
+grunt
+	alert
+	frost 24
+	brunt 4
+	grunt 1
+	4
+trail
+	alert
+	trial 3
+	trail 1
+	3
+stove
+	alert
+	spite 47
+	stoke 3
+	stove 2
+	4
+gauze
+	alert
+	sauce 61
+	gauge 3
+	gauze 1
+	4
+onion
+	alert
+	sonic 196
+	owing 4
+	onion 1
+	4
+quite
+	alert
+	spite 47
+	unite 3
+	quite 1
+	4
+stink
+	alert
+	south 84
+	stink 4
+	3
+agape
+	alert
+	abase 20
+	adage 4
+	agape 1
+	4
+jiffy
+	alert
+	sonic 196
+	whiff 9
+	jiffy 1
+	4
+study
+	alert
+	south 84
+	stunk 6
+	stump 3
+	stuff 2
+	study 1
+	6
+gully
+	alert
+	silly 84
+	golly 9
+	gully 1
+	4
+ralph
+	alert
+	moral 22
+	ralph 2
+	3
+mealy
+	alert
+	ladle 42
+	mealy 1
+	3
+poise
+	alert
+	noise 145
+	poise 1
+	3
+razor
+	alert
+	baron 77
+	favor 6
+	major 3
+	razor 1
+	5
+cycle
+	alert
+	belie 59
+	louse 7
+	cycle 1
+	4
+tipsy
+	alert
+	south 84
+	tipsy 1
+	3
+toxin
+	alert
+	south 84
+	toxin 6
+	3
+trick
+	alert
+	north 31
+	trump 4
+	trick 1
+	4
+blond
+	alert
+	slunk 52
+	fling 4
+	blond 1
+	4
+heist
+	alert
+	onset 21
+	heist 2
+	3
+facet
+	alert
+	feast 9
+	facet 1
+	3
+drama
+	alert
+	baron 77
+	crash 17
+	fraud 3
+	drama 1
+	5
+muddy
+	alert
+	sonic 196
+	dumpy 15
+	muddy 1
+	4
+rotor
+	alert
+	north 31
+	motor 2
+	rotor 1
+	4
+stunk
+	alert
+	south 84
+	stunk 6
+	3
+lanky
+	alert
+	sally 60
+	lanky 1
+	3
+epoxy
+	alert
+	noise 145
+	gecko 4
+	epoxy 1
+	4
+fecal
+	alert
+	ladle 42
+	penal 4
+	fecal 1
+	4
+robin
+	alert
+	crony 98
+	honor 5
+	robin 1
+	4
+phony
+	alert
+	sonic 196
+	known 2
+	phony 1
+	4
+raven
+	alert
+	barge 49
+	caper 11
+	ramen 2
+	raven 1
+	5
+chalk
+	alert
+	sally 60
+	koala 5
+	chalk 1
+	4
+scamp
+	alert
+	candy 110
+	smack 8
+	scamp 1
+	4
+quake
+	alert
+	sauce 61
+	quake 1
+	3
+belly
+	alert
+	belie 59
+	belch 3
+	belly 2
+	4
+timer
+	alert
+	outer 35
+	tiger 3
+	timer 1
+	4
+defer
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	fever 2
+	defer 1
+	6
+after
+	alert
+	after 1
+	2
+crier
+	alert
+	siren 160
+	cried 8
+	crier 1
+	4
+straw
+	alert
+	tapir 17
+	stray 3
+	straw 1
+	4
+amuse
+	alert
+	abase 20
+	amuse 1
+	3
+junto
+	alert
+	south 84
+	junto 1
+	3
+forty
+	alert
+	north 31
+	forty 1
+	3
+depth
+	alert
+	spite 47
+	empty 3
+	depth 1
+	4
+curse
+	alert
+	siren 160
+	verso 6
+	purse 2
+	curse 1
+	5
+dozen
+	alert
+	noise 145
+	women 8
+	coven 2
+	dozen 1
+	5
+voice
+	alert
+	noise 145
+	voice 1
+	3
+pearl
+	alert
+	learn 2
+	pearl 1
+	3
+agora
+	alert
+	acorn 5
+	agora 1
+	3
+colon
+	alert
+	silly 84
+	gulch 3
+	colon 1
+	4
+micro
+	alert
+	shorn 25
+	gourd 4
+	micro 1
+	4
+swash
+	alert
+	candy 110
+	swami 11
+	swash 1
+	4
+gaily
+	alert
+	sally 60
+	madly 6
+	gayly 2
+	gaily 1
+	5
+scene
+	alert
+	sheen 30
+	scene 1
+	3
+rumba
+	alert
+	baron 77
+	rumba 1
+	3
+slyly
+	alert
+	slunk 52
+	slimy 4
+	slyly 1
+	4
+aphid
+	alert
+	again 20
+	avoid 4
+	aphid 1
+	4
+sower
+	alert
+	siren 160
+	sewer 5
+	sower 1
+	4
+needy
+	alert
+	sheen 30
+	enemy 3
+	needy 1
+	4
+mayor
+	alert
+	baron 77
+	favor 6
+	major 3
+	mayor 1
+	5
+drank
+	alert
+	baron 77
+	grand 5
+	drank 1
+	4
+spark
+	alert
+	chard 28
+	spark 4
+	3
+peace
+	alert
+	sauce 61
+	peace 1
+	3
+saner
+	alert
+	barge 49
+	caper 11
+	safer 5
+	saner 1
+	5
+fiery
+	alert
+	every 5
+	query 2
+	fiery 1
+	4
+parka
+	alert
+	baron 77
+	marsh 7
+	parka 1
+	4
+riper
+	alert
+	siren 160
+	diver 11
+	fiber 4
+	piper 2
+	riper 1
+	6
+beget
+	alert
+	onset 21
+	duvet 3
+	beget 1
+	4
+perky
+	alert
+	siren 160
+	force 15
+	jerky 3
+	perky 1
+	5
+wafer
+	alert
+	barge 49
+	caper 11
+	safer 5
+	wafer 1
+	5
+afire
+	alert
+	adore 4
+	aware 3
+	afire 2
+	4
+judge
+	alert
+	noise 145
+	fudge 9
+	budge 2
+	judge 1
+	5
+lynch
+	alert
+	silly 84
+	lynch 2
+	3
+tacky
+	alert
+	nasty 49
+	tabby 3
+	taffy 2
+	tacky 1
+	5
+shied
+	alert
+	noise 145
+	shied 2
+	3
+yearn
+	alert
+	yearn 10
+	2
+youth
+	alert
+	south 84
+	mouth 2
+	youth 1
+	4
+spunk
+	alert
+	sonic 196
+	skunk 4
+	spunk 1
+	4
+swear
+	alert
+	dream 12
+	shear 3
+	spear 2
+	swear 1
+	5
+decal
+	alert
+	ladle 42
+	delay 2
+	decal 1
+	4
+rehab
+	alert
+	barge 49
+	debar 3
+	rehab 1
+	4
+belle
+	alert
+	belie 59
+	belle 1
+	3
+borne
+	alert
+	siren 160
+	nerdy 3
+	borne 1
+	4
+horse
+	alert
+	siren 160
+	verso 6
+	worse 2
+	horse 1
+	5
+smirk
+	alert
+	shorn 25
+	smirk 1
+	3
+taboo
+	alert
+	nasty 49
+	match 9
+	taboo 1
+	4
+bravo
+	alert
+	baron 77
+	broad 2
+	bravo 1
+	4
+fungi
+	alert
+	sonic 196
+	windy 6
+	fungi 1
+	4
+patch
+	alert
+	nasty 49
+	match 9
+	catch 5
+	watch 4
+	hatch 3
+	batch 2
+	patch 1
+	8
+minus
+	alert
+	sonic 196
+	minus 1
+	3
+shell
+	alert
+	wheel 15
+	shell 1
+	3
+glare
+	alert
+	flare 3
+	glare 2
+	3
+stout
+	alert
+	hoist 45
+	spout 4
+	stout 3
+	4
+apnea
+	alert
+	abase 20
+	apnea 1
+	3
+weave
+	alert
+	sauce 61
+	knave 6
+	heave 2
+	weave 1
+	5
+anode
+	alert
+	abase 20
+	anime 3
+	anode 1
+	4
+tonga
+	alert
+	nasty 49
+	twang 4
+	tonga 1
+	4
+delta
+	alert
+	latte 8
+	delta 1
+	3
+amity
+	alert
+	attic 4
+	amity 1
+	3
+racer
+	alert
+	barge 49
+	caper 11
+	racer 1
+	4
+dense
+	alert
+	noise 145
+	sense 2
+	dense 1
+	4
+daisy
+	alert
+	candy 110
+	daisy 1
+	3
+anvil
+	alert
+	afoul 9
+	avail 3
+	anvil 1
+	4
+loyal
+	alert
+	sally 60
+	loyal 1
+	3
+bloom
+	alert
+	slunk 52
+	blimp 8
+	bloom 1
+	4
+fugue
+	alert
+	noise 145
+	fudge 9
+	fugue 1
+	4
+gorge
+	alert
+	siren 160
+	force 15
+	horde 2
+	gorge 1
+	5
+fetch
+	alert
+	spite 47
+	often 6
+	fetch 1
+	4
+apron
+	alert
+	arbor 11
+	apron 1
+	3
+rowdy
+	alert
+	crony 98
+	wordy 2
+	rowdy 1
+	4
+piano
+	alert
+	candy 110
+	spawn 7
+	piano 1
+	4
+truss
+	alert
+	north 31
+	trump 4
+	truck 2
+	truss 1
+	5
+chock
+	alert
+	sonic 196
+	chock 1
+	3
+mucus
+	alert
+	sonic 196
+	mucus 1
+	3
+nerve
+	alert
+	siren 160
+	nerdy 3
+	nerve 1
+	4
+fanny
+	alert
+	candy 110
+	nanny 4
+	fanny 1
+	4
+adopt
+	alert
+	adopt 10
+	2
+dying
+	alert
+	sonic 196
+	vying 4
+	dying 1
+	4
+since
+	alert
+	noise 145
+	since 2
+	3
+alibi
+	alert
+	alloy 10
+	alibi 4
+	3
+coyly
+	alert
+	silly 84
+	wooly 5
+	godly 3
+	coyly 2
+	5
+quoth
+	alert
+	south 84
+	quoth 1
+	3
+clump
+	alert
+	slunk 52
+	plumb 6
+	clump 1
+	4
+poesy
+	alert
+	sheen 30
+	poesy 2
+	3
+gleam
+	alert
+	glean 5
+	gleam 1
+	3
+pasty
+	alert
+	nasty 49
+	tasty 3
+	hasty 2
+	pasty 1
+	5
+spelt
+	alert
+	smelt 4
+	spelt 1
+	3
+giver
+	alert
+	siren 160
+	diver 11
+	river 2
+	giver 1
+	5
+kappa
+	alert
+	candy 110
+	mamma 8
+	kappa 1
+	4
+dwell
+	alert
+	wheel 15
+	swell 2
+	dwell 1
+	4
+amber
+	alert
+	arise 7
+	amber 2
+	3
+flood
+	alert
+	slunk 52
+	blimp 8
+	flood 1
+	4
+froze
+	alert
+	siren 160
+	prude 18
+	grove 3
+	broke 2
+	froze 1
+	6
+fluke
+	alert
+	slope 23
+	elide 5
+	flume 2
+	fluke 1
+	5
+scrap
+	alert
+	baron 77
+	spray 4
+	scrap 1
+	4
+amaze
+	alert
+	abase 20
+	adage 4
+	awake 2
+	amaze 1
+	5
+pecan
+	alert
+	sauce 61
+	decay 2
+	pecan 1
+	4
+arose
+	alert
+	arise 7
+	arose 1
+	3
+slash
+	alert
+	slack 30
+	slang 3
+	slash 1
+	4
+hence
+	alert
+	noise 145
+	pence 7
+	fence 2
+	hence 1
+	5
+steak
+	alert
+	steam 5
+	stead 2
+	steak 1
+	4
+clung
+	alert
+	slunk 52
+	flung 2
+	clung 1
+	4
+inert
+	alert
+	exert 3
+	overt 2
+	inert 1
+	4
+titan
+	alert
+	nasty 49
+	twang 4
+	titan 1
+	4
+plaza
+	alert
+	slack 30
+	plaid 7
+	plaza 1
+	4
+scold
+	alert
+	silly 84
+	skulk 2
+	scold 1
+	4
+grimy
+	alert
+	crony 98
+	grimy 2
+	3
+exist
+	alert
+	onset 21
+	heist 2
+	exist 1
+	4
+chest
+	alert
+	sheet 13
+	chest 1
+	3
+erase
+	alert
+	barge 49
+	crane 7
+	drake 4
+	erase 2
+	5
+swoop
+	alert
+	sonic 196
+	spook 6
+	swoop 1
+	4
+court
+	alert
+	sport 7
+	court 1
+	3
+trawl
+	alert
+	trial 3
+	trawl 1
+	3
+slunk
+	alert
+	slunk 52
+	2
+trout
+	alert
+	frost 24
+	grout 3
+	trout 1
+	4
+banjo
+	alert
+	candy 110
+	mania 4
+	banjo 1
+	4
+crate
+	alert
+	cater 13
+	crate 1
+	3
+olive
+	alert
+	slope 23
+	olive 1
+	3
+scuba
+	alert
+	candy 110
+	smack 8
+	scuba 1
+	4
+blare
+	alert
+	flare 3
+	glare 2
+	blare 1
+	4
+wight
+	alert
+	hoist 45
+	fight 5
+	night 4
+	tight 3
+	might 2
+	wight 1
+	7
+crowd
+	alert
+	crony 98
+	crook 5
+	croup 3
+	cross 2
+	crowd 1
+	6
+filmy
+	alert
+	silly 84
+	milky 2
+	filmy 1
+	4
+skill
+	alert
+	silly 84
+	spill 3
+	swill 2
+	skill 1
+	5
+bylaw
+	alert
+	sally 60
+	bylaw 1
+	3
+baker
+	alert
+	barge 49
+	baker 1
+	3
+close
+	alert
+	slope 23
+	close 1
+	3
+depot
+	alert
+	onset 21
+	depot 1
+	3
+blush
+	alert
+	slunk 52
+	flush 3
+	plush 2
+	blush 1
+	5
+valve
+	alert
+	ladle 42
+	value 5
+	valve 1
+	4
+poppy
+	alert
+	sonic 196
+	goody 16
+	hobby 3
+	poppy 1
+	5
+drain
+	alert
+	baron 77
+	drain 4
+	3
+ionic
+	alert
+	sonic 196
+	conic 2
+	ionic 1
+	4
+gumbo
+	alert
+	sonic 196
+	jumbo 4
+	gumbo 1
+	4
+prong
+	alert
+	crony 98
+	wrong 3
+	prong 1
+	4
+owner
+	alert
+	siren 160
+	renew 6
+	owner 1
+	4
+happy
+	alert
+	candy 110
+	gassy 10
+	mammy 3
+	happy 2
+	5
+filet
+	alert
+	inlet 4
+	filet 1
+	3
+pesky
+	alert
+	noise 145
+	bused 2
+	pesky 1
+	4
+serve
+	alert
+	siren 160
+	surge 3
+	serve 1
+	4
+tulip
+	alert
+	until 8
+	tulip 1
+	3
+clone
+	alert
+	slope 23
+	clove 5
+	clone 1
+	4
+sonar
+	alert
+	baron 77
+	sonar 1
+	3
+siren
+	alert
+	siren 160
+	2
+story
+	alert
+	stork 6
+	story 2
+	3
+bicep
+	alert
+	noise 145
+	medic 4
+	bicep 1
+	4
+fewer
+	alert
+	siren 160
+	rower 32
+	fewer 1
+	4
+pudgy
+	alert
+	sonic 196
+	pudgy 15
+	3
+brown
+	alert
+	crony 98
+	frown 5
+	brown 3
+	4
+shift
+	alert
+	hoist 45
+	shift 1
+	3
+altar
+	alert
+	altar 1
+	2
+tweet
+	alert
+	sheet 13
+	tweet 1
+	3
+towel
+	alert
+	lithe 13
+	towel 1
+	3
+canny
+	alert
+	candy 110
+	canny 1
+	3
+venom
+	alert
+	noise 145
+	envoy 6
+	venom 1
+	4
+cairn
+	alert
+	chard 28
+	carry 3
+	cairn 1
+	4
+livid
+	alert
+	silly 84
+	vigil 6
+	livid 1
+	4
+prank
+	alert
+	baron 77
+	grand 5
+	frank 3
+	crank 2
+	prank 1
+	6
+prick
+	alert
+	crony 98
+	brick 2
+	prick 1
+	4
+bongo
+	alert
+	sonic 196
+	bongo 1
+	3
+foray
+	alert
+	baron 77
+	foray 1
+	3
+crisp
+	alert
+	crony 98
+	crimp 6
+	crisp 1
+	4
+lilac
+	alert
+	sally 60
+	lilac 1
+	3
+about
+	alert
+	adopt 10
+	afoot 2
+	about 1
+	4
+staid
+	alert
+	nasty 49
+	stamp 5
+	stack 4
+	stash 3
+	staid 2
+	6
+snout
+	alert
+	hoist 45
+	spout 4
+	stout 3
+	snout 2
+	5
+acrid
+	alert
+	arbor 11
+	acrid 1
+	3
+elope
+	alert
+	slope 23
+	elope 1
+	3
+sprig
+	alert
+	crony 98
+	rigid 5
+	sprig 1
+	4
+untie
+	alert
+	spite 47
+	cutie 3
+	untie 1
+	4
+sooth
+	alert
+	south 84
+	sooth 1
+	3
+issue
+	alert
+	noise 145
+	issue 1
+	3
+intro
+	alert
+	stork 6
+	intro 1
+	3
+inane
+	alert
+	sauce 61
+	knave 6
+	inane 1
+	4
+manor
+	alert
+	baron 77
+	manor 1
+	3
+sixth
+	alert
+	south 84
+	smith 2
+	sixth 1
+	4
+bleat
+	alert
+	cleat 3
+	pleat 2
+	bleat 1
+	4
+spiky
+	alert
+	sonic 196
+	spiky 6
+	3
+going
+	alert
+	sonic 196
+	doing 2
+	going 1
+	4
+party
+	alert
+	tapir 17
+	party 1
+	3
+shine
+	alert
+	noise 145
+	spine 5
+	swine 2
+	shine 1
+	5
+scout
+	alert
+	hoist 45
+	spout 4
+	stout 3
+	snout 2
+	scout 1
+	6
+visit
+	alert
+	hoist 45
+	visit 1
+	3
+ember
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	ember 1
+	5
+boxer
+	alert
+	siren 160
+	rower 32
+	hover 8
+	joker 4
+	boxer 2
+	6
+annoy
+	alert
+	again 20
+	annoy 1
+	3
+cabin
+	alert
+	candy 110
+	cabin 1
+	3
+medal
+	alert
+	ladle 42
+	pedal 2
+	medal 1
+	4
+teeth
+	alert
+	steed 8
+	theme 2
+	teeth 1
+	4
+pause
+	alert
+	sauce 61
+	pause 1
+	3
+setup
+	alert
+	spite 47
+	setup 1
+	3
+retry
+	alert
+	retro 5
+	retry 1
+	3
+husky
+	alert
+	sonic 196
+	mushy 10
+	hussy 2
+	husky 1
+	5
+stoop
+	alert
+	south 84
+	stoop 6
+	3
+lucky
+	alert
+	silly 84
+	lumpy 4
+	lucky 1
+	4
+guppy
+	alert
+	sonic 196
+	dumpy 15
+	puppy 2
+	guppy 1
+	5
+mouse
+	alert
+	noise 145
+	moose 6
+	mouse 1
+	4
+solve
+	alert
+	belie 59
+	pulse 2
+	solve 1
+	4
+chute
+	alert
+	spite 47
+	butte 3
+	chute 1
+	4
+offal
+	alert
+	sally 60
+	focal 9
+	offal 1
+	4
+place
+	alert
+	blade 10
+	plane 6
+	place 1
+	4
+score
+	alert
+	chore 16
+	score 1
+	3
+blink
+	alert
+	slunk 52
+	clink 2
+	blink 1
+	4
+sweat
+	alert
+	wheat 3
+	sweat 1
+	3
+basal
+	alert
+	sally 60
+	nasal 4
+	basal 1
+	4
+fussy
+	alert
+	sonic 196
+	mushy 10
+	dusky 2
+	fussy 1
+	5
+pithy
+	alert
+	south 84
+	thick 5
+	pithy 1
+	4
+debut
+	alert
+	onset 21
+	edict 6
+	debut 1
+	4
+stock
+	alert
+	south 84
+	stoop 6
+	stoic 3
+	stock 1
+	5
+skiff
+	alert
+	sonic 196
+	spiky 6
+	skiff 1
+	4
+cacti
+	alert
+	nasty 49
+	faith 2
+	cacti 1
+	4
+shard
+	alert
+	chard 28
+	shard 1
+	3
+rifle
+	alert
+	liver 20
+	rifle 1
+	3
+gravy
+	alert
+	baron 77
+	crash 17
+	fraud 3
+	gravy 1
+	5
+infer
+	alert
+	siren 160
+	inner 2
+	infer 1
+	4
+udder
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	udder 2
+	5
+wispy
+	alert
+	sonic 196
+	gipsy 5
+	wispy 1
+	4
+their
+	alert
+	steer 3
+	their 1
+	3
+smoky
+	alert
+	sonic 196
+	spook 6
+	smoky 1
+	4
+rusty
+	alert
+	north 31
+	fritz 2
+	rusty 1
+	4
+snoop
+	alert
+	sonic 196
+	shown 5
+	snoop 1
+	4
+staff
+	alert
+	nasty 49
+	stamp 5
+	stack 4
+	stash 3
+	staid 2
+	staff 1
+	7
+lunar
+	alert
+	coral 22
+	lunar 1
+	3
+harry
+	alert
+	chard 28
+	hairy 2
+	harry 1
+	4
+proof
+	alert
+	crony 98
+	droop 10
+	proof 1
+	4
+force
+	alert
+	siren 160
+	force 15
+	3
+linen
+	alert
+	belie 59
+	liken 5
+	linen 1
+	4
+waist
+	alert
+	haunt 24
+	tacit 2
+	waist 1
+	4
+snore
+	alert
+	chore 16
+	swore 3
+	snore 2
+	4
+thank
+	alert
+	nasty 49
+	twang 4
+	thank 1
+	4
+quart
+	alert
+	start 4
+	chart 2
+	quart 1
+	4
+nobly
+	alert
+	silly 84
+	wooly 5
+	godly 3
+	coyly 2
+	nobly 1
+	6
+state
+	alert
+	taste 23
+	state 1
+	3
+civic
+	alert
+	sonic 196
+	cubic 4
+	civic 1
+	4
+index
+	alert
+	noise 145
+	widen 8
+	index 1
+	4
+limit
+	alert
+	moult 11
+	limit 1
+	3
+spilt
+	alert
+	moult 11
+	stilt 2
+	spilt 1
+	4
+anger
+	alert
+	arise 7
+	amber 2
+	anger 1
+	4
+eclat
+	alert
+	least 7
+	valet 2
+	eclat 1
+	4
+naive
+	alert
+	sauce 61
+	mange 8
+	naive 1
+	4
+ditto
+	alert
+	south 84
+	pinto 2
+	ditto 1
+	4
+algae
+	alert
+	alike 6
+	alone 2
+	algae 1
+	4
+shove
+	alert
+	noise 145
+	spoke 4
+	shove 1
+	4
+human
+	alert
+	candy 110
+	spawn 7
+	human 1
+	4
+froth
+	alert
+	north 31
+	broth 2
+	froth 1
+	4
+droit
+	alert
+	frost 24
+	grout 3
+	droit 1
+	4
+patty
+	alert
+	nasty 49
+	catty 5
+	fatty 4
+	tatty 3
+	batty 2
+	patty 1
+	7
+unfed
+	alert
+	noise 145
+	wench 7
+	unfed 1
+	4
+dowdy
+	alert
+	sonic 196
+	goody 16
+	howdy 2
+	dowdy 1
+	5
+privy
+	alert
+	crony 98
+	grimy 2
+	privy 1
+	4
+spire
+	alert
+	chore 16
+	fibre 3
+	spire 1
+	4
+rocky
+	alert
+	crony 98
+	rocky 1
+	3
+lowly
+	alert
+	silly 84
+	lowly 1
+	3
+sadly
+	alert
+	sally 60
+	sadly 1
+	3
+scowl
+	alert
+	silly 84
+	spool 2
+	scowl 1
+	4
+trite
+	alert
+	outer 35
+	berth 7
+	write 2
+	trite 1
+	5
+stone
+	alert
+	spite 47
+	stoke 3
+	stove 2
+	stone 1
+	5
+twist
+	alert
+	hoist 45
+	twist 1
+	3
+chump
+	alert
+	sonic 196
+	chuck 4
+	chump 1
+	4
+rigor
+	alert
+	crony 98
+	furor 11
+	rigor 1
+	4
+cyber
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	cyber 1
+	5
+marry
+	alert
+	chard 28
+	parry 4
+	marry 1
+	4
+shale
+	alert
+	ladle 42
+	scale 3
+	shale 1
+	4
+guess
+	alert
+	sheen 30
+	poesy 2
+	guess 1
+	4
+furor
+	alert
+	crony 98
+	furor 11
+	3
+handy
+	alert
+	candy 110
+	dandy 3
+	sandy 2
+	handy 1
+	5
+glass
+	alert
+	slack 30
+	flash 2
+	glass 1
+	4
+askew
+	alert
+	abase 20
+	ashen 2
+	askew 1
+	4
+prism
+	alert
+	crony 98
+	brisk 6
+	prism 1
+	4
+seedy
+	alert
+	scene 30
+	sheep 4
+	seedy 1
+	4
+foyer
+	alert
+	siren 160
+	rower 32
+	hover 8
+	joker 4
+	boxer 2
+	foyer 1
+	7
+cache
+	alert
+	sauce 61
+	cache 2
+	3
+group
+	alert
+	crony 98
+	droop 10
+	group 1
+	4
+hardy
+	alert
+	baron 77
+	marsh 7
+	harpy 2
+	hardy 1
+	5
+ankle
+	alert
+	angle 9
+	ankle 1
+	3
+swift
+	alert
+	hoist 45
+	stint 2
+	swift 1
+	4
+white
+	alert
+	spite 47
+	unite 3
+	white 1
+	4
+annul
+	alert
+	afoul 9
+	annul 1
+	3
+lower
+	alert
+	liver 20
+	loser 3
+	lower 1
+	4
+media
+	alert
+	sauce 61
+	beady 7
+	media 1
+	4
+phone
+	alert
+	noise 145
+	ozone 4
+	phone 1
+	4
+shout
+	alert
+	hoist 45
+	shoot 2
+	shout 1
+	4
+drown
+	alert
+	crony 98
+	frown 5
+	brown 3
+	drown 2
+	5
+track
+	alert
+	tapir 17
+	trash 2
+	track 1
+	4
+sinew
+	alert
+	noise 145
+	sinew 1
+	3
+aorta
+	alert
+	actor 3
+	aorta 1
+	3
+sling
+	alert
+	slunk 52
+	sling 1
+	3
+carve
+	alert
+	barge 49
+	farce 3
+	carve 1
+	4
+mangy
+	alert
+	candy 110
+	nanny 4
+	pansy 2
+	mangy 1
+	5
+aptly
+	alert
+	atoll 2
+	aptly 1
+	3
+grown
+	alert
+	crony 98
+	frown 5
+	brown 3
+	drown 2
+	grown 1
+	6
+sloth
+	alert
+	cloth 3
+	sloth 1
+	3
+purge
+	alert
+	siren 160
+	force 15
+	verve 4
+	purge 1
+	5
+hyena
+	alert
+	sneak 8
+	hyena 1
+	3
+manic
+	alert
+	candy 110
+	panic 2
+	manic 1
+	4
+testy
+	alert
+	spite 47
+	zesty 2
+	testy 1
+	4
+madly
+	alert
+	sally 60
+	madly 6
+	3
+lymph
+	alert
+	silly 84
+	lynch 2
+	lymph 1
+	4
+panel
+	alert
+	ladle 42
+	navel 7
+	panel 1
+	4
+awash
+	alert
+	again 20
+	amass 3
+	awash 1
+	4
+ethos
+	alert
+	spite 47
+	fetus 2
+	ethos 1
+	4
+earth
+	alert
+	cater 13
+	earth 1
+	3
+modal
+	alert
+	sally 60
+	focal 9
+	zonal 2
+	modal 1
+	5
+binge
+	alert
+	noise 145
+	mince 5
+	hinge 2
+	binge 1
+	5
+tibia
+	alert
+	nasty 49
+	topaz 2
+	tibia 1
+	4
+poker
+	alert
+	siren 160
+	rower 32
+	mover 8
+	joker 4
+	poker 1
+	6
+merge
+	alert
+	siren 160
+	force 15
+	verve 4
+	merge 1
+	5
+renal
+	alert
+	relay 12
+	regal 2
+	renal 1
+	4
+pasta
+	alert
+	nasty 49
+	pasta 1
+	3
+young
+	alert
+	sonic 196
+	mound 8
+	young 1
+	4
+buxom
+	alert
+	sonic 196
+	jumbo 4
+	buxom 1
+	4
+shawl
+	alert
+	sally 60
+	shoal 3
+	shawl 1
+	4
+sleet
+	alert
+	fleet 5
+	sleet 1
+	3
+rover
+	alert
+	siren 160
+	rower 32
+	roger 2
+	rover 1
+	5
+light
+	alert
+	moult 11
+	split 2
+	light 1
+	4
+spied
+	alert
+	noise 145
+	shied 2
+	spied 1
+	4
+scald
+	alert
+	sally 60
+	scalp 2
+	scald 1
+	4
+quiet
+	alert
+	onset 21
+	duvet 3
+	quiet 1
+	4
+metro
+	alert
+	retro 5
+	metro 1
+	3
+prove
+	alert
+	siren 160
+	prude 18
+	probe 2
+	prove 1
+	5
+juicy
+	alert
+	sonic 196
+	chick 5
+	juicy 1
+	4
+amble
+	alert
+	angle 9
+	ample 4
+	amble 1
+	4
+lemur
+	alert
+	liver 20
+	lemur 1
+	3
+stein
+	alert
+	steed 8
+	stein 1
+	3
+usual
+	alert
+	sally 60
+	usual 1
+	3
+datum
+	alert
+	nasty 49
+	match 9
+	datum 1
+	4
+champ
+	alert
+	candy 110
+	chasm 7
+	champ 1
+	4
+latch
+	alert
+	total 16
+	latch 1
+	3
+spoke
+	alert
+	noise 145
+	spoke 4
+	3
+niece
+	alert
+	sheen 30
+	enemy 3
+	niece 1
+	4
+jazzy
+	alert
+	candy 110
+	gassy 10
+	mammy 3
+	happy 2
+	jazzy 1
+	6
+abyss
+	alert
+	again 20
+	abyss 1
+	3
+vouch
+	alert
+	sonic 196
+	cough 6
+	vouch 2
+	4
+groin
+	alert
+	crony 98
+	frown 5
+	groin 1
+	4
+paste
+	alert
+	taste 23
+	waste 5
+	haste 4
+	caste 3
+	baste 2
+	paste 1
+	7
+steep
+	alert
+	steed 8
+	steep 1
+	3
+villa
+	alert
+	sally 60
+	villa 1
+	3
+funky
+	alert
+	sonic 196
+	funny 4
+	funky 1
+	4
+power
+	alert
+	siren 160
+	rower 32
+	cower 3
+	mower 2
+	power 1
+	6
+craze
+	alert
+	barge 49
+	crane 7
+	crave 2
+	craze 1
+	5
+brass
+	alert
+	baron 77
+	brash 4
+	brass 1
+	4
+zebra
+	alert
+	yearn 10
+	zebra 1
+	3
+thump
+	alert
+	south 84
+	thumb 2
+	thump 1
+	4
+crypt
+	alert
+	frost 24
+	brunt 4
+	crypt 1
+	4
+girly
+	alert
+	drill 20
+	girly 1
+	3
+mossy
+	alert
+	sonic 196
+	bossy 3
+	mossy 1
+	4
+showy
+	alert
+	sonic 196
+	spook 6
+	showy 1
+	4
+downy
+	alert
+	sonic 196
+	mound 8
+	downy 1
+	4
+grade
+	alert
+	barge 49
+	grape 5
+	grave 4
+	grace 3
+	graze 2
+	grade 1
+	7
+baron
+	alert
+	baron 77
+	2
+snipe
+	alert
+	noise 145
+	spine 5
+	snipe 1
+	4
+vapid
+	alert
+	candy 110
+	madam 2
+	vapid 1
+	4
+hilly
+	alert
+	silly 84
+	willy 5
+	billy 4
+	dilly 3
+	hilly 2
+	6
+scrub
+	alert
+	crony 98
+	birch 3
+	scrub 1
+	4
+scorn
+	alert
+	shorn 25
+	sworn 2
+	scorn 1
+	4
+cedar
+	alert
+	barge 49
+	reach 5
+	cedar 1
+	4
+unfit
+	alert
+	hoist 45
+	input 3
+	unfit 1
+	4
+corny
+	alert
+	crony 98
+	corny 1
+	3
+islet
+	alert
+	inlet 4
+	islet 1
+	3
+goose
+	alert
+	noise 145
+	moose 6
+	goose 1
+	4
+stain
+	alert
+	nasty 49
+	stank 3
+	stain 1
+	4
+brook
+	alert
+	crony 98
+	droop 10
+	groom 3
+	brook 1
+	5
+pound
+	alert
+	sonic 196
+	mound 8
+	wound 5
+	hound 4
+	bound 3
+	pound 2
+	7
+dingy
+	alert
+	sonic 196
+	windy 6
+	dingy 1
+	4
+unify
+	alert
+	sonic 196
+	vying 4
+	unify 1
+	4
+sepia
+	alert
+	sauce 61
+	sedan 2
+	sepia 1
+	4
+flame
+	alert
+	blade 10
+	plane 6
+	flame 4
+	4
+adapt
+	alert
+	adopt 10
+	adapt 1
+	3
+award
+	alert
+	acorn 5
+	award 1
+	3
+demon
+	alert
+	noise 145
+	envoy 6
+	demon 1
+	4
+frost
+	alert
+	frost 24
+	2
+money
+	alert
+	noise 145
+	women 8
+	money 1
+	4
+grind
+	alert
+	crony 98
+	bring 7
+	grind 1
+	4
+matey
+	alert
+	taste 23
+	eaten 2
+	matey 1
+	4
+canoe
+	alert
+	sauce 61
+	cache 2
+	canoe 1
+	4
+begat
+	alert
+	feast 9
+	begat 1
+	3
+dummy
+	alert
+	sonic 196
+	dumpy 15
+	dummy 1
+	4
+float
+	alert
+	blast 7
+	gloat 2
+	float 1
+	4
+piney
+	alert
+	noise 145
+	widen 8
+	piney 1
+	4
+palsy
+	alert
+	sally 60
+	palsy 1
+	3
+tough
+	alert
+	south 84
+	touch 2
+	tough 1
+	4
+loopy
+	alert
+	silly 84
+	lumpy 4
+	loopy 1
+	4
+cagey
+	alert
+	sauce 61
+	cameo 2
+	cagey 1
+	4
+upper
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	udder 2
+	upper 1
+	6
+dirge
+	alert
+	siren 160
+	dirge 1
+	3
+movie
+	alert
+	noise 145
+	movie 1
+	3
+undid
+	alert
+	sonic 196
+	unzip 2
+	undid 1
+	4
+drone
+	alert
+	siren 160
+	prune 4
+	drone 2
+	4
+weigh
+	alert
+	noise 145
+	edify 3
+	weigh 1
+	4
+rivet
+	alert
+	rebut 10
+	rivet 1
+	3
+ester
+	alert
+	outer 35
+	deter 5
+	enter 2
+	ester 1
+	5
+liner
+	alert
+	liver 20
+	liner 1
+	3
+glint
+	alert
+	flint 5
+	glint 1
+	3
+sugar
+	alert
+	baron 77
+	crash 17
+	sugar 1
+	4
+drift
+	alert
+	frost 24
+	drift 1
+	3
+dally
+	alert
+	sally 60
+	dally 1
+	3
+shuck
+	alert
+	sonic 196
+	shuck 1
+	3
+bezel
+	alert
+	belie 59
+	bezel 2
+	3
+flyer
+	alert
+	flier 7
+	flyer 1
+	3
+toxic
+	alert
+	south 84
+	toxin 6
+	toxic 1
+	4
+nurse
+	alert
+	siren 160
+	nurse 1
+	3
+booth
+	alert
+	south 84
+	tooth 3
+	booth 1
+	4
+missy
+	alert
+	sonic 196
+	gipsy 5
+	missy 1
+	4
+wagon
+	alert
+	candy 110
+	mason 6
+	wagon 1
+	4
+guile
+	alert
+	belie 59
+	while 3
+	smile 2
+	guile 1
+	5
+loamy
+	alert
+	sally 60
+	loamy 1
+	3
+found
+	alert
+	sonic 196
+	mound 8
+	wound 5
+	hound 4
+	bound 3
+	pound 2
+	found 1
+	8
+vigil
+	alert
+	silly 84
+	vigil 6
+	3
+month
+	alert
+	south 84
+	tooth 3
+	month 1
+	4
+warty
+	alert
+	tapir 17
+	ratty 2
+	warty 1
+	4
+local
+	alert
+	sally 60
+	local 2
+	3
+buyer
+	alert
+	siren 160
+	rower 32
+	buyer 8
+	4
+robot
+	alert
+	frost 24
+	robot 1
+	3
+rouge
+	alert
+	siren 160
+	prude 18
+	rouge 1
+	4
+treat
+	alert
+	great 2
+	treat 1
+	3
+chose
+	alert
+	noise 145
+	whose 2
+	chose 1
+	4
+train
+	alert
+	tapir 17
+	train 1
+	3
+mange
+	alert
+	sauce 61
+	mange 8
+	3
+meant
+	alert
+	feast 9
+	meant 1
+	3
+bevel
+	alert
+	belie 59
+	bezel 2
+	bevel 1
+	4
+lager
+	alert
+	relay 12
+	large 2
+	lager 1
+	4
+angst
+	alert
+	adopt 10
+	await 2
+	angst 1
+	4
+hurry
+	alert
+	shorn 25
+	myrrh 2
+	hurry 1
+	4
+rough
+	alert
+	crony 98
+	furor 11
+	rough 1
+	4
+throw
+	alert
+	north 31
+	throw 2
+	3
+taint
+	alert
+	haunt 24
+	faint 4
+	saint 3
+	paint 2
+	taint 1
+	6
+wrack
+	alert
+	baron 77
+	crash 17
+	wrack 1
+	4
+equip
+	alert
+	noise 145
+	medic 4
+	equip 1
+	4
+crone
+	alert
+	siren 160
+	prune 4
+	drone 2
+	crone 1
+	5
+throb
+	alert
+	north 31
+	throw 2
+	throb 1
+	4
+serum
+	alert
+	siren 160
+	surge 3
+	serum 1
+	4
+tweed
+	alert
+	steed 8
+	tweed 1
+	3
+ledge
+	alert
+	belie 59
+	ledge 1
+	3
+skimp
+	alert
+	sonic 196
+	spiky 6
+	skimp 1
+	4
+ninja
+	alert
+	candy 110
+	ninja 1
+	3
+gloss
+	alert
+	slunk 52
+	floss 3
+	gloss 1
+	4
+geeky
+	alert
+	sheen 30
+	beefy 5
+	weedy 2
+	geeky 1
+	5
+locus
+	alert
+	silly 84
+	lupus 2
+	locus 1
+	4
+eying
+	alert
+	noise 145
+	eking 5
+	eying 1
+	4
+waver
+	alert
+	barge 49
+	caper 11
+	safer 5
+	maker 2
+	waver 1
+	6
+incur
+	alert
+	crony 98
+	incur 1
+	3
+rouse
+	alert
+	siren 160
+	prose 4
+	rouse 1
+	4
+bingo
+	alert
+	sonic 196
+	dingo 2
+	bingo 1
+	4
+sigma
+	alert
+	candy 110
+	swami 11
+	sigma 1
+	4
+fairy
+	alert
+	chard 28
+	parry 4
+	fairy 1
+	4
+tower
+	alert
+	outer 35
+	tower 1
+	3
+imbue
+	alert
+	noise 145
+	pixie 4
+	imbue 1
+	4
+noble
+	alert
+	belie 59
+	noble 1
+	3
+ovine
+	alert
+	noise 145
+	opine 2
+	ovine 1
+	4
+storm
+	alert
+	stork 6
+	story 2
+	storm 1
+	4
+spore
+	alert
+	chore 16
+	swore 3
+	snore 2
+	spore 1
+	5
+filly
+	alert
+	silly 84
+	dilly 5
+	willy 4
+	billy 3
+	hilly 2
+	filly 1
+	7
+foggy
+	alert
+	sonic 196
+	goody 16
+	foggy 1
+	4
+bosom
+	alert
+	sonic 196
+	bossy 3
+	bosom 1
+	4
+snare
+	alert
+	heard 10
+	spare 3
+	scare 2
+	snare 1
+	5
+tweak
+	alert
+	steam 5
+	tweak 1
+	3
+frame
+	alert
+	barge 49
+	crane 7
+	drake 4
+	erase 2
+	frame 1
+	6
+blame
+	alert
+	blade 10
+	blaze 2
+	blame 1
+	4
+peach
+	alert
+	sauce 61
+	beach 3
+	peach 1
+	4
+aback
+	alert
+	again 20
+	amass 3
+	aback 1
+	4
+donut
+	alert
+	hoist 45
+	count 4
+	donut 1
+	4
+rally
+	alert
+	moral 22
+	ralph 2
+	rally 1
+	4
+usher
+	alert
+	siren 160
+	poser 2
+	usher 1
+	4
+drawn
+	alert
+	baron 77
+	drain 4
+	drawn 1
+	4
+nylon
+	alert
+	silly 84
+	polyp 2
+	nylon 1
+	4
+serif
+	alert
+	siren 160
+	serif 1
+	3
+ulcer
+	alert
+	flier 7
+	older 4
+	bluer 2
+	ulcer 1
+	5
+dunce
+	alert
+	noise 145
+	pence 7
+	dunce 1
+	4
+covet
+	alert
+	onset 21
+	comet 2
+	covet 1
+	4
+limbo
+	alert
+	silly 84
+	vigil 6
+	limbo 1
+	4
+gnash
+	alert
+	candy 110
+	spawn 7
+	gnash 1
+	4
+sushi
+	alert
+	sonic 196
+	spiky 6
+	sushi 1
+	4
+below
+	alert
+	belie 59
+	belch 3
+	belly 2
+	below 1
+	5
+bunch
+	alert
+	sonic 196
+	munch 4
+	hunch 3
+	punch 2
+	bunch 1
+	6
+suite
+	alert
+	spite 47
+	smite 2
+	suite 1
+	4
+pouch
+	alert
+	sonic 196
+	cough 6
+	vouch 2
+	pouch 1
+	5
+cramp
+	alert
+	baron 77
+	crash 17
+	crack 3
+	crazy 2
+	cramp 1
+	6
+bully
+	alert
+	silly 84
+	golly 9
+	fully 3
+	dully 2
+	bully 1
+	6
+knead
+	alert
+	sneak 8
+	knead 1
+	3
+cubic
+	alert
+	sonic 196
+	civic 4
+	cubic 1
+	4
+fixer
+	alert
+	siren 160
+	diver 11
+	fiber 4
+	fixer 1
+	5
+flake
+	alert
+	blade 10
+	plane 6
+	flame 4
+	flake 1
+	5
+spank
+	alert
+	candy 110
+	spawn 7
+	spank 1
+	4
+swirl
+	alert
+	whirl 3
+	swirl 1
+	3
+admin
+	alert
+	again 20
+	admin 1
+	3
+focal
+	alert
+	sally 60
+	focal 9
+	3
+singe
+	alert
+	noise 145
+	since 2
+	singe 1
+	4
+gavel
+	alert
+	ladle 42
+	navel 7
+	gavel 1
+	4
+verso
+	alert
+	siren 160
+	verso 6
+	3
+ebony
+	alert
+	noise 145
+	envoy 6
+	ebony 1
+	4
+leaky
+	alert
+	ladle 42
+	leafy 4
+	leaky 1
+	4
+fried
+	alert
+	siren 160
+	cried 8
+	pried 3
+	dried 2
+	fried 1
+	6
+azure
+	alert
+	adore 4
+	aware 3
+	afire 2
+	azure 1
+	5

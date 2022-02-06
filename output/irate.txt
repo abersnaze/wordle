@@ -1,0 +1,12983 @@
+burnt
+	irate
+	burst 27
+	burnt 1
+	3
+cairn
+	irate
+	radii 17
+	fairy 3
+	cairn 1
+	4
+woman
+	irate
+	canal 118
+	woman 3
+	3
+round
+	irate
+	curry 61
+	round 3
+	3
+booze
+	irate
+	louse 80
+	booze 2
+	3
+trunk
+	irate
+	crust 17
+	trunk 3
+	3
+prong
+	irate
+	crowd 39
+	groom 8
+	prong 1
+	4
+swoop
+	irate
+	scold 194
+	spoon 11
+	swoop 1
+	4
+fecal
+	irate
+	angel 55
+	pedal 5
+	fecal 1
+	4
+riper
+	irate
+	risen 34
+	riper 3
+	3
+askew
+	irate
+	angel 55
+	askew 2
+	3
+catch
+	irate
+	total 55
+	match 8
+	catch 5
+	4
+thump
+	irate
+	shunt 47
+	thump 2
+	3
+snake
+	irate
+	slave 40
+	spade 7
+	snake 3
+	4
+prove
+	irate
+	prone 17
+	prove 3
+	3
+arson
+	irate
+	arbor 12
+	arson 1
+	3
+frost
+	irate
+	crust 17
+	frost 2
+	3
+moody
+	irate
+	scold 194
+	moody 3
+	3
+girly
+	irate
+	curio 23
+	girly 1
+	3
+leapt
+	irate
+	leant 12
+	leapt 2
+	3
+argue
+	irate
+	argue 2
+	2
+swift
+	irate
+	hoist 64
+	stilt 4
+	swift 1
+	4
+dowdy
+	irate
+	scold 194
+	dowdy 5
+	3
+honey
+	irate
+	kneel 106
+	hymen 9
+	honey 1
+	4
+guard
+	irate
+	shard 20
+	guard 3
+	3
+khaki
+	irate
+	slain 14
+	khaki 1
+	3
+drive
+	irate
+	pride 12
+	drive 1
+	3
+ensue
+	irate
+	louse 80
+	ensue 2
+	3
+earth
+	irate
+	earth 1
+	2
+brisk
+	irate
+	prick 25
+	brisk 4
+	3
+eater
+	irate
+	alter 14
+	eater 4
+	3
+lathe
+	irate
+	lathe 4
+	2
+blind
+	irate
+	slimy 130
+	flick 8
+	blind 1
+	4
+finer
+	irate
+	risen 34
+	finer 5
+	3
+fjord
+	irate
+	curry 61
+	sworn 4
+	fjord 1
+	4
+alone
+	irate
+	angle 42
+	alone 1
+	3
+droit
+	irate
+	droit 7
+	2
+plait
+	irate
+	plait 5
+	2
+slick
+	irate
+	slimy 130
+	slick 3
+	3
+peach
+	irate
+	leash 10
+	peach 2
+	3
+wooer
+	irate
+	loser 92
+	rower 17
+	wooer 1
+	4
+media
+	irate
+	media 3
+	2
+croup
+	irate
+	crowd 39
+	crock 5
+	croup 3
+	4
+close
+	irate
+	louse 80
+	close 1
+	3
+fatty
+	irate
+	pasty 15
+	fatty 4
+	3
+picky
+	irate
+	slimy 130
+	dingy 13
+	picky 4
+	4
+eager
+	irate
+	paler 45
+	wager 13
+	eager 1
+	4
+grind
+	irate
+	prick 25
+	grind 8
+	3
+chump
+	irate
+	scold 194
+	chump 8
+	3
+exile
+	irate
+	slice 53
+	exile 3
+	3
+glass
+	irate
+	slack 64
+	glass 2
+	3
+willy
+	irate
+	slimy 130
+	willy 5
+	3
+rajah
+	irate
+	moral 60
+	rajah 3
+	3
+guise
+	irate
+	slice 53
+	poise 3
+	guise 1
+	4
+spurn
+	irate
+	curry 61
+	spurn 6
+	3
+randy
+	irate
+	moral 60
+	randy 5
+	3
+dally
+	irate
+	canal 118
+	sadly 11
+	dally 1
+	4
+noble
+	irate
+	louse 80
+	noble 1
+	3
+enact
+	irate
+	leant 12
+	enact 1
+	3
+gamma
+	irate
+	canal 118
+	gamma 4
+	3
+enter
+	irate
+	meter 28
+	enter 2
+	3
+groan
+	irate
+	arbor 12
+	groan 3
+	3
+rival
+	irate
+	radii 17
+	rival 1
+	3
+scamp
+	irate
+	slack 64
+	scamp 1
+	3
+spell
+	irate
+	kneel 106
+	swell 6
+	spell 3
+	4
+meaty
+	irate
+	heath 3
+	meaty 1
+	3
+perch
+	irate
+	loser 92
+	decry 14
+	perch 1
+	4
+viola
+	irate
+	anvil 41
+	viola 3
+	3
+prism
+	irate
+	prick 25
+	primo 4
+	prism 1
+	4
+rayon
+	irate
+	moral 60
+	favor 9
+	rayon 1
+	4
+clang
+	irate
+	slack 64
+	clang 2
+	3
+shard
+	irate
+	shard 20
+	2
+bully
+	irate
+	scold 194
+	bully 3
+	3
+chuck
+	irate
+	scold 194
+	chump 8
+	chuck 2
+	4
+rapid
+	irate
+	radii 17
+	rapid 2
+	3
+lager
+	irate
+	paler 45
+	lager 2
+	3
+mogul
+	irate
+	scold 194
+	lobby 4
+	mogul 1
+	4
+range
+	irate
+	barge 9
+	range 1
+	3
+piney
+	irate
+	widen 38
+	piney 1
+	3
+uncut
+	irate
+	shunt 47
+	uncut 2
+	3
+slosh
+	irate
+	scold 194
+	slosh 3
+	3
+twirl
+	irate
+	shirt 8
+	twirl 1
+	3
+quail
+	irate
+	snail 14
+	quail 3
+	3
+sling
+	irate
+	slimy 130
+	slick 3
+	sling 1
+	4
+buyer
+	irate
+	loser 92
+	defer 17
+	buyer 5
+	4
+abase
+	irate
+	slave 40
+	chase 5
+	abase 1
+	4
+lemur
+	irate
+	loser 92
+	lemur 1
+	3
+coyly
+	irate
+	scold 194
+	coyly 1
+	3
+strip
+	irate
+	shirt 8
+	strip 1
+	3
+skulk
+	irate
+	scold 194
+	sully 5
+	skulk 1
+	4
+mulch
+	irate
+	scold 194
+	mulch 9
+	3
+clove
+	irate
+	louse 80
+	clove 7
+	3
+aptly
+	irate
+	total 55
+	aptly 2
+	3
+remit
+	irate
+	remit 7
+	2
+swear
+	irate
+	paler 45
+	rebar 6
+	swear 3
+	4
+three
+	irate
+	three 4
+	2
+ocean
+	irate
+	angel 55
+	ocean 4
+	3
+ninja
+	irate
+	anvil 41
+	ninja 2
+	3
+flock
+	irate
+	scold 194
+	flock 4
+	3
+wield
+	irate
+	widen 38
+	wield 1
+	3
+toast
+	irate
+	slant 21
+	toast 3
+	3
+grass
+	irate
+	brand 27
+	grasp 11
+	grass 1
+	4
+agora
+	irate
+	moral 60
+	favor 9
+	acorn 3
+	agora 1
+	5
+ovoid
+	irate
+	slimy 130
+	pinch 17
+	ovoid 1
+	4
+catty
+	irate
+	pasty 15
+	fatty 4
+	catty 3
+	4
+rebus
+	irate
+	loser 92
+	rebus 3
+	3
+smack
+	irate
+	slack 64
+	smack 3
+	3
+board
+	irate
+	shard 20
+	guard 3
+	board 2
+	4
+fewer
+	irate
+	loser 92
+	defer 17
+	fewer 2
+	4
+threw
+	irate
+	meter 28
+	threw 1
+	3
+slimy
+	irate
+	slimy 130
+	2
+chore
+	irate
+	scree 38
+	chore 1
+	3
+putty
+	irate
+	sooty 24
+	putty 2
+	3
+grade
+	irate
+	grace 15
+	grade 4
+	3
+visit
+	irate
+	hoist 64
+	visit 2
+	3
+lucky
+	irate
+	scold 194
+	mulch 9
+	lucky 1
+	4
+guilt
+	irate
+	hoist 64
+	guilt 6
+	3
+nicer
+	irate
+	risen 34
+	finer 5
+	nicer 1
+	4
+waxen
+	irate
+	angel 55
+	waxen 3
+	3
+urine
+	irate
+	pride 12
+	brine 5
+	urine 1
+	4
+print
+	irate
+	droit 7
+	print 2
+	3
+chirp
+	irate
+	curio 23
+	chirp 1
+	3
+lumen
+	irate
+	kneel 106
+	lumen 2
+	3
+siren
+	irate
+	risen 34
+	siren 1
+	3
+horny
+	irate
+	curry 61
+	horny 2
+	3
+abate
+	irate
+	slate 8
+	abate 3
+	3
+medic
+	irate
+	widen 38
+	medic 1
+	3
+melon
+	irate
+	kneel 106
+	melon 4
+	3
+retro
+	irate
+	meter 28
+	retro 3
+	3
+frond
+	irate
+	crowd 39
+	frond 3
+	3
+igloo
+	irate
+	icily 8
+	igloo 1
+	3
+gaily
+	irate
+	anvil 41
+	gaily 3
+	3
+giddy
+	irate
+	slimy 130
+	dingy 13
+	giddy 1
+	4
+chime
+	irate
+	slice 53
+	chime 2
+	3
+mower
+	irate
+	loser 92
+	rower 17
+	mower 3
+	4
+taste
+	irate
+	taste 10
+	2
+pedal
+	irate
+	angel 55
+	pedal 5
+	3
+madly
+	irate
+	canal 118
+	sadly 11
+	madly 2
+	4
+amity
+	irate
+	faith 4
+	amity 1
+	3
+decay
+	irate
+	angel 55
+	decay 6
+	3
+flood
+	irate
+	scold 194
+	flood 3
+	3
+their
+	irate
+	remit 7
+	their 1
+	3
+relax
+	irate
+	paler 45
+	relax 2
+	3
+stunk
+	irate
+	shunt 47
+	stunk 2
+	3
+cinch
+	irate
+	slimy 130
+	pinch 17
+	cinch 3
+	4
+sworn
+	irate
+	curry 61
+	sworn 4
+	3
+dummy
+	irate
+	scold 194
+	dumpy 5
+	dummy 1
+	4
+maker
+	irate
+	paler 45
+	wager 13
+	maker 6
+	4
+flume
+	irate
+	louse 80
+	flume 4
+	3
+butte
+	irate
+	butte 5
+	2
+briny
+	irate
+	prick 25
+	grind 8
+	briny 1
+	4
+enjoy
+	irate
+	kneel 106
+	enjoy 3
+	3
+hymen
+	irate
+	kneel 106
+	hymen 9
+	3
+disco
+	irate
+	slimy 130
+	disco 4
+	3
+piety
+	irate
+	deity 2
+	piety 1
+	3
+fence
+	irate
+	louse 80
+	fence 8
+	3
+would
+	irate
+	scold 194
+	would 1
+	3
+vapid
+	irate
+	anvil 41
+	vapid 1
+	3
+crypt
+	irate
+	crust 17
+	crypt 1
+	3
+nerdy
+	irate
+	loser 92
+	decry 14
+	nerdy 2
+	4
+sissy
+	irate
+	slimy 130
+	sissy 1
+	3
+wrest
+	irate
+	crest 8
+	wrest 1
+	3
+aider
+	irate
+	aider 1
+	2
+drier
+	irate
+	drier 8
+	2
+slope
+	irate
+	louse 80
+	slope 1
+	3
+ficus
+	irate
+	slimy 130
+	disco 4
+	ficus 1
+	4
+charm
+	irate
+	shard 20
+	charm 2
+	3
+motto
+	irate
+	sooty 24
+	motto 1
+	3
+stave
+	irate
+	stake 5
+	stave 3
+	3
+worry
+	irate
+	curry 61
+	worry 3
+	3
+grope
+	irate
+	prone 17
+	grope 1
+	3
+sewer
+	irate
+	loser 92
+	sewer 7
+	3
+photo
+	irate
+	sooty 24
+	photo 1
+	3
+botch
+	irate
+	shunt 47
+	botch 2
+	3
+river
+	irate
+	risen 34
+	riper 3
+	river 2
+	4
+nosey
+	irate
+	kneel 106
+	hymen 9
+	nosey 2
+	4
+forth
+	irate
+	forth 5
+	2
+radii
+	irate
+	radii 17
+	2
+giver
+	irate
+	risen 34
+	diver 10
+	giver 2
+	4
+short
+	irate
+	burst 27
+	short 3
+	3
+crock
+	irate
+	crowd 39
+	crock 5
+	3
+egret
+	irate
+	meter 28
+	egret 1
+	3
+venom
+	irate
+	kneel 106
+	bench 7
+	venom 2
+	4
+rivet
+	irate
+	remit 7
+	rivet 1
+	3
+snare
+	irate
+	snare 8
+	2
+cubic
+	irate
+	slimy 130
+	pinch 17
+	cubic 1
+	4
+caper
+	irate
+	paler 45
+	caper 1
+	3
+build
+	irate
+	slimy 130
+	build 6
+	3
+quack
+	irate
+	slack 64
+	quack 4
+	3
+octal
+	irate
+	total 55
+	octal 1
+	3
+ember
+	irate
+	loser 92
+	defer 17
+	queer 3
+	ember 1
+	5
+delve
+	irate
+	louse 80
+	delve 4
+	3
+twist
+	irate
+	hoist 64
+	twist 1
+	3
+downy
+	irate
+	scold 194
+	dowdy 5
+	downy 1
+	4
+plume
+	irate
+	louse 80
+	flume 4
+	plume 1
+	4
+whale
+	irate
+	slave 40
+	whale 1
+	3
+flung
+	irate
+	scold 194
+	flunk 12
+	flung 1
+	4
+setup
+	irate
+	sleet 54
+	setup 1
+	3
+using
+	irate
+	slimy 130
+	using 2
+	3
+genie
+	irate
+	slice 53
+	midge 9
+	genie 1
+	4
+lowly
+	irate
+	scold 194
+	folly 6
+	lowly 1
+	4
+rebar
+	irate
+	paler 45
+	rebar 6
+	3
+soapy
+	irate
+	slack 64
+	swamp 7
+	soapy 1
+	4
+chose
+	irate
+	louse 80
+	chose 3
+	3
+arena
+	irate
+	bread 9
+	arena 1
+	3
+beard
+	irate
+	ready 10
+	beard 2
+	3
+deity
+	irate
+	piety 2
+	deity 1
+	3
+fruit
+	irate
+	droit 7
+	fruit 1
+	3
+fetch
+	irate
+	sleet 54
+	teddy 4
+	fetch 1
+	4
+dingy
+	irate
+	slimy 130
+	dingy 13
+	3
+dizzy
+	irate
+	slimy 130
+	dingy 13
+	dizzy 1
+	4
+lever
+	irate
+	loser 92
+	lever 2
+	3
+mushy
+	irate
+	scold 194
+	mushy 9
+	3
+gooey
+	irate
+	kneel 106
+	gooey 5
+	3
+scant
+	irate
+	slant 21
+	scant 1
+	3
+psalm
+	irate
+	slack 64
+	psalm 1
+	3
+flare
+	irate
+	snare 8
+	flare 4
+	3
+groin
+	irate
+	prick 25
+	groin 3
+	3
+biome
+	irate
+	slice 53
+	midge 9
+	biome 1
+	4
+label
+	irate
+	angel 55
+	label 5
+	3
+boule
+	irate
+	louse 80
+	boule 1
+	3
+sharp
+	irate
+	shard 20
+	sharp 2
+	3
+verso
+	irate
+	loser 92
+	verso 1
+	3
+moose
+	irate
+	louse 80
+	moose 5
+	3
+rodeo
+	irate
+	loser 92
+	rodeo 1
+	3
+scour
+	irate
+	curry 61
+	scour 2
+	3
+block
+	irate
+	scold 194
+	flock 4
+	block 2
+	4
+miser
+	irate
+	risen 34
+	miser 2
+	3
+ounce
+	irate
+	louse 80
+	ounce 1
+	3
+clean
+	irate
+	angel 55
+	clean 1
+	3
+unity
+	irate
+	witty 17
+	unity 1
+	3
+curio
+	irate
+	curio 23
+	2
+untie
+	irate
+	title 9
+	untie 2
+	3
+cycle
+	irate
+	louse 80
+	delve 4
+	cycle 1
+	4
+crowd
+	irate
+	crowd 39
+	2
+tribe
+	irate
+	tribe 3
+	2
+probe
+	irate
+	prone 17
+	prove 3
+	probe 2
+	4
+poppy
+	irate
+	scold 194
+	bough 10
+	poppy 1
+	4
+kebab
+	irate
+	angel 55
+	decay 6
+	kebab 1
+	4
+copse
+	irate
+	louse 80
+	moose 5
+	copse 2
+	4
+gloat
+	irate
+	total 55
+	gloat 3
+	3
+jumpy
+	irate
+	scold 194
+	nymph 15
+	jumpy 1
+	4
+titan
+	irate
+	taint 17
+	titan 1
+	3
+omega
+	irate
+	angel 55
+	omega 1
+	3
+testy
+	irate
+	testy 11
+	2
+perky
+	irate
+	loser 92
+	decry 14
+	perky 2
+	4
+drank
+	irate
+	brand 27
+	drank 1
+	3
+swing
+	irate
+	slimy 130
+	swing 6
+	3
+story
+	irate
+	burst 27
+	story 3
+	3
+newer
+	irate
+	loser 92
+	defer 17
+	newer 2
+	4
+suite
+	irate
+	suite 7
+	2
+whine
+	irate
+	slice 53
+	opine 6
+	whine 1
+	4
+roger
+	irate
+	loser 92
+	rower 17
+	roger 2
+	4
+habit
+	irate
+	taint 17
+	habit 1
+	3
+covey
+	irate
+	kneel 106
+	gooey 5
+	covey 2
+	4
+anvil
+	irate
+	anvil 41
+	2
+helix
+	irate
+	widen 38
+	helix 3
+	3
+koala
+	irate
+	slack 64
+	koala 1
+	3
+rinse
+	irate
+	rinse 8
+	2
+trash
+	irate
+	craft 9
+	trash 3
+	3
+islet
+	irate
+	islet 3
+	2
+drunk
+	irate
+	crowd 39
+	drunk 2
+	3
+chest
+	irate
+	sleet 54
+	quest 3
+	chest 1
+	4
+spoke
+	irate
+	louse 80
+	spoke 6
+	3
+stiff
+	irate
+	hoist 64
+	stink 5
+	stiff 2
+	4
+teeth
+	irate
+	testy 11
+	teeth 2
+	3
+child
+	irate
+	slimy 130
+	build 6
+	child 1
+	4
+write
+	irate
+	write 2
+	2
+graft
+	irate
+	craft 9
+	graft 2
+	3
+rouse
+	irate
+	scree 38
+	rouse 1
+	3
+sight
+	irate
+	hoist 64
+	sight 1
+	3
+spool
+	irate
+	scold 194
+	slosh 3
+	spool 1
+	4
+junta
+	irate
+	pasty 15
+	junta 2
+	3
+table
+	irate
+	lathe 4
+	table 1
+	3
+whiff
+	irate
+	slimy 130
+	owing 9
+	whiff 2
+	4
+clued
+	irate
+	kneel 106
+	clued 2
+	3
+false
+	irate
+	angle 42
+	valve 6
+	false 1
+	4
+swore
+	irate
+	scree 38
+	shore 4
+	swore 3
+	4
+privy
+	irate
+	prick 25
+	primo 4
+	privy 1
+	4
+thrum
+	irate
+	burst 27
+	thrum 1
+	3
+melee
+	irate
+	louse 80
+	delve 4
+	melee 2
+	4
+gummy
+	irate
+	scold 194
+	nymph 15
+	gummy 2
+	4
+cagey
+	irate
+	angel 55
+	cagey 1
+	3
+poker
+	irate
+	loser 92
+	rower 17
+	hover 9
+	poker 5
+	5
+jazzy
+	irate
+	canal 118
+	gassy 16
+	paddy 6
+	jazzy 2
+	5
+fifty
+	irate
+	witty 17
+	fifty 3
+	3
+hunky
+	irate
+	scold 194
+	nymph 15
+	hunky 1
+	4
+orbit
+	irate
+	droit 7
+	orbit 1
+	3
+freak
+	irate
+	bread 9
+	freak 4
+	3
+greet
+	irate
+	crest 8
+	greet 1
+	3
+twine
+	irate
+	title 9
+	twine 2
+	3
+crack
+	irate
+	brand 27
+	crash 11
+	crack 4
+	4
+pygmy
+	irate
+	scold 194
+	nymph 15
+	pygmy 1
+	4
+hedge
+	irate
+	louse 80
+	fence 8
+	hedge 2
+	4
+rider
+	irate
+	risen 34
+	riper 3
+	river 2
+	rider 1
+	5
+risky
+	irate
+	curio 23
+	shirk 5
+	risky 1
+	4
+defer
+	irate
+	loser 92
+	defer 17
+	3
+elegy
+	irate
+	kneel 106
+	elegy 2
+	3
+chaos
+	irate
+	slack 64
+	chaos 2
+	3
+skill
+	irate
+	slimy 130
+	skill 3
+	3
+toddy
+	irate
+	shunt 47
+	toddy 1
+	3
+avoid
+	irate
+	anvil 41
+	avoid 1
+	3
+elope
+	irate
+	louse 80
+	clove 7
+	bloke 3
+	elope 1
+	5
+brook
+	irate
+	crowd 39
+	groom 8
+	brook 2
+	4
+world
+	irate
+	curry 61
+	moron 4
+	world 1
+	4
+algae
+	irate
+	angle 42
+	algae 1
+	3
+shock
+	irate
+	scold 194
+	shock 2
+	3
+ditch
+	irate
+	hoist 64
+	ditch 4
+	3
+lofty
+	irate
+	sooty 24
+	lofty 2
+	3
+folly
+	irate
+	scold 194
+	folly 6
+	3
+least
+	irate
+	leant 12
+	leapt 2
+	least 1
+	4
+stout
+	irate
+	shunt 47
+	stout 3
+	3
+agate
+	irate
+	slate 8
+	abate 3
+	agate 1
+	4
+shyly
+	irate
+	scold 194
+	sully 5
+	shyly 1
+	4
+canal
+	irate
+	canal 118
+	2
+favor
+	irate
+	moral 60
+	favor 9
+	3
+mimic
+	irate
+	slimy 130
+	mimic 5
+	3
+scope
+	irate
+	louse 80
+	spoke 6
+	scope 1
+	4
+weedy
+	irate
+	kneel 106
+	weedy 4
+	3
+crier
+	irate
+	drier 8
+	crier 1
+	3
+braid
+	irate
+	drain 6
+	braid 1
+	3
+adore
+	irate
+	barge 9
+	adore 2
+	3
+lupus
+	irate
+	scold 194
+	plush 4
+	lupus 1
+	4
+clank
+	irate
+	slack 64
+	clank 1
+	3
+bloat
+	irate
+	total 55
+	gloat 3
+	bloat 2
+	4
+bound
+	irate
+	scold 194
+	bound 6
+	3
+truth
+	irate
+	froth 3
+	truth 1
+	3
+raspy
+	irate
+	moral 60
+	randy 5
+	raspy 1
+	4
+cameo
+	irate
+	angel 55
+	cameo 1
+	3
+index
+	irate
+	index 2
+	2
+scarf
+	irate
+	shard 20
+	scarf 5
+	3
+civil
+	irate
+	slimy 130
+	logic 10
+	civil 1
+	4
+heady
+	irate
+	leash 10
+	heady 2
+	3
+valid
+	irate
+	anvil 41
+	valid 1
+	3
+greed
+	irate
+	creed 20
+	greed 3
+	3
+blank
+	irate
+	slack 64
+	blank 3
+	3
+taunt
+	irate
+	total 55
+	taunt 1
+	3
+spear
+	irate
+	paler 45
+	spear 1
+	3
+tiger
+	irate
+	remit 7
+	tiger 1
+	3
+aging
+	irate
+	anvil 41
+	aping 3
+	aging 1
+	4
+marry
+	irate
+	moral 60
+	march 3
+	marry 1
+	4
+hutch
+	irate
+	shunt 47
+	hutch 3
+	3
+raise
+	irate
+	raise 2
+	2
+flaky
+	irate
+	slack 64
+	flaky 1
+	3
+guild
+	irate
+	slimy 130
+	build 6
+	guild 1
+	4
+funny
+	irate
+	scold 194
+	nymph 15
+	funny 3
+	4
+peril
+	irate
+	risen 34
+	peril 2
+	3
+timer
+	irate
+	remit 7
+	timer 1
+	3
+annul
+	irate
+	canal 118
+	annul 1
+	3
+ovary
+	irate
+	shard 20
+	ovary 3
+	3
+fable
+	irate
+	angle 42
+	fable 4
+	3
+pasty
+	irate
+	pasty 15
+	2
+slush
+	irate
+	scold 194
+	slung 5
+	slush 2
+	4
+hilly
+	irate
+	slimy 130
+	willy 5
+	hilly 4
+	4
+bulky
+	irate
+	scold 194
+	flunk 12
+	bulky 1
+	4
+fibre
+	irate
+	rinse 8
+	fibre 2
+	3
+heave
+	irate
+	slave 40
+	heave 3
+	3
+outer
+	irate
+	meter 28
+	outer 4
+	3
+abhor
+	irate
+	moral 60
+	favor 9
+	abhor 1
+	4
+broil
+	irate
+	prick 25
+	groin 3
+	broil 1
+	4
+dilly
+	irate
+	slimy 130
+	willy 5
+	hilly 4
+	dilly 3
+	5
+merry
+	irate
+	loser 92
+	decry 14
+	merry 3
+	4
+slung
+	irate
+	scold 194
+	slung 5
+	3
+curly
+	irate
+	curry 61
+	curly 2
+	3
+sheer
+	irate
+	loser 92
+	sewer 7
+	sheer 2
+	4
+plain
+	irate
+	snail 14
+	plain 1
+	3
+grape
+	irate
+	grace 15
+	grade 4
+	grape 3
+	4
+fault
+	irate
+	total 55
+	fault 3
+	3
+scene
+	irate
+	louse 80
+	scene 1
+	3
+thank
+	irate
+	slant 21
+	thank 2
+	3
+puppy
+	irate
+	scold 194
+	nymph 15
+	puppy 2
+	4
+decry
+	irate
+	loser 92
+	decry 14
+	3
+mammy
+	irate
+	canal 118
+	gassy 16
+	paddy 6
+	jazzy 2
+	mammy 1
+	6
+stoic
+	irate
+	hoist 64
+	stoic 1
+	3
+brink
+	irate
+	prick 25
+	brisk 4
+	brink 1
+	4
+spunk
+	irate
+	scold 194
+	spunk 6
+	3
+amass
+	irate
+	slack 64
+	amass 4
+	3
+agree
+	irate
+	barge 9
+	agree 1
+	3
+prude
+	irate
+	prone 17
+	prude 1
+	3
+shore
+	irate
+	scree 38
+	swore 4
+	shore 3
+	4
+spawn
+	irate
+	slack 64
+	swamp 7
+	spawn 1
+	4
+other
+	irate
+	meter 28
+	other 3
+	3
+spank
+	irate
+	slack 64
+	spank 2
+	3
+scrum
+	irate
+	curry 61
+	scrum 2
+	3
+blown
+	irate
+	scold 194
+	bloom 6
+	blown 1
+	4
+prick
+	irate
+	prick 25
+	2
+pansy
+	irate
+	canal 118
+	sandy 9
+	pansy 1
+	4
+wispy
+	irate
+	slimy 130
+	wispy 3
+	3
+pence
+	irate
+	louse 80
+	fence 8
+	pence 2
+	4
+baker
+	irate
+	paler 45
+	wager 13
+	maker 6
+	baker 1
+	5
+urban
+	irate
+	arbor 12
+	urban 1
+	3
+maxim
+	irate
+	anvil 41
+	basic 5
+	maxim 2
+	4
+churn
+	irate
+	curry 61
+	churn 1
+	3
+manic
+	irate
+	anvil 41
+	manic 5
+	3
+forge
+	irate
+	scree 38
+	forge 5
+	3
+furry
+	irate
+	curry 61
+	furry 2
+	3
+hazel
+	irate
+	angel 55
+	label 5
+	hazel 3
+	4
+vouch
+	irate
+	scold 194
+	vouch 6
+	3
+flirt
+	irate
+	shirt 8
+	flirt 1
+	3
+brave
+	irate
+	grace 15
+	drake 6
+	brave 3
+	4
+biddy
+	irate
+	slimy 130
+	dingy 13
+	biddy 1
+	4
+oxide
+	irate
+	slice 53
+	opine 6
+	oxide 1
+	4
+plead
+	irate
+	angel 55
+	plead 4
+	3
+erase
+	irate
+	grace 15
+	brake 6
+	erase 3
+	4
+lasso
+	irate
+	canal 118
+	sadly 11
+	lasso 1
+	4
+joker
+	irate
+	loser 92
+	rower 17
+	hover 9
+	poker 5
+	joker 1
+	6
+mocha
+	irate
+	canal 118
+	mocha 2
+	3
+faint
+	irate
+	taint 17
+	faint 3
+	3
+kneed
+	irate
+	kneel 106
+	kneed 1
+	3
+brown
+	irate
+	crowd 39
+	growl 5
+	brown 2
+	4
+gavel
+	irate
+	angel 55
+	gavel 1
+	3
+haunt
+	irate
+	total 55
+	gamut 9
+	haunt 4
+	4
+spray
+	irate
+	moral 60
+	spray 2
+	3
+briar
+	irate
+	briar 2
+	2
+spicy
+	irate
+	slimy 130
+	spicy 4
+	3
+corny
+	irate
+	curry 61
+	corny 1
+	3
+panic
+	irate
+	anvil 41
+	manic 5
+	panic 1
+	4
+tarot
+	irate
+	carat 11
+	tarot 1
+	3
+betel
+	irate
+	sleet 54
+	betel 1
+	3
+kitty
+	irate
+	witty 17
+	kitty 3
+	3
+ralph
+	irate
+	moral 60
+	ralph 2
+	3
+piece
+	irate
+	slice 53
+	wince 4
+	piece 1
+	4
+bloke
+	irate
+	louse 80
+	clove 7
+	bloke 3
+	4
+claim
+	irate
+	snail 14
+	claim 2
+	3
+idyll
+	irate
+	icily 8
+	idyll 1
+	3
+sneer
+	irate
+	loser 92
+	sewer 7
+	sheer 2
+	sneer 1
+	5
+toxin
+	irate
+	hoist 64
+	toxin 5
+	3
+harpy
+	irate
+	moral 60
+	harpy 7
+	3
+snuck
+	irate
+	scold 194
+	snuck 2
+	3
+proof
+	irate
+	crowd 39
+	groom 8
+	brook 2
+	proof 1
+	5
+grasp
+	irate
+	brand 27
+	grasp 11
+	3
+circa
+	irate
+	radii 17
+	circa 4
+	3
+amend
+	irate
+	angel 55
+	amend 1
+	3
+lapel
+	irate
+	angel 55
+	label 5
+	lapel 1
+	4
+molar
+	irate
+	moral 60
+	molar 1
+	3
+frail
+	irate
+	grain 6
+	braid 2
+	frail 1
+	4
+dogma
+	irate
+	canal 118
+	dogma 3
+	3
+later
+	irate
+	alter 14
+	later 1
+	3
+pesky
+	irate
+	kneel 106
+	pesky 2
+	3
+antic
+	irate
+	taint 17
+	antic 1
+	3
+mango
+	irate
+	canal 118
+	sandy 9
+	mango 2
+	4
+fauna
+	irate
+	canal 118
+	fauna 2
+	3
+reedy
+	irate
+	loser 92
+	decry 14
+	nerdy 2
+	reedy 1
+	5
+drone
+	irate
+	prone 17
+	drone 2
+	3
+throb
+	irate
+	burst 27
+	throb 1
+	3
+coral
+	irate
+	moral 60
+	coral 1
+	3
+arbor
+	irate
+	arbor 12
+	2
+tuber
+	irate
+	meter 28
+	other 3
+	tuber 1
+	4
+repel
+	irate
+	loser 92
+	repel 3
+	3
+shiny
+	irate
+	slimy 130
+	spicy 4
+	shiny 1
+	4
+decal
+	irate
+	angel 55
+	pedal 5
+	decal 1
+	4
+focus
+	irate
+	scold 194
+	focus 1
+	3
+slack
+	irate
+	slack 64
+	2
+given
+	irate
+	widen 38
+	given 4
+	3
+shelf
+	irate
+	kneel 106
+	shelf 4
+	3
+cough
+	irate
+	scold 194
+	vouch 6
+	cough 1
+	4
+wrong
+	irate
+	crowd 39
+	wrong 1
+	3
+stuff
+	irate
+	shunt 47
+	stuff 4
+	3
+vicar
+	irate
+	radii 17
+	circa 4
+	vicar 1
+	4
+super
+	irate
+	loser 92
+	sewer 7
+	super 2
+	4
+baton
+	irate
+	total 55
+	baton 1
+	3
+knock
+	irate
+	scold 194
+	knock 3
+	3
+awoke
+	irate
+	angle 42
+	above 6
+	awoke 1
+	4
+trout
+	irate
+	crust 17
+	trout 2
+	3
+pasta
+	irate
+	pasty 15
+	pasta 1
+	3
+patty
+	irate
+	pasty 15
+	patty 1
+	3
+vaunt
+	irate
+	total 55
+	gamut 9
+	haunt 4
+	vaunt 3
+	5
+drake
+	irate
+	grace 15
+	drake 6
+	3
+droop
+	irate
+	crowd 39
+	drool 4
+	droop 1
+	4
+skirt
+	irate
+	shirt 8
+	skirt 1
+	3
+tweak
+	irate
+	cleat 25
+	tweak 4
+	3
+eaten
+	irate
+	cleat 25
+	eaten 3
+	3
+lurid
+	irate
+	curio 23
+	lurid 1
+	3
+mural
+	irate
+	moral 60
+	mural 1
+	3
+gross
+	irate
+	crowd 39
+	groom 8
+	gross 2
+	4
+hoard
+	irate
+	shard 20
+	hoard 1
+	3
+pearl
+	irate
+	ready 10
+	pearl 2
+	3
+space
+	irate
+	slave 40
+	spade 7
+	space 1
+	4
+froth
+	irate
+	froth 3
+	2
+haste
+	irate
+	taste 10
+	haste 5
+	3
+plank
+	irate
+	slack 64
+	blank 3
+	plank 2
+	4
+loyal
+	irate
+	canal 118
+	loyal 6
+	3
+chasm
+	irate
+	slack 64
+	chaos 2
+	chasm 1
+	4
+eight
+	irate
+	edict 14
+	eight 1
+	3
+blend
+	irate
+	kneel 106
+	blend 1
+	3
+debug
+	irate
+	kneel 106
+	epoxy 4
+	debug 1
+	4
+curry
+	irate
+	curry 61
+	2
+query
+	irate
+	loser 92
+	decry 14
+	query 2
+	4
+petty
+	irate
+	testy 11
+	petty 2
+	3
+stump
+	irate
+	shunt 47
+	stuff 4
+	stump 3
+	4
+rover
+	irate
+	loser 92
+	rower 17
+	roger 2
+	rover 1
+	5
+glory
+	irate
+	curry 61
+	glory 2
+	3
+legal
+	irate
+	angel 55
+	legal 1
+	3
+cross
+	irate
+	crowd 39
+	crock 5
+	croup 3
+	cross 2
+	5
+share
+	irate
+	snare 8
+	share 3
+	3
+sheep
+	irate
+	kneel 106
+	sheep 3
+	3
+limbo
+	irate
+	slimy 130
+	limbo 1
+	3
+goner
+	irate
+	loser 92
+	rower 17
+	hover 9
+	poker 5
+	goner 3
+	6
+grail
+	irate
+	drain 6
+	frail 2
+	grail 1
+	4
+amaze
+	irate
+	slave 40
+	agape 7
+	amaze 2
+	4
+parer
+	irate
+	paler 45
+	parer 3
+	3
+shirk
+	irate
+	curio 23
+	shirk 5
+	3
+freed
+	irate
+	creed 20
+	greed 3
+	freed 2
+	4
+snipe
+	irate
+	slice 53
+	snipe 7
+	3
+state
+	irate
+	slate 8
+	state 2
+	3
+women
+	irate
+	kneel 106
+	hymen 9
+	women 1
+	4
+spree
+	irate
+	scree 38
+	spree 1
+	3
+smoky
+	irate
+	scold 194
+	spoon 11
+	smoky 2
+	4
+flier
+	irate
+	risen 34
+	flier 2
+	3
+nymph
+	irate
+	scold 194
+	nymph 15
+	3
+lobby
+	irate
+	scold 194
+	lobby 4
+	3
+pixel
+	irate
+	widen 38
+	pixel 3
+	3
+rocky
+	irate
+	curry 61
+	rocky 1
+	3
+logic
+	irate
+	slimy 130
+	logic 10
+	3
+pitch
+	irate
+	hoist 64
+	ditch 4
+	pitch 2
+	4
+craze
+	irate
+	grace 15
+	craze 3
+	3
+flick
+	irate
+	slimy 130
+	flick 8
+	3
+spelt
+	irate
+	sleet 54
+	spelt 2
+	3
+otter
+	irate
+	meter 28
+	outer 4
+	otter 1
+	4
+flint
+	irate
+	hoist 64
+	guilt 6
+	flint 1
+	4
+tipsy
+	irate
+	hoist 64
+	tipsy 1
+	3
+drawl
+	irate
+	brand 27
+	drawl 2
+	3
+mangy
+	irate
+	canal 118
+	sandy 9
+	fanny 3
+	mangy 1
+	5
+movie
+	irate
+	slice 53
+	midge 9
+	movie 1
+	4
+floor
+	irate
+	curry 61
+	honor 3
+	floor 1
+	4
+shunt
+	irate
+	shunt 47
+	2
+mossy
+	irate
+	scold 194
+	mossy 4
+	3
+noisy
+	irate
+	slimy 130
+	noisy 1
+	3
+frown
+	irate
+	crowd 39
+	growl 5
+	brown 2
+	frown 1
+	5
+judge
+	irate
+	louse 80
+	judge 9
+	3
+whelp
+	irate
+	kneel 106
+	shelf 4
+	whelp 1
+	4
+witch
+	irate
+	hoist 64
+	ditch 4
+	pitch 2
+	witch 1
+	5
+slink
+	irate
+	slimy 130
+	slick 3
+	slink 1
+	4
+broom
+	irate
+	crowd 39
+	groom 8
+	broom 1
+	4
+unfit
+	irate
+	hoist 64
+	limit 4
+	unfit 1
+	4
+queue
+	irate
+	louse 80
+	judge 9
+	queue 1
+	4
+dully
+	irate
+	scold 194
+	dully 1
+	3
+scale
+	irate
+	slave 40
+	scale 2
+	3
+ripen
+	irate
+	risen 34
+	ripen 1
+	3
+upper
+	irate
+	loser 92
+	defer 17
+	buyer 5
+	upper 1
+	5
+cloud
+	irate
+	scold 194
+	cloud 1
+	3
+bough
+	irate
+	scold 194
+	bough 10
+	3
+spade
+	irate
+	slave 40
+	spade 7
+	3
+crump
+	irate
+	crowd 39
+	crump 3
+	3
+taken
+	irate
+	cleat 25
+	eaten 3
+	taken 1
+	4
+opine
+	irate
+	slice 53
+	opine 6
+	3
+flask
+	irate
+	slack 64
+	flask 1
+	3
+teddy
+	irate
+	sleet 54
+	detox 4
+	teddy 1
+	4
+erupt
+	irate
+	crest 8
+	erupt 1
+	3
+civic
+	irate
+	slimy 130
+	pinch 17
+	civic 1
+	4
+wince
+	irate
+	slice 53
+	wince 4
+	3
+duchy
+	irate
+	scold 194
+	duchy 1
+	3
+vivid
+	irate
+	slimy 130
+	pinch 17
+	vivid 2
+	4
+wight
+	irate
+	hoist 64
+	wight 6
+	3
+these
+	irate
+	style 13
+	tense 3
+	these 1
+	4
+labor
+	irate
+	moral 60
+	labor 3
+	3
+guppy
+	irate
+	scold 194
+	nymph 15
+	puppy 2
+	guppy 1
+	5
+goose
+	irate
+	louse 80
+	moose 5
+	goose 2
+	4
+crook
+	irate
+	crowd 39
+	crock 5
+	crook 1
+	4
+crush
+	irate
+	crowd 39
+	crump 3
+	crush 1
+	4
+leash
+	irate
+	leash 10
+	2
+login
+	irate
+	slimy 130
+	logic 10
+	login 1
+	4
+lunar
+	irate
+	moral 60
+	lunar 1
+	3
+faith
+	irate
+	faith 4
+	2
+proud
+	irate
+	crowd 39
+	frond 3
+	proud 2
+	4
+lousy
+	irate
+	scold 194
+	lousy 1
+	3
+tepid
+	irate
+	edict 14
+	tepid 2
+	3
+where
+	irate
+	scree 38
+	where 3
+	3
+lumpy
+	irate
+	scold 194
+	flunk 12
+	lumpy 2
+	4
+detox
+	irate
+	sleet 54
+	teddy 4
+	detox 1
+	4
+feast
+	irate
+	leant 12
+	feast 3
+	3
+cloth
+	irate
+	sooty 24
+	cloth 2
+	3
+click
+	irate
+	slimy 130
+	flick 8
+	click 1
+	4
+rigid
+	irate
+	curio 23
+	rigid 1
+	3
+leaky
+	irate
+	leash 10
+	leaky 2
+	3
+lemon
+	irate
+	kneel 106
+	melon 4
+	lemon 1
+	4
+filly
+	irate
+	slimy 130
+	willy 5
+	hilly 4
+	dilly 3
+	filly 2
+	6
+mummy
+	irate
+	scold 194
+	nymph 15
+	gummy 2
+	mummy 1
+	5
+tatty
+	irate
+	pasty 15
+	fatty 4
+	catty 3
+	tatty 2
+	5
+needy
+	irate
+	kneel 106
+	needy 1
+	3
+stone
+	irate
+	tense 13
+	stone 1
+	3
+forte
+	irate
+	forte 2
+	2
+miner
+	irate
+	risen 34
+	finer 5
+	miner 3
+	4
+acrid
+	irate
+	radii 17
+	acrid 1
+	3
+crest
+	irate
+	crest 8
+	2
+riser
+	irate
+	risen 34
+	riser 1
+	3
+stoke
+	irate
+	tense 13
+	stoke 4
+	3
+thong
+	irate
+	shunt 47
+	thong 1
+	3
+hotel
+	irate
+	sleet 54
+	hotel 3
+	3
+puffy
+	irate
+	scold 194
+	nymph 15
+	puffy 1
+	4
+rower
+	irate
+	loser 92
+	rower 17
+	3
+buddy
+	irate
+	scold 194
+	dumpy 5
+	buddy 1
+	4
+revue
+	irate
+	scree 38
+	where 3
+	revue 1
+	4
+wrung
+	irate
+	crowd 39
+	wrung 2
+	3
+scuba
+	irate
+	canal 118
+	mocha 2
+	scuba 1
+	4
+offal
+	irate
+	canal 118
+	loyal 6
+	offal 2
+	4
+pecan
+	irate
+	angel 55
+	ocean 4
+	pecan 1
+	4
+slunk
+	irate
+	scold 194
+	slung 5
+	slunk 1
+	4
+gonad
+	irate
+	canal 118
+	gonad 1
+	3
+bench
+	irate
+	kneel 106
+	bench 7
+	3
+unmet
+	irate
+	sleet 54
+	comet 5
+	unmet 1
+	4
+stark
+	irate
+	stark 7
+	2
+shear
+	irate
+	paler 45
+	rebar 6
+	swear 3
+	shear 2
+	5
+berth
+	irate
+	berth 1
+	2
+fifth
+	irate
+	witty 17
+	fifth 5
+	3
+inept
+	irate
+	islet 3
+	inept 1
+	3
+cress
+	irate
+	creed 20
+	cress 1
+	3
+offer
+	irate
+	loser 92
+	offer 3
+	3
+basic
+	irate
+	anvil 41
+	basic 5
+	3
+snuff
+	irate
+	scold 194
+	spunk 6
+	snuff 1
+	4
+blame
+	irate
+	slave 40
+	blame 9
+	3
+plush
+	irate
+	scold 194
+	lupus 4
+	plush 1
+	4
+preen
+	irate
+	creed 20
+	preen 3
+	3
+about
+	irate
+	total 55
+	about 5
+	3
+dread
+	irate
+	bread 9
+	dread 1
+	3
+windy
+	irate
+	slimy 130
+	dingy 13
+	windy 1
+	4
+humor
+	irate
+	curry 61
+	humor 2
+	3
+fanny
+	irate
+	canal 118
+	sandy 9
+	fanny 3
+	4
+banjo
+	irate
+	canal 118
+	sandy 9
+	mango 2
+	banjo 1
+	5
+moral
+	irate
+	moral 60
+	2
+glaze
+	irate
+	slave 40
+	blame 9
+	glaze 5
+	4
+ruler
+	irate
+	loser 92
+	ulcer 5
+	ruler 1
+	4
+spoof
+	irate
+	scold 194
+	spoon 11
+	spoof 2
+	4
+burst
+	irate
+	burst 27
+	2
+shawl
+	irate
+	slack 64
+	shawl 3
+	3
+merge
+	irate
+	scree 38
+	nerve 4
+	merge 1
+	4
+lyric
+	irate
+	curio 23
+	lyric 1
+	3
+eagle
+	irate
+	angle 42
+	eagle 1
+	3
+until
+	irate
+	hoist 64
+	until 4
+	3
+synod
+	irate
+	scold 194
+	synod 2
+	3
+gamer
+	irate
+	paler 45
+	wager 13
+	gamer 3
+	4
+going
+	irate
+	slimy 130
+	owing 9
+	going 2
+	4
+sedan
+	irate
+	angel 55
+	ocean 4
+	sedan 1
+	4
+bliss
+	irate
+	slimy 130
+	bliss 1
+	3
+shale
+	irate
+	slave 40
+	scale 2
+	shale 1
+	4
+snort
+	irate
+	burst 27
+	short 3
+	snort 2
+	4
+borne
+	irate
+	scree 38
+	forge 5
+	borne 2
+	4
+grunt
+	irate
+	crust 17
+	grunt 2
+	3
+beefy
+	irate
+	kneel 106
+	weedy 4
+	beefy 1
+	4
+clock
+	irate
+	scold 194
+	flock 4
+	block 2
+	clock 1
+	5
+snack
+	irate
+	slack 64
+	smack 3
+	snack 2
+	4
+midst
+	irate
+	hoist 64
+	midst 1
+	3
+balmy
+	irate
+	canal 118
+	sadly 11
+	balmy 1
+	4
+crepe
+	irate
+	prone 17
+	crepe 1
+	3
+angst
+	irate
+	total 55
+	gamut 9
+	angst 1
+	4
+quilt
+	irate
+	hoist 64
+	guilt 6
+	quilt 2
+	4
+watch
+	irate
+	total 55
+	match 8
+	catch 5
+	watch 4
+	5
+smoke
+	irate
+	louse 80
+	spoke 6
+	smoke 1
+	4
+stink
+	irate
+	hoist 64
+	stink 5
+	3
+bicep
+	irate
+	widen 38
+	pixel 3
+	bicep 1
+	4
+lingo
+	irate
+	slimy 130
+	logic 10
+	lingo 1
+	4
+night
+	irate
+	hoist 64
+	wight 6
+	night 5
+	4
+ovine
+	irate
+	slice 53
+	opine 6
+	ovine 1
+	4
+upset
+	irate
+	sleet 54
+	upset 3
+	3
+porch
+	irate
+	curry 61
+	porch 1
+	3
+comet
+	irate
+	sleet 54
+	comet 5
+	3
+eking
+	irate
+	widen 38
+	eking 5
+	3
+clear
+	irate
+	paler 45
+	clear 1
+	3
+crude
+	irate
+	prone 17
+	crude 2
+	3
+width
+	irate
+	witty 17
+	width 1
+	3
+bluff
+	irate
+	scold 194
+	flunk 12
+	bluff 1
+	4
+blush
+	irate
+	scold 194
+	lupus 4
+	blush 2
+	4
+crass
+	irate
+	brand 27
+	grasp 11
+	crass 2
+	4
+leafy
+	irate
+	leash 10
+	leaky 2
+	leafy 1
+	4
+belle
+	irate
+	louse 80
+	delve 4
+	melee 2
+	belle 1
+	5
+haven
+	irate
+	angel 55
+	waxen 3
+	haven 2
+	4
+leach
+	irate
+	leash 10
+	leach 1
+	3
+flour
+	irate
+	curry 61
+	round 3
+	flour 1
+	4
+shank
+	irate
+	slack 64
+	spank 2
+	shank 1
+	4
+hussy
+	irate
+	scold 194
+	mushy 9
+	hussy 2
+	4
+cacti
+	irate
+	faith 4
+	cacti 1
+	3
+caulk
+	irate
+	canal 118
+	caulk 1
+	3
+radar
+	irate
+	moral 60
+	rajah 3
+	radar 1
+	4
+idler
+	irate
+	inner 3
+	idler 1
+	3
+stunt
+	irate
+	shunt 47
+	stunt 1
+	3
+rerun
+	irate
+	loser 92
+	decry 14
+	rerun 1
+	4
+wrath
+	irate
+	wrath 1
+	2
+stake
+	irate
+	stave 5
+	stake 3
+	3
+mirth
+	irate
+	mirth 4
+	2
+tense
+	irate
+	tense 13
+	2
+notch
+	irate
+	shunt 47
+	notch 1
+	3
+reply
+	irate
+	loser 92
+	reply 2
+	3
+sheet
+	irate
+	sleet 54
+	sheet 2
+	3
+sadly
+	irate
+	canal 118
+	sadly 11
+	3
+aback
+	irate
+	slack 64
+	quack 4
+	aback 3
+	4
+swung
+	irate
+	scold 194
+	spunk 6
+	swung 1
+	4
+bison
+	irate
+	slimy 130
+	disco 4
+	bison 1
+	4
+gorge
+	irate
+	scree 38
+	forge 5
+	gorge 1
+	4
+twixt
+	irate
+	hoist 64
+	guilt 6
+	twixt 1
+	4
+waist
+	irate
+	taint 17
+	waist 1
+	3
+relic
+	irate
+	risen 34
+	relic 1
+	3
+druid
+	irate
+	prick 25
+	groin 3
+	druid 1
+	4
+epoxy
+	irate
+	kneel 106
+	epoxy 4
+	3
+fishy
+	irate
+	slimy 130
+	wispy 3
+	fishy 1
+	4
+ester
+	irate
+	meter 28
+	enter 2
+	ester 1
+	4
+nadir
+	irate
+	radii 17
+	nadir 1
+	3
+sword
+	irate
+	curry 61
+	sword 4
+	3
+sulky
+	irate
+	scold 194
+	slung 5
+	sulky 1
+	4
+olden
+	irate
+	kneel 106
+	lumen 2
+	olden 1
+	4
+glide
+	irate
+	slice 53
+	glide 3
+	3
+coupe
+	irate
+	louse 80
+	coupe 2
+	3
+brake
+	irate
+	grace 15
+	drake 6
+	brake 1
+	4
+party
+	irate
+	party 4
+	2
+belie
+	irate
+	slice 53
+	belie 4
+	3
+cluck
+	irate
+	scold 194
+	mulch 9
+	cluck 2
+	4
+lynch
+	irate
+	scold 194
+	mulch 9
+	lynch 1
+	4
+unify
+	irate
+	slimy 130
+	unify 3
+	3
+voice
+	irate
+	slice 53
+	voice 2
+	3
+booty
+	irate
+	sooty 24
+	booty 1
+	3
+enemy
+	irate
+	kneel 106
+	enemy 1
+	3
+pesto
+	irate
+	testy 11
+	pesto 1
+	3
+frank
+	irate
+	brand 27
+	frank 3
+	3
+twang
+	irate
+	slant 21
+	thank 2
+	twang 1
+	4
+place
+	irate
+	slave 40
+	blame 9
+	glaze 5
+	place 3
+	5
+fluke
+	irate
+	louse 80
+	flume 4
+	fluke 1
+	4
+boney
+	irate
+	kneel 106
+	hymen 9
+	nosey 2
+	boney 1
+	5
+tabby
+	irate
+	total 55
+	tawny 5
+	taffy 3
+	tabby 2
+	5
+fever
+	irate
+	loser 92
+	defer 17
+	fewer 2
+	fever 1
+	5
+react
+	irate
+	react 3
+	2
+boost
+	irate
+	shunt 47
+	boost 1
+	3
+court
+	irate
+	burst 27
+	court 1
+	3
+house
+	irate
+	louse 80
+	house 2
+	3
+shaft
+	irate
+	slant 21
+	shaft 1
+	3
+delay
+	irate
+	angel 55
+	plead 4
+	delay 1
+	4
+award
+	irate
+	shard 20
+	guard 3
+	board 2
+	award 1
+	5
+bezel
+	irate
+	kneel 106
+	bevel 6
+	bezel 1
+	4
+blast
+	irate
+	slant 21
+	blast 1
+	3
+gland
+	irate
+	slack 64
+	gland 4
+	3
+human
+	irate
+	canal 118
+	woman 3
+	human 1
+	4
+above
+	irate
+	angle 42
+	above 6
+	3
+fixer
+	irate
+	risen 34
+	diver 10
+	fixer 4
+	4
+nerve
+	irate
+	scree 38
+	verve 4
+	nerve 1
+	4
+hydro
+	irate
+	curry 61
+	hydro 1
+	3
+macho
+	irate
+	canal 118
+	macho 4
+	3
+barge
+	irate
+	large 9
+	barge 1
+	3
+folio
+	irate
+	slimy 130
+	logic 10
+	folio 1
+	4
+sense
+	irate
+	louse 80
+	sense 3
+	3
+amber
+	irate
+	paler 45
+	amber 2
+	3
+axial
+	irate
+	anvil 41
+	axial 1
+	3
+aorta
+	irate
+	party 4
+	aorta 1
+	3
+abort
+	irate
+	carat 11
+	abort 1
+	3
+bulge
+	irate
+	louse 80
+	bulge 3
+	3
+theft
+	irate
+	sleet 54
+	theft 1
+	3
+trend
+	irate
+	crest 8
+	trend 1
+	3
+trait
+	irate
+	trait 3
+	2
+chide
+	irate
+	slice 53
+	chime 2
+	chide 1
+	4
+creek
+	irate
+	creed 20
+	creek 2
+	3
+fetal
+	irate
+	cleat 25
+	fetal 3
+	3
+woozy
+	irate
+	scold 194
+	boozy 7
+	woozy 1
+	4
+trail
+	irate
+	trait 3
+	trail 2
+	3
+scare
+	irate
+	snare 8
+	scare 3
+	3
+large
+	irate
+	large 9
+	2
+jaunt
+	irate
+	total 55
+	gamut 9
+	haunt 4
+	vaunt 3
+	jaunt 2
+	6
+batch
+	irate
+	total 55
+	match 8
+	catch 5
+	watch 4
+	batch 3
+	6
+solve
+	irate
+	louse 80
+	solve 1
+	3
+match
+	irate
+	total 55
+	match 8
+	3
+press
+	irate
+	creed 20
+	press 2
+	3
+fatal
+	irate
+	total 55
+	fatal 2
+	3
+salsa
+	irate
+	canal 118
+	salsa 1
+	3
+irate
+	irate
+	-1
+acorn
+	irate
+	moral 60
+	favor 9
+	acorn 3
+	4
+buxom
+	irate
+	scold 194
+	bough 10
+	buxom 1
+	4
+clung
+	irate
+	scold 194
+	mulch 9
+	clung 1
+	4
+study
+	irate
+	shunt 47
+	stuff 4
+	stump 3
+	study 2
+	5
+event
+	irate
+	sleet 54
+	event 2
+	3
+bring
+	irate
+	prick 25
+	grind 8
+	bring 2
+	4
+erode
+	irate
+	prone 17
+	drove 5
+	erode 1
+	4
+wrack
+	irate
+	brand 27
+	crass 11
+	wrack 1
+	4
+meant
+	irate
+	leant 12
+	meant 1
+	3
+cleft
+	irate
+	sleet 54
+	cleft 1
+	3
+stint
+	irate
+	hoist 64
+	stilt 4
+	stint 1
+	4
+title
+	irate
+	title 9
+	2
+power
+	irate
+	loser 92
+	rower 17
+	mower 3
+	power 2
+	5
+grime
+	irate
+	pride 12
+	brine 5
+	grime 2
+	4
+beret
+	irate
+	meter 28
+	beret 2
+	3
+track
+	irate
+	craft 9
+	track 1
+	3
+gnash
+	irate
+	slack 64
+	amass 4
+	gnash 2
+	4
+ought
+	irate
+	shunt 47
+	ought 1
+	3
+reuse
+	irate
+	scree 38
+	reuse 1
+	3
+cedar
+	irate
+	paler 45
+	rebar 6
+	cedar 1
+	4
+wacky
+	irate
+	canal 118
+	macho 4
+	wacky 1
+	4
+elder
+	irate
+	loser 92
+	ulcer 5
+	elder 2
+	4
+shall
+	irate
+	slack 64
+	shawl 3
+	shall 1
+	4
+lease
+	irate
+	slave 40
+	lease 1
+	3
+daddy
+	irate
+	canal 118
+	gassy 16
+	paddy 6
+	daddy 1
+	5
+batty
+	irate
+	pasty 15
+	fatty 4
+	catty 3
+	tatty 2
+	batty 1
+	6
+prior
+	irate
+	prick 25
+	primo 4
+	prior 1
+	4
+sooty
+	irate
+	sooty 24
+	2
+zebra
+	irate
+	paler 45
+	zebra 2
+	3
+arose
+	irate
+	argue 2
+	arose 1
+	3
+caput
+	irate
+	total 55
+	gamut 9
+	caput 1
+	4
+crust
+	irate
+	crust 17
+	2
+emcee
+	irate
+	louse 80
+	fence 8
+	emcee 1
+	4
+actor
+	irate
+	carat 11
+	actor 1
+	3
+annoy
+	irate
+	canal 118
+	annoy 1
+	3
+syrup
+	irate
+	curry 61
+	syrup 1
+	3
+dozen
+	irate
+	kneel 106
+	hymen 9
+	woven 3
+	dozen 1
+	5
+leery
+	irate
+	loser 92
+	leery 1
+	3
+moldy
+	irate
+	scold 194
+	moldy 1
+	3
+buggy
+	irate
+	scold 194
+	nymph 15
+	buggy 2
+	4
+palsy
+	irate
+	canal 118
+	sadly 11
+	palsy 1
+	4
+tunic
+	irate
+	hoist 64
+	until 4
+	tunic 1
+	4
+slept
+	irate
+	sleet 54
+	slept 1
+	3
+prowl
+	irate
+	crowd 39
+	growl 5
+	prowl 1
+	4
+image
+	irate
+	image 2
+	2
+right
+	irate
+	shirt 8
+	right 1
+	3
+taint
+	irate
+	taint 17
+	2
+mamma
+	irate
+	canal 118
+	gamma 4
+	mamma 1
+	4
+talon
+	irate
+	total 55
+	talon 1
+	3
+caste
+	irate
+	taste 10
+	haste 5
+	caste 4
+	4
+attic
+	irate
+	taint 17
+	attic 1
+	3
+baggy
+	irate
+	canal 118
+	gassy 16
+	baggy 1
+	4
+excel
+	irate
+	kneel 106
+	bevel 6
+	excel 2
+	4
+freer
+	irate
+	creed 20
+	preen 3
+	freer 1
+	4
+recap
+	irate
+	paler 45
+	recap 3
+	3
+foamy
+	irate
+	slack 64
+	foamy 2
+	3
+macro
+	irate
+	moral 60
+	manor 4
+	macro 1
+	4
+neigh
+	irate
+	widen 38
+	eking 5
+	neigh 1
+	4
+zonal
+	irate
+	canal 118
+	zonal 1
+	3
+cello
+	irate
+	kneel 106
+	welch 10
+	cello 1
+	4
+slang
+	irate
+	slack 64
+	slang 2
+	3
+rally
+	irate
+	moral 60
+	ralph 2
+	rally 1
+	4
+spiky
+	irate
+	slimy 130
+	spicy 4
+	spiky 2
+	4
+pinky
+	irate
+	slimy 130
+	dingy 13
+	pinky 3
+	4
+repay
+	irate
+	paler 45
+	recap 3
+	repay 1
+	4
+fraud
+	irate
+	brand 27
+	fraud 1
+	3
+flail
+	irate
+	slain 14
+	claim 3
+	flail 2
+	4
+awash
+	irate
+	slack 64
+	amass 4
+	awash 1
+	4
+annex
+	irate
+	angel 55
+	annex 1
+	3
+blond
+	irate
+	scold 194
+	flood 3
+	blond 1
+	4
+bleat
+	irate
+	cleat 25
+	bleat 2
+	3
+debut
+	irate
+	sleet 54
+	debut 2
+	3
+ample
+	irate
+	angle 42
+	ample 3
+	3
+hippo
+	irate
+	slimy 130
+	pinch 17
+	hippo 1
+	4
+chafe
+	irate
+	slave 40
+	agape 7
+	chafe 2
+	4
+extol
+	irate
+	sleet 54
+	extol 1
+	3
+taffy
+	irate
+	total 55
+	tawny 5
+	tabby 3
+	taffy 2
+	5
+honor
+	irate
+	curry 61
+	honor 3
+	3
+lurch
+	irate
+	curry 61
+	lurch 1
+	3
+spilt
+	irate
+	hoist 64
+	stilt 4
+	spilt 1
+	4
+golly
+	irate
+	scold 194
+	folly 6
+	golly 3
+	4
+stock
+	irate
+	shunt 47
+	stoop 5
+	stock 1
+	4
+heath
+	irate
+	heath 3
+	2
+gulch
+	irate
+	scold 194
+	mulch 9
+	gulch 1
+	4
+crick
+	irate
+	prick 25
+	crick 2
+	3
+wedge
+	irate
+	louse 80
+	fence 8
+	hedge 2
+	wedge 1
+	5
+minus
+	irate
+	slimy 130
+	minus 2
+	3
+horde
+	irate
+	scree 38
+	forge 5
+	borne 2
+	horde 1
+	5
+toxic
+	irate
+	hoist 64
+	toxin 5
+	toxic 1
+	4
+thumb
+	irate
+	shunt 47
+	thump 2
+	thumb 1
+	4
+cling
+	irate
+	slimy 130
+	flick 8
+	cling 1
+	4
+milky
+	irate
+	slimy 130
+	milky 2
+	3
+natal
+	irate
+	total 55
+	fatal 2
+	natal 1
+	4
+spine
+	irate
+	slice 53
+	snipe 7
+	spine 1
+	4
+spoil
+	irate
+	slimy 130
+	spoil 2
+	3
+wreck
+	irate
+	creed 20
+	wreck 1
+	3
+bread
+	irate
+	bread 9
+	2
+crisp
+	irate
+	prick 25
+	crisp 2
+	3
+reach
+	irate
+	ready 10
+	realm 3
+	reach 1
+	4
+tulle
+	irate
+	tense 13
+	tulle 2
+	3
+color
+	irate
+	curry 61
+	color 1
+	3
+payee
+	irate
+	angle 42
+	sauce 8
+	payee 2
+	4
+worth
+	irate
+	forth 5
+	worth 2
+	3
+usurp
+	irate
+	curry 61
+	spurn 6
+	usurp 1
+	4
+choke
+	irate
+	louse 80
+	phone 5
+	choke 1
+	4
+elbow
+	irate
+	kneel 106
+	welch 10
+	elbow 1
+	4
+flank
+	irate
+	slack 64
+	blank 3
+	plank 2
+	flank 1
+	5
+jerky
+	irate
+	loser 92
+	decry 14
+	perky 2
+	jerky 1
+	5
+dumpy
+	irate
+	scold 194
+	dumpy 5
+	3
+voila
+	irate
+	anvil 41
+	viola 3
+	voila 1
+	4
+chaff
+	irate
+	slack 64
+	chaff 2
+	3
+sixth
+	irate
+	witty 17
+	fifth 5
+	sixth 2
+	4
+trace
+	irate
+	trace 2
+	2
+flout
+	irate
+	shunt 47
+	flout 2
+	3
+arise
+	irate
+	arise 1
+	2
+tried
+	irate
+	tried 1
+	2
+croak
+	irate
+	arbor 12
+	groan 3
+	croak 1
+	4
+under
+	irate
+	loser 92
+	defer 17
+	under 3
+	4
+begin
+	irate
+	widen 38
+	begin 3
+	3
+jiffy
+	irate
+	slimy 130
+	dingy 13
+	picky 4
+	jiffy 2
+	5
+green
+	irate
+	creed 20
+	preen 3
+	green 1
+	4
+aware
+	irate
+	snare 8
+	flare 4
+	aware 1
+	4
+older
+	irate
+	loser 92
+	older 1
+	3
+reset
+	irate
+	meter 28
+	beret 2
+	reset 1
+	4
+stamp
+	irate
+	slant 21
+	stamp 4
+	3
+juror
+	irate
+	curry 61
+	juror 2
+	3
+purer
+	irate
+	loser 92
+	defer 17
+	buyer 5
+	purer 1
+	5
+cigar
+	irate
+	radii 17
+	vicar 4
+	cigar 1
+	4
+quest
+	irate
+	sleet 54
+	quest 3
+	3
+strap
+	irate
+	carat 11
+	strap 3
+	3
+vegan
+	irate
+	angel 55
+	vegan 2
+	3
+laden
+	irate
+	angel 55
+	laden 1
+	3
+paint
+	irate
+	taint 17
+	faint 3
+	paint 2
+	4
+mouse
+	irate
+	louse 80
+	house 2
+	mouse 1
+	4
+parry
+	irate
+	moral 60
+	harpy 7
+	parry 1
+	4
+chair
+	irate
+	chair 3
+	2
+llama
+	irate
+	slack 64
+	gland 4
+	llama 2
+	4
+exalt
+	irate
+	leant 12
+	exalt 1
+	3
+boast
+	irate
+	slant 21
+	toast 3
+	boast 2
+	4
+rebut
+	irate
+	meter 28
+	rebut 2
+	3
+fella
+	irate
+	angel 55
+	plead 4
+	fella 1
+	4
+wound
+	irate
+	scold 194
+	bound 6
+	wound 5
+	4
+noose
+	irate
+	louse 80
+	moose 5
+	goose 2
+	noose 1
+	5
+angry
+	irate
+	moral 60
+	randy 5
+	angry 1
+	4
+chock
+	irate
+	scold 194
+	knock 3
+	chock 1
+	4
+nomad
+	irate
+	canal 118
+	woman 3
+	nomad 1
+	4
+swarm
+	irate
+	shard 20
+	scarf 5
+	swarm 3
+	4
+point
+	irate
+	hoist 64
+	point 2
+	3
+wheel
+	irate
+	kneel 106
+	wheel 1
+	3
+idiot
+	irate
+	idiot 4
+	2
+alibi
+	irate
+	anvil 41
+	alibi 1
+	3
+pixie
+	irate
+	slice 53
+	midge 9
+	pixie 2
+	4
+smirk
+	irate
+	curio 23
+	shirk 5
+	smirk 1
+	4
+fleet
+	irate
+	sleet 54
+	fleet 1
+	3
+frock
+	irate
+	crowd 39
+	frock 1
+	3
+pizza
+	irate
+	anvil 41
+	pizza 3
+	3
+penal
+	irate
+	angel 55
+	penal 1
+	3
+rouge
+	irate
+	scree 38
+	rouge 4
+	3
+rebel
+	irate
+	loser 92
+	repel 3
+	rebel 2
+	4
+known
+	irate
+	scold 194
+	boozy 7
+	known 1
+	4
+mange
+	irate
+	angle 42
+	mange 1
+	3
+missy
+	irate
+	slimy 130
+	missy 1
+	3
+cargo
+	irate
+	moral 60
+	cargo 3
+	3
+sepia
+	irate
+	media 3
+	sepia 1
+	3
+umbra
+	irate
+	moral 60
+	umbra 2
+	3
+refer
+	irate
+	loser 92
+	defer 17
+	refer 1
+	4
+while
+	irate
+	slice 53
+	exile 3
+	while 2
+	4
+colon
+	irate
+	scold 194
+	colon 1
+	3
+squat
+	irate
+	total 55
+	squat 1
+	3
+quoth
+	irate
+	sooty 24
+	cloth 2
+	quoth 1
+	4
+stung
+	irate
+	shunt 47
+	stunk 2
+	stung 1
+	4
+pithy
+	irate
+	hoist 64
+	ditch 4
+	pithy 1
+	4
+seedy
+	irate
+	kneel 106
+	weedy 4
+	seedy 1
+	4
+evict
+	irate
+	edict 14
+	evict 1
+	3
+guess
+	irate
+	kneel 106
+	guess 3
+	3
+myrrh
+	irate
+	curry 61
+	myrrh 1
+	3
+munch
+	irate
+	scold 194
+	chump 8
+	munch 1
+	4
+hinge
+	irate
+	slice 53
+	midge 9
+	hinge 2
+	4
+navel
+	irate
+	angel 55
+	navel 2
+	3
+quark
+	irate
+	shard 20
+	ovary 3
+	quark 2
+	4
+daunt
+	irate
+	total 55
+	gamut 9
+	haunt 4
+	vaunt 3
+	jaunt 2
+	daunt 1
+	7
+conic
+	irate
+	slimy 130
+	pinch 17
+	conic 1
+	4
+femme
+	irate
+	louse 80
+	fence 8
+	femme 1
+	4
+heron
+	irate
+	loser 92
+	heron 1
+	3
+mound
+	irate
+	scold 194
+	bound 6
+	wound 5
+	mound 4
+	5
+eying
+	irate
+	widen 38
+	eking 5
+	eying 1
+	4
+evoke
+	irate
+	louse 80
+	phone 5
+	evoke 1
+	4
+crony
+	irate
+	crowd 39
+	crock 5
+	croup 3
+	cross 2
+	crony 1
+	6
+drain
+	irate
+	drain 6
+	2
+pudgy
+	irate
+	scold 194
+	dumpy 5
+	pudgy 1
+	4
+filet
+	irate
+	edict 14
+	filet 2
+	3
+stead
+	irate
+	cleat 25
+	tweak 4
+	stead 2
+	4
+lipid
+	irate
+	slimy 130
+	logic 10
+	lipid 2
+	4
+bongo
+	irate
+	scold 194
+	bough 10
+	bongo 1
+	4
+dunce
+	irate
+	louse 80
+	judge 9
+	dunce 1
+	4
+ahead
+	irate
+	angel 55
+	ahead 1
+	3
+flack
+	irate
+	slack 64
+	flack 3
+	3
+midge
+	irate
+	slice 53
+	midge 9
+	3
+shush
+	irate
+	scold 194
+	spunk 6
+	shush 1
+	4
+butch
+	irate
+	shunt 47
+	hutch 3
+	butch 2
+	4
+trice
+	irate
+	tribe 3
+	trice 2
+	3
+scram
+	irate
+	moral 60
+	scram 1
+	3
+feign
+	irate
+	widen 38
+	begin 3
+	feign 1
+	4
+stern
+	irate
+	meter 28
+	overt 3
+	stern 1
+	4
+mucky
+	irate
+	scold 194
+	chump 8
+	mucky 1
+	4
+welch
+	irate
+	kneel 106
+	welch 10
+	3
+creak
+	irate
+	bread 9
+	freak 4
+	creak 2
+	4
+cease
+	irate
+	slave 40
+	chase 5
+	cease 1
+	4
+alpha
+	irate
+	canal 118
+	salsa 2
+	alpha 1
+	4
+chalk
+	irate
+	slack 64
+	chalk 1
+	3
+saint
+	irate
+	taint 17
+	faint 3
+	paint 2
+	saint 1
+	5
+clerk
+	irate
+	loser 92
+	reply 2
+	clerk 1
+	4
+shift
+	irate
+	hoist 64
+	shift 1
+	3
+usual
+	irate
+	canal 118
+	loyal 6
+	usual 2
+	4
+spurt
+	irate
+	burst 27
+	spurt 1
+	3
+realm
+	irate
+	ready 10
+	realm 3
+	3
+adobe
+	irate
+	angle 42
+	above 6
+	adobe 1
+	4
+alive
+	irate
+	alive 10
+	2
+stain
+	irate
+	plait 5
+	stain 2
+	3
+moist
+	irate
+	hoist 64
+	moist 3
+	3
+gouge
+	irate
+	louse 80
+	coupe 2
+	gouge 1
+	4
+wooly
+	irate
+	scold 194
+	wooly 2
+	3
+expel
+	irate
+	kneel 106
+	bevel 6
+	excel 2
+	expel 1
+	5
+bloom
+	irate
+	scold 194
+	bloom 6
+	3
+curve
+	irate
+	scree 38
+	curve 2
+	3
+glare
+	irate
+	snare 8
+	flare 4
+	glare 2
+	4
+augur
+	irate
+	moral 60
+	randy 5
+	augur 1
+	4
+stony
+	irate
+	shunt 47
+	stony 1
+	3
+waver
+	irate
+	paler 45
+	wager 13
+	waver 2
+	4
+array
+	irate
+	arbor 12
+	array 1
+	3
+fetid
+	irate
+	edict 14
+	tepid 2
+	fetid 1
+	4
+horse
+	irate
+	scree 38
+	horse 4
+	3
+tawny
+	irate
+	total 55
+	tawny 5
+	3
+sigma
+	irate
+	anvil 41
+	pizza 3
+	sigma 1
+	4
+since
+	irate
+	slice 53
+	since 1
+	3
+dwelt
+	irate
+	sleet 54
+	dwelt 2
+	3
+showy
+	irate
+	scold 194
+	spoon 11
+	smoky 2
+	showy 1
+	5
+ebony
+	irate
+	kneel 106
+	bench 7
+	ebony 1
+	4
+lower
+	irate
+	loser 92
+	lower 2
+	3
+timid
+	irate
+	hoist 64
+	until 4
+	timid 1
+	4
+rogue
+	irate
+	scree 38
+	rouge 4
+	rogue 1
+	4
+video
+	irate
+	widen 38
+	video 1
+	3
+fresh
+	irate
+	creed 20
+	press 2
+	fresh 1
+	4
+weary
+	irate
+	ready 10
+	weary 1
+	3
+asset
+	irate
+	cleat 25
+	asset 1
+	3
+eclat
+	irate
+	cleat 25
+	eclat 1
+	3
+apart
+	irate
+	stark 7
+	apart 3
+	3
+elite
+	irate
+	suite 7
+	elite 2
+	3
+input
+	irate
+	idiot 4
+	input 1
+	3
+girth
+	irate
+	mirth 4
+	girth 2
+	3
+essay
+	irate
+	angel 55
+	decay 6
+	essay 1
+	4
+facet
+	irate
+	cleat 25
+	facet 1
+	3
+louse
+	irate
+	louse 80
+	2
+alien
+	irate
+	media 3
+	alien 1
+	3
+condo
+	irate
+	scold 194
+	condo 1
+	3
+dandy
+	irate
+	canal 118
+	sandy 9
+	dandy 2
+	4
+gleam
+	irate
+	angel 55
+	gleam 1
+	3
+prime
+	irate
+	pride 12
+	prime 3
+	3
+fetus
+	irate
+	sleet 54
+	fetus 2
+	3
+dryly
+	irate
+	crowd 39
+	drunk 2
+	dryly 1
+	4
+sieve
+	irate
+	slice 53
+	sieve 3
+	3
+metro
+	irate
+	meter 28
+	metro 1
+	3
+snaky
+	irate
+	slack 64
+	snaky 2
+	3
+homer
+	irate
+	loser 92
+	rower 17
+	hover 9
+	homer 1
+	5
+droll
+	irate
+	crowd 39
+	drool 4
+	droll 1
+	4
+idiom
+	irate
+	icily 8
+	idiom 1
+	3
+sorry
+	irate
+	curry 61
+	worry 3
+	sorry 2
+	4
+pupil
+	irate
+	slimy 130
+	logic 10
+	pupil 1
+	4
+chunk
+	irate
+	scold 194
+	chump 8
+	chuck 2
+	chunk 1
+	5
+basil
+	irate
+	anvil 41
+	basil 1
+	3
+slant
+	irate
+	slant 21
+	2
+envoy
+	irate
+	kneel 106
+	enjoy 3
+	envoy 1
+	4
+penny
+	irate
+	kneel 106
+	bench 7
+	venom 2
+	penny 1
+	5
+spout
+	irate
+	shunt 47
+	stout 3
+	spout 2
+	4
+voter
+	irate
+	meter 28
+	outer 4
+	voter 1
+	4
+rigor
+	irate
+	curio 23
+	vigor 4
+	rigor 1
+	4
+lover
+	irate
+	loser 92
+	lower 2
+	lover 1
+	4
+agent
+	irate
+	cleat 25
+	agent 2
+	3
+began
+	irate
+	angel 55
+	vegan 2
+	began 1
+	4
+usher
+	irate
+	loser 92
+	sewer 7
+	usher 1
+	4
+exist
+	irate
+	edict 14
+	exist 1
+	3
+roach
+	irate
+	shard 20
+	roach 1
+	3
+fugue
+	irate
+	louse 80
+	judge 9
+	fugue 1
+	4
+trade
+	irate
+	trace 2
+	trade 1
+	3
+amuse
+	irate
+	angle 42
+	above 6
+	amuse 1
+	4
+scaly
+	irate
+	slack 64
+	scaly 3
+	3
+flair
+	irate
+	chair 3
+	flair 1
+	3
+troll
+	irate
+	crust 17
+	troll 2
+	3
+azure
+	irate
+	barge 9
+	adore 2
+	azure 1
+	4
+gusty
+	irate
+	sooty 24
+	gusty 4
+	3
+adapt
+	irate
+	slant 21
+	adapt 1
+	3
+lodge
+	irate
+	louse 80
+	lodge 1
+	3
+ratty
+	irate
+	party 4
+	ratty 1
+	3
+worse
+	irate
+	scree 38
+	horse 4
+	worse 1
+	4
+fancy
+	irate
+	canal 118
+	fancy 1
+	3
+latte
+	irate
+	taste 10
+	latte 1
+	3
+wryly
+	irate
+	crowd 39
+	wrung 2
+	wryly 1
+	4
+saner
+	irate
+	paler 45
+	wager 13
+	maker 6
+	saner 4
+	5
+glint
+	irate
+	hoist 64
+	guilt 6
+	glint 1
+	4
+climb
+	irate
+	slimy 130
+	climb 2
+	3
+smell
+	irate
+	kneel 106
+	swell 6
+	spell 3
+	smell 2
+	5
+fling
+	irate
+	slimy 130
+	flick 8
+	fling 1
+	4
+credo
+	irate
+	creed 20
+	credo 1
+	3
+cleat
+	irate
+	cleat 25
+	2
+owner
+	irate
+	loser 92
+	offer 3
+	owner 2
+	4
+whoop
+	irate
+	scold 194
+	boozy 7
+	whoop 1
+	4
+below
+	irate
+	kneel 106
+	welch 10
+	below 1
+	4
+trump
+	irate
+	crust 17
+	trunk 3
+	truly 2
+	trump 1
+	5
+email
+	irate
+	email 1
+	2
+olive
+	irate
+	slice 53
+	glide 3
+	olive 1
+	4
+shady
+	irate
+	slack 64
+	swamp 7
+	shady 1
+	4
+valve
+	irate
+	angle 42
+	valve 6
+	3
+trick
+	irate
+	droit 7
+	trick 1
+	3
+audio
+	irate
+	anvil 41
+	audio 3
+	3
+sweet
+	irate
+	sleet 54
+	sheet 2
+	sweet 1
+	4
+steal
+	irate
+	cleat 25
+	steal 1
+	3
+swamp
+	irate
+	slack 64
+	swamp 7
+	3
+flute
+	irate
+	butte 5
+	flute 2
+	3
+hovel
+	irate
+	kneel 106
+	dowel 5
+	hovel 1
+	4
+pulpy
+	irate
+	scold 194
+	flunk 12
+	lumpy 2
+	pulpy 1
+	5
+winch
+	irate
+	slimy 130
+	pinch 17
+	cinch 3
+	winch 2
+	5
+heart
+	irate
+	react 3
+	heart 1
+	3
+steel
+	irate
+	sleet 54
+	steel 1
+	3
+taboo
+	irate
+	total 55
+	taboo 2
+	3
+groom
+	irate
+	crowd 39
+	groom 8
+	3
+mount
+	irate
+	shunt 47
+	mount 3
+	3
+grimy
+	irate
+	prick 25
+	grind 8
+	grimy 2
+	4
+quasi
+	irate
+	snail 14
+	quasi 1
+	3
+forty
+	irate
+	forth 5
+	forty 1
+	3
+thyme
+	irate
+	tense 13
+	tulle 2
+	thyme 1
+	4
+storm
+	irate
+	burst 27
+	story 3
+	storm 2
+	4
+impel
+	irate
+	index 2
+	impel 1
+	3
+straw
+	irate
+	satyr 11
+	strap 2
+	straw 1
+	4
+minty
+	irate
+	witty 17
+	fifty 3
+	minty 2
+	4
+never
+	irate
+	loser 92
+	defer 17
+	newer 2
+	never 1
+	5
+saute
+	irate
+	taste 10
+	saute 1
+	3
+grain
+	irate
+	drain 6
+	grain 2
+	3
+flunk
+	irate
+	scold 194
+	flunk 12
+	3
+grave
+	irate
+	grace 15
+	grade 4
+	grape 3
+	grave 2
+	5
+gazer
+	irate
+	paler 45
+	wager 13
+	gamer 3
+	gazer 2
+	5
+brush
+	irate
+	crowd 39
+	brush 2
+	3
+glove
+	irate
+	louse 80
+	clove 7
+	glove 1
+	4
+knack
+	irate
+	slack 64
+	quack 4
+	knack 3
+	4
+curvy
+	irate
+	curry 61
+	curly 2
+	curvy 1
+	4
+crime
+	irate
+	pride 12
+	brine 5
+	grime 2
+	crime 1
+	5
+paler
+	irate
+	paler 45
+	2
+bagel
+	irate
+	angel 55
+	bagel 1
+	3
+endow
+	irate
+	kneel 106
+	enjoy 3
+	endow 1
+	4
+dingo
+	irate
+	slimy 130
+	pinch 17
+	dingo 2
+	4
+aloof
+	irate
+	canal 118
+	aloud 10
+	aloof 1
+	4
+dusky
+	irate
+	scold 194
+	dusky 1
+	3
+oddly
+	irate
+	scold 194
+	oddly 3
+	3
+tight
+	irate
+	hoist 64
+	wight 6
+	night 5
+	tight 4
+	5
+drown
+	irate
+	crowd 39
+	drown 1
+	3
+harem
+	irate
+	paler 45
+	harem 3
+	3
+every
+	irate
+	loser 92
+	decry 14
+	query 2
+	every 1
+	5
+bunch
+	irate
+	scold 194
+	chump 8
+	bunch 2
+	4
+shook
+	irate
+	scold 194
+	spoon 11
+	shook 1
+	4
+zesty
+	irate
+	testy 11
+	zesty 1
+	3
+focal
+	irate
+	canal 118
+	focal 3
+	3
+moult
+	irate
+	shunt 47
+	moult 2
+	3
+juice
+	irate
+	slice 53
+	voice 2
+	juice 1
+	4
+deuce
+	irate
+	louse 80
+	deuce 1
+	3
+tutor
+	irate
+	burst 27
+	tutor 2
+	3
+leggy
+	irate
+	kneel 106
+	welch 10
+	leggy 1
+	4
+shrew
+	irate
+	loser 92
+	shrew 2
+	3
+junto
+	irate
+	sooty 24
+	junto 1
+	3
+tumor
+	irate
+	burst 27
+	tutor 2
+	tumor 1
+	4
+ditto
+	irate
+	witty 17
+	ditto 1
+	3
+gumbo
+	irate
+	scold 194
+	bough 10
+	gumbo 1
+	4
+quote
+	irate
+	butte 5
+	quote 1
+	3
+brash
+	irate
+	brand 27
+	brash 4
+	3
+qualm
+	irate
+	slack 64
+	qualm 2
+	3
+aglow
+	irate
+	canal 118
+	aloud 10
+	aglow 1
+	4
+lefty
+	irate
+	testy 11
+	lefty 2
+	3
+segue
+	irate
+	louse 80
+	ensue 2
+	segue 1
+	4
+stare
+	irate
+	stare 1
+	2
+gayly
+	irate
+	canal 118
+	sadly 11
+	gayly 1
+	4
+torso
+	irate
+	burst 27
+	torso 1
+	3
+onion
+	irate
+	slimy 130
+	owing 9
+	onion 1
+	4
+magic
+	irate
+	anvil 41
+	basic 5
+	magic 1
+	4
+spoon
+	irate
+	scold 194
+	spoon 11
+	3
+rabbi
+	irate
+	radii 17
+	rabbi 1
+	3
+crawl
+	irate
+	brand 27
+	grasp 11
+	wrack 4
+	crawl 1
+	5
+axion
+	irate
+	anvil 41
+	aging 3
+	axion 1
+	4
+bravo
+	irate
+	brand 27
+	brash 4
+	bravo 2
+	4
+lymph
+	irate
+	scold 194
+	flunk 12
+	lymph 1
+	4
+manor
+	irate
+	moral 60
+	manor 4
+	3
+scary
+	irate
+	shard 20
+	scarf 5
+	scary 1
+	4
+hoist
+	irate
+	hoist 64
+	2
+yield
+	irate
+	widen 38
+	yield 2
+	3
+ethic
+	irate
+	edict 14
+	ethic 1
+	3
+roost
+	irate
+	burst 27
+	roost 1
+	3
+opium
+	irate
+	slimy 130
+	opium 1
+	3
+maple
+	irate
+	angle 42
+	fable 4
+	maple 2
+	4
+joist
+	irate
+	hoist 64
+	moist 3
+	joist 2
+	4
+adult
+	irate
+	total 55
+	fault 3
+	adult 1
+	4
+drove
+	irate
+	prone 17
+	drove 5
+	3
+magma
+	irate
+	canal 118
+	gamma 4
+	magma 1
+	4
+utile
+	irate
+	title 9
+	utile 1
+	3
+shark
+	irate
+	shard 20
+	sharp 2
+	shark 1
+	4
+joint
+	irate
+	hoist 64
+	point 2
+	joint 1
+	4
+itchy
+	irate
+	idiot 4
+	itchy 1
+	3
+elude
+	irate
+	louse 80
+	flume 4
+	elude 1
+	4
+masse
+	irate
+	angle 42
+	sauce 8
+	masse 1
+	4
+radio
+	irate
+	radii 17
+	radio 1
+	3
+badge
+	irate
+	angle 42
+	gauze 4
+	badge 1
+	4
+tough
+	irate
+	shunt 47
+	tough 2
+	3
+derby
+	irate
+	loser 92
+	decry 14
+	derby 1
+	4
+covet
+	irate
+	sleet 54
+	comet 5
+	covet 1
+	4
+third
+	irate
+	shirt 8
+	third 1
+	3
+atoll
+	irate
+	total 55
+	atoll 1
+	3
+godly
+	irate
+	scold 194
+	oddly 3
+	godly 1
+	4
+drink
+	irate
+	prick 25
+	brisk 4
+	drink 1
+	4
+quota
+	irate
+	pasty 15
+	junta 2
+	quota 1
+	4
+doing
+	irate
+	slimy 130
+	owing 9
+	going 2
+	doing 1
+	5
+break
+	irate
+	bread 9
+	break 1
+	3
+aside
+	irate
+	alive 10
+	aside 3
+	3
+comma
+	irate
+	canal 118
+	comma 2
+	3
+speed
+	irate
+	kneel 106
+	sheep 3
+	speed 1
+	4
+dirty
+	irate
+	mirth 4
+	dirty 1
+	3
+abode
+	irate
+	angle 42
+	above 6
+	abode 1
+	4
+skimp
+	irate
+	slimy 130
+	skimp 1
+	3
+bobby
+	irate
+	scold 194
+	bough 10
+	bobby 1
+	4
+adorn
+	irate
+	moral 60
+	favor 9
+	acorn 3
+	adorn 1
+	5
+anime
+	irate
+	alive 10
+	aside 3
+	anime 1
+	4
+stick
+	irate
+	hoist 64
+	stink 5
+	stick 1
+	4
+hover
+	irate
+	loser 92
+	rower 17
+	hover 9
+	4
+decor
+	irate
+	loser 92
+	decor 1
+	3
+ninny
+	irate
+	slimy 130
+	dingy 13
+	pinky 3
+	ninny 1
+	5
+abbot
+	irate
+	total 55
+	about 5
+	abbot 1
+	4
+giant
+	irate
+	plait 5
+	giant 1
+	3
+smote
+	irate
+	butte 5
+	smote 1
+	3
+canny
+	irate
+	canal 118
+	canny 3
+	3
+graze
+	irate
+	grace 15
+	grade 4
+	grape 3
+	grave 2
+	graze 1
+	6
+poesy
+	irate
+	kneel 106
+	guess 3
+	poesy 1
+	4
+spite
+	irate
+	suite 7
+	spite 2
+	3
+stash
+	irate
+	slant 21
+	stamp 4
+	stash 3
+	4
+screw
+	irate
+	loser 92
+	shrew 2
+	screw 1
+	4
+vital
+	irate
+	taint 17
+	attic 2
+	vital 1
+	4
+small
+	irate
+	slack 64
+	shawl 3
+	small 1
+	4
+wager
+	irate
+	paler 45
+	wager 13
+	3
+stack
+	irate
+	slant 21
+	stamp 4
+	stash 3
+	stack 2
+	5
+blink
+	irate
+	slimy 130
+	flick 8
+	blink 1
+	4
+gripe
+	irate
+	pride 12
+	gripe 1
+	3
+stale
+	irate
+	stave 5
+	stake 3
+	stale 2
+	4
+spice
+	irate
+	slice 53
+	spice 1
+	3
+beech
+	irate
+	kneel 106
+	weedy 4
+	beech 1
+	4
+curse
+	irate
+	scree 38
+	curse 1
+	3
+field
+	irate
+	widen 38
+	yield 2
+	field 1
+	4
+tonga
+	irate
+	total 55
+	tonga 1
+	3
+sloop
+	irate
+	scold 194
+	slosh 3
+	sloop 1
+	4
+posit
+	irate
+	hoist 64
+	posit 1
+	3
+dress
+	irate
+	creed 20
+	dress 1
+	3
+begat
+	irate
+	cleat 25
+	begat 1
+	3
+robot
+	irate
+	burst 27
+	robot 1
+	3
+loath
+	irate
+	loath 2
+	2
+tacky
+	irate
+	total 55
+	tawny 5
+	tabby 3
+	taffy 2
+	tacky 1
+	6
+morph
+	irate
+	curry 61
+	moron 4
+	morph 1
+	4
+cocoa
+	irate
+	canal 118
+	comma 2
+	cocoa 1
+	4
+china
+	irate
+	anvil 41
+	ninja 2
+	china 1
+	4
+wreak
+	irate
+	bread 9
+	freak 4
+	creak 2
+	wreak 1
+	5
+mafia
+	irate
+	anvil 41
+	basic 5
+	maxim 2
+	mafia 1
+	5
+hater
+	irate
+	alter 14
+	eater 4
+	hater 3
+	4
+fiber
+	irate
+	risen 34
+	diver 10
+	fixer 4
+	fiber 2
+	5
+musty
+	irate
+	sooty 24
+	gusty 4
+	musty 3
+	4
+trope
+	irate
+	trope 3
+	2
+rural
+	irate
+	moral 60
+	rural 1
+	3
+bride
+	irate
+	pride 12
+	bride 1
+	3
+class
+	irate
+	slack 64
+	class 3
+	3
+crone
+	irate
+	prone 17
+	drone 2
+	crone 1
+	4
+gamut
+	irate
+	total 55
+	gamut 9
+	3
+salvo
+	irate
+	canal 118
+	sadly 11
+	salvo 1
+	4
+might
+	irate
+	hoist 64
+	wight 6
+	night 5
+	tight 4
+	might 3
+	6
+hurry
+	irate
+	curry 61
+	furry 2
+	hurry 1
+	4
+yearn
+	irate
+	ready 10
+	yearn 1
+	3
+float
+	irate
+	total 55
+	gloat 3
+	bloat 2
+	float 1
+	5
+swami
+	irate
+	snail 14
+	swami 1
+	3
+swath
+	irate
+	loath 2
+	swath 1
+	3
+gloss
+	irate
+	scold 194
+	gloss 2
+	3
+prawn
+	irate
+	brand 27
+	prawn 1
+	3
+birch
+	irate
+	curio 23
+	birch 1
+	3
+clone
+	irate
+	louse 80
+	clove 7
+	clone 1
+	4
+teary
+	irate
+	react 3
+	teary 1
+	3
+money
+	irate
+	kneel 106
+	hymen 9
+	money 1
+	4
+solar
+	irate
+	moral 60
+	solar 2
+	3
+burly
+	irate
+	curry 61
+	burly 3
+	3
+manga
+	irate
+	canal 118
+	manga 1
+	3
+saucy
+	irate
+	canal 118
+	macho 4
+	saucy 1
+	4
+spare
+	irate
+	snare 8
+	share 3
+	scare 2
+	spare 1
+	5
+salty
+	irate
+	pasty 15
+	salty 1
+	3
+spore
+	irate
+	scree 38
+	swore 4
+	shore 3
+	spore 2
+	5
+beset
+	irate
+	sleet 54
+	beset 1
+	3
+unzip
+	irate
+	slimy 130
+	pinch 17
+	unzip 1
+	4
+awake
+	irate
+	slave 40
+	agape 7
+	amaze 2
+	awake 1
+	5
+canon
+	irate
+	canal 118
+	canny 3
+	canon 1
+	4
+duvet
+	irate
+	sleet 54
+	comet 5
+	duvet 1
+	4
+truck
+	irate
+	crust 17
+	truck 1
+	3
+scrap
+	irate
+	moral 60
+	spray 2
+	scrap 1
+	4
+after
+	irate
+	alter 14
+	after 1
+	3
+nurse
+	irate
+	scree 38
+	horse 4
+	nurse 2
+	4
+irony
+	irate
+	irony 1
+	2
+ghoul
+	irate
+	scold 194
+	bloom 6
+	ghoul 1
+	4
+ideal
+	irate
+	ideal 1
+	2
+amiss
+	irate
+	anvil 41
+	amiss 2
+	3
+hyper
+	irate
+	loser 92
+	defer 17
+	buyer 5
+	hyper 1
+	5
+wrist
+	irate
+	droit 7
+	print 2
+	wrist 1
+	4
+grace
+	irate
+	grace 15
+	2
+tangy
+	irate
+	total 55
+	tawny 5
+	tangy 1
+	4
+undue
+	irate
+	louse 80
+	judge 9
+	undue 1
+	4
+sober
+	irate
+	loser 92
+	sober 2
+	3
+creme
+	irate
+	prone 17
+	crude 2
+	creme 1
+	4
+matey
+	irate
+	cleat 25
+	eaten 3
+	matey 1
+	4
+grate
+	irate
+	grate 2
+	2
+belly
+	irate
+	kneel 106
+	welch 10
+	belly 2
+	4
+rhino
+	irate
+	curio 23
+	rhino 1
+	3
+tango
+	irate
+	total 55
+	taboo 2
+	tango 1
+	4
+champ
+	irate
+	slack 64
+	chaff 2
+	champ 1
+	4
+tulip
+	irate
+	hoist 64
+	until 4
+	tulip 1
+	4
+regal
+	irate
+	paler 45
+	regal 3
+	3
+husky
+	irate
+	scold 194
+	mushy 9
+	hussy 2
+	husky 1
+	5
+spike
+	irate
+	slice 53
+	snipe 7
+	spike 1
+	4
+gully
+	irate
+	scold 194
+	bully 3
+	gully 2
+	4
+wider
+	irate
+	risen 34
+	diver 10
+	wider 2
+	4
+sweat
+	irate
+	cleat 25
+	sweat 2
+	3
+gnome
+	irate
+	louse 80
+	phone 5
+	gnome 1
+	4
+aunty
+	irate
+	patty 15
+	aunty 1
+	3
+bowel
+	irate
+	kneel 106
+	dowel 5
+	bowel 2
+	4
+plump
+	irate
+	scold 194
+	flunk 12
+	plump 2
+	4
+baler
+	irate
+	paler 45
+	baler 1
+	3
+could
+	irate
+	scold 194
+	could 1
+	3
+spiny
+	irate
+	slimy 130
+	spicy 4
+	spiky 2
+	spiny 1
+	5
+chief
+	irate
+	widen 38
+	chief 2
+	3
+agile
+	irate
+	alive 10
+	agile 1
+	3
+abyss
+	irate
+	canal 118
+	dogma 3
+	abyss 1
+	4
+tonal
+	irate
+	total 55
+	tonal 1
+	3
+tacit
+	irate
+	taint 17
+	tacit 1
+	3
+penne
+	irate
+	louse 80
+	fence 8
+	penne 1
+	4
+carat
+	irate
+	carat 11
+	2
+tenet
+	irate
+	sleet 54
+	tenet 2
+	3
+binge
+	irate
+	slice 53
+	midge 9
+	hinge 2
+	binge 1
+	5
+cadet
+	irate
+	cleat 25
+	cadet 1
+	3
+depot
+	irate
+	sleet 54
+	debut 2
+	depot 1
+	4
+kinky
+	irate
+	slimy 130
+	dingy 13
+	pinky 3
+	kinky 1
+	5
+price
+	irate
+	pride 12
+	prime 3
+	price 2
+	4
+visor
+	irate
+	curio 23
+	vigor 4
+	visor 1
+	4
+revel
+	irate
+	loser 92
+	repel 3
+	rebel 2
+	revel 1
+	5
+howdy
+	irate
+	scold 194
+	dowdy 5
+	howdy 1
+	4
+crazy
+	irate
+	brand 27
+	grasp 11
+	wrack 4
+	crazy 1
+	5
+havoc
+	irate
+	canal 118
+	macho 4
+	havoc 1
+	4
+aisle
+	irate
+	alive 10
+	aisle 1
+	3
+gruel
+	irate
+	creed 20
+	gruel 1
+	3
+chill
+	irate
+	slimy 130
+	build 6
+	chill 2
+	4
+loopy
+	irate
+	scold 194
+	bloom 6
+	loopy 1
+	4
+aloud
+	irate
+	canal 118
+	aloud 10
+	3
+empty
+	irate
+	testy 11
+	empty 1
+	3
+utter
+	irate
+	meter 28
+	outer 4
+	utter 1
+	4
+fiery
+	irate
+	risen 34
+	fiery 1
+	3
+prone
+	irate
+	prone 17
+	2
+pupal
+	irate
+	canal 118
+	loyal 6
+	usual 2
+	pupal 1
+	5
+suing
+	irate
+	slimy 130
+	swing 6
+	suing 1
+	4
+savoy
+	irate
+	canal 118
+	gassy 16
+	savoy 3
+	4
+skunk
+	irate
+	scold 194
+	spunk 6
+	skunk 1
+	4
+dodgy
+	irate
+	scold 194
+	dowdy 5
+	dodgy 1
+	4
+sumac
+	irate
+	canal 118
+	sumac 1
+	3
+metal
+	irate
+	cleat 25
+	fetal 3
+	metal 2
+	4
+brief
+	irate
+	drier 8
+	brief 2
+	3
+ferry
+	irate
+	loser 92
+	decry 14
+	merry 3
+	ferry 2
+	5
+larva
+	irate
+	moral 60
+	larva 1
+	3
+wharf
+	irate
+	shard 20
+	charm 2
+	wharf 1
+	4
+woven
+	irate
+	kneel 106
+	hymen 9
+	woven 3
+	4
+wafer
+	irate
+	paler 45
+	wager 13
+	waver 2
+	wafer 1
+	5
+semen
+	irate
+	kneel 106
+	semen 2
+	3
+triad
+	irate
+	triad 2
+	2
+error
+	irate
+	creed 20
+	error 1
+	3
+flown
+	irate
+	scold 194
+	bloom 6
+	flown 1
+	4
+phase
+	irate
+	slave 40
+	chase 5
+	phase 1
+	4
+peace
+	irate
+	slave 40
+	agape 7
+	peace 1
+	4
+lunch
+	irate
+	scold 194
+	mulch 9
+	lunch 1
+	4
+felon
+	irate
+	kneel 106
+	melon 4
+	felon 1
+	4
+niche
+	irate
+	slice 53
+	niche 1
+	3
+depth
+	irate
+	testy 11
+	depth 1
+	3
+shout
+	irate
+	shunt 47
+	shout 1
+	3
+gaffe
+	irate
+	angle 42
+	gauze 4
+	gaffe 1
+	4
+farce
+	irate
+	barge 9
+	farce 3
+	3
+silly
+	irate
+	slimy 130
+	silly 2
+	3
+witty
+	irate
+	witty 17
+	2
+boozy
+	irate
+	scold 194
+	boozy 7
+	3
+sauce
+	irate
+	angle 42
+	sauce 8
+	3
+pooch
+	irate
+	scold 194
+	chock 3
+	pooch 1
+	4
+style
+	irate
+	tense 13
+	stoke 4
+	style 1
+	4
+blunt
+	irate
+	shunt 47
+	mount 3
+	blunt 1
+	4
+glade
+	irate
+	slave 40
+	blame 9
+	glaze 5
+	glade 1
+	5
+furor
+	irate
+	curry 61
+	juror 2
+	furor 1
+	4
+rotor
+	irate
+	burst 27
+	rotor 3
+	3
+jewel
+	irate
+	kneel 106
+	bevel 6
+	jewel 1
+	4
+dodge
+	irate
+	louse 80
+	booze 2
+	dodge 1
+	4
+ghost
+	irate
+	shunt 47
+	ghost 1
+	3
+robin
+	irate
+	curio 23
+	robin 1
+	3
+nanny
+	irate
+	canal 118
+	sandy 9
+	fanny 3
+	nanny 1
+	5
+lance
+	irate
+	angle 42
+	lance 1
+	3
+ledge
+	irate
+	louse 80
+	ledge 1
+	3
+agony
+	irate
+	canal 118
+	agony 2
+	3
+pinto
+	irate
+	witty 17
+	fifth 5
+	pinto 1
+	4
+dealt
+	irate
+	leant 12
+	dealt 1
+	3
+ingot
+	irate
+	idiot 4
+	ingot 1
+	3
+owing
+	irate
+	slimy 130
+	owing 9
+	3
+cliff
+	irate
+	slimy 130
+	flick 8
+	cliff 1
+	4
+boxer
+	irate
+	loser 92
+	rower 17
+	hover 9
+	poker 5
+	goner 3
+	boxer 2
+	7
+cabby
+	irate
+	canal 118
+	cabby 2
+	3
+abuse
+	irate
+	angle 42
+	above 6
+	abuse 1
+	4
+lunge
+	irate
+	louse 80
+	lunge 1
+	3
+goody
+	irate
+	scold 194
+	moody 3
+	goody 2
+	4
+staff
+	irate
+	slant 21
+	stamp 4
+	stash 3
+	stack 2
+	staff 1
+	6
+primo
+	irate
+	prick 25
+	primo 4
+	3
+aloft
+	irate
+	total 55
+	aloft 2
+	3
+ovate
+	irate
+	slate 8
+	abate 3
+	ovate 1
+	4
+stuck
+	irate
+	shunt 47
+	stump 4
+	stuff 3
+	study 2
+	stuck 1
+	6
+drift
+	irate
+	droit 7
+	drift 1
+	3
+fully
+	irate
+	scold 194
+	bully 3
+	gully 2
+	fully 1
+	5
+cloak
+	irate
+	canal 118
+	cloak 1
+	3
+apnea
+	irate
+	angel 55
+	apnea 2
+	3
+foggy
+	irate
+	scold 194
+	bongo 10
+	foggy 1
+	4
+ionic
+	irate
+	icily 8
+	ionic 1
+	3
+piggy
+	irate
+	slimy 130
+	dingy 13
+	piggy 1
+	4
+frill
+	irate
+	prick 25
+	grind 8
+	frill 1
+	4
+shire
+	irate
+	rinse 8
+	shire 2
+	3
+ruddy
+	irate
+	curry 61
+	ruddy 2
+	3
+mercy
+	irate
+	loser 92
+	decry 14
+	mercy 1
+	4
+dairy
+	irate
+	radii 17
+	dairy 1
+	3
+tiara
+	irate
+	tiara 2
+	2
+harry
+	irate
+	moral 60
+	harpy 7
+	harry 2
+	4
+smock
+	irate
+	scold 194
+	shock 2
+	smock 1
+	4
+sloth
+	irate
+	sooty 24
+	sloth 1
+	3
+assay
+	irate
+	canal 118
+	assay 1
+	3
+swine
+	irate
+	slice 53
+	snipe 7
+	swine 2
+	4
+eerie
+	irate
+	rinse 8
+	eerie 1
+	3
+mucus
+	irate
+	scold 194
+	mucus 1
+	3
+hence
+	irate
+	louse 80
+	fence 8
+	pence 2
+	hence 1
+	5
+spill
+	irate
+	slimy 130
+	skill 3
+	spill 2
+	4
+haute
+	irate
+	taste 10
+	haute 1
+	3
+bleak
+	irate
+	angel 55
+	plead 4
+	bleak 1
+	4
+daisy
+	irate
+	anvil 41
+	sigma 3
+	daisy 1
+	4
+maybe
+	irate
+	angle 42
+	sauce 8
+	payee 2
+	maybe 1
+	5
+mayor
+	irate
+	moral 60
+	manor 4
+	mayor 2
+	4
+spasm
+	irate
+	slack 64
+	swamp 7
+	spasm 1
+	4
+clout
+	irate
+	shunt 47
+	flout 2
+	clout 1
+	4
+shack
+	irate
+	slack 64
+	smack 3
+	snack 2
+	shack 1
+	5
+dusty
+	irate
+	sooty 24
+	gusty 4
+	musty 3
+	dusty 2
+	5
+fizzy
+	irate
+	slimy 130
+	dingy 13
+	picky 4
+	jiffy 2
+	fizzy 1
+	6
+black
+	irate
+	slack 64
+	flack 3
+	black 2
+	4
+overt
+	irate
+	meter 28
+	overt 3
+	3
+patio
+	irate
+	taint 17
+	patio 1
+	3
+froze
+	irate
+	prone 17
+	drove 5
+	froze 2
+	4
+tease
+	irate
+	stave 5
+	tease 1
+	3
+allay
+	irate
+	canal 118
+	allay 1
+	3
+snout
+	irate
+	shunt 47
+	snout 1
+	3
+twice
+	irate
+	title 9
+	twine 2
+	twice 1
+	4
+stole
+	irate
+	tense 13
+	stoke 4
+	stole 2
+	4
+octet
+	irate
+	sleet 54
+	covet 5
+	octet 1
+	4
+worst
+	irate
+	burst 27
+	worst 1
+	3
+steam
+	irate
+	cleat 25
+	tweak 4
+	stead 2
+	steam 1
+	5
+today
+	irate
+	total 55
+	today 2
+	3
+unfed
+	irate
+	kneel 106
+	unfed 2
+	3
+issue
+	irate
+	issue 2
+	2
+spook
+	irate
+	scold 194
+	spoon 11
+	spoof 2
+	spook 1
+	5
+roast
+	irate
+	stark 7
+	roast 1
+	3
+jolly
+	irate
+	scold 194
+	folly 6
+	golly 3
+	jolly 2
+	5
+paper
+	irate
+	paler 45
+	parer 3
+	paper 2
+	4
+baste
+	irate
+	taste 10
+	caste 5
+	haste 4
+	baste 3
+	5
+model
+	irate
+	kneel 106
+	dowel 5
+	model 1
+	4
+sport
+	irate
+	burst 27
+	short 3
+	snort 2
+	sport 1
+	5
+truer
+	irate
+	crest 8
+	truer 1
+	3
+murky
+	irate
+	curry 61
+	burly 3
+	murky 1
+	4
+front
+	irate
+	crust 17
+	front 1
+	3
+skier
+	irate
+	risen 34
+	skier 1
+	3
+solid
+	irate
+	slimy 130
+	spoil 2
+	solid 1
+	4
+smart
+	irate
+	stark 7
+	smart 1
+	3
+quart
+	irate
+	stark 7
+	apart 3
+	quart 2
+	4
+leper
+	irate
+	loser 92
+	lever 2
+	leper 1
+	4
+whose
+	irate
+	louse 80
+	chose 3
+	whose 1
+	4
+fluid
+	irate
+	slimy 130
+	fluid 1
+	3
+rainy
+	irate
+	radii 17
+	rainy 1
+	3
+frisk
+	irate
+	prick 25
+	brisk 4
+	frisk 1
+	4
+found
+	irate
+	scold 194
+	bound 6
+	wound 5
+	mound 4
+	found 3
+	6
+basis
+	irate
+	anvil 41
+	basic 5
+	basis 1
+	4
+cache
+	irate
+	angle 42
+	sauce 8
+	cache 1
+	4
+slice
+	irate
+	slice 53
+	2
+splat
+	irate
+	total 55
+	splat 1
+	3
+phone
+	irate
+	louse 80
+	phone 5
+	3
+clamp
+	irate
+	slack 64
+	clang 2
+	clamp 1
+	4
+singe
+	irate
+	slice 53
+	sieve 3
+	singe 1
+	4
+along
+	irate
+	canal 118
+	along 1
+	3
+demon
+	irate
+	kneel 106
+	bench 7
+	demon 1
+	4
+crept
+	irate
+	crest 8
+	crept 1
+	3
+beget
+	irate
+	sleet 54
+	tenet 2
+	beget 1
+	4
+bilge
+	irate
+	slice 53
+	belie 4
+	bilge 1
+	4
+diner
+	irate
+	risen 34
+	finer 5
+	miner 3
+	diner 2
+	5
+strut
+	irate
+	burst 27
+	strut 1
+	3
+shape
+	irate
+	slave 40
+	spade 7
+	shape 1
+	4
+swoon
+	irate
+	scold 194
+	spoon 11
+	swoon 1
+	4
+pilot
+	irate
+	hoist 64
+	pilot 3
+	3
+dopey
+	irate
+	kneel 106
+	gooey 5
+	covey 2
+	dopey 1
+	5
+foist
+	irate
+	hoist 64
+	moist 3
+	joist 2
+	foist 1
+	5
+friar
+	irate
+	briar 2
+	friar 1
+	3
+geese
+	irate
+	louse 80
+	sense 3
+	geese 1
+	4
+renew
+	irate
+	loser 92
+	renew 1
+	3
+snore
+	irate
+	scree 38
+	swore 4
+	shore 3
+	spore 2
+	snore 1
+	6
+pouty
+	irate
+	sooty 24
+	lofty 2
+	pouty 1
+	4
+tenor
+	irate
+	meter 28
+	tenor 1
+	3
+prize
+	irate
+	pride 12
+	prime 3
+	price 2
+	prize 1
+	5
+razor
+	irate
+	moral 60
+	favor 9
+	razor 1
+	4
+vinyl
+	irate
+	slimy 130
+	vinyl 1
+	3
+affix
+	irate
+	anvil 41
+	audio 3
+	affix 1
+	4
+satyr
+	irate
+	carat 11
+	satyr 1
+	3
+guide
+	irate
+	slice 53
+	opine 6
+	guide 1
+	4
+lithe
+	irate
+	title 9
+	lithe 1
+	3
+silky
+	irate
+	slimy 130
+	silly 2
+	silky 1
+	4
+viper
+	irate
+	risen 34
+	diver 10
+	viper 1
+	4
+hobby
+	irate
+	scold 194
+	bough 10
+	hobby 1
+	4
+corer
+	irate
+	loser 92
+	rower 17
+	corer 1
+	4
+creep
+	irate
+	creed 20
+	creek 2
+	creep 1
+	4
+angle
+	irate
+	angle 42
+	2
+guest
+	irate
+	sleet 54
+	quest 3
+	guest 1
+	4
+cheat
+	irate
+	cleat 25
+	cheat 1
+	3
+blare
+	irate
+	snare 8
+	flare 4
+	glare 2
+	blare 1
+	5
+shake
+	irate
+	slave 40
+	spade 7
+	snake 3
+	shake 1
+	5
+dirge
+	irate
+	rinse 8
+	fibre 2
+	dirge 1
+	4
+built
+	irate
+	hoist 64
+	guilt 6
+	quilt 2
+	built 1
+	5
+towel
+	irate
+	sleet 54
+	hotel 3
+	towel 1
+	4
+banal
+	irate
+	canal 118
+	banal 1
+	3
+still
+	irate
+	hoist 64
+	stink 5
+	stiff 2
+	still 1
+	5
+blurt
+	irate
+	burst 27
+	blurt 1
+	3
+bland
+	irate
+	slack 64
+	gland 4
+	bland 1
+	4
+union
+	irate
+	slimy 130
+	owing 9
+	union 1
+	4
+ulcer
+	irate
+	loser 92
+	ulcer 5
+	3
+snoop
+	irate
+	scold 194
+	spoon 11
+	snoop 1
+	4
+vocal
+	irate
+	canal 118
+	focal 3
+	vocal 2
+	4
+chard
+	irate
+	shard 20
+	chard 1
+	3
+knife
+	irate
+	slice 53
+	opine 6
+	knife 1
+	4
+again
+	irate
+	snail 14
+	again 2
+	3
+lucid
+	irate
+	slimy 130
+	lingo 10
+	lucid 1
+	4
+befit
+	irate
+	edict 14
+	filet 2
+	befit 1
+	4
+nobly
+	irate
+	scold 194
+	folly 6
+	nobly 1
+	4
+scion
+	irate
+	slimy 130
+	swing 6
+	scion 2
+	4
+apple
+	irate
+	angle 42
+	ample 3
+	apple 1
+	4
+force
+	irate
+	scree 38
+	curve 2
+	force 1
+	4
+crumb
+	irate
+	crowd 39
+	crump 3
+	crumb 1
+	4
+donor
+	irate
+	curry 61
+	honor 3
+	donor 1
+	4
+suave
+	irate
+	slave 40
+	suave 2
+	3
+inter
+	irate
+	inter 2
+	2
+pagan
+	irate
+	canal 118
+	pagan 1
+	3
+spark
+	irate
+	shard 20
+	scarf 5
+	swarm 3
+	spark 2
+	5
+shoot
+	irate
+	shunt 47
+	shoot 1
+	3
+booth
+	irate
+	sooty 24
+	booth 2
+	3
+ruder
+	irate
+	loser 92
+	defer 17
+	under 3
+	ruder 1
+	5
+maize
+	irate
+	alive 10
+	maize 1
+	3
+tardy
+	irate
+	carat 11
+	tardy 1
+	3
+tract
+	irate
+	craft 9
+	tract 1
+	3
+abled
+	irate
+	angel 55
+	abled 2
+	3
+sneak
+	irate
+	angel 55
+	sneak 3
+	3
+topaz
+	irate
+	total 55
+	today 2
+	topaz 1
+	4
+death
+	irate
+	heath 3
+	death 1
+	3
+cover
+	irate
+	loser 92
+	rower 17
+	hover 9
+	cover 2
+	5
+hotly
+	irate
+	shunt 47
+	botch 2
+	hotly 1
+	4
+blade
+	irate
+	slave 40
+	blame 9
+	blade 2
+	4
+exact
+	irate
+	leant 12
+	exact 1
+	3
+gaudy
+	irate
+	canal 118
+	gassy 16
+	gaudy 2
+	4
+nylon
+	irate
+	scold 194
+	lobby 4
+	nylon 1
+	4
+devil
+	irate
+	widen 38
+	devil 2
+	3
+dimly
+	irate
+	slimy 130
+	milky 2
+	dimly 1
+	4
+entry
+	irate
+	meter 28
+	entry 1
+	3
+denim
+	irate
+	widen 38
+	denim 1
+	3
+unset
+	irate
+	sleet 54
+	upset 3
+	unset 1
+	4
+digit
+	irate
+	hoist 64
+	limit 4
+	digit 1
+	4
+white
+	irate
+	suite 7
+	elite 2
+	white 1
+	4
+shoal
+	irate
+	canal 118
+	loyal 6
+	offal 2
+	shoal 1
+	5
+conch
+	irate
+	scold 194
+	vouch 6
+	conch 1
+	4
+lanky
+	irate
+	canal 118
+	lanky 2
+	3
+tally
+	irate
+	total 55
+	tally 1
+	3
+budge
+	irate
+	louse 80
+	judge 9
+	budge 3
+	4
+pried
+	irate
+	drier 8
+	pried 3
+	3
+billy
+	irate
+	slimy 130
+	willy 5
+	hilly 4
+	dilly 3
+	filly 2
+	billy 1
+	7
+motel
+	irate
+	sleet 54
+	hotel 3
+	motel 1
+	4
+halve
+	irate
+	angle 42
+	valve 6
+	halve 2
+	4
+borax
+	irate
+	moral 60
+	borax 2
+	3
+bossy
+	irate
+	scold 194
+	mossy 4
+	bossy 1
+	4
+payer
+	irate
+	paler 45
+	parer 3
+	paper 2
+	payer 1
+	5
+finch
+	irate
+	slimy 130
+	pinch 17
+	cinch 3
+	winch 2
+	finch 1
+	6
+quiet
+	irate
+	edict 14
+	quiet 2
+	3
+dance
+	irate
+	angle 42
+	dance 2
+	3
+pluck
+	irate
+	scold 194
+	mulch 9
+	cluck 2
+	pluck 1
+	5
+ethos
+	irate
+	sleet 54
+	fetus 2
+	ethos 1
+	4
+prank
+	irate
+	brand 27
+	frank 3
+	prank 2
+	4
+handy
+	irate
+	canal 118
+	sandy 9
+	dandy 2
+	handy 1
+	5
+bitty
+	irate
+	witty 17
+	kitty 3
+	bitty 2
+	4
+crash
+	irate
+	brand 27
+	crass 11
+	crash 1
+	4
+album
+	irate
+	canal 118
+	aloud 10
+	album 1
+	4
+poser
+	irate
+	loser 92
+	poser 1
+	3
+serve
+	irate
+	scree 38
+	serve 1
+	3
+stool
+	irate
+	shunt 47
+	stoop 5
+	stool 2
+	4
+sushi
+	irate
+	slimy 130
+	sushi 3
+	3
+shirt
+	irate
+	shirt 8
+	2
+check
+	irate
+	kneel 106
+	check 2
+	3
+bevel
+	irate
+	kneel 106
+	bevel 6
+	3
+shove
+	irate
+	louse 80
+	spoke 6
+	shove 3
+	4
+seize
+	irate
+	slice 53
+	snipe 7
+	seize 1
+	4
+throw
+	irate
+	burst 27
+	throw 2
+	3
+snowy
+	irate
+	scold 194
+	spoon 11
+	snowy 1
+	4
+swash
+	irate
+	slack 64
+	swamp 7
+	swash 1
+	4
+gauze
+	irate
+	angle 42
+	gauge 4
+	gauze 1
+	4
+sappy
+	irate
+	canal 118
+	gassy 16
+	savoy 3
+	sappy 1
+	5
+forum
+	irate
+	curry 61
+	shrub 3
+	forum 1
+	4
+axiom
+	irate
+	anvil 41
+	amiss 2
+	axiom 1
+	4
+trawl
+	irate
+	craft 9
+	trash 3
+	trawl 2
+	4
+acute
+	irate
+	taste 10
+	acute 1
+	3
+organ
+	irate
+	arbor 12
+	groan 3
+	organ 1
+	4
+jumbo
+	irate
+	scold 194
+	bough 10
+	jumbo 1
+	4
+sunny
+	irate
+	scold 194
+	spunk 6
+	sunny 1
+	4
+oaken
+	irate
+	angel 55
+	waxen 3
+	haven 2
+	oaken 1
+	5
+dutch
+	irate
+	shunt 47
+	hutch 3
+	butch 2
+	dutch 1
+	5
+snide
+	irate
+	slice 53
+	snipe 7
+	snide 1
+	4
+truce
+	irate
+	trope 3
+	truce 1
+	3
+purse
+	irate
+	scree 38
+	horse 4
+	nurse 2
+	purse 1
+	5
+bleed
+	irate
+	kneel 106
+	bleep 3
+	bleed 1
+	4
+safer
+	irate
+	paler 45
+	wager 13
+	maker 6
+	saner 4
+	safer 1
+	6
+poise
+	irate
+	slice 53
+	poise 3
+	3
+allow
+	irate
+	canal 118
+	aloud 10
+	allow 2
+	4
+nudge
+	irate
+	louse 80
+	judge 9
+	budge 3
+	nudge 2
+	5
+shalt
+	irate
+	slant 21
+	shalt 1
+	3
+ardor
+	irate
+	arbor 12
+	ardor 2
+	3
+pouch
+	irate
+	scold 194
+	vouch 6
+	pouch 2
+	4
+prune
+	irate
+	prone 17
+	prune 1
+	3
+muddy
+	irate
+	scold 194
+	dumpy 5
+	muddy 1
+	4
+kappa
+	irate
+	canal 118
+	gamma 4
+	kappa 1
+	4
+verse
+	irate
+	scree 38
+	verse 1
+	3
+imply
+	irate
+	icily 8
+	imply 1
+	3
+nutty
+	irate
+	sooty 24
+	putty 2
+	nutty 1
+	4
+polka
+	irate
+	canal 118
+	aloud 10
+	polka 1
+	4
+exult
+	irate
+	sleet 54
+	exult 1
+	3
+vague
+	irate
+	angle 42
+	vague 1
+	3
+welsh
+	irate
+	kneel 106
+	welch 10
+	welsh 1
+	4
+avail
+	irate
+	slain 14
+	quail 2
+	avail 1
+	4
+hasty
+	irate
+	pasty 15
+	hasty 3
+	3
+hitch
+	irate
+	hoist 64
+	hitch 1
+	3
+brawl
+	irate
+	brand 27
+	brash 4
+	bravo 2
+	brawl 1
+	5
+stomp
+	irate
+	shunt 47
+	stoop 5
+	stomp 1
+	4
+retch
+	irate
+	meter 28
+	retro 3
+	retch 1
+	4
+phony
+	irate
+	scold 194
+	boozy 7
+	phony 1
+	4
+tryst
+	irate
+	crust 17
+	frost 2
+	tryst 1
+	4
+patch
+	irate
+	total 55
+	match 8
+	catch 5
+	watch 4
+	batch 3
+	patch 2
+	7
+polyp
+	irate
+	scold 194
+	lobby 4
+	polyp 1
+	4
+wagon
+	irate
+	canal 118
+	wagon 2
+	3
+merit
+	irate
+	remit 7
+	merit 1
+	3
+dough
+	irate
+	scold 194
+	dowdy 5
+	dough 1
+	4
+cramp
+	irate
+	brand 27
+	grasp 11
+	cramp 1
+	4
+think
+	irate
+	hoist 64
+	think 4
+	3
+broth
+	irate
+	froth 3
+	broth 1
+	3
+caddy
+	irate
+	canal 118
+	cabby 2
+	caddy 1
+	4
+scrub
+	irate
+	curry 61
+	scrum 2
+	scrub 1
+	4
+salad
+	irate
+	canal 118
+	salad 1
+	3
+among
+	irate
+	canal 118
+	agony 2
+	among 1
+	4
+minor
+	irate
+	curio 23
+	vigor 4
+	minor 1
+	4
+those
+	irate
+	tense 13
+	those 1
+	3
+equal
+	irate
+	angel 55
+	pedal 5
+	equal 1
+	4
+outdo
+	irate
+	shunt 47
+	outdo 2
+	3
+vista
+	irate
+	faith 4
+	vista 1
+	3
+plate
+	irate
+	slate 8
+	plate 2
+	3
+tramp
+	irate
+	craft 9
+	trash 3
+	trawl 2
+	tramp 1
+	5
+afoot
+	irate
+	total 55
+	about 5
+	afoot 2
+	4
+demur
+	irate
+	loser 92
+	demur 3
+	3
+shine
+	irate
+	slice 53
+	snipe 7
+	swine 2
+	shine 1
+	5
+troop
+	irate
+	crust 17
+	troll 2
+	troop 1
+	4
+bylaw
+	irate
+	canal 118
+	bylaw 1
+	3
+sweep
+	irate
+	kneel 106
+	sheep 3
+	sweep 1
+	4
+dwell
+	irate
+	kneel 106
+	swell 6
+	dwell 1
+	4
+chute
+	irate
+	butte 5
+	flute 2
+	chute 1
+	4
+cabin
+	irate
+	anvil 41
+	manic 5
+	cabin 1
+	4
+hardy
+	irate
+	moral 60
+	harpy 7
+	harry 2
+	hardy 1
+	5
+cumin
+	irate
+	slimy 130
+	mimic 5
+	cumin 1
+	4
+rumba
+	irate
+	moral 60
+	umbra 2
+	rumba 1
+	4
+plumb
+	irate
+	scold 194
+	flunk 12
+	plump 2
+	plumb 1
+	5
+choir
+	irate
+	curio 23
+	choir 1
+	3
+diode
+	irate
+	slice 53
+	midge 9
+	diode 1
+	4
+etude
+	irate
+	tense 13
+	etude 1
+	3
+sooth
+	irate
+	sooty 24
+	sooth 1
+	3
+wordy
+	irate
+	curry 61
+	horny 2
+	wordy 1
+	4
+sassy
+	irate
+	canal 118
+	gassy 16
+	sassy 1
+	4
+filer
+	irate
+	risen 34
+	diver 10
+	fixer 4
+	fiber 2
+	filer 1
+	6
+slurp
+	irate
+	curry 61
+	spurn 6
+	slurp 1
+	4
+booby
+	irate
+	scold 194
+	boozy 7
+	booby 1
+	4
+anode
+	irate
+	angle 42
+	anode 1
+	3
+plaid
+	irate
+	snail 14
+	claim 2
+	plaid 1
+	4
+limit
+	irate
+	hoist 64
+	limit 4
+	3
+thorn
+	irate
+	burst 27
+	rotor 3
+	thorn 1
+	4
+liner
+	irate
+	risen 34
+	finer 5
+	miner 3
+	diner 2
+	liner 1
+	6
+deign
+	irate
+	widen 38
+	deign 1
+	3
+brain
+	irate
+	drain 6
+	grain 2
+	brain 1
+	4
+crank
+	irate
+	brand 27
+	frank 3
+	prank 2
+	crank 1
+	5
+holly
+	irate
+	scold 194
+	folly 6
+	golly 3
+	jolly 2
+	holly 1
+	6
+unlit
+	irate
+	hoist 64
+	limit 4
+	unlit 1
+	4
+dwarf
+	irate
+	shard 20
+	dwarf 1
+	3
+gypsy
+	irate
+	scold 194
+	mushy 9
+	gypsy 1
+	4
+chili
+	irate
+	slimy 130
+	build 6
+	chill 2
+	chili 1
+	5
+basin
+	irate
+	anvil 41
+	manic 5
+	basin 1
+	4
+meter
+	irate
+	meter 28
+	2
+waste
+	irate
+	taste 10
+	haste 5
+	caste 4
+	baste 3
+	waste 2
+	6
+daily
+	irate
+	anvil 41
+	gaily 3
+	daily 1
+	4
+ranch
+	irate
+	moral 60
+	randy 5
+	ranch 1
+	4
+eject
+	irate
+	sleet 54
+	event 2
+	eject 1
+	4
+glyph
+	irate
+	scold 194
+	flunk 12
+	glyph 1
+	4
+swell
+	irate
+	kneel 106
+	swell 6
+	3
+vixen
+	irate
+	widen 38
+	given 4
+	vixen 1
+	4
+pleat
+	irate
+	cleat 25
+	bleat 2
+	pleat 1
+	4
+shrub
+	irate
+	curry 61
+	shrub 3
+	3
+shrug
+	irate
+	curry 61
+	shrub 3
+	shrug 1
+	4
+thing
+	irate
+	hoist 64
+	think 4
+	thing 1
+	4
+bosom
+	irate
+	scold 194
+	mossy 4
+	bosom 1
+	4
+liver
+	irate
+	risen 34
+	diver 10
+	giver 2
+	liver 1
+	5
+blurb
+	irate
+	curry 61
+	spurn 6
+	blurb 2
+	4
+hefty
+	irate
+	testy 11
+	lefty 2
+	hefty 1
+	4
+draft
+	irate
+	craft 9
+	graft 2
+	draft 1
+	4
+often
+	irate
+	sleet 54
+	often 3
+	3
+clack
+	irate
+	slack 64
+	flack 3
+	black 2
+	clack 1
+	5
+relay
+	irate
+	paler 45
+	relax 2
+	relay 1
+	4
+topic
+	irate
+	hoist 64
+	toxin 5
+	topic 1
+	4
+cider
+	irate
+	risen 34
+	diver 10
+	wider 2
+	cider 1
+	5
+march
+	irate
+	moral 60
+	march 3
+	3
+terse
+	irate
+	three 4
+	terse 1
+	3
+grief
+	irate
+	drier 8
+	brief 2
+	grief 1
+	4
+chick
+	irate
+	slimy 130
+	owing 9
+	chick 2
+	4
+route
+	irate
+	forte 2
+	route 1
+	3
+chess
+	irate
+	kneel 106
+	guess 3
+	chess 1
+	4
+pride
+	irate
+	pride 12
+	2
+yacht
+	irate
+	total 55
+	gamut 9
+	yacht 1
+	4
+lusty
+	irate
+	sooty 24
+	gusty 4
+	musty 3
+	dusty 2
+	lusty 1
+	6
+sixty
+	irate
+	witty 17
+	fifty 3
+	minty 2
+	sixty 1
+	5
+dolly
+	irate
+	scold 194
+	oddly 3
+	dolly 1
+	4
+pubic
+	irate
+	slimy 130
+	pinch 17
+	pubic 1
+	4
+woody
+	irate
+	scold 194
+	moody 3
+	goody 2
+	woody 1
+	5
+leech
+	irate
+	kneel 106
+	elegy 2
+	leech 1
+	4
+which
+	irate
+	slimy 130
+	owing 9
+	whiff 2
+	which 1
+	5
+vomit
+	irate
+	hoist 64
+	vomit 1
+	3
+jelly
+	irate
+	kneel 106
+	welch 10
+	belly 2
+	jelly 1
+	5
+thick
+	irate
+	hoist 64
+	think 4
+	thick 1
+	4
+proxy
+	irate
+	crowd 39
+	groom 8
+	proxy 1
+	4
+sheen
+	irate
+	kneel 106
+	sheen 2
+	3
+tibia
+	irate
+	taint 17
+	tibia 2
+	3
+datum
+	irate
+	total 55
+	match 8
+	datum 1
+	4
+quirk
+	irate
+	curio 23
+	quirk 1
+	3
+token
+	irate
+	sleet 54
+	often 3
+	token 1
+	4
+flyer
+	irate
+	loser 92
+	ulcer 5
+	elder 2
+	flyer 1
+	5
+sower
+	irate
+	loser 92
+	sober 2
+	sower 1
+	4
+satin
+	irate
+	taint 17
+	satin 1
+	3
+puree
+	irate
+	scree 38
+	puree 1
+	3
+quash
+	irate
+	slack 64
+	amass 4
+	gnash 2
+	quash 1
+	5
+sinew
+	irate
+	widen 38
+	sinew 1
+	3
+petal
+	irate
+	cleat 25
+	fetal 3
+	metal 2
+	petal 1
+	5
+crave
+	irate
+	grace 15
+	craze 3
+	crave 2
+	4
+flora
+	irate
+	moral 60
+	labor 3
+	flora 1
+	4
+steer
+	irate
+	meter 28
+	steer 2
+	3
+donut
+	irate
+	shunt 47
+	uncut 2
+	donut 1
+	4
+laugh
+	irate
+	canal 118
+	sadly 11
+	laugh 1
+	4
+fuzzy
+	irate
+	scold 194
+	nymph 15
+	fuzzy 2
+	4
+squad
+	irate
+	canal 118
+	squad 1
+	3
+livid
+	irate
+	slimy 130
+	logic 10
+	lipid 2
+	livid 1
+	5
+vigil
+	irate
+	slimy 130
+	logic 10
+	vigil 1
+	4
+raven
+	irate
+	paler 45
+	harem 3
+	raven 1
+	4
+rearm
+	irate
+	ready 10
+	realm 3
+	rearm 1
+	4
+tidal
+	irate
+	taint 17
+	tibia 2
+	tidal 1
+	4
+fungi
+	irate
+	slimy 130
+	pinch 17
+	fungi 1
+	4
+heist
+	irate
+	edict 14
+	quiet 2
+	heist 1
+	4
+shone
+	irate
+	louse 80
+	spoke 6
+	shove 3
+	shone 1
+	5
+wheat
+	irate
+	cleat 25
+	sweat 2
+	wheat 1
+	4
+wring
+	irate
+	prick 25
+	grind 8
+	bring 2
+	wring 1
+	5
+queen
+	irate
+	kneel 106
+	sheen 2
+	queen 1
+	4
+skate
+	irate
+	slate 8
+	state 2
+	skate 1
+	4
+light
+	irate
+	hoist 64
+	wight 6
+	night 5
+	tight 4
+	might 3
+	light 2
+	7
+valet
+	irate
+	cleat 25
+	valet 1
+	3
+hyena
+	irate
+	angel 55
+	ocean 4
+	hyena 1
+	4
+golem
+	irate
+	kneel 106
+	clued 2
+	golem 1
+	4
+scalp
+	irate
+	slack 64
+	scaly 3
+	scalp 2
+	4
+grand
+	irate
+	brand 27
+	grand 1
+	3
+piano
+	irate
+	snail 14
+	piano 1
+	3
+sonar
+	irate
+	moral 60
+	sonar 1
+	3
+rarer
+	irate
+	paler 45
+	wager 13
+	maker 6
+	saner 4
+	rarer 2
+	6
+sally
+	irate
+	canal 118
+	sadly 11
+	sally 1
+	4
+sandy
+	irate
+	canal 118
+	sandy 9
+	3
+uncle
+	irate
+	louse 80
+	bulge 3
+	uncle 1
+	4
+madam
+	irate
+	canal 118
+	madam 2
+	3
+motif
+	irate
+	hoist 64
+	toxin 5
+	motif 1
+	4
+fairy
+	irate
+	radii 17
+	fairy 3
+	3
+craft
+	irate
+	craft 9
+	2
+gawky
+	irate
+	canal 118
+	gassy 16
+	gaudy 2
+	gawky 1
+	5
+shown
+	irate
+	scold 194
+	spoon 11
+	shown 1
+	4
+major
+	irate
+	moral 60
+	manor 4
+	mayor 2
+	major 1
+	5
+stair
+	irate
+	tiara 2
+	stair 1
+	3
+vogue
+	irate
+	louse 80
+	vogue 1
+	3
+blitz
+	irate
+	witty 17
+	blitz 2
+	3
+dowel
+	irate
+	kneel 106
+	dowel 5
+	3
+adopt
+	irate
+	total 55
+	about 5
+	afoot 2
+	adopt 1
+	5
+drawn
+	irate
+	brand 27
+	drawn 1
+	3
+truss
+	irate
+	crust 17
+	truss 1
+	3
+sully
+	irate
+	scold 194
+	sully 5
+	3
+theta
+	irate
+	theta 2
+	2
+crate
+	irate
+	grate 2
+	crate 1
+	3
+loose
+	irate
+	louse 80
+	loose 1
+	3
+tweed
+	irate
+	sleet 54
+	tweed 1
+	3
+bacon
+	irate
+	canal 118
+	bacon 1
+	3
+shied
+	irate
+	widen 38
+	shied 3
+	3
+plant
+	irate
+	slant 21
+	plant 1
+	3
+fried
+	irate
+	drier 8
+	pried 3
+	cried 2
+	fried 1
+	5
+hello
+	irate
+	kneel 106
+	welch 10
+	hello 1
+	4
+grant
+	irate
+	craft 9
+	grant 1
+	3
+ozone
+	irate
+	louse 80
+	phone 5
+	ozone 1
+	4
+retry
+	irate
+	meter 28
+	retro 3
+	retry 1
+	4
+bluer
+	irate
+	loser 92
+	ulcer 5
+	bluer 1
+	4
+outgo
+	irate
+	shunt 47
+	outdo 2
+	outgo 1
+	4
+sleet
+	irate
+	sleet 54
+	2
+alert
+	irate
+	alter 14
+	alert 1
+	3
+plaza
+	irate
+	slack 64
+	gland 4
+	llama 2
+	plaza 1
+	5
+rough
+	irate
+	curry 61
+	round 3
+	rough 1
+	4
+teach
+	irate
+	leant 12
+	teach 1
+	3
+dried
+	irate
+	drier 8
+	dried 1
+	3
+optic
+	irate
+	hoist 64
+	optic 1
+	3
+stein
+	irate
+	edict 14
+	stein 1
+	3
+ashen
+	irate
+	angel 55
+	apnea 2
+	ashen 1
+	4
+mania
+	irate
+	anvil 41
+	manic 5
+	mania 1
+	4
+tying
+	irate
+	hoist 64
+	tying 1
+	3
+weave
+	irate
+	slave 40
+	heave 3
+	weave 1
+	4
+smith
+	irate
+	witty 17
+	blitz 2
+	smith 1
+	4
+stall
+	irate
+	slant 21
+	stall 2
+	3
+loser
+	irate
+	loser 92
+	2
+artsy
+	irate
+	artsy 1
+	2
+ether
+	irate
+	meter 28
+	steer 2
+	ether 1
+	4
+kayak
+	irate
+	canal 118
+	madam 2
+	kayak 1
+	4
+lorry
+	irate
+	curry 61
+	worry 3
+	sorry 2
+	lorry 1
+	5
+marsh
+	irate
+	moral 60
+	march 3
+	marsh 1
+	4
+naval
+	irate
+	canal 118
+	naval 2
+	3
+ombre
+	irate
+	scree 38
+	rouge 4
+	ombre 1
+	4
+final
+	irate
+	anvil 41
+	final 1
+	3
+verve
+	irate
+	scree 38
+	nerve 4
+	verve 1
+	4
+stalk
+	irate
+	slant 21
+	stall 2
+	stalk 1
+	4
+tithe
+	irate
+	title 9
+	tithe 1
+	3
+pique
+	irate
+	slice 53
+	midge 9
+	pixie 2
+	pique 1
+	5
+serif
+	irate
+	risen 34
+	serif 1
+	3
+stage
+	irate
+	stave 5
+	stake 3
+	stale 2
+	stage 1
+	5
+tubal
+	irate
+	total 55
+	tubal 1
+	3
+fussy
+	irate
+	scold 194
+	mushy 9
+	fussy 1
+	4
+brood
+	irate
+	crowd 39
+	frond 3
+	proud 2
+	brood 1
+	5
+prose
+	irate
+	prone 17
+	prove 3
+	probe 2
+	prose 1
+	5
+cacao
+	irate
+	canal 118
+	cacao 1
+	3
+waive
+	irate
+	alive 10
+	waive 2
+	3
+savor
+	irate
+	moral 60
+	favor 9
+	savor 1
+	4
+scoff
+	irate
+	scold 194
+	scoff 2
+	3
+rowdy
+	irate
+	curry 61
+	rowdy 2
+	3
+decoy
+	irate
+	kneel 106
+	epoxy 4
+	decoy 1
+	4
+drill
+	irate
+	prick 25
+	grind 8
+	drill 1
+	4
+parka
+	irate
+	moral 60
+	harpy 7
+	parka 1
+	4
+mealy
+	irate
+	leash 10
+	mealy 1
+	3
+inlay
+	irate
+	inlay 2
+	2
+rugby
+	irate
+	curry 61
+	ruddy 2
+	rugby 1
+	4
+month
+	irate
+	sooty 24
+	month 2
+	3
+thief
+	irate
+	edict 14
+	thief 1
+	3
+brunt
+	irate
+	crust 17
+	grunt 2
+	brunt 1
+	4
+mourn
+	irate
+	curry 61
+	spurn 6
+	mourn 1
+	4
+drape
+	irate
+	grace 15
+	drake 6
+	drape 1
+	4
+slate
+	irate
+	slate 8
+	2
+graph
+	irate
+	brand 27
+	grasp 11
+	graph 1
+	4
+tasty
+	irate
+	pasty 15
+	hasty 3
+	tasty 2
+	4
+brand
+	irate
+	brand 27
+	2
+amble
+	irate
+	angle 42
+	ample 3
+	amble 1
+	4
+sonic
+	irate
+	slimy 130
+	sushi 3
+	sonic 1
+	4
+clown
+	irate
+	scold 194
+	flock 4
+	clown 1
+	4
+shame
+	irate
+	slave 40
+	spade 7
+	snake 3
+	shame 1
+	5
+fleck
+	irate
+	kneel 106
+	fleck 1
+	3
+diary
+	irate
+	chair 3
+	diary 1
+	3
+kneel
+	irate
+	kneel 106
+	2
+krill
+	irate
+	prick 25
+	krill 1
+	3
+sever
+	irate
+	loser 92
+	sewer 7
+	sever 1
+	4
+paste
+	irate
+	taste 10
+	haste 5
+	caste 4
+	baste 3
+	waste 2
+	paste 1
+	7
+funky
+	irate
+	scold 194
+	nymph 15
+	funny 3
+	funky 1
+	5
+pulse
+	irate
+	louse 80
+	pulse 1
+	3
+hippy
+	irate
+	slimy 130
+	dingy 13
+	picky 4
+	hippy 1
+	5
+swill
+	irate
+	slimy 130
+	skill 3
+	spill 2
+	swill 1
+	5
+widow
+	irate
+	slimy 130
+	pinch 17
+	vivid 2
+	widow 1
+	5
+genre
+	irate
+	scree 38
+	where 3
+	genre 1
+	4
+train
+	irate
+	trait 3
+	trail 2
+	train 1
+	4
+renal
+	irate
+	paler 45
+	regal 3
+	renal 1
+	4
+gipsy
+	irate
+	slimy 130
+	wispy 3
+	gipsy 1
+	4
+afire
+	irate
+	raise 2
+	afire 1
+	3
+stove
+	irate
+	tense 13
+	stoke 4
+	stole 2
+	stove 1
+	5
+vault
+	irate
+	total 55
+	fault 3
+	vault 1
+	4
+dream
+	irate
+	bread 9
+	dream 1
+	3
+totem
+	irate
+	sleet 54
+	often 3
+	totem 1
+	4
+globe
+	irate
+	louse 80
+	clove 7
+	bloke 3
+	globe 1
+	5
+cater
+	irate
+	alter 14
+	eater 4
+	hater 3
+	cater 2
+	5
+epoch
+	irate
+	kneel 106
+	epoxy 4
+	epoch 1
+	4
+agape
+	irate
+	slave 40
+	agape 7
+	3
+foray
+	irate
+	moral 60
+	borax 2
+	foray 1
+	4
+panel
+	irate
+	angel 55
+	navel 2
+	panel 1
+	4
+slime
+	irate
+	slice 53
+	slime 2
+	3
+filmy
+	irate
+	slimy 130
+	filmy 1
+	3
+floss
+	irate
+	scold 194
+	gloss 2
+	floss 1
+	4
+tread
+	irate
+	tread 3
+	2
+karma
+	irate
+	moral 60
+	karma 1
+	3
+filth
+	irate
+	witty 17
+	fifth 5
+	filth 1
+	4
+beast
+	irate
+	leant 12
+	feast 3
+	beast 2
+	4
+fiend
+	irate
+	widen 38
+	fiend 1
+	3
+rumor
+	irate
+	curry 61
+	juror 3
+	rumor 1
+	4
+elate
+	irate
+	slate 8
+	plate 2
+	elate 1
+	4
+snail
+	irate
+	snail 14
+	2
+being
+	irate
+	widen 38
+	eking 5
+	being 1
+	4
+inlet
+	irate
+	islet 3
+	inlet 1
+	3
+armor
+	irate
+	arbor 12
+	ardor 2
+	armor 1
+	4
+growl
+	irate
+	crowd 39
+	growl 5
+	3
+queer
+	irate
+	loser 92
+	defer 17
+	queer 3
+	4
+trust
+	irate
+	crust 17
+	trust 1
+	3
+verge
+	irate
+	scree 38
+	nerve 4
+	verge 1
+	4
+slump
+	irate
+	scold 194
+	slung 5
+	slush 2
+	slump 1
+	5
+dying
+	irate
+	slimy 130
+	dying 2
+	3
+store
+	irate
+	three 4
+	store 1
+	3
+smash
+	irate
+	slack 64
+	swamp 7
+	smash 1
+	4
+pinch
+	irate
+	slimy 130
+	pinch 17
+	3
+trite
+	irate
+	write 2
+	trite 1
+	3
+dowry
+	irate
+	curry 61
+	glory 2
+	dowry 1
+	4
+novel
+	irate
+	kneel 106
+	novel 1
+	3
+crane
+	irate
+	grace 15
+	craze 3
+	crave 2
+	crane 1
+	5
+resin
+	irate
+	risen 34
+	resin 1
+	3
+juicy
+	irate
+	slimy 130
+	unify 3
+	juicy 1
+	4
+cobra
+	irate
+	moral 60
+	cobra 1
+	3
+berry
+	irate
+	loser 92
+	decry 14
+	merry 3
+	ferry 2
+	berry 1
+	6
+humph
+	irate
+	scold 194
+	nymph 15
+	humph 1
+	4
+edict
+	irate
+	edict 14
+	2
+truly
+	irate
+	crust 17
+	trunk 3
+	trump 2
+	truly 1
+	5
+scout
+	irate
+	shunt 47
+	stout 3
+	spout 2
+	scout 1
+	5
+valor
+	irate
+	moral 60
+	labor 3
+	valor 1
+	4
+stilt
+	irate
+	hoist 64
+	stilt 4
+	3
+creed
+	irate
+	creed 20
+	2
+ladle
+	irate
+	angle 42
+	fable 4
+	maple 2
+	ladle 1
+	5
+tamer
+	irate
+	alter 14
+	tamer 3
+	3
+bless
+	irate
+	kneel 106
+	shelf 4
+	bless 1
+	4
+elect
+	irate
+	sleet 54
+	elect 1
+	3
+heavy
+	irate
+	leash 10
+	heady 2
+	heavy 1
+	4
+scoop
+	irate
+	scold 194
+	scoff 2
+	scoop 1
+	4
+weigh
+	irate
+	widen 38
+	weigh 1
+	3
+stank
+	irate
+	slant 21
+	stank 2
+	3
+cried
+	irate
+	drier 8
+	pried 3
+	fried 2
+	cried 1
+	5
+papal
+	irate
+	canal 118
+	papal 2
+	3
+feral
+	irate
+	paler 45
+	regal 3
+	feral 1
+	4
+apron
+	irate
+	moral 60
+	cargo 3
+	apron 1
+	4
+linen
+	irate
+	widen 38
+	given 4
+	linen 2
+	4
+plied
+	irate
+	widen 38
+	shied 3
+	plied 1
+	4
+sugar
+	irate
+	moral 60
+	rajah 3
+	sugar 1
+	4
+bushy
+	irate
+	scold 194
+	mushy 9
+	bushy 2
+	4
+blaze
+	irate
+	slave 40
+	blame 9
+	blade 2
+	blaze 1
+	5
+leant
+	irate
+	leant 12
+	2
+belch
+	irate
+	kneel 106
+	welch 10
+	belch 1
+	4
+gauge
+	irate
+	angle 42
+	gauze 4
+	gauge 1
+	4
+ascot
+	irate
+	total 55
+	about 5
+	ascot 1
+	4
+tilde
+	irate
+	utile 9
+	lithe 2
+	tilde 1
+	4
+coven
+	irate
+	kneel 106
+	hymen 9
+	woven 3
+	coven 1
+	5
+alter
+	irate
+	alter 14
+	2
+brace
+	irate
+	grace 15
+	brace 1
+	3
+slide
+	irate
+	slice 53
+	slime 2
+	slide 1
+	4
+bleep
+	irate
+	kneel 106
+	bleed 3
+	bleep 1
+	4
+ramen
+	irate
+	paler 45
+	harem 3
+	ramen 1
+	4
+treat
+	irate
+	tread 3
+	treat 1
+	3
+shorn
+	irate
+	curry 61
+	sworn 4
+	shorn 1
+	4
+savvy
+	irate
+	canal 118
+	gassy 16
+	savoy 3
+	savvy 1
+	5
+femur
+	irate
+	loser 92
+	demur 3
+	femur 1
+	4
+layer
+	irate
+	paler 45
+	lager 2
+	layer 1
+	4
+plier
+	irate
+	risen 34
+	flier 2
+	plier 1
+	4
+abide
+	irate
+	alive 10
+	aside 3
+	abide 1
+	4
+aroma
+	irate
+	arbor 12
+	aroma 1
+	3
+salve
+	irate
+	angle 42
+	valve 6
+	halve 2
+	salve 1
+	5
+nasal
+	irate
+	canal 118
+	naval 2
+	nasal 1
+	4
+diver
+	irate
+	risen 34
+	diver 10
+	3
+pivot
+	irate
+	hoist 64
+	pilot 3
+	pivot 1
+	4
+gayer
+	irate
+	paler 45
+	wager 13
+	gamer 3
+	gazer 2
+	gayer 1
+	6
+beady
+	irate
+	leash 10
+	beady 1
+	3
+motor
+	irate
+	burst 27
+	rotor 3
+	motor 1
+	4
+onset
+	irate
+	sleet 54
+	upset 3
+	onset 1
+	4
+glean
+	irate
+	angel 55
+	glean 1
+	3
+inbox
+	irate
+	icily 8
+	inbox 1
+	3
+mince
+	irate
+	slice 53
+	wince 4
+	mince 1
+	4
+torch
+	irate
+	burst 27
+	throw 2
+	torch 1
+	4
+scent
+	irate
+	sleet 54
+	scent 3
+	3
+parse
+	irate
+	large 9
+	farce 3
+	parse 1
+	4
+alloy
+	irate
+	canal 118
+	allow 10
+	alloy 1
+	4
+woken
+	irate
+	kneel 106
+	woken 1
+	3
+flush
+	irate
+	scold 194
+	lupus 4
+	blush 2
+	flush 1
+	5
+obese
+	irate
+	louse 80
+	chose 3
+	obese 1
+	4
+scold
+	irate
+	scold 194
+	2
+quite
+	irate
+	suite 7
+	quite 1
+	3
+cheap
+	irate
+	angel 55
+	decay 6
+	cheap 1
+	4
+imbue
+	irate
+	issue 2
+	imbue 1
+	3
+hatch
+	irate
+	total 55
+	match 8
+	catch 5
+	watch 4
+	batch 3
+	patch 2
+	hatch 1
+	8
+baron
+	irate
+	moral 60
+	cargo 3
+	baron 1
+	4
+avian
+	irate
+	anvil 41
+	avian 1
+	3
+elfin
+	irate
+	widen 38
+	begin 3
+	elfin 1
+	4
+dross
+	irate
+	crowd 39
+	drool 4
+	dross 1
+	4
+micro
+	irate
+	curio 23
+	micro 1
+	3
+crimp
+	irate
+	prick 25
+	crisp 2
+	crimp 1
+	4
+sauna
+	irate
+	canal 118
+	fauna 2
+	sauna 1
+	4
+newly
+	irate
+	kneel 106
+	melon 4
+	newly 1
+	4
+smelt
+	irate
+	sleet 54
+	spelt 2
+	smelt 1
+	4
+rusty
+	irate
+	forth 5
+	rusty 1
+	3
+broad
+	irate
+	arbor 12
+	broad 1
+	3
+inner
+	irate
+	inner 3
+	2
+adage
+	irate
+	slave 40
+	agape 7
+	adage 1
+	4
+abbey
+	irate
+	angel 55
+	askew 2
+	abbey 1
+	4
+recur
+	irate
+	loser 92
+	demur 3
+	recur 1
+	4
+theme
+	irate
+	tense 13
+	theme 1
+	3
+punch
+	irate
+	scold 194
+	chump 8
+	punch 1
+	4
+lying
+	irate
+	slimy 130
+	lying 1
+	3
+score
+	irate
+	scree 38
+	score 1
+	3
+atone
+	irate
+	lathe 4
+	atone 1
+	3
+shuck
+	irate
+	scold 194
+	shuck 2
+	3
+whisk
+	irate
+	slimy 130
+	using 2
+	whisk 1
+	4
+clasp
+	irate
+	slack 64
+	class 3
+	clasp 2
+	4
+dense
+	irate
+	louse 80
+	sense 3
+	dense 1
+	4
+geeky
+	irate
+	kneel 106
+	geeky 1
+	3
+loamy
+	irate
+	slack 64
+	qualm 2
+	loamy 1
+	4
+chase
+	irate
+	slave 40
+	chase 5
+	3
+clash
+	irate
+	slack 64
+	class 3
+	clasp 2
+	clash 1
+	5
+sprig
+	irate
+	curio 23
+	sprig 1
+	3
+vodka
+	irate
+	canal 118
+	dogma 3
+	vodka 1
+	4
+wiser
+	irate
+	risen 34
+	miser 2
+	wiser 1
+	4
+steak
+	irate
+	cleat 25
+	tweak 4
+	steak 1
+	4
+brute
+	irate
+	brute 2
+	2
+forgo
+	irate
+	curry 61
+	moron 4
+	forgo 1
+	4
+clump
+	irate
+	scold 194
+	mulch 9
+	clump 1
+	4
+widen
+	irate
+	widen 38
+	2
+slash
+	irate
+	slack 64
+	slang 2
+	slash 1
+	4
+stray
+	irate
+	carat 11
+	strap 3
+	straw 2
+	stray 1
+	5
+gaunt
+	irate
+	total 55
+	gamut 9
+	gaunt 1
+	4
+music
+	irate
+	slimy 130
+	minus 2
+	music 1
+	4
+noise
+	irate
+	slice 53
+	poise 3
+	noise 1
+	4
+stood
+	irate
+	shunt 47
+	stoop 5
+	stool 2
+	stood 1
+	5
+sheik
+	irate
+	widen 38
+	helix 3
+	sheik 1
+	4
+stoop
+	irate
+	shunt 47
+	stoop 5
+	3
+begun
+	irate
+	kneel 106
+	bench 7
+	begun 1
+	4
+comic
+	irate
+	slimy 130
+	mimic 5
+	comic 1
+	4
+spent
+	irate
+	sleet 54
+	scent 3
+	spent 1
+	4
+cause
+	irate
+	angle 42
+	sauce 8
+	cause 1
+	4
+early
+	irate
+	paler 45
+	early 1
+	3
+arrow
+	irate
+	arbor 12
+	arrow 1
+	3
+posse
+	irate
+	louse 80
+	moose 5
+	copse 2
+	posse 1
+	5
+knead
+	irate
+	angel 55
+	sneak 3
+	knead 1
+	4
+sting
+	irate
+	hoist 64
+	stink 5
+	sting 1
+	4
+sniff
+	irate
+	slimy 130
+	swing 6
+	scion 2
+	sniff 1
+	5
+embed
+	irate
+	kneel 106
+	embed 1
+	3
+chant
+	irate
+	slant 21
+	chant 1
+	3
+carry
+	irate
+	moral 60
+	harpy 7
+	carry 1
+	4
+debit
+	irate
+	edict 14
+	debit 1
+	3
+aphid
+	irate
+	anvil 41
+	audio 3
+	aphid 1
+	4
+bribe
+	irate
+	pride 12
+	brine 5
+	bribe 1
+	4
+cabal
+	irate
+	canal 118
+	cabal 1
+	3
+surge
+	irate
+	scree 38
+	surge 1
+	3
+learn
+	irate
+	ready 10
+	pearl 2
+	learn 1
+	4
+whirl
+	irate
+	curio 23
+	shirk 5
+	whirl 1
+	4
+youth
+	irate
+	sooty 24
+	youth 1
+	3
+spiel
+	irate
+	widen 38
+	chief 2
+	spiel 1
+	4
+vigor
+	irate
+	curio 23
+	vigor 4
+	3
+stork
+	irate
+	burst 27
+	story 3
+	storm 2
+	stork 1
+	5
+rabid
+	irate
+	radii 17
+	rapid 2
+	rabid 1
+	4
+doubt
+	irate
+	shunt 47
+	moult 2
+	doubt 1
+	4
+iliac
+	irate
+	inlay 2
+	iliac 1
+	3
+edify
+	irate
+	widen 38
+	devil 2
+	edify 1
+	4
+fluff
+	irate
+	scold 194
+	flunk 12
+	fluff 1
+	4
+alike
+	irate
+	alive 10
+	alike 1
+	3
+anger
+	irate
+	paler 45
+	amber 2
+	anger 1
+	4
+joust
+	irate
+	shunt 47
+	joust 1
+	3
+mover
+	irate
+	loser 92
+	rower 17
+	hover 9
+	cover 2
+	mover 1
+	6
+cruel
+	irate
+	creed 20
+	cruel 1
+	3
+ennui
+	irate
+	widen 38
+	eking 5
+	ennui 1
+	4
+extra
+	irate
+	alter 14
+	extra 1
+	3
+yeast
+	irate
+	leant 12
+	feast 3
+	beast 2
+	yeast 1
+	5
+kiosk
+	irate
+	slimy 130
+	disco 4
+	kiosk 1
+	4
+bigot
+	irate
+	hoist 64
+	pilot 3
+	bigot 1
+	4
+spied
+	irate
+	widen 38
+	shied 3
+	spied 1
+	4
+staid
+	irate
+	plait 5
+	stain 2
+	staid 1
+	4
+alley
+	irate
+	angel 55
+	abled 2
+	alley 1
+	4
+trove
+	irate
+	trope 3
+	trove 1
+	3
+leave
+	irate
+	slave 40
+	leave 1
+	3
+virus
+	irate
+	curio 23
+	virus 1
+	3
+smear
+	irate
+	paler 45
+	rebar 6
+	swear 3
+	shear 2
+	smear 1
+	6
+count
+	irate
+	shunt 47
+	mount 3
+	count 1
+	4
+frame
+	irate
+	grace 15
+	drake 6
+	brave 3
+	erase 2
+	frame 1
+	6
+spire
+	irate
+	rinse 8
+	shire 2
+	spire 1
+	4
+vying
+	irate
+	slimy 130
+	dying 2
+	vying 1
+	4
+await
+	irate
+	plait 5
+	await 1
+	3
+align
+	irate
+	anvil 41
+	align 1
+	3
+humid
+	irate
+	slimy 130
+	mimic 5
+	humid 1
+	4
+incur
+	irate
+	incur 2
+	2
+mauve
+	irate
+	angle 42
+	sauce 8
+	mauve 1
+	4
+hunch
+	irate
+	scold 194
+	chump 8
+	bunch 2
+	hunch 1
+	5
+lapse
+	irate
+	angle 42
+	valve 6
+	lapse 1
+	4
+mecca
+	irate
+	angel 55
+	decay 6
+	mecca 1
+	4
+tooth
+	irate
+	sooty 24
+	booth 2
+	tooth 1
+	4
+ridge
+	irate
+	rinse 8
+	ridge 2
+	3
+risen
+	irate
+	risen 34
+	2
+locus
+	irate
+	scold 194
+	locus 1
+	3
+blimp
+	irate
+	slimy 130
+	climb 2
+	blimp 1
+	4
+north
+	irate
+	forth 5
+	worth 2
+	north 1
+	4
+quell
+	irate
+	kneel 106
+	swell 6
+	quell 1
+	4
+tempo
+	irate
+	sleet 54
+	teddy 4
+	tempo 1
+	4
+tower
+	irate
+	meter 28
+	other 3
+	tower 1
+	4
+gourd
+	irate
+	curry 61
+	spurn 6
+	blurb 2
+	gourd 1
+	5
+grown
+	irate
+	crowd 39
+	growl 5
+	grown 1
+	4
+candy
+	irate
+	canal 118
+	canny 3
+	candy 1
+	4
+smile
+	irate
+	slice 53
+	smile 1
+	3
+erect
+	irate
+	crest 8
+	erect 1
+	3
+start
+	irate
+	stark 7
+	start 1
+	3
+fudge
+	irate
+	louse 80
+	judge 9
+	budge 3
+	nudge 2
+	fudge 1
+	6
+delta
+	irate
+	theta 2
+	delta 1
+	3
+medal
+	irate
+	angel 55
+	pedal 5
+	medal 1
+	4
+minim
+	irate
+	slimy 130
+	mimic 5
+	minim 1
+	4
+rehab
+	irate
+	paler 45
+	zebra 2
+	rehab 1
+	4
+cynic
+	irate
+	slimy 130
+	cynic 1
+	3
+polar
+	irate
+	moral 60
+	solar 2
+	polar 1
+	4
+scald
+	irate
+	slack 64
+	scaly 3
+	scalp 2
+	scald 1
+	5
+venue
+	irate
+	louse 80
+	judge 9
+	venue 1
+	4
+sound
+	irate
+	scold 194
+	synod 2
+	sound 1
+	4
+whack
+	irate
+	slack 64
+	quack 4
+	aback 3
+	knack 2
+	whack 1
+	6
+gruff
+	irate
+	crowd 39
+	brush 2
+	gruff 1
+	4
+blood
+	irate
+	scold 194
+	flood 3
+	blood 1
+	4
+wimpy
+	irate
+	slimy 130
+	wimpy 1
+	3
+equip
+	irate
+	widen 38
+	helix 3
+	equip 1
+	4
+brawn
+	irate
+	brand 27
+	brawn 1
+	3
+coach
+	irate
+	slack 64
+	coach 1
+	3
+scorn
+	irate
+	curry 61
+	scorn 1
+	3
+surer
+	irate
+	loser 92
+	sewer 7
+	super 2
+	surer 1
+	5
+skull
+	irate
+	scold 194
+	sully 5
+	skull 1
+	4
+mason
+	irate
+	canal 118
+	wagon 2
+	mason 1
+	4
+gecko
+	irate
+	kneel 106
+	pesky 2
+	gecko 1
+	4
+cheek
+	irate
+	kneel 106
+	cheek 1
+	3
+sleep
+	irate
+	kneel 106
+	bleed 3
+	sleep 1
+	4
+rifle
+	irate
+	rinse 8
+	ridge 2
+	rifle 1
+	4
+shave
+	irate
+	slave 40
+	suave 2
+	shave 1
+	4
+reign
+	irate
+	risen 34
+	reign 1
+	3
+bonus
+	irate
+	scold 194
+	mossy 4
+	bonus 1
+	4
+vowel
+	irate
+	kneel 106
+	dowel 5
+	bowel 2
+	vowel 1
+	5
+cable
+	irate
+	angle 42
+	fable 4
+	cable 1
+	4
+gassy
+	irate
+	canal 118
+	gassy 16
+	3
+modem
+	irate
+	kneel 106
+	gooey 5
+	modem 1
+	4
+odder
+	irate
+	loser 92
+	offer 3
+	owner 2
+	odder 1
+	5
+swish
+	irate
+	slimy 130
+	swing 6
+	swish 1
+	4
+couch
+	irate
+	scold 194
+	vouch 6
+	pouch 2
+	couch 1
+	5
+south
+	irate
+	sooty 24
+	south 1
+	3
+torus
+	irate
+	burst 27
+	torus 1
+	3
+speak
+	irate
+	angel 55
+	decay 6
+	speak 1
+	4
+carve
+	irate
+	barge 9
+	farce 3
+	carve 1
+	4
+cheer
+	irate
+	loser 92
+	defer 17
+	queer 3
+	cheer 1
+	5
+grove
+	irate
+	prone 17
+	drove 5
+	grove 1
+	4
+jetty
+	irate
+	testy 11
+	petty 2
+	jetty 1
+	4
+plunk
+	irate
+	scold 194
+	flunk 12
+	plunk 1
+	4
+alarm
+	irate
+	shard 20
+	ovary 3
+	alarm 2
+	4
+bunny
+	irate
+	scold 194
+	nymph 15
+	funny 3
+	bunny 1
+	5
+whiny
+	irate
+	slimy 130
+	unify 3
+	whiny 1
+	4
+shell
+	irate
+	kneel 106
+	swell 6
+	spell 3
+	smell 2
+	shell 1
+	6
+bayou
+	irate
+	canal 118
+	gassy 16
+	bayou 1
+	4
+bused
+	irate
+	kneel 106
+	gooey 5
+	bused 1
+	4
+ditty
+	irate
+	witty 17
+	kitty 3
+	bitty 2
+	ditty 1
+	5
+turbo
+	irate
+	burst 27
+	turbo 1
+	3
+smite
+	irate
+	suite 7
+	spite 2
+	smite 1
+	4
+soggy
+	irate
+	scold 194
+	soggy 1
+	3
+aping
+	irate
+	anvil 41
+	aging 3
+	aping 1
+	4
+tweet
+	irate
+	sleet 54
+	tweet 1
+	3
+moron
+	irate
+	curry 61
+	moron 4
+	3
+wrote
+	irate
+	brute 2
+	wrote 1
+	3
+purge
+	irate
+	scree 38
+	forge 5
+	purge 1
+	4
+whole
+	irate
+	louse 80
+	clove 7
+	whole 1
+	4
+nasty
+	irate
+	pasty 15
+	hasty 3
+	tasty 2
+	nasty 1
+	5
+afoul
+	irate
+	canal 118
+	afoul 2
+	3
+altar
+	irate
+	carat 11
+	altar 1
+	3
+cutie
+	irate
+	title 9
+	untie 2
+	cutie 1
+	4
+happy
+	irate
+	canal 118
+	gassy 16
+	paddy 6
+	happy 1
+	5
+first
+	irate
+	shirt 8
+	first 1
+	3
+awful
+	irate
+	canal 118
+	afoul 2
+	awful 1
+	4
+wench
+	irate
+	kneel 106
+	bench 7
+	wench 1
+	4
+adept
+	irate
+	cleat 25
+	agent 2
+	adept 1
+	4
+guile
+	irate
+	slice 53
+	exile 3
+	while 2
+	guile 1
+	5
+grout
+	irate
+	crust 17
+	trout 2
+	grout 1
+	4
+carol
+	irate
+	moral 60
+	carol 1
+	3
+flesh
+	irate
+	kneel 106
+	shelf 4
+	flesh 1
+	4
+liege
+	irate
+	slice 53
+	belie 4
+	liege 1
+	4
+local
+	irate
+	canal 118
+	focal 3
+	vocal 2
+	local 1
+	5
+icily
+	irate
+	icily 8
+	2
+paddy
+	irate
+	canal 118
+	gassy 16
+	paddy 6
+	4
+dryer
+	irate
+	creed 20
+	dryer 2
+	3
+mouth
+	irate
+	sooty 24
+	month 2
+	mouth 1
+	4
+cavil
+	irate
+	anvil 41
+	cavil 1
+	3
+exert
+	irate
+	meter 28
+	exert 1
+	3
+broke
+	irate
+	prone 17
+	drove 5
+	froze 2
+	broke 1
+	5
+goofy
+	irate
+	scold 194
+	boozy 7
+	goofy 1
+	4
+easel
+	irate
+	angel 55
+	label 5
+	hazel 3
+	easel 2
+	5
+pause
+	irate
+	angle 42
+	sauce 8
+	pause 1
+	4
+plane
+	irate
+	slave 40
+	blame 9
+	glaze 5
+	place 3
+	plane 1
+	6
+there
+	irate
+	three 4
+	there 1
+	3
+harsh
+	irate
+	moral 60
+	harpy 7
+	harsh 1
+	4
+viral
+	irate
+	radii 17
+	circa 4
+	viral 1
+	4
+quill
+	irate
+	slimy 130
+	build 6
+	quill 1
+	4
+libel
+	irate
+	widen 38
+	pixel 3
+	libel 1
+	4
+fight
+	irate
+	hoist 64
+	wight 6
+	night 5
+	tight 4
+	might 3
+	light 2
+	fight 1
+	8
+trial
+	irate
+	triad 2
+	trial 1
+	3
+undid
+	irate
+	slimy 130
+	pinch 17
+	undid 1
+	4
+debar
+	irate
+	paler 45
+	rebar 6
+	debar 1
+	4
+scree
+	irate
+	scree 38
+	2
+weird
+	irate
+	risen 34
+	peril 2
+	weird 1
+	4
+brine
+	irate
+	pride 12
+	brine 5
+	3
+scowl
+	irate
+	scold 194
+	scowl 1
+	3
+slave
+	irate
+	slave 40
+	2
+ready
+	irate
+	ready 10
+	2
+crown
+	irate
+	crowd 39
+	crown 1
+	3
+ankle
+	irate
+	angle 42
+	ankle 1
+	3
+comfy
+	irate
+	scold 194
+	vouch 6
+	comfy 1
+	4
+hairy
+	irate
+	radii 17
+	fairy 3
+	hairy 1
+	4
+allot
+	irate
+	total 55
+	aloft 2
+	allot 1
+	4
+villa
+	irate
+	anvil 41
+	viola 3
+	villa 1
+	4
+thigh
+	irate
+	hoist 64
+	think 4
+	thigh 1
+	4
+steep
+	irate
+	sleet 54
+	steep 2
+	3
+squib
+	irate
+	slimy 130
+	sushi 3
+	squib 1
+	4
+seven
+	irate
+	kneel 106
+	semen 2
+	seven 1
+	4
+rupee
+	irate
+	scree 38
+	rupee 1
+	3
+humus
+	irate
+	scold 194
+	mushy 9
+	humus 1
+	4
+admin
+	irate
+	anvil 41
+	admin 1
+	3
+drool
+	irate
+	crowd 39
+	drool 4
+	3
+macaw
+	irate
+	canal 118
+	macaw 1
+	3
+waltz
+	irate
+	pasty 15
+	waltz 1
+	3
+manly
+	irate
+	canal 118
+	lanky 2
+	manly 1
+	4
+admit
+	irate
+	taint 17
+	admit 2
+	3
+lilac
+	irate
+	anvil 41
+	gaily 3
+	lilac 1
+	4
+infer
+	irate
+	inner 3
+	infer 1
+	3
+ultra
+	irate
+	carat 11
+	ultra 1
+	3
+mambo
+	irate
+	canal 118
+	gassy 16
+	mambo 1
+	4
+cream
+	irate
+	bread 9
+	freak 4
+	cream 1
+	4
+foyer
+	irate
+	loser 92
+	rower 17
+	hover 9
+	poker 5
+	goner 3
+	boxer 2
+	foyer 1
+	8
+inane
+	irate
+	image 2
+	inane 1
+	3
+avert
+	irate
+	alter 14
+	avert 1
+	3
+speck
+	irate
+	kneel 106
+	check 2
+	speck 1
+	4
+taper
+	irate
+	alter 14
+	tamer 3
+	taper 2
+	4
+young
+	irate
+	scold 194
+	bough 10
+	young 1
+	4
+tonic
+	irate
+	hoist 64
+	toxin 5
+	tonic 1
+	4
+total
+	irate
+	total 55
+	2
+pushy
+	irate
+	scold 194
+	mushy 9
+	bushy 2
+	pushy 1
+	5
+hound
+	irate
+	scold 194
+	bound 6
+	wound 5
+	mound 4
+	found 3
+	hound 2
+	7
+tepee
+	irate
+	tense 13
+	tepee 1
+	3
+level
+	irate
+	kneel 106
+	bevel 6
+	level 1
+	4
+bathe
+	irate
+	lathe 4
+	bathe 1
+	3
+bingo
+	irate
+	slimy 130
+	pinch 17
+	dingo 2
+	bingo 1
+	5
+clink
+	irate
+	slimy 130
+	flick 8
+	clink 1
+	4
+beach
+	irate
+	leash 10
+	peach 2
+	beach 1
+	4
+flake
+	irate
+	slave 40
+	blame 9
+	glaze 5
+	place 3
+	flake 1
+	6
+niece
+	irate
+	slice 53
+	wince 4
+	niece 1
+	4
+ratio
+	irate
+	ratio 2
+	2
+slain
+	irate
+	snail 14
+	slain 1
+	3
+warty
+	irate
+	party 4
+	warty 1
+	3
+swirl
+	irate
+	curio 23
+	shirk 5
+	swirl 1
+	4
+cyber
+	irate
+	loser 92
+	defer 17
+	buyer 5
+	cyber 1
+	5
+camel
+	irate
+	angel 55
+	label 5
+	hazel 3
+	easel 2
+	camel 1
+	6
+flame
+	irate
+	slave 40
+	blame 9
+	flame 1
+	4
+badly
+	irate
+	canal 118
+	sadly 11
+	madly 2
+	badly 1
+	5
+chain
+	irate
+	snail 14
+	again 2
+	chain 1
+	4
+terra
+	irate
+	alter 14
+	terra 1
+	3
+stand
+	irate
+	slant 21
+	stank 2
+	stand 1
+	4
+bible
+	irate
+	slice 53
+	belie 4
+	bible 1
+	4
+quick
+	irate
+	slimy 130
+	owing 9
+	chick 2
+	quick 1
+	5
+occur
+	irate
+	curry 61
+	scour 2
+	occur 1
+	4
+heard
+	irate
+	ready 10
+	beard 2
+	heard 1
+	4
+siege
+	irate
+	slice 53
+	sieve 3
+	siege 1
+	4
+split
+	irate
+	hoist 64
+	visit 2
+	split 1
+	4
+amply
+	irate
+	canal 118
+	aloud 10
+	amply 2
+	4
+opera
+	irate
+	paler 45
+	recap 3
+	opera 1
+	4
+audit
+	irate
+	taint 17
+	admit 2
+	audit 1
+	4
+tripe
+	irate
+	tribe 3
+	trice 2
+	tripe 1
+	4
+piper
+	irate
+	risen 34
+	diver 10
+	fixer 4
+	piper 1
+	5
+value
+	irate
+	angle 42
+	valve 6
+	value 1
+	4
+canoe
+	irate
+	angle 42
+	dance 2
+	canoe 1
+	4
+birth
+	irate
+	mirth 4
+	girth 2
+	birth 1
+	4
+recut
+	irate
+	meter 28
+	rebut 2
+	recut 1
+	4
+shaky
+	irate
+	slack 64
+	snaky 2
+	shaky 1
+	4
+shade
+	irate
+	slave 40
+	spade 7
+	shade 1
+	4
+dicey
+	irate
+	widen 38
+	dicey 1
+	3
+tapir
+	irate
+	ratio 2
+	tapir 1
+	3
+knave
+	irate
+	slave 40
+	heave 3
+	knave 1
+	4
+serum
+	irate
+	loser 92
+	rebus 3
+	serum 1
+	4
+chart
+	irate
+	stark 7
+	apart 3
+	quart 2
+	chart 1
+	5
+ninth
+	irate
+	witty 17
+	fifth 5
+	sixth 2
+	ninth 1
+	5
+naive
+	irate
+	alive 10
+	waive 2
+	naive 1
+	4
+modal
+	irate
+	canal 118
+	loyal 6
+	modal 1
+	4
+scone
+	irate
+	louse 80
+	spoke 6
+	shove 3
+	scone 1
+	5
+guava
+	irate
+	slack 64
+	foamy 2
+	guava 1
+	4
+basal
+	irate
+	canal 118
+	papal 2
+	basal 1
+	4
+sleek
+	irate
+	kneel 106
+	sleek 1
+	3
+refit
+	irate
+	remit 7
+	refit 1
+	3
+water
+	irate
+	alter 14
+	eater 4
+	hater 3
+	cater 2
+	water 1
+	6
+surly
+	irate
+	curry 61
+	burly 3
+	surly 1
+	4
+taker
+	irate
+	alter 14
+	tamer 3
+	taper 2
+	taker 1
+	5
+apply
+	irate
+	canal 118
+	aloud 10
+	amply 2
+	apply 1
+	5
+group
+	irate
+	crowd 39
+	groom 8
+	gross 2
+	group 1
+	5
+slyly
+	irate
+	scold 194
+	skull 5
+	slyly 1
+	4
+skiff
+	irate
+	slimy 130
+	swing 6
+	skiff 1
+	4
+great
+	irate
+	tread 3
+	great 1
+	3
+bugle
+	irate
+	louse 80
+	bulge 3
+	bugle 1
+	4
+brick
+	irate
+	prick 25
+	crick 2
+	brick 1
+	4
+gloom
+	irate
+	scold 194
+	bloom 6
+	gloom 1
+	4
+gravy
+	irate
+	brand 27
+	grasp 11
+	gravy 1
+	4
+grill
+	irate
+	prick 25
+	grind 8
+	grimy 2
+	grill 1
+	5
+spend
+	irate
+	kneel 106
+	spend 1
+	3
+patsy
+	irate
+	total 55
+	match 8
+	patsy 1
+	4
+knoll
+	irate
+	scold 194
+	wooly 2
+	knoll 1
+	4
+brass
+	irate
+	brand 27
+	brash 4
+	brass 1
+	4
+elide
+	irate
+	slice 53
+	glide 3
+	elide 1
+	4
+drama
+	irate
+	brand 27
+	drawl 2
+	drama 1
+	4
+roomy
+	irate
+	curry 61
+	rowdy 2
+	roomy 1
+	4
+sperm
+	irate
+	loser 92
+	rebus 3
+	sperm 1
+	4
+order
+	irate
+	creed 20
+	dryer 2
+	order 1
+	4
+snarl
+	irate
+	shard 20
+	scarf 5
+	swarm 3
+	spark 2
+	snarl 1
+	6
+enema
+	irate
+	angel 55
+	sneak 3
+	enema 1
+	4
+knelt
+	irate
+	sleet 54
+	dwelt 2
+	knelt 1
+	4
+cower
+	irate
+	loser 92
+	rower 17
+	mower 3
+	power 2
+	cower 1
+	6
+liken
+	irate
+	widen 38
+	given 4
+	linen 2
+	liken 1
+	5
+intro
+	irate
+	intro 1
+	2
+ivory
+	irate
+	incur 2
+	ivory 1
+	3
+rhyme
+	irate
+	scree 38
+	rouge 4
+	rhyme 1
+	4
+bawdy
+	irate
+	canal 118
+	gassy 16
+	paddy 6
+	bawdy 1
+	5
+pound
+	irate
+	scold 194
+	bound 6
+	wound 5
+	mound 4
+	found 3
+	hound 2
+	pound 1
+	8
+salon
+	irate
+	canal 118
+	salon 1
+	3
+chord
+	irate
+	curry 61
+	chord 1
+	3
+swept
+	irate
+	sleet 54
+	scent 3
+	swept 1
+	4
+breed
+	irate
+	creed 20
+	greed 3
+	freed 2
+	breed 1
+	5
+unwed
+	irate
+	kneel 106
+	unfed 2
+	unwed 1
+	4
+unite
+	irate
+	suite 7
+	unite 1
+	3
+coast
+	irate
+	slant 21
+	toast 3
+	boast 2
+	coast 1
+	5
+tenth
+	irate
+	testy 11
+	teeth 2
+	tenth 1
+	4
+racer
+	irate
+	paler 45
+	wager 13
+	maker 6
+	saner 4
+	rarer 2
+	racer 1
+	7
+angel
+	irate
+	angel 55
+	2
+usage
+	irate
+	slave 40
+	chase 5
+	usage 1
+	4
+fritz
+	irate
+	fritz 1
+	2
+gusto
+	irate
+	sooty 24
+	gusto 1
+	3
+flash
+	irate
+	slack 64
+	glass 2
+	flash 1
+	4
+royal
+	irate
+	moral 60
+	royal 1
+	3
+latch
+	irate
+	total 55
+	aptly 2
+	latch 1
+	4
+touch
+	irate
+	shunt 47
+	tough 2
+	touch 1
+	4
+steed
+	irate
+	sleet 54
+	steep 2
+	steed 1
+	4
+vapor
+	irate
+	moral 60
+	favor 9
+	vapor 1
+	4
+inert
+	irate
+	inter 2
+	inert 1
+	3
+udder
+	irate
+	loser 92
+	defer 17
+	under 3
+	udder 1
+	5
+musky
+	irate
+	scold 194
+	mushy 9
+	musky 1
+	4
+icing
+	irate
+	icily 8
+	icing 1
+	3
+evade
+	irate
+	slave 40
+	evade 1
+	3
+deter
+	irate
+	meter 28
+	deter 1
+	3
+quake
+	irate
+	slave 40
+	agape 7
+	chafe 2
+	quake 1
+	5

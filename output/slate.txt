@@ -1,0 +1,12851 @@
+funny
+	slate
+	round 221
+	funny 2
+	3
+alarm
+	slate
+	plank 20
+	alarm 5
+	3
+befit
+	slate
+	deter 72
+	befit 2
+	3
+sling
+	slate
+	slunk 12
+	sling 1
+	3
+taper
+	slate
+	after 25
+	taper 3
+	3
+mayor
+	slate
+	rayon 136
+	mayor 1
+	3
+blimp
+	slate
+	flunk 39
+	blimp 7
+	3
+abbey
+	slate
+	amber 61
+	abbey 1
+	3
+prune
+	slate
+	drone 107
+	prune 3
+	3
+elope
+	slate
+	glove 13
+	elope 3
+	3
+hobby
+	slate
+	round 221
+	boozy 11
+	hobby 1
+	4
+dolly
+	slate
+	dilly 87
+	dolly 2
+	3
+abyss
+	slate
+	amiss 14
+	abyss 1
+	3
+vague
+	slate
+	range 31
+	vague 3
+	3
+slunk
+	slate
+	slunk 12
+	2
+tilde
+	slate
+	tilde 5
+	2
+scale
+	slate
+	scale 2
+	2
+scrub
+	slate
+	scion 56
+	scrub 2
+	3
+elate
+	slate
+	elate 2
+	2
+moist
+	slate
+	frost 24
+	moist 4
+	3
+stein
+	slate
+	spent 11
+	stein 2
+	3
+stock
+	slate
+	snort 39
+	stoop 5
+	stock 2
+	4
+bully
+	slate
+	dilly 87
+	fully 7
+	bully 2
+	4
+trick
+	slate
+	tonic 86
+	trick 2
+	3
+shelf
+	slate
+	shelf 6
+	2
+mercy
+	slate
+	decor 165
+	mercy 2
+	3
+daunt
+	slate
+	taint 51
+	daunt 5
+	3
+pesky
+	slate
+	poser 19
+	pesky 1
+	3
+sixth
+	slate
+	sixth 6
+	2
+hyena
+	slate
+	amber 61
+	ocean 7
+	hyena 1
+	4
+opera
+	slate
+	amber 61
+	creak 7
+	opera 1
+	4
+jazzy
+	slate
+	rayon 136
+	bawdy 12
+	jazzy 3
+	4
+daddy
+	slate
+	rayon 136
+	bawdy 12
+	daddy 4
+	4
+glaze
+	slate
+	blare 12
+	glaze 6
+	3
+batch
+	slate
+	taint 51
+	batch 7
+	3
+chard
+	slate
+	drank 48
+	hoard 5
+	chard 1
+	4
+river
+	slate
+	decor 165
+	viper 18
+	river 2
+	4
+pivot
+	slate
+	tonic 86
+	pivot 3
+	3
+admit
+	slate
+	taint 51
+	admit 2
+	3
+pixel
+	slate
+	lower 61
+	pixel 7
+	3
+choke
+	slate
+	drone 107
+	choke 4
+	3
+mason
+	slate
+	amiss 14
+	mason 1
+	3
+shock
+	slate
+	scion 56
+	shock 2
+	3
+venue
+	slate
+	drone 107
+	hence 12
+	venue 2
+	4
+extra
+	slate
+	after 25
+	extra 1
+	3
+tuber
+	slate
+	deter 72
+	tuber 6
+	3
+range
+	slate
+	range 31
+	2
+abort
+	slate
+	taint 51
+	abort 5
+	3
+forum
+	slate
+	round 221
+	forum 1
+	3
+deign
+	slate
+	decor 165
+	deign 3
+	3
+arbor
+	slate
+	rayon 136
+	arbor 5
+	3
+paddy
+	slate
+	rayon 136
+	bawdy 12
+	daddy 4
+	paddy 2
+	5
+stoke
+	slate
+	stoke 4
+	2
+bezel
+	slate
+	lower 61
+	pixel 7
+	bezel 3
+	4
+crest
+	slate
+	crest 15
+	2
+foray
+	slate
+	rayon 136
+	foray 1
+	3
+twixt
+	slate
+	tonic 86
+	tight 4
+	twixt 1
+	4
+joust
+	slate
+	frost 24
+	moist 4
+	joust 1
+	4
+blame
+	slate
+	blare 12
+	blame 3
+	3
+shark
+	slate
+	spark 23
+	shark 1
+	3
+rumba
+	slate
+	rayon 136
+	rumba 1
+	3
+chain
+	slate
+	drank 48
+	chain 2
+	3
+crank
+	slate
+	drank 48
+	crank 3
+	3
+borax
+	slate
+	rayon 136
+	croak 6
+	borax 1
+	4
+booze
+	slate
+	drone 107
+	choke 4
+	booze 2
+	4
+pilot
+	slate
+	guilt 14
+	pilot 2
+	3
+rarer
+	slate
+	amber 61
+	parer 12
+	rarer 1
+	4
+borne
+	slate
+	drone 107
+	borne 1
+	3
+slime
+	slate
+	slime 4
+	2
+hotel
+	slate
+	towel 10
+	hotel 2
+	3
+glean
+	slate
+	glean 8
+	2
+poesy
+	slate
+	poser 19
+	poesy 1
+	3
+scion
+	slate
+	scion 56
+	2
+fleet
+	slate
+	fleet 3
+	2
+moral
+	slate
+	royal 58
+	moral 2
+	3
+bugle
+	slate
+	bilge 21
+	bugle 1
+	3
+stood
+	slate
+	snort 39
+	stoop 5
+	stood 1
+	4
+altar
+	slate
+	bloat 7
+	altar 1
+	3
+woozy
+	slate
+	round 221
+	boozy 11
+	woozy 1
+	4
+nudge
+	slate
+	drone 107
+	nudge 2
+	3
+amity
+	slate
+	party 15
+	amity 2
+	3
+share
+	slate
+	share 13
+	2
+hover
+	slate
+	decor 165
+	mower 16
+	rover 8
+	hover 1
+	5
+taunt
+	slate
+	taint 51
+	taunt 1
+	3
+fritz
+	slate
+	north 37
+	fritz 1
+	3
+handy
+	slate
+	rayon 136
+	candy 8
+	handy 2
+	4
+magic
+	slate
+	rayon 136
+	magma 10
+	magic 1
+	4
+title
+	slate
+	tilde 5
+	title 1
+	3
+meter
+	slate
+	deter 72
+	meter 1
+	3
+swash
+	slate
+	spark 23
+	swash 4
+	3
+decry
+	slate
+	decor 165
+	decry 1
+	3
+alive
+	slate
+	alive 4
+	2
+pupil
+	slate
+	dilly 87
+	logic 5
+	pupil 1
+	4
+wrest
+	slate
+	crest 15
+	wrest 1
+	3
+chili
+	slate
+	dilly 87
+	chili 1
+	3
+kebab
+	slate
+	amber 61
+	kebab 1
+	3
+older
+	slate
+	bleed 18
+	older 2
+	3
+quilt
+	slate
+	guilt 14
+	quilt 2
+	3
+lemur
+	slate
+	lower 61
+	lemur 1
+	3
+loath
+	slate
+	loath 1
+	2
+crawl
+	slate
+	crawl 11
+	2
+dusky
+	slate
+	missy 42
+	pushy 4
+	dusky 1
+	4
+skier
+	slate
+	sewer 28
+	surer 4
+	skier 2
+	4
+climb
+	slate
+	flunk 39
+	blimp 7
+	climb 1
+	4
+paler
+	slate
+	regal 31
+	paler 4
+	3
+heron
+	slate
+	decor 165
+	heron 1
+	3
+witch
+	slate
+	tonic 86
+	witch 5
+	3
+wispy
+	slate
+	missy 42
+	wispy 3
+	3
+aroma
+	slate
+	rayon 136
+	croak 6
+	aroma 1
+	4
+spilt
+	slate
+	spilt 5
+	2
+tonga
+	slate
+	taint 51
+	tonga 1
+	3
+fetal
+	slate
+	fetal 6
+	2
+forgo
+	slate
+	round 221
+	morph 4
+	forgo 2
+	4
+exact
+	slate
+	enact 7
+	exact 1
+	3
+savvy
+	slate
+	saucy 17
+	savvy 5
+	3
+saint
+	slate
+	satyr 7
+	saint 1
+	3
+cheer
+	slate
+	decor 165
+	cheer 3
+	3
+gross
+	slate
+	missy 42
+	gross 3
+	3
+repay
+	slate
+	amber 61
+	creak 7
+	repay 1
+	4
+irate
+	slate
+	grate 6
+	irate 2
+	3
+clued
+	slate
+	bleed 18
+	clued 2
+	3
+spire
+	slate
+	spire 32
+	2
+trope
+	slate
+	trice 17
+	trope 2
+	3
+might
+	slate
+	tonic 86
+	drift 6
+	might 2
+	4
+dealt
+	slate
+	leapt 4
+	dealt 1
+	3
+swoop
+	slate
+	scion 56
+	spook 4
+	swoop 1
+	4
+speck
+	slate
+	sewer 28
+	speck 3
+	3
+terse
+	slate
+	terse 4
+	2
+dummy
+	slate
+	round 221
+	dumpy 6
+	dummy 1
+	4
+ensue
+	slate
+	rouse 27
+	ensue 2
+	3
+tumor
+	slate
+	tonic 86
+	turbo 7
+	tumor 2
+	4
+moult
+	slate
+	guilt 14
+	moult 1
+	3
+slyly
+	slate
+	slunk 12
+	slyly 4
+	3
+ramen
+	slate
+	amber 61
+	ramen 2
+	3
+steam
+	slate
+	steam 4
+	2
+stole
+	slate
+	stole 2
+	2
+amply
+	slate
+	royal 58
+	madly 10
+	amply 1
+	4
+bunny
+	slate
+	round 221
+	funny 2
+	bunny 1
+	4
+early
+	slate
+	regal 31
+	paler 4
+	early 1
+	4
+unfit
+	slate
+	tonic 86
+	unfit 1
+	3
+beset
+	slate
+	crest 15
+	unset 4
+	beset 1
+	4
+noose
+	slate
+	rouse 27
+	poise 7
+	noose 3
+	4
+arose
+	slate
+	pause 10
+	arose 2
+	3
+fjord
+	slate
+	round 221
+	chord 4
+	fjord 1
+	4
+recur
+	slate
+	decor 165
+	recur 1
+	3
+downy
+	slate
+	round 221
+	downy 2
+	3
+briar
+	slate
+	rayon 136
+	cigar 8
+	briar 2
+	4
+alloy
+	slate
+	alloy 13
+	2
+nutty
+	slate
+	north 37
+	nutty 1
+	3
+kinky
+	slate
+	round 221
+	nymph 9
+	kinky 1
+	4
+blend
+	slate
+	bleed 18
+	blend 1
+	3
+poser
+	slate
+	poser 19
+	2
+wooly
+	slate
+	dilly 87
+	coyly 6
+	wooly 2
+	4
+mural
+	slate
+	royal 58
+	mural 2
+	3
+rapid
+	slate
+	rayon 136
+	rapid 6
+	3
+diary
+	slate
+	drank 48
+	diary 2
+	3
+rerun
+	slate
+	decor 165
+	merry 8
+	rerun 1
+	4
+ledge
+	slate
+	bilge 21
+	ledge 3
+	3
+tardy
+	slate
+	taint 51
+	taffy 5
+	tardy 3
+	4
+cacao
+	slate
+	rayon 136
+	cacao 3
+	3
+ditto
+	slate
+	north 37
+	ditto 1
+	3
+uncut
+	slate
+	tonic 86
+	uncut 1
+	3
+ovoid
+	slate
+	round 221
+	ovoid 1
+	3
+slick
+	slate
+	slunk 12
+	slick 1
+	3
+slant
+	slate
+	slant 1
+	2
+rower
+	slate
+	decor 165
+	mower 16
+	rower 2
+	4
+skiff
+	slate
+	scion 56
+	skimp 6
+	skiff 1
+	4
+harry
+	slate
+	rayon 136
+	harpy 9
+	harry 2
+	4
+audio
+	slate
+	rayon 136
+	audio 6
+	3
+lowly
+	slate
+	dilly 87
+	lowly 1
+	3
+drunk
+	slate
+	round 221
+	drunk 1
+	3
+scarf
+	slate
+	spark 23
+	scarf 4
+	3
+libel
+	slate
+	lower 61
+	liken 5
+	libel 1
+	4
+pushy
+	slate
+	missy 42
+	pushy 4
+	3
+preen
+	slate
+	decor 165
+	green 8
+	preen 1
+	4
+smelt
+	slate
+	smelt 3
+	2
+offal
+	slate
+	royal 58
+	offal 1
+	3
+scent
+	slate
+	spent 11
+	scent 1
+	3
+edify
+	slate
+	decor 165
+	unfed 8
+	edify 1
+	4
+horde
+	slate
+	drone 107
+	horde 1
+	3
+atone
+	slate
+	atone 2
+	2
+ocean
+	slate
+	amber 61
+	ocean 7
+	3
+tulle
+	slate
+	tilde 5
+	tulle 1
+	3
+exert
+	slate
+	deter 72
+	exert 2
+	3
+freer
+	slate
+	decor 165
+	viper 18
+	freer 4
+	4
+baler
+	slate
+	regal 31
+	paler 4
+	baler 1
+	4
+baste
+	slate
+	baste 6
+	2
+idyll
+	slate
+	dilly 87
+	idyll 1
+	3
+creak
+	slate
+	amber 61
+	creak 7
+	3
+fault
+	slate
+	natal 17
+	fault 3
+	3
+grave
+	slate
+	crave 28
+	grave 2
+	3
+liken
+	slate
+	lower 61
+	liken 5
+	3
+lasso
+	slate
+	basil 6
+	lasso 1
+	3
+clout
+	slate
+	flint 7
+	clout 2
+	3
+tiara
+	slate
+	craft 19
+	tiara 1
+	3
+pouty
+	slate
+	north 37
+	pouty 3
+	3
+boost
+	slate
+	frost 24
+	boost 2
+	3
+diode
+	slate
+	drone 107
+	diode 1
+	3
+petty
+	slate
+	petty 10
+	2
+vying
+	slate
+	round 221
+	vying 4
+	3
+spray
+	slate
+	saucy 17
+	spray 1
+	3
+fiery
+	slate
+	decor 165
+	green 8
+	fiery 2
+	4
+duvet
+	slate
+	deter 72
+	duvet 1
+	3
+koala
+	slate
+	crawl 11
+	koala 3
+	3
+spore
+	slate
+	spire 32
+	spore 1
+	3
+lusty
+	slate
+	lusty 1
+	2
+bayou
+	slate
+	rayon 136
+	bayou 1
+	3
+cubic
+	slate
+	round 221
+	jumpy 14
+	cubic 2
+	4
+cabby
+	slate
+	rayon 136
+	bawdy 12
+	cabby 1
+	4
+cutie
+	slate
+	trice 17
+	cutie 1
+	3
+bevel
+	slate
+	lower 61
+	pixel 7
+	bezel 3
+	bevel 1
+	5
+quill
+	slate
+	dilly 87
+	frill 5
+	quill 2
+	4
+shirt
+	slate
+	snort 39
+	shirt 3
+	3
+align
+	slate
+	alloy 13
+	alibi 4
+	align 1
+	4
+piety
+	slate
+	petty 10
+	piety 1
+	3
+broom
+	slate
+	round 221
+	crook 14
+	broom 3
+	4
+smell
+	slate
+	shelf 6
+	smell 3
+	3
+vigor
+	slate
+	round 221
+	brook 14
+	vigor 1
+	4
+level
+	slate
+	lower 61
+	liken 5
+	level 1
+	4
+boney
+	slate
+	decor 165
+	women 9
+	boney 2
+	4
+fiber
+	slate
+	decor 165
+	viper 18
+	fiber 4
+	4
+serum
+	slate
+	sewer 28
+	serum 2
+	3
+harem
+	slate
+	amber 61
+	ramen 2
+	harem 1
+	4
+email
+	slate
+	leafy 8
+	email 1
+	3
+heave
+	slate
+	crave 28
+	heave 3
+	3
+today
+	slate
+	taint 51
+	today 2
+	3
+harsh
+	slate
+	amiss 14
+	harsh 2
+	3
+hefty
+	slate
+	petty 10
+	hefty 2
+	3
+frond
+	slate
+	round 221
+	frond 1
+	3
+cleat
+	slate
+	cleat 5
+	2
+whack
+	slate
+	drank 48
+	whack 3
+	3
+shady
+	slate
+	spark 23
+	swash 4
+	shady 1
+	4
+slimy
+	slate
+	slunk 12
+	slyly 4
+	slimy 1
+	4
+dowdy
+	slate
+	round 221
+	dowdy 6
+	3
+setup
+	slate
+	spent 11
+	setup 1
+	3
+jetty
+	slate
+	petty 10
+	jetty 1
+	3
+spear
+	slate
+	spear 10
+	2
+curio
+	slate
+	round 221
+	curio 7
+	3
+split
+	slate
+	spilt 5
+	split 1
+	3
+sweep
+	slate
+	sewer 28
+	sweep 1
+	3
+glide
+	slate
+	glove 13
+	glide 1
+	3
+rabid
+	slate
+	rayon 136
+	rapid 6
+	rabid 1
+	4
+yeast
+	slate
+	yeast 3
+	2
+caddy
+	slate
+	rayon 136
+	bawdy 12
+	daddy 4
+	paddy 2
+	caddy 1
+	6
+murky
+	slate
+	round 221
+	curry 6
+	murky 1
+	4
+swish
+	slate
+	scion 56
+	skimp 6
+	swish 1
+	4
+where
+	slate
+	drone 107
+	revue 12
+	where 1
+	4
+singe
+	slate
+	spire 32
+	singe 4
+	3
+spice
+	slate
+	spire 32
+	spice 3
+	3
+trial
+	slate
+	natal 17
+	trial 3
+	3
+spine
+	slate
+	spire 32
+	spice 3
+	spine 2
+	4
+joint
+	slate
+	tonic 86
+	joint 2
+	3
+sappy
+	slate
+	saucy 17
+	savvy 5
+	sappy 3
+	4
+shook
+	slate
+	scion 56
+	spook 4
+	shook 1
+	4
+usurp
+	slate
+	missy 42
+	focus 3
+	usurp 1
+	4
+olive
+	slate
+	globe 13
+	olive 1
+	3
+twist
+	slate
+	frost 24
+	twist 2
+	3
+hence
+	slate
+	drone 107
+	hence 12
+	3
+scalp
+	slate
+	shall 8
+	scalp 3
+	3
+prong
+	slate
+	round 221
+	prong 4
+	3
+fluff
+	slate
+	flunk 39
+	fluff 2
+	3
+ozone
+	slate
+	drone 107
+	ozone 2
+	3
+silly
+	slate
+	skill 17
+	silly 1
+	3
+froze
+	slate
+	drone 107
+	prove 6
+	froze 2
+	4
+purge
+	slate
+	drone 107
+	revue 12
+	purge 1
+	4
+exult
+	slate
+	towel 10
+	exult 2
+	3
+viral
+	slate
+	royal 58
+	mural 2
+	viral 1
+	4
+eclat
+	slate
+	fetal 6
+	eclat 1
+	3
+flake
+	slate
+	blare 12
+	glaze 6
+	flake 4
+	4
+alpha
+	slate
+	alloy 13
+	alibi 4
+	alpha 1
+	4
+chief
+	slate
+	decor 165
+	chief 3
+	3
+devil
+	slate
+	lower 61
+	belly 8
+	devil 1
+	4
+prank
+	slate
+	drank 48
+	crank 3
+	prank 2
+	4
+stark
+	slate
+	stark 14
+	2
+elide
+	slate
+	glove 13
+	flume 5
+	elide 1
+	4
+gumbo
+	slate
+	round 221
+	gumbo 4
+	3
+death
+	slate
+	death 3
+	2
+ample
+	slate
+	angle 16
+	ample 3
+	3
+brine
+	slate
+	drone 107
+	prune 3
+	brine 1
+	4
+fecal
+	slate
+	regal 31
+	pedal 5
+	fecal 1
+	4
+greet
+	slate
+	deter 72
+	greet 2
+	3
+never
+	slate
+	decor 165
+	fever 6
+	never 1
+	4
+halve
+	slate
+	angle 16
+	halve 3
+	3
+sadly
+	slate
+	solar 8
+	sadly 1
+	3
+think
+	slate
+	tonic 86
+	think 3
+	3
+shown
+	slate
+	scion 56
+	shown 3
+	3
+prize
+	slate
+	drone 107
+	price 9
+	prize 2
+	4
+evict
+	slate
+	deter 72
+	evict 7
+	3
+teary
+	slate
+	enact 7
+	teary 1
+	3
+batty
+	slate
+	party 15
+	batty 4
+	3
+bloat
+	slate
+	bloat 7
+	2
+giver
+	slate
+	decor 165
+	viper 18
+	river 2
+	giver 1
+	5
+femur
+	slate
+	decor 165
+	fever 6
+	femur 1
+	4
+flame
+	slate
+	blare 12
+	glaze 6
+	flake 4
+	flame 1
+	5
+novel
+	slate
+	lower 61
+	novel 4
+	3
+pried
+	slate
+	decor 165
+	freed 5
+	pried 1
+	4
+grove
+	slate
+	drone 107
+	prove 6
+	grove 1
+	4
+lurch
+	slate
+	dilly 87
+	growl 6
+	lurch 1
+	4
+chord
+	slate
+	round 221
+	chord 4
+	3
+boast
+	slate
+	trash 5
+	boast 2
+	3
+event
+	slate
+	deter 72
+	event 2
+	3
+drift
+	slate
+	tonic 86
+	drift 6
+	3
+fixer
+	slate
+	decor 165
+	viper 18
+	fiber 4
+	fixer 2
+	5
+nerve
+	slate
+	drone 107
+	nerve 2
+	3
+abbot
+	slate
+	taint 51
+	abort 5
+	abbot 1
+	4
+booth
+	slate
+	north 37
+	booth 4
+	3
+chart
+	slate
+	craft 19
+	chart 1
+	3
+false
+	slate
+	false 3
+	2
+faint
+	slate
+	taint 51
+	faint 2
+	3
+amiss
+	slate
+	amiss 14
+	2
+tubal
+	slate
+	natal 17
+	trial 3
+	tubal 1
+	4
+shrew
+	slate
+	sewer 28
+	shrew 2
+	3
+utter
+	slate
+	deter 72
+	outer 5
+	utter 1
+	4
+growl
+	slate
+	dilly 87
+	growl 6
+	3
+shore
+	slate
+	spire 32
+	shore 4
+	3
+terra
+	slate
+	after 25
+	great 4
+	terra 1
+	4
+bilge
+	slate
+	bilge 21
+	2
+decoy
+	slate
+	decor 165
+	decoy 1
+	3
+hunch
+	slate
+	round 221
+	hunky 10
+	hunch 1
+	4
+octet
+	slate
+	deter 72
+	octet 3
+	3
+basil
+	slate
+	basil 6
+	2
+caulk
+	slate
+	royal 58
+	caulk 4
+	3
+sight
+	slate
+	snort 39
+	sight 3
+	3
+solve
+	slate
+	solve 2
+	2
+nadir
+	slate
+	rayon 136
+	nadir 1
+	3
+micro
+	slate
+	round 221
+	crook 14
+	micro 1
+	4
+bound
+	slate
+	round 221
+	found 6
+	bound 5
+	4
+stalk
+	slate
+	stalk 3
+	2
+bitty
+	slate
+	north 37
+	bitty 6
+	3
+wider
+	slate
+	decor 165
+	ruder 5
+	wider 1
+	4
+cigar
+	slate
+	rayon 136
+	cigar 8
+	3
+waive
+	slate
+	range 31
+	maybe 6
+	waive 2
+	4
+steal
+	slate
+	steal 1
+	2
+fudge
+	slate
+	drone 107
+	fudge 8
+	3
+tepid
+	slate
+	deter 72
+	tepid 2
+	3
+swath
+	slate
+	swath 1
+	2
+musty
+	slate
+	musty 5
+	2
+ultra
+	slate
+	bloat 7
+	ultra 1
+	3
+cameo
+	slate
+	amber 61
+	cameo 1
+	3
+agile
+	slate
+	angle 16
+	agile 1
+	3
+clone
+	slate
+	glove 13
+	elope 3
+	clone 2
+	4
+kitty
+	slate
+	north 37
+	bitty 6
+	kitty 3
+	4
+patsy
+	slate
+	patsy 5
+	2
+quake
+	slate
+	crave 28
+	image 7
+	quake 2
+	4
+sheep
+	slate
+	sewer 28
+	sheep 3
+	3
+shape
+	slate
+	share 13
+	shape 5
+	3
+sonar
+	slate
+	saucy 17
+	sonar 2
+	3
+baron
+	slate
+	rayon 136
+	baron 1
+	3
+abhor
+	slate
+	rayon 136
+	arbor 5
+	abhor 1
+	4
+godly
+	slate
+	dilly 87
+	godly 2
+	3
+guilt
+	slate
+	guilt 14
+	2
+silky
+	slate
+	skill 17
+	silky 1
+	3
+coven
+	slate
+	decor 165
+	coven 3
+	3
+lemon
+	slate
+	lower 61
+	lemon 1
+	3
+spoon
+	slate
+	scion 56
+	spoon 2
+	3
+brawl
+	slate
+	crawl 11
+	brawl 2
+	3
+scary
+	slate
+	spark 23
+	scarf 4
+	scary 1
+	4
+lumen
+	slate
+	lower 61
+	liken 5
+	lumen 1
+	4
+outdo
+	slate
+	tonic 86
+	outdo 4
+	3
+knelt
+	slate
+	towel 10
+	exult 2
+	knelt 1
+	4
+shiny
+	slate
+	scion 56
+	shiny 5
+	3
+flack
+	slate
+	plank 20
+	flack 3
+	3
+gloom
+	slate
+	flunk 39
+	blimp 7
+	gloom 1
+	4
+noisy
+	slate
+	missy 42
+	noisy 1
+	3
+argue
+	slate
+	range 31
+	argue 2
+	3
+civic
+	slate
+	round 221
+	wimpy 12
+	civic 1
+	4
+hussy
+	slate
+	missy 42
+	hussy 3
+	3
+white
+	slate
+	route 12
+	white 1
+	3
+miser
+	slate
+	poser 19
+	miser 3
+	3
+pinto
+	slate
+	north 37
+	pinto 2
+	3
+glory
+	slate
+	flunk 39
+	blimp 7
+	glory 1
+	4
+coral
+	slate
+	royal 58
+	moral 2
+	coral 1
+	4
+throb
+	slate
+	tonic 86
+	turbo 7
+	throb 1
+	4
+crump
+	slate
+	round 221
+	crump 3
+	3
+hurry
+	slate
+	round 221
+	curry 6
+	hurry 2
+	4
+newly
+	slate
+	lower 61
+	newly 1
+	3
+flair
+	slate
+	plank 20
+	alarm 5
+	flair 1
+	4
+elegy
+	slate
+	bleed 18
+	elegy 1
+	3
+purse
+	slate
+	rouse 27
+	purse 3
+	3
+yacht
+	slate
+	taint 51
+	carat 4
+	yacht 1
+	4
+snipe
+	slate
+	spire 32
+	snipe 1
+	3
+coast
+	slate
+	trash 5
+	boast 2
+	coast 1
+	4
+fetid
+	slate
+	deter 72
+	fetid 1
+	3
+watch
+	slate
+	taint 51
+	batch 7
+	watch 5
+	4
+mulch
+	slate
+	dilly 87
+	mulch 4
+	3
+great
+	slate
+	after 25
+	great 4
+	3
+shirk
+	slate
+	scion 56
+	skimp 6
+	shirk 1
+	4
+wager
+	slate
+	amber 61
+	parer 12
+	wager 6
+	4
+urine
+	slate
+	drone 107
+	prune 3
+	urine 1
+	4
+wiser
+	slate
+	poser 19
+	miser 3
+	wiser 2
+	4
+salon
+	slate
+	solar 8
+	salon 2
+	3
+beard
+	slate
+	beard 12
+	2
+beget
+	slate
+	deter 72
+	tenet 2
+	beget 1
+	4
+minim
+	slate
+	round 221
+	nymph 9
+	minim 1
+	4
+trite
+	slate
+	route 12
+	trite 2
+	3
+filmy
+	slate
+	dilly 87
+	filmy 2
+	3
+moron
+	slate
+	round 221
+	moron 2
+	3
+rally
+	slate
+	royal 58
+	rally 1
+	3
+flint
+	slate
+	flint 7
+	2
+chime
+	slate
+	drone 107
+	piece 10
+	chime 1
+	4
+broth
+	slate
+	north 37
+	broth 2
+	3
+piper
+	slate
+	decor 165
+	viper 18
+	piper 2
+	4
+heart
+	slate
+	enact 7
+	heart 1
+	3
+sweat
+	slate
+	steam 4
+	sweat 1
+	3
+steak
+	slate
+	steam 4
+	steak 2
+	3
+until
+	slate
+	guilt 14
+	until 1
+	3
+shaft
+	slate
+	stark 14
+	shaft 2
+	3
+cairn
+	slate
+	rayon 136
+	cairn 1
+	3
+shame
+	slate
+	share 13
+	shape 5
+	shame 4
+	4
+trend
+	slate
+	deter 72
+	trend 1
+	3
+stink
+	slate
+	snort 39
+	stink 4
+	3
+villa
+	slate
+	royal 58
+	caulk 4
+	villa 1
+	4
+logic
+	slate
+	dilly 87
+	logic 5
+	3
+curve
+	slate
+	drone 107
+	revue 12
+	curve 1
+	4
+armor
+	slate
+	rayon 136
+	arbor 5
+	ardor 2
+	armor 1
+	5
+quark
+	slate
+	drank 48
+	quark 1
+	3
+scare
+	slate
+	share 13
+	scare 3
+	3
+token
+	slate
+	deter 72
+	unmet 6
+	token 1
+	4
+usual
+	slate
+	basil 6
+	usual 1
+	3
+leery
+	slate
+	lower 61
+	leery 1
+	3
+cloth
+	slate
+	cloth 2
+	2
+goody
+	slate
+	round 221
+	dowdy 6
+	goody 2
+	4
+slept
+	slate
+	slept 2
+	2
+billy
+	slate
+	dilly 87
+	billy 4
+	3
+match
+	slate
+	taint 51
+	batch 7
+	watch 5
+	match 4
+	5
+croup
+	slate
+	round 221
+	curio 7
+	croup 1
+	4
+force
+	slate
+	drone 107
+	gorge 6
+	force 1
+	4
+disco
+	slate
+	missy 42
+	visor 3
+	disco 1
+	4
+moldy
+	slate
+	dilly 87
+	moldy 1
+	3
+reach
+	slate
+	heard 12
+	reach 1
+	3
+rotor
+	slate
+	tonic 86
+	rotor 4
+	3
+egret
+	slate
+	deter 72
+	greet 2
+	egret 1
+	4
+sunny
+	slate
+	scion 56
+	spunk 5
+	sunny 1
+	4
+quest
+	slate
+	crest 15
+	quest 2
+	3
+dingo
+	slate
+	round 221
+	dingo 1
+	3
+sting
+	slate
+	snort 39
+	stink 4
+	sting 1
+	4
+steep
+	slate
+	spent 11
+	steep 1
+	3
+erase
+	slate
+	chase 6
+	erase 2
+	3
+theta
+	slate
+	theta 2
+	2
+least
+	slate
+	least 1
+	2
+upset
+	slate
+	crest 15
+	unset 4
+	upset 1
+	4
+twice
+	slate
+	trice 17
+	twice 1
+	3
+twine
+	slate
+	trice 17
+	twine 1
+	3
+equal
+	slate
+	regal 31
+	equal 2
+	3
+scold
+	slate
+	skill 17
+	shyly 3
+	scold 1
+	4
+magma
+	slate
+	rayon 136
+	magma 10
+	3
+molar
+	slate
+	royal 58
+	molar 2
+	3
+lunch
+	slate
+	dilly 87
+	growl 6
+	lunch 1
+	4
+flock
+	slate
+	flunk 39
+	flock 2
+	3
+creep
+	slate
+	decor 165
+	creep 3
+	3
+bribe
+	slate
+	drone 107
+	price 9
+	bribe 2
+	4
+quell
+	slate
+	lower 61
+	belly 8
+	quell 1
+	4
+trice
+	slate
+	trice 17
+	2
+manic
+	slate
+	rayon 136
+	manic 5
+	3
+begun
+	slate
+	decor 165
+	begin 9
+	begun 1
+	4
+squib
+	slate
+	scion 56
+	squib 4
+	3
+drank
+	slate
+	drank 48
+	2
+cacti
+	slate
+	party 15
+	cacti 2
+	3
+query
+	slate
+	decor 165
+	green 8
+	fiery 2
+	query 1
+	5
+slink
+	slate
+	slunk 12
+	slink 1
+	3
+cache
+	slate
+	range 31
+	maybe 6
+	cache 2
+	4
+gruff
+	slate
+	round 221
+	crump 3
+	gruff 1
+	4
+kiosk
+	slate
+	missy 42
+	kiosk 1
+	3
+valve
+	slate
+	angle 16
+	halve 3
+	valve 1
+	4
+flask
+	slate
+	clash 6
+	flask 2
+	3
+budge
+	slate
+	drone 107
+	budge 8
+	3
+flush
+	slate
+	floss 6
+	flush 1
+	3
+relic
+	slate
+	lower 61
+	relic 3
+	3
+joist
+	slate
+	frost 24
+	moist 4
+	joist 2
+	4
+wooer
+	slate
+	decor 165
+	mower 16
+	wooer 1
+	4
+curse
+	slate
+	rouse 27
+	purse 3
+	curse 2
+	4
+green
+	slate
+	decor 165
+	green 8
+	3
+tangy
+	slate
+	taint 51
+	tango 2
+	tangy 1
+	4
+trade
+	slate
+	trade 2
+	2
+unify
+	slate
+	round 221
+	hunky 10
+	unify 1
+	4
+carry
+	slate
+	rayon 136
+	harpy 9
+	carry 2
+	4
+verse
+	slate
+	rouse 27
+	verse 1
+	3
+madly
+	slate
+	royal 58
+	madly 10
+	3
+found
+	slate
+	round 221
+	bound 6
+	mound 5
+	found 4
+	5
+fully
+	slate
+	dilly 87
+	fully 7
+	3
+woman
+	slate
+	rayon 136
+	woman 1
+	3
+femme
+	slate
+	drone 107
+	piece 10
+	femme 1
+	4
+freak
+	slate
+	amber 61
+	creak 7
+	freak 2
+	4
+flout
+	slate
+	flint 7
+	flout 1
+	3
+trait
+	slate
+	craft 19
+	trait 2
+	3
+swing
+	slate
+	scion 56
+	shiny 5
+	swing 2
+	4
+reign
+	slate
+	decor 165
+	merry 8
+	reign 2
+	4
+dogma
+	slate
+	rayon 136
+	audio 6
+	dogma 1
+	4
+glyph
+	slate
+	flunk 39
+	blimp 7
+	glyph 1
+	4
+brain
+	slate
+	drank 48
+	brain 4
+	3
+grunt
+	slate
+	tonic 86
+	grunt 3
+	3
+awash
+	slate
+	crash 13
+	awash 3
+	3
+gusto
+	slate
+	musty 5
+	gusto 1
+	3
+trout
+	slate
+	tonic 86
+	turbo 7
+	trout 1
+	4
+track
+	slate
+	craft 19
+	track 1
+	3
+house
+	slate
+	rouse 27
+	house 2
+	3
+dryly
+	slate
+	dilly 87
+	dryly 1
+	3
+comfy
+	slate
+	round 221
+	boozy 11
+	comfy 3
+	4
+yield
+	slate
+	lower 61
+	belly 8
+	yield 1
+	4
+scoop
+	slate
+	scion 56
+	scoop 1
+	3
+triad
+	slate
+	taint 51
+	triad 1
+	3
+cumin
+	slate
+	round 221
+	hunky 10
+	cumin 1
+	4
+voter
+	slate
+	deter 72
+	outer 5
+	voter 1
+	4
+puree
+	slate
+	drone 107
+	revue 12
+	puree 1
+	4
+vital
+	slate
+	natal 17
+	octal 3
+	vital 1
+	4
+weigh
+	slate
+	decor 165
+	begin 9
+	weigh 1
+	4
+utile
+	slate
+	tilde 5
+	utile 1
+	3
+welch
+	slate
+	lower 61
+	dwell 4
+	welch 1
+	4
+taker
+	slate
+	after 25
+	taper 3
+	taker 2
+	4
+proud
+	slate
+	round 221
+	proud 1
+	3
+weedy
+	slate
+	decor 165
+	weedy 2
+	3
+melon
+	slate
+	lower 61
+	melon 4
+	3
+virus
+	slate
+	missy 42
+	virus 2
+	3
+winch
+	slate
+	round 221
+	nymph 9
+	winch 3
+	4
+after
+	slate
+	after 25
+	2
+askew
+	slate
+	askew 3
+	2
+wedge
+	slate
+	drone 107
+	fudge 8
+	wedge 3
+	4
+slang
+	slate
+	slang 4
+	2
+piano
+	slate
+	drank 48
+	piano 1
+	3
+affix
+	slate
+	rayon 136
+	affix 3
+	3
+croak
+	slate
+	rayon 136
+	croak 6
+	3
+rhino
+	slate
+	round 221
+	rhino 1
+	3
+cluck
+	slate
+	flunk 39
+	cluck 2
+	3
+grain
+	slate
+	drank 48
+	brain 4
+	grain 1
+	4
+smirk
+	slate
+	scion 56
+	skimp 6
+	smirk 1
+	4
+inbox
+	slate
+	round 221
+	onion 5
+	inbox 1
+	4
+cargo
+	slate
+	rayon 136
+	cargo 2
+	3
+heard
+	slate
+	beard 12
+	heard 1
+	3
+outer
+	slate
+	deter 72
+	outer 5
+	3
+drove
+	slate
+	drone 107
+	drove 1
+	3
+umbra
+	slate
+	rayon 136
+	cigar 8
+	umbra 1
+	4
+radio
+	slate
+	rayon 136
+	radio 1
+	3
+maple
+	slate
+	angle 16
+	cable 4
+	maple 2
+	4
+lumpy
+	slate
+	dilly 87
+	lumpy 5
+	3
+smock
+	slate
+	scion 56
+	shock 2
+	smock 1
+	4
+witty
+	slate
+	north 37
+	bitty 6
+	kitty 3
+	witty 2
+	5
+fugue
+	slate
+	drone 107
+	piece 10
+	fugue 1
+	4
+phony
+	slate
+	round 221
+	phony 2
+	3
+adapt
+	slate
+	craft 19
+	adapt 3
+	3
+steel
+	slate
+	smelt 3
+	steel 1
+	3
+dryer
+	slate
+	decor 165
+	diver 4
+	dryer 1
+	4
+young
+	slate
+	round 221
+	young 1
+	3
+array
+	slate
+	rayon 136
+	array 1
+	3
+butte
+	slate
+	route 12
+	butte 3
+	3
+diver
+	slate
+	decor 165
+	diver 4
+	3
+spiny
+	slate
+	scion 56
+	shiny 5
+	spiny 1
+	4
+cough
+	slate
+	round 221
+	cough 5
+	3
+cater
+	slate
+	after 25
+	cater 4
+	3
+pouch
+	slate
+	round 221
+	cough 5
+	pouch 2
+	4
+sheer
+	slate
+	sewer 28
+	sheer 2
+	3
+medal
+	slate
+	regal 31
+	pedal 5
+	medal 1
+	4
+woven
+	slate
+	decor 165
+	women 9
+	woven 2
+	4
+badge
+	slate
+	range 31
+	badge 2
+	3
+whiny
+	slate
+	round 221
+	vying 4
+	whiny 1
+	4
+fairy
+	slate
+	rayon 136
+	harpy 9
+	fairy 2
+	4
+axiom
+	slate
+	rayon 136
+	axiom 2
+	3
+lousy
+	slate
+	lousy 3
+	2
+first
+	slate
+	frost 24
+	first 1
+	3
+froth
+	slate
+	north 37
+	broth 2
+	froth 1
+	4
+flown
+	slate
+	flunk 39
+	flown 1
+	3
+relay
+	slate
+	regal 31
+	relay 2
+	3
+loser
+	slate
+	loser 2
+	2
+seedy
+	slate
+	sewer 28
+	seedy 1
+	3
+dwell
+	slate
+	lower 61
+	welch 4
+	dwell 1
+	4
+tweed
+	slate
+	deter 72
+	tweed 1
+	3
+belch
+	slate
+	lower 61
+	belly 8
+	belch 1
+	4
+frank
+	slate
+	drank 48
+	crank 3
+	prank 2
+	frank 1
+	5
+scrap
+	slate
+	saucy 17
+	scrap 2
+	3
+lunge
+	slate
+	bilge 21
+	ledge 3
+	lunge 1
+	4
+scram
+	slate
+	saucy 17
+	scrap 2
+	scram 1
+	4
+hello
+	slate
+	lower 61
+	melon 4
+	hello 2
+	4
+spunk
+	slate
+	scion 56
+	spunk 5
+	3
+dense
+	slate
+	rouse 27
+	dense 2
+	3
+wimpy
+	slate
+	round 221
+	wimpy 12
+	3
+grace
+	slate
+	crave 28
+	grace 2
+	3
+morph
+	slate
+	round 221
+	morph 4
+	3
+cower
+	slate
+	decor 165
+	cower 3
+	3
+hater
+	slate
+	after 25
+	cater 4
+	hater 3
+	4
+goner
+	slate
+	decor 165
+	mower 16
+	rover 8
+	joker 5
+	goner 3
+	6
+waver
+	slate
+	amber 61
+	parer 12
+	wager 6
+	waver 2
+	5
+conch
+	slate
+	round 221
+	conch 4
+	3
+entry
+	slate
+	deter 72
+	entry 1
+	3
+humph
+	slate
+	round 221
+	jumpy 14
+	humph 1
+	4
+duchy
+	slate
+	round 221
+	dumpy 6
+	duchy 1
+	4
+mealy
+	slate
+	leafy 8
+	mealy 1
+	3
+datum
+	slate
+	taint 51
+	batch 7
+	datum 1
+	4
+drive
+	slate
+	drone 107
+	drive 1
+	3
+knack
+	slate
+	drank 48
+	knack 1
+	3
+large
+	slate
+	angle 16
+	large 1
+	3
+adult
+	slate
+	natal 17
+	adult 1
+	3
+merit
+	slate
+	deter 72
+	merit 5
+	3
+spool
+	slate
+	skill 17
+	spool 2
+	3
+shrub
+	slate
+	scion 56
+	shrub 4
+	3
+joker
+	slate
+	decor 165
+	mower 16
+	rover 8
+	joker 5
+	5
+sprig
+	slate
+	scion 56
+	squib 4
+	sprig 1
+	4
+candy
+	slate
+	rayon 136
+	candy 8
+	3
+debut
+	slate
+	deter 72
+	debut 3
+	3
+hardy
+	slate
+	rayon 136
+	harpy 9
+	harry 2
+	hardy 1
+	5
+spurt
+	slate
+	snort 39
+	shirt 3
+	spurt 1
+	4
+taffy
+	slate
+	taint 51
+	tardy 5
+	taffy 3
+	4
+panel
+	slate
+	regal 31
+	panel 6
+	3
+rabbi
+	slate
+	rayon 136
+	rapid 6
+	rabbi 1
+	4
+raven
+	slate
+	amber 61
+	raven 1
+	3
+truer
+	slate
+	deter 72
+	tuber 6
+	truer 1
+	4
+guide
+	slate
+	drone 107
+	fudge 8
+	guide 1
+	4
+along
+	slate
+	alloy 13
+	along 2
+	3
+stray
+	slate
+	satyr 7
+	stray 1
+	3
+ruder
+	slate
+	decor 165
+	ruder 5
+	3
+fluke
+	slate
+	globe 13
+	flume 5
+	fluke 1
+	4
+spicy
+	slate
+	scion 56
+	spicy 1
+	3
+jelly
+	slate
+	lower 61
+	belly 8
+	jelly 1
+	4
+teach
+	slate
+	enact 7
+	teach 1
+	3
+boule
+	slate
+	bilge 21
+	boule 1
+	3
+slide
+	slate
+	slime 4
+	slide 2
+	3
+sandy
+	slate
+	saucy 17
+	savvy 5
+	sappy 3
+	sandy 2
+	5
+guess
+	slate
+	poser 19
+	guess 2
+	3
+tooth
+	slate
+	north 37
+	booth 4
+	tooth 1
+	4
+ghost
+	slate
+	frost 24
+	boost 2
+	ghost 1
+	4
+lodge
+	slate
+	bilge 21
+	ledge 3
+	lodge 1
+	4
+overt
+	slate
+	deter 72
+	exert 6
+	overt 2
+	4
+copse
+	slate
+	rouse 27
+	poise 7
+	copse 1
+	4
+glove
+	slate
+	globe 13
+	glove 1
+	3
+bravo
+	slate
+	drank 48
+	gravy 5
+	bravo 1
+	4
+stiff
+	slate
+	snort 39
+	stiff 6
+	3
+eerie
+	slate
+	drone 107
+	verge 12
+	eerie 1
+	4
+naval
+	slate
+	royal 58
+	canal 8
+	naval 1
+	4
+pluck
+	slate
+	flunk 39
+	cluck 2
+	pluck 1
+	4
+stone
+	slate
+	stoke 4
+	stone 3
+	3
+stool
+	slate
+	spilt 5
+	stool 1
+	3
+aware
+	slate
+	crave 28
+	aware 1
+	3
+defer
+	slate
+	decor 165
+	defer 2
+	3
+bacon
+	slate
+	rayon 136
+	bacon 3
+	3
+hatch
+	slate
+	taint 51
+	batch 7
+	watch 5
+	match 4
+	hatch 3
+	6
+piece
+	slate
+	drone 107
+	piece 10
+	3
+buxom
+	slate
+	round 221
+	gumbo 4
+	buxom 1
+	4
+petal
+	slate
+	fetal 6
+	petal 2
+	3
+still
+	slate
+	spilt 5
+	still 1
+	3
+ridge
+	slate
+	drone 107
+	ridge 1
+	3
+cruel
+	slate
+	lower 61
+	revel 5
+	cruel 2
+	4
+tramp
+	slate
+	craft 19
+	tramp 2
+	3
+react
+	slate
+	enact 7
+	react 1
+	3
+gummy
+	slate
+	round 221
+	jumpy 14
+	gummy 2
+	4
+agape
+	slate
+	crave 28
+	image 7
+	agape 1
+	4
+homer
+	slate
+	decor 165
+	mower 16
+	homer 1
+	4
+vicar
+	slate
+	rayon 136
+	cigar 8
+	vicar 1
+	4
+boozy
+	slate
+	round 221
+	boozy 11
+	3
+kneed
+	slate
+	decor 165
+	fiend 8
+	kneed 1
+	4
+actor
+	slate
+	taint 51
+	actor 1
+	3
+shrug
+	slate
+	scion 56
+	shrub 4
+	shrug 1
+	4
+allow
+	slate
+	alloy 13
+	allow 1
+	3
+drone
+	slate
+	drone 107
+	2
+cross
+	slate
+	missy 42
+	gross 3
+	cross 2
+	4
+stick
+	slate
+	snort 39
+	stiff 6
+	stick 1
+	4
+creed
+	slate
+	decor 165
+	creed 2
+	3
+tense
+	slate
+	terse 4
+	tense 1
+	3
+video
+	slate
+	decor 165
+	video 2
+	3
+aloft
+	slate
+	bloat 7
+	aloft 1
+	3
+suing
+	slate
+	scion 56
+	shiny 5
+	swing 2
+	suing 1
+	5
+lapse
+	slate
+	false 3
+	lapse 1
+	3
+bliss
+	slate
+	floss 6
+	bliss 1
+	3
+leafy
+	slate
+	leafy 8
+	2
+barge
+	slate
+	range 31
+	barge 1
+	3
+opium
+	slate
+	round 221
+	gumbo 4
+	opium 1
+	4
+media
+	slate
+	amber 61
+	media 3
+	3
+natal
+	slate
+	natal 17
+	2
+psalm
+	slate
+	psalm 1
+	2
+trawl
+	slate
+	trawl 2
+	2
+sober
+	slate
+	sewer 28
+	surer 4
+	skier 2
+	sober 1
+	5
+abase
+	slate
+	chase 6
+	erase 2
+	abase 1
+	4
+viola
+	slate
+	royal 58
+	viola 2
+	3
+flunk
+	slate
+	flunk 39
+	2
+snuck
+	slate
+	scion 56
+	snuck 1
+	3
+foggy
+	slate
+	round 221
+	boozy 11
+	comfy 3
+	foggy 1
+	5
+plunk
+	slate
+	flunk 39
+	plunk 1
+	3
+droop
+	slate
+	round 221
+	droop 2
+	3
+train
+	slate
+	craft 19
+	tramp 2
+	train 1
+	4
+carat
+	slate
+	taint 51
+	carat 4
+	3
+staid
+	slate
+	stark 14
+	staid 6
+	3
+vegan
+	slate
+	amber 61
+	ocean 7
+	vegan 1
+	4
+phase
+	slate
+	chase 6
+	phase 1
+	3
+scrum
+	slate
+	scion 56
+	scrub 2
+	scrum 1
+	4
+furor
+	slate
+	round 221
+	curio 7
+	furor 2
+	4
+clerk
+	slate
+	bleed 18
+	clerk 2
+	3
+noise
+	slate
+	rouse 27
+	poise 7
+	noise 1
+	4
+stung
+	slate
+	snort 39
+	stink 4
+	stung 1
+	4
+viper
+	slate
+	decor 165
+	viper 18
+	3
+spasm
+	slate
+	spark 23
+	spasm 2
+	3
+prawn
+	slate
+	drank 48
+	brain 4
+	prawn 1
+	4
+topaz
+	slate
+	taint 51
+	today 2
+	topaz 1
+	4
+salvo
+	slate
+	solar 8
+	salon 2
+	salvo 1
+	4
+liege
+	slate
+	bilge 21
+	liege 1
+	3
+dodge
+	slate
+	drone 107
+	dodge 1
+	3
+tread
+	slate
+	after 25
+	great 4
+	tread 1
+	4
+blood
+	slate
+	flunk 39
+	blimp 7
+	blood 1
+	4
+soapy
+	slate
+	spark 23
+	swamp 3
+	soapy 1
+	4
+nerdy
+	slate
+	decor 165
+	nerdy 3
+	3
+amble
+	slate
+	angle 16
+	ample 3
+	amble 1
+	4
+mocha
+	slate
+	rayon 136
+	audio 6
+	mocha 2
+	4
+fight
+	slate
+	tonic 86
+	drift 6
+	fight 1
+	4
+shunt
+	slate
+	snort 39
+	shunt 3
+	3
+gnash
+	slate
+	brash 13
+	awash 3
+	gnash 2
+	4
+south
+	slate
+	sixth 6
+	south 2
+	3
+rehab
+	slate
+	amber 61
+	bread 3
+	rehab 1
+	4
+grape
+	slate
+	crave 28
+	grade 7
+	grape 2
+	4
+claim
+	slate
+	plank 20
+	alarm 5
+	claim 1
+	4
+coyly
+	slate
+	dilly 87
+	coyly 6
+	3
+crust
+	slate
+	frost 24
+	trust 4
+	crust 1
+	4
+hinge
+	slate
+	drone 107
+	hence 12
+	hinge 1
+	4
+tunic
+	slate
+	tonic 86
+	tunic 1
+	3
+scene
+	slate
+	spire 32
+	shone 7
+	scene 1
+	4
+flail
+	slate
+	plank 20
+	alarm 5
+	flail 1
+	4
+spare
+	slate
+	share 13
+	scare 3
+	spare 2
+	4
+incur
+	slate
+	round 221
+	incur 1
+	3
+store
+	slate
+	stoke 4
+	stone 3
+	store 2
+	4
+alley
+	slate
+	glean 8
+	alley 1
+	3
+epoxy
+	slate
+	decor 165
+	women 9
+	epoxy 1
+	4
+aging
+	slate
+	rayon 136
+	aging 4
+	3
+spied
+	slate
+	sewer 28
+	spied 2
+	3
+beady
+	slate
+	beard 12
+	beady 1
+	3
+igloo
+	slate
+	dilly 87
+	igloo 2
+	3
+allay
+	slate
+	alloy 13
+	allay 1
+	3
+funky
+	slate
+	round 221
+	hunky 10
+	funky 1
+	4
+gorge
+	slate
+	drone 107
+	gorge 6
+	3
+leapt
+	slate
+	leapt 4
+	2
+posit
+	slate
+	frost 24
+	posit 1
+	3
+sewer
+	slate
+	sewer 28
+	2
+crave
+	slate
+	crave 28
+	2
+sleep
+	slate
+	sleep 2
+	2
+udder
+	slate
+	decor 165
+	ruder 5
+	udder 2
+	4
+woken
+	slate
+	decor 165
+	women 9
+	woven 2
+	woken 1
+	5
+wheat
+	slate
+	after 25
+	wheat 4
+	3
+ditty
+	slate
+	north 37
+	bitty 6
+	kitty 3
+	witty 2
+	ditty 1
+	6
+orbit
+	slate
+	tonic 86
+	orbit 2
+	3
+waste
+	slate
+	baste 6
+	waste 5
+	3
+friar
+	slate
+	rayon 136
+	cigar 8
+	briar 2
+	friar 1
+	5
+turbo
+	slate
+	tonic 86
+	turbo 7
+	3
+drink
+	slate
+	round 221
+	drink 1
+	3
+tenor
+	slate
+	deter 72
+	tenor 1
+	3
+vault
+	slate
+	natal 17
+	fault 3
+	vault 1
+	4
+mound
+	slate
+	round 221
+	bound 6
+	found 5
+	mound 4
+	5
+moose
+	slate
+	rouse 27
+	poise 7
+	noose 3
+	moose 2
+	5
+navel
+	slate
+	regal 31
+	panel 6
+	navel 1
+	4
+stony
+	slate
+	snort 39
+	stony 1
+	3
+hyper
+	slate
+	decor 165
+	viper 18
+	hyper 2
+	4
+admin
+	slate
+	rayon 136
+	admin 3
+	3
+rover
+	slate
+	decor 165
+	mower 16
+	rover 8
+	4
+surer
+	slate
+	sewer 28
+	surer 4
+	3
+nobly
+	slate
+	dilly 87
+	coyly 6
+	wooly 2
+	nobly 1
+	5
+mange
+	slate
+	range 31
+	mange 1
+	3
+ghoul
+	slate
+	dilly 87
+	growl 6
+	ghoul 1
+	4
+pause
+	slate
+	pause 10
+	2
+allot
+	slate
+	bloat 7
+	allot 1
+	3
+crone
+	slate
+	drone 107
+	crone 2
+	3
+locus
+	slate
+	lousy 3
+	locus 1
+	3
+throw
+	slate
+	tonic 86
+	turbo 7
+	throw 1
+	4
+opine
+	slate
+	drone 107
+	opine 2
+	3
+obese
+	slate
+	rouse 27
+	chose 3
+	obese 1
+	4
+pagan
+	slate
+	rayon 136
+	pagan 2
+	3
+alike
+	slate
+	alive 4
+	alike 1
+	3
+flirt
+	slate
+	flint 7
+	flirt 1
+	3
+basis
+	slate
+	amiss 14
+	basis 1
+	3
+torso
+	slate
+	frost 24
+	torso 1
+	3
+matey
+	slate
+	after 25
+	matey 2
+	3
+grass
+	slate
+	crash 13
+	grass 3
+	3
+knave
+	slate
+	crave 28
+	heave 3
+	knave 1
+	4
+sneer
+	slate
+	sewer 28
+	sheer 2
+	sneer 1
+	4
+limbo
+	slate
+	dilly 87
+	lingo 4
+	limbo 1
+	4
+trail
+	slate
+	trawl 2
+	trail 1
+	3
+awake
+	slate
+	crave 28
+	image 7
+	quake 2
+	awake 1
+	5
+humus
+	slate
+	missy 42
+	humus 1
+	3
+wench
+	slate
+	decor 165
+	wench 3
+	3
+gonad
+	slate
+	rayon 136
+	gonad 3
+	3
+rogue
+	slate
+	drone 107
+	gorge 6
+	rogue 1
+	4
+aunty
+	slate
+	party 15
+	amity 2
+	aunty 1
+	4
+shone
+	slate
+	spire 32
+	shone 7
+	3
+foist
+	slate
+	frost 24
+	foist 1
+	3
+women
+	slate
+	decor 165
+	women 9
+	3
+grade
+	slate
+	crave 28
+	grade 7
+	3
+snort
+	slate
+	snort 39
+	2
+woody
+	slate
+	round 221
+	dowdy 6
+	woody 1
+	4
+detox
+	slate
+	deter 72
+	detox 1
+	3
+anode
+	slate
+	range 31
+	anime 2
+	anode 1
+	4
+mouse
+	slate
+	rouse 27
+	house 2
+	mouse 1
+	4
+bushy
+	slate
+	missy 42
+	pushy 4
+	bushy 1
+	4
+again
+	slate
+	drank 48
+	chain 2
+	again 1
+	4
+feral
+	slate
+	regal 31
+	feral 1
+	3
+sword
+	slate
+	scion 56
+	sword 5
+	3
+belie
+	slate
+	bilge 21
+	belie 1
+	3
+junta
+	slate
+	party 15
+	junta 2
+	3
+droit
+	slate
+	tonic 86
+	orbit 2
+	droit 1
+	4
+error
+	slate
+	decor 165
+	error 1
+	3
+smile
+	slate
+	solve 2
+	smile 1
+	3
+smear
+	slate
+	spear 10
+	smear 3
+	3
+draft
+	slate
+	craft 19
+	draft 2
+	3
+daily
+	slate
+	royal 58
+	madly 10
+	daily 2
+	4
+pitch
+	slate
+	tonic 86
+	witch 5
+	pitch 3
+	4
+semen
+	slate
+	sewer 28
+	semen 2
+	3
+fifty
+	slate
+	north 37
+	kitty 6
+	fifty 1
+	4
+olden
+	slate
+	bleed 18
+	older 2
+	olden 1
+	4
+razor
+	slate
+	rayon 136
+	razor 1
+	3
+clock
+	slate
+	flunk 39
+	clock 3
+	3
+outgo
+	slate
+	tonic 86
+	outdo 4
+	outgo 1
+	4
+roost
+	slate
+	frost 24
+	roost 1
+	3
+stair
+	slate
+	stark 14
+	stair 1
+	3
+humid
+	slate
+	round 221
+	humid 1
+	3
+warty
+	slate
+	party 15
+	warty 1
+	3
+flank
+	slate
+	plank 20
+	flank 3
+	3
+lucky
+	slate
+	dilly 87
+	lumpy 5
+	lucky 1
+	4
+apart
+	slate
+	craft 19
+	apart 2
+	3
+jewel
+	slate
+	lower 61
+	jewel 1
+	3
+cavil
+	slate
+	royal 58
+	annul 4
+	cavil 1
+	4
+minus
+	slate
+	missy 42
+	minus 1
+	3
+frisk
+	slate
+	missy 42
+	frisk 4
+	3
+chess
+	slate
+	poser 19
+	guess 2
+	chess 1
+	4
+meant
+	slate
+	enact 7
+	meant 1
+	3
+dutch
+	slate
+	tonic 86
+	dutch 4
+	3
+vogue
+	slate
+	drone 107
+	vogue 5
+	3
+other
+	slate
+	deter 72
+	tuber 6
+	other 1
+	4
+soggy
+	slate
+	scion 56
+	sword 5
+	soggy 1
+	4
+crazy
+	slate
+	drank 48
+	gravy 5
+	crazy 1
+	4
+juice
+	slate
+	drone 107
+	piece 10
+	juice 1
+	4
+essay
+	slate
+	askew 3
+	essay 1
+	3
+bluer
+	slate
+	bleed 18
+	bluer 1
+	3
+owing
+	slate
+	round 221
+	phony 2
+	owing 1
+	4
+skulk
+	slate
+	skill 17
+	skulk 1
+	3
+since
+	slate
+	spire 32
+	singe 4
+	since 1
+	4
+chasm
+	slate
+	crash 13
+	chasm 1
+	3
+bench
+	slate
+	decor 165
+	wench 3
+	bench 1
+	4
+augur
+	slate
+	rayon 136
+	cigar 8
+	augur 1
+	4
+edict
+	slate
+	deter 72
+	edict 1
+	3
+tarot
+	slate
+	taint 51
+	tarot 1
+	3
+delve
+	slate
+	bilge 21
+	delve 2
+	3
+circa
+	slate
+	rayon 136
+	cigar 8
+	circa 1
+	4
+savor
+	slate
+	saucy 17
+	savor 1
+	3
+aback
+	slate
+	drank 48
+	whack 3
+	aback 2
+	4
+canoe
+	slate
+	range 31
+	canoe 2
+	3
+stack
+	slate
+	stark 14
+	stack 2
+	3
+civil
+	slate
+	dilly 87
+	lingo 4
+	civil 1
+	4
+haste
+	slate
+	baste 6
+	waste 5
+	haste 4
+	4
+lance
+	slate
+	angle 16
+	lance 1
+	3
+adobe
+	slate
+	range 31
+	above 5
+	adobe 1
+	4
+honor
+	slate
+	round 221
+	moron 2
+	honor 1
+	4
+stomp
+	slate
+	snort 39
+	stoop 5
+	stomp 1
+	4
+charm
+	slate
+	drank 48
+	charm 5
+	3
+groom
+	slate
+	round 221
+	crook 14
+	broom 3
+	groom 1
+	5
+plaza
+	slate
+	plank 20
+	plaza 2
+	3
+creek
+	slate
+	decor 165
+	creep 3
+	creek 1
+	4
+crony
+	slate
+	round 221
+	prong 4
+	crony 2
+	4
+dilly
+	slate
+	dilly 87
+	2
+brunt
+	slate
+	tonic 86
+	grunt 3
+	brunt 1
+	4
+atoll
+	slate
+	natal 17
+	atoll 1
+	3
+envoy
+	slate
+	decor 165
+	envoy 2
+	3
+tying
+	slate
+	tonic 86
+	think 3
+	tying 1
+	4
+bleat
+	slate
+	cleat 5
+	bleat 2
+	3
+laugh
+	slate
+	royal 58
+	caulk 4
+	laugh 1
+	4
+scaly
+	slate
+	shall 8
+	scalp 3
+	scaly 2
+	4
+queue
+	slate
+	drone 107
+	piece 10
+	queue 1
+	4
+happy
+	slate
+	rayon 136
+	bawdy 12
+	jazzy 3
+	happy 2
+	5
+scuba
+	slate
+	saucy 17
+	scuba 1
+	3
+merry
+	slate
+	decor 165
+	merry 8
+	3
+antic
+	slate
+	taint 51
+	antic 1
+	3
+verve
+	slate
+	drone 107
+	revue 12
+	verve 2
+	4
+dingy
+	slate
+	round 221
+	dingy 2
+	3
+brush
+	slate
+	missy 42
+	brush 2
+	3
+leant
+	slate
+	leapt 4
+	leant 1
+	3
+unfed
+	slate
+	decor 165
+	unfed 8
+	3
+frock
+	slate
+	round 221
+	crook 14
+	frock 1
+	4
+fanny
+	slate
+	rayon 136
+	candy 8
+	fanny 3
+	4
+snail
+	slate
+	shall 8
+	snail 2
+	3
+etude
+	slate
+	trice 17
+	etude 1
+	3
+blank
+	slate
+	plank 20
+	flank 3
+	blank 2
+	4
+lover
+	slate
+	lower 61
+	lover 1
+	3
+eying
+	slate
+	decor 165
+	eying 10
+	3
+frill
+	slate
+	dilly 87
+	frill 5
+	3
+gauge
+	slate
+	range 31
+	badge 2
+	gauge 1
+	4
+blush
+	slate
+	floss 6
+	blush 2
+	3
+snout
+	slate
+	snort 39
+	snout 1
+	3
+clang
+	slate
+	plank 20
+	clang 3
+	3
+spoil
+	slate
+	skill 17
+	spoil 1
+	3
+caper
+	slate
+	amber 61
+	parer 12
+	caper 1
+	4
+chide
+	slate
+	drone 107
+	fudge 8
+	chide 1
+	4
+knoll
+	slate
+	dilly 87
+	knoll 1
+	3
+serif
+	slate
+	sewer 28
+	serum 2
+	serif 1
+	4
+chore
+	slate
+	drone 107
+	chore 1
+	3
+juicy
+	slate
+	round 221
+	jumpy 14
+	juicy 1
+	4
+label
+	slate
+	regal 31
+	panel 6
+	label 3
+	4
+giant
+	slate
+	craft 19
+	adapt 3
+	giant 1
+	4
+madam
+	slate
+	rayon 136
+	magma 10
+	madam 1
+	4
+revue
+	slate
+	drone 107
+	revue 12
+	3
+value
+	slate
+	angle 16
+	halve 3
+	value 1
+	4
+skirt
+	slate
+	snort 39
+	shirt 3
+	skirt 1
+	4
+skimp
+	slate
+	scion 56
+	skimp 6
+	3
+colon
+	slate
+	dilly 87
+	mulch 4
+	colon 2
+	4
+laden
+	slate
+	regal 31
+	laden 2
+	3
+scree
+	slate
+	spire 32
+	scree 3
+	3
+nicer
+	slate
+	decor 165
+	nicer 1
+	3
+salty
+	slate
+	salty 1
+	2
+annoy
+	slate
+	rayon 136
+	annoy 1
+	3
+stilt
+	slate
+	spilt 5
+	stilt 1
+	3
+agony
+	slate
+	rayon 136
+	agony 1
+	3
+aptly
+	slate
+	natal 17
+	aptly 1
+	3
+audit
+	slate
+	taint 51
+	admit 2
+	audit 1
+	4
+honey
+	slate
+	decor 165
+	women 9
+	boney 2
+	honey 1
+	5
+stale
+	slate
+	stale 1
+	2
+clack
+	slate
+	plank 20
+	flack 3
+	clack 2
+	4
+slash
+	slate
+	slang 4
+	slash 2
+	3
+snuff
+	slate
+	scion 56
+	spunk 5
+	snuff 1
+	4
+sushi
+	slate
+	scion 56
+	squib 4
+	sushi 1
+	4
+syrup
+	slate
+	scion 56
+	shrub 4
+	syrup 1
+	4
+toxin
+	slate
+	tonic 86
+	toxin 1
+	3
+dowry
+	slate
+	round 221
+	dowry 2
+	3
+clean
+	slate
+	glean 8
+	clean 1
+	3
+ready
+	slate
+	beard 12
+	ready 1
+	3
+scald
+	slate
+	shall 8
+	scalp 3
+	scaly 2
+	scald 1
+	5
+foamy
+	slate
+	drank 48
+	foamy 5
+	3
+saute
+	slate
+	saute 1
+	2
+algae
+	slate
+	alive 4
+	algae 2
+	3
+crane
+	slate
+	crave 28
+	crane 2
+	3
+skull
+	slate
+	skill 17
+	skull 1
+	3
+hunky
+	slate
+	round 221
+	hunky 10
+	3
+flyer
+	slate
+	bleed 18
+	flier 4
+	flyer 1
+	4
+freed
+	slate
+	decor 165
+	freed 5
+	3
+parse
+	slate
+	pause 10
+	parse 1
+	3
+guild
+	slate
+	dilly 87
+	guild 3
+	3
+macaw
+	slate
+	rayon 136
+	magma 10
+	macaw 1
+	4
+labor
+	slate
+	royal 58
+	labor 2
+	3
+flaky
+	slate
+	plank 20
+	flaky 1
+	3
+hoist
+	slate
+	frost 24
+	moist 4
+	joist 2
+	hoist 1
+	5
+ionic
+	slate
+	round 221
+	conch 4
+	ionic 1
+	4
+agora
+	slate
+	rayon 136
+	croak 6
+	agora 1
+	4
+dimly
+	slate
+	dilly 87
+	dimly 1
+	3
+tidal
+	slate
+	natal 17
+	trial 3
+	tidal 1
+	4
+liner
+	slate
+	lower 61
+	lever 4
+	liner 1
+	4
+chase
+	slate
+	chase 6
+	2
+sonic
+	slate
+	scion 56
+	sonic 1
+	3
+tiger
+	slate
+	deter 72
+	tuber 6
+	tiger 3
+	4
+album
+	slate
+	alloy 13
+	alibi 4
+	album 1
+	4
+facet
+	slate
+	after 25
+	facet 1
+	3
+cocoa
+	slate
+	rayon 136
+	axiom 2
+	cocoa 1
+	4
+bulge
+	slate
+	bilge 21
+	bulge 1
+	3
+vapid
+	slate
+	rayon 136
+	magma 10
+	vapid 1
+	4
+verge
+	slate
+	drone 107
+	verge 12
+	3
+chuck
+	slate
+	round 221
+	chuck 2
+	3
+chafe
+	slate
+	crave 28
+	chafe 1
+	3
+endow
+	slate
+	decor 165
+	endow 1
+	3
+wince
+	slate
+	drone 107
+	hence 12
+	wince 2
+	4
+jolly
+	slate
+	dilly 87
+	fully 7
+	jolly 3
+	4
+realm
+	slate
+	leafy 8
+	realm 2
+	3
+ideal
+	slate
+	regal 31
+	equal 2
+	ideal 1
+	4
+plank
+	slate
+	plank 20
+	2
+relax
+	slate
+	regal 31
+	relay 2
+	relax 1
+	4
+gawky
+	slate
+	rayon 136
+	bawdy 12
+	gawky 1
+	4
+frail
+	slate
+	crawl 11
+	frail 2
+	3
+titan
+	slate
+	taint 51
+	titan 1
+	3
+scone
+	slate
+	spire 32
+	shone 7
+	scone 1
+	4
+shift
+	slate
+	snort 39
+	sight 3
+	shift 1
+	4
+spiky
+	slate
+	scion 56
+	skimp 6
+	spiky 1
+	4
+munch
+	slate
+	round 221
+	hunky 10
+	munch 3
+	4
+block
+	slate
+	flunk 39
+	clock 3
+	block 1
+	4
+blitz
+	slate
+	cloth 2
+	blitz 1
+	3
+salve
+	slate
+	salve 1
+	2
+haven
+	slate
+	amber 61
+	haven 4
+	3
+troll
+	slate
+	guilt 14
+	troll 2
+	3
+buggy
+	slate
+	round 221
+	jumpy 14
+	buggy 2
+	4
+paste
+	slate
+	baste 6
+	waste 5
+	haste 4
+	paste 3
+	5
+undid
+	slate
+	round 221
+	undid 1
+	3
+fiend
+	slate
+	decor 165
+	unfed 8
+	fiend 1
+	4
+sower
+	slate
+	sewer 28
+	sower 1
+	3
+ruler
+	slate
+	lower 61
+	idler 3
+	ruler 1
+	4
+prior
+	slate
+	round 221
+	crook 14
+	prior 1
+	4
+conic
+	slate
+	round 221
+	conch 4
+	conic 1
+	4
+prose
+	slate
+	rouse 27
+	prose 1
+	3
+heist
+	slate
+	crest 15
+	heist 2
+	3
+ulcer
+	slate
+	bleed 18
+	flier 4
+	ulcer 1
+	4
+crook
+	slate
+	round 221
+	crook 14
+	3
+basin
+	slate
+	amiss 14
+	basin 2
+	3
+waxen
+	slate
+	amber 61
+	haven 4
+	waxen 2
+	4
+needy
+	slate
+	decor 165
+	weedy 2
+	needy 1
+	4
+risky
+	slate
+	missy 42
+	wispy 3
+	risky 2
+	4
+widow
+	slate
+	round 221
+	widow 2
+	3
+hitch
+	slate
+	tonic 86
+	witch 5
+	pitch 3
+	hitch 2
+	5
+deity
+	slate
+	petty 10
+	hefty 2
+	deity 1
+	4
+nasal
+	slate
+	basil 6
+	nasal 1
+	3
+bagel
+	slate
+	regal 31
+	bagel 2
+	3
+stunt
+	slate
+	snort 39
+	shunt 3
+	stunt 1
+	4
+grill
+	slate
+	dilly 87
+	grill 5
+	3
+grief
+	slate
+	decor 165
+	grief 8
+	3
+grand
+	slate
+	drank 48
+	grand 2
+	3
+being
+	slate
+	decor 165
+	begin 9
+	being 1
+	4
+seven
+	slate
+	sewer 28
+	semen 2
+	seven 1
+	4
+elbow
+	slate
+	bleed 18
+	elbow 1
+	3
+begin
+	slate
+	decor 165
+	begin 9
+	3
+spade
+	slate
+	shape 13
+	spare 3
+	spade 2
+	4
+swung
+	slate
+	scion 56
+	spunk 5
+	swung 1
+	4
+carol
+	slate
+	royal 58
+	carol 1
+	3
+nasty
+	slate
+	nasty 6
+	2
+grimy
+	slate
+	round 221
+	chirp 9
+	grimy 1
+	4
+coupe
+	slate
+	drone 107
+	vogue 5
+	coupe 1
+	4
+wheel
+	slate
+	lower 61
+	wheel 1
+	3
+donor
+	slate
+	round 221
+	donor 1
+	3
+tango
+	slate
+	taint 51
+	tangy 2
+	tango 1
+	4
+savoy
+	slate
+	saucy 17
+	savvy 5
+	savoy 1
+	4
+rider
+	slate
+	decor 165
+	ruder 5
+	rider 1
+	4
+forge
+	slate
+	drone 107
+	gorge 6
+	forge 1
+	4
+smoke
+	slate
+	spire 32
+	shone 7
+	smoke 1
+	4
+trace
+	slate
+	trade 2
+	trace 1
+	3
+dally
+	slate
+	royal 58
+	madly 10
+	daily 2
+	dally 1
+	5
+sedan
+	slate
+	spear 10
+	sedan 1
+	3
+pupal
+	slate
+	royal 58
+	canal 8
+	pupal 1
+	4
+truss
+	slate
+	frost 24
+	truss 1
+	3
+wring
+	slate
+	round 221
+	wring 4
+	3
+plane
+	slate
+	blare 12
+	glaze 6
+	flake 4
+	plane 2
+	5
+gamma
+	slate
+	rayon 136
+	magma 10
+	gamma 1
+	4
+larva
+	slate
+	royal 58
+	larva 1
+	3
+impel
+	slate
+	lower 61
+	pixel 7
+	impel 1
+	4
+broad
+	slate
+	rayon 136
+	croak 6
+	broad 1
+	4
+photo
+	slate
+	north 37
+	photo 1
+	3
+clash
+	slate
+	clash 6
+	2
+jerky
+	slate
+	decor 165
+	merry 8
+	jerky 2
+	4
+ranch
+	slate
+	rayon 136
+	ranch 1
+	3
+oxide
+	slate
+	drone 107
+	oxide 1
+	3
+nylon
+	slate
+	dilly 87
+	nylon 2
+	3
+attic
+	slate
+	taint 51
+	attic 1
+	3
+onion
+	slate
+	round 221
+	onion 5
+	3
+papal
+	slate
+	royal 58
+	canal 8
+	papal 1
+	4
+known
+	slate
+	round 221
+	onion 5
+	known 1
+	4
+width
+	slate
+	north 37
+	width 2
+	3
+bough
+	slate
+	round 221
+	cough 5
+	bough 1
+	4
+serve
+	slate
+	spire 32
+	scree 3
+	serve 1
+	4
+gruel
+	slate
+	lower 61
+	revel 5
+	cruel 2
+	gruel 1
+	5
+shell
+	slate
+	shelf 6
+	shell 1
+	3
+rigor
+	slate
+	round 221
+	rigor 1
+	3
+meaty
+	slate
+	death 3
+	meaty 1
+	3
+broke
+	slate
+	drone 107
+	prove 6
+	froze 2
+	broke 1
+	5
+vomit
+	slate
+	tonic 86
+	vomit 2
+	3
+beefy
+	slate
+	decor 165
+	neigh 9
+	beefy 1
+	4
+twang
+	slate
+	craft 19
+	twang 2
+	3
+aloof
+	slate
+	alloy 13
+	aloof 1
+	3
+venom
+	slate
+	decor 165
+	venom 1
+	3
+chump
+	slate
+	round 221
+	chump 2
+	3
+gloss
+	slate
+	floss 6
+	gloss 1
+	3
+flier
+	slate
+	bleed 18
+	flier 4
+	3
+ennui
+	slate
+	decor 165
+	eying 10
+	ennui 1
+	4
+mogul
+	slate
+	dilly 87
+	growl 6
+	mogul 1
+	4
+plain
+	slate
+	plank 20
+	plain 1
+	3
+glass
+	slate
+	clash 6
+	flask 2
+	glass 1
+	4
+image
+	slate
+	crave 28
+	image 7
+	3
+small
+	slate
+	shall 8
+	small 1
+	3
+heady
+	slate
+	beard 12
+	heady 1
+	3
+braid
+	slate
+	drank 48
+	braid 2
+	3
+cloud
+	slate
+	flunk 39
+	cloud 1
+	3
+horse
+	slate
+	rouse 27
+	horse 2
+	3
+fussy
+	slate
+	missy 42
+	hussy 3
+	fussy 1
+	4
+quart
+	slate
+	craft 19
+	apart 2
+	quart 1
+	4
+betel
+	slate
+	towel 10
+	betel 1
+	3
+scorn
+	slate
+	scion 56
+	scorn 1
+	3
+tripe
+	slate
+	trice 17
+	tripe 2
+	3
+bunch
+	slate
+	round 221
+	hunky 10
+	munch 3
+	bunch 2
+	5
+manor
+	slate
+	rayon 136
+	manor 1
+	3
+state
+	slate
+	state 2
+	2
+alien
+	slate
+	glean 8
+	alien 1
+	3
+ripen
+	slate
+	decor 165
+	green 8
+	ripen 1
+	4
+spill
+	slate
+	skill 17
+	spill 2
+	3
+sniff
+	slate
+	scion 56
+	shiny 5
+	sniff 1
+	4
+artsy
+	slate
+	patsy 5
+	artsy 1
+	3
+bless
+	slate
+	bless 2
+	2
+alter
+	slate
+	cleat 5
+	alter 1
+	3
+occur
+	slate
+	round 221
+	curio 7
+	occur 1
+	4
+groin
+	slate
+	round 221
+	groin 6
+	3
+burly
+	slate
+	dilly 87
+	coyly 6
+	burly 1
+	4
+haute
+	slate
+	haute 2
+	2
+raspy
+	slate
+	amiss 14
+	raspy 1
+	3
+prove
+	slate
+	drone 107
+	prove 6
+	3
+timid
+	slate
+	tonic 86
+	timid 1
+	3
+fetch
+	slate
+	deter 72
+	fetch 1
+	3
+booty
+	slate
+	north 37
+	pouty 3
+	booty 1
+	4
+piggy
+	slate
+	round 221
+	wimpy 12
+	piggy 2
+	4
+motel
+	slate
+	towel 10
+	hotel 2
+	motel 1
+	4
+curry
+	slate
+	round 221
+	curry 6
+	3
+bleed
+	slate
+	bleed 18
+	2
+peace
+	slate
+	crave 28
+	peace 1
+	3
+build
+	slate
+	dilly 87
+	guild 3
+	build 1
+	4
+mourn
+	slate
+	round 221
+	mourn 1
+	3
+saucy
+	slate
+	saucy 17
+	2
+lanky
+	slate
+	royal 58
+	madly 10
+	lanky 1
+	4
+lingo
+	slate
+	dilly 87
+	lingo 4
+	3
+optic
+	slate
+	tonic 86
+	optic 1
+	3
+debit
+	slate
+	deter 72
+	debut 3
+	debit 1
+	4
+cloak
+	slate
+	alloy 13
+	cloak 2
+	3
+afoot
+	slate
+	taint 51
+	abort 5
+	afoot 2
+	4
+tatty
+	slate
+	party 15
+	batty 4
+	tatty 3
+	4
+snowy
+	slate
+	scion 56
+	snowy 2
+	3
+enemy
+	slate
+	decor 165
+	eying 10
+	enemy 1
+	4
+zonal
+	slate
+	royal 58
+	focal 5
+	zonal 2
+	4
+mushy
+	slate
+	missy 42
+	mushy 2
+	3
+tryst
+	slate
+	frost 24
+	trust 4
+	tryst 1
+	4
+flour
+	slate
+	flunk 39
+	flour 1
+	3
+world
+	slate
+	dilly 87
+	world 3
+	3
+ruddy
+	slate
+	round 221
+	ruddy 1
+	3
+snore
+	slate
+	spire 32
+	shore 4
+	snore 3
+	4
+award
+	slate
+	drank 48
+	hoard 5
+	award 2
+	4
+expel
+	slate
+	lower 61
+	pixel 7
+	expel 1
+	4
+sleek
+	slate
+	sleep 2
+	sleek 1
+	3
+usher
+	slate
+	poser 19
+	usher 1
+	3
+ascot
+	slate
+	patsy 5
+	ascot 1
+	3
+tasty
+	slate
+	nasty 6
+	tasty 3
+	3
+forth
+	slate
+	north 37
+	forth 2
+	3
+guest
+	slate
+	crest 15
+	guest 2
+	3
+crash
+	slate
+	crash 13
+	2
+exalt
+	slate
+	leapt 4
+	exalt 1
+	3
+human
+	slate
+	rayon 136
+	admin 3
+	human 1
+	4
+goose
+	slate
+	rouse 27
+	poise 7
+	noose 3
+	moose 2
+	goose 1
+	6
+mambo
+	slate
+	rayon 136
+	cacao 3
+	mambo 1
+	4
+toast
+	slate
+	trash 5
+	toast 1
+	3
+corer
+	slate
+	decor 165
+	cower 3
+	corer 2
+	4
+shied
+	slate
+	sewer 28
+	spied 2
+	shied 1
+	4
+amber
+	slate
+	amber 61
+	2
+frost
+	slate
+	frost 24
+	2
+genie
+	slate
+	drone 107
+	hence 12
+	venue 2
+	genie 1
+	5
+windy
+	slate
+	round 221
+	dingy 2
+	windy 1
+	4
+speed
+	slate
+	sewer 28
+	sheep 3
+	speed 1
+	4
+sheen
+	slate
+	sewer 28
+	sheep 3
+	sheen 1
+	4
+icily
+	slate
+	dilly 87
+	icily 2
+	3
+delta
+	slate
+	delta 1
+	2
+gleam
+	slate
+	glean 8
+	gleam 1
+	3
+berry
+	slate
+	decor 165
+	merry 8
+	berry 2
+	4
+patio
+	slate
+	taint 51
+	patio 2
+	3
+scout
+	slate
+	snort 39
+	scout 5
+	3
+prick
+	slate
+	round 221
+	chirp 9
+	prick 1
+	4
+pinch
+	slate
+	round 221
+	nymph 9
+	pinch 1
+	4
+lathe
+	slate
+	lathe 2
+	2
+satyr
+	slate
+	satyr 7
+	2
+vista
+	slate
+	nasty 6
+	vista 1
+	3
+smack
+	slate
+	spark 23
+	shank 4
+	smack 1
+	4
+unity
+	slate
+	north 37
+	unity 2
+	3
+lipid
+	slate
+	dilly 87
+	lipid 2
+	3
+beech
+	slate
+	decor 165
+	wench 3
+	beech 1
+	4
+ester
+	slate
+	crest 15
+	ester 1
+	3
+straw
+	slate
+	satyr 7
+	straw 2
+	3
+wrath
+	slate
+	wrath 1
+	2
+chute
+	slate
+	route 12
+	chute 1
+	3
+irony
+	slate
+	round 221
+	prong 4
+	crony 2
+	irony 1
+	5
+worse
+	slate
+	rouse 27
+	horse 2
+	worse 1
+	4
+mount
+	slate
+	tonic 86
+	mount 1
+	3
+brake
+	slate
+	crave 28
+	grade 7
+	brake 2
+	4
+speak
+	slate
+	spear 10
+	speak 1
+	3
+sound
+	slate
+	scion 56
+	snowy 2
+	sound 1
+	4
+cleft
+	slate
+	fleet 3
+	cleft 1
+	3
+later
+	slate
+	fetal 6
+	later 1
+	3
+ardor
+	slate
+	rayon 136
+	arbor 5
+	armor 2
+	ardor 1
+	5
+willy
+	slate
+	dilly 87
+	billy 4
+	willy 3
+	4
+issue
+	slate
+	rouse 27
+	ensue 2
+	issue 1
+	4
+truck
+	slate
+	tonic 86
+	truck 1
+	3
+badly
+	slate
+	royal 58
+	madly 10
+	badly 1
+	4
+finch
+	slate
+	round 221
+	nymph 9
+	winch 3
+	finch 2
+	5
+midge
+	slate
+	drone 107
+	fudge 8
+	wedge 3
+	midge 1
+	5
+tipsy
+	slate
+	frost 24
+	tipsy 1
+	3
+poise
+	slate
+	rouse 27
+	poise 7
+	3
+scant
+	slate
+	stark 14
+	shaft 2
+	scant 1
+	4
+shaky
+	slate
+	spark 23
+	shaky 2
+	3
+itchy
+	slate
+	tonic 86
+	witch 5
+	itchy 1
+	4
+siege
+	slate
+	spire 32
+	singe 4
+	siege 1
+	4
+oddly
+	slate
+	dilly 87
+	godly 2
+	oddly 1
+	4
+wreak
+	slate
+	amber 61
+	creak 7
+	freak 2
+	wreak 1
+	5
+folly
+	slate
+	dilly 87
+	fully 7
+	folly 1
+	4
+annul
+	slate
+	royal 58
+	annul 4
+	3
+newer
+	slate
+	decor 165
+	fever 6
+	newer 1
+	4
+exist
+	slate
+	crest 15
+	heist 2
+	exist 1
+	4
+bland
+	slate
+	plank 20
+	clang 3
+	bland 1
+	4
+erupt
+	slate
+	deter 72
+	exert 6
+	erupt 1
+	4
+easel
+	slate
+	easel 1
+	2
+stunk
+	slate
+	snort 39
+	stink 4
+	stunk 1
+	4
+decal
+	slate
+	regal 31
+	pedal 5
+	decal 1
+	4
+fancy
+	slate
+	rayon 136
+	candy 8
+	fancy 1
+	4
+march
+	slate
+	rayon 136
+	march 3
+	3
+boxer
+	slate
+	decor 165
+	mower 16
+	rover 8
+	joker 5
+	goner 3
+	boxer 2
+	7
+crime
+	slate
+	drone 107
+	price 9
+	crime 1
+	4
+water
+	slate
+	after 25
+	cater 4
+	hater 3
+	water 2
+	5
+spook
+	slate
+	scion 56
+	spook 4
+	3
+folio
+	slate
+	dilly 87
+	igloo 2
+	folio 1
+	4
+gayly
+	slate
+	royal 58
+	gayly 1
+	3
+inert
+	slate
+	deter 72
+	exert 6
+	overt 2
+	inert 1
+	5
+ahead
+	slate
+	amber 61
+	ahead 1
+	3
+drain
+	slate
+	drank 48
+	drain 2
+	3
+fried
+	slate
+	decor 165
+	freed 5
+	fried 1
+	4
+fleck
+	slate
+	bleed 18
+	clerk 2
+	fleck 1
+	4
+randy
+	slate
+	rayon 136
+	randy 2
+	3
+rough
+	slate
+	round 221
+	rough 1
+	3
+raise
+	slate
+	pause 10
+	raise 2
+	3
+glint
+	slate
+	flint 7
+	glint 1
+	3
+avian
+	slate
+	rayon 136
+	admin 3
+	avian 1
+	4
+champ
+	slate
+	drank 48
+	foamy 5
+	champ 1
+	4
+lever
+	slate
+	lower 61
+	lever 4
+	3
+drake
+	slate
+	crave 28
+	grade 7
+	drake 2
+	4
+ovate
+	slate
+	grate 6
+	ovate 2
+	3
+plier
+	slate
+	bleed 18
+	flier 4
+	plier 1
+	4
+slope
+	slate
+	slime 4
+	slope 1
+	3
+lapel
+	slate
+	regal 31
+	panel 6
+	lapel 1
+	4
+llama
+	slate
+	plank 20
+	alarm 5
+	llama 1
+	4
+smash
+	slate
+	spark 23
+	swash 4
+	smash 1
+	4
+knead
+	slate
+	amber 61
+	ocean 7
+	knead 1
+	4
+helix
+	slate
+	lower 61
+	belly 8
+	helix 1
+	4
+posse
+	slate
+	rouse 27
+	poise 7
+	posse 1
+	4
+globe
+	slate
+	glove 13
+	globe 1
+	3
+testy
+	slate
+	testy 3
+	2
+baggy
+	slate
+	rayon 136
+	bawdy 12
+	baggy 1
+	4
+inane
+	slate
+	crave 28
+	image 7
+	inane 1
+	4
+table
+	slate
+	lathe 2
+	table 1
+	3
+lunar
+	slate
+	royal 58
+	lunar 1
+	3
+teddy
+	slate
+	deter 72
+	tepid 2
+	teddy 1
+	4
+elude
+	slate
+	glove 13
+	flume 5
+	elude 1
+	4
+pasty
+	slate
+	nasty 6
+	tasty 3
+	pasty 2
+	4
+niece
+	slate
+	drone 107
+	hence 12
+	niece 1
+	4
+porch
+	slate
+	round 221
+	morph 4
+	porch 1
+	4
+ninth
+	slate
+	north 37
+	ninth 1
+	3
+spurn
+	slate
+	scion 56
+	spurn 1
+	3
+quasi
+	slate
+	brash 13
+	quasi 2
+	3
+islet
+	slate
+	islet 1
+	2
+blurb
+	slate
+	flunk 39
+	clump 4
+	blurb 1
+	4
+assay
+	slate
+	amiss 14
+	assay 1
+	3
+tonic
+	slate
+	tonic 86
+	2
+ether
+	slate
+	deter 72
+	ether 1
+	3
+rouse
+	slate
+	rouse 27
+	2
+minty
+	slate
+	north 37
+	unity 2
+	minty 1
+	4
+elect
+	slate
+	fleet 3
+	elect 1
+	3
+blurt
+	slate
+	flint 7
+	clout 2
+	blurt 1
+	4
+lucid
+	slate
+	dilly 87
+	lucid 2
+	3
+squad
+	slate
+	saucy 17
+	squad 1
+	3
+quick
+	slate
+	round 221
+	jumpy 14
+	cubic 2
+	quick 1
+	5
+paper
+	slate
+	amber 61
+	parer 12
+	paper 2
+	4
+sorry
+	slate
+	scion 56
+	sword 5
+	sorry 1
+	4
+mince
+	slate
+	drone 107
+	hence 12
+	wince 2
+	mince 1
+	5
+mimic
+	slate
+	round 221
+	wimpy 12
+	mimic 1
+	4
+riper
+	slate
+	decor 165
+	viper 18
+	piper 2
+	riper 1
+	5
+leaky
+	slate
+	leafy 8
+	leaky 1
+	3
+purer
+	slate
+	decor 165
+	viper 18
+	purer 1
+	4
+rebar
+	slate
+	amber 61
+	rebar 2
+	3
+focal
+	slate
+	royal 58
+	focal 5
+	3
+pearl
+	slate
+	leafy 8
+	realm 2
+	pearl 1
+	4
+eking
+	slate
+	decor 165
+	eying 10
+	eking 1
+	4
+musky
+	slate
+	missy 42
+	mushy 2
+	musky 1
+	4
+hairy
+	slate
+	rayon 136
+	harpy 9
+	hairy 1
+	4
+dicey
+	slate
+	decor 165
+	dicey 1
+	3
+these
+	slate
+	terse 4
+	these 1
+	3
+totem
+	slate
+	deter 72
+	octet 3
+	totem 1
+	4
+fauna
+	slate
+	rayon 136
+	manic 5
+	fauna 1
+	4
+bible
+	slate
+	bilge 21
+	bible 1
+	3
+mamma
+	slate
+	rayon 136
+	magma 10
+	mamma 1
+	4
+angle
+	slate
+	angle 16
+	2
+milky
+	slate
+	dilly 87
+	filmy 2
+	milky 1
+	4
+gypsy
+	slate
+	missy 42
+	gypsy 1
+	3
+dance
+	slate
+	range 31
+	canoe 2
+	dance 1
+	4
+spiel
+	slate
+	shelf 6
+	spiel 1
+	3
+truth
+	slate
+	north 37
+	truth 1
+	3
+creme
+	slate
+	drone 107
+	price 9
+	creme 1
+	4
+organ
+	slate
+	rayon 136
+	adorn 4
+	organ 1
+	4
+trump
+	slate
+	tonic 86
+	trump 4
+	3
+dodgy
+	slate
+	round 221
+	dowdy 6
+	dodgy 1
+	4
+tacit
+	slate
+	taint 51
+	tacit 1
+	3
+timer
+	slate
+	deter 72
+	tuber 6
+	tiger 3
+	timer 1
+	5
+grail
+	slate
+	crawl 11
+	frail 2
+	grail 1
+	4
+quiet
+	slate
+	deter 72
+	unmet 6
+	quiet 1
+	4
+quota
+	slate
+	party 15
+	junta 2
+	quota 1
+	4
+vodka
+	slate
+	rayon 136
+	audio 6
+	vodka 1
+	4
+gamer
+	slate
+	amber 61
+	gamer 2
+	3
+gaunt
+	slate
+	taint 51
+	daunt 5
+	gaunt 4
+	4
+mummy
+	slate
+	round 221
+	jumpy 14
+	gummy 2
+	mummy 1
+	5
+omega
+	slate
+	amber 61
+	omega 1
+	3
+uncle
+	slate
+	bilge 21
+	uncle 3
+	3
+aider
+	slate
+	amber 61
+	aider 2
+	3
+shank
+	slate
+	spark 23
+	shank 4
+	3
+enact
+	slate
+	enact 7
+	2
+union
+	slate
+	round 221
+	union 1
+	3
+visor
+	slate
+	missy 42
+	visor 3
+	3
+swell
+	slate
+	shelf 6
+	smell 3
+	swell 2
+	4
+dumpy
+	slate
+	round 221
+	dumpy 6
+	3
+shake
+	slate
+	share 13
+	shape 5
+	shame 4
+	shake 3
+	5
+smoky
+	slate
+	scion 56
+	sword 5
+	smoky 1
+	4
+marsh
+	slate
+	amiss 14
+	marsh 1
+	3
+droll
+	slate
+	dilly 87
+	droll 1
+	3
+sloop
+	slate
+	slunk 12
+	slyly 4
+	sloop 2
+	4
+swoon
+	slate
+	scion 56
+	spoon 2
+	swoon 1
+	4
+spank
+	slate
+	spark 23
+	spank 1
+	3
+chose
+	slate
+	rouse 27
+	chose 3
+	3
+buyer
+	slate
+	decor 165
+	viper 18
+	freer 4
+	buyer 1
+	5
+vapor
+	slate
+	rayon 136
+	vapor 3
+	3
+liver
+	slate
+	lower 61
+	lever 4
+	liver 1
+	4
+agate
+	slate
+	grate 6
+	agate 1
+	3
+pleat
+	slate
+	cleat 5
+	bleat 2
+	pleat 1
+	4
+dream
+	slate
+	amber 61
+	dream 2
+	3
+penne
+	slate
+	drone 107
+	penne 2
+	3
+tweet
+	slate
+	deter 72
+	tweet 1
+	3
+miner
+	slate
+	decor 165
+	riper 18
+	finer 5
+	miner 1
+	5
+shoal
+	slate
+	solar 8
+	shoal 1
+	3
+finer
+	slate
+	decor 165
+	viper 18
+	fiber 4
+	fixer 2
+	finer 1
+	6
+plaid
+	slate
+	plank 20
+	plaza 2
+	plaid 1
+	4
+bosom
+	slate
+	missy 42
+	bosom 1
+	3
+crock
+	slate
+	round 221
+	crook 14
+	crock 1
+	4
+cycle
+	slate
+	bilge 21
+	uncle 3
+	cycle 1
+	4
+knock
+	slate
+	round 221
+	onion 5
+	knock 1
+	4
+rigid
+	slate
+	round 221
+	rigid 1
+	3
+rearm
+	slate
+	beard 12
+	yearn 3
+	rearm 1
+	4
+cheat
+	slate
+	after 25
+	wheat 4
+	cheat 1
+	4
+limit
+	slate
+	guilt 14
+	pilot 2
+	limit 1
+	4
+whirl
+	slate
+	dilly 87
+	logic 5
+	whirl 1
+	4
+cynic
+	slate
+	round 221
+	nymph 9
+	cynic 1
+	4
+stash
+	slate
+	stark 14
+	staid 6
+	stash 3
+	4
+vinyl
+	slate
+	dilly 87
+	vinyl 1
+	3
+slate
+	slate
+	-1
+anime
+	slate
+	range 31
+	anode 2
+	anime 1
+	4
+spite
+	slate
+	spite 4
+	2
+holly
+	slate
+	dilly 87
+	fully 7
+	jolly 3
+	holly 2
+	5
+tithe
+	slate
+	trice 17
+	tithe 1
+	3
+voice
+	slate
+	drone 107
+	vogue 5
+	voice 1
+	4
+aisle
+	slate
+	false 3
+	aisle 1
+	3
+sixty
+	slate
+	south 6
+	sixty 1
+	3
+fizzy
+	slate
+	round 221
+	wimpy 12
+	fizzy 2
+	4
+flora
+	slate
+	alloy 13
+	cloak 2
+	flora 1
+	4
+enema
+	slate
+	amber 61
+	media 3
+	enema 1
+	4
+plush
+	slate
+	floss 6
+	blush 2
+	plush 1
+	4
+bring
+	slate
+	round 221
+	wring 4
+	bring 1
+	4
+aloud
+	slate
+	alloy 13
+	along 2
+	aloud 1
+	4
+eager
+	slate
+	amber 61
+	parer 12
+	wager 6
+	eager 1
+	5
+going
+	slate
+	round 221
+	going 1
+	3
+idler
+	slate
+	lower 61
+	idler 3
+	3
+valet
+	slate
+	fetal 6
+	valet 1
+	3
+radii
+	slate
+	rayon 136
+	rapid 6
+	radii 1
+	4
+melee
+	slate
+	bilge 21
+	delve 2
+	melee 1
+	4
+shear
+	slate
+	spear 10
+	smear 3
+	shear 2
+	4
+motor
+	slate
+	tonic 86
+	rotor 4
+	motor 1
+	4
+screw
+	slate
+	sewer 28
+	shrew 2
+	screw 1
+	4
+elder
+	slate
+	bleed 18
+	elder 1
+	3
+stead
+	slate
+	steam 4
+	steak 2
+	stead 1
+	4
+stain
+	slate
+	stark 14
+	staid 6
+	stain 1
+	4
+unwed
+	slate
+	decor 165
+	unfed 8
+	unwed 1
+	4
+royal
+	slate
+	royal 58
+	2
+skill
+	slate
+	skill 17
+	2
+gayer
+	slate
+	amber 61
+	parer 12
+	wager 6
+	gayer 2
+	5
+which
+	slate
+	round 221
+	wimpy 12
+	which 2
+	4
+splat
+	slate
+	splat 1
+	2
+touch
+	slate
+	tonic 86
+	touch 2
+	3
+sport
+	slate
+	snort 39
+	sport 2
+	3
+offer
+	slate
+	decor 165
+	mower 16
+	offer 1
+	4
+axial
+	slate
+	royal 58
+	canal 8
+	axial 1
+	4
+couch
+	slate
+	round 221
+	cough 5
+	couch 1
+	4
+recut
+	slate
+	deter 72
+	merit 5
+	recut 2
+	4
+idiot
+	slate
+	tonic 86
+	pivot 3
+	idiot 1
+	4
+clung
+	slate
+	flunk 39
+	clung 1
+	3
+hasty
+	slate
+	nasty 6
+	tasty 3
+	pasty 2
+	hasty 1
+	5
+foyer
+	slate
+	decor 165
+	mower 16
+	rover 8
+	joker 5
+	goner 3
+	boxer 2
+	foyer 1
+	8
+lease
+	slate
+	lease 1
+	2
+blare
+	slate
+	blare 12
+	2
+vigil
+	slate
+	dilly 87
+	lingo 4
+	vigil 1
+	4
+iliac
+	slate
+	alloy 13
+	iliac 1
+	3
+ditch
+	slate
+	tonic 86
+	witch 5
+	pitch 3
+	hitch 2
+	ditch 1
+	6
+trunk
+	slate
+	tonic 86
+	trunk 1
+	3
+close
+	slate
+	close 1
+	2
+gnome
+	slate
+	drone 107
+	gnome 1
+	3
+floss
+	slate
+	floss 6
+	2
+macho
+	slate
+	rayon 136
+	cacao 3
+	macho 1
+	4
+snake
+	slate
+	shape 13
+	snare 4
+	snake 1
+	4
+stand
+	slate
+	stark 14
+	staid 6
+	stand 1
+	4
+check
+	slate
+	decor 165
+	chief 3
+	check 1
+	4
+bingo
+	slate
+	round 221
+	onion 5
+	bingo 1
+	4
+built
+	slate
+	guilt 14
+	quilt 2
+	built 1
+	4
+biddy
+	slate
+	round 221
+	biddy 3
+	3
+hippo
+	slate
+	round 221
+	hippo 3
+	3
+grope
+	slate
+	drone 107
+	prove 6
+	grope 1
+	4
+loose
+	slate
+	loose 3
+	2
+sloth
+	slate
+	sloth 1
+	2
+focus
+	slate
+	missy 42
+	focus 3
+	3
+renal
+	slate
+	regal 31
+	renal 1
+	3
+gouge
+	slate
+	drone 107
+	vogue 5
+	gouge 1
+	4
+salad
+	slate
+	solar 8
+	salad 1
+	3
+taint
+	slate
+	taint 51
+	2
+cinch
+	slate
+	round 221
+	nymph 9
+	winch 3
+	finch 2
+	cinch 1
+	6
+bleep
+	slate
+	bleed 18
+	bleep 1
+	3
+broil
+	slate
+	dilly 87
+	logic 5
+	broil 1
+	4
+start
+	slate
+	stark 14
+	start 1
+	3
+midst
+	slate
+	frost 24
+	twist 2
+	midst 1
+	4
+ashen
+	slate
+	askew 3
+	ashen 1
+	3
+stamp
+	slate
+	stark 14
+	staid 6
+	stash 3
+	stamp 2
+	5
+print
+	slate
+	tonic 86
+	print 3
+	3
+tease
+	slate
+	tease 1
+	2
+knife
+	slate
+	drone 107
+	hence 12
+	knife 1
+	4
+begat
+	slate
+	after 25
+	wheat 4
+	begat 1
+	4
+felon
+	slate
+	lower 61
+	melon 4
+	felon 1
+	4
+sleet
+	slate
+	slept 2
+	sleet 1
+	3
+shall
+	slate
+	shall 8
+	2
+crush
+	slate
+	missy 42
+	brush 2
+	crush 1
+	4
+eagle
+	slate
+	angle 16
+	eagle 1
+	3
+tapir
+	slate
+	taint 51
+	tapir 1
+	3
+thumb
+	slate
+	tonic 86
+	trump 4
+	thumb 1
+	4
+dread
+	slate
+	amber 61
+	creak 7
+	dread 1
+	4
+erect
+	slate
+	deter 72
+	exert 2
+	erect 1
+	4
+storm
+	slate
+	snort 39
+	storm 3
+	3
+study
+	slate
+	snort 39
+	stiff 6
+	study 3
+	4
+latch
+	slate
+	natal 17
+	latch 1
+	3
+shove
+	slate
+	spire 32
+	shone 7
+	shove 1
+	4
+maybe
+	slate
+	range 31
+	maybe 6
+	3
+yearn
+	slate
+	heard 12
+	yearn 3
+	3
+torch
+	slate
+	tonic 86
+	touch 2
+	torch 1
+	4
+elfin
+	slate
+	bleed 18
+	elfin 1
+	3
+cried
+	slate
+	decor 165
+	creed 2
+	cried 1
+	4
+afoul
+	slate
+	royal 58
+	afoul 1
+	3
+crowd
+	slate
+	round 221
+	chord 4
+	crowd 1
+	4
+berth
+	slate
+	petty 10
+	berth 1
+	3
+ovine
+	slate
+	drone 107
+	opine 2
+	ovine 1
+	4
+smote
+	slate
+	spite 4
+	smote 1
+	3
+alert
+	slate
+	cleat 5
+	alert 1
+	3
+spelt
+	slate
+	smelt 3
+	spelt 1
+	3
+chair
+	slate
+	drank 48
+	charm 5
+	chair 1
+	4
+lager
+	slate
+	regal 31
+	lager 1
+	3
+beast
+	slate
+	yeast 3
+	beast 2
+	3
+aglow
+	slate
+	royal 58
+	viola 2
+	aglow 1
+	4
+adorn
+	slate
+	rayon 136
+	adorn 4
+	3
+rumor
+	slate
+	round 221
+	rumor 1
+	3
+fifth
+	slate
+	north 37
+	width 2
+	fifth 1
+	4
+loopy
+	slate
+	dilly 87
+	lumpy 5
+	loopy 1
+	4
+breed
+	slate
+	decor 165
+	fried 5
+	breed 2
+	4
+spoke
+	slate
+	spire 32
+	spoke 1
+	3
+craft
+	slate
+	craft 19
+	2
+quote
+	slate
+	route 12
+	quote 1
+	3
+drown
+	slate
+	round 221
+	drown 1
+	3
+ombre
+	slate
+	drone 107
+	gorge 6
+	ombre 1
+	4
+pride
+	slate
+	drone 107
+	pride 4
+	3
+stint
+	slate
+	snort 39
+	shunt 3
+	stint 1
+	4
+mouth
+	slate
+	north 37
+	booth 4
+	mouth 2
+	4
+dwelt
+	slate
+	towel 10
+	dwelt 1
+	3
+rebut
+	slate
+	deter 72
+	merit 5
+	recut 2
+	rebut 1
+	5
+learn
+	slate
+	leafy 8
+	learn 2
+	3
+ought
+	slate
+	tonic 86
+	outdo 4
+	ought 1
+	4
+krill
+	slate
+	dilly 87
+	frill 5
+	grill 2
+	krill 1
+	5
+picky
+	slate
+	round 221
+	wimpy 12
+	piggy 2
+	picky 1
+	5
+tight
+	slate
+	tonic 86
+	tight 4
+	3
+earth
+	slate
+	theta 2
+	earth 1
+	3
+tawny
+	slate
+	taint 51
+	tawny 1
+	3
+roger
+	slate
+	decor 165
+	mower 16
+	rover 8
+	roger 1
+	5
+widen
+	slate
+	decor 165
+	unfed 8
+	widen 1
+	4
+dirty
+	slate
+	north 37
+	dirty 1
+	3
+rugby
+	slate
+	round 221
+	rugby 1
+	3
+tacky
+	slate
+	taint 51
+	tardy 5
+	taffy 3
+	tacky 2
+	5
+fella
+	slate
+	regal 31
+	fella 1
+	3
+chirp
+	slate
+	round 221
+	chirp 9
+	3
+pooch
+	slate
+	round 221
+	boozy 11
+	pooch 1
+	4
+cobra
+	slate
+	rayon 136
+	croak 6
+	cobra 1
+	4
+excel
+	slate
+	lower 61
+	pixel 7
+	excel 1
+	4
+modem
+	slate
+	decor 165
+	video 2
+	modem 1
+	4
+party
+	slate
+	party 15
+	2
+place
+	slate
+	blare 12
+	glaze 6
+	flake 4
+	plane 2
+	place 1
+	6
+swamp
+	slate
+	spark 23
+	swamp 3
+	3
+whiff
+	slate
+	round 221
+	wimpy 12
+	which 2
+	whiff 1
+	5
+khaki
+	slate
+	drank 48
+	khaki 1
+	3
+blown
+	slate
+	flunk 39
+	blown 2
+	3
+fling
+	slate
+	flunk 39
+	fling 1
+	3
+curvy
+	slate
+	round 221
+	curry 6
+	curvy 1
+	4
+pasta
+	slate
+	nasty 6
+	pasta 1
+	3
+shard
+	slate
+	spark 23
+	scarf 4
+	shard 2
+	4
+login
+	slate
+	dilly 87
+	logic 5
+	login 1
+	4
+imbue
+	slate
+	drone 107
+	piece 10
+	imbue 1
+	4
+smite
+	slate
+	spite 4
+	smite 2
+	3
+style
+	slate
+	stole 2
+	style 1
+	3
+brink
+	slate
+	round 221
+	wring 4
+	brink 2
+	4
+oaken
+	slate
+	amber 61
+	haven 4
+	waxen 2
+	oaken 1
+	5
+rodeo
+	slate
+	decor 165
+	rodeo 1
+	3
+craze
+	slate
+	crave 28
+	crane 2
+	craze 1
+	4
+drape
+	slate
+	crave 28
+	grade 7
+	drake 2
+	drape 1
+	5
+bride
+	slate
+	drone 107
+	pride 4
+	bride 1
+	4
+color
+	slate
+	dilly 87
+	mulch 4
+	colon 2
+	color 1
+	5
+penal
+	slate
+	regal 31
+	pedal 5
+	penal 1
+	4
+pinky
+	slate
+	round 221
+	nymph 9
+	pinky 1
+	4
+mangy
+	slate
+	rayon 136
+	candy 8
+	fanny 3
+	mangy 1
+	5
+month
+	slate
+	north 37
+	month 1
+	3
+maxim
+	slate
+	rayon 136
+	magma 10
+	maxim 1
+	4
+drawl
+	slate
+	crawl 11
+	brawl 2
+	drawl 1
+	4
+spout
+	slate
+	snort 39
+	scout 5
+	spout 3
+	4
+plead
+	slate
+	glean 8
+	plead 3
+	3
+digit
+	slate
+	tonic 86
+	digit 2
+	3
+heavy
+	slate
+	beard 12
+	heavy 2
+	3
+waltz
+	slate
+	waltz 1
+	2
+blond
+	slate
+	flunk 39
+	blond 3
+	3
+latte
+	slate
+	latte 1
+	2
+acrid
+	slate
+	rayon 136
+	cigar 8
+	acrid 1
+	4
+twirl
+	slate
+	guilt 14
+	twirl 1
+	3
+myrrh
+	slate
+	round 221
+	chirp 9
+	myrrh 1
+	4
+agree
+	slate
+	range 31
+	argue 2
+	agree 1
+	4
+crypt
+	slate
+	tonic 86
+	dutch 4
+	crypt 1
+	4
+price
+	slate
+	drone 107
+	price 9
+	3
+dwarf
+	slate
+	drank 48
+	diary 2
+	dwarf 1
+	4
+modal
+	slate
+	royal 58
+	focal 5
+	zonal 2
+	modal 1
+	5
+epoch
+	slate
+	decor 165
+	coven 3
+	epoch 1
+	4
+brute
+	slate
+	route 12
+	brute 1
+	3
+chest
+	slate
+	crest 15
+	chest 1
+	3
+mossy
+	slate
+	missy 42
+	mossy 1
+	3
+pesto
+	slate
+	testy 3
+	pesto 1
+	3
+angst
+	slate
+	patsy 5
+	angst 1
+	3
+lofty
+	slate
+	lofty 2
+	2
+alibi
+	slate
+	alloy 13
+	alibi 4
+	3
+truly
+	slate
+	guilt 14
+	truly 1
+	3
+fresh
+	slate
+	poser 19
+	cress 4
+	fresh 1
+	4
+front
+	slate
+	tonic 86
+	front 1
+	3
+graze
+	slate
+	crave 28
+	grade 7
+	grape 2
+	graze 1
+	5
+lower
+	slate
+	lower 61
+	2
+worst
+	slate
+	frost 24
+	worst 1
+	3
+risen
+	slate
+	poser 19
+	risen 1
+	3
+retro
+	slate
+	deter 72
+	retro 4
+	3
+onset
+	slate
+	crest 15
+	unset 4
+	onset 1
+	4
+lyric
+	slate
+	dilly 87
+	lyric 2
+	3
+swarm
+	slate
+	spark 23
+	scarf 4
+	shard 2
+	swarm 1
+	5
+belly
+	slate
+	lower 61
+	belly 8
+	3
+unzip
+	slate
+	round 221
+	hunky 10
+	unzip 1
+	4
+parry
+	slate
+	rayon 136
+	harpy 9
+	parry 1
+	4
+axion
+	slate
+	rayon 136
+	axion 1
+	3
+junto
+	slate
+	north 37
+	pinto 2
+	junto 1
+	4
+leper
+	slate
+	lower 61
+	lever 4
+	leper 1
+	4
+ladle
+	slate
+	angle 16
+	cable 4
+	maple 2
+	ladle 1
+	5
+wagon
+	slate
+	rayon 136
+	bacon 3
+	wagon 1
+	4
+jiffy
+	slate
+	round 221
+	wimpy 12
+	fizzy 2
+	jiffy 1
+	5
+manga
+	slate
+	rayon 136
+	manic 5
+	manga 1
+	4
+comma
+	slate
+	rayon 136
+	audio 6
+	mocha 2
+	comma 1
+	5
+light
+	slate
+	guilt 14
+	light 1
+	3
+troop
+	slate
+	tonic 86
+	turbo 7
+	troop 1
+	4
+wrist
+	slate
+	frost 24
+	trust 4
+	wrist 1
+	4
+lynch
+	slate
+	dilly 87
+	lynch 2
+	3
+thong
+	slate
+	tonic 86
+	thong 2
+	3
+whisk
+	slate
+	missy 42
+	frisk 4
+	whisk 1
+	4
+steer
+	slate
+	spent 11
+	steer 2
+	3
+fatal
+	slate
+	natal 17
+	fatal 1
+	3
+clear
+	slate
+	glean 8
+	plead 3
+	clear 2
+	4
+snarl
+	slate
+	shall 8
+	snail 2
+	snarl 1
+	4
+arena
+	slate
+	amber 61
+	arena 1
+	3
+comic
+	slate
+	round 221
+	boozy 11
+	comic 1
+	4
+bowel
+	slate
+	lower 61
+	bowel 3
+	3
+stork
+	slate
+	snort 39
+	storm 3
+	stork 2
+	4
+thief
+	slate
+	deter 72
+	comet 6
+	thief 1
+	4
+siren
+	slate
+	sewer 28
+	siren 1
+	3
+gipsy
+	slate
+	missy 42
+	gipsy 1
+	3
+apnea
+	slate
+	amber 61
+	apnea 2
+	3
+palsy
+	slate
+	basil 6
+	palsy 1
+	3
+slush
+	slate
+	slunk 12
+	slump 3
+	slush 1
+	4
+brand
+	slate
+	drank 48
+	grand 2
+	brand 1
+	4
+eater
+	slate
+	after 25
+	cater 4
+	hater 3
+	water 2
+	eater 1
+	6
+weary
+	slate
+	beard 12
+	yearn 3
+	weary 1
+	4
+retry
+	slate
+	deter 72
+	retro 4
+	retry 1
+	4
+cello
+	slate
+	lower 61
+	melon 4
+	hello 2
+	cello 1
+	5
+teeth
+	slate
+	petty 10
+	teeth 2
+	3
+avoid
+	slate
+	rayon 136
+	audio 6
+	avoid 1
+	4
+brave
+	slate
+	crave 28
+	grave 2
+	brave 1
+	4
+using
+	slate
+	missy 42
+	using 1
+	3
+tenet
+	slate
+	deter 72
+	beget 2
+	tenet 1
+	4
+brace
+	slate
+	crave 28
+	grace 2
+	brace 1
+	4
+payee
+	slate
+	range 31
+	maybe 6
+	payee 1
+	4
+talon
+	slate
+	natal 17
+	talon 1
+	3
+ebony
+	slate
+	decor 165
+	women 9
+	ebony 1
+	4
+bread
+	slate
+	amber 61
+	bread 3
+	3
+brawn
+	slate
+	drank 48
+	brain 4
+	brawn 1
+	4
+snoop
+	slate
+	scion 56
+	snoop 2
+	3
+gaudy
+	slate
+	rayon 136
+	bawdy 12
+	daddy 4
+	gaudy 1
+	5
+amend
+	slate
+	amber 61
+	amend 1
+	3
+suite
+	slate
+	spite 4
+	smite 2
+	suite 1
+	4
+wharf
+	slate
+	drank 48
+	charm 5
+	wharf 1
+	4
+major
+	slate
+	rayon 136
+	vapor 3
+	major 1
+	4
+abled
+	slate
+	regal 31
+	laden 2
+	abled 1
+	4
+crick
+	slate
+	round 221
+	chirp 9
+	crick 1
+	4
+robot
+	slate
+	tonic 86
+	rotor 4
+	robot 1
+	4
+child
+	slate
+	dilly 87
+	guild 3
+	child 1
+	4
+hymen
+	slate
+	decor 165
+	eying 10
+	hymen 1
+	4
+hutch
+	slate
+	tonic 86
+	dutch 4
+	hutch 2
+	4
+groan
+	slate
+	rayon 136
+	adorn 4
+	groan 1
+	4
+spark
+	slate
+	spark 23
+	2
+neigh
+	slate
+	decor 165
+	begin 9
+	neigh 1
+	4
+peril
+	slate
+	lower 61
+	relic 3
+	peril 1
+	4
+route
+	slate
+	route 12
+	2
+depth
+	slate
+	petty 10
+	depth 1
+	3
+gripe
+	slate
+	drone 107
+	price 9
+	gripe 1
+	4
+cable
+	slate
+	angle 16
+	cable 4
+	3
+pygmy
+	slate
+	round 221
+	wimpy 12
+	pygmy 1
+	4
+court
+	slate
+	tonic 86
+	court 2
+	3
+lorry
+	slate
+	dilly 87
+	lumpy 5
+	lorry 2
+	4
+sever
+	slate
+	sewer 28
+	sever 1
+	3
+louse
+	slate
+	loose 3
+	louse 1
+	3
+brook
+	slate
+	round 221
+	crook 14
+	brook 1
+	4
+puppy
+	slate
+	round 221
+	jumpy 14
+	puppy 2
+	4
+cover
+	slate
+	decor 165
+	cower 3
+	corer 2
+	cover 1
+	5
+booby
+	slate
+	round 221
+	boozy 11
+	booby 1
+	4
+coach
+	slate
+	drank 48
+	foamy 5
+	coach 1
+	4
+azure
+	slate
+	range 31
+	azure 3
+	3
+corny
+	slate
+	round 221
+	corny 2
+	3
+retch
+	slate
+	deter 72
+	retro 4
+	retch 1
+	4
+those
+	slate
+	terse 4
+	those 1
+	3
+pudgy
+	slate
+	round 221
+	dumpy 6
+	pudgy 1
+	4
+vixen
+	slate
+	decor 165
+	eying 10
+	vixen 1
+	4
+ethos
+	slate
+	crest 15
+	ethos 2
+	3
+slack
+	slate
+	slang 4
+	slash 2
+	slack 1
+	4
+usage
+	slate
+	chase 6
+	usage 1
+	3
+paint
+	slate
+	taint 51
+	faint 2
+	paint 1
+	4
+exile
+	slate
+	bilge 21
+	exile 2
+	3
+frame
+	slate
+	crave 28
+	grade 7
+	brake 2
+	frame 1
+	5
+harpy
+	slate
+	rayon 136
+	harpy 9
+	3
+moody
+	slate
+	round 221
+	dowdy 6
+	goody 2
+	moody 1
+	5
+shyly
+	slate
+	skill 17
+	shyly 3
+	3
+three
+	slate
+	trice 17
+	three 2
+	3
+bicep
+	slate
+	decor 165
+	bicep 1
+	3
+farce
+	slate
+	range 31
+	farce 2
+	3
+livid
+	slate
+	dilly 87
+	lipid 2
+	livid 1
+	4
+plume
+	slate
+	globe 13
+	flume 5
+	plume 1
+	4
+angry
+	slate
+	rayon 136
+	angry 1
+	3
+sneak
+	slate
+	spear 10
+	sneak 1
+	3
+toxic
+	slate
+	tonic 86
+	toxic 2
+	3
+final
+	slate
+	royal 58
+	canal 8
+	final 1
+	4
+prime
+	slate
+	drone 107
+	price 9
+	prize 2
+	prime 1
+	5
+patty
+	slate
+	party 15
+	patty 1
+	3
+shale
+	slate
+	scale 2
+	shale 1
+	3
+bluff
+	slate
+	flunk 39
+	bluff 1
+	3
+crumb
+	slate
+	round 221
+	crump 3
+	crumb 1
+	4
+nanny
+	slate
+	rayon 136
+	candy 8
+	fanny 3
+	nanny 1
+	5
+credo
+	slate
+	decor 165
+	credo 1
+	3
+tibia
+	slate
+	taint 51
+	tibia 1
+	3
+debar
+	slate
+	amber 61
+	rebar 2
+	debar 1
+	4
+strap
+	slate
+	satyr 7
+	straw 2
+	strap 1
+	4
+pecan
+	slate
+	amber 61
+	ocean 7
+	pecan 1
+	4
+salsa
+	slate
+	solar 8
+	salsa 2
+	3
+shalt
+	slate
+	stalk 3
+	shalt 1
+	3
+flute
+	slate
+	flute 2
+	2
+stave
+	slate
+	stave 4
+	2
+beach
+	slate
+	beard 12
+	beach 1
+	3
+spree
+	slate
+	spire 32
+	spree 1
+	3
+eight
+	slate
+	deter 72
+	evict 7
+	eight 1
+	4
+vivid
+	slate
+	round 221
+	vivid 1
+	3
+brass
+	slate
+	crash 13
+	grass 3
+	brass 1
+	4
+safer
+	slate
+	spear 10
+	safer 2
+	3
+shuck
+	slate
+	scion 56
+	shuck 1
+	3
+drawn
+	slate
+	drank 48
+	drain 2
+	drawn 1
+	4
+ounce
+	slate
+	drone 107
+	ounce 1
+	3
+feign
+	slate
+	decor 165
+	begin 9
+	feign 1
+	4
+tamer
+	slate
+	after 25
+	taper 3
+	taker 2
+	tamer 1
+	5
+chaff
+	slate
+	drank 48
+	foamy 5
+	chaff 1
+	4
+bloom
+	slate
+	flunk 39
+	blimp 7
+	bloom 1
+	4
+diner
+	slate
+	decor 165
+	diver 4
+	diner 1
+	4
+geese
+	slate
+	rouse 27
+	dense 2
+	geese 1
+	4
+index
+	slate
+	decor 165
+	unfed 8
+	index 1
+	4
+mower
+	slate
+	decor 165
+	mower 16
+	3
+fraud
+	slate
+	drank 48
+	braid 2
+	fraud 1
+	4
+grant
+	slate
+	craft 19
+	trait 2
+	grant 1
+	4
+birth
+	slate
+	north 37
+	birth 3
+	3
+leech
+	slate
+	lower 61
+	leech 2
+	3
+howdy
+	slate
+	round 221
+	dowdy 6
+	howdy 1
+	4
+mango
+	slate
+	rayon 136
+	mango 2
+	3
+agent
+	slate
+	after 25
+	agent 2
+	3
+above
+	slate
+	range 31
+	adobe 5
+	above 1
+	4
+drier
+	slate
+	decor 165
+	diver 4
+	drier 1
+	4
+input
+	slate
+	tonic 86
+	print 3
+	input 1
+	4
+leave
+	slate
+	leave 2
+	2
+punch
+	slate
+	round 221
+	hunky 10
+	munch 3
+	bunch 2
+	punch 1
+	6
+stern
+	slate
+	spent 11
+	stein 2
+	stern 1
+	4
+decor
+	slate
+	decor 165
+	2
+valor
+	slate
+	royal 58
+	labor 2
+	valor 1
+	4
+clump
+	slate
+	flunk 39
+	clump 4
+	3
+canal
+	slate
+	royal 58
+	canal 8
+	3
+black
+	slate
+	plank 20
+	flack 3
+	clack 2
+	black 1
+	5
+cabin
+	slate
+	rayon 136
+	pagan 2
+	cabin 1
+	4
+wryly
+	slate
+	dilly 87
+	coyly 6
+	wryly 1
+	4
+graph
+	slate
+	drank 48
+	gravy 5
+	graph 1
+	4
+donut
+	slate
+	tonic 86
+	donut 1
+	3
+imply
+	slate
+	dilly 87
+	icily 2
+	imply 1
+	4
+medic
+	slate
+	decor 165
+	medic 1
+	3
+awoke
+	slate
+	range 31
+	adobe 5
+	awoke 1
+	4
+refer
+	slate
+	decor 165
+	fewer 6
+	refer 1
+	4
+graft
+	slate
+	craft 19
+	draft 2
+	graft 1
+	4
+aorta
+	slate
+	party 15
+	aorta 1
+	3
+shine
+	slate
+	spire 32
+	shine 4
+	3
+rouge
+	slate
+	drone 107
+	gorge 6
+	rouge 1
+	4
+racer
+	slate
+	amber 61
+	parer 12
+	racer 1
+	4
+faith
+	slate
+	party 15
+	cacti 2
+	faith 1
+	4
+shawl
+	slate
+	shall 8
+	shawl 1
+	3
+condo
+	slate
+	round 221
+	condo 1
+	3
+inept
+	slate
+	deter 72
+	evict 7
+	inept 1
+	4
+sally
+	slate
+	solar 8
+	salsa 2
+	sally 1
+	4
+ankle
+	slate
+	angle 16
+	ankle 1
+	3
+shout
+	slate
+	snort 39
+	spout 5
+	scout 3
+	shout 2
+	5
+qualm
+	slate
+	crawl 11
+	koala 3
+	qualm 1
+	4
+truce
+	slate
+	trice 17
+	truce 1
+	3
+carve
+	slate
+	range 31
+	farce 2
+	carve 1
+	4
+reedy
+	slate
+	decor 165
+	nerdy 3
+	reedy 1
+	4
+field
+	slate
+	lower 61
+	belly 8
+	field 1
+	4
+grind
+	slate
+	round 221
+	grind 1
+	3
+wrote
+	slate
+	route 12
+	wrote 1
+	3
+crept
+	slate
+	deter 72
+	exert 6
+	crept 1
+	4
+sumac
+	slate
+	saucy 17
+	sumac 1
+	3
+cyber
+	slate
+	decor 165
+	cheer 3
+	cyber 2
+	4
+glare
+	slate
+	blare 12
+	glare 2
+	3
+abide
+	slate
+	range 31
+	adobe 5
+	abide 1
+	4
+slump
+	slate
+	slunk 12
+	slump 3
+	3
+solar
+	slate
+	solar 8
+	2
+rebus
+	slate
+	poser 19
+	cress 4
+	rebus 1
+	4
+adore
+	slate
+	range 31
+	azure 3
+	adore 2
+	4
+kappa
+	slate
+	rayon 136
+	magma 10
+	kappa 1
+	4
+haunt
+	slate
+	taint 51
+	daunt 5
+	gaunt 4
+	haunt 3
+	5
+count
+	slate
+	tonic 86
+	count 2
+	3
+baton
+	slate
+	taint 51
+	baton 1
+	3
+lobby
+	slate
+	dilly 87
+	lumpy 5
+	lorry 2
+	lobby 1
+	5
+birch
+	slate
+	round 221
+	chirp 9
+	birch 1
+	4
+eject
+	slate
+	deter 72
+	event 2
+	eject 1
+	4
+poppy
+	slate
+	round 221
+	boozy 11
+	comfy 3
+	poppy 1
+	5
+bloke
+	slate
+	glove 13
+	elope 3
+	clone 2
+	bloke 1
+	5
+spoof
+	slate
+	scion 56
+	spook 4
+	spoof 1
+	4
+snack
+	slate
+	spark 23
+	shank 4
+	snack 1
+	4
+banjo
+	slate
+	rayon 136
+	mango 2
+	banjo 1
+	4
+pique
+	slate
+	drone 107
+	piece 10
+	pique 2
+	4
+among
+	slate
+	rayon 136
+	gonad 3
+	among 1
+	4
+untie
+	slate
+	trice 17
+	untie 1
+	3
+feast
+	slate
+	yeast 3
+	beast 2
+	feast 1
+	4
+whelp
+	slate
+	lower 61
+	welch 4
+	whelp 1
+	4
+strut
+	slate
+	snort 39
+	strut 1
+	3
+strip
+	slate
+	snort 39
+	strip 1
+	3
+probe
+	slate
+	drone 107
+	prove 6
+	probe 1
+	4
+baker
+	slate
+	amber 61
+	baker 1
+	3
+hotly
+	slate
+	guilt 14
+	troll 2
+	hotly 1
+	4
+guppy
+	slate
+	round 221
+	jumpy 14
+	puppy 2
+	guppy 1
+	5
+quirk
+	slate
+	round 221
+	curry 6
+	quirk 1
+	4
+lying
+	slate
+	dilly 87
+	lyric 2
+	lying 1
+	4
+mecca
+	slate
+	amber 61
+	media 3
+	mecca 1
+	4
+rupee
+	slate
+	drone 107
+	revue 12
+	rupee 1
+	4
+acute
+	slate
+	haute 2
+	acute 1
+	3
+hoard
+	slate
+	drank 48
+	hoard 5
+	3
+roomy
+	slate
+	round 221
+	roomy 2
+	3
+short
+	slate
+	snort 39
+	sport 2
+	short 1
+	4
+stout
+	slate
+	snort 39
+	scout 5
+	spout 3
+	shout 2
+	stout 1
+	6
+bleak
+	slate
+	glean 8
+	plead 3
+	clear 2
+	bleak 1
+	5
+plait
+	slate
+	plait 2
+	2
+chunk
+	slate
+	round 221
+	chunk 1
+	3
+vouch
+	slate
+	round 221
+	cough 5
+	pouch 2
+	vouch 1
+	5
+tabby
+	slate
+	taint 51
+	tardy 5
+	taffy 3
+	tacky 2
+	tabby 1
+	6
+guise
+	slate
+	rouse 27
+	guise 1
+	3
+husky
+	slate
+	missy 42
+	pushy 4
+	husky 1
+	4
+inner
+	slate
+	decor 165
+	viper 18
+	inner 2
+	4
+crier
+	slate
+	decor 165
+	cheer 3
+	cyber 2
+	crier 1
+	5
+loyal
+	slate
+	royal 58
+	loyal 1
+	3
+wrack
+	slate
+	drank 48
+	wrack 2
+	3
+maker
+	slate
+	amber 61
+	gamer 2
+	maker 1
+	4
+quack
+	slate
+	drank 48
+	whack 3
+	aback 2
+	quack 1
+	5
+mammy
+	slate
+	rayon 136
+	bawdy 12
+	jazzy 3
+	happy 2
+	mammy 1
+	6
+missy
+	slate
+	missy 42
+	2
+satin
+	slate
+	satyr 7
+	satin 1
+	3
+ratio
+	slate
+	taint 51
+	patio 2
+	ratio 1
+	4
+prowl
+	slate
+	dilly 87
+	growl 6
+	prowl 1
+	4
+theft
+	slate
+	deter 72
+	evict 7
+	theft 1
+	4
+filth
+	slate
+	lofty 2
+	filth 1
+	3
+rajah
+	slate
+	rayon 136
+	rapid 6
+	rajah 1
+	4
+swear
+	slate
+	spear 10
+	smear 3
+	shear 2
+	swear 1
+	5
+ovary
+	slate
+	drank 48
+	charm 5
+	ovary 1
+	4
+dopey
+	slate
+	decor 165
+	dopey 2
+	3
+dunce
+	slate
+	drone 107
+	dunce 1
+	3
+whole
+	slate
+	bilge 21
+	uncle 3
+	whole 1
+	4
+slurp
+	slate
+	slunk 12
+	slump 3
+	slurp 1
+	4
+flood
+	slate
+	flunk 39
+	flood 2
+	3
+metal
+	slate
+	fetal 6
+	petal 2
+	metal 1
+	4
+treat
+	slate
+	after 25
+	great 4
+	treat 1
+	4
+ratty
+	slate
+	party 15
+	ratty 1
+	3
+hedge
+	slate
+	drone 107
+	fudge 8
+	wedge 3
+	hedge 1
+	5
+cress
+	slate
+	poser 19
+	cress 4
+	3
+marry
+	slate
+	rayon 136
+	harpy 9
+	carry 2
+	marry 1
+	5
+voila
+	slate
+	royal 58
+	voila 2
+	3
+delay
+	slate
+	regal 31
+	delay 1
+	3
+hovel
+	slate
+	lower 61
+	novel 4
+	hovel 1
+	4
+ivory
+	slate
+	round 221
+	crook 14
+	ivory 1
+	4
+heath
+	slate
+	death 3
+	heath 1
+	3
+brisk
+	slate
+	missy 42
+	frisk 4
+	brisk 1
+	4
+mirth
+	slate
+	north 37
+	birth 3
+	mirth 2
+	4
+sheet
+	slate
+	spent 11
+	sheet 2
+	3
+ficus
+	slate
+	missy 42
+	virus 2
+	ficus 1
+	4
+crepe
+	slate
+	drone 107
+	price 9
+	crepe 1
+	4
+squat
+	slate
+	satyr 7
+	squat 1
+	3
+horny
+	slate
+	round 221
+	corny 2
+	horny 1
+	4
+suave
+	slate
+	share 13
+	spade 4
+	snake 2
+	suave 1
+	5
+sigma
+	slate
+	saucy 17
+	sonar 2
+	sigma 1
+	4
+smart
+	slate
+	stark 14
+	smart 1
+	3
+blind
+	slate
+	flunk 39
+	blond 3
+	blind 1
+	4
+quite
+	slate
+	route 12
+	butte 3
+	quite 1
+	4
+bused
+	slate
+	poser 19
+	bused 1
+	3
+prone
+	slate
+	drone 107
+	crone 2
+	prone 1
+	4
+pansy
+	slate
+	amiss 14
+	harsh 2
+	pansy 1
+	4
+botch
+	slate
+	tonic 86
+	court 2
+	botch 1
+	4
+their
+	slate
+	deter 72
+	their 1
+	3
+shoot
+	slate
+	snort 39
+	scout 5
+	shoot 1
+	4
+worry
+	slate
+	round 221
+	morph 4
+	forgo 2
+	worry 1
+	5
+forty
+	slate
+	north 37
+	forty 1
+	3
+payer
+	slate
+	amber 61
+	parer 12
+	paper 2
+	payer 1
+	5
+toddy
+	slate
+	tonic 86
+	toddy 2
+	3
+plump
+	slate
+	flunk 39
+	clump 4
+	plump 1
+	4
+deter
+	slate
+	deter 72
+	2
+ferry
+	slate
+	decor 165
+	merry 8
+	berry 2
+	ferry 1
+	5
+inlay
+	slate
+	royal 58
+	inlay 2
+	3
+primo
+	slate
+	round 221
+	crook 14
+	primo 1
+	4
+doing
+	slate
+	round 221
+	downy 2
+	doing 1
+	4
+spawn
+	slate
+	spark 23
+	spasm 2
+	spawn 1
+	4
+seize
+	slate
+	spire 32
+	shine 4
+	seize 1
+	4
+jumbo
+	slate
+	round 221
+	gumbo 4
+	jumbo 1
+	4
+group
+	slate
+	round 221
+	curio 7
+	group 1
+	4
+tenth
+	slate
+	petty 10
+	teeth 2
+	tenth 1
+	4
+topic
+	slate
+	tonic 86
+	toxic 2
+	topic 1
+	4
+spell
+	slate
+	shelf 6
+	smell 3
+	swell 2
+	spell 1
+	5
+chock
+	slate
+	round 221
+	hippo 3
+	chock 1
+	4
+wound
+	slate
+	round 221
+	bound 6
+	found 5
+	mound 4
+	wound 3
+	6
+plied
+	slate
+	bleed 18
+	clued 2
+	plied 1
+	4
+canon
+	slate
+	rayon 136
+	bacon 3
+	canon 1
+	4
+blunt
+	slate
+	flint 7
+	blunt 1
+	3
+tweak
+	slate
+	after 25
+	wheat 4
+	tweak 1
+	4
+plant
+	slate
+	plait 2
+	plant 1
+	3
+staff
+	slate
+	stark 14
+	staid 6
+	stash 3
+	stamp 2
+	staff 1
+	6
+cease
+	slate
+	chase 6
+	cease 1
+	3
+towel
+	slate
+	towel 10
+	2
+clink
+	slate
+	flunk 39
+	clink 2
+	3
+guard
+	slate
+	drank 48
+	hoard 5
+	award 2
+	guard 1
+	5
+octal
+	slate
+	natal 17
+	octal 3
+	3
+bathe
+	slate
+	atone 2
+	bathe 1
+	3
+ember
+	slate
+	decor 165
+	viper 18
+	freer 4
+	ember 1
+	5
+reply
+	slate
+	lower 61
+	relic 3
+	reply 1
+	4
+putty
+	slate
+	north 37
+	kitty 6
+	putty 1
+	4
+naive
+	slate
+	range 31
+	naive 1
+	3
+every
+	slate
+	decor 165
+	green 8
+	every 1
+	4
+smith
+	slate
+	sixth 6
+	smith 1
+	3
+nosey
+	slate
+	poser 19
+	nosey 1
+	3
+tower
+	slate
+	deter 72
+	tuber 6
+	tiger 3
+	tower 1
+	5
+hydro
+	slate
+	round 221
+	droop 2
+	hydro 1
+	4
+infer
+	slate
+	decor 165
+	viper 18
+	inner 2
+	infer 1
+	5
+doubt
+	slate
+	tonic 86
+	rotor 4
+	doubt 1
+	4
+girth
+	slate
+	north 37
+	birth 3
+	mirth 2
+	girth 1
+	5
+amaze
+	slate
+	crave 28
+	image 7
+	amaze 1
+	4
+frown
+	slate
+	round 221
+	groin 6
+	frown 3
+	4
+penny
+	slate
+	decor 165
+	begin 9
+	penny 1
+	4
+embed
+	slate
+	decor 165
+	unfed 8
+	embed 1
+	4
+wield
+	slate
+	lower 61
+	welch 4
+	wield 1
+	4
+theme
+	slate
+	trice 17
+	theme 3
+	3
+brood
+	slate
+	round 221
+	chord 4
+	brood 1
+	4
+masse
+	slate
+	pause 10
+	raise 2
+	masse 1
+	4
+favor
+	slate
+	rayon 136
+	vapor 3
+	favor 1
+	4
+shade
+	slate
+	share 13
+	shape 5
+	shame 4
+	shake 3
+	shade 2
+	6
+sworn
+	slate
+	scion 56
+	shown 3
+	sworn 1
+	4
+break
+	slate
+	amber 61
+	bread 3
+	break 1
+	4
+flare
+	slate
+	blare 12
+	glare 2
+	flare 1
+	4
+order
+	slate
+	decor 165
+	order 2
+	3
+gassy
+	slate
+	amiss 14
+	gassy 1
+	3
+rhyme
+	slate
+	drone 107
+	revue 12
+	rhyme 1
+	4
+havoc
+	slate
+	rayon 136
+	havoc 1
+	3
+taken
+	slate
+	after 25
+	taken 2
+	3
+eaten
+	slate
+	after 25
+	matey 2
+	eaten 1
+	4
+story
+	slate
+	snort 39
+	storm 3
+	stork 2
+	story 1
+	5
+undue
+	slate
+	drone 107
+	nudge 2
+	undue 1
+	4
+greed
+	slate
+	decor 165
+	freed 5
+	breed 2
+	greed 1
+	5
+sheik
+	slate
+	sewer 28
+	speck 3
+	sheik 1
+	4
+adage
+	slate
+	crave 28
+	image 7
+	adage 1
+	4
+adept
+	slate
+	after 25
+	agent 2
+	adept 1
+	4
+stove
+	slate
+	stoke 4
+	stone 3
+	store 2
+	stove 1
+	5
+stare
+	slate
+	stave 4
+	stare 3
+	3
+total
+	slate
+	natal 17
+	octal 3
+	total 1
+	4
+caste
+	slate
+	baste 6
+	waste 5
+	haste 4
+	paste 3
+	caste 2
+	6
+dowel
+	slate
+	lower 61
+	bowel 3
+	dowel 2
+	4
+asset
+	slate
+	asset 1
+	2
+under
+	slate
+	decor 165
+	ruder 5
+	udder 2
+	under 1
+	5
+thump
+	slate
+	tonic 86
+	trump 4
+	thump 1
+	4
+polyp
+	slate
+	dilly 87
+	nylon 2
+	polyp 1
+	4
+space
+	slate
+	share 13
+	spade 4
+	space 1
+	4
+mania
+	slate
+	rayon 136
+	manic 5
+	mania 1
+	4
+round
+	slate
+	round 221
+	2
+sperm
+	slate
+	sewer 28
+	sperm 1
+	3
+gecko
+	slate
+	decor 165
+	gecko 1
+	3
+threw
+	slate
+	deter 72
+	threw 2
+	3
+goofy
+	slate
+	round 221
+	boozy 11
+	goofy 1
+	4
+shire
+	slate
+	spire 32
+	shire 1
+	3
+gamut
+	slate
+	taint 51
+	carat 4
+	gamut 1
+	4
+odder
+	slate
+	decor 165
+	order 2
+	odder 1
+	4
+avert
+	slate
+	after 25
+	avert 1
+	3
+enter
+	slate
+	deter 72
+	enter 1
+	3
+movie
+	slate
+	drone 107
+	vogue 5
+	movie 1
+	4
+hazel
+	slate
+	regal 31
+	panel 6
+	hazel 3
+	4
+roach
+	slate
+	drank 48
+	charm 5
+	roach 1
+	4
+swill
+	slate
+	skill 17
+	spill 2
+	swill 1
+	4
+aside
+	slate
+	pause 10
+	aside 1
+	3
+peach
+	slate
+	beard 12
+	heavy 2
+	peach 1
+	4
+manly
+	slate
+	royal 58
+	madly 10
+	manly 1
+	4
+kneel
+	slate
+	lower 61
+	pixel 7
+	bezel 3
+	kneel 1
+	5
+thigh
+	slate
+	tonic 86
+	tight 4
+	thigh 1
+	4
+point
+	slate
+	tonic 86
+	joint 2
+	point 1
+	4
+mafia
+	slate
+	rayon 136
+	magma 10
+	mafia 1
+	4
+wreck
+	slate
+	decor 165
+	creep 3
+	wreck 1
+	4
+icing
+	slate
+	round 221
+	vying 4
+	icing 1
+	4
+revel
+	slate
+	lower 61
+	revel 5
+	3
+gulch
+	slate
+	dilly 87
+	mulch 4
+	gulch 1
+	4
+zesty
+	slate
+	testy 3
+	zesty 1
+	3
+amass
+	slate
+	crash 13
+	quasi 2
+	amass 1
+	4
+basal
+	slate
+	basil 6
+	basal 1
+	3
+extol
+	slate
+	towel 10
+	extol 1
+	3
+noble
+	slate
+	bilge 21
+	noble 1
+	3
+fever
+	slate
+	decor 165
+	fever 6
+	3
+stall
+	slate
+	stalk 3
+	stall 1
+	3
+filet
+	slate
+	towel 10
+	filet 2
+	3
+avail
+	slate
+	crawl 11
+	avail 2
+	3
+bulky
+	slate
+	dilly 87
+	bulky 2
+	3
+clasp
+	slate
+	clash 6
+	clasp 2
+	3
+furry
+	slate
+	round 221
+	curry 6
+	hurry 2
+	furry 1
+	5
+brick
+	slate
+	round 221
+	chirp 9
+	brick 1
+	4
+gland
+	slate
+	plank 20
+	clang 3
+	gland 1
+	4
+grasp
+	slate
+	crash 13
+	grass 3
+	grasp 1
+	4
+gauze
+	slate
+	range 31
+	vague 3
+	gauze 1
+	4
+perky
+	slate
+	decor 165
+	merry 8
+	jerky 2
+	perky 1
+	5
+anger
+	slate
+	amber 61
+	aider 2
+	anger 1
+	4
+macro
+	slate
+	rayon 136
+	cargo 2
+	macro 1
+	4
+stuck
+	slate
+	snort 39
+	stiff 6
+	study 3
+	stuck 2
+	5
+prude
+	slate
+	drone 107
+	pride 4
+	prude 1
+	4
+panic
+	slate
+	rayon 136
+	manic 5
+	panic 1
+	4
+shave
+	slate
+	shape 13
+	share 5
+	shame 4
+	shake 3
+	shade 2
+	shave 1
+	7
+stump
+	slate
+	snort 39
+	stiff 6
+	study 3
+	stuck 2
+	stump 1
+	6
+gloat
+	slate
+	bloat 7
+	gloat 2
+	3
+rinse
+	slate
+	rouse 27
+	rinse 1
+	3
+curly
+	slate
+	dilly 87
+	coyly 6
+	curly 1
+	4
+clown
+	slate
+	flunk 39
+	blown 2
+	clown 1
+	4
+reuse
+	slate
+	rouse 27
+	reuse 1
+	3
+shack
+	slate
+	spark 23
+	shank 4
+	shack 1
+	4
+leach
+	slate
+	leafy 8
+	learn 2
+	leach 1
+	4
+tried
+	slate
+	deter 72
+	tried 1
+	3
+druid
+	slate
+	round 221
+	druid 1
+	3
+swami
+	slate
+	spark 23
+	swash 4
+	swami 1
+	4
+grown
+	slate
+	round 221
+	groin 6
+	grown 1
+	4
+maize
+	slate
+	range 31
+	maybe 6
+	maize 2
+	4
+cedar
+	slate
+	amber 61
+	cedar 1
+	3
+fibre
+	slate
+	drone 107
+	revue 12
+	fibre 1
+	4
+grout
+	slate
+	tonic 86
+	outdo 4
+	grout 1
+	4
+mucky
+	slate
+	round 221
+	jumpy 14
+	mucky 1
+	4
+tally
+	slate
+	natal 17
+	fault 3
+	tally 1
+	4
+score
+	slate
+	spire 32
+	shore 4
+	snore 3
+	score 2
+	5
+demur
+	slate
+	decor 165
+	defer 2
+	demur 1
+	4
+dying
+	slate
+	round 221
+	dying 1
+	3
+snide
+	slate
+	spire 32
+	shine 4
+	snide 1
+	4
+upper
+	slate
+	decor 165
+	viper 18
+	hyper 2
+	upper 1
+	5
+crack
+	slate
+	drank 48
+	wrack 2
+	crack 1
+	4
+arrow
+	slate
+	rayon 136
+	arbor 5
+	arrow 1
+	4
+sooth
+	slate
+	sixth 6
+	south 2
+	sooth 1
+	4
+dizzy
+	slate
+	round 221
+	biddy 3
+	dizzy 1
+	4
+welsh
+	slate
+	loser 2
+	welsh 1
+	3
+dully
+	slate
+	dilly 87
+	dolly 2
+	dully 1
+	4
+brash
+	slate
+	crash 13
+	brash 1
+	3
+stoop
+	slate
+	snort 39
+	stoop 5
+	3
+amuse
+	slate
+	pause 10
+	amuse 2
+	3
+trash
+	slate
+	trash 5
+	2
+debug
+	slate
+	decor 165
+	deign 3
+	debug 1
+	4
+gazer
+	slate
+	amber 61
+	parer 12
+	wager 6
+	gayer 2
+	gazer 1
+	6
+money
+	slate
+	decor 165
+	women 9
+	money 1
+	4
+gaffe
+	slate
+	range 31
+	vague 3
+	gaffe 1
+	4
+thank
+	slate
+	craft 19
+	twang 2
+	thank 1
+	4
+dried
+	slate
+	decor 165
+	dried 1
+	3
+grate
+	slate
+	grate 6
+	2
+juror
+	slate
+	round 221
+	curio 7
+	furor 2
+	juror 1
+	5
+urban
+	slate
+	rayon 136
+	urban 1
+	3
+crass
+	slate
+	crash 13
+	crass 1
+	3
+patch
+	slate
+	taint 51
+	batch 7
+	watch 5
+	match 4
+	patch 3
+	6
+rifle
+	slate
+	bilge 21
+	rifle 1
+	3
+jaunt
+	slate
+	taint 51
+	daunt 5
+	gaunt 4
+	haunt 3
+	jaunt 2
+	6
+sugar
+	slate
+	saucy 17
+	sugar 1
+	3
+parer
+	slate
+	amber 61
+	parer 12
+	3
+whoop
+	slate
+	round 221
+	hippo 3
+	whoop 1
+	4
+golem
+	slate
+	lower 61
+	novel 4
+	golem 1
+	4
+pence
+	slate
+	drone 107
+	hence 12
+	pence 2
+	4
+radar
+	slate
+	rayon 136
+	rapid 6
+	radar 1
+	4
+stake
+	slate
+	stave 4
+	stare 3
+	stake 2
+	4
+spike
+	slate
+	spire 32
+	spice 3
+	spine 2
+	spike 1
+	5
+there
+	slate
+	trice 17
+	three 2
+	there 1
+	4
+valid
+	slate
+	royal 58
+	caulk 4
+	valid 1
+	4
+click
+	slate
+	flunk 39
+	clock 3
+	click 1
+	4
+sauce
+	slate
+	sauce 1
+	2
+erode
+	slate
+	drone 107
+	erode 1
+	3
+anvil
+	slate
+	royal 58
+	annul 4
+	anvil 1
+	4
+flick
+	slate
+	flunk 39
+	flock 2
+	flick 1
+	4
+pedal
+	slate
+	regal 31
+	pedal 5
+	3
+rainy
+	slate
+	rayon 136
+	randy 2
+	rainy 1
+	4
+wafer
+	slate
+	amber 61
+	parer 12
+	wager 6
+	waver 2
+	wafer 1
+	6
+chaos
+	slate
+	crash 13
+	chaos 1
+	3
+pound
+	slate
+	round 221
+	bound 6
+	found 5
+	mound 4
+	wound 3
+	pound 2
+	7
+filly
+	slate
+	dilly 87
+	billy 4
+	willy 3
+	filly 2
+	5
+regal
+	slate
+	regal 31
+	2
+catch
+	slate
+	taint 51
+	batch 7
+	watch 5
+	match 4
+	hatch 3
+	patch 2
+	catch 1
+	8
+weird
+	slate
+	decor 165
+	nerdy 3
+	weird 1
+	4
+tract
+	slate
+	craft 19
+	tract 1
+	3
+golly
+	slate
+	dilly 87
+	fully 7
+	jolly 3
+	holly 2
+	golly 1
+	6
+covet
+	slate
+	deter 72
+	unmet 6
+	covet 1
+	4
+tonal
+	slate
+	natal 17
+	tonal 1
+	3
+slave
+	slate
+	slave 1
+	2
+trust
+	slate
+	frost 24
+	trust 4
+	3
+right
+	slate
+	tonic 86
+	drift 6
+	right 1
+	4
+arson
+	slate
+	amiss 14
+	assay 2
+	arson 1
+	4
+judge
+	slate
+	drone 107
+	fudge 8
+	budge 2
+	judge 1
+	5
+demon
+	slate
+	decor 165
+	demon 1
+	3
+alone
+	slate
+	alive 4
+	algae 2
+	alone 1
+	4
+ninja
+	slate
+	rayon 136
+	aging 4
+	ninja 1
+	4
+rowdy
+	slate
+	round 221
+	rowdy 1
+	3
+repel
+	slate
+	lower 61
+	repel 5
+	3
+drool
+	slate
+	dilly 87
+	drool 1
+	3
+gavel
+	slate
+	regal 31
+	gavel 1
+	3
+balmy
+	slate
+	royal 58
+	madly 10
+	balmy 1
+	4
+caput
+	slate
+	taint 51
+	carat 4
+	caput 1
+	4
+geeky
+	slate
+	decor 165
+	begin 9
+	geeky 1
+	4
+saner
+	slate
+	spear 10
+	safer 2
+	saner 1
+	4
+blade
+	slate
+	blare 12
+	blame 3
+	blade 2
+	4
+cheap
+	slate
+	amber 61
+	ocean 7
+	cheap 1
+	4
+hilly
+	slate
+	dilly 87
+	billy 4
+	willy 3
+	filly 2
+	hilly 1
+	6
+flash
+	slate
+	clash 6
+	flash 1
+	3
+banal
+	slate
+	royal 58
+	canal 8
+	banal 1
+	4
+scowl
+	slate
+	skill 17
+	spool 2
+	scowl 1
+	4
+showy
+	slate
+	scion 56
+	sword 5
+	showy 1
+	4
+vowel
+	slate
+	lower 61
+	bowel 3
+	dowel 2
+	vowel 1
+	5
+slice
+	slate
+	slime 4
+	slide 2
+	slice 1
+	4
+belle
+	slate
+	bilge 21
+	belle 1
+	3
+choir
+	slate
+	round 221
+	crook 14
+	choir 1
+	4
+clamp
+	slate
+	plank 20
+	clamp 1
+	3
+solid
+	slate
+	skill 17
+	solid 1
+	3
+bylaw
+	slate
+	royal 58
+	inlay 2
+	bylaw 1
+	4
+cadet
+	slate
+	after 25
+	taken 2
+	cadet 1
+	4
+notch
+	slate
+	tonic 86
+	count 2
+	notch 1
+	4
+rocky
+	slate
+	round 221
+	roomy 2
+	rocky 1
+	4
+perch
+	slate
+	decor 165
+	mercy 2
+	perch 1
+	4
+cabal
+	slate
+	royal 58
+	canal 8
+	cabal 1
+	4
+press
+	slate
+	poser 19
+	press 1
+	3
+denim
+	slate
+	decor 165
+	deign 3
+	denim 1
+	4
+skunk
+	slate
+	scion 56
+	spunk 5
+	skunk 1
+	4
+tough
+	slate
+	tonic 86
+	toddy 2
+	tough 1
+	4
+jumpy
+	slate
+	round 221
+	jumpy 14
+	3
+visit
+	slate
+	frost 24
+	visit 1
+	3
+genre
+	slate
+	drone 107
+	nerve 2
+	genre 1
+	4
+camel
+	slate
+	regal 31
+	panel 6
+	label 3
+	hazel 2
+	camel 1
+	6
+trove
+	slate
+	trice 17
+	trope 2
+	trove 1
+	4
+recap
+	slate
+	amber 61
+	creak 7
+	recap 1
+	4
+unmet
+	slate
+	deter 72
+	unmet 6
+	3
+slung
+	slate
+	slunk 12
+	slung 1
+	3
+inter
+	slate
+	deter 72
+	outer 5
+	inter 1
+	4
+metro
+	slate
+	deter 72
+	retro 4
+	metro 1
+	4
+fluid
+	slate
+	flunk 39
+	fluff 2
+	fluid 1
+	4
+about
+	slate
+	taint 51
+	abort 5
+	about 1
+	4
+power
+	slate
+	decor 165
+	mower 16
+	rower 2
+	power 1
+	5
+acorn
+	slate
+	rayon 136
+	adorn 4
+	acorn 1
+	4
+parka
+	slate
+	rayon 136
+	march 3
+	parka 1
+	4
+dough
+	slate
+	round 221
+	dough 1
+	3
+slosh
+	slate
+	slunk 12
+	slyly 4
+	sloop 2
+	slosh 1
+	5
+motif
+	slate
+	tonic 86
+	vomit 2
+	motif 1
+	4
+sense
+	slate
+	spire 32
+	shone 7
+	sense 1
+	4
+nymph
+	slate
+	round 221
+	nymph 9
+	3
+local
+	slate
+	royal 58
+	focal 5
+	local 2
+	4
+gusty
+	slate
+	musty 5
+	gusty 3
+	3
+pixie
+	slate
+	drone 107
+	piece 10
+	pique 2
+	pixie 1
+	5
+crate
+	slate
+	grate 6
+	irate 2
+	crate 1
+	4
+fence
+	slate
+	drone 107
+	hence 12
+	pence 2
+	fence 1
+	5
+slain
+	slate
+	slang 4
+	slain 1
+	3
+wacky
+	slate
+	rayon 136
+	bawdy 12
+	wacky 1
+	4
+drill
+	slate
+	dilly 87
+	drill 1
+	3
+clove
+	slate
+	glove 13
+	clove 1
+	3
+pubic
+	slate
+	round 221
+	jumpy 14
+	pubic 1
+	4
+pulpy
+	slate
+	dilly 87
+	bulky 2
+	pulpy 1
+	4
+sissy
+	slate
+	scion 56
+	squib 4
+	sissy 1
+	4
+cause
+	slate
+	pause 10
+	cause 1
+	3
+torus
+	slate
+	frost 24
+	torus 1
+	3
+privy
+	slate
+	round 221
+	chirp 9
+	privy 1
+	4
+burst
+	slate
+	frost 24
+	burst 1
+	3
+binge
+	slate
+	drone 107
+	hence 12
+	binge 1
+	4
+derby
+	slate
+	decor 165
+	derby 1
+	3
+leggy
+	slate
+	lower 61
+	leech 2
+	leggy 1
+	4
+linen
+	slate
+	lower 61
+	liken 5
+	linen 1
+	4
+depot
+	slate
+	deter 72
+	debut 3
+	depot 1
+	4
+vaunt
+	slate
+	taint 51
+	daunt 5
+	gaunt 4
+	haunt 3
+	jaunt 2
+	vaunt 1
+	7
+bossy
+	slate
+	missy 42
+	hussy 3
+	bossy 1
+	4
+grime
+	slate
+	drone 107
+	price 9
+	bribe 2
+	grime 1
+	5
+worth
+	slate
+	north 37
+	forth 2
+	worth 1
+	4
+evade
+	slate
+	crave 28
+	evade 1
+	3
+merge
+	slate
+	drone 107
+	revue 12
+	eerie 2
+	merge 1
+	5
+scour
+	slate
+	scion 56
+	scour 2
+	3
+sinew
+	slate
+	sewer 28
+	sinew 1
+	3
+clank
+	slate
+	plank 20
+	flank 3
+	blank 2
+	clank 1
+	5
+dozen
+	slate
+	decor 165
+	dopey 2
+	dozen 1
+	4
+annex
+	slate
+	amber 61
+	apnea 2
+	annex 1
+	4
+queer
+	slate
+	decor 165
+	viper 18
+	freer 4
+	queer 1
+	5
+verso
+	slate
+	poser 19
+	verso 1
+	3
+canny
+	slate
+	rayon 136
+	candy 8
+	canny 1
+	4
+rusty
+	slate
+	musty 5
+	gusty 3
+	rusty 2
+	4
+thorn
+	slate
+	tonic 86
+	thong 2
+	thorn 1
+	4
+surly
+	slate
+	skill 17
+	surly 3
+	3
+aphid
+	slate
+	rayon 136
+	affix 3
+	aphid 1
+	4
+bobby
+	slate
+	round 221
+	boozy 11
+	bobby 1
+	4
+float
+	slate
+	bloat 7
+	gloat 2
+	float 1
+	4
+poker
+	slate
+	decor 165
+	mower 16
+	rover 8
+	joker 5
+	poker 1
+	6
+await
+	slate
+	craft 19
+	adapt 3
+	await 1
+	4
+flume
+	slate
+	glove 13
+	flume 5
+	3
+gourd
+	slate
+	round 221
+	gourd 1
+	3
+wight
+	slate
+	tonic 86
+	drift 6
+	might 2
+	wight 1
+	5
+pulse
+	slate
+	loose 3
+	pulse 1
+	3
+whine
+	slate
+	drone 107
+	penne 2
+	whine 1
+	4
+prism
+	slate
+	missy 42
+	prism 1
+	3
+cream
+	slate
+	amber 61
+	dream 2
+	cream 1
+	4
+would
+	slate
+	dilly 87
+	world 3
+	would 1
+	4
+bonus
+	slate
+	missy 42
+	focus 3
+	bonus 1
+	4
+spend
+	slate
+	sewer 28
+	speck 3
+	spend 1
+	4
+stank
+	slate
+	stark 14
+	stack 2
+	stank 1
+	4
+dandy
+	slate
+	rayon 136
+	candy 8
+	handy 2
+	dandy 1
+	5
+lurid
+	slate
+	dilly 87
+	lucid 2
+	lurid 1
+	4
+brown
+	slate
+	round 221
+	groin 6
+	frown 3
+	brown 2
+	5
+daisy
+	slate
+	amiss 14
+	daisy 1
+	3
+comet
+	slate
+	deter 72
+	unmet 6
+	comet 1
+	4
+super
+	slate
+	sewer 28
+	surer 4
+	super 1
+	4
+chalk
+	slate
+	crawl 11
+	chalk 1
+	3
+deuce
+	slate
+	drone 107
+	deuce 1
+	3
+stoic
+	slate
+	snort 39
+	stoop 5
+	stock 2
+	stoic 1
+	5
+fruit
+	slate
+	tonic 86
+	digit 2
+	fruit 1
+	4
+fuzzy
+	slate
+	round 221
+	jumpy 14
+	buggy 2
+	fuzzy 1
+	5
+guava
+	slate
+	drank 48
+	foamy 5
+	guava 1
+	4
+fetus
+	slate
+	quest 15
+	fetus 1
+	3
+tempo
+	slate
+	deter 72
+	befit 2
+	tempo 1
+	4
+nurse
+	slate
+	rouse 27
+	purse 3
+	curse 2
+	nurse 1
+	5
+scamp
+	slate
+	spark 23
+	swamp 3
+	scamp 1
+	4
+piney
+	slate
+	decor 165
+	eying 10
+	piney 1
+	4
+awful
+	slate
+	royal 58
+	annul 4
+	awful 1
+	4
+unlit
+	slate
+	guilt 14
+	unlit 1
+	3
+unite
+	slate
+	route 12
+	butte 3
+	unite 1
+	4
+nomad
+	slate
+	rayon 136
+	gonad 3
+	nomad 1
+	4
+wrung
+	slate
+	round 221
+	wrung 1
+	3
+steed
+	slate
+	spent 11
+	steer 2
+	steed 1
+	4
+swine
+	slate
+	spire 32
+	shine 4
+	swine 1
+	4
+bawdy
+	slate
+	rayon 136
+	bawdy 12
+	3
+cling
+	slate
+	flunk 39
+	blond 3
+	cling 1
+	4
+rayon
+	slate
+	rayon 136
+	2
+while
+	slate
+	bilge 21
+	exile 2
+	while 1
+	4
+north
+	slate
+	north 37
+	2
+pithy
+	slate
+	tonic 86
+	drift 6
+	pithy 1
+	4
+enjoy
+	slate
+	decor 165
+	envoy 2
+	enjoy 1
+	4
+evoke
+	slate
+	drone 107
+	choke 4
+	evoke 1
+	4
+surge
+	slate
+	spire 32
+	scree 3
+	surge 1
+	4
+swift
+	slate
+	snort 39
+	sight 3
+	swift 1
+	4
+lefty
+	slate
+	lefty 1
+	2
+muddy
+	slate
+	round 221
+	dumpy 6
+	muddy 1
+	4
+leash
+	slate
+	leash 1
+	2
+sully
+	slate
+	skill 17
+	sully 1
+	3
+unset
+	slate
+	crest 15
+	unset 4
+	3
+lithe
+	slate
+	tilde 5
+	lithe 1
+	3
+abate
+	slate
+	grate 6
+	ovate 2
+	abate 1
+	4
+youth
+	slate
+	north 37
+	booth 4
+	mouth 2
+	youth 1
+	5
+blast
+	slate
+	blast 1
+	2
+remit
+	slate
+	deter 72
+	merit 5
+	remit 1
+	4
+burnt
+	slate
+	tonic 86
+	grunt 3
+	burnt 1
+	4
+thick
+	slate
+	tonic 86
+	thick 2
+	3
+swirl
+	slate
+	skill 17
+	swirl 1
+	3
+rivet
+	slate
+	deter 72
+	threw 2
+	rivet 1
+	4
+buddy
+	slate
+	round 221
+	dumpy 6
+	buddy 1
+	4
+ralph
+	slate
+	royal 58
+	ralph 1
+	3
+class
+	slate
+	clash 6
+	clasp 2
+	class 1
+	4
+chill
+	slate
+	dilly 87
+	frill 5
+	quill 2
+	chill 1
+	5
+otter
+	slate
+	deter 72
+	outer 5
+	otter 1
+	4
+polar
+	slate
+	royal 58
+	molar 2
+	polar 1
+	4
+quash
+	slate
+	crash 13
+	awash 3
+	gnash 2
+	quash 1
+	5
+tepee
+	slate
+	trice 17
+	theme 3
+	tepee 1
+	4
+stuff
+	slate
+	snort 39
+	stiff 6
+	stuff 1
+	4
+thing
+	slate
+	tonic 86
+	think 3
+	thing 1
+	4
+cider
+	slate
+	decor 165
+	cider 1
+	3
+swept
+	slate
+	spent 11
+	swept 1
+	3
+owner
+	slate
+	decor 165
+	mower 16
+	owner 1
+	4
+fewer
+	slate
+	decor 165
+	fever 6
+	fewer 1
+	4
+whose
+	slate
+	rouse 27
+	chose 3
+	whose 1
+	4
+sooty
+	slate
+	sixth 6
+	sooty 1
+	3
+taste
+	slate
+	baste 6
+	waste 5
+	haste 4
+	paste 3
+	caste 2
+	taste 1
+	7
+kayak
+	slate
+	rayon 136
+	kayak 1
+	3
+rival
+	slate
+	royal 58
+	rival 2
+	3
+intro
+	slate
+	tonic 86
+	intro 2
+	3
+crimp
+	slate
+	round 221
+	chirp 9
+	crimp 1
+	4
+below
+	slate
+	lower 61
+	below 1
+	3
+gooey
+	slate
+	decor 165
+	women 9
+	gooey 1
+	4
+giddy
+	slate
+	round 221
+	biddy 3
+	giddy 1
+	4
+reset
+	slate
+	crest 15
+	reset 1
+	3
+legal
+	slate
+	regal 31
+	legal 1
+	3
+abuse
+	slate
+	pause 10
+	amuse 2
+	abuse 1
+	4
+spent
+	slate
+	spent 11
+	2
+skate
+	slate
+	state 2
+	skate 1
+	3
+empty
+	slate
+	petty 10
+	empty 1
+	3
+chant
+	slate
+	craft 19
+	chant 1
+	3
+apron
+	slate
+	rayon 136
+	apron 1
+	3
+equip
+	slate
+	decor 165
+	eying 10
+	equip 1
+	4
+fishy
+	slate
+	missy 42
+	wispy 3
+	risky 2
+	fishy 1
+	5
+crude
+	slate
+	drone 107
+	pride 4
+	crude 1
+	4
+zebra
+	slate
+	amber 61
+	zebra 1
+	3
+filer
+	slate
+	lower 61
+	idler 3
+	filer 1
+	4
+snare
+	slate
+	share 13
+	scare 3
+	spare 2
+	snare 1
+	5
+taboo
+	slate
+	taint 51
+	tardy 5
+	taboo 1
+	4
+cagey
+	slate
+	amber 61
+	haven 4
+	cagey 1
+	4
+apple
+	slate
+	angle 16
+	ample 3
+	apple 1
+	4
+aping
+	slate
+	rayon 136
+	aging 4
+	aping 1
+	4
+model
+	slate
+	lower 61
+	novel 4
+	model 1
+	4
+segue
+	slate
+	spire 32
+	shone 7
+	segue 1
+	4
+apply
+	slate
+	royal 58
+	madly 10
+	apply 1
+	4
+sepia
+	slate
+	spear 10
+	sepia 1
+	3
+chick
+	slate
+	round 221
+	wimpy 12
+	chick 1
+	4
+night
+	slate
+	tonic 86
+	print 3
+	night 1
+	4
+rural
+	slate
+	royal 58
+	rival 2
+	rural 1
+	4
+blaze
+	slate
+	blare 12
+	blame 3
+	blade 2
+	blaze 1
+	5
+swore
+	slate
+	spire 32
+	shore 4
+	snore 3
+	score 2
+	swore 1
+	6
+vocal
+	slate
+	royal 58
+	focal 5
+	local 2
+	vocal 1
+	5
+butch
+	slate
+	tonic 86
+	dutch 4
+	hutch 2
+	butch 1
+	5
+often
+	slate
+	deter 72
+	octet 3
+	often 1
+	4
+began
+	slate
+	amber 61
+	began 1
+	3
+quail
+	slate
+	crawl 11
+	avail 2
+	quail 1
+	4
+ethic
+	slate
+	deter 72
+	evict 7
+	ethic 1
+	4
+beret
+	slate
+	deter 72
+	beret 1
+	3
+shush
+	slate
+	scion 56
+	shrub 4
+	shush 1
+	4
+habit
+	slate
+	taint 51
+	habit 1
+	3
+sassy
+	slate
+	saucy 17
+	savvy 5
+	sappy 3
+	sandy 2
+	sassy 1
+	6
+blink
+	slate
+	flunk 39
+	clink 2
+	blink 1
+	4
+tribe
+	slate
+	trice 17
+	tripe 2
+	tribe 1
+	4
+inlet
+	slate
+	towel 10
+	filet 2
+	inlet 1
+	4
+lupus
+	slate
+	lousy 3
+	lupus 1
+	3
+wordy
+	slate
+	round 221
+	dowry 2
+	wordy 1
+	4
+hound
+	slate
+	round 221
+	bound 6
+	found 5
+	mound 4
+	wound 3
+	pound 2
+	hound 1
+	8
+abode
+	slate
+	range 31
+	adobe 5
+	abode 1
+	4
+dirge
+	slate
+	drone 107
+	dirge 1
+	3
+brief
+	slate
+	decor 165
+	green 8
+	brief 1
+	4
+refit
+	slate
+	deter 72
+	merit 5
+	refit 1
+	4
+lymph
+	slate
+	dilly 87
+	lynch 2
+	lymph 1
+	4
+fungi
+	slate
+	round 221
+	hunky 10
+	fungi 1
+	4
+flung
+	slate
+	flunk 39
+	flung 1
+	3
+forte
+	slate
+	route 12
+	forte 1
+	3
+sauna
+	slate
+	saucy 17
+	sauna 1
+	3
+bison
+	slate
+	missy 42
+	visor 3
+	bison 1
+	4
+idiom
+	slate
+	round 221
+	widow 2
+	idiom 1
+	4
+mauve
+	slate
+	range 31
+	maybe 6
+	maize 2
+	mauve 1
+	5
+scoff
+	slate
+	scion 56
+	scour 2
+	scoff 1
+	4
+stage
+	slate
+	stave 4
+	stare 3
+	stake 2
+	stage 1
+	5
+bigot
+	slate
+	tonic 86
+	pivot 3
+	bigot 1
+	4
+could
+	slate
+	dilly 87
+	world 3
+	could 1
+	4
+robin
+	slate
+	round 221
+	robin 1
+	3
+roast
+	slate
+	trash 5
+	roast 1
+	3
+floor
+	slate
+	flunk 39
+	flood 2
+	floor 1
+	4
+sulky
+	slate
+	skill 17
+	sulky 1
+	3
+tulip
+	slate
+	guilt 14
+	tulip 1
+	3
+board
+	slate
+	drank 48
+	hoard 5
+	board 1
+	4
+cramp
+	slate
+	drank 48
+	gravy 5
+	cramp 1
+	4
+scope
+	slate
+	spire 32
+	scope 1
+	3
+biome
+	slate
+	drone 107
+	choke 4
+	booze 2
+	biome 1
+	5
+loamy
+	slate
+	crawl 11
+	koala 3
+	loamy 1
+	4
+proxy
+	slate
+	round 221
+	crook 14
+	proxy 1
+	4
+drama
+	slate
+	drank 48
+	drama 1
+	3
+dross
+	slate
+	missy 42
+	gross 3
+	cross 2
+	dross 1
+	5
+quoth
+	slate
+	north 37
+	quoth 1
+	3
+snaky
+	slate
+	spark 23
+	shaky 2
+	snaky 1
+	4
+dairy
+	slate
+	rayon 136
+	harpy 9
+	fairy 2
+	dairy 1
+	5
+whale
+	slate
+	leave 2
+	whale 1
+	3
+fatty
+	slate
+	party 15
+	batty 4
+	tatty 3
+	fatty 2
+	5
+puffy
+	slate
+	round 221
+	jumpy 14
+	puffy 1
+	4
+polka
+	slate
+	royal 58
+	voila 2
+	polka 1
+	4
+decay
+	slate
+	amber 61
+	ocean 7
+	decay 1
+	4
+rebel
+	slate
+	lower 61
+	revel 5
+	repel 2
+	rebel 1
+	5
+cheek
+	slate
+	decor 165
+	chief 3
+	cheek 1
+	4
+basic
+	slate
+	amiss 14
+	basin 2
+	basic 1
+	4
+crisp
+	slate
+	missy 42
+	frisk 4
+	crisp 1
+	4
+wrong
+	slate
+	round 221
+	prong 4
+	wrong 1
+	4
+humor
+	slate
+	round 221
+	curio 7
+	humor 1
+	4
+tutor
+	slate
+	tonic 86
+	turbo 7
+	tumor 2
+	tutor 1
+	5
+lilac
+	slate
+	royal 58
+	lilac 1
+	3
+layer
+	slate
+	regal 31
+	paler 4
+	layer 1
+	4
+catty
+	slate
+	party 15
+	batty 4
+	tatty 3
+	fatty 2
+	catty 1
+	6
+motto
+	slate
+	north 37
+	pouty 3
+	motto 1
+	4
+angel
+	slate
+	regal 31
+	bagel 2
+	angel 1
+	4
+synod
+	slate
+	scion 56
+	snoop 2
+	synod 1
+	4
+cliff
+	slate
+	flunk 39
+	cliff 1
+	3
+proof
+	slate
+	round 221
+	crook 14
+	broom 3
+	proof 1
+	5
+sieve
+	slate
+	spire 32
+	singe 4
+	sieve 1
+	4
+afire
+	slate
+	range 31
+	azure 3
+	adore 2
+	afire 1
+	5
+gravy
+	slate
+	drank 48
+	gravy 5
+	3
+karma
+	slate
+	rayon 136
+	march 3
+	karma 1
+	4
+sharp
+	slate
+	spark 23
+	sharp 1
+	3
+elite
+	slate
+	flute 2
+	elite 1
+	3
+ingot
+	slate
+	tonic 86
+	intro 2
+	ingot 1
+	4
+phone
+	slate
+	drone 107
+	ozone 2
+	phone 1
+	4
+weave
+	slate
+	crave 28
+	heave 3
+	weave 1
+	4
+crown
+	slate
+	round 221
+	groin 6
+	frown 3
+	brown 2
+	crown 1
+	6
+mover
+	slate
+	decor 165
+	mower 16
+	mover 1
+	4
+thrum
+	slate
+	tonic 86
+	trump 4
+	thrum 1
+	4
+adopt
+	slate
+	taint 51
+	abort 5
+	afoot 2
+	adopt 1
+	5
+emcee
+	slate
+	drone 107
+	piece 10
+	emcee 1
+	4
+given
+	slate
+	decor 165
+	eying 10
+	given 1
+	4
+fable
+	slate
+	angle 16
+	cable 4
+	fable 1
+	4
+pizza
+	slate
+	rayon 136
+	affix 3
+	pizza 1
+	4
+arise
+	slate
+	pause 10
+	arose 2
+	arise 1
+	4
+shorn
+	slate
+	scion 56
+	shown 3
+	shorn 1
+	4
+covey
+	slate
+	decor 165
+	coven 3
+	covey 1
+	4
+hippy
+	slate
+	round 221
+	wimpy 12
+	hippy 1
+	4
+plumb
+	slate
+	flunk 39
+	plump 4
+	plumb 1
+	4
+minor
+	slate
+	round 221
+	groin 6
+	minor 1
+	4
+glade
+	slate
+	blare 12
+	glaze 6
+	glade 1
+	4
+dress
+	slate
+	poser 19
+	cress 4
+	dress 1
+	4
+gaily
+	slate
+	royal 58
+	madly 10
+	gaily 1
+	4
+mucus
+	slate
+	missy 42
+	mucus 1
+	3
+riser
+	slate
+	poser 19
+	miser 3
+	wiser 2
+	riser 1
+	5
+sweet
+	slate
+	spent 11
+	sheet 2
+	sweet 1
+	4
+plate
+	slate
+	elate 2
+	plate 1
+	3
+write
+	slate
+	route 12
+	trite 2
+	write 1
+	4
+bongo
+	slate
+	round 221
+	conch 4
+	bongo 1
+	4
+resin
+	slate
+	poser 19
+	resin 1
+	3
+china
+	slate
+	rayon 136
+	aging 4
+	china 1
+	4
+third
+	slate
+	tonic 86
+	tight 4
+	third 1
+	4
+dusty
+	slate
+	musty 5
+	gusty 3
+	rusty 2
+	dusty 1
+	5
+ninny
+	slate
+	round 221
+	vying 4
+	ninny 1
+	4
+music
+	slate
+	missy 42
+	music 1
+	3
+renew
+	slate
+	decor 165
+	merry 8
+	reign 2
+	renew 1
+	5
+girly
+	slate
+	dilly 87
+	girly 1
+	3
+niche
+	slate
+	drone 107
+	hence 12
+	niche 1
+	4
+thyme
+	slate
+	trice 17
+	theme 3
+	thyme 1
+	4
+briny
+	slate
+	round 221
+	wring 4
+	brink 2
+	briny 1
+	5
+gully
+	slate
+	dilly 87
+	fully 7
+	bully 2
+	gully 1
+	5
+queen
+	slate
+	decor 165
+	eying 10
+	queen 1
+	4
+churn
+	slate
+	round 221
+	churn 1
+	3
+flesh
+	slate
+	bless 2
+	flesh 1
+	3
+waist
+	slate
+	patsy 5
+	waist 1
+	3
+guile
+	slate
+	bilge 21
+	guile 1
+	3

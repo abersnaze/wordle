@@ -1,0 +1,12942 @@
+stand
+	saner
+	stank 13
+	stand 1
+	3
+diver
+	saner
+	older 76
+	drier 5
+	diver 1
+	4
+quasi
+	saner
+	clash 23
+	toast 4
+	quasi 2
+	4
+elect
+	saner
+	elite 140
+	elect 1
+	3
+patsy
+	saner
+	palsy 14
+	patsy 1
+	3
+fried
+	saner
+	tried 27
+	fried 4
+	3
+ethos
+	saner
+	those 36
+	ethos 1
+	3
+stack
+	saner
+	shalt 36
+	stack 4
+	3
+overt
+	saner
+	trice 92
+	retro 7
+	overt 1
+	4
+troll
+	saner
+	court 113
+	throb 6
+	troll 1
+	4
+zesty
+	saner
+	those 36
+	zesty 2
+	3
+dying
+	saner
+	glint 68
+	dying 5
+	3
+filer
+	saner
+	older 76
+	liver 5
+	filer 1
+	4
+brood
+	saner
+	court 113
+	droop 13
+	brood 1
+	4
+shirt
+	saner
+	shirt 23
+	2
+brine
+	saner
+	urine 15
+	brine 1
+	3
+knock
+	saner
+	glint 68
+	knock 3
+	3
+sonar
+	saner
+	sonar 1
+	2
+mossy
+	saner
+	hoist 50
+	mossy 3
+	3
+argue
+	saner
+	trace 61
+	argue 1
+	3
+trust
+	saner
+	truss 25
+	trust 1
+	3
+stalk
+	saner
+	shalt 36
+	stalk 2
+	3
+loyal
+	saner
+	aloft 94
+	loamy 8
+	loyal 1
+	4
+libel
+	saner
+	betel 49
+	libel 1
+	3
+sassy
+	saner
+	salsa 11
+	sassy 1
+	3
+mucus
+	saner
+	hoist 50
+	mucus 4
+	3
+leapt
+	saner
+	dealt 90
+	leapt 1
+	3
+beget
+	saner
+	betel 49
+	beget 1
+	3
+alibi
+	saner
+	aloft 94
+	alibi 4
+	3
+apply
+	saner
+	aloft 94
+	apply 4
+	3
+after
+	saner
+	after 4
+	2
+party
+	saner
+	party 31
+	2
+shawl
+	saner
+	shalt 36
+	shawl 1
+	3
+eagle
+	saner
+	table 23
+	eagle 3
+	3
+frock
+	saner
+	court 113
+	frock 1
+	3
+drift
+	saner
+	court 113
+	drift 2
+	3
+alter
+	saner
+	after 4
+	alter 1
+	3
+latte
+	saner
+	table 23
+	latte 2
+	3
+surly
+	saner
+	shirt 23
+	scrub 4
+	surly 1
+	4
+chain
+	saner
+	align 34
+	chain 2
+	3
+creep
+	saner
+	tried 27
+	creep 4
+	3
+gourd
+	saner
+	court 113
+	gourd 1
+	3
+again
+	saner
+	align 34
+	again 1
+	3
+braid
+	saner
+	craft 68
+	braid 8
+	3
+boxer
+	saner
+	older 76
+	rower 18
+	mover 9
+	poker 4
+	boxer 2
+	6
+elegy
+	saner
+	elite 140
+	elegy 1
+	3
+bride
+	saner
+	trice 92
+	pride 8
+	bride 1
+	4
+spied
+	saner
+	steel 14
+	spied 2
+	3
+skulk
+	saner
+	spilt 74
+	sully 6
+	skulk 1
+	4
+camel
+	saner
+	cagey 13
+	camel 3
+	3
+aorta
+	saner
+	craft 68
+	aorta 2
+	3
+piggy
+	saner
+	could 219
+	fight 19
+	piggy 1
+	4
+speck
+	saner
+	slept 37
+	speck 1
+	3
+plunk
+	saner
+	glint 68
+	plunk 3
+	3
+bench
+	saner
+	pence 20
+	bench 2
+	3
+bunch
+	saner
+	tonic 39
+	bunch 6
+	3
+prove
+	saner
+	trice 92
+	prove 9
+	3
+baggy
+	saner
+	catty 71
+	badly 16
+	baggy 1
+	4
+react
+	saner
+	trace 61
+	react 1
+	3
+tumor
+	saner
+	rumor 16
+	tumor 2
+	3
+dirty
+	saner
+	court 113
+	girth 5
+	dirty 1
+	4
+blame
+	saner
+	dealt 90
+	blame 7
+	3
+rifle
+	saner
+	trice 92
+	rifle 5
+	3
+extol
+	saner
+	elite 140
+	extol 2
+	3
+yield
+	saner
+	elite 140
+	yield 5
+	3
+bluer
+	saner
+	older 76
+	flier 5
+	bluer 2
+	4
+venue
+	saner
+	hence 20
+	venue 3
+	3
+talon
+	saner
+	taint 19
+	talon 1
+	3
+erect
+	saner
+	trice 92
+	erect 1
+	3
+reach
+	saner
+	trace 61
+	reach 1
+	3
+skimp
+	saner
+	spilt 74
+	skimp 1
+	3
+cache
+	saner
+	table 23
+	gauze 8
+	cache 2
+	4
+labor
+	saner
+	valor 9
+	labor 1
+	3
+dimly
+	saner
+	could 219
+	dimly 3
+	3
+musky
+	saner
+	hoist 50
+	mucus 4
+	musky 1
+	4
+sepia
+	saner
+	stale 25
+	sepia 2
+	3
+eight
+	saner
+	elite 140
+	eight 2
+	3
+farce
+	saner
+	large 6
+	farce 2
+	3
+wooer
+	saner
+	older 76
+	rower 18
+	wooer 1
+	4
+child
+	saner
+	could 219
+	child 1
+	3
+tease
+	saner
+	least 17
+	tease 1
+	3
+duchy
+	saner
+	could 219
+	duchy 2
+	3
+cacti
+	saner
+	catty 71
+	cacti 1
+	3
+blush
+	saner
+	hoist 50
+	blush 3
+	3
+photo
+	saner
+	could 219
+	photo 5
+	3
+women
+	saner
+	woken 23
+	women 2
+	3
+trope
+	saner
+	trice 92
+	trope 2
+	3
+unfit
+	saner
+	glint 68
+	unfit 2
+	3
+olive
+	saner
+	elite 140
+	olive 2
+	3
+funky
+	saner
+	tonic 39
+	funky 4
+	3
+attic
+	saner
+	aloft 94
+	attic 2
+	3
+white
+	saner
+	elite 140
+	white 2
+	3
+black
+	saner
+	aloft 94
+	claim 8
+	black 1
+	4
+robin
+	saner
+	groin 36
+	robin 1
+	3
+grime
+	saner
+	trice 92
+	pride 8
+	grime 2
+	4
+shire
+	saner
+	shire 12
+	2
+hedge
+	saner
+	elite 140
+	hedge 5
+	3
+unity
+	saner
+	glint 68
+	unity 1
+	3
+quota
+	saner
+	aloft 94
+	quota 1
+	3
+naive
+	saner
+	naive 1
+	2
+dizzy
+	saner
+	could 219
+	digit 6
+	dizzy 1
+	4
+ovary
+	saner
+	craft 68
+	board 8
+	ovary 1
+	4
+swear
+	saner
+	swear 4
+	2
+major
+	saner
+	valor 9
+	major 3
+	3
+stein
+	saner
+	spent 13
+	stein 1
+	3
+dally
+	saner
+	catty 71
+	badly 16
+	dally 2
+	4
+paint
+	saner
+	taint 19
+	paint 2
+	3
+worse
+	saner
+	terse 17
+	worse 4
+	3
+depot
+	saner
+	elite 140
+	depot 7
+	3
+while
+	saner
+	elite 140
+	while 2
+	3
+sunny
+	saner
+	sunny 3
+	2
+copse
+	saner
+	those 36
+	poise 6
+	copse 1
+	4
+fruit
+	saner
+	court 113
+	fruit 1
+	3
+grove
+	saner
+	trice 92
+	prove 9
+	grove 2
+	4
+lymph
+	saner
+	could 219
+	filmy 10
+	lymph 1
+	4
+fleck
+	saner
+	elite 140
+	fleck 1
+	3
+tough
+	saner
+	could 219
+	mouth 5
+	tough 1
+	4
+quark
+	saner
+	craft 68
+	board 8
+	quark 2
+	4
+vogue
+	saner
+	elite 140
+	budge 10
+	vogue 1
+	4
+shorn
+	saner
+	shorn 5
+	2
+genre
+	saner
+	genre 1
+	2
+hardy
+	saner
+	party 31
+	hardy 4
+	3
+speak
+	saner
+	stale 25
+	sepia 2
+	speak 1
+	4
+final
+	saner
+	tonga 10
+	final 2
+	3
+axion
+	saner
+	align 34
+	axion 2
+	3
+prime
+	saner
+	trice 92
+	pride 8
+	prime 2
+	4
+thyme
+	saner
+	elite 140
+	thyme 1
+	3
+patio
+	saner
+	catty 71
+	patio 3
+	3
+truly
+	saner
+	court 113
+	truly 3
+	3
+poise
+	saner
+	those 36
+	poise 6
+	3
+stank
+	saner
+	stank 13
+	2
+smile
+	saner
+	slept 37
+	smile 2
+	3
+gravy
+	saner
+	craft 68
+	braid 8
+	gravy 2
+	4
+motor
+	saner
+	rumor 16
+	motor 1
+	3
+crimp
+	saner
+	court 113
+	crimp 2
+	3
+pause
+	saner
+	pause 11
+	2
+spelt
+	saner
+	slept 37
+	spelt 1
+	3
+squad
+	saner
+	shalt 36
+	squad 4
+	3
+guilt
+	saner
+	could 219
+	guilt 7
+	3
+faint
+	saner
+	taint 19
+	paint 2
+	faint 1
+	4
+stork
+	saner
+	shirt 23
+	stork 3
+	3
+hotel
+	saner
+	betel 49
+	hotel 2
+	3
+novel
+	saner
+	woken 23
+	novel 1
+	3
+reuse
+	saner
+	terse 17
+	reuse 1
+	3
+admit
+	saner
+	aloft 94
+	admit 4
+	3
+truck
+	saner
+	court 113
+	truck 1
+	3
+still
+	saner
+	spilt 74
+	still 1
+	3
+wagon
+	saner
+	taint 19
+	wagon 4
+	3
+tipsy
+	saner
+	hoist 50
+	tipsy 1
+	3
+roger
+	saner
+	older 76
+	rower 18
+	roger 2
+	4
+rajah
+	saner
+	party 31
+	radio 6
+	rajah 1
+	4
+eaten
+	saner
+	taken 7
+	eaten 1
+	3
+decry
+	saner
+	trice 92
+	decry 2
+	3
+kiosk
+	saner
+	hoist 50
+	kiosk 1
+	3
+graze
+	saner
+	trace 61
+	grade 9
+	graze 3
+	4
+lupus
+	saner
+	hoist 50
+	mucus 4
+	lupus 1
+	4
+stomp
+	saner
+	spilt 74
+	stomp 3
+	3
+warty
+	saner
+	party 31
+	warty 1
+	3
+canoe
+	saner
+	dance 4
+	canoe 1
+	3
+tenor
+	saner
+	tenor 1
+	2
+claim
+	saner
+	aloft 94
+	claim 8
+	3
+hurry
+	saner
+	court 113
+	hurry 3
+	3
+slack
+	saner
+	shalt 36
+	slack 1
+	3
+atone
+	saner
+	agent 23
+	atone 1
+	3
+pinto
+	saner
+	tonic 39
+	pinto 1
+	3
+tutor
+	saner
+	rumor 16
+	tutor 1
+	3
+bonus
+	saner
+	bonus 2
+	2
+psalm
+	saner
+	clash 23
+	psalm 1
+	3
+ionic
+	saner
+	tonic 39
+	ionic 2
+	3
+flood
+	saner
+	could 219
+	flood 2
+	3
+month
+	saner
+	tonic 39
+	month 2
+	3
+stake
+	saner
+	stale 25
+	stake 4
+	3
+randy
+	saner
+	randy 2
+	2
+ingot
+	saner
+	glint 68
+	ingot 2
+	3
+abase
+	saner
+	least 17
+	phase 3
+	abase 1
+	4
+pound
+	saner
+	glint 68
+	phony 9
+	pound 1
+	4
+color
+	saner
+	rumor 16
+	color 3
+	3
+vying
+	saner
+	glint 68
+	dying 5
+	vying 1
+	4
+jumbo
+	saner
+	could 219
+	gumbo 7
+	jumbo 1
+	4
+frill
+	saner
+	court 113
+	dryly 10
+	frill 3
+	4
+unlit
+	saner
+	glint 68
+	unlit 1
+	3
+truth
+	saner
+	court 113
+	truly 3
+	truth 2
+	4
+froze
+	saner
+	trice 92
+	prove 9
+	froze 3
+	4
+there
+	saner
+	trice 92
+	there 1
+	3
+asset
+	saner
+	asset 2
+	2
+frown
+	saner
+	groin 36
+	frown 4
+	3
+feral
+	saner
+	trace 61
+	relay 8
+	feral 1
+	4
+latch
+	saner
+	catty 71
+	latch 6
+	3
+trade
+	saner
+	trace 61
+	trade 1
+	3
+spiky
+	saner
+	spilt 74
+	spiky 2
+	3
+award
+	saner
+	craft 68
+	board 8
+	award 2
+	4
+three
+	saner
+	tried 27
+	three 2
+	3
+venom
+	saner
+	hence 20
+	venom 3
+	3
+scare
+	saner
+	scare 4
+	2
+grind
+	saner
+	groin 36
+	grind 1
+	3
+puree
+	saner
+	tried 27
+	puree 5
+	3
+actor
+	saner
+	briar 15
+	actor 2
+	3
+flame
+	saner
+	dealt 90
+	blame 7
+	flame 1
+	4
+gloom
+	saner
+	could 219
+	gloom 5
+	3
+roost
+	saner
+	truss 25
+	roost 3
+	3
+quell
+	saner
+	elite 140
+	welch 12
+	quell 1
+	4
+satin
+	saner
+	satin 4
+	2
+steer
+	saner
+	sewer 9
+	steer 2
+	3
+pried
+	saner
+	tried 27
+	fried 4
+	pried 3
+	4
+chick
+	saner
+	could 219
+	chick 2
+	3
+elope
+	saner
+	elite 140
+	elope 2
+	3
+retry
+	saner
+	trice 92
+	retro 7
+	retry 1
+	4
+waive
+	saner
+	table 23
+	gauze 8
+	cache 2
+	waive 1
+	5
+jewel
+	saner
+	betel 49
+	jewel 2
+	3
+clean
+	saner
+	agent 23
+	clean 4
+	3
+polar
+	saner
+	briar 15
+	polar 3
+	3
+artsy
+	saner
+	brass 9
+	artsy 1
+	3
+debar
+	saner
+	debar 4
+	2
+mason
+	saner
+	mason 4
+	2
+sperm
+	saner
+	shire 12
+	sperm 1
+	3
+abbey
+	saner
+	abbey 3
+	2
+folio
+	saner
+	could 219
+	folio 5
+	3
+awash
+	saner
+	clash 23
+	awash 2
+	3
+brass
+	saner
+	brass 9
+	2
+elder
+	saner
+	older 76
+	elder 1
+	3
+thick
+	saner
+	could 219
+	which 8
+	thick 1
+	4
+rough
+	saner
+	court 113
+	rough 1
+	3
+brawn
+	saner
+	grand 21
+	brawn 4
+	3
+forgo
+	saner
+	court 113
+	roomy 6
+	forgo 1
+	4
+lithe
+	saner
+	elite 140
+	lithe 3
+	3
+willy
+	saner
+	could 219
+	willy 5
+	3
+dread
+	saner
+	trace 61
+	bread 6
+	dread 1
+	4
+eater
+	saner
+	taper 27
+	eater 5
+	3
+neigh
+	saner
+	ovine 42
+	deign 3
+	neigh 1
+	4
+total
+	saner
+	aloft 94
+	total 3
+	3
+agora
+	saner
+	craft 68
+	mural 10
+	agora 1
+	4
+noble
+	saner
+	ovine 42
+	noble 2
+	3
+audio
+	saner
+	aloft 94
+	audio 2
+	3
+caste
+	saner
+	pause 11
+	caste 5
+	3
+broad
+	saner
+	craft 68
+	broad 4
+	3
+tweed
+	saner
+	betel 49
+	tweed 2
+	3
+relic
+	saner
+	trice 92
+	relic 1
+	3
+torso
+	saner
+	truss 25
+	torso 1
+	3
+ninja
+	saner
+	tonga 10
+	ninja 1
+	3
+dingo
+	saner
+	tonic 39
+	dingo 3
+	3
+dried
+	saner
+	tried 27
+	fried 4
+	pried 3
+	dried 2
+	5
+prior
+	saner
+	rumor 16
+	prior 1
+	3
+swoon
+	saner
+	snout 30
+	swoon 3
+	3
+favor
+	saner
+	valor 9
+	favor 1
+	3
+belle
+	saner
+	elite 140
+	belle 3
+	3
+sneak
+	saner
+	sneak 3
+	2
+south
+	saner
+	spilt 74
+	study 8
+	south 1
+	4
+musty
+	saner
+	hoist 50
+	musty 4
+	3
+baler
+	saner
+	taper 27
+	lager 14
+	baler 1
+	4
+windy
+	saner
+	tonic 39
+	windy 7
+	3
+foray
+	saner
+	craft 68
+	foray 2
+	3
+silly
+	saner
+	spilt 74
+	silly 1
+	3
+truer
+	saner
+	older 76
+	fiber 27
+	ether 9
+	truer 1
+	5
+coupe
+	saner
+	elite 140
+	budge 10
+	coupe 1
+	4
+swept
+	saner
+	slept 37
+	swept 1
+	3
+miser
+	saner
+	miser 7
+	2
+bawdy
+	saner
+	catty 71
+	badly 16
+	bawdy 1
+	4
+filly
+	saner
+	could 219
+	willy 5
+	billy 3
+	hilly 2
+	filly 1
+	6
+worst
+	saner
+	truss 25
+	roost 3
+	worst 1
+	4
+savoy
+	saner
+	salsa 11
+	savoy 4
+	3
+crown
+	saner
+	groin 36
+	frown 4
+	crown 3
+	4
+wordy
+	saner
+	court 113
+	roomy 6
+	wordy 1
+	4
+nomad
+	saner
+	align 34
+	thank 4
+	nomad 1
+	4
+awake
+	saner
+	dealt 90
+	awake 6
+	3
+maple
+	saner
+	table 23
+	eagle 3
+	maple 2
+	4
+friar
+	saner
+	briar 15
+	friar 1
+	3
+pearl
+	saner
+	trace 61
+	ready 7
+	pearl 1
+	4
+charm
+	saner
+	craft 68
+	charm 2
+	3
+break
+	saner
+	trace 61
+	bread 6
+	break 1
+	4
+parka
+	saner
+	party 31
+	parka 1
+	3
+tardy
+	saner
+	party 31
+	tardy 1
+	3
+crook
+	saner
+	court 113
+	crook 3
+	3
+smoke
+	saner
+	slept 37
+	shove 4
+	smoke 1
+	4
+rhino
+	saner
+	groin 36
+	rhino 2
+	3
+graft
+	saner
+	craft 68
+	graft 2
+	3
+faith
+	saner
+	catty 71
+	faith 2
+	3
+fjord
+	saner
+	court 113
+	ivory 4
+	fjord 1
+	4
+lucid
+	saner
+	could 219
+	lucid 1
+	3
+clear
+	saner
+	debar 4
+	clear 1
+	3
+nylon
+	saner
+	glint 68
+	nylon 4
+	3
+refer
+	saner
+	older 76
+	fiber 27
+	refer 1
+	4
+saucy
+	saner
+	salsa 11
+	savoy 4
+	saucy 2
+	4
+wench
+	saner
+	hence 20
+	bench 2
+	wench 1
+	4
+amaze
+	saner
+	dealt 90
+	awake 6
+	amaze 2
+	4
+deter
+	saner
+	older 76
+	drier 5
+	deter 2
+	4
+agony
+	saner
+	align 34
+	agony 2
+	3
+spell
+	saner
+	slept 37
+	spell 1
+	3
+siren
+	saner
+	siren 1
+	2
+iliac
+	saner
+	aloft 94
+	claim 8
+	iliac 1
+	4
+islet
+	saner
+	upset 4
+	islet 1
+	3
+steel
+	saner
+	steel 14
+	2
+macho
+	saner
+	catty 71
+	macho 4
+	3
+blimp
+	saner
+	could 219
+	filmy 10
+	blimp 1
+	4
+decal
+	saner
+	dealt 90
+	decal 2
+	3
+parer
+	saner
+	taper 27
+	parer 3
+	3
+drunk
+	saner
+	groin 36
+	drunk 3
+	3
+snowy
+	saner
+	snout 30
+	snowy 2
+	3
+mulch
+	saner
+	could 219
+	mulch 3
+	3
+carve
+	saner
+	large 6
+	farce 2
+	carve 1
+	4
+cinch
+	saner
+	tonic 39
+	cinch 4
+	3
+steam
+	saner
+	stale 25
+	steam 3
+	3
+opine
+	saner
+	ovine 42
+	opine 1
+	3
+incur
+	saner
+	incur 1
+	2
+plaid
+	saner
+	aloft 94
+	claim 8
+	plaid 1
+	4
+twist
+	saner
+	hoist 50
+	twist 1
+	3
+angel
+	saner
+	angel 2
+	2
+mover
+	saner
+	older 76
+	rower 18
+	mover 9
+	4
+stock
+	saner
+	spilt 74
+	study 8
+	stock 1
+	4
+olden
+	saner
+	woken 23
+	olden 2
+	3
+shame
+	saner
+	stale 25
+	spade 8
+	shame 4
+	4
+trick
+	saner
+	court 113
+	trick 1
+	3
+ruler
+	saner
+	older 76
+	liver 5
+	ruler 1
+	4
+fudge
+	saner
+	elite 140
+	budge 10
+	fudge 2
+	4
+stain
+	saner
+	stank 13
+	stain 1
+	3
+idyll
+	saner
+	could 219
+	dimly 3
+	idyll 1
+	4
+ramen
+	saner
+	ramen 2
+	2
+raven
+	saner
+	ramen 2
+	raven 1
+	3
+leaky
+	saner
+	dealt 90
+	leaky 4
+	3
+tacit
+	saner
+	catty 71
+	tacit 1
+	3
+input
+	saner
+	glint 68
+	unfit 2
+	input 1
+	4
+madam
+	saner
+	catty 71
+	gamma 12
+	madam 1
+	4
+satyr
+	saner
+	satyr 2
+	2
+class
+	saner
+	clash 23
+	class 2
+	3
+delay
+	saner
+	dealt 90
+	decal 2
+	delay 1
+	4
+filmy
+	saner
+	could 219
+	filmy 10
+	3
+cream
+	saner
+	trace 61
+	cream 2
+	3
+ivory
+	saner
+	court 113
+	ivory 4
+	3
+agape
+	saner
+	dealt 90
+	awake 6
+	amaze 2
+	agape 1
+	5
+leant
+	saner
+	agent 23
+	leant 2
+	3
+hutch
+	saner
+	could 219
+	butch 6
+	hutch 1
+	4
+movie
+	saner
+	elite 140
+	movie 7
+	3
+rowdy
+	saner
+	court 113
+	roomy 6
+	rowdy 1
+	4
+bison
+	saner
+	bison 3
+	2
+snort
+	saner
+	shorn 5
+	snort 1
+	3
+cheer
+	saner
+	older 76
+	fiber 27
+	ether 9
+	cheer 1
+	5
+slush
+	saner
+	spilt 74
+	slush 4
+	3
+crisp
+	saner
+	truss 25
+	crisp 4
+	3
+pluck
+	saner
+	could 219
+	pluck 1
+	3
+octet
+	saner
+	betel 49
+	octet 2
+	3
+proxy
+	saner
+	court 113
+	droop 13
+	proxy 2
+	4
+usher
+	saner
+	miser 7
+	usher 2
+	3
+waltz
+	saner
+	catty 71
+	faith 2
+	waltz 1
+	4
+shirk
+	saner
+	shirt 23
+	shirk 1
+	3
+study
+	saner
+	spilt 74
+	study 8
+	3
+jumpy
+	saner
+	could 219
+	guppy 10
+	jumpy 1
+	4
+rayon
+	saner
+	rayon 4
+	2
+horde
+	saner
+	trice 92
+	rogue 13
+	horde 1
+	4
+dusty
+	saner
+	hoist 50
+	musty 4
+	dusty 3
+	4
+defer
+	saner
+	older 76
+	drier 5
+	deter 2
+	defer 1
+	5
+aider
+	saner
+	after 4
+	aider 2
+	3
+scarf
+	saner
+	strap 16
+	scarf 5
+	3
+aglow
+	saner
+	aloft 94
+	aglow 1
+	3
+adore
+	saner
+	trace 61
+	adore 3
+	3
+grade
+	saner
+	trace 61
+	grade 9
+	3
+brawl
+	saner
+	craft 68
+	braid 8
+	brawl 2
+	4
+crony
+	saner
+	groin 36
+	front 3
+	crony 1
+	4
+throb
+	saner
+	court 113
+	throb 6
+	3
+shade
+	saner
+	stale 25
+	spade 8
+	shade 1
+	4
+radio
+	saner
+	party 31
+	radio 6
+	3
+bless
+	saner
+	those 36
+	bless 2
+	3
+unify
+	saner
+	glint 68
+	unify 3
+	3
+world
+	saner
+	court 113
+	roomy 6
+	world 1
+	4
+phase
+	saner
+	least 17
+	phase 3
+	3
+miner
+	saner
+	miner 7
+	2
+dough
+	saner
+	could 219
+	dough 2
+	3
+savor
+	saner
+	satyr 2
+	savor 1
+	3
+comet
+	saner
+	betel 49
+	duvet 5
+	comet 1
+	4
+flirt
+	saner
+	court 113
+	flirt 1
+	3
+gauze
+	saner
+	table 23
+	gauze 8
+	3
+basin
+	saner
+	mason 4
+	basin 1
+	3
+glade
+	saner
+	dealt 90
+	glade 2
+	3
+munch
+	saner
+	tonic 39
+	bunch 6
+	munch 4
+	4
+arrow
+	saner
+	craft 68
+	broad 4
+	arrow 1
+	4
+nerve
+	saner
+	urine 15
+	nerve 1
+	3
+ladle
+	saner
+	table 23
+	eagle 3
+	maple 2
+	ladle 1
+	5
+fatal
+	saner
+	catty 71
+	patio 3
+	fatal 2
+	4
+piney
+	saner
+	money 6
+	piney 1
+	3
+quote
+	saner
+	elite 140
+	quote 3
+	3
+vouch
+	saner
+	could 219
+	vouch 3
+	3
+droit
+	saner
+	court 113
+	droit 2
+	3
+quoth
+	saner
+	could 219
+	gumbo 7
+	quoth 1
+	4
+twice
+	saner
+	elite 140
+	twice 1
+	3
+mamma
+	saner
+	catty 71
+	gamma 12
+	mamma 1
+	4
+baron
+	saner
+	rayon 4
+	baron 1
+	3
+label
+	saner
+	cagey 13
+	label 4
+	3
+place
+	saner
+	dealt 90
+	blame 7
+	place 3
+	4
+hymen
+	saner
+	woken 23
+	lumen 5
+	hymen 1
+	4
+agate
+	saner
+	dealt 90
+	agate 3
+	3
+noise
+	saner
+	noise 3
+	2
+spree
+	saner
+	screw 4
+	spree 1
+	3
+choke
+	saner
+	elite 140
+	budge 10
+	choke 1
+	4
+thank
+	saner
+	align 34
+	thank 4
+	3
+exert
+	saner
+	trice 92
+	retro 7
+	exert 1
+	4
+greet
+	saner
+	tried 27
+	greet 1
+	3
+merge
+	saner
+	trice 92
+	rouge 13
+	merge 2
+	4
+purge
+	saner
+	trice 92
+	rouge 13
+	purge 1
+	4
+frail
+	saner
+	craft 68
+	frail 2
+	3
+towel
+	saner
+	betel 49
+	towel 1
+	3
+scrub
+	saner
+	shirt 23
+	scrub 4
+	3
+skunk
+	saner
+	snout 30
+	slung 6
+	skunk 2
+	4
+sixth
+	saner
+	spilt 74
+	sixth 3
+	3
+penny
+	saner
+	hence 20
+	venom 3
+	penny 1
+	4
+joist
+	saner
+	hoist 50
+	joist 3
+	3
+razor
+	saner
+	valor 9
+	major 3
+	razor 1
+	4
+itchy
+	saner
+	could 219
+	which 8
+	itchy 1
+	4
+colon
+	saner
+	glint 68
+	nylon 4
+	colon 1
+	4
+spire
+	saner
+	shire 12
+	spire 1
+	3
+ditty
+	saner
+	could 219
+	digit 6
+	ditty 1
+	4
+front
+	saner
+	groin 36
+	front 3
+	3
+whiff
+	saner
+	could 219
+	fight 19
+	whiff 1
+	4
+karma
+	saner
+	party 31
+	carol 5
+	karma 1
+	4
+lever
+	saner
+	older 76
+	liver 5
+	lever 1
+	4
+liver
+	saner
+	older 76
+	liver 5
+	3
+trend
+	saner
+	urine 15
+	trend 1
+	3
+fugue
+	saner
+	elite 140
+	budge 10
+	fugue 1
+	4
+reedy
+	saner
+	trice 92
+	berry 11
+	reedy 2
+	4
+blind
+	saner
+	glint 68
+	blind 3
+	3
+dense
+	saner
+	dense 2
+	2
+caper
+	saner
+	taper 27
+	caper 2
+	3
+their
+	saner
+	decor 7
+	their 1
+	3
+owner
+	saner
+	miner 7
+	owner 2
+	3
+flier
+	saner
+	older 76
+	flier 5
+	3
+outer
+	saner
+	older 76
+	outer 4
+	3
+butch
+	saner
+	could 219
+	butch 6
+	3
+doing
+	saner
+	glint 68
+	dying 5
+	doing 1
+	4
+scene
+	saner
+	spent 13
+	scene 1
+	3
+feign
+	saner
+	ovine 42
+	feign 3
+	3
+poesy
+	saner
+	those 36
+	poesy 1
+	3
+curio
+	saner
+	court 113
+	curio 2
+	3
+gamma
+	saner
+	catty 71
+	gamma 12
+	3
+grate
+	saner
+	trace 61
+	grate 2
+	3
+lurch
+	saner
+	court 113
+	lurch 1
+	3
+rebut
+	saner
+	trice 92
+	retro 7
+	rebut 1
+	4
+drape
+	saner
+	trace 61
+	grade 9
+	drape 2
+	4
+fixer
+	saner
+	older 76
+	fiber 27
+	fixer 1
+	4
+flock
+	saner
+	could 219
+	flock 2
+	3
+epoch
+	saner
+	elite 140
+	epoch 2
+	3
+swoop
+	saner
+	spilt 74
+	swoop 2
+	3
+honor
+	saner
+	honor 3
+	2
+tatty
+	saner
+	catty 71
+	tatty 4
+	3
+diode
+	saner
+	elite 140
+	movie 7
+	diode 1
+	4
+mange
+	saner
+	lance 4
+	mange 1
+	3
+mammy
+	saner
+	catty 71
+	badly 16
+	mammy 4
+	4
+model
+	saner
+	betel 49
+	model 6
+	3
+allot
+	saner
+	aloft 94
+	allot 1
+	3
+mushy
+	saner
+	hoist 50
+	mushy 3
+	3
+aloud
+	saner
+	aloft 94
+	aloud 1
+	3
+dicey
+	saner
+	betel 49
+	dicey 7
+	3
+sense
+	saner
+	singe 3
+	sense 1
+	3
+alike
+	saner
+	dealt 90
+	alike 6
+	3
+belch
+	saner
+	elite 140
+	welch 12
+	belch 1
+	4
+shall
+	saner
+	shalt 36
+	shall 1
+	3
+vapor
+	saner
+	valor 9
+	vapor 1
+	3
+speed
+	saner
+	steel 14
+	sheep 3
+	speed 1
+	4
+tripe
+	saner
+	trice 92
+	tripe 3
+	3
+march
+	saner
+	party 31
+	carol 5
+	march 1
+	4
+align
+	saner
+	align 34
+	2
+chose
+	saner
+	those 36
+	chose 2
+	3
+taker
+	saner
+	taper 27
+	taker 2
+	3
+agree
+	saner
+	agree 1
+	2
+sweat
+	saner
+	stale 25
+	sweat 1
+	3
+briar
+	saner
+	briar 15
+	2
+slump
+	saner
+	spilt 74
+	slump 2
+	3
+count
+	saner
+	glint 68
+	count 2
+	3
+filet
+	saner
+	betel 49
+	filet 1
+	3
+deity
+	saner
+	elite 140
+	deity 1
+	3
+thong
+	saner
+	glint 68
+	thong 1
+	3
+floss
+	saner
+	hoist 50
+	floss 2
+	3
+dwell
+	saner
+	elite 140
+	welch 12
+	dwell 1
+	4
+ridge
+	saner
+	trice 92
+	rifle 5
+	ridge 1
+	4
+linen
+	saner
+	money 6
+	linen 2
+	3
+lunar
+	saner
+	lunar 1
+	2
+beast
+	saner
+	least 17
+	beast 3
+	3
+glaze
+	saner
+	dealt 90
+	blame 7
+	place 3
+	glaze 2
+	5
+crypt
+	saner
+	court 113
+	crypt 1
+	3
+pasty
+	saner
+	palsy 14
+	pasty 1
+	3
+hunch
+	saner
+	tonic 39
+	bunch 6
+	munch 4
+	hunch 3
+	5
+witty
+	saner
+	could 219
+	fight 19
+	witty 3
+	4
+cavil
+	saner
+	catty 71
+	cavil 4
+	3
+flare
+	saner
+	trace 61
+	flare 4
+	3
+strip
+	saner
+	shirt 23
+	strip 1
+	3
+handy
+	saner
+	canny 21
+	manly 6
+	handy 3
+	4
+focal
+	saner
+	aloft 94
+	focal 2
+	3
+blaze
+	saner
+	dealt 90
+	blame 7
+	blaze 1
+	4
+exact
+	saner
+	dealt 90
+	exact 1
+	3
+waver
+	saner
+	taper 27
+	lager 14
+	waver 6
+	4
+plump
+	saner
+	could 219
+	plumb 4
+	plump 1
+	4
+stunk
+	saner
+	snout 30
+	stunk 2
+	3
+chili
+	saner
+	could 219
+	chili 2
+	3
+helix
+	saner
+	elite 140
+	yield 5
+	helix 1
+	4
+lanky
+	saner
+	canny 21
+	manly 6
+	lanky 1
+	4
+smash
+	saner
+	shalt 36
+	smash 2
+	3
+drink
+	saner
+	groin 36
+	brink 4
+	drink 1
+	4
+salsa
+	saner
+	salsa 11
+	2
+vault
+	saner
+	catty 71
+	vault 5
+	3
+chump
+	saner
+	could 219
+	chump 2
+	3
+enjoy
+	saner
+	ovine 42
+	demon 6
+	enjoy 1
+	4
+dopey
+	saner
+	betel 49
+	dicey 7
+	dopey 1
+	4
+ovine
+	saner
+	ovine 42
+	2
+buddy
+	saner
+	could 219
+	dumpy 5
+	buddy 1
+	4
+budge
+	saner
+	elite 140
+	budge 10
+	3
+mambo
+	saner
+	catty 71
+	gamma 12
+	mambo 1
+	4
+rehab
+	saner
+	trace 61
+	relay 8
+	rehab 1
+	4
+fuzzy
+	saner
+	could 219
+	guppy 10
+	fuzzy 2
+	4
+rigor
+	saner
+	rumor 16
+	rigor 2
+	3
+uncle
+	saner
+	ovine 42
+	uncle 3
+	3
+court
+	saner
+	court 113
+	2
+fluid
+	saner
+	could 219
+	fluid 1
+	3
+scamp
+	saner
+	shalt 36
+	scamp 6
+	3
+foist
+	saner
+	hoist 50
+	joist 3
+	foist 2
+	4
+never
+	saner
+	inter 7
+	never 2
+	3
+gaffe
+	saner
+	table 23
+	gauze 8
+	gaffe 1
+	4
+about
+	saner
+	aloft 94
+	about 2
+	3
+datum
+	saner
+	catty 71
+	fatal 3
+	patio 2
+	datum 1
+	5
+abuse
+	saner
+	least 17
+	abuse 2
+	3
+clump
+	saner
+	could 219
+	clump 2
+	3
+revel
+	saner
+	tried 27
+	puree 5
+	revel 2
+	4
+craze
+	saner
+	trace 61
+	craze 2
+	3
+reign
+	saner
+	urine 15
+	reign 1
+	3
+navel
+	saner
+	taken 7
+	navel 1
+	3
+mount
+	saner
+	glint 68
+	count 2
+	mount 1
+	4
+slept
+	saner
+	slept 37
+	2
+perch
+	saner
+	trice 92
+	perch 2
+	3
+trunk
+	saner
+	groin 36
+	drunk 3
+	trunk 1
+	4
+afire
+	saner
+	trace 61
+	adore 3
+	afire 2
+	4
+probe
+	saner
+	trice 92
+	prove 9
+	probe 1
+	4
+renew
+	saner
+	renew 1
+	2
+where
+	saner
+	trice 92
+	rouge 13
+	where 2
+	4
+lemur
+	saner
+	decor 7
+	lemur 2
+	3
+rally
+	saner
+	party 31
+	fairy 4
+	rally 1
+	4
+horny
+	saner
+	groin 36
+	horny 4
+	3
+music
+	saner
+	hoist 50
+	music 3
+	3
+cover
+	saner
+	older 76
+	rower 18
+	mover 9
+	cover 2
+	5
+shale
+	saner
+	stale 25
+	shale 2
+	3
+brisk
+	saner
+	truss 25
+	crisp 4
+	brisk 2
+	4
+humid
+	saner
+	could 219
+	humid 1
+	3
+caulk
+	saner
+	catty 71
+	cavil 4
+	caulk 1
+	4
+girth
+	saner
+	court 113
+	girth 5
+	3
+light
+	saner
+	could 219
+	filmy 10
+	light 2
+	4
+peach
+	saner
+	dealt 90
+	peach 6
+	3
+buyer
+	saner
+	older 76
+	fiber 27
+	buyer 1
+	4
+tamer
+	saner
+	taper 27
+	taker 2
+	tamer 1
+	4
+leach
+	saner
+	dealt 90
+	leaky 4
+	leach 2
+	4
+hobby
+	saner
+	could 219
+	boozy 14
+	hobby 1
+	4
+heave
+	saner
+	dealt 90
+	peach 6
+	heave 2
+	4
+evict
+	saner
+	elite 140
+	evict 2
+	3
+shard
+	saner
+	strap 16
+	scarf 5
+	shard 3
+	4
+suite
+	saner
+	slept 37
+	suite 5
+	3
+money
+	saner
+	money 6
+	2
+sheep
+	saner
+	steel 14
+	sheep 3
+	3
+usage
+	saner
+	least 17
+	usage 1
+	3
+botch
+	saner
+	could 219
+	topic 4
+	botch 1
+	4
+grant
+	saner
+	grand 21
+	grant 1
+	3
+gruel
+	saner
+	tried 27
+	creep 4
+	gruel 1
+	4
+bushy
+	saner
+	hoist 50
+	mushy 3
+	bushy 2
+	4
+straw
+	saner
+	strap 16
+	straw 2
+	3
+pagan
+	saner
+	taint 19
+	wagon 4
+	pagan 1
+	4
+bylaw
+	saner
+	aloft 94
+	lilac 7
+	bylaw 1
+	4
+avian
+	saner
+	align 34
+	axion 2
+	avian 1
+	4
+third
+	saner
+	court 113
+	third 2
+	3
+shape
+	saner
+	stale 25
+	spade 8
+	shape 1
+	4
+vodka
+	saner
+	aloft 94
+	mocha 6
+	vodka 1
+	4
+aloof
+	saner
+	aloft 94
+	aloof 1
+	3
+dandy
+	saner
+	canny 21
+	manly 6
+	handy 3
+	dandy 1
+	5
+antic
+	saner
+	align 34
+	antic 1
+	3
+baste
+	saner
+	pause 11
+	caste 5
+	baste 4
+	4
+ultra
+	saner
+	craft 68
+	aorta 2
+	ultra 1
+	4
+basil
+	saner
+	palsy 14
+	basil 2
+	3
+ahead
+	saner
+	dealt 90
+	adobe 4
+	ahead 1
+	4
+perky
+	saner
+	trice 92
+	berry 11
+	perky 2
+	4
+bosom
+	saner
+	hoist 50
+	locus 3
+	bosom 1
+	4
+flush
+	saner
+	hoist 50
+	blush 3
+	flush 2
+	4
+shelf
+	saner
+	slept 37
+	shelf 4
+	3
+shank
+	saner
+	stank 13
+	shank 2
+	3
+panic
+	saner
+	canny 21
+	panic 2
+	3
+state
+	saner
+	stale 25
+	stake 4
+	state 3
+	4
+clamp
+	saner
+	aloft 94
+	claim 8
+	clamp 1
+	4
+coral
+	saner
+	craft 68
+	coral 3
+	3
+banjo
+	saner
+	canny 21
+	manga 6
+	banjo 1
+	4
+cycle
+	saner
+	elite 140
+	lodge 6
+	cycle 1
+	4
+chair
+	saner
+	briar 15
+	chair 2
+	3
+fetus
+	saner
+	those 36
+	zesty 2
+	fetus 1
+	4
+bongo
+	saner
+	tonic 39
+	bongo 1
+	3
+singe
+	saner
+	singe 3
+	2
+north
+	saner
+	groin 36
+	horny 4
+	north 1
+	4
+fault
+	saner
+	catty 71
+	vault 5
+	fault 1
+	4
+billy
+	saner
+	could 219
+	willy 5
+	filly 3
+	billy 2
+	5
+sheen
+	saner
+	seven 3
+	sheen 1
+	3
+lofty
+	saner
+	could 219
+	folio 5
+	lofty 1
+	4
+drone
+	saner
+	urine 15
+	drone 3
+	3
+stage
+	saner
+	stale 25
+	stake 4
+	state 3
+	stage 2
+	5
+clown
+	saner
+	glint 68
+	clown 3
+	3
+sixty
+	saner
+	spilt 74
+	sixth 3
+	sixty 1
+	4
+floor
+	saner
+	rumor 16
+	color 3
+	floor 1
+	4
+china
+	saner
+	align 34
+	china 1
+	3
+threw
+	saner
+	tried 27
+	three 2
+	threw 1
+	4
+brute
+	saner
+	trice 92
+	brute 2
+	3
+humph
+	saner
+	could 219
+	guppy 10
+	humph 1
+	4
+hussy
+	saner
+	hoist 50
+	hussy 1
+	3
+cagey
+	saner
+	cagey 13
+	2
+mogul
+	saner
+	could 219
+	mogul 1
+	3
+femme
+	saner
+	elite 140
+	hedge 5
+	femme 1
+	4
+shore
+	saner
+	shire 12
+	shore 1
+	3
+undid
+	saner
+	glint 68
+	undid 4
+	3
+finer
+	saner
+	miner 7
+	finer 3
+	3
+grown
+	saner
+	groin 36
+	grown 1
+	3
+hello
+	saner
+	elite 140
+	welch 12
+	hello 1
+	4
+liege
+	saner
+	elite 140
+	liege 2
+	3
+udder
+	saner
+	older 76
+	rider 5
+	udder 1
+	4
+ruddy
+	saner
+	court 113
+	burly 5
+	ruddy 1
+	4
+booty
+	saner
+	could 219
+	boozy 14
+	booty 2
+	4
+order
+	saner
+	older 76
+	order 2
+	3
+stoop
+	saner
+	spilt 74
+	stomp 3
+	stoop 1
+	4
+scout
+	saner
+	spilt 74
+	scout 4
+	3
+creek
+	saner
+	tried 27
+	creep 4
+	creek 1
+	4
+bleak
+	saner
+	dealt 90
+	alike 6
+	bleak 1
+	4
+scald
+	saner
+	shalt 36
+	scald 4
+	3
+chard
+	saner
+	craft 68
+	charm 2
+	chard 1
+	4
+snack
+	saner
+	stank 13
+	snack 1
+	3
+heist
+	saner
+	those 36
+	heist 1
+	3
+mound
+	saner
+	glint 68
+	phony 9
+	mound 4
+	4
+plaza
+	saner
+	aloft 94
+	claim 8
+	plaza 1
+	4
+rhyme
+	saner
+	trice 92
+	rouge 13
+	rhyme 1
+	4
+gummy
+	saner
+	could 219
+	guppy 10
+	gummy 1
+	4
+wharf
+	saner
+	craft 68
+	wharf 2
+	3
+ester
+	saner
+	miser 7
+	usher 2
+	ester 1
+	4
+until
+	saner
+	glint 68
+	until 1
+	3
+chore
+	saner
+	trice 92
+	chore 2
+	3
+nutty
+	saner
+	glint 68
+	nutty 2
+	3
+story
+	saner
+	shirt 23
+	stork 3
+	story 2
+	4
+moult
+	saner
+	could 219
+	moult 1
+	3
+enter
+	saner
+	inter 7
+	enter 1
+	3
+shunt
+	saner
+	snout 30
+	shunt 2
+	3
+vague
+	saner
+	table 23
+	gauze 8
+	vague 1
+	4
+steed
+	saner
+	steel 14
+	steed 2
+	3
+swirl
+	saner
+	shirt 23
+	swirl 2
+	3
+jolly
+	saner
+	could 219
+	holly 7
+	jolly 3
+	4
+louse
+	saner
+	those 36
+	poise 6
+	louse 2
+	4
+emcee
+	saner
+	betel 49
+	cheek 2
+	emcee 1
+	4
+suave
+	saner
+	stale 25
+	spade 8
+	shame 4
+	suave 1
+	5
+fewer
+	saner
+	older 76
+	fiber 27
+	fewer 3
+	4
+cabby
+	saner
+	catty 71
+	cabby 2
+	3
+vapid
+	saner
+	catty 71
+	gamma 12
+	vapid 2
+	4
+range
+	saner
+	range 1
+	2
+suing
+	saner
+	snout 30
+	slung 6
+	suing 1
+	4
+gaily
+	saner
+	catty 71
+	badly 16
+	gaily 2
+	4
+alloy
+	saner
+	aloft 94
+	alloy 2
+	3
+chill
+	saner
+	could 219
+	chili 2
+	chill 1
+	4
+borne
+	saner
+	urine 15
+	borne 1
+	3
+debit
+	saner
+	elite 140
+	fetid 4
+	debit 1
+	4
+virus
+	saner
+	truss 25
+	virus 1
+	3
+twine
+	saner
+	ovine 42
+	twine 2
+	3
+adopt
+	saner
+	aloft 94
+	about 2
+	adopt 1
+	4
+valor
+	saner
+	valor 9
+	2
+maybe
+	saner
+	table 23
+	maybe 2
+	3
+digit
+	saner
+	could 219
+	digit 6
+	3
+curly
+	saner
+	court 113
+	curly 2
+	3
+ghost
+	saner
+	hoist 50
+	ghost 1
+	3
+flint
+	saner
+	glint 68
+	flint 1
+	3
+gayly
+	saner
+	catty 71
+	badly 16
+	gaily 2
+	gayly 1
+	5
+retro
+	saner
+	trice 92
+	retro 7
+	3
+opera
+	saner
+	trace 61
+	relay 8
+	opera 1
+	4
+tenth
+	saner
+	hence 20
+	tenth 1
+	3
+widow
+	saner
+	could 219
+	ditto 4
+	widow 1
+	4
+buxom
+	saner
+	could 219
+	gumbo 7
+	buxom 1
+	4
+fairy
+	saner
+	party 31
+	fairy 4
+	3
+adobe
+	saner
+	dealt 90
+	adobe 4
+	3
+scold
+	saner
+	spilt 74
+	sully 6
+	scold 1
+	4
+dowdy
+	saner
+	could 219
+	dowdy 7
+	3
+cynic
+	saner
+	tonic 39
+	cynic 1
+	3
+crane
+	saner
+	yearn 4
+	crane 1
+	3
+befit
+	saner
+	elite 140
+	befit 4
+	3
+fancy
+	saner
+	canny 21
+	fancy 1
+	3
+stern
+	saner
+	stern 2
+	2
+mural
+	saner
+	craft 68
+	mural 10
+	3
+quest
+	saner
+	those 36
+	quest 3
+	3
+mocha
+	saner
+	aloft 94
+	mocha 6
+	3
+power
+	saner
+	older 76
+	rower 18
+	power 4
+	4
+eager
+	saner
+	taper 27
+	lager 14
+	eager 2
+	4
+purse
+	saner
+	terse 17
+	worse 4
+	purse 2
+	4
+fifty
+	saner
+	could 219
+	fight 19
+	fifty 1
+	4
+pride
+	saner
+	trice 92
+	pride 8
+	3
+nerdy
+	saner
+	urine 15
+	nerdy 3
+	3
+login
+	saner
+	glint 68
+	login 1
+	3
+prong
+	saner
+	groin 36
+	prong 2
+	3
+melee
+	saner
+	betel 49
+	melee 1
+	3
+lingo
+	saner
+	tonic 39
+	dingo 3
+	lingo 2
+	4
+slimy
+	saner
+	spilt 74
+	slimy 2
+	3
+truss
+	saner
+	truss 25
+	2
+inbox
+	saner
+	glint 68
+	undid 4
+	inbox 1
+	4
+elfin
+	saner
+	ovine 42
+	elfin 3
+	3
+serum
+	saner
+	shire 12
+	serum 1
+	3
+shalt
+	saner
+	shalt 36
+	2
+lunge
+	saner
+	hence 20
+	lunge 2
+	3
+slave
+	saner
+	stale 25
+	slave 1
+	3
+chaff
+	saner
+	aloft 94
+	chaff 1
+	3
+putty
+	saner
+	could 219
+	guppy 10
+	putty 2
+	4
+stash
+	saner
+	shalt 36
+	stash 2
+	3
+honey
+	saner
+	money 6
+	honey 2
+	3
+tangy
+	saner
+	canny 21
+	manly 6
+	handy 3
+	tangy 1
+	5
+hyena
+	saner
+	agent 23
+	hyena 1
+	3
+brave
+	saner
+	trace 61
+	grade 9
+	brave 3
+	4
+tango
+	saner
+	canny 21
+	manga 6
+	tango 1
+	4
+fecal
+	saner
+	dealt 90
+	fecal 2
+	3
+paste
+	saner
+	pause 11
+	paste 1
+	3
+piece
+	saner
+	elite 140
+	piece 1
+	3
+orbit
+	saner
+	court 113
+	droit 2
+	orbit 1
+	4
+await
+	saner
+	aloft 94
+	admit 4
+	await 1
+	4
+swift
+	saner
+	spilt 74
+	swift 2
+	3
+hound
+	saner
+	glint 68
+	phony 9
+	hound 1
+	4
+snaky
+	saner
+	stank 13
+	snaky 1
+	3
+vocal
+	saner
+	aloft 94
+	local 8
+	vocal 1
+	4
+adept
+	saner
+	dealt 90
+	adept 1
+	3
+covey
+	saner
+	betel 49
+	dicey 7
+	covey 1
+	4
+debug
+	saner
+	elite 140
+	decoy 8
+	debug 1
+	4
+began
+	saner
+	agent 23
+	began 2
+	3
+hunky
+	saner
+	tonic 39
+	funky 4
+	hunky 1
+	4
+plier
+	saner
+	older 76
+	flier 5
+	plier 1
+	4
+cloth
+	saner
+	could 219
+	cloth 2
+	3
+relax
+	saner
+	trace 61
+	relay 8
+	relax 1
+	4
+bezel
+	saner
+	betel 49
+	bezel 2
+	3
+coyly
+	saner
+	could 219
+	coyly 1
+	3
+fishy
+	saner
+	hoist 50
+	fishy 1
+	3
+proud
+	saner
+	court 113
+	proud 2
+	3
+viral
+	saner
+	craft 68
+	mural 10
+	viral 1
+	4
+batch
+	saner
+	catty 71
+	latch 6
+	batch 5
+	4
+smock
+	saner
+	spilt 74
+	smock 9
+	3
+force
+	saner
+	trice 92
+	force 1
+	3
+obese
+	saner
+	those 36
+	poise 6
+	obese 1
+	4
+trove
+	saner
+	trice 92
+	trope 2
+	trove 1
+	4
+impel
+	saner
+	betel 49
+	model 6
+	impel 1
+	4
+nobly
+	saner
+	glint 68
+	nylon 4
+	nobly 1
+	4
+drama
+	saner
+	craft 68
+	braid 8
+	drama 2
+	4
+abate
+	saner
+	dealt 90
+	agate 3
+	abate 1
+	4
+polyp
+	saner
+	could 219
+	folio 5
+	polyp 1
+	4
+sound
+	saner
+	snout 30
+	sound 1
+	3
+golly
+	saner
+	could 219
+	holly 7
+	jolly 3
+	golly 2
+	5
+grief
+	saner
+	tried 27
+	grief 2
+	3
+weird
+	saner
+	trice 92
+	weird 1
+	3
+grave
+	saner
+	trace 61
+	grade 9
+	graze 3
+	grave 2
+	5
+stout
+	saner
+	spilt 74
+	scout 4
+	stout 2
+	4
+aging
+	saner
+	align 34
+	aging 2
+	3
+harpy
+	saner
+	party 31
+	harpy 1
+	3
+grout
+	saner
+	court 113
+	grout 2
+	3
+spicy
+	saner
+	spilt 74
+	spiky 2
+	spicy 1
+	4
+fever
+	saner
+	older 76
+	fiber 27
+	fewer 3
+	fever 1
+	5
+voice
+	saner
+	elite 140
+	voice 6
+	3
+sally
+	saner
+	salsa 11
+	sally 3
+	3
+havoc
+	saner
+	catty 71
+	macho 4
+	havoc 1
+	4
+route
+	saner
+	trice 92
+	route 2
+	3
+tawny
+	saner
+	taint 19
+	tawny 1
+	3
+wispy
+	saner
+	hoist 50
+	music 3
+	wispy 1
+	4
+algae
+	saner
+	dealt 90
+	alike 6
+	algae 1
+	4
+crump
+	saner
+	court 113
+	crump 2
+	3
+hoist
+	saner
+	hoist 50
+	2
+urine
+	saner
+	urine 15
+	2
+crass
+	saner
+	brass 9
+	crass 2
+	3
+chest
+	saner
+	those 36
+	chest 1
+	3
+modem
+	saner
+	betel 49
+	dicey 7
+	modem 1
+	4
+grail
+	saner
+	craft 68
+	braid 8
+	grail 1
+	4
+clone
+	saner
+	ovine 42
+	clone 2
+	3
+gassy
+	saner
+	palsy 14
+	gassy 2
+	3
+awful
+	saner
+	aloft 94
+	awful 1
+	3
+undue
+	saner
+	ovine 42
+	uncle 3
+	undue 1
+	4
+juice
+	saner
+	elite 140
+	voice 6
+	juice 1
+	4
+stole
+	saner
+	slept 37
+	stole 2
+	3
+bossy
+	saner
+	hoist 50
+	mossy 3
+	bossy 1
+	4
+remit
+	saner
+	trice 92
+	remit 3
+	3
+prism
+	saner
+	truss 25
+	crisp 4
+	prism 1
+	4
+affix
+	saner
+	aloft 94
+	affix 1
+	3
+rover
+	saner
+	older 76
+	rower 18
+	roger 2
+	rover 1
+	5
+sedan
+	saner
+	sneak 3
+	sedan 1
+	3
+alpha
+	saner
+	aloft 94
+	alibi 4
+	alpha 2
+	4
+field
+	saner
+	elite 140
+	yield 5
+	field 2
+	4
+moral
+	saner
+	craft 68
+	mural 10
+	moral 1
+	4
+cider
+	saner
+	older 76
+	rider 5
+	cider 2
+	4
+wryly
+	saner
+	court 113
+	dryly 10
+	wryly 1
+	4
+butte
+	saner
+	elite 140
+	quote 3
+	butte 1
+	4
+lumpy
+	saner
+	could 219
+	bulky 5
+	lumpy 1
+	4
+whose
+	saner
+	those 36
+	chose 2
+	whose 1
+	4
+repel
+	saner
+	tried 27
+	puree 5
+	repel 1
+	4
+audit
+	saner
+	aloft 94
+	admit 4
+	audit 1
+	4
+lobby
+	saner
+	could 219
+	folio 5
+	lobby 1
+	4
+abort
+	saner
+	craft 68
+	abort 1
+	3
+plush
+	saner
+	hoist 50
+	blush 3
+	flush 2
+	plush 1
+	5
+rabid
+	saner
+	party 31
+	radio 6
+	rabid 1
+	4
+cacao
+	saner
+	catty 71
+	cavil 4
+	cacao 1
+	4
+smell
+	saner
+	slept 37
+	shelf 4
+	smell 2
+	4
+larva
+	saner
+	party 31
+	carol 5
+	larva 1
+	4
+broke
+	saner
+	trice 92
+	prove 9
+	froze 3
+	broke 2
+	5
+cease
+	saner
+	least 17
+	cease 1
+	3
+brand
+	saner
+	grand 21
+	brand 1
+	3
+super
+	saner
+	sewer 9
+	super 4
+	3
+pixie
+	saner
+	elite 140
+	movie 7
+	pixie 1
+	4
+ankle
+	saner
+	agent 23
+	ankle 3
+	3
+scoff
+	saner
+	spilt 74
+	smock 9
+	scoff 1
+	4
+aside
+	saner
+	least 17
+	aside 2
+	3
+chide
+	saner
+	elite 140
+	voice 6
+	chide 2
+	4
+press
+	saner
+	terse 17
+	press 4
+	3
+globe
+	saner
+	elite 140
+	bloke 7
+	globe 1
+	4
+wound
+	saner
+	glint 68
+	phony 9
+	mound 4
+	wound 3
+	5
+bilge
+	saner
+	elite 140
+	bilge 2
+	3
+elbow
+	saner
+	elite 140
+	elbow 1
+	3
+fraud
+	saner
+	craft 68
+	frail 2
+	fraud 1
+	4
+apron
+	saner
+	grand 21
+	apron 2
+	3
+duvet
+	saner
+	betel 49
+	duvet 5
+	3
+woody
+	saner
+	could 219
+	dowdy 7
+	woody 1
+	4
+cheek
+	saner
+	betel 49
+	emcee 2
+	cheek 1
+	4
+thorn
+	saner
+	groin 36
+	thorn 1
+	3
+croup
+	saner
+	court 113
+	curio 2
+	croup 1
+	4
+tubal
+	saner
+	aloft 94
+	tubal 3
+	3
+allow
+	saner
+	aloft 94
+	alloy 2
+	allow 1
+	4
+woven
+	saner
+	woken 23
+	women 2
+	woven 1
+	4
+rouse
+	saner
+	terse 17
+	rouse 2
+	3
+guppy
+	saner
+	could 219
+	guppy 10
+	3
+fiery
+	saner
+	trice 92
+	fiery 2
+	3
+wrath
+	saner
+	craft 68
+	trawl 4
+	wrath 1
+	4
+clank
+	saner
+	align 34
+	plank 6
+	clank 3
+	4
+comma
+	saner
+	aloft 94
+	mocha 6
+	comma 1
+	4
+hairy
+	saner
+	party 31
+	fairy 4
+	hairy 2
+	4
+night
+	saner
+	glint 68
+	ingot 2
+	night 1
+	4
+fauna
+	saner
+	taint 19
+	fauna 1
+	3
+jetty
+	saner
+	elite 140
+	jetty 5
+	3
+swing
+	saner
+	snout 30
+	sling 5
+	swing 1
+	4
+adult
+	saner
+	aloft 94
+	adult 1
+	3
+vigil
+	saner
+	could 219
+	filmy 10
+	light 2
+	vigil 1
+	5
+title
+	saner
+	elite 140
+	lithe 3
+	title 1
+	4
+crest
+	saner
+	terse 17
+	crest 2
+	3
+pupal
+	saner
+	aloft 94
+	lilac 7
+	pupal 1
+	4
+detox
+	saner
+	elite 140
+	detox 7
+	3
+stung
+	saner
+	snout 30
+	stunk 2
+	stung 1
+	4
+offal
+	saner
+	aloft 94
+	focal 2
+	offal 1
+	4
+harry
+	saner
+	party 31
+	hardy 4
+	harry 1
+	4
+today
+	saner
+	aloft 94
+	today 2
+	3
+broth
+	saner
+	court 113
+	throb 6
+	broth 1
+	4
+alive
+	saner
+	dealt 90
+	alike 6
+	alive 1
+	4
+livid
+	saner
+	could 219
+	livid 2
+	3
+cleat
+	saner
+	dealt 90
+	cleat 4
+	3
+gully
+	saner
+	could 219
+	guilt 7
+	gully 1
+	4
+spark
+	saner
+	strap 16
+	spark 1
+	3
+shove
+	saner
+	slept 37
+	smoke 4
+	shove 1
+	4
+wince
+	saner
+	hence 20
+	wince 4
+	3
+gumbo
+	saner
+	could 219
+	gumbo 7
+	3
+smear
+	saner
+	swear 4
+	smear 3
+	3
+utile
+	saner
+	elite 140
+	utile 1
+	3
+begat
+	saner
+	dealt 90
+	begat 1
+	3
+sneer
+	saner
+	sneer 1
+	2
+chuck
+	saner
+	could 219
+	chump 2
+	chuck 1
+	4
+green
+	saner
+	green 3
+	2
+payee
+	saner
+	cagey 13
+	payee 1
+	3
+baton
+	saner
+	taint 19
+	baton 2
+	3
+homer
+	saner
+	older 76
+	rower 18
+	hover 9
+	homer 1
+	5
+piety
+	saner
+	elite 140
+	piety 1
+	3
+tense
+	saner
+	dense 2
+	tense 1
+	3
+tuber
+	saner
+	older 76
+	fiber 27
+	tuber 3
+	4
+stone
+	saner
+	spent 13
+	stone 1
+	3
+amply
+	saner
+	aloft 94
+	apply 4
+	amply 1
+	4
+biddy
+	saner
+	could 219
+	digit 6
+	biddy 1
+	4
+booze
+	saner
+	elite 140
+	budge 10
+	booze 1
+	4
+spite
+	saner
+	slept 37
+	spite 2
+	3
+spore
+	saner
+	shire 12
+	spore 4
+	3
+shook
+	saner
+	spilt 74
+	smock 9
+	shook 1
+	4
+downy
+	saner
+	glint 68
+	phony 9
+	downy 1
+	4
+draft
+	saner
+	craft 68
+	graft 2
+	draft 1
+	4
+proof
+	saner
+	court 113
+	droop 13
+	proof 1
+	4
+cried
+	saner
+	tried 27
+	fried 4
+	pried 3
+	dried 2
+	cried 1
+	6
+drawl
+	saner
+	craft 68
+	braid 8
+	drama 2
+	drawl 1
+	5
+decoy
+	saner
+	elite 140
+	decoy 8
+	3
+bough
+	saner
+	could 219
+	mouth 5
+	bough 1
+	4
+ether
+	saner
+	older 76
+	fiber 27
+	ether 9
+	4
+spoil
+	saner
+	spilt 74
+	spoil 1
+	3
+bitty
+	saner
+	could 219
+	fight 19
+	witty 3
+	bitty 2
+	5
+cramp
+	saner
+	craft 68
+	cramp 4
+	3
+lying
+	saner
+	glint 68
+	lying 1
+	3
+tenet
+	saner
+	money 6
+	linen 2
+	tenet 1
+	4
+shrug
+	saner
+	shirt 23
+	shrug 2
+	3
+angry
+	saner
+	grand 21
+	angry 1
+	3
+lapse
+	saner
+	pause 11
+	lapse 1
+	3
+wager
+	saner
+	taper 27
+	lager 14
+	eager 2
+	wager 1
+	5
+loser
+	saner
+	miser 7
+	loser 2
+	3
+abbot
+	saner
+	aloft 94
+	abbot 1
+	3
+gipsy
+	saner
+	hoist 50
+	gipsy 2
+	3
+rider
+	saner
+	older 76
+	rider 5
+	3
+ferry
+	saner
+	trice 92
+	berry 11
+	ferry 2
+	4
+tabby
+	saner
+	catty 71
+	tabby 3
+	3
+prowl
+	saner
+	court 113
+	droop 13
+	proxy 2
+	prowl 1
+	5
+cloud
+	saner
+	could 219
+	cloud 1
+	3
+avoid
+	saner
+	aloft 94
+	avoid 1
+	3
+quite
+	saner
+	elite 140
+	white 2
+	quite 1
+	4
+sloop
+	saner
+	spilt 74
+	slump 2
+	sloop 1
+	4
+prone
+	saner
+	urine 15
+	drone 3
+	prone 2
+	4
+tibia
+	saner
+	aloft 94
+	tibia 1
+	3
+shear
+	saner
+	swear 4
+	smear 3
+	shear 2
+	4
+gouge
+	saner
+	elite 140
+	budge 10
+	gouge 1
+	4
+dully
+	saner
+	could 219
+	dully 1
+	3
+haven
+	saner
+	taken 7
+	haven 3
+	3
+skill
+	saner
+	spilt 74
+	skill 2
+	3
+chute
+	saner
+	elite 140
+	quote 3
+	chute 1
+	4
+femur
+	saner
+	decor 7
+	lemur 2
+	femur 1
+	4
+limbo
+	saner
+	could 219
+	gloom 5
+	limbo 1
+	4
+whisk
+	saner
+	hoist 50
+	whisk 1
+	3
+whelp
+	saner
+	elite 140
+	welch 12
+	whelp 1
+	4
+manor
+	saner
+	manor 1
+	2
+afoul
+	saner
+	aloft 94
+	afoul 1
+	3
+tapir
+	saner
+	valor 9
+	tapir 2
+	3
+kinky
+	saner
+	tonic 39
+	windy 7
+	kinky 3
+	4
+tiger
+	saner
+	older 76
+	fiber 27
+	giver 7
+	tiger 1
+	5
+visit
+	saner
+	hoist 50
+	visit 1
+	3
+yearn
+	saner
+	yearn 4
+	2
+catty
+	saner
+	catty 71
+	2
+caput
+	saner
+	catty 71
+	caput 1
+	3
+flunk
+	saner
+	glint 68
+	plunk 3
+	flunk 1
+	4
+bliss
+	saner
+	hoist 50
+	bliss 1
+	3
+climb
+	saner
+	could 219
+	climb 4
+	3
+fella
+	saner
+	dealt 90
+	fella 1
+	3
+daddy
+	saner
+	catty 71
+	badly 16
+	daddy 2
+	4
+think
+	saner
+	glint 68
+	think 1
+	3
+manly
+	saner
+	canny 21
+	mangy 6
+	manly 1
+	4
+cross
+	saner
+	truss 25
+	cross 3
+	3
+flute
+	saner
+	elite 140
+	flute 1
+	3
+sloth
+	saner
+	spilt 74
+	sloth 2
+	3
+curry
+	saner
+	court 113
+	curry 1
+	3
+ideal
+	saner
+	dealt 90
+	ideal 2
+	3
+guava
+	saner
+	aloft 94
+	quack 6
+	guava 1
+	4
+chord
+	saner
+	court 113
+	chord 1
+	3
+rumba
+	saner
+	craft 68
+	rumba 10
+	3
+tiara
+	saner
+	craft 68
+	tiara 1
+	3
+harsh
+	saner
+	harsh 3
+	2
+missy
+	saner
+	hoist 50
+	gipsy 2
+	missy 1
+	4
+nicer
+	saner
+	inter 7
+	nicer 1
+	3
+jaunt
+	saner
+	taint 19
+	jaunt 5
+	3
+chirp
+	saner
+	court 113
+	chirp 1
+	3
+widen
+	saner
+	woken 23
+	widen 1
+	3
+stool
+	saner
+	spilt 74
+	sloth 2
+	stool 1
+	4
+woozy
+	saner
+	could 219
+	boozy 14
+	woozy 1
+	4
+binge
+	saner
+	hence 20
+	lunge 2
+	binge 1
+	4
+sauna
+	saner
+	satin 4
+	sauna 1
+	3
+shout
+	saner
+	spilt 74
+	scout 4
+	stout 2
+	shout 1
+	5
+cater
+	saner
+	taper 27
+	eater 5
+	cater 4
+	4
+spare
+	saner
+	scare 4
+	spare 3
+	3
+petal
+	saner
+	dealt 90
+	petal 3
+	3
+plane
+	saner
+	agent 23
+	plane 2
+	3
+pygmy
+	saner
+	could 219
+	fight 19
+	pygmy 1
+	4
+clasp
+	saner
+	clash 23
+	class 2
+	clasp 1
+	4
+decay
+	saner
+	dealt 90
+	decay 1
+	3
+feast
+	saner
+	least 17
+	beast 3
+	feast 2
+	4
+devil
+	saner
+	elite 140
+	yield 5
+	devil 1
+	4
+build
+	saner
+	could 219
+	build 2
+	3
+snide
+	saner
+	scone 13
+	snide 2
+	3
+freed
+	saner
+	tried 27
+	freed 4
+	3
+posse
+	saner
+	those 36
+	poise 6
+	posse 1
+	4
+modal
+	saner
+	aloft 94
+	loamy 8
+	modal 1
+	4
+shown
+	saner
+	snout 30
+	swoon 3
+	shown 1
+	4
+flown
+	saner
+	glint 68
+	clown 3
+	flown 2
+	4
+leash
+	saner
+	least 17
+	leash 2
+	3
+noose
+	saner
+	noise 3
+	noose 1
+	3
+sushi
+	saner
+	spilt 74
+	sushi 3
+	3
+moose
+	saner
+	those 36
+	moose 4
+	3
+quill
+	saner
+	could 219
+	guilt 7
+	quill 1
+	4
+drain
+	saner
+	grand 21
+	drain 2
+	3
+nosey
+	saner
+	nosey 3
+	2
+tweet
+	saner
+	betel 49
+	tweed 2
+	tweet 1
+	4
+bugle
+	saner
+	elite 140
+	lodge 6
+	bugle 1
+	4
+mauve
+	saner
+	table 23
+	gauze 8
+	mauve 1
+	4
+laugh
+	saner
+	catty 71
+	gamma 12
+	laugh 1
+	4
+wheat
+	saner
+	dealt 90
+	wheat 2
+	3
+ocean
+	saner
+	agent 23
+	clean 4
+	ocean 1
+	4
+craft
+	saner
+	craft 68
+	2
+surge
+	saner
+	shire 12
+	surge 2
+	3
+quack
+	saner
+	aloft 94
+	quack 6
+	3
+cruel
+	saner
+	tried 27
+	creep 4
+	cruel 1
+	4
+tweak
+	saner
+	dealt 90
+	tweak 3
+	3
+crock
+	saner
+	court 113
+	crook 3
+	crock 1
+	4
+shell
+	saner
+	slept 37
+	shelf 4
+	shell 1
+	4
+clung
+	saner
+	glint 68
+	clung 2
+	3
+siege
+	saner
+	slept 37
+	siege 4
+	3
+upset
+	saner
+	upset 4
+	2
+bused
+	saner
+	upset 4
+	bused 1
+	3
+scram
+	saner
+	strap 16
+	scram 1
+	3
+sugar
+	saner
+	sugar 3
+	2
+borax
+	saner
+	craft 68
+	mural 10
+	borax 1
+	4
+curve
+	saner
+	trice 92
+	chore 2
+	curve 1
+	4
+peace
+	saner
+	dealt 90
+	peach 6
+	peace 1
+	4
+fling
+	saner
+	glint 68
+	fling 2
+	3
+daisy
+	saner
+	palsy 14
+	gassy 2
+	daisy 1
+	4
+plate
+	saner
+	dealt 90
+	plate 2
+	3
+aroma
+	saner
+	craft 68
+	broad 4
+	aroma 1
+	4
+fibre
+	saner
+	trice 92
+	rifle 5
+	fibre 1
+	4
+brown
+	saner
+	groin 36
+	frown 4
+	crown 3
+	brown 2
+	5
+magma
+	saner
+	catty 71
+	gamma 12
+	magma 1
+	4
+radii
+	saner
+	party 31
+	radio 6
+	radii 1
+	4
+anger
+	saner
+	anger 1
+	2
+aware
+	saner
+	trace 61
+	flare 4
+	aware 1
+	4
+metro
+	saner
+	trice 92
+	retro 7
+	metro 1
+	4
+fiber
+	saner
+	older 76
+	fiber 27
+	3
+essay
+	saner
+	least 17
+	aside 2
+	essay 1
+	4
+chief
+	saner
+	betel 49
+	dicey 7
+	chief 1
+	4
+sinew
+	saner
+	sinew 1
+	2
+ethic
+	saner
+	elite 140
+	eight 2
+	ethic 1
+	4
+recur
+	saner
+	decor 7
+	recur 1
+	3
+fetid
+	saner
+	elite 140
+	befit 4
+	fetid 1
+	4
+gaunt
+	saner
+	taint 19
+	jaunt 5
+	gaunt 4
+	4
+raise
+	saner
+	raise 2
+	2
+crowd
+	saner
+	court 113
+	crook 3
+	crowd 1
+	4
+cubic
+	saner
+	could 219
+	cubic 1
+	3
+dogma
+	saner
+	aloft 94
+	mocha 6
+	dogma 1
+	4
+shone
+	saner
+	spent 13
+	shine 4
+	shone 1
+	4
+moron
+	saner
+	groin 36
+	moron 2
+	3
+bleed
+	saner
+	betel 49
+	bleed 2
+	3
+theta
+	saner
+	dealt 90
+	tweak 3
+	theta 1
+	4
+slang
+	saner
+	stank 13
+	slang 1
+	3
+sharp
+	saner
+	strap 16
+	sharp 1
+	3
+check
+	saner
+	elite 140
+	decoy 8
+	check 1
+	4
+burly
+	saner
+	court 113
+	burly 5
+	3
+flail
+	saner
+	aloft 94
+	flaky 3
+	flail 1
+	4
+tidal
+	saner
+	aloft 94
+	tubal 3
+	tidal 1
+	4
+lusty
+	saner
+	hoist 50
+	musty 4
+	dusty 3
+	lusty 2
+	5
+outgo
+	saner
+	could 219
+	gumbo 7
+	outgo 1
+	4
+papal
+	saner
+	catty 71
+	gamma 12
+	papal 1
+	4
+pesto
+	saner
+	those 36
+	pesto 1
+	3
+gleam
+	saner
+	dealt 90
+	alike 6
+	gleam 1
+	4
+teeth
+	saner
+	elite 140
+	teeth 1
+	3
+folly
+	saner
+	could 219
+	holly 7
+	jolly 3
+	golly 2
+	folly 1
+	6
+apart
+	saner
+	craft 68
+	apart 2
+	3
+risky
+	saner
+	truss 25
+	risky 1
+	3
+vigor
+	saner
+	rumor 16
+	color 3
+	vigor 1
+	4
+sheik
+	saner
+	slept 37
+	siege 4
+	sheik 1
+	4
+slime
+	saner
+	slept 37
+	slime 3
+	3
+depth
+	saner
+	elite 140
+	jetty 5
+	depth 1
+	4
+rouge
+	saner
+	trice 92
+	rouge 13
+	3
+spray
+	saner
+	strap 16
+	spray 1
+	3
+stoke
+	saner
+	slept 37
+	suite 5
+	stoke 2
+	4
+equip
+	saner
+	elite 140
+	equip 1
+	3
+ulcer
+	saner
+	older 76
+	flier 5
+	bluer 2
+	ulcer 1
+	5
+sieve
+	saner
+	slept 37
+	siege 4
+	sieve 1
+	4
+lapel
+	saner
+	cagey 13
+	label 4
+	lapel 1
+	4
+exist
+	saner
+	those 36
+	quest 3
+	exist 1
+	4
+ounce
+	saner
+	hence 20
+	wince 4
+	ounce 2
+	4
+testy
+	saner
+	those 36
+	testy 1
+	3
+clerk
+	saner
+	trice 92
+	decry 2
+	clerk 1
+	4
+taste
+	saner
+	pause 11
+	caste 5
+	baste 4
+	taste 3
+	5
+spiel
+	saner
+	steel 14
+	spiel 1
+	3
+point
+	saner
+	glint 68
+	point 2
+	3
+pique
+	saner
+	elite 140
+	movie 7
+	pique 1
+	4
+could
+	saner
+	could 219
+	2
+topic
+	saner
+	could 219
+	pooch 4
+	topic 1
+	4
+entry
+	saner
+	urine 15
+	nerdy 3
+	entry 1
+	4
+conch
+	saner
+	tonic 39
+	conch 2
+	3
+grace
+	saner
+	trace 61
+	grace 2
+	3
+swish
+	saner
+	spilt 74
+	swish 2
+	3
+funny
+	saner
+	tonic 39
+	funky 4
+	funny 1
+	4
+flora
+	saner
+	craft 68
+	foray 2
+	flora 1
+	4
+winch
+	saner
+	tonic 39
+	cinch 4
+	winch 3
+	4
+hovel
+	saner
+	betel 49
+	model 6
+	hovel 2
+	4
+cabin
+	saner
+	taint 19
+	cabin 1
+	3
+bound
+	saner
+	glint 68
+	phony 9
+	mound 4
+	wound 3
+	bound 2
+	6
+crush
+	saner
+	truss 25
+	crush 2
+	3
+mayor
+	saner
+	valor 9
+	major 3
+	mayor 1
+	4
+nurse
+	saner
+	nurse 2
+	2
+payer
+	saner
+	taper 27
+	parer 3
+	payer 2
+	4
+blood
+	saner
+	could 219
+	flood 2
+	blood 1
+	4
+burnt
+	saner
+	groin 36
+	burnt 1
+	3
+aloft
+	saner
+	aloft 94
+	2
+rogue
+	saner
+	trice 92
+	rouge 13
+	rogue 1
+	4
+sweep
+	saner
+	steel 14
+	sheep 3
+	sweep 1
+	4
+marry
+	saner
+	party 31
+	hardy 4
+	marry 2
+	4
+stead
+	saner
+	stale 25
+	steam 3
+	stead 2
+	4
+apple
+	saner
+	dealt 90
+	ample 4
+	apple 1
+	4
+midst
+	saner
+	hoist 50
+	midst 1
+	3
+owing
+	saner
+	glint 68
+	dying 5
+	owing 2
+	4
+comfy
+	saner
+	could 219
+	comfy 2
+	3
+diner
+	saner
+	miner 7
+	finer 3
+	diner 2
+	4
+unite
+	saner
+	ovine 42
+	unite 2
+	3
+mourn
+	saner
+	groin 36
+	moron 2
+	mourn 1
+	4
+kneed
+	saner
+	woken 23
+	kneed 2
+	3
+slope
+	saner
+	slept 37
+	slope 1
+	3
+civic
+	saner
+	could 219
+	chick 2
+	civic 1
+	4
+blown
+	saner
+	glint 68
+	clown 3
+	flown 2
+	blown 1
+	5
+forth
+	saner
+	court 113
+	forth 3
+	3
+patch
+	saner
+	catty 71
+	latch 6
+	batch 5
+	patch 4
+	5
+dutch
+	saner
+	could 219
+	duchy 2
+	dutch 1
+	4
+lathe
+	saner
+	table 23
+	latte 2
+	lathe 1
+	4
+bully
+	saner
+	could 219
+	guilt 7
+	bully 2
+	4
+fable
+	saner
+	table 23
+	fable 2
+	3
+wreak
+	saner
+	trace 61
+	bread 6
+	wreak 2
+	4
+eking
+	saner
+	ovine 42
+	eking 3
+	3
+brake
+	saner
+	trace 61
+	grade 9
+	brave 3
+	brake 1
+	5
+raspy
+	saner
+	harsh 3
+	raspy 1
+	3
+stony
+	saner
+	snout 30
+	stony 1
+	3
+whiny
+	saner
+	glint 68
+	whiny 1
+	3
+fatty
+	saner
+	catty 71
+	tatty 4
+	fatty 3
+	4
+avail
+	saner
+	aloft 94
+	apply 4
+	avail 2
+	4
+eclat
+	saner
+	dealt 90
+	cleat 4
+	eclat 1
+	4
+throw
+	saner
+	court 113
+	throb 6
+	throw 1
+	4
+groin
+	saner
+	groin 36
+	2
+giddy
+	saner
+	could 219
+	digit 6
+	giddy 1
+	4
+bagel
+	saner
+	cagey 13
+	bagel 1
+	3
+salon
+	saner
+	satin 4
+	salon 1
+	3
+storm
+	saner
+	shirt 23
+	stork 3
+	story 2
+	storm 1
+	5
+rodeo
+	saner
+	tried 27
+	rodeo 1
+	3
+glide
+	saner
+	elite 140
+	olive 2
+	glide 1
+	4
+ebony
+	saner
+	ovine 42
+	ebony 1
+	3
+price
+	saner
+	trice 92
+	price 1
+	3
+stray
+	saner
+	strap 16
+	straw 2
+	stray 1
+	4
+wider
+	saner
+	older 76
+	rider 5
+	cider 2
+	wider 1
+	5
+stare
+	saner
+	scare 4
+	spare 3
+	stare 2
+	4
+layer
+	saner
+	taper 27
+	lager 14
+	layer 1
+	4
+racer
+	saner
+	taper 27
+	lager 14
+	waver 6
+	racer 4
+	5
+death
+	saner
+	dealt 90
+	death 1
+	3
+afoot
+	saner
+	aloft 94
+	afoot 1
+	3
+inter
+	saner
+	inter 7
+	2
+molar
+	saner
+	briar 15
+	polar 3
+	molar 1
+	4
+segue
+	saner
+	slept 37
+	smoke 4
+	segue 2
+	4
+guild
+	saner
+	could 219
+	build 2
+	guild 1
+	4
+shush
+	saner
+	spilt 74
+	smock 9
+	shush 1
+	4
+event
+	saner
+	ovine 42
+	event 1
+	3
+these
+	saner
+	those 36
+	these 1
+	3
+goose
+	saner
+	those 36
+	moose 4
+	goose 2
+	4
+shoal
+	saner
+	shalt 36
+	shoal 1
+	3
+sleep
+	saner
+	steel 14
+	sleep 2
+	3
+media
+	saner
+	dealt 90
+	media 1
+	3
+leggy
+	saner
+	elite 140
+	welch 12
+	leggy 1
+	4
+chant
+	saner
+	align 34
+	thank 4
+	chant 1
+	4
+hippy
+	saner
+	could 219
+	fight 19
+	hippy 1
+	4
+using
+	saner
+	bison 3
+	using 1
+	3
+amber
+	saner
+	after 4
+	aider 2
+	amber 1
+	4
+skirt
+	saner
+	shirt 23
+	skirt 1
+	3
+drool
+	saner
+	court 113
+	droop 13
+	drool 1
+	4
+pecan
+	saner
+	agent 23
+	pecan 2
+	3
+scuba
+	saner
+	shalt 36
+	squad 4
+	scuba 1
+	4
+album
+	saner
+	aloft 94
+	alibi 4
+	album 1
+	4
+deuce
+	saner
+	elite 140
+	hedge 5
+	deuce 1
+	4
+infer
+	saner
+	inter 7
+	infer 1
+	3
+amity
+	saner
+	aloft 94
+	attic 2
+	amity 1
+	4
+ample
+	saner
+	dealt 90
+	ample 4
+	3
+heard
+	saner
+	trace 61
+	ready 7
+	heard 2
+	4
+ratio
+	saner
+	party 31
+	ratio 1
+	3
+lynch
+	saner
+	tonic 39
+	bunch 6
+	lynch 1
+	4
+sorry
+	saner
+	shirt 23
+	sorry 3
+	3
+ought
+	saner
+	could 219
+	gumbo 7
+	ought 1
+	4
+smith
+	saner
+	spilt 74
+	stiff 3
+	smith 1
+	4
+furry
+	saner
+	court 113
+	hurry 3
+	furry 1
+	4
+gross
+	saner
+	truss 25
+	cross 3
+	gross 2
+	4
+steep
+	saner
+	steel 14
+	steed 2
+	steep 1
+	4
+dingy
+	saner
+	tonic 39
+	windy 7
+	dingy 1
+	4
+dryly
+	saner
+	court 113
+	dryly 10
+	3
+stump
+	saner
+	spilt 74
+	stomp 3
+	stump 1
+	4
+limit
+	saner
+	could 219
+	filmy 10
+	limit 1
+	4
+minim
+	saner
+	tonic 39
+	minim 1
+	3
+igloo
+	saner
+	could 219
+	gloom 5
+	igloo 1
+	4
+spurn
+	saner
+	shorn 5
+	spurn 1
+	3
+panel
+	saner
+	panel 1
+	2
+cliff
+	saner
+	could 219
+	climb 4
+	cliff 2
+	4
+grape
+	saner
+	trace 61
+	grade 9
+	graze 3
+	grave 2
+	grape 1
+	6
+vixen
+	saner
+	woken 23
+	lumen 5
+	vixen 2
+	4
+axial
+	saner
+	aloft 94
+	apply 4
+	avail 2
+	axial 1
+	5
+gavel
+	saner
+	cagey 13
+	gavel 1
+	3
+melon
+	saner
+	ovine 42
+	demon 6
+	melon 1
+	4
+llama
+	saner
+	aloft 94
+	claim 8
+	llama 1
+	4
+crank
+	saner
+	grand 21
+	crank 3
+	3
+minor
+	saner
+	honor 3
+	minor 1
+	3
+demon
+	saner
+	ovine 42
+	demon 6
+	3
+birth
+	saner
+	court 113
+	girth 5
+	birth 2
+	4
+tally
+	saner
+	catty 71
+	tabby 3
+	tally 2
+	4
+snore
+	saner
+	stern 2
+	snore 1
+	3
+mirth
+	saner
+	court 113
+	girth 5
+	birth 2
+	mirth 1
+	5
+gawky
+	saner
+	catty 71
+	badly 16
+	mammy 4
+	gawky 3
+	5
+close
+	saner
+	those 36
+	moose 4
+	close 1
+	4
+fresh
+	saner
+	terse 17
+	press 4
+	fresh 1
+	4
+right
+	saner
+	court 113
+	drift 2
+	right 1
+	4
+arson
+	saner
+	arson 1
+	2
+plead
+	saner
+	dealt 90
+	ideal 2
+	plead 1
+	4
+golem
+	saner
+	betel 49
+	plied 3
+	golem 1
+	4
+adage
+	saner
+	dealt 90
+	adage 2
+	3
+horse
+	saner
+	terse 17
+	worse 4
+	horse 1
+	4
+harem
+	saner
+	harem 1
+	2
+omega
+	saner
+	dealt 90
+	awoke 4
+	omega 1
+	4
+fritz
+	saner
+	court 113
+	girth 5
+	fritz 1
+	4
+gypsy
+	saner
+	hoist 50
+	gypsy 2
+	3
+steal
+	saner
+	stale 25
+	steal 1
+	3
+wimpy
+	saner
+	could 219
+	fight 19
+	wimpy 1
+	4
+trait
+	saner
+	craft 68
+	trait 1
+	3
+dumpy
+	saner
+	could 219
+	dumpy 5
+	3
+joint
+	saner
+	glint 68
+	point 2
+	joint 1
+	4
+scowl
+	saner
+	spilt 74
+	slush 4
+	scowl 1
+	4
+mouth
+	saner
+	could 219
+	mouth 5
+	3
+usual
+	saner
+	clash 23
+	usual 1
+	3
+exalt
+	saner
+	dealt 90
+	exalt 1
+	3
+glory
+	saner
+	court 113
+	ivory 4
+	glory 1
+	4
+evade
+	saner
+	dealt 90
+	adage 2
+	evade 1
+	4
+vomit
+	saner
+	could 219
+	boozy 14
+	vomit 2
+	4
+round
+	saner
+	groin 36
+	horny 4
+	round 1
+	4
+broom
+	saner
+	court 113
+	droop 13
+	broom 3
+	4
+wreck
+	saner
+	trice 92
+	wreck 1
+	3
+quick
+	saner
+	could 219
+	butch 6
+	quick 2
+	4
+wight
+	saner
+	could 219
+	fight 19
+	wight 3
+	4
+sever
+	saner
+	sewer 9
+	sever 1
+	3
+tithe
+	saner
+	elite 140
+	tithe 2
+	3
+quirk
+	saner
+	court 113
+	hurry 3
+	quirk 1
+	4
+liken
+	saner
+	woken 23
+	liken 1
+	3
+morph
+	saner
+	court 113
+	roomy 6
+	morph 1
+	4
+abyss
+	saner
+	clash 23
+	abyss 2
+	3
+chaos
+	saner
+	clash 23
+	chaos 1
+	3
+cheat
+	saner
+	dealt 90
+	wheat 2
+	cheat 1
+	4
+piano
+	saner
+	align 34
+	piano 1
+	3
+smack
+	saner
+	shalt 36
+	scamp 6
+	smack 1
+	4
+gusty
+	saner
+	hoist 50
+	musty 4
+	dusty 3
+	lusty 2
+	gusty 1
+	6
+triad
+	saner
+	craft 68
+	triad 2
+	3
+gamut
+	saner
+	catty 71
+	vault 5
+	gamut 1
+	4
+augur
+	saner
+	briar 15
+	actor 2
+	augur 1
+	4
+irony
+	saner
+	groin 36
+	irony 1
+	3
+delve
+	saner
+	elite 140
+	belle 3
+	delve 1
+	4
+nymph
+	saner
+	glint 68
+	knock 3
+	nymph 1
+	4
+sword
+	saner
+	shirt 23
+	sorry 3
+	sword 1
+	4
+whack
+	saner
+	aloft 94
+	quack 6
+	whack 1
+	4
+godly
+	saner
+	could 219
+	godly 2
+	3
+amiss
+	saner
+	clash 23
+	abyss 2
+	amiss 1
+	4
+freak
+	saner
+	trace 61
+	bread 6
+	wreak 2
+	freak 1
+	5
+lodge
+	saner
+	elite 140
+	lodge 6
+	3
+cairn
+	saner
+	rayon 4
+	cairn 1
+	3
+boney
+	saner
+	money 6
+	honey 2
+	boney 1
+	4
+beech
+	saner
+	elite 140
+	beech 4
+	3
+opium
+	saner
+	could 219
+	outgo 7
+	opium 1
+	4
+fight
+	saner
+	could 219
+	fight 19
+	3
+thump
+	saner
+	could 219
+	thump 2
+	3
+great
+	saner
+	trace 61
+	great 1
+	3
+forge
+	saner
+	trice 92
+	rouge 13
+	forge 2
+	4
+ditch
+	saner
+	could 219
+	ditch 1
+	3
+credo
+	saner
+	trice 92
+	credo 1
+	3
+crept
+	saner
+	trice 92
+	crept 1
+	3
+crick
+	saner
+	court 113
+	crimp 2
+	crick 1
+	4
+snipe
+	saner
+	spent 13
+	snipe 1
+	3
+valid
+	saner
+	catty 71
+	gamma 12
+	vapid 2
+	valid 1
+	5
+boozy
+	saner
+	could 219
+	boozy 14
+	3
+cause
+	saner
+	pause 11
+	cause 1
+	3
+taper
+	saner
+	taper 27
+	2
+elude
+	saner
+	elite 140
+	elope 2
+	elude 1
+	4
+eerie
+	saner
+	trice 92
+	rifle 5
+	eerie 1
+	4
+foggy
+	saner
+	could 219
+	boozy 14
+	foggy 2
+	4
+betel
+	saner
+	betel 49
+	2
+built
+	saner
+	could 219
+	gully 7
+	built 2
+	4
+jazzy
+	saner
+	catty 71
+	badly 16
+	mammy 4
+	gawky 3
+	jazzy 2
+	6
+erode
+	saner
+	trice 92
+	prove 9
+	froze 3
+	broke 2
+	erode 1
+	6
+inert
+	saner
+	urine 15
+	inert 1
+	3
+issue
+	saner
+	those 36
+	issue 1
+	3
+lowly
+	saner
+	could 219
+	holly 7
+	lowly 1
+	4
+bulky
+	saner
+	could 219
+	bulky 5
+	3
+blurt
+	saner
+	court 113
+	blurt 1
+	3
+groom
+	saner
+	court 113
+	droop 13
+	broom 3
+	groom 1
+	5
+paler
+	saner
+	taper 27
+	payer 3
+	parer 2
+	paler 1
+	5
+tepee
+	saner
+	betel 49
+	tepee 1
+	3
+heavy
+	saner
+	dealt 90
+	peach 6
+	heave 2
+	heavy 1
+	5
+soggy
+	saner
+	spilt 74
+	smock 9
+	soggy 1
+	4
+scale
+	saner
+	stale 25
+	shale 2
+	scale 1
+	4
+sooth
+	saner
+	spilt 74
+	study 8
+	sooth 1
+	4
+brace
+	saner
+	trace 61
+	grace 2
+	brace 1
+	4
+alarm
+	saner
+	craft 68
+	board 8
+	quark 2
+	alarm 1
+	5
+drive
+	saner
+	trice 92
+	pride 8
+	drive 1
+	4
+hasty
+	saner
+	palsy 14
+	hasty 2
+	3
+serif
+	saner
+	shire 12
+	serif 1
+	3
+bleat
+	saner
+	dealt 90
+	cleat 4
+	bleat 2
+	4
+nanny
+	saner
+	canny 21
+	nanny 2
+	3
+train
+	saner
+	grand 21
+	brawn 4
+	train 1
+	4
+expel
+	saner
+	betel 49
+	expel 3
+	3
+rainy
+	saner
+	rayon 4
+	rainy 1
+	3
+synod
+	saner
+	sunny 3
+	synod 1
+	3
+which
+	saner
+	could 219
+	which 8
+	3
+pansy
+	saner
+	pansy 1
+	2
+toast
+	saner
+	clash 23
+	toast 4
+	3
+short
+	saner
+	shirt 23
+	short 1
+	3
+twixt
+	saner
+	could 219
+	fight 19
+	twixt 1
+	4
+chasm
+	saner
+	clash 23
+	chasm 1
+	3
+lover
+	saner
+	older 76
+	lover 2
+	3
+drill
+	saner
+	court 113
+	dryly 10
+	drill 1
+	4
+cello
+	saner
+	elite 140
+	welch 12
+	cello 1
+	4
+midge
+	saner
+	elite 140
+	movie 7
+	midge 1
+	4
+frost
+	saner
+	truss 25
+	frost 2
+	3
+ready
+	saner
+	trace 61
+	ready 7
+	3
+valve
+	saner
+	table 23
+	valve 3
+	3
+renal
+	saner
+	renal 1
+	2
+dirge
+	saner
+	trice 92
+	rifle 5
+	dirge 1
+	4
+whirl
+	saner
+	court 113
+	whirl 2
+	3
+salad
+	saner
+	salsa 11
+	salad 1
+	3
+muddy
+	saner
+	could 219
+	dumpy 5
+	muddy 1
+	4
+knead
+	saner
+	agent 23
+	clean 4
+	knead 1
+	4
+share
+	saner
+	scare 4
+	spare 3
+	stare 2
+	share 1
+	5
+rigid
+	saner
+	court 113
+	dryly 10
+	rigid 1
+	4
+zonal
+	saner
+	tonga 10
+	zonal 1
+	3
+rebus
+	saner
+	terse 17
+	rebus 1
+	3
+chock
+	saner
+	could 219
+	chock 1
+	3
+basis
+	saner
+	palsy 14
+	basis 2
+	3
+board
+	saner
+	craft 68
+	board 8
+	3
+coast
+	saner
+	clash 23
+	coast 1
+	3
+lousy
+	saner
+	hoist 50
+	mossy 3
+	lousy 1
+	4
+abode
+	saner
+	dealt 90
+	adobe 4
+	abode 1
+	4
+merit
+	saner
+	trice 92
+	remit 3
+	merit 1
+	4
+float
+	saner
+	aloft 94
+	float 1
+	3
+sting
+	saner
+	snout 30
+	sting 2
+	3
+belie
+	saner
+	elite 140
+	liege 2
+	belie 1
+	4
+score
+	saner
+	shire 12
+	spore 4
+	score 3
+	4
+clash
+	saner
+	clash 23
+	2
+gruff
+	saner
+	court 113
+	gruff 2
+	3
+hoard
+	saner
+	craft 68
+	board 8
+	hoard 1
+	4
+spasm
+	saner
+	shalt 36
+	scamp 6
+	spasm 1
+	4
+donut
+	saner
+	tonic 39
+	month 2
+	donut 1
+	4
+wooly
+	saner
+	could 219
+	holly 7
+	wooly 1
+	4
+tacky
+	saner
+	catty 71
+	tacky 1
+	3
+cobra
+	saner
+	craft 68
+	coral 3
+	cobra 1
+	4
+barge
+	saner
+	large 6
+	barge 1
+	3
+screw
+	saner
+	screw 4
+	2
+timid
+	saner
+	could 219
+	timid 2
+	3
+stuff
+	saner
+	spilt 74
+	study 8
+	stuff 2
+	4
+taunt
+	saner
+	taint 19
+	taunt 1
+	3
+false
+	saner
+	pause 11
+	false 2
+	3
+rapid
+	saner
+	party 31
+	rapid 2
+	3
+abide
+	saner
+	dealt 90
+	adobe 4
+	abide 1
+	4
+shiny
+	saner
+	snout 30
+	sling 5
+	shiny 2
+	4
+thief
+	saner
+	betel 49
+	duvet 5
+	thief 1
+	4
+radar
+	saner
+	valor 9
+	tapir 2
+	radar 1
+	4
+tarot
+	saner
+	party 31
+	tarot 2
+	3
+gulch
+	saner
+	could 219
+	mulch 3
+	gulch 1
+	4
+ripen
+	saner
+	green 3
+	ripen 1
+	3
+junta
+	saner
+	tonal 10
+	junta 2
+	3
+voila
+	saner
+	aloft 94
+	loamy 8
+	vocal 3
+	voila 1
+	5
+queer
+	saner
+	older 76
+	fiber 27
+	ether 9
+	queer 1
+	5
+welsh
+	saner
+	those 36
+	welsh 2
+	3
+least
+	saner
+	least 17
+	2
+verve
+	saner
+	trice 92
+	rogue 13
+	where 2
+	verve 1
+	5
+acute
+	saner
+	dealt 90
+	tweak 3
+	acute 1
+	4
+moody
+	saner
+	could 219
+	dowdy 7
+	moody 2
+	4
+inlet
+	saner
+	woken 23
+	inlet 4
+	3
+diary
+	saner
+	craft 68
+	board 8
+	diary 1
+	4
+chafe
+	saner
+	dealt 90
+	awake 6
+	chafe 2
+	4
+furor
+	saner
+	rumor 16
+	furor 2
+	3
+organ
+	saner
+	grand 21
+	organ 1
+	3
+arise
+	saner
+	arise 3
+	2
+phone
+	saner
+	ovine 42
+	clone 2
+	phone 1
+	4
+tonic
+	saner
+	tonic 39
+	2
+scalp
+	saner
+	shalt 36
+	scald 4
+	scalp 2
+	4
+rerun
+	saner
+	urine 15
+	rerun 1
+	3
+giver
+	saner
+	older 76
+	fiber 27
+	giver 7
+	4
+trace
+	saner
+	trace 61
+	2
+gooey
+	saner
+	betel 49
+	dicey 7
+	gooey 1
+	4
+plume
+	saner
+	elite 140
+	bloke 7
+	plume 2
+	4
+easel
+	saner
+	easel 1
+	2
+guise
+	saner
+	those 36
+	guise 3
+	3
+wheel
+	saner
+	betel 49
+	expel 3
+	wheel 1
+	4
+anode
+	saner
+	agent 23
+	ankle 3
+	anode 2
+	4
+edict
+	saner
+	elite 140
+	evict 2
+	edict 1
+	4
+legal
+	saner
+	dealt 90
+	fecal 2
+	legal 1
+	4
+vicar
+	saner
+	briar 15
+	vicar 2
+	3
+acrid
+	saner
+	craft 68
+	acrid 1
+	3
+denim
+	saner
+	hence 20
+	venom 3
+	denim 1
+	4
+foyer
+	saner
+	older 76
+	rower 18
+	mover 9
+	poker 4
+	boxer 2
+	foyer 1
+	7
+unset
+	saner
+	nosey 3
+	unset 1
+	3
+ensue
+	saner
+	noise 3
+	ensue 1
+	3
+halve
+	saner
+	table 23
+	valve 3
+	halve 1
+	4
+worry
+	saner
+	court 113
+	worry 3
+	3
+motel
+	saner
+	betel 49
+	hotel 2
+	motel 1
+	4
+chase
+	saner
+	least 17
+	phase 3
+	chase 1
+	4
+touch
+	saner
+	could 219
+	vouch 3
+	touch 2
+	4
+viper
+	saner
+	older 76
+	fiber 27
+	giver 7
+	viper 1
+	5
+newer
+	saner
+	inter 7
+	never 2
+	newer 1
+	4
+sewer
+	saner
+	sewer 9
+	2
+rabbi
+	saner
+	party 31
+	radio 6
+	rabbi 1
+	4
+elate
+	saner
+	dealt 90
+	plate 2
+	elate 1
+	4
+cargo
+	saner
+	party 31
+	carol 5
+	cargo 1
+	4
+wedge
+	saner
+	elite 140
+	hedge 5
+	wedge 1
+	4
+fluke
+	saner
+	elite 140
+	bloke 7
+	fluke 1
+	4
+canal
+	saner
+	canny 21
+	canal 1
+	3
+phony
+	saner
+	glint 68
+	phony 9
+	3
+mafia
+	saner
+	catty 71
+	gamma 12
+	mafia 1
+	4
+spout
+	saner
+	spilt 74
+	spout 1
+	3
+wield
+	saner
+	elite 140
+	yield 5
+	field 2
+	wield 1
+	5
+heady
+	saner
+	dealt 90
+	heady 2
+	3
+truce
+	saner
+	trice 92
+	truce 1
+	3
+tract
+	saner
+	craft 68
+	tract 1
+	3
+tryst
+	saner
+	truss 25
+	tryst 1
+	3
+prick
+	saner
+	court 113
+	prick 4
+	3
+basal
+	saner
+	palsy 14
+	basil 2
+	basal 1
+	4
+whale
+	saner
+	dealt 90
+	whale 1
+	3
+error
+	saner
+	decor 7
+	error 1
+	3
+drake
+	saner
+	trace 61
+	grade 9
+	drape 2
+	drake 1
+	5
+smelt
+	saner
+	slept 37
+	smelt 1
+	3
+mercy
+	saner
+	trice 92
+	perch 2
+	mercy 1
+	4
+shine
+	saner
+	spent 13
+	shone 4
+	shine 1
+	4
+pilot
+	saner
+	could 219
+	gloom 5
+	pilot 1
+	4
+terse
+	saner
+	terse 17
+	2
+pouch
+	saner
+	could 219
+	vouch 3
+	touch 2
+	pouch 1
+	5
+wring
+	saner
+	groin 36
+	wring 2
+	3
+showy
+	saner
+	spilt 74
+	smock 9
+	showy 1
+	4
+locus
+	saner
+	hoist 50
+	locus 3
+	3
+tribe
+	saner
+	trice 92
+	tripe 3
+	tribe 2
+	4
+topaz
+	saner
+	aloft 94
+	today 2
+	topaz 1
+	4
+bland
+	saner
+	align 34
+	blank 6
+	bland 1
+	4
+solve
+	saner
+	slept 37
+	smile 2
+	solve 1
+	4
+annoy
+	saner
+	tonga 10
+	annoy 1
+	3
+house
+	saner
+	those 36
+	house 1
+	3
+flaky
+	saner
+	aloft 94
+	flaky 3
+	3
+salty
+	saner
+	salsa 11
+	sally 3
+	salty 1
+	4
+moldy
+	saner
+	could 219
+	moldy 1
+	3
+alien
+	saner
+	angel 2
+	alien 1
+	3
+blunt
+	saner
+	glint 68
+	blunt 1
+	3
+snuck
+	saner
+	snout 30
+	snuck 2
+	3
+magic
+	saner
+	catty 71
+	macho 4
+	magic 1
+	4
+oaken
+	saner
+	taken 7
+	oaken 1
+	3
+plait
+	saner
+	aloft 94
+	plait 1
+	3
+etude
+	saner
+	elite 140
+	etude 1
+	3
+peril
+	saner
+	trice 92
+	fiery 2
+	peril 1
+	4
+tooth
+	saner
+	could 219
+	boozy 14
+	tooth 1
+	4
+askew
+	saner
+	asset 2
+	askew 1
+	3
+chart
+	saner
+	craft 68
+	chart 1
+	3
+waxen
+	saner
+	taken 7
+	haven 3
+	waxen 2
+	4
+guest
+	saner
+	those 36
+	quest 3
+	guest 1
+	4
+spoon
+	saner
+	snout 30
+	swoon 3
+	spoon 1
+	4
+regal
+	saner
+	trace 61
+	relay 8
+	regal 1
+	4
+mecca
+	saner
+	dealt 90
+	mecca 2
+	3
+cable
+	saner
+	table 23
+	fable 2
+	cable 1
+	4
+mucky
+	saner
+	could 219
+	butch 6
+	mucky 1
+	4
+heron
+	saner
+	urine 15
+	nerdy 3
+	heron 1
+	4
+worth
+	saner
+	court 113
+	forth 3
+	worth 1
+	4
+flank
+	saner
+	align 34
+	plank 6
+	clank 3
+	flank 2
+	5
+rusty
+	saner
+	truss 25
+	rusty 1
+	3
+pasta
+	saner
+	palsy 14
+	pasta 1
+	3
+royal
+	saner
+	craft 68
+	mural 10
+	royal 2
+	4
+weary
+	saner
+	trace 61
+	ready 7
+	weary 1
+	4
+verge
+	saner
+	trice 92
+	rouge 13
+	merge 2
+	verge 1
+	5
+spine
+	saner
+	spent 13
+	spine 1
+	3
+dozen
+	saner
+	woken 23
+	dozen 2
+	3
+dilly
+	saner
+	could 219
+	dimly 3
+	dilly 1
+	4
+pulse
+	saner
+	those 36
+	guise 3
+	pulse 1
+	4
+pinch
+	saner
+	tonic 39
+	cinch 4
+	winch 3
+	pinch 2
+	5
+prize
+	saner
+	trice 92
+	pride 8
+	prime 2
+	prize 1
+	5
+tried
+	saner
+	tried 27
+	2
+stiff
+	saner
+	spilt 74
+	stiff 3
+	3
+focus
+	saner
+	hoist 50
+	locus 3
+	focus 1
+	4
+safer
+	saner
+	safer 1
+	2
+noisy
+	saner
+	bison 3
+	noisy 1
+	3
+eject
+	saner
+	elite 140
+	eject 1
+	3
+saute
+	saner
+	saute 3
+	2
+pithy
+	saner
+	could 219
+	fight 19
+	pithy 1
+	4
+kappa
+	saner
+	catty 71
+	gamma 12
+	kappa 1
+	4
+tulip
+	saner
+	could 219
+	bulky 5
+	tulip 1
+	4
+pouty
+	saner
+	could 219
+	mouth 5
+	pouty 1
+	4
+blade
+	saner
+	dealt 90
+	glade 2
+	blade 1
+	4
+maker
+	saner
+	taper 27
+	lager 14
+	waver 6
+	racer 4
+	maker 2
+	6
+untie
+	saner
+	ovine 42
+	niche 3
+	untie 1
+	4
+poppy
+	saner
+	could 219
+	boozy 14
+	foggy 2
+	poppy 1
+	5
+water
+	saner
+	taper 27
+	eater 5
+	cater 4
+	water 3
+	5
+ashen
+	saner
+	ashen 1
+	2
+sight
+	saner
+	spilt 74
+	sight 1
+	3
+wrack
+	saner
+	craft 68
+	wrack 1
+	3
+snoop
+	saner
+	snout 30
+	snowy 2
+	snoop 1
+	4
+steak
+	saner
+	stale 25
+	steam 3
+	stead 2
+	steak 1
+	5
+turbo
+	saner
+	court 113
+	turbo 1
+	3
+pitch
+	saner
+	could 219
+	which 8
+	pitch 1
+	4
+madly
+	saner
+	catty 71
+	badly 16
+	madly 1
+	4
+frame
+	saner
+	trace 61
+	grade 9
+	brave 3
+	frame 1
+	5
+pushy
+	saner
+	hoist 50
+	mushy 3
+	bushy 2
+	pushy 1
+	5
+salvo
+	saner
+	salsa 11
+	sally 3
+	salvo 1
+	4
+squat
+	saner
+	shalt 36
+	squat 1
+	3
+gland
+	saner
+	align 34
+	gland 2
+	3
+beefy
+	saner
+	elite 140
+	beech 4
+	beefy 1
+	4
+primo
+	saner
+	court 113
+	droop 13
+	primo 1
+	4
+sheet
+	saner
+	steel 14
+	sheet 2
+	3
+trawl
+	saner
+	craft 68
+	trawl 4
+	3
+spilt
+	saner
+	spilt 74
+	2
+rinse
+	saner
+	rinse 1
+	2
+annul
+	saner
+	tonga 10
+	final 2
+	annul 1
+	4
+meter
+	saner
+	older 76
+	fiber 27
+	ether 9
+	meter 1
+	5
+quash
+	saner
+	clash 23
+	awash 2
+	quash 1
+	4
+weigh
+	saner
+	elite 140
+	weigh 1
+	3
+unmet
+	saner
+	woken 23
+	inlet 4
+	unmet 1
+	4
+stood
+	saner
+	spilt 74
+	study 8
+	stood 1
+	4
+gaudy
+	saner
+	catty 71
+	badly 16
+	gaudy 1
+	4
+creme
+	saner
+	trice 92
+	creme 3
+	3
+dunce
+	saner
+	hence 20
+	wince 4
+	ounce 2
+	dunce 1
+	5
+patty
+	saner
+	catty 71
+	tatty 4
+	fatty 3
+	patty 2
+	5
+hotly
+	saner
+	could 219
+	holly 7
+	hotly 1
+	4
+broil
+	saner
+	court 113
+	droop 13
+	broil 2
+	4
+sooty
+	saner
+	spilt 74
+	study 8
+	sooty 1
+	4
+woman
+	saner
+	align 34
+	woman 2
+	3
+value
+	saner
+	table 23
+	valve 3
+	value 1
+	4
+slosh
+	saner
+	spilt 74
+	slush 4
+	slosh 1
+	4
+axiom
+	saner
+	aloft 94
+	audio 2
+	axiom 1
+	4
+evoke
+	saner
+	elite 140
+	evoke 1
+	3
+lance
+	saner
+	lance 4
+	2
+index
+	saner
+	woken 23
+	inlet 4
+	index 1
+	4
+group
+	saner
+	court 113
+	proud 2
+	group 1
+	4
+fluff
+	saner
+	could 219
+	plumb 4
+	fluff 1
+	4
+naval
+	saner
+	taint 19
+	wagon 4
+	naval 1
+	4
+revue
+	saner
+	trice 92
+	rouge 13
+	revue 1
+	4
+blast
+	saner
+	clash 23
+	blast 3
+	3
+swell
+	saner
+	slept 37
+	shelf 4
+	smell 2
+	swell 1
+	5
+glint
+	saner
+	glint 68
+	2
+flash
+	saner
+	clash 23
+	flash 1
+	3
+exult
+	saner
+	elite 140
+	extol 2
+	exult 1
+	4
+manga
+	saner
+	canny 21
+	manga 6
+	3
+smote
+	saner
+	slept 37
+	suite 5
+	smote 1
+	4
+cedar
+	saner
+	debar 4
+	cedar 1
+	3
+roast
+	saner
+	brass 9
+	roast 1
+	3
+onion
+	saner
+	glint 68
+	unify 3
+	onion 1
+	4
+queen
+	saner
+	woken 23
+	lumen 5
+	queen 1
+	4
+fully
+	saner
+	could 219
+	guilt 7
+	bully 2
+	fully 1
+	5
+coach
+	saner
+	aloft 94
+	mocha 6
+	coach 1
+	4
+habit
+	saner
+	catty 71
+	vault 5
+	habit 1
+	4
+going
+	saner
+	glint 68
+	going 1
+	3
+sulky
+	saner
+	spilt 74
+	slush 4
+	sulky 1
+	4
+crave
+	saner
+	trace 61
+	craze 2
+	crave 1
+	4
+tower
+	saner
+	older 76
+	rower 18
+	power 4
+	tower 3
+	5
+bring
+	saner
+	groin 36
+	wring 2
+	bring 1
+	4
+swung
+	saner
+	snout 30
+	slung 6
+	swung 1
+	4
+torus
+	saner
+	truss 25
+	torus 1
+	3
+crepe
+	saner
+	trice 92
+	creme 3
+	crepe 1
+	4
+early
+	saner
+	large 6
+	early 1
+	3
+flour
+	saner
+	rumor 16
+	flour 2
+	3
+gusto
+	saner
+	hoist 50
+	gusto 1
+	3
+lefty
+	saner
+	elite 140
+	lefty 1
+	3
+river
+	saner
+	older 76
+	fiber 27
+	giver 7
+	river 1
+	5
+vista
+	saner
+	clash 23
+	vista 2
+	3
+amend
+	saner
+	agent 23
+	amend 1
+	3
+slurp
+	saner
+	shirt 23
+	sorry 3
+	slurp 1
+	4
+carry
+	saner
+	party 31
+	hardy 4
+	marry 2
+	carry 1
+	5
+glyph
+	saner
+	could 219
+	filmy 10
+	glyph 1
+	4
+drown
+	saner
+	groin 36
+	frown 4
+	crown 3
+	brown 2
+	drown 1
+	6
+skull
+	saner
+	spilt 74
+	sully 6
+	skull 1
+	4
+stall
+	saner
+	shalt 36
+	stalk 2
+	stall 1
+	4
+saint
+	saner
+	satin 4
+	saint 1
+	3
+swill
+	saner
+	spilt 74
+	skill 2
+	swill 1
+	4
+query
+	saner
+	trice 92
+	berry 11
+	query 2
+	4
+cameo
+	saner
+	cagey 13
+	camel 3
+	cameo 1
+	4
+kayak
+	saner
+	catty 71
+	kayak 2
+	3
+awoke
+	saner
+	dealt 90
+	awoke 4
+	3
+inlay
+	saner
+	align 34
+	inlay 1
+	3
+doubt
+	saner
+	could 219
+	dough 2
+	doubt 1
+	4
+wrung
+	saner
+	groin 36
+	wrung 1
+	3
+weave
+	saner
+	dealt 90
+	peach 6
+	weave 1
+	4
+swath
+	saner
+	shalt 36
+	stash 2
+	swath 1
+	4
+brain
+	saner
+	grand 21
+	brawn 4
+	brain 1
+	4
+dealt
+	saner
+	dealt 90
+	2
+corny
+	saner
+	groin 36
+	horny 4
+	corny 1
+	4
+given
+	saner
+	woken 23
+	lumen 5
+	vixen 2
+	given 1
+	5
+bulge
+	saner
+	elite 140
+	lodge 6
+	bulge 1
+	4
+humus
+	saner
+	hoist 50
+	humus 2
+	3
+oxide
+	saner
+	elite 140
+	voice 6
+	oxide 1
+	4
+piper
+	saner
+	older 76
+	fiber 27
+	giver 7
+	piper 3
+	5
+haute
+	saner
+	table 23
+	haute 1
+	3
+plank
+	saner
+	align 34
+	plank 6
+	3
+salve
+	saner
+	saute 3
+	salve 1
+	3
+logic
+	saner
+	could 219
+	logic 1
+	3
+holly
+	saner
+	could 219
+	holly 7
+	3
+shack
+	saner
+	shalt 36
+	shack 3
+	3
+quart
+	saner
+	craft 68
+	apart 2
+	quart 1
+	4
+spunk
+	saner
+	snout 30
+	slunk 6
+	skunk 2
+	spunk 1
+	5
+shuck
+	saner
+	spilt 74
+	smock 9
+	shuck 1
+	4
+minus
+	saner
+	bonus 2
+	minus 1
+	3
+solar
+	saner
+	sugar 3
+	solar 1
+	3
+facet
+	saner
+	cagey 13
+	facet 1
+	3
+tulle
+	saner
+	elite 140
+	tulle 1
+	3
+flesh
+	saner
+	those 36
+	welsh 2
+	flesh 1
+	4
+stark
+	saner
+	strap 16
+	stark 2
+	3
+booth
+	saner
+	could 219
+	boozy 14
+	booth 1
+	4
+rocky
+	saner
+	court 113
+	rocky 2
+	3
+shark
+	saner
+	strap 16
+	scarf 5
+	shard 3
+	shark 1
+	5
+wrist
+	saner
+	truss 25
+	frost 2
+	wrist 1
+	4
+chunk
+	saner
+	glint 68
+	phony 9
+	chunk 1
+	4
+theft
+	saner
+	elite 140
+	depot 7
+	theft 1
+	4
+spice
+	saner
+	slept 37
+	spice 3
+	3
+pubic
+	saner
+	could 219
+	butch 6
+	pubic 1
+	4
+micro
+	saner
+	court 113
+	micro 1
+	3
+lilac
+	saner
+	aloft 94
+	lilac 7
+	3
+drove
+	saner
+	trice 92
+	prove 9
+	drove 2
+	4
+loose
+	saner
+	those 36
+	moose 4
+	goose 2
+	loose 1
+	5
+armor
+	saner
+	briar 15
+	armor 2
+	3
+skate
+	saner
+	stale 25
+	skate 1
+	3
+hater
+	saner
+	taper 27
+	eater 5
+	cater 4
+	water 3
+	hater 2
+	6
+repay
+	saner
+	trace 61
+	relay 8
+	repay 1
+	4
+cling
+	saner
+	glint 68
+	fling 2
+	cling 1
+	4
+sling
+	saner
+	snout 30
+	sling 5
+	3
+leery
+	saner
+	trice 92
+	berry 11
+	leery 1
+	4
+riser
+	saner
+	miser 7
+	riser 2
+	3
+crate
+	saner
+	trace 61
+	crate 1
+	3
+fussy
+	saner
+	hoist 50
+	gypsy 2
+	fussy 1
+	4
+slyly
+	saner
+	spilt 74
+	sully 6
+	slyly 1
+	4
+toddy
+	saner
+	could 219
+	dowdy 7
+	toddy 1
+	4
+beret
+	saner
+	tried 27
+	beret 2
+	3
+hydro
+	saner
+	court 113
+	ivory 4
+	hydro 1
+	4
+scope
+	saner
+	slept 37
+	scope 1
+	3
+pinky
+	saner
+	tonic 39
+	windy 7
+	kinky 3
+	pinky 1
+	5
+tasty
+	saner
+	palsy 14
+	hasty 2
+	tasty 1
+	4
+aphid
+	saner
+	aloft 94
+	aphid 2
+	3
+heath
+	saner
+	dealt 90
+	heath 3
+	3
+myrrh
+	saner
+	court 113
+	whirl 2
+	myrrh 1
+	4
+forte
+	saner
+	trice 92
+	route 2
+	forte 1
+	4
+motif
+	saner
+	could 219
+	boozy 14
+	vomit 2
+	motif 1
+	5
+pleat
+	saner
+	dealt 90
+	cleat 4
+	bleat 2
+	pleat 1
+	5
+trial
+	saner
+	craft 68
+	triad 2
+	trial 1
+	4
+gnome
+	saner
+	ovine 42
+	noble 2
+	gnome 1
+	4
+covet
+	saner
+	betel 49
+	duvet 5
+	covet 1
+	4
+rural
+	saner
+	craft 68
+	mural 10
+	rural 1
+	4
+plain
+	saner
+	align 34
+	plain 1
+	3
+champ
+	saner
+	aloft 94
+	quack 6
+	champ 1
+	4
+knife
+	saner
+	ovine 42
+	unite 2
+	knife 1
+	4
+first
+	saner
+	truss 25
+	roost 3
+	first 1
+	4
+hazel
+	saner
+	cagey 13
+	label 4
+	hazel 1
+	4
+staff
+	saner
+	shalt 36
+	stack 4
+	staff 3
+	4
+sully
+	saner
+	spilt 74
+	sully 6
+	3
+stove
+	saner
+	slept 37
+	suite 5
+	stoke 2
+	stove 1
+	5
+surer
+	saner
+	sewer 9
+	super 4
+	surer 1
+	4
+cheap
+	saner
+	dealt 90
+	awoke 4
+	cheap 1
+	4
+viola
+	saner
+	aloft 94
+	viola 1
+	3
+thumb
+	saner
+	could 219
+	thump 2
+	thumb 1
+	4
+grill
+	saner
+	court 113
+	dryly 10
+	frill 3
+	grill 2
+	5
+lyric
+	saner
+	court 113
+	prick 4
+	lyric 1
+	4
+slick
+	saner
+	spilt 74
+	slimy 2
+	slick 1
+	4
+grass
+	saner
+	brass 9
+	crass 2
+	grass 1
+	4
+scaly
+	saner
+	shalt 36
+	scald 4
+	scalp 2
+	scaly 1
+	5
+spurt
+	saner
+	shirt 23
+	spurt 2
+	3
+waist
+	saner
+	palsy 14
+	waist 1
+	3
+lunch
+	saner
+	tonic 39
+	bunch 6
+	munch 4
+	hunch 3
+	lunch 2
+	6
+icily
+	saner
+	could 219
+	icily 1
+	3
+hitch
+	saner
+	could 219
+	pitch 8
+	hitch 2
+	4
+bowel
+	saner
+	betel 49
+	bowel 1
+	3
+batty
+	saner
+	catty 71
+	fatty 4
+	tatty 3
+	patty 2
+	batty 1
+	6
+timer
+	saner
+	older 76
+	fiber 27
+	giver 7
+	piper 3
+	timer 1
+	6
+plant
+	saner
+	align 34
+	plank 6
+	plant 1
+	4
+ascot
+	saner
+	clash 23
+	ascot 1
+	3
+whine
+	saner
+	ovine 42
+	twine 2
+	whine 1
+	4
+trice
+	saner
+	trice 92
+	2
+punch
+	saner
+	tonic 39
+	munch 6
+	bunch 4
+	hunch 3
+	lunch 2
+	punch 1
+	7
+fanny
+	saner
+	canny 21
+	nanny 2
+	fanny 1
+	4
+stink
+	saner
+	snout 30
+	sting 2
+	stink 1
+	4
+forum
+	saner
+	court 113
+	forum 1
+	3
+gnash
+	saner
+	gnash 2
+	2
+laden
+	saner
+	taken 7
+	haven 3
+	waxen 2
+	laden 1
+	5
+leave
+	saner
+	dealt 90
+	leaky 4
+	leach 2
+	leave 1
+	5
+niche
+	saner
+	ovine 42
+	niche 3
+	3
+seven
+	saner
+	seven 3
+	2
+alone
+	saner
+	agent 23
+	alone 1
+	3
+ledge
+	saner
+	elite 140
+	belle 3
+	ledge 1
+	4
+token
+	saner
+	woken 23
+	token 1
+	3
+rotor
+	saner
+	rumor 16
+	rigor 2
+	rotor 1
+	4
+gayer
+	saner
+	taper 27
+	lager 14
+	gayer 3
+	4
+erase
+	saner
+	arise 3
+	erase 1
+	3
+queue
+	saner
+	elite 140
+	hedge 5
+	queue 1
+	4
+plumb
+	saner
+	could 219
+	plumb 4
+	3
+shave
+	saner
+	stale 25
+	spade 8
+	shame 4
+	shave 2
+	5
+humor
+	saner
+	rumor 16
+	tumor 2
+	humor 1
+	4
+happy
+	saner
+	catty 71
+	badly 16
+	mammy 4
+	gawky 3
+	jazzy 2
+	happy 1
+	7
+moist
+	saner
+	hoist 50
+	joist 3
+	foist 2
+	moist 1
+	5
+shady
+	saner
+	shalt 36
+	shack 3
+	shady 1
+	4
+juror
+	saner
+	rumor 16
+	furor 2
+	juror 1
+	4
+earth
+	saner
+	large 6
+	earth 1
+	3
+ardor
+	saner
+	briar 15
+	armor 2
+	ardor 1
+	4
+blend
+	saner
+	ovine 42
+	blend 1
+	3
+arbor
+	saner
+	briar 15
+	arbor 1
+	3
+grand
+	saner
+	grand 21
+	2
+hyper
+	saner
+	older 76
+	fiber 27
+	ether 9
+	hyper 1
+	5
+glass
+	saner
+	clash 23
+	blast 3
+	glass 2
+	4
+cleft
+	saner
+	elite 140
+	cleft 1
+	3
+hence
+	saner
+	hence 20
+	2
+vinyl
+	saner
+	tonic 39
+	windy 7
+	vinyl 1
+	4
+yeast
+	saner
+	least 17
+	beast 3
+	feast 2
+	yeast 1
+	5
+gazer
+	saner
+	taper 27
+	lager 14
+	gayer 3
+	gazer 2
+	5
+crone
+	saner
+	urine 15
+	drone 3
+	prone 2
+	crone 1
+	5
+jiffy
+	saner
+	could 219
+	fight 19
+	jiffy 1
+	4
+rival
+	saner
+	craft 68
+	mural 10
+	royal 2
+	rival 1
+	5
+bayou
+	saner
+	catty 71
+	bayou 2
+	3
+mimic
+	saner
+	could 219
+	which 8
+	mimic 2
+	4
+hatch
+	saner
+	catty 71
+	latch 6
+	batch 5
+	patch 4
+	hatch 3
+	6
+mania
+	saner
+	canny 21
+	manga 6
+	mania 1
+	4
+grimy
+	saner
+	court 113
+	dryly 10
+	grimy 2
+	4
+quail
+	saner
+	aloft 94
+	lilac 7
+	quail 1
+	4
+medal
+	saner
+	dealt 90
+	medal 2
+	3
+groan
+	saner
+	grand 21
+	groan 1
+	3
+prune
+	saner
+	urine 15
+	prune 1
+	3
+upper
+	saner
+	older 76
+	fiber 27
+	ether 9
+	upper 2
+	5
+rearm
+	saner
+	trace 61
+	ready 7
+	rearm 2
+	4
+rebel
+	saner
+	tried 27
+	puree 5
+	revel 2
+	rebel 1
+	5
+bloat
+	saner
+	aloft 94
+	bloat 2
+	3
+dummy
+	saner
+	could 219
+	dumpy 5
+	dummy 1
+	4
+enema
+	saner
+	agent 23
+	clean 4
+	enema 1
+	4
+hilly
+	saner
+	could 219
+	willy 5
+	filly 3
+	billy 2
+	hilly 1
+	6
+taken
+	saner
+	taken 7
+	2
+trout
+	saner
+	court 113
+	grout 2
+	trout 1
+	4
+envoy
+	saner
+	ovine 42
+	envoy 1
+	3
+poser
+	saner
+	miser 7
+	loser 2
+	poser 1
+	4
+banal
+	saner
+	canny 21
+	manga 6
+	banal 1
+	4
+wafer
+	saner
+	taper 27
+	lager 14
+	waver 6
+	wafer 1
+	5
+basic
+	saner
+	palsy 14
+	basis 2
+	basic 1
+	4
+scour
+	saner
+	scour 1
+	2
+brook
+	saner
+	court 113
+	droop 13
+	broom 3
+	brook 1
+	5
+cyber
+	saner
+	older 76
+	fiber 27
+	tuber 3
+	cyber 2
+	5
+bingo
+	saner
+	tonic 39
+	dingo 3
+	lingo 2
+	bingo 1
+	5
+icing
+	saner
+	glint 68
+	dying 5
+	owing 2
+	icing 1
+	5
+matey
+	saner
+	cagey 13
+	matey 1
+	3
+privy
+	saner
+	court 113
+	dryly 10
+	grimy 2
+	privy 1
+	5
+width
+	saner
+	could 219
+	digit 6
+	width 1
+	4
+fence
+	saner
+	hence 20
+	fence 2
+	3
+crude
+	saner
+	trice 92
+	creme 3
+	crude 1
+	4
+sniff
+	saner
+	snout 30
+	sniff 1
+	3
+excel
+	saner
+	betel 49
+	expel 3
+	excel 1
+	4
+pooch
+	saner
+	could 219
+	pooch 4
+	3
+frond
+	saner
+	groin 36
+	front 3
+	frond 1
+	4
+stamp
+	saner
+	shalt 36
+	stack 4
+	staff 3
+	stamp 2
+	5
+couch
+	saner
+	could 219
+	couch 2
+	3
+vowel
+	saner
+	betel 49
+	model 6
+	hovel 2
+	vowel 1
+	5
+agent
+	saner
+	agent 23
+	2
+seedy
+	saner
+	slept 37
+	siege 4
+	seedy 1
+	4
+needy
+	saner
+	ovine 42
+	needy 5
+	3
+spear
+	saner
+	swear 4
+	smear 3
+	shear 2
+	spear 1
+	5
+spent
+	saner
+	spent 13
+	2
+stuck
+	saner
+	spilt 74
+	study 8
+	stuff 2
+	stuck 1
+	5
+anvil
+	saner
+	align 34
+	anvil 1
+	3
+acorn
+	saner
+	grand 21
+	apron 2
+	acorn 1
+	4
+hippo
+	saner
+	could 219
+	photo 5
+	hippo 1
+	4
+cower
+	saner
+	older 76
+	rower 18
+	power 4
+	tower 3
+	cower 2
+	6
+taboo
+	saner
+	catty 71
+	vault 5
+	taboo 1
+	4
+palsy
+	saner
+	palsy 14
+	2
+snuff
+	saner
+	snout 30
+	snuck 2
+	snuff 1
+	4
+squib
+	saner
+	spilt 74
+	sushi 3
+	squib 1
+	4
+occur
+	saner
+	rumor 16
+	flour 2
+	occur 1
+	4
+scone
+	saner
+	spent 13
+	shone 4
+	scone 1
+	4
+elite
+	saner
+	elite 140
+	2
+debut
+	saner
+	elite 140
+	depot 7
+	debut 1
+	4
+kebab
+	saner
+	dealt 90
+	mecca 2
+	kebab 1
+	4
+space
+	saner
+	stale 25
+	spade 8
+	space 1
+	4
+scrap
+	saner
+	strap 16
+	scrap 1
+	3
+swore
+	saner
+	spire 12
+	shore 4
+	score 3
+	swore 2
+	5
+split
+	saner
+	spilt 74
+	split 1
+	3
+hefty
+	saner
+	elite 140
+	jetty 5
+	hefty 1
+	4
+sadly
+	saner
+	salsa 11
+	sadly 1
+	3
+waste
+	saner
+	pause 11
+	caste 5
+	baste 4
+	taste 3
+	waste 2
+	6
+foamy
+	saner
+	aloft 94
+	foamy 1
+	3
+thrum
+	saner
+	court 113
+	thrum 1
+	3
+enact
+	saner
+	agent 23
+	enact 1
+	3
+trump
+	saner
+	court 113
+	truly 3
+	truth 2
+	trump 1
+	5
+edify
+	saner
+	elite 140
+	edify 1
+	3
+scrum
+	saner
+	shirt 23
+	scrub 4
+	scrum 1
+	4
+circa
+	saner
+	craft 68
+	coral 3
+	circa 1
+	4
+gorge
+	saner
+	trice 92
+	rouge 13
+	forge 2
+	gorge 1
+	5
+voter
+	saner
+	older 76
+	rower 18
+	mover 9
+	voter 1
+	5
+amass
+	saner
+	clash 23
+	toast 4
+	quasi 2
+	amass 1
+	5
+arena
+	saner
+	yearn 4
+	arena 1
+	3
+guile
+	saner
+	elite 140
+	while 2
+	guile 1
+	4
+candy
+	saner
+	canny 21
+	candy 1
+	3
+terra
+	saner
+	trace 61
+	terra 1
+	3
+masse
+	saner
+	pause 11
+	false 2
+	masse 1
+	4
+offer
+	saner
+	older 76
+	outer 4
+	offer 1
+	4
+elide
+	saner
+	elite 140
+	elide 1
+	3
+blink
+	saner
+	glint 68
+	blind 3
+	blink 1
+	4
+crier
+	saner
+	older 76
+	fiber 27
+	crier 1
+	4
+scree
+	saner
+	screw 4
+	scree 1
+	3
+blare
+	saner
+	trace 61
+	flare 4
+	blare 2
+	4
+curvy
+	saner
+	court 113
+	curly 2
+	curvy 1
+	4
+alert
+	saner
+	trace 61
+	alert 3
+	3
+snail
+	saner
+	stank 13
+	snail 3
+	3
+bluff
+	saner
+	could 219
+	plumb 4
+	bluff 1
+	4
+clink
+	saner
+	glint 68
+	blind 3
+	clink 1
+	4
+roach
+	saner
+	craft 68
+	roach 1
+	3
+catch
+	saner
+	catty 71
+	catch 1
+	3
+heart
+	saner
+	trace 61
+	heart 1
+	3
+slate
+	saner
+	stale 25
+	slate 1
+	3
+dairy
+	saner
+	party 31
+	fairy 4
+	hairy 2
+	dairy 1
+	5
+pupil
+	saner
+	could 219
+	bulky 5
+	pupil 1
+	4
+bevel
+	saner
+	betel 49
+	bezel 2
+	bevel 1
+	4
+quake
+	saner
+	dealt 90
+	awake 6
+	quake 1
+	4
+assay
+	saner
+	clash 23
+	vista 2
+	assay 1
+	4
+belly
+	saner
+	elite 140
+	welch 12
+	belly 2
+	4
+spoof
+	saner
+	spilt 74
+	spoof 2
+	3
+exile
+	saner
+	elite 140
+	exile 1
+	3
+cutie
+	saner
+	elite 140
+	tithe 2
+	cutie 1
+	4
+penal
+	saner
+	penal 1
+	2
+brunt
+	saner
+	groin 36
+	drunk 3
+	brunt 1
+	4
+dusky
+	saner
+	hoist 50
+	mucus 4
+	dusky 1
+	4
+growl
+	saner
+	court 113
+	droop 13
+	broil 2
+	growl 1
+	5
+shoot
+	saner
+	spilt 74
+	scout 4
+	shoot 1
+	4
+tunic
+	saner
+	tonic 39
+	tunic 1
+	3
+inner
+	saner
+	miner 7
+	inner 1
+	3
+leafy
+	saner
+	dealt 90
+	leaky 4
+	leafy 1
+	4
+lower
+	saner
+	older 76
+	lover 2
+	lower 1
+	4
+email
+	saner
+	dealt 90
+	blame 7
+	email 1
+	4
+crime
+	saner
+	trice 92
+	crime 1
+	3
+smart
+	saner
+	strap 16
+	smart 1
+	3
+begin
+	saner
+	ovine 42
+	elfin 3
+	begin 1
+	4
+joust
+	saner
+	hoist 50
+	joust 2
+	3
+beady
+	saner
+	dealt 90
+	heady 2
+	beady 1
+	4
+ovate
+	saner
+	dealt 90
+	agate 3
+	ovate 1
+	4
+toxic
+	saner
+	could 219
+	topic 4
+	toxic 1
+	4
+admin
+	saner
+	align 34
+	admin 1
+	3
+later
+	saner
+	taper 27
+	eater 5
+	cater 4
+	water 3
+	hater 2
+	later 1
+	7
+dross
+	saner
+	truss 25
+	cross 3
+	gross 2
+	dross 1
+	5
+dwelt
+	saner
+	elite 140
+	dwelt 1
+	3
+swami
+	saner
+	shalt 36
+	scamp 6
+	swami 1
+	4
+junto
+	saner
+	tonic 39
+	junto 1
+	3
+guess
+	saner
+	those 36
+	bless 2
+	guess 1
+	4
+clout
+	saner
+	could 219
+	clout 1
+	3
+welch
+	saner
+	elite 140
+	welch 12
+	3
+tilde
+	saner
+	elite 140
+	lithe 3
+	tilde 1
+	4
+blond
+	saner
+	glint 68
+	plunk 3
+	blond 1
+	4
+merry
+	saner
+	trice 92
+	berry 11
+	ferry 2
+	merry 1
+	5
+track
+	saner
+	craft 68
+	track 1
+	3
+frisk
+	saner
+	truss 25
+	crisp 4
+	brisk 2
+	frisk 1
+	5
+otter
+	saner
+	older 76
+	outer 4
+	otter 1
+	4
+soapy
+	saner
+	shalt 36
+	scamp 6
+	soapy 1
+	4
+smoky
+	saner
+	spilt 74
+	smock 9
+	smoky 1
+	4
+ember
+	saner
+	older 76
+	fiber 27
+	tuber 3
+	cyber 2
+	ember 1
+	6
+twang
+	saner
+	align 34
+	twang 1
+	3
+demur
+	saner
+	decor 7
+	demur 1
+	3
+drawn
+	saner
+	grand 21
+	drain 2
+	drawn 1
+	4
+young
+	saner
+	glint 68
+	young 1
+	3
+tramp
+	saner
+	craft 68
+	trawl 4
+	tramp 1
+	4
+sower
+	saner
+	sewer 9
+	sower 1
+	3
+inept
+	saner
+	ovine 42
+	elfin 3
+	inept 1
+	4
+tempo
+	saner
+	elite 140
+	depot 7
+	tempo 1
+	4
+mouse
+	saner
+	those 36
+	poise 6
+	louse 2
+	mouse 1
+	5
+caddy
+	saner
+	catty 71
+	cabby 2
+	caddy 1
+	4
+manic
+	saner
+	canny 21
+	panic 2
+	manic 1
+	4
+titan
+	saner
+	align 34
+	chain 2
+	titan 1
+	4
+fifth
+	saner
+	could 219
+	fight 19
+	fifth 1
+	4
+teach
+	saner
+	dealt 90
+	heath 3
+	teach 1
+	4
+drier
+	saner
+	older 76
+	drier 5
+	3
+smite
+	saner
+	slept 37
+	suite 5
+	smite 1
+	4
+marsh
+	saner
+	harsh 3
+	marsh 1
+	3
+idiom
+	saner
+	could 219
+	idiom 4
+	3
+filth
+	saner
+	could 219
+	filmy 10
+	filth 1
+	4
+learn
+	saner
+	yearn 4
+	learn 1
+	3
+totem
+	saner
+	betel 49
+	octet 2
+	totem 1
+	4
+prank
+	saner
+	grand 21
+	crank 3
+	prank 2
+	4
+corer
+	saner
+	older 76
+	rower 18
+	corer 1
+	4
+sigma
+	saner
+	shalt 36
+	squad 4
+	sigma 1
+	4
+tying
+	saner
+	glint 68
+	tying 2
+	3
+grunt
+	saner
+	groin 36
+	grunt 1
+	3
+recut
+	saner
+	trice 92
+	recut 1
+	3
+murky
+	saner
+	court 113
+	burly 5
+	murky 1
+	4
+grasp
+	saner
+	brass 9
+	crash 3
+	grasp 1
+	4
+conic
+	saner
+	tonic 39
+	ionic 2
+	conic 1
+	4
+apnea
+	saner
+	apnea 2
+	2
+droop
+	saner
+	court 113
+	droop 13
+	3
+balmy
+	saner
+	catty 71
+	badly 16
+	balmy 1
+	4
+haste
+	saner
+	pause 11
+	caste 5
+	baste 4
+	taste 3
+	waste 2
+	haste 1
+	7
+inane
+	saner
+	agent 23
+	plane 2
+	inane 1
+	4
+spill
+	saner
+	spilt 74
+	spill 1
+	3
+recap
+	saner
+	trace 61
+	recap 1
+	3
+wiser
+	saner
+	miser 7
+	riser 2
+	wiser 1
+	4
+imbue
+	saner
+	elite 140
+	movie 7
+	imbue 1
+	4
+dolly
+	saner
+	could 219
+	godly 2
+	dolly 1
+	4
+sleek
+	saner
+	steel 14
+	sleep 2
+	sleek 1
+	4
+greed
+	saner
+	tried 27
+	freed 4
+	greed 3
+	4
+goofy
+	saner
+	could 219
+	boozy 14
+	goofy 1
+	4
+allay
+	saner
+	aloft 94
+	alibi 4
+	alpha 2
+	allay 1
+	5
+medic
+	saner
+	elite 140
+	medic 1
+	3
+brick
+	saner
+	court 113
+	prick 4
+	brick 1
+	4
+roomy
+	saner
+	court 113
+	roomy 6
+	3
+print
+	saner
+	groin 36
+	brink 4
+	print 1
+	4
+store
+	saner
+	shire 12
+	spore 4
+	score 3
+	swore 2
+	store 1
+	6
+yacht
+	saner
+	catty 71
+	yacht 1
+	3
+crash
+	saner
+	brass 9
+	crash 3
+	3
+badly
+	saner
+	catty 71
+	badly 16
+	3
+brush
+	saner
+	truss 25
+	crush 2
+	brush 1
+	4
+burst
+	saner
+	truss 25
+	burst 1
+	3
+risen
+	saner
+	risen 1
+	2
+fetal
+	saner
+	dealt 90
+	petal 3
+	fetal 2
+	4
+husky
+	saner
+	hoist 50
+	humus 2
+	husky 1
+	4
+alley
+	saner
+	abbey 3
+	alley 1
+	3
+poker
+	saner
+	older 76
+	rower 18
+	mover 9
+	poker 4
+	5
+puffy
+	saner
+	could 219
+	guppy 10
+	putty 2
+	puffy 1
+	5
+shied
+	saner
+	steel 14
+	spied 2
+	shied 1
+	4
+swine
+	saner
+	spent 13
+	shone 4
+	swine 1
+	4
+tonga
+	saner
+	tonal 10
+	tonga 1
+	3
+theme
+	saner
+	elite 140
+	theme 1
+	3
+crust
+	saner
+	truss 25
+	crust 1
+	3
+youth
+	saner
+	could 219
+	mouth 5
+	youth 1
+	4
+bacon
+	saner
+	taint 19
+	wagon 4
+	bacon 1
+	4
+setup
+	saner
+	slept 37
+	spite 2
+	setup 1
+	4
+croak
+	saner
+	craft 68
+	croak 1
+	3
+wrote
+	saner
+	trice 92
+	brute 2
+	wrote 1
+	4
+deign
+	saner
+	ovine 42
+	feign 3
+	deign 1
+	4
+staid
+	saner
+	shalt 36
+	stack 4
+	staff 3
+	stamp 2
+	staid 1
+	6
+shaft
+	saner
+	shalt 36
+	shaft 1
+	3
+snout
+	saner
+	snout 30
+	2
+rower
+	saner
+	older 76
+	rower 18
+	3
+brink
+	saner
+	groin 36
+	brink 4
+	3
+lager
+	saner
+	taper 27
+	lager 14
+	3
+lumen
+	saner
+	woken 23
+	lumen 5
+	3
+teary
+	saner
+	trace 61
+	teary 1
+	3
+semen
+	saner
+	seven 3
+	semen 1
+	3
+krill
+	saner
+	court 113
+	drill 10
+	frill 3
+	grill 2
+	krill 1
+	6
+dwarf
+	saner
+	craft 68
+	wharf 2
+	dwarf 1
+	4
+buggy
+	saner
+	could 219
+	guppy 10
+	buggy 1
+	4
+usurp
+	saner
+	truss 25
+	usurp 1
+	3
+uncut
+	saner
+	glint 68
+	uncut 1
+	3
+verso
+	saner
+	terse 17
+	verso 1
+	3
+troop
+	saner
+	court 113
+	throb 6
+	troop 1
+	4
+flung
+	saner
+	glint 68
+	clung 2
+	flung 1
+	4
+scorn
+	saner
+	shorn 5
+	scorn 2
+	3
+newly
+	saner
+	ovine 42
+	newly 5
+	3
+macaw
+	saner
+	catty 71
+	macho 4
+	macaw 1
+	4
+unfed
+	saner
+	woken 23
+	inlet 4
+	unfed 1
+	4
+niece
+	saner
+	ovine 42
+	niche 3
+	niece 1
+	4
+sheer
+	saner
+	sewer 9
+	steer 2
+	sheer 1
+	4
+unzip
+	saner
+	glint 68
+	undid 4
+	unzip 1
+	4
+carol
+	saner
+	party 31
+	carol 5
+	3
+trail
+	saner
+	craft 68
+	trawl 4
+	trail 1
+	4
+beach
+	saner
+	dealt 90
+	peach 6
+	beach 1
+	4
+intro
+	saner
+	groin 36
+	rhino 2
+	intro 1
+	4
+thing
+	saner
+	glint 68
+	tying 2
+	thing 1
+	4
+clack
+	saner
+	aloft 94
+	claim 8
+	clack 1
+	4
+bloke
+	saner
+	elite 140
+	bloke 7
+	3
+retch
+	saner
+	trice 92
+	retch 1
+	3
+graph
+	saner
+	craft 68
+	braid 8
+	gravy 2
+	graph 1
+	5
+refit
+	saner
+	trice 92
+	remit 3
+	refit 1
+	4
+macro
+	saner
+	party 31
+	radio 6
+	macro 1
+	4
+lasso
+	saner
+	palsy 14
+	lasso 1
+	3
+dodge
+	saner
+	elite 140
+	budge 10
+	dodge 1
+	4
+spike
+	saner
+	slept 37
+	spice 3
+	spike 1
+	4
+cumin
+	saner
+	glint 68
+	undid 4
+	cumin 1
+	4
+baker
+	saner
+	taper 27
+	lager 14
+	waver 6
+	racer 4
+	maker 2
+	baker 1
+	7
+delta
+	saner
+	dealt 90
+	delta 1
+	3
+dream
+	saner
+	trace 61
+	bread 6
+	dream 1
+	4
+sandy
+	saner
+	sandy 1
+	2
+shrew
+	saner
+	screw 4
+	shrew 1
+	3
+scant
+	saner
+	stank 13
+	scant 2
+	3
+bunny
+	saner
+	tonic 39
+	funky 4
+	bunny 1
+	4
+snare
+	saner
+	snare 1
+	2
+kneel
+	saner
+	woken 23
+	kneed 2
+	kneel 1
+	4
+ninny
+	saner
+	tonic 39
+	windy 7
+	kinky 3
+	ninny 1
+	5
+umbra
+	saner
+	craft 68
+	mural 10
+	umbra 1
+	4
+strut
+	saner
+	shirt 23
+	strut 1
+	3
+empty
+	saner
+	elite 140
+	empty 1
+	3
+table
+	saner
+	table 23
+	2
+aping
+	saner
+	align 34
+	aging 2
+	aping 1
+	4
+bicep
+	saner
+	betel 49
+	bicep 1
+	3
+wacky
+	saner
+	catty 71
+	wacky 1
+	3
+image
+	saner
+	dealt 90
+	awake 6
+	chafe 2
+	image 1
+	5
+jelly
+	saner
+	elite 140
+	welch 12
+	belly 2
+	jelly 1
+	5
+crack
+	saner
+	craft 68
+	cramp 4
+	crack 3
+	4
+scion
+	saner
+	snout 30
+	scion 1
+	3
+boule
+	saner
+	elite 140
+	lodge 6
+	boule 1
+	4
+pesky
+	saner
+	those 36
+	pesky 1
+	3
+pence
+	saner
+	hence 20
+	fence 2
+	pence 1
+	4
+minty
+	saner
+	tonic 39
+	minty 2
+	3
+taffy
+	saner
+	catty 71
+	tabby 3
+	tally 2
+	taffy 1
+	5
+since
+	saner
+	singe 3
+	since 1
+	3
+stale
+	saner
+	stale 25
+	2
+pudgy
+	saner
+	could 219
+	dumpy 5
+	pudgy 1
+	4
+nadir
+	saner
+	nadir 1
+	2
+tight
+	saner
+	could 219
+	fight 19
+	wight 3
+	tight 2
+	5
+cocoa
+	saner
+	aloft 94
+	mocha 6
+	cocoa 1
+	4
+gecko
+	saner
+	elite 140
+	decoy 8
+	gecko 1
+	4
+brash
+	saner
+	brass 9
+	brash 1
+	3
+nasty
+	saner
+	mason 4
+	nasty 2
+	3
+maize
+	saner
+	table 23
+	gauze 8
+	maize 1
+	4
+purer
+	saner
+	older 76
+	fiber 27
+	ether 9
+	upper 2
+	purer 1
+	6
+loamy
+	saner
+	aloft 94
+	loamy 8
+	3
+aptly
+	saner
+	aloft 94
+	aptly 1
+	3
+woken
+	saner
+	woken 23
+	2
+reset
+	saner
+	reset 1
+	2
+meant
+	saner
+	agent 23
+	leant 2
+	meant 1
+	4
+prude
+	saner
+	trice 92
+	prove 9
+	prude 1
+	4
+sober
+	saner
+	sewer 9
+	super 4
+	sober 2
+	4
+visor
+	saner
+	visor 1
+	2
+abhor
+	saner
+	briar 15
+	abhor 1
+	3
+slant
+	saner
+	stank 13
+	scant 2
+	slant 1
+	4
+zebra
+	saner
+	trace 61
+	relay 8
+	zebra 1
+	4
+cloak
+	saner
+	aloft 94
+	cloak 1
+	3
+avert
+	saner
+	trace 61
+	alert 3
+	avert 1
+	4
+spook
+	saner
+	spilt 74
+	spoof 2
+	spook 1
+	4
+sauce
+	saner
+	saute 3
+	sauce 1
+	3
+shaky
+	saner
+	shalt 36
+	shack 3
+	shaky 1
+	4
+would
+	saner
+	could 219
+	would 1
+	3
+metal
+	saner
+	dealt 90
+	petal 3
+	fetal 2
+	metal 1
+	5
+aback
+	saner
+	aloft 94
+	aphid 2
+	aback 1
+	4
+whoop
+	saner
+	could 219
+	photo 5
+	whoop 1
+	4
+spend
+	saner
+	spent 13
+	spend 1
+	3
+ratty
+	saner
+	party 31
+	ratty 1
+	3
+mummy
+	saner
+	could 219
+	guppy 10
+	fuzzy 2
+	mummy 1
+	5
+forty
+	saner
+	court 113
+	forth 3
+	forty 1
+	4
+chalk
+	saner
+	aloft 94
+	lilac 7
+	chalk 1
+	4
+enemy
+	saner
+	ovine 42
+	needy 5
+	enemy 1
+	4
+oddly
+	saner
+	could 219
+	oddly 1
+	3
+slung
+	saner
+	snout 30
+	slung 6
+	3
+realm
+	saner
+	trace 61
+	ready 7
+	rearm 2
+	realm 1
+	5
+fungi
+	saner
+	tonic 39
+	windy 7
+	fungi 1
+	4
+embed
+	saner
+	betel 49
+	embed 1
+	3
+plied
+	saner
+	betel 49
+	plied 3
+	3
+outdo
+	saner
+	could 219
+	outdo 1
+	3
+flyer
+	saner
+	older 76
+	flier 5
+	flyer 1
+	4
+brief
+	saner
+	tried 27
+	grief 2
+	brief 1
+	4
+erupt
+	saner
+	trice 92
+	erupt 1
+	3
+stair
+	saner
+	sugar 3
+	stair 1
+	3
+trite
+	saner
+	trice 92
+	tripe 3
+	tribe 2
+	trite 1
+	5
+amble
+	saner
+	dealt 90
+	ample 4
+	amble 1
+	4
+flack
+	saner
+	aloft 94
+	flaky 3
+	flack 1
+	4
+spool
+	saner
+	spilt 74
+	spool 1
+	3
+atoll
+	saner
+	aloft 94
+	atoll 1
+	3
+bobby
+	saner
+	could 219
+	boozy 14
+	bobby 1
+	4
+slunk
+	saner
+	snout 30
+	slung 6
+	slunk 1
+	4
+adapt
+	saner
+	aloft 94
+	admit 4
+	adapt 1
+	4
+rumor
+	saner
+	rumor 16
+	2
+pulpy
+	saner
+	could 219
+	bulky 5
+	pulpy 1
+	4
+sappy
+	saner
+	salsa 11
+	savoy 4
+	saucy 2
+	sappy 1
+	5
+rivet
+	saner
+	tried 27
+	rivet 1
+	3
+begun
+	saner
+	ovine 42
+	newly 5
+	begun 1
+	4
+treat
+	saner
+	trace 61
+	treat 2
+	3
+vegan
+	saner
+	agent 23
+	began 2
+	vegan 1
+	4
+jerky
+	saner
+	trice 92
+	berry 11
+	perky 2
+	jerky 1
+	5
+badge
+	saner
+	table 23
+	maybe 2
+	badge 1
+	4
+khaki
+	saner
+	aloft 94
+	whack 6
+	khaki 1
+	4
+syrup
+	saner
+	shirt 23
+	scrub 4
+	syrup 1
+	4
+spoke
+	saner
+	slept 37
+	spice 3
+	spoke 1
+	4
+ruder
+	saner
+	older 76
+	rider 5
+	ruder 1
+	4
+slash
+	saner
+	shalt 36
+	slash 1
+	3
+finch
+	saner
+	tonic 39
+	cinch 4
+	winch 3
+	pinch 2
+	finch 1
+	6
+leper
+	saner
+	older 76
+	liver 5
+	leper 1
+	4
+tread
+	saner
+	trace 61
+	treat 2
+	tread 1
+	4
+slide
+	saner
+	slept 37
+	slime 3
+	slide 2
+	4
+every
+	saner
+	trice 92
+	berry 11
+	query 2
+	every 1
+	5
+stoic
+	saner
+	spilt 74
+	sixth 3
+	stoic 1
+	4
+druid
+	saner
+	court 113
+	gruff 2
+	druid 1
+	4
+altar
+	saner
+	briar 15
+	polar 3
+	altar 1
+	4
+lipid
+	saner
+	could 219
+	livid 2
+	lipid 1
+	4
+flask
+	saner
+	clash 23
+	blast 3
+	glass 2
+	flask 1
+	5
+idler
+	saner
+	older 76
+	idler 1
+	3
+boast
+	saner
+	clash 23
+	toast 4
+	boast 1
+	4
+flume
+	saner
+	elite 140
+	bloke 7
+	plume 2
+	flume 1
+	5
+coven
+	saner
+	woken 23
+	dozen 2
+	coven 1
+	4
+cluck
+	saner
+	could 219
+	clump 2
+	cluck 1
+	4
+milky
+	saner
+	could 219
+	filmy 10
+	milky 1
+	4
+chess
+	saner
+	those 36
+	chess 1
+	3
+grain
+	saner
+	grand 21
+	grain 1
+	3
+hover
+	saner
+	older 76
+	rower 18
+	mover 9
+	cover 2
+	hover 1
+	6
+creak
+	saner
+	trace 61
+	cream 2
+	creak 1
+	4
+pizza
+	saner
+	aloft 94
+	quack 6
+	pizza 1
+	4
+grope
+	saner
+	trice 92
+	prove 9
+	grope 1
+	4
+lucky
+	saner
+	could 219
+	mulch 3
+	lucky 1
+	4
+stave
+	saner
+	stale 25
+	stake 4
+	state 3
+	stage 2
+	stave 1
+	6
+bible
+	saner
+	elite 140
+	bilge 2
+	bible 1
+	4
+valet
+	saner
+	cagey 13
+	label 4
+	valet 1
+	4
+shake
+	saner
+	stale 25
+	spade 8
+	shame 4
+	shave 2
+	shake 1
+	6
+knave
+	saner
+	agent 23
+	pecan 2
+	knave 1
+	4
+bleep
+	saner
+	betel 49
+	bleed 2
+	bleep 1
+	4
+petty
+	saner
+	elite 140
+	jetty 5
+	petty 1
+	4
+bravo
+	saner
+	craft 68
+	braid 8
+	brawl 2
+	bravo 1
+	5
+unwed
+	saner
+	woken 23
+	unwed 1
+	3
+bathe
+	saner
+	table 23
+	bathe 1
+	3
+gripe
+	saner
+	trice 92
+	pride 8
+	gripe 1
+	4
+adorn
+	saner
+	grand 21
+	adorn 1
+	3
+glean
+	saner
+	agent 23
+	glean 1
+	3
+clove
+	saner
+	elite 140
+	bloke 7
+	clove 2
+	4
+clock
+	saner
+	could 219
+	cloth 2
+	clock 1
+	4
+fleet
+	saner
+	betel 49
+	fleet 1
+	3
+civil
+	saner
+	could 219
+	climb 4
+	civil 1
+	4
+riper
+	saner
+	older 76
+	fiber 27
+	giver 7
+	piper 3
+	riper 1
+	6
+aisle
+	saner
+	least 17
+	aisle 1
+	3
+prawn
+	saner
+	grand 21
+	brawn 4
+	prawn 1
+	4
+quilt
+	saner
+	could 219
+	guilt 7
+	built 2
+	quilt 1
+	5
+rarer
+	saner
+	taper 27
+	lager 14
+	waver 6
+	racer 4
+	rarer 1
+	6
+joker
+	saner
+	older 76
+	rower 18
+	mover 9
+	poker 4
+	joker 1
+	6
+birch
+	saner
+	court 113
+	prick 4
+	birch 1
+	4
+knelt
+	saner
+	ovine 42
+	needy 5
+	knelt 1
+	4
+quiet
+	saner
+	betel 49
+	duvet 5
+	quiet 1
+	4
+blitz
+	saner
+	could 219
+	filmy 10
+	blitz 1
+	4
+found
+	saner
+	glint 68
+	phony 9
+	mound 4
+	wound 3
+	bound 2
+	found 1
+	7
+ombre
+	saner
+	trice 92
+	rouge 13
+	ombre 1
+	4
+sworn
+	saner
+	shorn 5
+	scorn 2
+	sworn 1
+	4
+liner
+	saner
+	miner 7
+	finer 3
+	diner 2
+	liner 1
+	5
+imply
+	saner
+	could 219
+	willy 5
+	imply 1
+	4
+angle
+	saner
+	agent 23
+	angle 1
+	3
+knoll
+	saner
+	glint 68
+	nylon 4
+	knoll 1
+	4
+among
+	saner
+	align 34
+	agony 2
+	among 1
+	4
+loath
+	saner
+	aloft 94
+	total 3
+	loath 1
+	4
+skier
+	saner
+	sewer 9
+	surer 4
+	sober 2
+	skier 1
+	5
+clued
+	saner
+	betel 49
+	plied 3
+	clued 1
+	4
+swash
+	saner
+	shalt 36
+	smash 2
+	swash 1
+	4
+biome
+	saner
+	elite 140
+	movie 7
+	biome 1
+	4
+sonic
+	saner
+	sunny 3
+	sonic 1
+	3
+union
+	saner
+	glint 68
+	unify 3
+	union 1
+	4
+silky
+	saner
+	spilt 74
+	silky 2
+	3
+those
+	saner
+	those 36
+	2
+spade
+	saner
+	stale 25
+	spade 8
+	3
+scoop
+	saner
+	spilt 74
+	swoop 2
+	scoop 1
+	4
+booby
+	saner
+	could 219
+	boozy 14
+	booty 2
+	booby 1
+	5
+cadet
+	saner
+	cagey 13
+	camel 3
+	cadet 1
+	4
+disco
+	saner
+	hoist 50
+	disco 1
+	3
+taint
+	saner
+	taint 19
+	2
+notch
+	saner
+	glint 68
+	nutty 2
+	notch 1
+	4
+verse
+	saner
+	terse 17
+	verse 1
+	3
+goner
+	saner
+	miner 7
+	owner 2
+	goner 1
+	4
+strap
+	saner
+	strap 16
+	2
+leech
+	saner
+	elite 140
+	leech 1
+	3
+mango
+	saner
+	canny 21
+	manga 6
+	mango 1
+	4
+drank
+	saner
+	grand 21
+	drank 1
+	3
+ditto
+	saner
+	could 219
+	idiom 4
+	ditto 1
+	4
+thigh
+	saner
+	could 219
+	fight 19
+	thigh 1
+	4
+mangy
+	saner
+	canny 21
+	manly 6
+	mangy 1
+	4
+dodgy
+	saner
+	could 219
+	dowdy 7
+	dodgy 1
+	4
+natal
+	saner
+	taint 19
+	baton 2
+	natal 1
+	4
+older
+	saner
+	older 76
+	2
+briny
+	saner
+	groin 36
+	brink 4
+	briny 1
+	4
+sleet
+	saner
+	steel 14
+	sleet 1
+	3
+tonal
+	saner
+	tonga 10
+	tonal 1
+	3
+scary
+	saner
+	strap 16
+	scarf 5
+	scary 1
+	4
+bribe
+	saner
+	trice 92
+	pride 8
+	grime 2
+	bribe 1
+	5
+bloom
+	saner
+	could 219
+	gloom 5
+	bloom 1
+	4
+juicy
+	saner
+	could 219
+	butch 6
+	quick 2
+	juicy 1
+	5
+gloss
+	saner
+	hoist 50
+	floss 2
+	gloss 1
+	4
+under
+	saner
+	inter 7
+	under 1
+	3
+agile
+	saner
+	dealt 90
+	ample 4
+	agile 1
+	4
+spiny
+	saner
+	snout 30
+	sling 5
+	shiny 2
+	spiny 1
+	5
+saner
+	saner
+	-1
+being
+	saner
+	ovine 42
+	eking 3
+	being 1
+	4
+block
+	saner
+	could 219
+	flock 2
+	block 1
+	4
+lorry
+	saner
+	court 113
+	worry 3
+	lorry 1
+	4
+motto
+	saner
+	could 219
+	boozy 14
+	motto 1
+	4
+idiot
+	saner
+	could 219
+	idiom 4
+	idiot 1
+	4
+solid
+	saner
+	spilt 74
+	silky 2
+	solid 1
+	4
+array
+	saner
+	craft 68
+	broad 4
+	array 1
+	4
+endow
+	saner
+	ovine 42
+	demon 6
+	endow 1
+	4
+vivid
+	saner
+	could 219
+	vivid 2
+	3
+berth
+	saner
+	trice 92
+	retro 7
+	berth 1
+	4
+picky
+	saner
+	could 219
+	which 8
+	mimic 2
+	picky 1
+	5
+optic
+	saner
+	could 219
+	optic 1
+	3
+slink
+	saner
+	snout 30
+	sling 5
+	slink 1
+	4
+breed
+	saner
+	tried 27
+	freed 4
+	greed 3
+	breed 2
+	5
+condo
+	saner
+	tonic 39
+	conch 2
+	condo 1
+	4
+clang
+	saner
+	align 34
+	gland 2
+	clang 1
+	4
+flake
+	saner
+	dealt 90
+	blame 7
+	place 3
+	glaze 2
+	flake 1
+	6
+click
+	saner
+	could 219
+	climb 4
+	cliff 2
+	click 1
+	5
+local
+	saner
+	aloft 94
+	loamy 8
+	local 1
+	4
+annex
+	saner
+	apnea 2
+	annex 1
+	3
+scent
+	saner
+	spent 13
+	scent 1
+	3
+churn
+	saner
+	groin 36
+	churn 1
+	3
+pixel
+	saner
+	betel 49
+	model 6
+	pixel 1
+	4
+seize
+	saner
+	slept 37
+	smoke 4
+	segue 2
+	seize 1
+	5
+kitty
+	saner
+	could 219
+	fight 19
+	witty 3
+	bitty 2
+	kitty 1
+	6
+canon
+	saner
+	canny 21
+	canon 1
+	3
+epoxy
+	saner
+	elite 140
+	epoch 2
+	epoxy 1
+	4
+spank
+	saner
+	stank 13
+	shank 2
+	spank 1
+	4
+sweet
+	saner
+	steel 14
+	sheet 2
+	sweet 1
+	4
+human
+	saner
+	align 34
+	woman 2
+	human 1
+	4
+guard
+	saner
+	craft 68
+	board 8
+	award 2
+	guard 1
+	5
+geese
+	saner
+	those 36
+	guise 3
+	geese 1
+	4
+posit
+	saner
+	hoist 50
+	posit 1
+	3
+prose
+	saner
+	terse 17
+	rouse 2
+	prose 1
+	4
+eying
+	saner
+	ovine 42
+	eking 3
+	eying 1
+	4
+angst
+	saner
+	gnash 2
+	angst 1
+	3
+koala
+	saner
+	aloft 94
+	loamy 8
+	koala 1
+	4
+glare
+	saner
+	trace 61
+	flare 4
+	blare 2
+	glare 1
+	5
+ranch
+	saner
+	randy 2
+	ranch 1
+	3
+loopy
+	saner
+	could 219
+	folio 5
+	loopy 1
+	4
+anime
+	saner
+	agent 23
+	ankle 3
+	anode 2
+	anime 1
+	5
+irate
+	saner
+	trace 61
+	irate 2
+	3
+trash
+	saner
+	brass 9
+	crash 3
+	trash 1
+	4
+haunt
+	saner
+	taint 19
+	jaunt 5
+	gaunt 4
+	haunt 3
+	5
+extra
+	saner
+	trace 61
+	alert 3
+	extra 1
+	4
+sissy
+	saner
+	spilt 74
+	sushi 3
+	sissy 1
+	4
+lemon
+	saner
+	ovine 42
+	demon 6
+	lemon 1
+	4
+knack
+	saner
+	align 34
+	thank 4
+	knack 1
+	4
+genie
+	saner
+	hence 20
+	venue 3
+	genie 2
+	4
+nudge
+	saner
+	ovine 42
+	uncle 3
+	nudge 1
+	4
+above
+	saner
+	dealt 90
+	awoke 4
+	above 1
+	4
+fetch
+	saner
+	elite 140
+	depot 7
+	fetch 1
+	4
+robot
+	saner
+	court 113
+	robot 1
+	3
+gauge
+	saner
+	table 23
+	gauze 8
+	gauge 1
+	4
+crawl
+	saner
+	craft 68
+	cramp 4
+	crack 3
+	crawl 2
+	5
+sprig
+	saner
+	shirt 23
+	sprig 1
+	3
+glove
+	saner
+	elite 140
+	bloke 7
+	clove 2
+	glove 1
+	5
+might
+	saner
+	could 219
+	fight 19
+	wight 3
+	tight 2
+	might 1
+	6
+guide
+	saner
+	elite 140
+	voice 6
+	guide 1
+	4
+ninth
+	saner
+	tonic 39
+	minty 2
+	ninth 1
+	4
+style
+	saner
+	slept 37
+	stole 2
+	style 1
+	4
+porch
+	saner
+	court 113
+	rocky 2
+	porch 1
+	4
+canny
+	saner
+	canny 21
+	2
+cress
+	saner
+	terse 17
+	press 4
+	cress 2
+	4
+ralph
+	saner
+	party 31
+	rapid 2
+	ralph 1
+	4
+azure
+	saner
+	trace 61
+	adore 3
+	afire 2
+	azure 1
+	5
+beset
+	saner
+	upset 4
+	beset 1
+	3
+arose
+	saner
+	arise 3
+	arose 1
+	3
+ovoid
+	saner
+	could 219
+	ovoid 1
+	3
+teddy
+	saner
+	elite 140
+	depot 7
+	teddy 1
+	4
+video
+	saner
+	betel 49
+	dicey 7
+	video 1
+	4
+shyly
+	saner
+	spilt 74
+	sully 6
+	shyly 1
+	4
+beard
+	saner
+	trace 61
+	ready 7
+	heard 2
+	beard 1
+	5
+bread
+	saner
+	trace 61
+	bread 6
+	3
+onset
+	saner
+	nosey 3
+	onset 1
+	3
+howdy
+	saner
+	could 219
+	dowdy 7
+	howdy 1
+	4
+match
+	saner
+	catty 71
+	latch 6
+	batch 5
+	patch 4
+	hatch 3
+	match 2
+	7
+gamer
+	saner
+	taper 27
+	lager 14
+	gayer 3
+	gazer 2
+	gamer 1
+	6
+ozone
+	saner
+	ovine 42
+	ozone 1
+	3
+choir
+	saner
+	rumor 16
+	choir 1
+	3
+snake
+	saner
+	sneak 3
+	snake 1
+	3
+shrub
+	saner
+	shirt 23
+	shrug 2
+	shrub 1
+	4
+cabal
+	saner
+	catty 71
+	cavil 4
+	cabal 1
+	4
+twirl
+	saner
+	court 113
+	third 2
+	twirl 1
+	4
+write
+	saner
+	trice 92
+	write 1
+	3
+utter
+	saner
+	older 76
+	fiber 27
+	ether 9
+	utter 1
+	5
+tepid
+	saner
+	elite 140
+	befit 4
+	tepid 1
+	4
+mince
+	saner
+	hence 20
+	wince 4
+	mince 1
+	4
+ennui
+	saner
+	hence 20
+	ennui 1
+	3
+splat
+	saner
+	shalt 36
+	splat 1
+	3
+decor
+	saner
+	decor 7
+	2
+savvy
+	saner
+	salsa 11
+	savoy 4
+	savvy 1
+	4
+polka
+	saner
+	aloft 94
+	loamy 8
+	vocal 3
+	polka 1
+	5
+slice
+	saner
+	slept 37
+	slime 3
+	slide 2
+	slice 1
+	5
+hinge
+	saner
+	hence 20
+	hinge 1
+	3
+parse
+	saner
+	raise 2
+	parse 1
+	3
+crumb
+	saner
+	court 113
+	crump 2
+	crumb 1
+	4
+mealy
+	saner
+	dealt 90
+	mealy 1
+	3
+level
+	saner
+	betel 49
+	jewel 2
+	level 1
+	4
+often
+	saner
+	woken 23
+	olden 2
+	often 1
+	4
+penne
+	saner
+	hence 20
+	venue 3
+	genie 2
+	penne 1
+	5
+ghoul
+	saner
+	could 219
+	ghoul 2
+	3
+cigar
+	saner
+	briar 15
+	vicar 2
+	cigar 1
+	4
+wrong
+	saner
+	groin 36
+	prong 2
+	wrong 1
+	4
+blank
+	saner
+	align 34
+	plank 6
+	clank 3
+	flank 2
+	blank 1
+	6
+flair
+	saner
+	briar 15
+	chair 2
+	flair 1
+	4
+bigot
+	saner
+	could 219
+	photo 5
+	bigot 1
+	4
+wrest
+	saner
+	terse 17
+	crest 2
+	wrest 1
+	4
+small
+	saner
+	shalt 36
+	scald 4
+	small 1
+	4
+rupee
+	saner
+	tried 27
+	puree 5
+	rupee 1
+	4
+chime
+	saner
+	elite 140
+	voice 6
+	chide 2
+	chime 1
+	5
+odder
+	saner
+	older 76
+	order 2
+	odder 1
+	4
+abled
+	saner
+	abbey 3
+	abled 1
+	3
+giant
+	saner
+	align 34
+	giant 1
+	3
+donor
+	saner
+	honor 3
+	donor 1
+	3
+daunt
+	saner
+	taint 19
+	jaunt 5
+	gaunt 4
+	haunt 3
+	daunt 2
+	6
+witch
+	saner
+	could 219
+	which 8
+	witch 1
+	4
+fizzy
+	saner
+	could 219
+	fight 19
+	fizzy 1
+	4
+creed
+	saner
+	tried 27
+	freed 4
+	greed 3
+	breed 2
+	creed 1
+	6
+curse
+	saner
+	terse 17
+	worse 4
+	purse 2
+	curse 1
+	5
+large
+	saner
+	large 6
+	2
+below
+	saner
+	elite 140
+	welch 12
+	below 1
+	4
+slain
+	saner
+	stank 13
+	snail 3
+	slain 1
+	4
+ficus
+	saner
+	hoist 50
+	music 3
+	ficus 1
+	4
+geeky
+	saner
+	elite 140
+	beech 4
+	geeky 2
+	4
+goody
+	saner
+	could 219
+	dowdy 7
+	moody 2
+	goody 1
+	5
+resin
+	saner
+	nurse 2
+	resin 1
+	3
+droll
+	saner
+	court 113
+	droop 13
+	droll 1
+	4
+toxin
+	saner
+	glint 68
+	toxin 1
+	3
+along
+	saner
+	align 34
+	along 1
+	3
+fiend
+	saner
+	ovine 42
+	fiend 1
+	3
+preen
+	saner
+	green 3
+	preen 1
+	3
+felon
+	saner
+	ovine 42
+	demon 6
+	felon 1
+	4
+daily
+	saner
+	catty 71
+	badly 16
+	dally 2
+	daily 1
+	5
+start
+	saner
+	strap 16
+	stark 2
+	start 1
+	4
+whole
+	saner
+	elite 140
+	lodge 6
+	whole 1
+	4
+smirk
+	saner
+	shirt 23
+	swirl 2
+	smirk 1
+	4
+frank
+	saner
+	grand 21
+	crank 3
+	prank 2
+	frank 1
+	5
+pedal
+	saner
+	dealt 90
+	medal 2
+	pedal 1
+	4
+vital
+	saner
+	aloft 94
+	tubal 3
+	vital 1
+	4
+nasal
+	saner
+	mason 4
+	nasty 2
+	nasal 1
+	4
+egret
+	saner
+	tried 27
+	beret 2
+	egret 1
+	4
+meaty
+	saner
+	dealt 90
+	heath 3
+	meaty 1
+	4
+derby
+	saner
+	trice 92
+	berry 11
+	derby 1
+	4
+watch
+	saner
+	catty 71
+	latch 6
+	batch 5
+	patch 4
+	hatch 3
+	match 2
+	watch 1
+	8
+girly
+	saner
+	court 113
+	dryly 10
+	girly 1
+	4
+swarm
+	saner
+	strap 16
+	scarf 5
+	shard 3
+	swarm 1
+	5
+dowel
+	saner
+	betel 49
+	model 6
+	dowel 1
+	4
+crazy
+	saner
+	craft 68
+	cramp 4
+	crack 3
+	crawl 2
+	crazy 1
+	6
+rugby
+	saner
+	court 113
+	burly 5
+	rugby 1
+	4
+lurid
+	saner
+	court 113
+	burly 5
+	lurid 1
+	4
+dowry
+	saner
+	court 113
+	worry 3
+	dowry 1
+	4
+equal
+	saner
+	dealt 90
+	alike 6
+	equal 1
+	4
+other
+	saner
+	older 76
+	outer 4
+	other 1
+	4
+berry
+	saner
+	trice 92
+	berry 11
+	3
+reply
+	saner
+	trice 92
+	berry 11
+	reedy 2
+	reply 1
+	5
+qualm
+	saner
+	aloft 94
+	lilac 7
+	qualm 1
+	4
+gonad
+	saner
+	tonga 10
+	gonad 1
+	3
+sport
+	saner
+	shirt 23
+	spurt 2
+	sport 1
+	4
+flick
+	saner
+	could 219
+	flick 1
+	3
+stint
+	saner
+	snout 30
+	stint 1
+	3
+stick
+	saner
+	spilt 74
+	stiff 3
+	stick 1
+	4
+urban
+	saner
+	grand 21
+	urban 1
+	3
+vaunt
+	saner
+	taint 19
+	jaunt 5
+	gaunt 4
+	haunt 3
+	daunt 2
+	vaunt 1
+	7
+weedy
+	saner
+	elite 140
+	beech 4
+	geeky 2
+	weedy 1
+	5
+blurb
+	saner
+	court 113
+	blurb 1
+	3
+sumac
+	saner
+	shalt 36
+	squad 4
+	sumac 1
+	4
+dance
+	saner
+	lance 4
+	dance 1
+	3
+amuse
+	saner
+	least 17
+	abuse 2
+	amuse 1
+	4
+known
+	saner
+	glint 68
+	knock 3
+	known 1
+	4
+aunty
+	saner
+	tonga 10
+	aunty 1
+	3
+parry
+	saner
+	party 31
+	parry 1
+	3
+puppy
+	saner
+	could 219
+	guppy 10
+	puppy 1
+	4
+gloat
+	saner
+	aloft 94
+	bloat 2
+	gloat 1
+	4
+spawn
+	saner
+	stank 13
+	snail 3
+	spawn 1
+	4
+rebar
+	saner
+	debar 4
+	rebar 1
+	3
+dryer
+	saner
+	older 76
+	drier 5
+	dryer 1
+	4
+mower
+	saner
+	older 76
+	rower 18
+	power 4
+	tower 3
+	cower 2
+	mower 1
+	7
+serve
+	saner
+	shire 12
+	surge 2
+	serve 1
+	4
+cough
+	saner
+	could 219
+	couch 2
+	cough 1
+	4
+stilt
+	saner
+	spilt 74
+	stilt 1
+	3
+torch
+	saner
+	court 113
+	torch 1
+	3
+carat
+	saner
+	party 31
+	tarot 2
+	carat 1
+	4
+flout
+	saner
+	could 219
+	ghoul 2
+	flout 1
+	4
+maxim
+	saner
+	catty 71
+	gamma 12
+	mambo 2
+	maxim 1
+	5
+paper
+	saner
+	taper 27
+	caper 2
+	paper 1
+	4
+relay
+	saner
+	trace 61
+	relay 8
+	3
+froth
+	saner
+	court 113
+	throb 6
+	froth 1
+	4
+boost
+	saner
+	hoist 50
+	joust 2
+	boost 1
+	4
+judge
+	saner
+	elite 140
+	budge 10
+	fudge 2
+	judge 1
+	5
+pivot
+	saner
+	could 219
+	photo 5
+	pivot 1
+	4
+shock
+	saner
+	spilt 74
+	smock 9
+	shock 1
+	4
+skiff
+	saner
+	spilt 74
+	swish 2
+	skiff 1
+	4
+stunt
+	saner
+	snout 30
+	shunt 2
+	stunt 1
+	4
+comic
+	saner
+	could 219
+	comfy 2
+	comic 1
+	4
+octal
+	saner
+	aloft 94
+	total 3
+	octal 1
+	4
+freer
+	saner
+	older 76
+	fiber 27
+	fewer 3
+	freer 1
+	5
+villa
+	saner
+	aloft 94
+	lilac 7
+	villa 1
+	4
+swamp
+	saner
+	shalt 36
+	scamp 6
+	swamp 1
+	4
+paddy
+	saner
+	catty 71
+	badly 16
+	daddy 2
+	paddy 1
+	5
+lease
+	saner
+	least 17
+	leash 2
+	lease 1
+	4
+dress
+	saner
+	terse 17
+	press 4
+	cress 2
+	dress 1
+	5
+shift
+	saner
+	spilt 74
+	swift 2
+	shift 1
+	4
+snarl
+	saner
+	snarl 1
+	2

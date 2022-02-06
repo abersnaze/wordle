@@ -1,0 +1,12905 @@
+fairy
+	leant
+	mayor 111
+	harpy 9
+	fairy 2
+	4
+brand
+	leant
+	prank 9
+	brand 2
+	3
+tatty
+	leant
+	party 45
+	tatty 6
+	3
+stoic
+	leant
+	south 97
+	stork 8
+	stoop 4
+	stoic 1
+	5
+spare
+	leant
+	scare 38
+	spare 2
+	3
+fleck
+	leant
+	slide 78
+	ulcer 8
+	fleck 1
+	4
+water
+	leant
+	taste 27
+	water 5
+	3
+creme
+	leant
+	prose 208
+	bride 7
+	creme 1
+	4
+sheet
+	leant
+	crest 29
+	sheet 3
+	3
+smelt
+	leant
+	sleet 11
+	smelt 2
+	3
+twist
+	leant
+	hoist 56
+	twist 2
+	3
+dairy
+	leant
+	mayor 111
+	harpy 9
+	fairy 2
+	dairy 1
+	5
+leaky
+	leant
+	lease 6
+	leaky 3
+	3
+allow
+	leant
+	solar 63
+	allow 3
+	3
+rabid
+	leant
+	mayor 111
+	rapid 7
+	rabid 1
+	4
+still
+	leant
+	still 11
+	2
+write
+	leant
+	trite 59
+	write 1
+	3
+sprig
+	leant
+	scour 205
+	shirk 3
+	sprig 1
+	4
+filet
+	leant
+	sleet 11
+	filet 1
+	3
+river
+	leant
+	prose 208
+	cider 18
+	river 4
+	4
+lynch
+	leant
+	lynch 4
+	2
+olive
+	leant
+	slide 78
+	olive 1
+	3
+finch
+	leant
+	sonic 67
+	finch 4
+	3
+retry
+	leant
+	depth 26
+	retry 6
+	3
+baste
+	leant
+	taste 27
+	baste 5
+	3
+bezel
+	leant
+	belle 23
+	bezel 2
+	3
+mayor
+	leant
+	mayor 111
+	2
+saner
+	leant
+	ramen 21
+	saner 1
+	3
+undue
+	leant
+	diner 63
+	undue 3
+	3
+taker
+	leant
+	taste 27
+	taker 3
+	3
+kneed
+	leant
+	diner 63
+	unwed 3
+	kneed 1
+	4
+lease
+	leant
+	lease 6
+	2
+brine
+	leant
+	prone 23
+	brine 2
+	3
+prize
+	leant
+	prose 208
+	prime 5
+	prize 3
+	4
+petal
+	leant
+	petal 4
+	2
+briny
+	leant
+	irony 47
+	briny 1
+	3
+extra
+	leant
+	taste 27
+	extra 2
+	3
+overt
+	leant
+	crest 29
+	overt 2
+	3
+earth
+	leant
+	taste 27
+	earth 1
+	3
+being
+	leant
+	penne 3
+	being 1
+	3
+pesky
+	leant
+	serve 51
+	pesky 1
+	3
+ulcer
+	leant
+	slide 78
+	ulcer 8
+	3
+plain
+	leant
+	plain 4
+	2
+night
+	leant
+	unfit 8
+	night 1
+	3
+churn
+	leant
+	sonic 67
+	churn 1
+	3
+outer
+	leant
+	trite 59
+	outer 8
+	3
+froze
+	leant
+	prose 208
+	drove 5
+	froze 2
+	4
+peace
+	leant
+	heard 15
+	peace 3
+	3
+boxer
+	leant
+	prose 208
+	rover 16
+	mower 6
+	boxer 3
+	5
+creak
+	leant
+	parse 76
+	break 10
+	creak 3
+	4
+manly
+	leant
+	banal 12
+	manly 1
+	3
+moody
+	leant
+	scour 205
+	goody 9
+	moody 2
+	4
+hatch
+	leant
+	party 45
+	hatch 7
+	3
+camel
+	leant
+	cable 33
+	camel 1
+	3
+entry
+	leant
+	inter 9
+	entry 1
+	3
+sloth
+	leant
+	still 11
+	sloth 1
+	3
+march
+	leant
+	mayor 111
+	march 2
+	3
+tibia
+	leant
+	party 45
+	tibia 2
+	3
+mount
+	leant
+	mount 12
+	2
+rarer
+	leant
+	parse 76
+	rarer 2
+	3
+easel
+	leant
+	cable 33
+	easel 4
+	3
+vicar
+	leant
+	mayor 111
+	vicar 6
+	3
+quoth
+	leant
+	south 97
+	quoth 1
+	3
+topic
+	leant
+	south 97
+	topic 6
+	3
+crime
+	leant
+	prose 208
+	bride 7
+	crime 2
+	4
+tuber
+	leant
+	trite 59
+	tuber 3
+	3
+ridge
+	leant
+	prose 208
+	ridge 6
+	3
+adapt
+	leant
+	start 17
+	adapt 2
+	3
+smock
+	leant
+	scour 205
+	smock 2
+	3
+finer
+	leant
+	diner 63
+	finer 2
+	3
+gaffe
+	leant
+	parse 76
+	gauze 10
+	gaffe 1
+	4
+droll
+	leant
+	solid 119
+	droll 3
+	3
+annul
+	leant
+	banal 12
+	annul 1
+	3
+plaza
+	leant
+	slack 36
+	flair 5
+	plaza 1
+	4
+using
+	leant
+	irony 47
+	using 3
+	3
+breed
+	leant
+	prose 208
+	cried 15
+	breed 3
+	4
+burnt
+	leant
+	mount 12
+	burnt 1
+	3
+prime
+	leant
+	prose 208
+	prize 5
+	prime 3
+	4
+bully
+	leant
+	solid 119
+	bully 7
+	3
+sushi
+	leant
+	scour 205
+	sushi 3
+	3
+epoch
+	leant
+	prose 208
+	epoch 2
+	3
+corer
+	leant
+	prose 208
+	rover 16
+	corer 1
+	4
+right
+	leant
+	hoist 56
+	right 5
+	3
+cairn
+	leant
+	manor 45
+	cairn 1
+	3
+fatal
+	leant
+	trial 14
+	fatal 2
+	3
+tenet
+	leant
+	tenet 1
+	2
+ardor
+	leant
+	mayor 111
+	ardor 3
+	3
+woven
+	leant
+	diner 63
+	women 8
+	woven 2
+	4
+bliss
+	leant
+	solid 119
+	bliss 1
+	3
+crump
+	leant
+	scour 205
+	crump 4
+	3
+bravo
+	leant
+	crash 62
+	braid 5
+	bravo 1
+	4
+timer
+	leant
+	trite 59
+	timer 3
+	3
+grief
+	leant
+	prose 208
+	cried 15
+	grief 2
+	4
+prose
+	leant
+	prose 208
+	2
+scent
+	leant
+	scent 3
+	2
+would
+	leant
+	solid 119
+	would 3
+	3
+egret
+	leant
+	crest 29
+	egret 2
+	3
+sweep
+	leant
+	prose 208
+	sweep 5
+	3
+globe
+	leant
+	slide 78
+	globe 8
+	3
+loser
+	leant
+	loser 9
+	2
+chide
+	leant
+	prose 208
+	judge 12
+	chide 1
+	4
+jumpy
+	leant
+	scour 205
+	pudgy 15
+	jumpy 1
+	4
+knock
+	leant
+	sonic 67
+	knock 2
+	3
+piney
+	leant
+	diner 63
+	piney 2
+	3
+rhyme
+	leant
+	prose 208
+	ridge 6
+	rhyme 1
+	4
+awoke
+	leant
+	parse 76
+	abode 5
+	awoke 1
+	4
+offer
+	leant
+	prose 208
+	rover 16
+	offer 2
+	4
+prong
+	leant
+	irony 47
+	prong 3
+	3
+couch
+	leant
+	scour 205
+	couch 4
+	3
+gawky
+	leant
+	mayor 111
+	daisy 17
+	gawky 6
+	4
+humph
+	leant
+	scour 205
+	pudgy 15
+	humph 1
+	4
+tabby
+	leant
+	party 45
+	tabby 3
+	3
+pixie
+	leant
+	prose 208
+	pixie 3
+	3
+frank
+	leant
+	prank 9
+	frank 3
+	3
+maize
+	leant
+	parse 76
+	gauze 10
+	maize 1
+	4
+retro
+	leant
+	depth 26
+	retry 6
+	retro 1
+	4
+limit
+	leant
+	limit 2
+	2
+coupe
+	leant
+	prose 208
+	coupe 1
+	3
+askew
+	leant
+	parse 76
+	askew 2
+	3
+doing
+	leant
+	irony 47
+	doing 3
+	3
+kappa
+	leant
+	mayor 111
+	basis 4
+	kappa 1
+	4
+evade
+	leant
+	scare 38
+	adage 7
+	evade 1
+	4
+broom
+	leant
+	scour 205
+	brood 10
+	broom 2
+	4
+steep
+	leant
+	trite 59
+	steep 3
+	3
+wrung
+	leant
+	irony 47
+	wrung 2
+	3
+could
+	leant
+	solid 119
+	would 3
+	could 1
+	4
+spill
+	leant
+	solid 119
+	skill 6
+	spill 2
+	4
+cabin
+	leant
+	manor 45
+	cabin 3
+	3
+onion
+	leant
+	sonic 67
+	onion 3
+	3
+brawl
+	leant
+	slack 36
+	brawl 7
+	3
+carol
+	leant
+	solar 63
+	carol 2
+	3
+mushy
+	leant
+	scour 205
+	mushy 8
+	3
+vodka
+	leant
+	mayor 111
+	vodka 3
+	3
+flier
+	leant
+	slide 78
+	flier 2
+	3
+clock
+	leant
+	solid 119
+	floor 11
+	clock 2
+	4
+email
+	leant
+	blare 16
+	email 1
+	3
+chose
+	leant
+	prose 208
+	chose 4
+	3
+piety
+	leant
+	trite 59
+	piety 1
+	3
+honor
+	leant
+	sonic 67
+	honor 3
+	3
+reign
+	leant
+	genie 30
+	reign 4
+	3
+guile
+	leant
+	slide 78
+	guile 3
+	3
+bigot
+	leant
+	hoist 56
+	bigot 4
+	3
+break
+	leant
+	parse 76
+	break 10
+	3
+color
+	leant
+	solid 119
+	golly 6
+	color 1
+	4
+kiosk
+	leant
+	scour 205
+	kiosk 1
+	3
+smear
+	leant
+	parse 76
+	smear 3
+	3
+udder
+	leant
+	prose 208
+	cider 18
+	udder 2
+	4
+cache
+	leant
+	parse 76
+	gauze 10
+	cache 3
+	4
+fraud
+	leant
+	crash 62
+	braid 5
+	fraud 1
+	4
+guide
+	leant
+	prose 208
+	judge 12
+	guide 1
+	4
+shack
+	leant
+	crash 62
+	shack 1
+	3
+islet
+	leant
+	sleet 11
+	islet 1
+	3
+knave
+	leant
+	knave 3
+	2
+squad
+	leant
+	mayor 111
+	pizza 5
+	squad 1
+	4
+rouse
+	leant
+	prose 208
+	horse 3
+	rouse 1
+	4
+ratio
+	leant
+	party 45
+	ratio 1
+	3
+scamp
+	leant
+	crash 62
+	scamp 2
+	3
+paddy
+	leant
+	mayor 111
+	daisy 17
+	paddy 4
+	4
+poser
+	leant
+	prose 208
+	poser 1
+	3
+fluke
+	leant
+	slide 78
+	globe 8
+	fluke 3
+	4
+hoist
+	leant
+	hoist 56
+	2
+crest
+	leant
+	crest 29
+	2
+pizza
+	leant
+	mayor 111
+	pizza 5
+	3
+those
+	leant
+	trite 59
+	theme 4
+	those 1
+	4
+boule
+	leant
+	slide 78
+	boule 5
+	3
+novel
+	leant
+	olden 6
+	novel 1
+	3
+theft
+	leant
+	crest 29
+	theft 2
+	3
+whose
+	leant
+	prose 208
+	chose 4
+	whose 1
+	4
+budge
+	leant
+	prose 208
+	judge 12
+	budge 2
+	4
+snoop
+	leant
+	sonic 67
+	swoon 7
+	snoop 1
+	4
+fauna
+	leant
+	canny 11
+	fauna 2
+	3
+bleep
+	leant
+	slide 78
+	ulcer 8
+	bleep 1
+	4
+posse
+	leant
+	prose 208
+	posse 2
+	3
+saint
+	leant
+	taint 10
+	saint 3
+	3
+heart
+	leant
+	feast 5
+	heart 2
+	3
+slump
+	leant
+	solid 119
+	slump 8
+	3
+dilly
+	leant
+	solid 119
+	dilly 1
+	3
+ditto
+	leant
+	south 97
+	ditto 1
+	3
+chore
+	leant
+	prose 208
+	chore 1
+	3
+retch
+	leant
+	depth 26
+	retch 2
+	3
+glint
+	leant
+	glint 3
+	2
+harry
+	leant
+	mayor 111
+	harpy 9
+	harry 2
+	4
+wring
+	leant
+	irony 47
+	bring 5
+	wring 1
+	4
+flute
+	leant
+	title 13
+	flute 1
+	3
+crumb
+	leant
+	scour 205
+	crump 4
+	crumb 1
+	4
+valve
+	leant
+	cable 33
+	valve 5
+	3
+liner
+	leant
+	liner 5
+	2
+track
+	leant
+	stark 13
+	track 1
+	3
+utter
+	leant
+	trite 59
+	utter 2
+	3
+sword
+	leant
+	scour 205
+	sword 1
+	3
+sloop
+	leant
+	solid 119
+	sloop 4
+	3
+hinge
+	leant
+	diner 63
+	since 6
+	hinge 2
+	4
+tardy
+	leant
+	party 45
+	tardy 1
+	3
+paint
+	leant
+	taint 10
+	saint 3
+	paint 2
+	4
+swept
+	leant
+	crest 29
+	sheet 3
+	swept 1
+	4
+felon
+	leant
+	felon 3
+	2
+marry
+	leant
+	mayor 111
+	marry 1
+	3
+mummy
+	leant
+	scour 205
+	pudgy 15
+	mummy 2
+	4
+swore
+	leant
+	prose 208
+	swore 3
+	3
+slope
+	leant
+	slide 78
+	slope 1
+	3
+spore
+	leant
+	prose 208
+	spore 1
+	3
+tramp
+	leant
+	stark 13
+	tramp 2
+	3
+spray
+	leant
+	mayor 111
+	spray 2
+	3
+swoop
+	leant
+	scour 205
+	spook 6
+	swoop 1
+	4
+level
+	leant
+	lever 8
+	level 1
+	3
+penne
+	leant
+	penne 3
+	2
+tango
+	leant
+	tangy 10
+	tango 1
+	3
+fifty
+	leant
+	south 97
+	ditty 7
+	fifty 1
+	4
+cower
+	leant
+	prose 208
+	rover 16
+	mower 6
+	cower 1
+	5
+pulse
+	leant
+	slide 78
+	pulse 1
+	3
+broke
+	leant
+	prose 208
+	drove 5
+	froze 2
+	broke 1
+	5
+edict
+	leant
+	crest 29
+	edict 3
+	3
+scion
+	leant
+	sonic 67
+	scion 1
+	3
+fussy
+	leant
+	scour 205
+	mushy 8
+	fussy 2
+	4
+think
+	leant
+	tying 10
+	think 1
+	3
+caste
+	leant
+	taste 27
+	baste 5
+	caste 4
+	4
+pique
+	leant
+	prose 208
+	pixie 3
+	pique 2
+	4
+badly
+	leant
+	solar 63
+	badly 13
+	3
+noise
+	leant
+	diner 63
+	noise 3
+	3
+sheen
+	leant
+	diner 63
+	women 8
+	sheen 2
+	4
+madly
+	leant
+	solar 63
+	badly 13
+	madly 1
+	4
+goody
+	leant
+	scour 205
+	goody 9
+	3
+grail
+	leant
+	slack 36
+	brawl 7
+	grail 2
+	4
+human
+	leant
+	manor 45
+	human 2
+	3
+aping
+	leant
+	canny 11
+	aping 3
+	3
+neigh
+	leant
+	genie 30
+	reign 4
+	neigh 1
+	4
+snipe
+	leant
+	diner 63
+	noise 3
+	snipe 1
+	4
+gross
+	leant
+	scour 205
+	gross 2
+	3
+abbot
+	leant
+	about 17
+	abbot 1
+	3
+place
+	leant
+	blare 16
+	flake 6
+	glaze 4
+	place 2
+	5
+lunar
+	leant
+	lunar 2
+	2
+cabal
+	leant
+	solar 63
+	cabal 5
+	3
+mimic
+	leant
+	scour 205
+	civic 5
+	mimic 1
+	4
+thumb
+	leant
+	south 97
+	thumb 2
+	3
+stove
+	leant
+	trite 59
+	stove 3
+	3
+haute
+	leant
+	taste 27
+	haute 1
+	3
+giddy
+	leant
+	scour 205
+	giddy 11
+	3
+radar
+	leant
+	mayor 111
+	radar 1
+	3
+swish
+	leant
+	scour 205
+	skiff 5
+	swish 1
+	4
+vomit
+	leant
+	hoist 56
+	vomit 1
+	3
+pupal
+	leant
+	solar 63
+	cabal 5
+	pupal 1
+	4
+scour
+	leant
+	scour 205
+	2
+golly
+	leant
+	solid 119
+	golly 6
+	3
+prude
+	leant
+	prose 208
+	prize 5
+	prude 1
+	4
+depot
+	leant
+	beret 14
+	depot 2
+	3
+south
+	leant
+	south 97
+	2
+emcee
+	leant
+	prose 208
+	judge 12
+	chime 2
+	emcee 1
+	5
+sense
+	leant
+	genie 30
+	pence 6
+	sense 3
+	4
+nobly
+	leant
+	nobly 8
+	2
+dicey
+	leant
+	prose 208
+	dicey 6
+	3
+ethos
+	leant
+	trite 59
+	steep 3
+	ethos 1
+	4
+rally
+	leant
+	solar 63
+	rally 2
+	3
+nanny
+	leant
+	canny 11
+	nanny 2
+	3
+alibi
+	leant
+	solar 63
+	badly 13
+	alibi 2
+	4
+theta
+	leant
+	taste 27
+	theta 1
+	3
+since
+	leant
+	diner 63
+	since 6
+	3
+musty
+	leant
+	south 97
+	musty 4
+	3
+cluck
+	leant
+	solid 119
+	plumb 12
+	cluck 2
+	4
+ether
+	leant
+	trite 59
+	outer 8
+	ether 2
+	4
+click
+	leant
+	solid 119
+	frill 15
+	click 3
+	4
+segue
+	leant
+	serve 51
+	segue 2
+	3
+caddy
+	leant
+	mayor 111
+	daisy 17
+	paddy 4
+	caddy 1
+	5
+pluck
+	leant
+	solid 119
+	plumb 12
+	pluck 1
+	4
+valid
+	leant
+	solar 63
+	valid 4
+	3
+magic
+	leant
+	mayor 111
+	mamma 7
+	magic 1
+	4
+essay
+	leant
+	parse 76
+	askew 2
+	essay 1
+	4
+carve
+	leant
+	parse 76
+	carve 3
+	3
+scrap
+	leant
+	mayor 111
+	scrap 3
+	3
+civic
+	leant
+	scour 205
+	civic 5
+	3
+missy
+	leant
+	scour 205
+	gypsy 6
+	missy 1
+	4
+puffy
+	leant
+	scour 205
+	pudgy 15
+	puffy 2
+	4
+minor
+	leant
+	sonic 67
+	bingo 3
+	minor 1
+	4
+flour
+	leant
+	solid 119
+	floor 11
+	flour 1
+	4
+mirth
+	leant
+	south 97
+	mirth 5
+	3
+proxy
+	leant
+	scour 205
+	brood 10
+	proxy 1
+	4
+slack
+	leant
+	slack 36
+	2
+quail
+	leant
+	slack 36
+	brawl 7
+	quail 2
+	4
+unwed
+	leant
+	diner 63
+	unwed 3
+	3
+fetid
+	leant
+	depth 26
+	fetid 2
+	3
+later
+	leant
+	latte 3
+	later 1
+	3
+trick
+	leant
+	south 97
+	trick 2
+	3
+weird
+	leant
+	serve 51
+	decry 6
+	weird 1
+	4
+enemy
+	leant
+	diner 63
+	envoy 6
+	enemy 1
+	4
+spawn
+	leant
+	grain 13
+	spawn 1
+	3
+today
+	leant
+	party 45
+	today 1
+	3
+decry
+	leant
+	serve 51
+	decry 6
+	3
+mogul
+	leant
+	solid 119
+	wooly 3
+	mogul 1
+	4
+shoot
+	leant
+	hoist 56
+	shoot 3
+	3
+unite
+	leant
+	inter 9
+	unite 1
+	3
+cress
+	leant
+	prose 208
+	dress 3
+	cress 1
+	4
+pubic
+	leant
+	scour 205
+	chuck 8
+	pubic 1
+	4
+chick
+	leant
+	scour 205
+	civic 5
+	chick 1
+	4
+fella
+	leant
+	decal 10
+	fella 1
+	3
+serif
+	leant
+	serve 51
+	serif 2
+	3
+spike
+	leant
+	prose 208
+	spike 2
+	3
+state
+	leant
+	grate 14
+	state 4
+	3
+child
+	leant
+	solid 119
+	build 3
+	child 1
+	4
+knead
+	leant
+	ramen 21
+	knead 3
+	3
+covet
+	leant
+	crest 29
+	covet 2
+	3
+meter
+	leant
+	depth 26
+	retry 6
+	meter 1
+	4
+screw
+	leant
+	prose 208
+	shrew 9
+	screw 1
+	4
+credo
+	leant
+	prose 208
+	credo 3
+	3
+plate
+	leant
+	plate 4
+	2
+slide
+	leant
+	slide 78
+	2
+wrong
+	leant
+	irony 47
+	prong 3
+	wrong 1
+	4
+foggy
+	leant
+	scour 205
+	dodgy 10
+	foggy 1
+	4
+crave
+	leant
+	scare 38
+	crave 4
+	3
+ennui
+	leant
+	diner 63
+	ennui 1
+	3
+elide
+	leant
+	slide 78
+	elide 2
+	3
+spurn
+	leant
+	sonic 67
+	spurn 2
+	3
+reply
+	leant
+	belle 23
+	reply 1
+	3
+tease
+	leant
+	death 6
+	tease 2
+	3
+creed
+	leant
+	prose 208
+	cried 15
+	creed 1
+	4
+crook
+	leant
+	scour 205
+	crook 5
+	3
+curse
+	leant
+	prose 208
+	curse 1
+	3
+prior
+	leant
+	scour 205
+	prior 3
+	3
+lever
+	leant
+	lever 8
+	2
+surge
+	leant
+	prose 208
+	surge 3
+	3
+flood
+	leant
+	solid 119
+	flood 3
+	3
+worry
+	leant
+	scour 205
+	worry 8
+	3
+drown
+	leant
+	sonic 67
+	drown 5
+	3
+elate
+	leant
+	plate 4
+	elate 2
+	3
+octal
+	leant
+	trial 14
+	fatal 2
+	octal 1
+	4
+enact
+	leant
+	enact 1
+	2
+primo
+	leant
+	scour 205
+	worry 8
+	primo 1
+	4
+stave
+	leant
+	grate 14
+	stave 2
+	3
+vault
+	leant
+	aloft 9
+	vault 2
+	3
+heard
+	leant
+	heard 15
+	2
+sumac
+	leant
+	mayor 111
+	sumac 3
+	3
+afoul
+	leant
+	solar 63
+	afoul 4
+	3
+fetus
+	leant
+	depth 26
+	retry 6
+	fetus 1
+	4
+lingo
+	leant
+	lynch 4
+	lingo 1
+	3
+guise
+	leant
+	prose 208
+	guise 1
+	3
+shaky
+	leant
+	crash 62
+	shaky 2
+	3
+scarf
+	leant
+	crash 62
+	scarf 2
+	3
+shark
+	leant
+	crash 62
+	shark 3
+	3
+imply
+	leant
+	solid 119
+	frill 15
+	imply 1
+	4
+squat
+	leant
+	about 17
+	squat 1
+	3
+taken
+	leant
+	taken 2
+	2
+group
+	leant
+	scour 205
+	group 2
+	3
+swine
+	leant
+	prone 23
+	swine 4
+	3
+eight
+	leant
+	crest 29
+	eight 3
+	3
+stray
+	leant
+	party 45
+	stray 1
+	3
+hunky
+	leant
+	sonic 67
+	hunky 2
+	3
+shirk
+	leant
+	scour 205
+	shirk 3
+	3
+thorn
+	leant
+	tonic 14
+	thorn 1
+	3
+flint
+	leant
+	glint 3
+	flint 1
+	3
+ounce
+	leant
+	diner 63
+	ounce 1
+	3
+crick
+	leant
+	scour 205
+	crimp 6
+	crick 1
+	4
+wield
+	leant
+	slide 78
+	wield 4
+	3
+grate
+	leant
+	grate 14
+	2
+wider
+	leant
+	prose 208
+	cider 18
+	wider 2
+	4
+study
+	leant
+	south 97
+	study 4
+	3
+voice
+	leant
+	prose 208
+	vogue 6
+	voice 1
+	4
+slice
+	leant
+	slide 78
+	slice 2
+	3
+risky
+	leant
+	scour 205
+	frisk 4
+	risky 1
+	4
+plush
+	leant
+	solid 119
+	plush 3
+	3
+stain
+	leant
+	stain 2
+	2
+blank
+	leant
+	blank 8
+	2
+cried
+	leant
+	prose 208
+	cried 15
+	3
+baron
+	leant
+	manor 45
+	baron 2
+	3
+chuck
+	leant
+	scour 205
+	chuck 8
+	3
+roger
+	leant
+	prose 208
+	rover 16
+	roger 2
+	4
+libel
+	leant
+	loser 9
+	libel 1
+	3
+blitz
+	leant
+	still 11
+	blitz 1
+	3
+chute
+	leant
+	trite 59
+	chute 3
+	3
+paper
+	leant
+	parse 76
+	paper 2
+	3
+crept
+	leant
+	crest 29
+	crept 1
+	3
+savoy
+	leant
+	mayor 111
+	savoy 1
+	3
+whirl
+	leant
+	solid 119
+	frill 15
+	whirl 1
+	4
+snaky
+	leant
+	grain 13
+	snaky 3
+	3
+outgo
+	leant
+	south 97
+	outgo 5
+	3
+towel
+	leant
+	title 13
+	towel 1
+	3
+tulip
+	leant
+	still 11
+	tulip 2
+	3
+cavil
+	leant
+	solar 63
+	badly 13
+	cavil 1
+	4
+irony
+	leant
+	irony 47
+	2
+stunt
+	leant
+	mount 12
+	stunt 4
+	3
+ovary
+	leant
+	crash 62
+	award 7
+	ovary 2
+	4
+batch
+	leant
+	party 45
+	hatch 7
+	batch 4
+	4
+growl
+	leant
+	solid 119
+	floor 11
+	growl 2
+	4
+tally
+	leant
+	trial 14
+	tally 1
+	3
+eager
+	leant
+	parse 76
+	wager 10
+	eager 1
+	4
+gusto
+	leant
+	south 97
+	gusto 1
+	3
+filmy
+	leant
+	solid 119
+	filmy 6
+	3
+moldy
+	leant
+	solid 119
+	moldy 2
+	3
+deuce
+	leant
+	serve 51
+	wedge 4
+	deuce 1
+	4
+shiny
+	leant
+	irony 47
+	shiny 4
+	3
+laugh
+	leant
+	labor 7
+	laugh 1
+	3
+scene
+	leant
+	prone 23
+	swine 4
+	scene 1
+	4
+ghoul
+	leant
+	solid 119
+	floor 11
+	ghoul 1
+	4
+amaze
+	leant
+	scare 38
+	adage 7
+	amaze 2
+	4
+fault
+	leant
+	float 9
+	fault 1
+	3
+chart
+	leant
+	start 17
+	chart 3
+	3
+rigid
+	leant
+	scour 205
+	rigid 4
+	3
+trait
+	leant
+	start 17
+	trait 2
+	3
+slung
+	leant
+	slink 14
+	slung 1
+	3
+spiny
+	leant
+	irony 47
+	shiny 4
+	spiny 1
+	4
+shade
+	leant
+	scare 38
+	shade 7
+	3
+chaff
+	leant
+	crash 62
+	chaff 2
+	3
+proof
+	leant
+	scour 205
+	brood 10
+	proof 2
+	4
+foray
+	leant
+	mayor 111
+	foray 1
+	3
+cobra
+	leant
+	mayor 111
+	cobra 5
+	3
+chump
+	leant
+	scour 205
+	chuck 8
+	chump 1
+	4
+flail
+	leant
+	slack 36
+	flair 5
+	flail 1
+	4
+brawn
+	leant
+	grain 13
+	brawn 3
+	3
+basis
+	leant
+	mayor 111
+	basis 4
+	3
+taper
+	leant
+	taste 27
+	taker 3
+	taper 2
+	4
+wacky
+	leant
+	mayor 111
+	daisy 17
+	gawky 6
+	wacky 1
+	5
+dirge
+	leant
+	prose 208
+	ridge 6
+	dirge 1
+	4
+unfed
+	leant
+	diner 63
+	unwed 3
+	unfed 1
+	4
+wreak
+	leant
+	parse 76
+	break 10
+	creak 3
+	wreak 2
+	5
+cover
+	leant
+	prose 208
+	rover 16
+	cover 3
+	4
+flown
+	leant
+	nobly 8
+	flown 2
+	3
+bride
+	leant
+	prose 208
+	bride 7
+	3
+aloof
+	leant
+	solar 63
+	afoul 4
+	aloof 1
+	4
+steer
+	leant
+	trite 59
+	outer 8
+	ether 2
+	steer 1
+	5
+troll
+	leant
+	still 11
+	troll 1
+	3
+gonad
+	leant
+	manor 45
+	gonad 1
+	3
+clink
+	leant
+	slink 14
+	clink 2
+	3
+plumb
+	leant
+	solid 119
+	plumb 12
+	3
+eaten
+	leant
+	taken 2
+	eaten 1
+	3
+inner
+	leant
+	diner 63
+	inner 1
+	3
+brief
+	leant
+	prose 208
+	cried 15
+	grief 2
+	brief 1
+	5
+bunny
+	leant
+	irony 47
+	bunny 3
+	3
+flung
+	leant
+	slink 14
+	flung 3
+	3
+bring
+	leant
+	irony 47
+	bring 5
+	3
+draft
+	leant
+	start 17
+	draft 3
+	3
+merry
+	leant
+	serve 51
+	merry 8
+	3
+croak
+	leant
+	mayor 111
+	cobra 5
+	croak 1
+	4
+realm
+	leant
+	realm 3
+	2
+bench
+	leant
+	genie 30
+	bench 3
+	3
+brake
+	leant
+	scare 38
+	grade 9
+	brake 3
+	4
+merit
+	leant
+	beret 14
+	merit 1
+	3
+berry
+	leant
+	serve 51
+	merry 8
+	berry 2
+	4
+smell
+	leant
+	slide 78
+	smell 5
+	3
+blimp
+	leant
+	solid 119
+	frill 15
+	click 3
+	blimp 1
+	5
+weigh
+	leant
+	serve 51
+	medic 5
+	weigh 1
+	4
+ready
+	leant
+	heard 15
+	ready 1
+	3
+penal
+	leant
+	penal 2
+	2
+zebra
+	leant
+	recap 12
+	zebra 1
+	3
+pence
+	leant
+	genie 30
+	pence 6
+	3
+booty
+	leant
+	south 97
+	booty 3
+	3
+fruit
+	leant
+	hoist 56
+	fruit 2
+	3
+hunch
+	leant
+	sonic 67
+	hunch 4
+	3
+recap
+	leant
+	recap 12
+	2
+crypt
+	leant
+	hoist 56
+	crypt 1
+	3
+helix
+	leant
+	belle 23
+	welch 4
+	helix 1
+	4
+heave
+	leant
+	heard 15
+	heave 2
+	3
+queen
+	leant
+	diner 63
+	women 8
+	sheen 2
+	queen 1
+	5
+wager
+	leant
+	parse 76
+	wager 10
+	3
+envoy
+	leant
+	diner 63
+	envoy 6
+	3
+dealt
+	leant
+	dealt 1
+	2
+juicy
+	leant
+	scour 205
+	chuck 8
+	juicy 1
+	4
+plunk
+	leant
+	slink 14
+	plunk 2
+	3
+threw
+	leant
+	trite 59
+	tuber 3
+	threw 1
+	4
+dummy
+	leant
+	scour 205
+	pudgy 15
+	dummy 1
+	4
+after
+	leant
+	taste 27
+	extra 2
+	after 1
+	4
+tying
+	leant
+	tying 10
+	2
+snowy
+	leant
+	sonic 67
+	sworn 7
+	snowy 1
+	4
+tiger
+	leant
+	trite 59
+	timer 3
+	tiger 1
+	4
+datum
+	leant
+	party 45
+	hatch 7
+	datum 1
+	4
+bleat
+	leant
+	bleat 6
+	2
+hitch
+	leant
+	south 97
+	hitch 5
+	3
+ruler
+	leant
+	slide 78
+	wheel 12
+	ruler 2
+	4
+havoc
+	leant
+	mayor 111
+	havoc 1
+	3
+exist
+	leant
+	crest 29
+	exist 1
+	3
+aroma
+	leant
+	mayor 111
+	aroma 1
+	3
+patch
+	leant
+	party 45
+	patch 2
+	3
+shale
+	leant
+	blare 16
+	shale 3
+	3
+block
+	leant
+	solid 119
+	floor 11
+	clock 2
+	block 1
+	5
+youth
+	leant
+	south 97
+	youth 2
+	3
+bough
+	leant
+	scour 205
+	bough 5
+	3
+buyer
+	leant
+	prose 208
+	cider 18
+	buyer 3
+	4
+fable
+	leant
+	cable 33
+	fable 1
+	3
+patio
+	leant
+	party 45
+	patch 2
+	patio 1
+	4
+false
+	leant
+	cable 33
+	valve 5
+	false 1
+	4
+stiff
+	leant
+	south 97
+	stiff 3
+	3
+tacky
+	leant
+	party 45
+	tabby 3
+	taffy 2
+	tacky 1
+	5
+gulch
+	leant
+	solid 119
+	bully 7
+	gulch 2
+	4
+optic
+	leant
+	south 97
+	optic 2
+	3
+arson
+	leant
+	manor 45
+	arson 2
+	3
+quart
+	leant
+	start 17
+	chart 3
+	quart 2
+	4
+viola
+	leant
+	solar 63
+	afoul 4
+	viola 1
+	4
+motor
+	leant
+	south 97
+	topic 6
+	motor 2
+	4
+rapid
+	leant
+	mayor 111
+	rapid 7
+	3
+owing
+	leant
+	irony 47
+	doing 3
+	owing 1
+	4
+scrub
+	leant
+	scour 205
+	scrub 2
+	3
+stair
+	leant
+	stark 13
+	stair 1
+	3
+synod
+	leant
+	sonic 67
+	synod 1
+	3
+loopy
+	leant
+	lumpy 18
+	loopy 1
+	3
+angle
+	leant
+	angel 8
+	angle 1
+	3
+girth
+	leant
+	south 97
+	mirth 5
+	girth 2
+	4
+ratty
+	leant
+	party 45
+	ratty 1
+	3
+blond
+	leant
+	slink 14
+	flung 3
+	blond 1
+	4
+delve
+	leant
+	belle 23
+	delve 2
+	3
+liver
+	leant
+	loser 9
+	liver 1
+	3
+shush
+	leant
+	scour 205
+	sushi 3
+	shush 1
+	4
+recut
+	leant
+	beret 14
+	refit 3
+	recut 1
+	4
+mural
+	leant
+	solar 63
+	mural 4
+	3
+diode
+	leant
+	prose 208
+	biome 5
+	diode 1
+	4
+sugar
+	leant
+	mayor 111
+	vicar 6
+	sugar 1
+	4
+shady
+	leant
+	crash 62
+	shaky 2
+	shady 1
+	4
+woman
+	leant
+	manor 45
+	woman 2
+	3
+venom
+	leant
+	genie 30
+	bench 3
+	venom 1
+	4
+teddy
+	leant
+	depth 26
+	fetid 2
+	teddy 1
+	4
+trove
+	leant
+	trite 59
+	trove 3
+	3
+liege
+	leant
+	loser 9
+	liege 1
+	3
+shard
+	leant
+	crash 62
+	shark 3
+	shard 2
+	4
+eclat
+	leant
+	bleat 6
+	eclat 1
+	3
+mealy
+	leant
+	realm 3
+	mealy 1
+	3
+tepid
+	leant
+	depth 26
+	tepid 1
+	3
+myrrh
+	leant
+	scour 205
+	rigid 4
+	myrrh 1
+	4
+slant
+	leant
+	slant 2
+	2
+gassy
+	leant
+	mayor 111
+	daisy 17
+	gassy 2
+	4
+piggy
+	leant
+	scour 205
+	giddy 11
+	piggy 1
+	4
+sauna
+	leant
+	canny 11
+	fauna 2
+	sauna 1
+	4
+abode
+	leant
+	parse 76
+	abode 5
+	3
+admin
+	leant
+	manor 45
+	human 2
+	admin 1
+	4
+blurt
+	leant
+	built 12
+	blurt 1
+	3
+regal
+	leant
+	decal 10
+	regal 2
+	3
+alley
+	leant
+	cable 33
+	gleam 5
+	alley 1
+	4
+agony
+	leant
+	canny 11
+	agony 1
+	3
+drool
+	leant
+	solid 119
+	droll 3
+	drool 1
+	4
+stake
+	leant
+	grate 14
+	stave 2
+	stake 1
+	4
+death
+	leant
+	death 6
+	2
+krill
+	leant
+	solid 119
+	frill 15
+	krill 2
+	4
+vogue
+	leant
+	prose 208
+	vogue 6
+	3
+slain
+	leant
+	plain 4
+	slain 1
+	3
+snail
+	leant
+	plain 4
+	snail 1
+	3
+sheik
+	leant
+	prose 208
+	sheik 3
+	3
+vital
+	leant
+	trial 14
+	vital 1
+	3
+beget
+	leant
+	beret 14
+	beget 2
+	3
+treat
+	leant
+	cheat 10
+	treat 3
+	3
+story
+	leant
+	south 97
+	stork 8
+	story 2
+	4
+eerie
+	leant
+	serve 51
+	eerie 2
+	3
+quote
+	leant
+	trite 59
+	chute 3
+	quote 1
+	4
+ralph
+	leant
+	solar 63
+	rally 2
+	ralph 1
+	4
+video
+	leant
+	prose 208
+	video 3
+	3
+cloak
+	leant
+	solar 63
+	cloak 2
+	3
+match
+	leant
+	party 45
+	hatch 7
+	batch 4
+	match 3
+	5
+floor
+	leant
+	solid 119
+	floor 11
+	3
+wrest
+	leant
+	crest 29
+	wrest 1
+	3
+torus
+	leant
+	south 97
+	torus 1
+	3
+risen
+	leant
+	diner 63
+	risen 3
+	3
+nutty
+	leant
+	tonic 14
+	nutty 1
+	3
+bingo
+	leant
+	sonic 67
+	bingo 3
+	3
+champ
+	leant
+	crash 62
+	chaff 2
+	champ 1
+	4
+filer
+	leant
+	slide 78
+	filer 3
+	3
+where
+	leant
+	prose 208
+	ridge 6
+	where 2
+	4
+urine
+	leant
+	prone 23
+	brine 2
+	urine 1
+	4
+feast
+	leant
+	feast 5
+	2
+booby
+	leant
+	scour 205
+	goody 9
+	booby 3
+	4
+charm
+	leant
+	crash 62
+	charm 3
+	3
+horse
+	leant
+	prose 208
+	horse 3
+	3
+print
+	leant
+	mount 12
+	print 2
+	3
+jumbo
+	leant
+	scour 205
+	bough 5
+	jumbo 1
+	4
+modem
+	leant
+	prose 208
+	video 3
+	modem 1
+	4
+bongo
+	leant
+	sonic 67
+	honor 3
+	bongo 1
+	4
+fully
+	leant
+	solid 119
+	bully 7
+	fully 2
+	4
+sixty
+	leant
+	south 97
+	sixty 1
+	3
+worst
+	leant
+	hoist 56
+	roost 4
+	worst 1
+	4
+lanky
+	leant
+	lunar 2
+	lanky 1
+	3
+brush
+	leant
+	scour 205
+	brush 2
+	3
+junto
+	leant
+	tonic 14
+	junto 1
+	3
+reuse
+	leant
+	serve 51
+	reuse 1
+	3
+array
+	leant
+	mayor 111
+	spray 2
+	array 1
+	4
+pasta
+	leant
+	party 45
+	pasta 1
+	3
+maker
+	leant
+	parse 76
+	wager 10
+	maker 3
+	4
+shame
+	leant
+	scare 38
+	shade 7
+	shape 4
+	shame 3
+	5
+sappy
+	leant
+	mayor 111
+	daisy 17
+	sappy 3
+	4
+dwell
+	leant
+	slide 78
+	dwell 3
+	3
+crank
+	leant
+	prank 9
+	frank 3
+	crank 2
+	4
+avian
+	leant
+	manor 45
+	avian 1
+	3
+slurp
+	leant
+	solid 119
+	slump 8
+	slurp 1
+	4
+shape
+	leant
+	scare 38
+	shade 7
+	shame 4
+	shape 3
+	5
+angry
+	leant
+	manor 45
+	angry 2
+	3
+cling
+	leant
+	slink 14
+	cling 3
+	3
+scold
+	leant
+	solid 119
+	scold 1
+	3
+relax
+	leant
+	decal 10
+	relax 2
+	3
+smoky
+	leant
+	scour 205
+	spook 6
+	smoky 1
+	4
+their
+	leant
+	trite 59
+	timer 3
+	their 1
+	4
+exact
+	leant
+	exact 1
+	2
+beady
+	leant
+	heard 15
+	beady 1
+	3
+obese
+	leant
+	prose 208
+	house 3
+	obese 1
+	4
+dream
+	leant
+	parse 76
+	break 10
+	dream 3
+	4
+occur
+	leant
+	scour 205
+	occur 1
+	3
+craze
+	leant
+	scare 38
+	crave 4
+	craze 1
+	4
+waist
+	leant
+	about 17
+	yacht 4
+	waist 1
+	4
+debar
+	leant
+	recap 12
+	debar 1
+	3
+trawl
+	leant
+	trawl 4
+	2
+heist
+	leant
+	beret 14
+	depot 2
+	heist 1
+	4
+brink
+	leant
+	irony 47
+	bring 5
+	brink 1
+	4
+tempo
+	leant
+	depth 26
+	tempo 2
+	3
+relay
+	leant
+	decal 10
+	relax 2
+	relay 1
+	4
+older
+	leant
+	slide 78
+	elder 4
+	older 1
+	4
+riser
+	leant
+	prose 208
+	shrew 9
+	riser 2
+	4
+ninth
+	leant
+	tonic 14
+	ninth 2
+	3
+sleek
+	leant
+	slide 78
+	sleek 2
+	3
+payee
+	leant
+	parse 76
+	payee 1
+	3
+shrub
+	leant
+	scour 205
+	shrub 3
+	3
+khaki
+	leant
+	crash 62
+	khaki 1
+	3
+align
+	leant
+	banal 12
+	align 1
+	3
+mucky
+	leant
+	scour 205
+	chuck 8
+	mucky 1
+	4
+stink
+	leant
+	tying 10
+	stink 1
+	3
+vaunt
+	leant
+	taint 10
+	vaunt 5
+	3
+knelt
+	leant
+	knelt 2
+	2
+apply
+	leant
+	solar 63
+	badly 13
+	apply 2
+	4
+naive
+	leant
+	ramen 21
+	dance 3
+	naive 1
+	4
+strip
+	leant
+	south 97
+	stiff 3
+	strip 1
+	4
+saucy
+	leant
+	mayor 111
+	daisy 17
+	sappy 3
+	saucy 2
+	5
+gleam
+	leant
+	cable 33
+	gleam 5
+	3
+scale
+	leant
+	blare 16
+	shale 3
+	scale 1
+	4
+turbo
+	leant
+	south 97
+	outgo 5
+	turbo 1
+	4
+azure
+	leant
+	parse 76
+	afire 4
+	azure 2
+	4
+thyme
+	leant
+	trite 59
+	theme 4
+	thyme 1
+	4
+final
+	leant
+	banal 12
+	final 2
+	3
+snuck
+	leant
+	sonic 67
+	snuck 1
+	3
+dully
+	leant
+	solid 119
+	dully 1
+	3
+stool
+	leant
+	still 11
+	stool 1
+	3
+grown
+	leant
+	sonic 67
+	drown 5
+	grown 3
+	4
+ashen
+	leant
+	ramen 21
+	ashen 1
+	3
+fifth
+	leant
+	south 97
+	mirth 5
+	fifth 2
+	4
+boozy
+	leant
+	scour 205
+	goody 9
+	booby 3
+	boozy 1
+	5
+burly
+	leant
+	solid 119
+	plumb 12
+	burly 1
+	4
+token
+	leant
+	inter 9
+	token 1
+	3
+equip
+	leant
+	prose 208
+	equip 2
+	3
+silly
+	leant
+	solid 119
+	silly 2
+	3
+oaken
+	leant
+	ramen 21
+	oaken 3
+	3
+woody
+	leant
+	scour 205
+	goody 9
+	moody 2
+	woody 1
+	5
+acute
+	leant
+	taste 27
+	acute 1
+	3
+scree
+	leant
+	prose 208
+	surge 3
+	scree 1
+	4
+lobby
+	leant
+	lumpy 18
+	lobby 3
+	3
+ditty
+	leant
+	south 97
+	ditty 7
+	3
+decor
+	leant
+	serve 51
+	decry 6
+	decor 1
+	4
+quota
+	leant
+	party 45
+	quota 2
+	3
+caput
+	leant
+	about 17
+	caput 2
+	3
+table
+	leant
+	table 3
+	2
+vague
+	leant
+	parse 76
+	gauze 10
+	vague 1
+	4
+debit
+	leant
+	beret 14
+	debit 2
+	3
+coven
+	leant
+	diner 63
+	women 8
+	coven 1
+	4
+react
+	leant
+	feast 5
+	heart 2
+	react 1
+	4
+taint
+	leant
+	taint 10
+	2
+local
+	leant
+	labor 7
+	local 2
+	3
+perky
+	leant
+	serve 51
+	merry 8
+	perky 3
+	4
+banal
+	leant
+	banal 12
+	2
+awful
+	leant
+	solar 63
+	badly 13
+	awful 2
+	4
+gnome
+	leant
+	diner 63
+	envoy 6
+	gnome 1
+	4
+cabby
+	leant
+	mayor 111
+	daisy 17
+	gawky 6
+	cabby 3
+	5
+enema
+	leant
+	ramen 21
+	enema 2
+	3
+event
+	leant
+	scent 3
+	event 1
+	3
+ocean
+	leant
+	ramen 21
+	ocean 1
+	3
+newly
+	leant
+	felon 3
+	newly 1
+	3
+prune
+	leant
+	prone 23
+	prune 1
+	3
+royal
+	leant
+	solar 63
+	moral 3
+	royal 1
+	4
+rainy
+	leant
+	canny 11
+	rainy 1
+	3
+clack
+	leant
+	slack 36
+	clack 3
+	3
+bison
+	leant
+	sonic 67
+	bison 1
+	3
+brood
+	leant
+	scour 205
+	brood 10
+	3
+randy
+	leant
+	manor 45
+	randy 2
+	3
+shorn
+	leant
+	sonic 67
+	sworn 7
+	shorn 1
+	4
+choke
+	leant
+	prose 208
+	biome 5
+	choke 2
+	4
+sulky
+	leant
+	solid 119
+	sulky 2
+	3
+brave
+	leant
+	scare 38
+	grade 9
+	brake 3
+	brave 1
+	5
+spite
+	leant
+	trite 59
+	suite 5
+	spite 2
+	4
+crier
+	leant
+	prose 208
+	cried 15
+	crier 1
+	4
+throb
+	leant
+	south 97
+	throb 2
+	3
+stork
+	leant
+	south 97
+	stork 8
+	3
+build
+	leant
+	solid 119
+	build 3
+	3
+llama
+	leant
+	llama 2
+	2
+dandy
+	leant
+	manor 45
+	candy 7
+	dandy 3
+	4
+genre
+	leant
+	genie 30
+	genre 1
+	3
+wooly
+	leant
+	solid 119
+	wooly 3
+	3
+posit
+	leant
+	hoist 56
+	posit 1
+	3
+dress
+	leant
+	prose 208
+	cress 3
+	dress 1
+	4
+short
+	leant
+	hoist 56
+	shoot 3
+	short 2
+	4
+swirl
+	leant
+	solid 119
+	skill 6
+	swirl 1
+	4
+ember
+	leant
+	prose 208
+	cider 18
+	buyer 3
+	ember 1
+	5
+trout
+	leant
+	hoist 56
+	trout 2
+	3
+setup
+	leant
+	depth 26
+	tempo 2
+	setup 1
+	4
+wrath
+	leant
+	stark 13
+	tramp 2
+	wrath 1
+	4
+aloud
+	leant
+	solar 63
+	afoul 4
+	aloud 1
+	4
+shine
+	leant
+	prone 23
+	swine 4
+	shine 1
+	4
+scoff
+	leant
+	scour 205
+	scoff 2
+	3
+whisk
+	leant
+	scour 205
+	gipsy 6
+	whisk 1
+	4
+chord
+	leant
+	scour 205
+	crook 5
+	chord 1
+	4
+fluff
+	leant
+	solid 119
+	plumb 12
+	cluck 2
+	fluff 1
+	5
+delta
+	leant
+	petal 4
+	delta 1
+	3
+groom
+	leant
+	scour 205
+	brood 10
+	proof 2
+	groom 1
+	5
+sewer
+	leant
+	serve 51
+	sewer 1
+	3
+boney
+	leant
+	diner 63
+	boney 3
+	3
+shyly
+	leant
+	solid 119
+	slump 8
+	shyly 1
+	4
+ledge
+	leant
+	lever 8
+	ledge 2
+	3
+hymen
+	leant
+	diner 63
+	women 8
+	hymen 1
+	4
+axiom
+	leant
+	mayor 111
+	axiom 1
+	3
+heady
+	leant
+	heard 15
+	heady 1
+	3
+gusty
+	leant
+	south 97
+	musty 4
+	gusty 3
+	4
+agree
+	leant
+	parse 76
+	agree 1
+	3
+arrow
+	leant
+	mayor 111
+	arrow 1
+	3
+pixel
+	leant
+	slide 78
+	filer 3
+	pixel 1
+	4
+truth
+	leant
+	south 97
+	truth 1
+	3
+femur
+	leant
+	serve 51
+	decry 6
+	femur 1
+	4
+shout
+	leant
+	hoist 56
+	shoot 3
+	short 2
+	shout 1
+	5
+motif
+	leant
+	south 97
+	topic 6
+	motif 1
+	4
+fling
+	leant
+	slink 14
+	cling 3
+	fling 1
+	4
+forth
+	leant
+	south 97
+	forth 4
+	3
+bylaw
+	leant
+	solar 63
+	bylaw 2
+	3
+probe
+	leant
+	prose 208
+	probe 2
+	3
+blush
+	leant
+	solid 119
+	plush 3
+	blush 2
+	4
+shone
+	leant
+	prone 23
+	shone 3
+	3
+crane
+	leant
+	crane 2
+	2
+artsy
+	leant
+	party 45
+	artsy 1
+	3
+issue
+	leant
+	prose 208
+	sieve 3
+	issue 1
+	4
+check
+	leant
+	prose 208
+	dicey 6
+	check 1
+	4
+sneak
+	leant
+	ramen 21
+	knead 3
+	sneak 1
+	4
+hydro
+	leant
+	scour 205
+	worry 8
+	hydro 1
+	4
+hound
+	leant
+	irony 47
+	hound 7
+	3
+salon
+	leant
+	banal 12
+	salon 1
+	3
+graft
+	leant
+	start 17
+	draft 3
+	graft 2
+	4
+amuse
+	leant
+	parse 76
+	amuse 2
+	3
+lucid
+	leant
+	lumpy 18
+	lucid 3
+	3
+bonus
+	leant
+	sonic 67
+	bonus 1
+	3
+molar
+	leant
+	solar 63
+	molar 2
+	3
+share
+	leant
+	scare 38
+	spare 2
+	share 1
+	4
+skull
+	leant
+	solid 119
+	slump 8
+	skull 2
+	4
+stole
+	leant
+	title 13
+	stole 2
+	3
+solve
+	leant
+	slide 78
+	solve 1
+	3
+sorry
+	leant
+	scour 205
+	sorry 1
+	3
+cruel
+	leant
+	slide 78
+	wheel 12
+	cruel 2
+	4
+cagey
+	leant
+	parse 76
+	cagey 2
+	3
+leery
+	leant
+	lever 8
+	leery 1
+	3
+minus
+	leant
+	sonic 67
+	minus 1
+	3
+dizzy
+	leant
+	scour 205
+	giddy 11
+	dizzy 1
+	4
+order
+	leant
+	prose 208
+	credo 3
+	order 1
+	4
+disco
+	leant
+	scour 205
+	disco 1
+	3
+mulch
+	leant
+	solid 119
+	bully 7
+	gulch 2
+	mulch 1
+	5
+brute
+	leant
+	trite 59
+	brute 2
+	3
+wight
+	leant
+	hoist 56
+	right 5
+	wight 4
+	4
+loath
+	leant
+	loath 1
+	2
+coast
+	leant
+	start 17
+	coast 2
+	3
+equal
+	leant
+	cable 33
+	gleam 5
+	equal 1
+	4
+white
+	leant
+	trite 59
+	suite 5
+	white 1
+	4
+beefy
+	leant
+	serve 51
+	beefy 4
+	3
+vivid
+	leant
+	scour 205
+	giddy 11
+	vivid 1
+	4
+bicep
+	leant
+	prose 208
+	equip 2
+	bicep 1
+	4
+lager
+	leant
+	lapel 7
+	lager 2
+	3
+frame
+	leant
+	scare 38
+	grade 9
+	brake 3
+	frame 1
+	5
+while
+	leant
+	slide 78
+	guile 3
+	while 2
+	4
+media
+	leant
+	recap 12
+	media 1
+	3
+spool
+	leant
+	solid 119
+	sloop 4
+	spool 1
+	4
+salty
+	leant
+	trial 14
+	salty 3
+	3
+wound
+	leant
+	irony 47
+	hound 7
+	wound 6
+	4
+heath
+	leant
+	death 6
+	heath 1
+	3
+bland
+	leant
+	blank 8
+	bland 1
+	3
+fresh
+	leant
+	prose 208
+	cress 3
+	fresh 1
+	4
+fecal
+	leant
+	decal 10
+	fecal 1
+	3
+smash
+	leant
+	crash 62
+	swash 4
+	smash 1
+	4
+facet
+	leant
+	cheat 10
+	facet 1
+	3
+fiend
+	leant
+	prone 23
+	eking 3
+	fiend 1
+	4
+aside
+	leant
+	parse 76
+	aside 1
+	3
+stoke
+	leant
+	trite 59
+	stove 3
+	stoke 1
+	4
+scaly
+	leant
+	slack 36
+	scaly 3
+	3
+elbow
+	leant
+	slide 78
+	ulcer 8
+	elbow 2
+	4
+harpy
+	leant
+	mayor 111
+	harpy 9
+	3
+augur
+	leant
+	mayor 111
+	vicar 6
+	augur 1
+	4
+crowd
+	leant
+	scour 205
+	crook 5
+	crowd 1
+	4
+phase
+	leant
+	scare 38
+	phase 3
+	3
+least
+	leant
+	least 2
+	2
+daisy
+	leant
+	mayor 111
+	daisy 17
+	3
+vying
+	leant
+	irony 47
+	vying 2
+	3
+acorn
+	leant
+	manor 45
+	acorn 4
+	3
+pinto
+	leant
+	tonic 14
+	pinto 1
+	3
+toxic
+	leant
+	south 97
+	topic 6
+	toxic 1
+	4
+grave
+	leant
+	scare 38
+	grade 9
+	grave 3
+	4
+balmy
+	leant
+	solar 63
+	valid 4
+	balmy 1
+	4
+arise
+	leant
+	parse 76
+	arise 2
+	3
+gripe
+	leant
+	prose 208
+	gripe 2
+	3
+grasp
+	leant
+	crash 62
+	grasp 3
+	3
+apnea
+	leant
+	ramen 21
+	apnea 2
+	3
+dunce
+	leant
+	diner 63
+	dunce 1
+	3
+etude
+	leant
+	trite 59
+	stove 3
+	etude 1
+	4
+hurry
+	leant
+	scour 205
+	furry 8
+	hurry 1
+	4
+latte
+	leant
+	latte 3
+	2
+cameo
+	leant
+	parse 76
+	cagey 2
+	cameo 1
+	4
+input
+	leant
+	unfit 8
+	input 1
+	3
+junta
+	leant
+	tangy 10
+	junta 1
+	3
+geeky
+	leant
+	serve 51
+	beefy 4
+	geeky 2
+	4
+rifle
+	leant
+	slide 78
+	rifle 3
+	3
+wharf
+	leant
+	crash 62
+	wharf 2
+	3
+willy
+	leant
+	solid 119
+	filmy 6
+	willy 3
+	4
+honey
+	leant
+	diner 63
+	boney 3
+	honey 2
+	4
+brash
+	leant
+	crash 62
+	brash 1
+	3
+droop
+	leant
+	scour 205
+	brood 10
+	droop 1
+	4
+surer
+	leant
+	prose 208
+	shrew 9
+	surer 1
+	4
+house
+	leant
+	prose 208
+	house 3
+	3
+venue
+	leant
+	genie 30
+	pence 6
+	sense 3
+	venue 1
+	5
+arose
+	leant
+	parse 76
+	arise 2
+	arose 1
+	4
+leant
+	leant
+	-1
+truce
+	leant
+	trite 59
+	trove 3
+	truce 1
+	4
+pouty
+	leant
+	south 97
+	pouty 1
+	3
+wheat
+	leant
+	cheat 10
+	wheat 1
+	3
+count
+	leant
+	count 12
+	2
+mourn
+	leant
+	sonic 67
+	mourn 2
+	3
+nerve
+	leant
+	genie 30
+	nerve 1
+	3
+comet
+	leant
+	crest 29
+	covet 2
+	comet 1
+	4
+prank
+	leant
+	prank 9
+	2
+icily
+	leant
+	solid 119
+	frill 15
+	icily 2
+	4
+flume
+	leant
+	slide 78
+	globe 8
+	fluke 3
+	flume 1
+	5
+dogma
+	leant
+	mayor 111
+	dogma 2
+	3
+afoot
+	leant
+	about 17
+	afoot 2
+	3
+raise
+	leant
+	parse 76
+	raise 1
+	3
+villa
+	leant
+	solar 63
+	valid 4
+	villa 1
+	4
+mason
+	leant
+	manor 45
+	mason 1
+	3
+glare
+	leant
+	blare 16
+	glare 2
+	3
+slink
+	leant
+	slink 14
+	2
+awake
+	leant
+	scare 38
+	adage 7
+	amaze 2
+	awake 1
+	5
+inbox
+	leant
+	sonic 67
+	onion 3
+	inbox 1
+	4
+focus
+	leant
+	scour 205
+	focus 1
+	3
+solid
+	leant
+	solid 119
+	2
+large
+	leant
+	lapel 7
+	large 1
+	3
+polar
+	leant
+	solar 63
+	molar 2
+	polar 1
+	4
+skier
+	leant
+	prose 208
+	shrew 9
+	skier 1
+	4
+tapir
+	leant
+	party 45
+	tapir 1
+	3
+frown
+	leant
+	sonic 67
+	drown 5
+	grown 3
+	frown 2
+	5
+chili
+	leant
+	solid 119
+	frill 15
+	icily 2
+	chili 1
+	5
+plied
+	leant
+	slide 78
+	plied 1
+	3
+bluff
+	leant
+	solid 119
+	plumb 12
+	bluff 1
+	4
+lapel
+	leant
+	lapel 7
+	2
+aware
+	leant
+	scare 38
+	aware 1
+	3
+joker
+	leant
+	prose 208
+	rover 16
+	mower 6
+	boxer 3
+	joker 2
+	6
+sperm
+	leant
+	prose 208
+	sperm 2
+	3
+leech
+	leant
+	lever 8
+	ledge 2
+	leech 1
+	4
+stack
+	leant
+	stark 13
+	stack 1
+	3
+stunk
+	leant
+	tying 10
+	stunk 1
+	3
+nadir
+	leant
+	manor 45
+	nadir 1
+	3
+debut
+	leant
+	beret 14
+	debit 2
+	debut 1
+	4
+wagon
+	leant
+	manor 45
+	wagon 2
+	3
+filth
+	leant
+	still 11
+	tulip 2
+	filth 1
+	4
+chant
+	leant
+	chant 4
+	2
+torch
+	leant
+	south 97
+	torch 2
+	3
+scone
+	leant
+	prone 23
+	shone 3
+	scone 1
+	4
+betel
+	leant
+	betel 1
+	2
+tribe
+	leant
+	trite 59
+	tribe 3
+	3
+smile
+	leant
+	slide 78
+	smile 1
+	3
+blown
+	leant
+	nobly 8
+	blown 1
+	3
+depth
+	leant
+	depth 26
+	2
+basic
+	leant
+	mayor 111
+	basis 4
+	basic 1
+	4
+juice
+	leant
+	prose 208
+	judge 12
+	juice 1
+	4
+lucky
+	leant
+	lumpy 18
+	lucky 1
+	3
+lithe
+	leant
+	lithe 1
+	2
+afire
+	leant
+	parse 76
+	azure 4
+	afire 2
+	4
+never
+	leant
+	genie 30
+	never 5
+	3
+gorge
+	leant
+	prose 208
+	forge 7
+	gorge 1
+	4
+close
+	leant
+	slide 78
+	close 1
+	3
+spell
+	leant
+	slide 78
+	smell 5
+	spell 3
+	4
+clout
+	leant
+	built 12
+	clout 2
+	3
+bevel
+	leant
+	belle 23
+	bezel 2
+	bevel 1
+	4
+cheap
+	leant
+	parse 76
+	cheap 1
+	3
+drift
+	leant
+	hoist 56
+	drift 2
+	3
+flair
+	leant
+	slack 36
+	flair 5
+	3
+flock
+	leant
+	solid 119
+	floor 11
+	flock 1
+	4
+suing
+	leant
+	irony 47
+	using 3
+	suing 1
+	4
+month
+	leant
+	tonic 14
+	month 1
+	3
+quell
+	leant
+	slide 78
+	wheel 12
+	quell 1
+	4
+viral
+	leant
+	solar 63
+	mural 4
+	viral 1
+	4
+sneer
+	leant
+	diner 63
+	sneer 1
+	3
+snout
+	leant
+	unfit 8
+	snout 1
+	3
+bleak
+	leant
+	cable 33
+	bleak 2
+	3
+image
+	leant
+	scare 38
+	adage 7
+	image 1
+	4
+repay
+	leant
+	recap 12
+	repay 1
+	3
+cocoa
+	leant
+	mayor 111
+	cocoa 1
+	3
+muddy
+	leant
+	scour 205
+	pudgy 15
+	muddy 2
+	4
+fence
+	leant
+	genie 30
+	pence 6
+	fence 2
+	4
+seedy
+	leant
+	serve 51
+	seedy 1
+	3
+dally
+	leant
+	solar 63
+	valid 4
+	dally 1
+	4
+roach
+	leant
+	crash 62
+	roach 1
+	3
+eagle
+	leant
+	cable 33
+	eagle 2
+	3
+shank
+	leant
+	prank 9
+	shank 1
+	3
+union
+	leant
+	sonic 67
+	onion 3
+	union 1
+	4
+furor
+	leant
+	scour 205
+	furor 4
+	3
+puppy
+	leant
+	scour 205
+	pudgy 15
+	puffy 2
+	puppy 1
+	5
+thick
+	leant
+	south 97
+	thick 4
+	3
+anvil
+	leant
+	banal 12
+	anvil 1
+	3
+showy
+	leant
+	scour 205
+	spook 6
+	showy 1
+	4
+savor
+	leant
+	mayor 111
+	savor 4
+	3
+brass
+	leant
+	crash 62
+	grasp 3
+	brass 1
+	4
+voila
+	leant
+	solar 63
+	voila 1
+	3
+bilge
+	leant
+	slide 78
+	rifle 3
+	bilge 1
+	4
+urban
+	leant
+	manor 45
+	angry 2
+	urban 1
+	4
+stood
+	leant
+	south 97
+	stork 8
+	stoop 4
+	stood 1
+	5
+twixt
+	leant
+	hoist 56
+	drift 2
+	twixt 1
+	4
+tried
+	leant
+	trite 59
+	tried 1
+	3
+shell
+	leant
+	slide 78
+	smell 5
+	spell 3
+	shell 2
+	5
+fjord
+	leant
+	scour 205
+	brood 10
+	fjord 1
+	4
+adage
+	leant
+	scare 38
+	adage 7
+	3
+cacao
+	leant
+	mayor 111
+	cacao 1
+	3
+geese
+	leant
+	serve 51
+	geese 1
+	3
+twine
+	leant
+	twine 3
+	2
+prove
+	leant
+	prose 208
+	probe 2
+	prove 1
+	4
+claim
+	leant
+	slack 36
+	claim 2
+	3
+asset
+	leant
+	cheat 10
+	asset 1
+	3
+verso
+	leant
+	serve 51
+	verso 1
+	3
+sport
+	leant
+	hoist 56
+	sport 4
+	3
+pasty
+	leant
+	party 45
+	pasty 2
+	3
+gauze
+	leant
+	parse 76
+	gauze 10
+	3
+maxim
+	leant
+	mayor 111
+	mamma 7
+	maxim 1
+	4
+flake
+	leant
+	blare 16
+	flake 6
+	3
+abide
+	leant
+	parse 76
+	abode 5
+	abide 1
+	4
+mauve
+	leant
+	parse 76
+	gauze 10
+	mauve 1
+	4
+penny
+	leant
+	penne 3
+	penny 1
+	3
+toast
+	leant
+	start 17
+	toast 1
+	3
+yeast
+	leant
+	feast 5
+	yeast 2
+	3
+amble
+	leant
+	cable 33
+	amble 1
+	3
+dutch
+	leant
+	south 97
+	dutch 3
+	3
+acrid
+	leant
+	mayor 111
+	scrap 3
+	acrid 1
+	4
+orbit
+	leant
+	hoist 56
+	orbit 4
+	3
+rehab
+	leant
+	recap 12
+	rehab 2
+	3
+blind
+	leant
+	slink 14
+	cling 3
+	blind 1
+	4
+bowel
+	leant
+	slide 78
+	wheel 12
+	bowel 2
+	4
+piece
+	leant
+	prose 208
+	pixie 3
+	pique 2
+	piece 1
+	5
+wince
+	leant
+	diner 63
+	since 6
+	wince 2
+	4
+grunt
+	leant
+	mount 12
+	stunt 4
+	grunt 2
+	4
+elite
+	leant
+	title 13
+	elite 1
+	3
+scant
+	leant
+	chant 4
+	scant 1
+	3
+fewer
+	leant
+	serve 51
+	reedy 4
+	fewer 1
+	4
+liken
+	leant
+	liner 5
+	liken 1
+	3
+foist
+	leant
+	hoist 56
+	foist 3
+	3
+dried
+	leant
+	prose 208
+	cried 15
+	dried 2
+	4
+welsh
+	leant
+	belle 23
+	welsh 4
+	3
+belly
+	leant
+	belle 23
+	belly 1
+	3
+bluer
+	leant
+	slide 78
+	ulcer 8
+	bluer 1
+	4
+omega
+	leant
+	parse 76
+	omega 3
+	3
+swear
+	leant
+	parse 76
+	smear 3
+	swear 2
+	4
+there
+	leant
+	trite 59
+	there 2
+	3
+tonga
+	leant
+	tangy 10
+	tonga 1
+	3
+clerk
+	leant
+	slide 78
+	ulcer 8
+	clerk 1
+	4
+cause
+	leant
+	parse 76
+	cause 2
+	3
+corny
+	leant
+	irony 47
+	corny 2
+	3
+whelp
+	leant
+	slide 78
+	wheel 12
+	whelp 1
+	4
+pansy
+	leant
+	manor 45
+	candy 7
+	pansy 1
+	4
+hyena
+	leant
+	hyena 3
+	2
+blast
+	leant
+	blast 3
+	2
+beard
+	leant
+	heard 15
+	beard 1
+	3
+marsh
+	leant
+	mayor 111
+	march 2
+	marsh 1
+	4
+speed
+	leant
+	prose 208
+	sweep 5
+	speed 1
+	4
+tweed
+	leant
+	trite 59
+	tweed 1
+	3
+fleet
+	leant
+	sleet 11
+	fleet 1
+	3
+scary
+	leant
+	crash 62
+	scarf 2
+	scary 1
+	4
+light
+	leant
+	limit 2
+	light 1
+	3
+stalk
+	leant
+	trawl 4
+	stalk 1
+	3
+unity
+	leant
+	tonic 14
+	unity 1
+	3
+plane
+	leant
+	plane 1
+	2
+riper
+	leant
+	prose 208
+	riper 4
+	3
+bulge
+	leant
+	slide 78
+	boule 5
+	bulge 1
+	4
+virus
+	leant
+	scour 205
+	virus 1
+	3
+faint
+	leant
+	taint 10
+	saint 3
+	paint 2
+	faint 1
+	5
+exile
+	leant
+	slide 78
+	guile 3
+	while 2
+	exile 1
+	5
+antic
+	leant
+	tangy 10
+	antic 1
+	3
+chunk
+	leant
+	irony 47
+	spunk 4
+	chunk 1
+	4
+worse
+	leant
+	prose 208
+	horse 3
+	worse 1
+	4
+buxom
+	leant
+	scour 205
+	bough 5
+	buxom 1
+	4
+ovine
+	leant
+	prone 23
+	ovine 1
+	3
+dolly
+	leant
+	solid 119
+	moldy 2
+	dolly 1
+	4
+soapy
+	leant
+	crash 62
+	soapy 3
+	3
+aider
+	leant
+	parse 76
+	break 10
+	aider 1
+	4
+fungi
+	leant
+	sonic 67
+	dingy 5
+	fungi 1
+	4
+allay
+	leant
+	solar 63
+	bylaw 2
+	allay 1
+	4
+fritz
+	leant
+	south 97
+	ditty 7
+	fritz 1
+	4
+stare
+	leant
+	grate 14
+	stare 1
+	3
+polka
+	leant
+	solar 63
+	polka 1
+	3
+gecko
+	leant
+	serve 51
+	medic 5
+	gecko 1
+	4
+conic
+	leant
+	sonic 67
+	conic 2
+	3
+clash
+	leant
+	slack 36
+	clash 3
+	3
+safer
+	leant
+	parse 76
+	safer 1
+	3
+spook
+	leant
+	scour 205
+	spook 6
+	3
+dryly
+	leant
+	solid 119
+	dryly 1
+	3
+prowl
+	leant
+	solid 119
+	floor 11
+	growl 2
+	prowl 1
+	5
+ramen
+	leant
+	ramen 21
+	2
+donut
+	leant
+	unfit 8
+	donut 1
+	3
+cable
+	leant
+	cable 33
+	2
+picky
+	leant
+	scour 205
+	civic 5
+	picky 1
+	4
+chair
+	leant
+	crash 62
+	charm 3
+	chair 1
+	4
+cloud
+	leant
+	solid 119
+	blood 3
+	cloud 1
+	4
+outdo
+	leant
+	south 97
+	outgo 5
+	outdo 1
+	4
+cross
+	leant
+	scour 205
+	cross 1
+	3
+shear
+	leant
+	parse 76
+	smear 3
+	swear 2
+	shear 1
+	5
+sally
+	leant
+	solar 63
+	sally 2
+	3
+apart
+	leant
+	start 17
+	chart 3
+	quart 2
+	apart 1
+	5
+noble
+	leant
+	olden 6
+	noble 1
+	3
+erupt
+	leant
+	crest 29
+	erupt 1
+	3
+route
+	leant
+	trite 59
+	route 2
+	3
+stead
+	leant
+	taste 27
+	stead 3
+	3
+pygmy
+	leant
+	scour 205
+	giddy 11
+	pygmy 1
+	4
+drive
+	leant
+	prose 208
+	bride 7
+	drive 1
+	4
+truck
+	leant
+	south 97
+	truck 2
+	3
+elude
+	leant
+	slide 78
+	elude 1
+	3
+demon
+	leant
+	genie 30
+	demon 4
+	3
+saute
+	leant
+	taste 27
+	saute 1
+	3
+scoop
+	leant
+	scour 205
+	scoff 2
+	scoop 1
+	4
+mercy
+	leant
+	serve 51
+	merry 8
+	mercy 1
+	4
+copse
+	leant
+	prose 208
+	copse 1
+	3
+lilac
+	leant
+	labor 7
+	lilac 1
+	3
+shire
+	leant
+	prose 208
+	surge 3
+	shire 1
+	4
+debug
+	leant
+	serve 51
+	medic 5
+	debug 1
+	4
+chess
+	leant
+	prose 208
+	chess 2
+	3
+ingot
+	leant
+	unfit 8
+	ingot 1
+	3
+habit
+	leant
+	about 17
+	habit 1
+	3
+gourd
+	leant
+	scour 205
+	gourd 2
+	3
+usual
+	leant
+	solar 63
+	usual 2
+	3
+broil
+	leant
+	solid 119
+	broil 1
+	3
+cloth
+	leant
+	still 11
+	cloth 1
+	3
+rigor
+	leant
+	scour 205
+	prior 3
+	rigor 1
+	4
+testy
+	leant
+	depth 26
+	testy 3
+	3
+every
+	leant
+	prose 208
+	cider 18
+	every 2
+	4
+sower
+	leant
+	prose 208
+	sower 2
+	3
+wheel
+	leant
+	slide 78
+	wheel 12
+	3
+crash
+	leant
+	crash 62
+	2
+inlay
+	leant
+	banal 12
+	inlay 1
+	3
+scuba
+	leant
+	mayor 111
+	pizza 5
+	scuba 1
+	4
+split
+	leant
+	built 12
+	split 2
+	3
+uncle
+	leant
+	olden 6
+	uncle 1
+	3
+award
+	leant
+	crash 62
+	award 7
+	3
+vista
+	leant
+	party 45
+	quota 2
+	vista 1
+	4
+flout
+	leant
+	built 12
+	clout 2
+	flout 1
+	4
+guilt
+	leant
+	built 12
+	guilt 2
+	3
+steel
+	leant
+	title 13
+	steel 1
+	3
+tunic
+	leant
+	tonic 14
+	tunic 1
+	3
+annoy
+	leant
+	manor 45
+	annoy 1
+	3
+tithe
+	leant
+	trite 59
+	tithe 1
+	3
+lemur
+	leant
+	lever 8
+	lemur 1
+	3
+ninny
+	leant
+	irony 47
+	shiny 4
+	ninny 1
+	4
+alien
+	leant
+	angel 8
+	alien 1
+	3
+sober
+	leant
+	prose 208
+	sower 2
+	sober 1
+	4
+joint
+	leant
+	mount 12
+	joint 2
+	3
+choir
+	leant
+	scour 205
+	choir 1
+	3
+slimy
+	leant
+	solid 119
+	skill 6
+	slimy 1
+	4
+birch
+	leant
+	scour 205
+	crimp 6
+	birch 1
+	4
+troop
+	leant
+	south 97
+	optic 2
+	troop 1
+	4
+swing
+	leant
+	irony 47
+	using 3
+	swing 1
+	4
+peach
+	leant
+	heard 15
+	peach 2
+	3
+whale
+	leant
+	blare 16
+	shale 3
+	whale 1
+	4
+cubic
+	leant
+	scour 205
+	chuck 8
+	cubic 1
+	4
+bitty
+	leant
+	south 97
+	ditty 7
+	bitty 3
+	4
+stein
+	leant
+	inter 9
+	stein 1
+	3
+drink
+	leant
+	irony 47
+	bring 5
+	drink 1
+	4
+gamut
+	leant
+	about 17
+	caput 2
+	gamut 1
+	4
+ionic
+	leant
+	sonic 67
+	conic 2
+	ionic 1
+	4
+tepee
+	leant
+	depth 26
+	tepee 1
+	3
+affix
+	leant
+	mayor 111
+	pizza 5
+	affix 1
+	4
+faith
+	leant
+	party 45
+	faith 2
+	3
+train
+	leant
+	stain 2
+	train 1
+	3
+latch
+	leant
+	latch 1
+	2
+purse
+	leant
+	prose 208
+	purse 1
+	3
+stout
+	leant
+	hoist 56
+	sport 4
+	stout 2
+	4
+beech
+	leant
+	serve 51
+	beefy 4
+	beech 1
+	4
+friar
+	leant
+	mayor 111
+	vicar 6
+	friar 2
+	4
+usurp
+	leant
+	scour 205
+	brush 2
+	usurp 1
+	4
+purer
+	leant
+	prose 208
+	purer 2
+	3
+bloat
+	leant
+	float 9
+	bloat 2
+	3
+shift
+	leant
+	hoist 56
+	shift 2
+	3
+rodeo
+	leant
+	prose 208
+	rover 16
+	rodeo 1
+	4
+leggy
+	leant
+	lever 8
+	leggy 1
+	3
+dingy
+	leant
+	sonic 67
+	dingy 5
+	3
+error
+	leant
+	prose 208
+	credo 3
+	error 1
+	4
+blare
+	leant
+	blare 16
+	2
+straw
+	leant
+	party 45
+	straw 1
+	3
+renal
+	leant
+	penal 2
+	renal 1
+	3
+found
+	leant
+	irony 47
+	hound 7
+	wound 6
+	found 5
+	5
+flare
+	leant
+	blare 16
+	glare 2
+	flare 1
+	4
+range
+	leant
+	ramen 21
+	range 1
+	3
+score
+	leant
+	prose 208
+	swore 3
+	score 2
+	4
+plume
+	leant
+	slide 78
+	globe 8
+	fluke 3
+	plume 1
+	5
+roost
+	leant
+	hoist 56
+	roost 4
+	3
+curvy
+	leant
+	scour 205
+	crump 4
+	curvy 2
+	4
+cynic
+	leant
+	sonic 67
+	cynic 1
+	3
+drawn
+	leant
+	grain 13
+	brawn 3
+	drawn 2
+	4
+gavel
+	leant
+	cable 33
+	easel 4
+	gavel 2
+	4
+nylon
+	leant
+	nobly 8
+	nylon 1
+	3
+chasm
+	leant
+	crash 62
+	chasm 1
+	3
+skiff
+	leant
+	scour 205
+	spiky 5
+	skiff 1
+	4
+hence
+	leant
+	genie 30
+	pence 6
+	fence 2
+	hence 1
+	5
+spurt
+	leant
+	hoist 56
+	spurt 2
+	3
+label
+	leant
+	lapel 7
+	label 1
+	3
+leper
+	leant
+	lever 8
+	leper 1
+	3
+below
+	leant
+	belle 23
+	below 2
+	3
+trope
+	leant
+	trite 59
+	trove 3
+	trope 1
+	4
+flask
+	leant
+	slack 36
+	flask 1
+	3
+plank
+	leant
+	blank 8
+	plank 3
+	3
+infer
+	leant
+	diner 63
+	infer 1
+	3
+wiser
+	leant
+	prose 208
+	shrew 9
+	wiser 1
+	4
+fixer
+	leant
+	prose 208
+	cider 18
+	river 4
+	fixer 2
+	5
+swell
+	leant
+	slide 78
+	smell 5
+	spell 3
+	shell 2
+	swell 1
+	6
+exult
+	leant
+	sleet 11
+	exult 1
+	3
+fatty
+	leant
+	party 45
+	tatty 6
+	fatty 3
+	4
+beach
+	leant
+	heard 15
+	peach 2
+	beach 1
+	4
+quasi
+	leant
+	crash 62
+	amass 3
+	quasi 1
+	4
+vapor
+	leant
+	mayor 111
+	savor 4
+	vapor 1
+	4
+nosey
+	leant
+	diner 63
+	women 8
+	nosey 1
+	4
+tutor
+	leant
+	south 97
+	outgo 5
+	tutor 1
+	4
+spree
+	leant
+	prose 208
+	spree 2
+	3
+merge
+	leant
+	serve 51
+	eerie 2
+	merge 1
+	4
+eater
+	leant
+	taste 27
+	water 5
+	eater 3
+	4
+onset
+	leant
+	onset 5
+	2
+baton
+	leant
+	tangy 10
+	baton 2
+	3
+shake
+	leant
+	scare 38
+	shade 7
+	shame 4
+	shape 3
+	shake 2
+	6
+vigil
+	leant
+	solid 119
+	vigil 3
+	3
+stank
+	leant
+	stank 4
+	2
+quirk
+	leant
+	scour 205
+	furry 8
+	quirk 1
+	4
+pulpy
+	leant
+	solid 119
+	bully 7
+	pulpy 1
+	4
+dross
+	leant
+	scour 205
+	gross 2
+	dross 1
+	4
+annex
+	leant
+	ramen 21
+	apnea 2
+	annex 1
+	4
+deter
+	leant
+	depth 26
+	deter 2
+	3
+awash
+	leant
+	crash 62
+	swash 4
+	awash 1
+	4
+aglow
+	leant
+	solar 63
+	allow 3
+	aglow 1
+	4
+giant
+	leant
+	chant 4
+	giant 2
+	3
+erect
+	leant
+	crest 29
+	erect 1
+	3
+manor
+	leant
+	manor 45
+	2
+avert
+	leant
+	cheat 10
+	avert 2
+	3
+ditch
+	leant
+	south 97
+	hitch 5
+	ditch 3
+	4
+hippo
+	leant
+	scour 205
+	dodgy 10
+	hippo 1
+	4
+ladle
+	leant
+	lapel 7
+	ladle 1
+	3
+usher
+	leant
+	prose 208
+	shrew 9
+	usher 1
+	4
+olden
+	leant
+	olden 6
+	2
+ahead
+	leant
+	parse 76
+	omega 3
+	ahead 1
+	4
+other
+	leant
+	trite 59
+	outer 8
+	other 1
+	4
+briar
+	leant
+	mayor 111
+	vicar 6
+	friar 2
+	briar 1
+	5
+moral
+	leant
+	solar 63
+	moral 3
+	3
+grape
+	leant
+	scare 38
+	grade 9
+	grave 3
+	grape 2
+	5
+snort
+	leant
+	unfit 8
+	snort 1
+	3
+tulle
+	leant
+	title 13
+	tulle 1
+	3
+zesty
+	leant
+	depth 26
+	testy 3
+	zesty 1
+	4
+query
+	leant
+	prose 208
+	cider 18
+	every 2
+	query 1
+	5
+agent
+	leant
+	agent 1
+	2
+kinky
+	leant
+	sonic 67
+	dingy 5
+	kinky 2
+	4
+slush
+	leant
+	solid 119
+	slump 8
+	slush 1
+	4
+deign
+	leant
+	genie 30
+	reign 4
+	deign 2
+	4
+agape
+	leant
+	scare 38
+	adage 7
+	agape 1
+	4
+atoll
+	leant
+	trial 14
+	atoll 1
+	3
+rocky
+	leant
+	scour 205
+	rocky 3
+	3
+mangy
+	leant
+	manor 45
+	mania 4
+	mangy 1
+	4
+brunt
+	leant
+	mount 12
+	stunt 4
+	grunt 2
+	brunt 1
+	5
+ninja
+	leant
+	manor 45
+	ninja 1
+	3
+stern
+	leant
+	inter 9
+	stern 1
+	3
+alarm
+	leant
+	slack 36
+	flair 5
+	alarm 1
+	4
+coral
+	leant
+	solar 63
+	moral 3
+	coral 1
+	4
+elder
+	leant
+	slide 78
+	elder 4
+	3
+hotel
+	leant
+	title 13
+	hotel 3
+	3
+sheep
+	leant
+	prose 208
+	sweep 5
+	sheep 1
+	4
+skill
+	leant
+	solid 119
+	skill 6
+	3
+again
+	leant
+	grain 13
+	again 1
+	3
+furry
+	leant
+	scour 205
+	furry 8
+	3
+paler
+	leant
+	cable 33
+	easel 4
+	paler 1
+	4
+alive
+	leant
+	cable 33
+	alive 3
+	3
+frisk
+	leant
+	scour 205
+	frisk 4
+	3
+grope
+	leant
+	prose 208
+	grope 1
+	3
+clear
+	leant
+	cable 33
+	clear 1
+	3
+given
+	leant
+	diner 63
+	given 2
+	3
+gummy
+	leant
+	scour 205
+	pudgy 15
+	gummy 1
+	4
+upset
+	leant
+	crest 29
+	upset 1
+	3
+aback
+	leant
+	crash 62
+	aback 2
+	3
+basin
+	leant
+	manor 45
+	cabin 3
+	basin 1
+	4
+louse
+	leant
+	loser 9
+	louse 2
+	3
+knife
+	leant
+	diner 63
+	noise 3
+	knife 1
+	4
+biome
+	leant
+	prose 208
+	biome 5
+	3
+erase
+	leant
+	scare 38
+	erase 1
+	3
+grill
+	leant
+	solid 119
+	frill 15
+	krill 2
+	grill 1
+	5
+shuck
+	leant
+	scour 205
+	shuck 1
+	3
+sieve
+	leant
+	prose 208
+	sieve 3
+	3
+clamp
+	leant
+	slack 36
+	claim 2
+	clamp 1
+	4
+rural
+	leant
+	solar 63
+	mural 4
+	rural 1
+	4
+flesh
+	leant
+	slide 78
+	flesh 2
+	3
+candy
+	leant
+	manor 45
+	candy 7
+	3
+gumbo
+	leant
+	scour 205
+	bough 5
+	gumbo 1
+	4
+pooch
+	leant
+	scour 205
+	pooch 2
+	3
+inept
+	leant
+	onset 5
+	inept 2
+	3
+smirk
+	leant
+	scour 205
+	shirk 3
+	smirk 1
+	4
+drill
+	leant
+	solid 119
+	drill 3
+	3
+squib
+	leant
+	scour 205
+	sushi 3
+	squib 1
+	4
+circa
+	leant
+	mayor 111
+	scrap 3
+	circa 1
+	4
+slick
+	leant
+	solid 119
+	skill 6
+	slick 1
+	4
+whine
+	leant
+	prone 23
+	swine 4
+	whine 1
+	4
+axion
+	leant
+	manor 45
+	axion 1
+	3
+jetty
+	leant
+	depth 26
+	testy 3
+	jetty 1
+	4
+phone
+	leant
+	prone 23
+	phone 1
+	3
+valor
+	leant
+	solar 63
+	valor 1
+	3
+broth
+	leant
+	south 97
+	broth 2
+	3
+ovoid
+	leant
+	scour 205
+	goody 9
+	ovoid 1
+	4
+toxin
+	leant
+	tonic 14
+	toxin 1
+	3
+gloom
+	leant
+	solid 119
+	floor 11
+	gloom 2
+	4
+rival
+	leant
+	solar 63
+	mural 4
+	rival 1
+	4
+brain
+	leant
+	grain 13
+	brain 2
+	3
+index
+	leant
+	diner 63
+	index 1
+	3
+throw
+	leant
+	south 97
+	throb 2
+	throw 1
+	4
+yacht
+	leant
+	about 17
+	yacht 4
+	3
+godly
+	leant
+	solid 119
+	godly 1
+	3
+graze
+	leant
+	scare 38
+	grade 9
+	grave 3
+	grape 2
+	graze 1
+	6
+whoop
+	leant
+	scour 205
+	goody 9
+	whoop 1
+	4
+freed
+	leant
+	prose 208
+	cried 15
+	breed 3
+	freed 2
+	5
+radio
+	leant
+	mayor 111
+	radio 2
+	3
+rotor
+	leant
+	south 97
+	topic 6
+	motor 2
+	rotor 1
+	5
+bound
+	leant
+	irony 47
+	hound 7
+	wound 6
+	found 5
+	bound 4
+	6
+medal
+	leant
+	decal 10
+	medal 2
+	3
+medic
+	leant
+	serve 51
+	medic 5
+	3
+empty
+	leant
+	trite 59
+	empty 1
+	3
+hefty
+	leant
+	depth 26
+	hefty 1
+	3
+scowl
+	leant
+	solid 119
+	sloop 4
+	scowl 1
+	4
+spunk
+	leant
+	irony 47
+	spunk 4
+	3
+avoid
+	leant
+	mayor 111
+	vodka 3
+	avoid 1
+	4
+palsy
+	leant
+	solar 63
+	palsy 1
+	3
+comfy
+	leant
+	scour 205
+	comfy 2
+	3
+sauce
+	leant
+	parse 76
+	sauce 1
+	3
+flash
+	leant
+	slack 36
+	flash 2
+	3
+rogue
+	leant
+	prose 208
+	forge 7
+	rogue 1
+	4
+koala
+	leant
+	slack 36
+	koala 1
+	3
+spicy
+	leant
+	scour 205
+	spicy 1
+	3
+utile
+	leant
+	title 13
+	utile 1
+	3
+denim
+	leant
+	genie 30
+	denim 1
+	3
+nudge
+	leant
+	diner 63
+	undue 3
+	nudge 1
+	4
+epoxy
+	leant
+	prose 208
+	epoch 2
+	epoxy 1
+	4
+horde
+	leant
+	prose 208
+	forge 7
+	horde 1
+	4
+buggy
+	leant
+	scour 205
+	pudgy 15
+	buggy 1
+	4
+pried
+	leant
+	prose 208
+	pried 1
+	3
+abyss
+	leant
+	mayor 111
+	abyss 1
+	3
+belch
+	leant
+	belle 23
+	below 2
+	belch 1
+	4
+gooey
+	leant
+	prose 208
+	gooey 1
+	3
+sworn
+	leant
+	sonic 67
+	sworn 7
+	3
+fugue
+	leant
+	prose 208
+	judge 12
+	fugue 1
+	4
+heron
+	leant
+	genie 30
+	demon 4
+	heron 1
+	4
+adopt
+	leant
+	about 17
+	afoot 2
+	adopt 1
+	4
+goose
+	leant
+	prose 208
+	chose 4
+	goose 2
+	4
+carry
+	leant
+	mayor 111
+	harpy 9
+	carry 1
+	4
+gamma
+	leant
+	mayor 111
+	gamma 1
+	3
+dowdy
+	leant
+	scour 205
+	dodgy 10
+	dowdy 1
+	4
+young
+	leant
+	irony 47
+	young 1
+	3
+gloat
+	leant
+	float 9
+	bloat 2
+	gloat 1
+	4
+alone
+	leant
+	alone 1
+	2
+sheer
+	leant
+	prose 208
+	shrew 9
+	sheer 1
+	4
+unzip
+	leant
+	sonic 67
+	unzip 2
+	3
+warty
+	leant
+	party 45
+	warty 1
+	3
+float
+	leant
+	float 9
+	2
+gazer
+	leant
+	parse 76
+	wager 10
+	gazer 3
+	4
+titan
+	leant
+	tangy 10
+	titan 1
+	3
+welch
+	leant
+	belle 23
+	welsh 4
+	welch 1
+	4
+condo
+	leant
+	sonic 67
+	condo 2
+	3
+fuzzy
+	leant
+	scour 205
+	pudgy 15
+	mummy 2
+	fuzzy 1
+	5
+crazy
+	leant
+	crash 62
+	crazy 3
+	3
+qualm
+	leant
+	slack 36
+	brawl 7
+	qualm 1
+	4
+salvo
+	leant
+	solar 63
+	salvo 1
+	3
+lunch
+	leant
+	lynch 4
+	lunch 1
+	3
+sound
+	leant
+	irony 47
+	hound 7
+	wound 6
+	found 5
+	bound 4
+	sound 3
+	7
+elegy
+	leant
+	slide 78
+	ulcer 8
+	elbow 2
+	elegy 1
+	5
+album
+	leant
+	solar 63
+	badly 13
+	alibi 2
+	album 1
+	5
+mamma
+	leant
+	mayor 111
+	mamma 7
+	3
+juror
+	leant
+	scour 205
+	furor 4
+	juror 1
+	4
+admit
+	leant
+	about 17
+	admit 1
+	3
+renew
+	leant
+	genie 30
+	renew 1
+	3
+seven
+	leant
+	genie 30
+	seven 5
+	3
+filly
+	leant
+	solid 119
+	filmy 6
+	filly 1
+	4
+tacit
+	leant
+	about 17
+	yacht 4
+	tacit 1
+	4
+octet
+	leant
+	crest 29
+	edict 3
+	octet 1
+	4
+yield
+	leant
+	slide 78
+	wield 4
+	yield 2
+	4
+aphid
+	leant
+	mayor 111
+	pizza 5
+	aphid 1
+	4
+gruff
+	leant
+	scour 205
+	furry 8
+	gruff 1
+	4
+hobby
+	leant
+	scour 205
+	dodgy 10
+	hobby 3
+	4
+mammy
+	leant
+	mayor 111
+	mammy 1
+	3
+swoon
+	leant
+	sonic 67
+	sworn 7
+	swoon 1
+	4
+tiara
+	leant
+	stark 13
+	tiara 1
+	3
+quest
+	leant
+	crest 29
+	quest 2
+	3
+scout
+	leant
+	hoist 56
+	sport 4
+	stout 2
+	scout 1
+	5
+lyric
+	leant
+	lumpy 18
+	lyric 1
+	3
+space
+	leant
+	scare 38
+	space 1
+	3
+skunk
+	leant
+	irony 47
+	spunk 4
+	skunk 1
+	4
+creek
+	leant
+	prose 208
+	cried 15
+	creek 1
+	4
+sixth
+	leant
+	south 97
+	sixth 2
+	3
+speak
+	leant
+	parse 76
+	speak 1
+	3
+terra
+	leant
+	terra 1
+	2
+putty
+	leant
+	south 97
+	putty 1
+	3
+trend
+	leant
+	twine 3
+	trend 1
+	3
+crony
+	leant
+	irony 47
+	crony 1
+	3
+humid
+	leant
+	scour 205
+	dumpy 15
+	humid 1
+	4
+store
+	leant
+	trite 59
+	store 1
+	3
+belie
+	leant
+	belle 23
+	belie 1
+	3
+pinky
+	leant
+	sonic 67
+	dingy 5
+	kinky 2
+	pinky 1
+	5
+worth
+	leant
+	south 97
+	forth 4
+	worth 1
+	4
+farce
+	leant
+	parse 76
+	carve 3
+	farce 1
+	4
+idiom
+	leant
+	scour 205
+	dodgy 10
+	idiom 1
+	4
+brisk
+	leant
+	scour 205
+	frisk 4
+	brisk 1
+	4
+stark
+	leant
+	stark 13
+	2
+trial
+	leant
+	trial 14
+	2
+frond
+	leant
+	irony 47
+	prong 3
+	frond 1
+	4
+stomp
+	leant
+	south 97
+	stork 8
+	stoop 4
+	stomp 1
+	5
+dodgy
+	leant
+	scour 205
+	dodgy 10
+	3
+inter
+	leant
+	enter 9
+	inter 1
+	3
+niche
+	leant
+	diner 63
+	niche 2
+	3
+salve
+	leant
+	cable 33
+	valve 5
+	salve 2
+	4
+spark
+	leant
+	crash 62
+	spark 2
+	3
+parry
+	leant
+	mayor 111
+	harpy 9
+	parry 1
+	4
+parse
+	leant
+	parse 76
+	2
+slate
+	leant
+	plate 4
+	elate 2
+	slate 1
+	4
+drape
+	leant
+	scare 38
+	grade 9
+	drape 2
+	4
+spoil
+	leant
+	solid 119
+	spoil 1
+	3
+bosom
+	leant
+	scour 205
+	bosom 3
+	3
+macro
+	leant
+	mayor 111
+	macro 1
+	3
+goofy
+	leant
+	scour 205
+	goody 9
+	goofy 1
+	4
+jolly
+	leant
+	solid 119
+	golly 6
+	jolly 3
+	4
+lumen
+	leant
+	liner 5
+	lumen 1
+	3
+among
+	leant
+	canny 11
+	aping 3
+	among 1
+	4
+adept
+	leant
+	cheat 10
+	avert 2
+	adept 1
+	4
+pagan
+	leant
+	manor 45
+	cabin 3
+	pagan 1
+	4
+seize
+	leant
+	serve 51
+	segue 2
+	seize 1
+	4
+glove
+	leant
+	slide 78
+	globe 8
+	glove 1
+	4
+relic
+	leant
+	belle 23
+	welsh 4
+	relic 1
+	4
+spank
+	leant
+	prank 9
+	spank 1
+	3
+modal
+	leant
+	solar 63
+	focal 3
+	modal 1
+	4
+lying
+	leant
+	lying 1
+	2
+login
+	leant
+	lynch 4
+	login 1
+	3
+fancy
+	leant
+	manor 45
+	candy 7
+	fancy 1
+	4
+proud
+	leant
+	scour 205
+	group 2
+	proud 1
+	4
+alter
+	leant
+	table 3
+	alter 2
+	3
+floss
+	leant
+	solid 119
+	floss 2
+	3
+anode
+	leant
+	ramen 21
+	knead 3
+	anode 1
+	4
+armor
+	leant
+	mayor 111
+	armor 1
+	3
+rebar
+	leant
+	recap 12
+	rehab 2
+	rebar 1
+	4
+wench
+	leant
+	genie 30
+	bench 3
+	wench 1
+	4
+rumor
+	leant
+	scour 205
+	furor 4
+	rumor 1
+	4
+amass
+	leant
+	crash 62
+	amass 3
+	3
+black
+	leant
+	slack 36
+	clack 3
+	black 2
+	4
+wispy
+	leant
+	scour 205
+	gipsy 6
+	wispy 1
+	4
+hasty
+	leant
+	party 45
+	tatty 6
+	hasty 1
+	4
+stall
+	leant
+	trawl 4
+	stall 1
+	3
+canal
+	leant
+	banal 12
+	canal 1
+	3
+major
+	leant
+	mayor 111
+	major 1
+	3
+lowly
+	leant
+	lumpy 18
+	lobby 3
+	lowly 2
+	4
+idyll
+	leant
+	solid 119
+	drill 3
+	idyll 1
+	4
+joist
+	leant
+	hoist 56
+	foist 3
+	joist 2
+	4
+grimy
+	leant
+	scour 205
+	rigid 4
+	grimy 1
+	4
+lance
+	leant
+	lance 2
+	2
+chaos
+	leant
+	crash 62
+	chaos 1
+	3
+spilt
+	leant
+	built 12
+	spilt 2
+	3
+notch
+	leant
+	tonic 14
+	notch 1
+	3
+slash
+	leant
+	slack 36
+	slash 1
+	3
+windy
+	leant
+	sonic 67
+	dingy 5
+	windy 1
+	4
+wrote
+	leant
+	trite 59
+	brute 2
+	wrote 1
+	4
+drier
+	leant
+	prose 208
+	cried 15
+	drier 1
+	4
+pitch
+	leant
+	south 97
+	hitch 5
+	ditch 3
+	pitch 2
+	5
+harem
+	leant
+	parse 76
+	rarer 2
+	harem 1
+	4
+legal
+	leant
+	legal 1
+	2
+ghost
+	leant
+	hoist 56
+	ghost 1
+	3
+crown
+	leant
+	sonic 67
+	knock 2
+	crown 1
+	4
+baker
+	leant
+	parse 76
+	wager 10
+	maker 3
+	baker 1
+	5
+dozen
+	leant
+	diner 63
+	dozen 1
+	3
+round
+	leant
+	irony 47
+	round 1
+	3
+fight
+	leant
+	hoist 56
+	right 5
+	wight 4
+	fight 3
+	5
+arena
+	leant
+	hyena 3
+	arena 1
+	3
+spoon
+	leant
+	sonic 67
+	sworn 7
+	spoon 1
+	4
+grade
+	leant
+	scare 38
+	grade 9
+	3
+crepe
+	leant
+	prose 208
+	gripe 2
+	crepe 1
+	4
+digit
+	leant
+	hoist 56
+	fruit 2
+	digit 1
+	4
+iliac
+	leant
+	solar 63
+	cabal 5
+	iliac 1
+	4
+plait
+	leant
+	blast 3
+	plait 1
+	3
+point
+	leant
+	mount 12
+	joint 2
+	point 1
+	4
+moose
+	leant
+	prose 208
+	chose 4
+	goose 2
+	moose 1
+	5
+clasp
+	leant
+	slack 36
+	clash 3
+	clasp 2
+	4
+grime
+	leant
+	prose 208
+	bride 7
+	crime 2
+	grime 1
+	5
+above
+	leant
+	parse 76
+	abode 5
+	above 1
+	4
+motto
+	leant
+	south 97
+	booty 3
+	motto 1
+	4
+ranch
+	leant
+	manor 45
+	randy 2
+	ranch 1
+	4
+cheer
+	leant
+	prose 208
+	cider 18
+	cheer 2
+	4
+sonar
+	leant
+	manor 45
+	sonar 1
+	3
+twice
+	leant
+	trite 59
+	twice 1
+	3
+cough
+	leant
+	scour 205
+	couch 4
+	cough 1
+	4
+murky
+	leant
+	scour 205
+	furry 8
+	murky 1
+	4
+trice
+	leant
+	trite 59
+	tribe 3
+	trice 2
+	4
+waltz
+	leant
+	trial 14
+	salty 3
+	waltz 1
+	4
+swath
+	leant
+	stark 13
+	swath 1
+	3
+surly
+	leant
+	solid 119
+	slump 8
+	surly 1
+	4
+metro
+	leant
+	depth 26
+	retry 6
+	metro 1
+	4
+mucus
+	leant
+	scour 205
+	mucus 2
+	3
+satyr
+	leant
+	party 45
+	satyr 1
+	3
+glory
+	leant
+	solid 119
+	floor 11
+	glory 1
+	4
+rebel
+	leant
+	belle 23
+	rebel 1
+	3
+rerun
+	leant
+	genie 30
+	demon 4
+	rerun 1
+	4
+whack
+	leant
+	crash 62
+	whack 1
+	3
+ebony
+	leant
+	prone 23
+	ebony 1
+	3
+rider
+	leant
+	prose 208
+	cider 18
+	wider 2
+	rider 1
+	5
+snide
+	leant
+	diner 63
+	snide 1
+	3
+carat
+	leant
+	about 17
+	yacht 4
+	carat 1
+	4
+crust
+	leant
+	hoist 56
+	crust 4
+	3
+fiery
+	leant
+	prose 208
+	cider 18
+	fiery 1
+	4
+nerdy
+	leant
+	genie 30
+	demon 4
+	nerdy 1
+	4
+shaft
+	leant
+	start 17
+	shaft 1
+	3
+dense
+	leant
+	genie 30
+	pence 6
+	sense 3
+	dense 1
+	5
+joust
+	leant
+	hoist 56
+	roost 4
+	joust 1
+	4
+hilly
+	leant
+	solid 119
+	filmy 6
+	willy 3
+	hilly 2
+	5
+drone
+	leant
+	prone 23
+	drone 2
+	3
+resin
+	leant
+	genie 30
+	resin 1
+	3
+bayou
+	leant
+	mayor 111
+	bayou 1
+	3
+droit
+	leant
+	hoist 56
+	bigot 4
+	droit 1
+	4
+stint
+	leant
+	mount 12
+	print 2
+	stint 1
+	4
+holly
+	leant
+	solid 119
+	jolly 6
+	golly 3
+	holly 2
+	5
+embed
+	leant
+	prose 208
+	dicey 6
+	embed 1
+	4
+rebut
+	leant
+	beret 14
+	rebut 1
+	3
+jelly
+	leant
+	belle 23
+	cello 3
+	jelly 1
+	4
+chafe
+	leant
+	scare 38
+	chafe 1
+	3
+chase
+	leant
+	scare 38
+	chase 1
+	3
+dwelt
+	leant
+	sleet 11
+	dwelt 1
+	3
+lefty
+	leant
+	lefty 1
+	2
+plier
+	leant
+	slide 78
+	flier 2
+	plier 1
+	4
+trade
+	leant
+	grate 14
+	trade 2
+	3
+pushy
+	leant
+	scour 205
+	mushy 8
+	pushy 2
+	4
+spelt
+	leant
+	sleet 11
+	smelt 2
+	spelt 1
+	4
+crate
+	leant
+	grate 14
+	crate 2
+	3
+green
+	leant
+	diner 63
+	green 2
+	3
+clone
+	leant
+	clone 2
+	2
+billy
+	leant
+	solid 119
+	filmy 6
+	willy 3
+	hilly 2
+	billy 1
+	6
+nymph
+	leant
+	sonic 67
+	nymph 1
+	3
+tryst
+	leant
+	hoist 56
+	crust 4
+	tryst 1
+	4
+audio
+	leant
+	mayor 111
+	vodka 3
+	audio 1
+	4
+baler
+	leant
+	cable 33
+	baler 2
+	3
+robin
+	leant
+	sonic 67
+	robin 1
+	3
+limbo
+	leant
+	lumpy 18
+	limbo 1
+	3
+feral
+	leant
+	decal 10
+	regal 2
+	feral 1
+	4
+photo
+	leant
+	south 97
+	photo 1
+	3
+untie
+	leant
+	inter 9
+	untie 1
+	3
+smoke
+	leant
+	prose 208
+	smoke 2
+	3
+petty
+	leant
+	depth 26
+	petty 2
+	3
+sadly
+	leant
+	solar 63
+	sadly 1
+	3
+nurse
+	leant
+	diner 63
+	nurse 2
+	3
+cumin
+	leant
+	sonic 67
+	cumin 1
+	3
+pudgy
+	leant
+	scour 205
+	pudgy 15
+	3
+three
+	leant
+	trite 59
+	there 2
+	three 1
+	4
+humor
+	leant
+	scour 205
+	furor 4
+	humor 1
+	4
+torso
+	leant
+	south 97
+	torso 1
+	3
+dingo
+	leant
+	sonic 67
+	bingo 3
+	dingo 1
+	4
+lasso
+	leant
+	labor 7
+	lasso 1
+	3
+meant
+	leant
+	meant 1
+	2
+edify
+	leant
+	prose 208
+	dicey 6
+	edify 1
+	4
+quick
+	leant
+	scour 205
+	chuck 8
+	quick 1
+	4
+racer
+	leant
+	parse 76
+	wager 10
+	maker 3
+	racer 1
+	5
+oxide
+	leant
+	prose 208
+	vogue 6
+	oxide 1
+	4
+ombre
+	leant
+	prose 208
+	forge 7
+	ombre 1
+	4
+stage
+	leant
+	grate 14
+	stage 1
+	3
+sonic
+	leant
+	sonic 67
+	2
+mecca
+	leant
+	recap 12
+	mecca 1
+	3
+sniff
+	leant
+	sonic 67
+	sniff 1
+	3
+spade
+	leant
+	scare 38
+	shade 7
+	spade 1
+	4
+elect
+	leant
+	sleet 11
+	elect 1
+	3
+small
+	leant
+	slack 36
+	small 3
+	3
+baggy
+	leant
+	mayor 111
+	daisy 17
+	gawky 6
+	baggy 1
+	5
+steal
+	leant
+	table 3
+	alter 2
+	steal 1
+	4
+layer
+	leant
+	lapel 7
+	lager 2
+	layer 1
+	4
+waxen
+	leant
+	ramen 21
+	oaken 3
+	waxen 2
+	4
+froth
+	leant
+	south 97
+	broth 2
+	froth 1
+	4
+newer
+	leant
+	genie 30
+	never 5
+	newer 1
+	4
+genie
+	leant
+	genie 30
+	2
+reach
+	leant
+	heard 15
+	reach 1
+	3
+dowel
+	leant
+	slide 78
+	dwell 3
+	dowel 1
+	4
+flame
+	leant
+	blare 16
+	flake 6
+	flame 1
+	4
+dopey
+	leant
+	prose 208
+	dopey 1
+	3
+pecan
+	leant
+	began 4
+	pecan 2
+	3
+inert
+	leant
+	onset 5
+	inept 2
+	inert 1
+	4
+plaid
+	leant
+	slack 36
+	flair 5
+	plaid 1
+	4
+umbra
+	leant
+	mayor 111
+	umbra 3
+	3
+eject
+	leant
+	crest 29
+	eject 1
+	3
+shall
+	leant
+	slack 36
+	small 3
+	shall 1
+	4
+front
+	leant
+	mount 12
+	front 1
+	3
+ought
+	leant
+	hoist 56
+	ought 1
+	3
+beast
+	leant
+	feast 5
+	yeast 2
+	beast 1
+	4
+humus
+	leant
+	scour 205
+	humus 1
+	3
+flush
+	leant
+	solid 119
+	plush 3
+	blush 2
+	flush 1
+	5
+amber
+	leant
+	parse 76
+	break 10
+	amber 1
+	4
+singe
+	leant
+	diner 63
+	since 6
+	singe 1
+	4
+cello
+	leant
+	belle 23
+	cello 3
+	3
+civil
+	leant
+	solid 119
+	vigil 3
+	civil 1
+	4
+rivet
+	leant
+	crest 29
+	egret 2
+	rivet 1
+	4
+bawdy
+	leant
+	mayor 111
+	daisy 17
+	paddy 4
+	bawdy 2
+	5
+organ
+	leant
+	manor 45
+	acorn 4
+	organ 1
+	4
+party
+	leant
+	party 45
+	2
+suave
+	leant
+	scare 38
+	shade 7
+	suave 1
+	4
+hater
+	leant
+	taste 27
+	water 5
+	eater 3
+	hater 2
+	5
+wedge
+	leant
+	serve 51
+	wedge 4
+	3
+haven
+	leant
+	ramen 21
+	oaken 3
+	waxen 2
+	haven 1
+	5
+diary
+	leant
+	crash 62
+	award 7
+	diary 1
+	4
+tweak
+	leant
+	taste 27
+	tweak 2
+	3
+mossy
+	leant
+	scour 205
+	bosom 3
+	mossy 1
+	4
+borax
+	leant
+	mayor 111
+	cobra 5
+	borax 1
+	4
+noose
+	leant
+	diner 63
+	envoy 6
+	noose 1
+	4
+solar
+	leant
+	solar 63
+	2
+tripe
+	leant
+	trite 59
+	tribe 3
+	trice 2
+	tripe 1
+	5
+learn
+	leant
+	learn 1
+	2
+grind
+	leant
+	irony 47
+	bring 5
+	grind 1
+	4
+rabbi
+	leant
+	mayor 111
+	rapid 7
+	rabbi 1
+	4
+voter
+	leant
+	trite 59
+	outer 8
+	voter 1
+	4
+rajah
+	leant
+	mayor 111
+	rapid 7
+	rajah 1
+	4
+tonic
+	leant
+	tonic 14
+	2
+clown
+	leant
+	nobly 8
+	flown 2
+	clown 1
+	4
+raspy
+	leant
+	mayor 111
+	harpy 9
+	raspy 1
+	4
+fanny
+	leant
+	canny 11
+	nanny 2
+	fanny 1
+	4
+rinse
+	leant
+	diner 63
+	rinse 1
+	3
+grain
+	leant
+	grain 13
+	2
+girly
+	leant
+	solid 119
+	frill 15
+	girly 1
+	4
+shock
+	leant
+	scour 205
+	smock 2
+	shock 1
+	4
+bused
+	leant
+	prose 208
+	sheik 3
+	bused 1
+	4
+scald
+	leant
+	slack 36
+	scaly 3
+	scald 2
+	4
+bribe
+	leant
+	prose 208
+	bride 7
+	bribe 1
+	4
+semen
+	leant
+	genie 30
+	never 5
+	semen 1
+	4
+cutie
+	leant
+	trite 59
+	cutie 1
+	3
+patty
+	leant
+	party 45
+	pasty 2
+	patty 1
+	4
+chard
+	leant
+	crash 62
+	charm 3
+	chard 1
+	4
+dowry
+	leant
+	scour 205
+	worry 8
+	dowry 1
+	4
+mound
+	leant
+	irony 47
+	hound 7
+	wound 6
+	found 5
+	bound 4
+	sound 3
+	mound 2
+	8
+amend
+	leant
+	hyena 3
+	amend 1
+	3
+truss
+	leant
+	south 97
+	truss 1
+	3
+reedy
+	leant
+	serve 51
+	reedy 4
+	3
+pedal
+	leant
+	decal 10
+	medal 2
+	pedal 1
+	4
+smart
+	leant
+	start 17
+	smart 1
+	3
+adobe
+	leant
+	parse 76
+	abode 5
+	adobe 1
+	4
+recur
+	leant
+	serve 51
+	decry 6
+	recur 1
+	4
+melee
+	leant
+	belle 23
+	delve 2
+	melee 1
+	4
+happy
+	leant
+	mayor 111
+	daisy 17
+	gawky 6
+	cabby 3
+	happy 2
+	6
+phony
+	leant
+	irony 47
+	phony 1
+	3
+steed
+	leant
+	trite 59
+	steep 3
+	steed 1
+	4
+sleet
+	leant
+	sleet 11
+	2
+foyer
+	leant
+	prose 208
+	rover 16
+	mower 6
+	boxer 3
+	joker 2
+	foyer 1
+	7
+wordy
+	leant
+	scour 205
+	worry 8
+	wordy 1
+	4
+fever
+	leant
+	serve 51
+	fever 1
+	3
+hovel
+	leant
+	slide 78
+	wheel 12
+	hovel 1
+	4
+lemon
+	leant
+	lemon 1
+	2
+about
+	leant
+	about 17
+	2
+comma
+	leant
+	mayor 111
+	dogma 2
+	comma 1
+	4
+groan
+	leant
+	manor 45
+	acorn 4
+	groan 1
+	4
+vowel
+	leant
+	slide 78
+	wheel 12
+	bowel 2
+	vowel 1
+	5
+assay
+	leant
+	mayor 111
+	assay 1
+	3
+slunk
+	leant
+	slink 14
+	slunk 1
+	3
+gully
+	leant
+	solid 119
+	bully 7
+	fully 2
+	gully 1
+	5
+slave
+	leant
+	blare 16
+	flake 6
+	glaze 4
+	place 2
+	slave 1
+	6
+waste
+	leant
+	taste 27
+	baste 5
+	caste 4
+	waste 3
+	5
+bread
+	leant
+	parse 76
+	break 10
+	bread 1
+	4
+caper
+	leant
+	parse 76
+	caper 1
+	3
+basil
+	leant
+	solar 63
+	basil 1
+	3
+crush
+	leant
+	scour 205
+	crush 1
+	3
+spiky
+	leant
+	scour 205
+	skiff 5
+	spiky 1
+	4
+midge
+	leant
+	prose 208
+	judge 12
+	midge 1
+	4
+gravy
+	leant
+	crash 62
+	braid 5
+	gravy 1
+	4
+allot
+	leant
+	float 9
+	allot 1
+	3
+extol
+	leant
+	title 13
+	hotel 3
+	extol 1
+	4
+broad
+	leant
+	mayor 111
+	cobra 5
+	broad 1
+	4
+crimp
+	leant
+	scour 205
+	crimp 6
+	3
+midst
+	leant
+	hoist 56
+	midst 2
+	3
+folly
+	leant
+	solid 119
+	golly 6
+	jolly 3
+	holly 2
+	folly 1
+	6
+cramp
+	leant
+	crash 62
+	crazy 3
+	cramp 2
+	4
+femme
+	leant
+	serve 51
+	wedge 4
+	femme 1
+	4
+skate
+	leant
+	grate 14
+	state 4
+	skate 1
+	4
+rough
+	leant
+	scour 205
+	gourd 2
+	rough 1
+	4
+daily
+	leant
+	solar 63
+	badly 13
+	daily 1
+	4
+revue
+	leant
+	serve 51
+	revue 1
+	3
+curio
+	leant
+	scour 205
+	curio 1
+	3
+lupus
+	leant
+	lumpy 18
+	lupus 1
+	3
+thief
+	leant
+	trite 59
+	thief 1
+	3
+adult
+	leant
+	float 9
+	vault 2
+	adult 1
+	4
+covey
+	leant
+	prose 208
+	video 3
+	covey 1
+	4
+feign
+	leant
+	genie 30
+	reign 4
+	deign 2
+	feign 1
+	5
+trace
+	leant
+	grate 14
+	trade 2
+	trace 1
+	4
+fibre
+	leant
+	prose 208
+	ridge 6
+	fibre 1
+	4
+lurch
+	leant
+	lumpy 18
+	lucid 3
+	lurch 1
+	4
+teary
+	leant
+	death 6
+	tease 2
+	teary 1
+	4
+coach
+	leant
+	crash 62
+	coach 1
+	3
+widow
+	leant
+	scour 205
+	dodgy 10
+	widow 1
+	4
+clued
+	leant
+	slide 78
+	elder 4
+	clued 1
+	4
+cigar
+	leant
+	mayor 111
+	vicar 6
+	cigar 1
+	4
+woken
+	leant
+	diner 63
+	women 8
+	woven 2
+	woken 1
+	5
+comic
+	leant
+	scour 205
+	comfy 2
+	comic 1
+	4
+melon
+	leant
+	felon 3
+	melon 1
+	3
+larva
+	leant
+	labor 7
+	larva 1
+	3
+sooth
+	leant
+	south 97
+	sooth 1
+	3
+watch
+	leant
+	party 45
+	hatch 7
+	batch 4
+	match 3
+	watch 2
+	6
+shunt
+	leant
+	count 12
+	stunt 4
+	shunt 1
+	4
+minty
+	leant
+	tonic 14
+	ninth 2
+	minty 1
+	4
+field
+	leant
+	slide 78
+	wield 4
+	yield 2
+	field 1
+	5
+cease
+	leant
+	heard 15
+	peace 3
+	cease 1
+	4
+lurid
+	leant
+	lumpy 18
+	lucid 3
+	lurid 1
+	4
+sigma
+	leant
+	mayor 111
+	sumac 3
+	sigma 1
+	4
+unify
+	leant
+	sonic 67
+	unify 1
+	3
+decoy
+	leant
+	serve 51
+	medic 5
+	decoy 1
+	4
+woozy
+	leant
+	scour 205
+	goody 9
+	booby 3
+	woozy 1
+	5
+conch
+	leant
+	sonic 67
+	condo 2
+	conch 1
+	4
+world
+	leant
+	solid 119
+	would 3
+	world 1
+	4
+freak
+	leant
+	parse 76
+	break 10
+	creak 3
+	wreak 2
+	freak 1
+	6
+pound
+	leant
+	irony 47
+	hound 7
+	wound 6
+	found 5
+	bound 4
+	sound 3
+	mound 2
+	pound 1
+	9
+fetal
+	leant
+	petal 4
+	fetal 2
+	3
+begat
+	leant
+	begat 1
+	2
+swift
+	leant
+	hoist 56
+	swift 2
+	3
+clump
+	leant
+	solid 119
+	plumb 12
+	clump 1
+	4
+queer
+	leant
+	prose 208
+	cider 18
+	buyer 3
+	queer 1
+	5
+vapid
+	leant
+	mayor 111
+	basis 4
+	vapid 1
+	4
+drank
+	leant
+	spank 9
+	frank 3
+	crank 2
+	drank 1
+	5
+soggy
+	leant
+	scour 205
+	soggy 1
+	3
+hardy
+	leant
+	mayor 111
+	harpy 9
+	harry 2
+	hardy 1
+	5
+butch
+	leant
+	south 97
+	dutch 3
+	butch 2
+	4
+alert
+	leant
+	bleat 6
+	alert 1
+	3
+barge
+	leant
+	parse 76
+	carve 3
+	barge 1
+	4
+beset
+	leant
+	beret 14
+	beget 2
+	beset 1
+	4
+stamp
+	leant
+	stark 13
+	stamp 4
+	3
+niece
+	leant
+	diner 63
+	niche 2
+	niece 1
+	4
+excel
+	leant
+	slide 78
+	wheel 12
+	excel 2
+	4
+stick
+	leant
+	south 97
+	stiff 3
+	stick 1
+	4
+avail
+	leant
+	slack 36
+	brawl 7
+	quail 2
+	avail 1
+	5
+plead
+	leant
+	cable 33
+	gleam 5
+	plead 1
+	4
+widen
+	leant
+	diner 63
+	widen 1
+	3
+belle
+	leant
+	belle 23
+	2
+abbey
+	leant
+	parse 76
+	omega 3
+	abbey 1
+	4
+sissy
+	leant
+	scour 205
+	skiff 5
+	sissy 1
+	4
+curry
+	leant
+	scour 205
+	crump 4
+	curvy 2
+	curry 1
+	5
+clang
+	leant
+	blank 8
+	clang 3
+	3
+guild
+	leant
+	solid 119
+	build 3
+	guild 1
+	4
+impel
+	leant
+	slide 78
+	filer 3
+	impel 1
+	4
+staid
+	leant
+	stark 13
+	stamp 4
+	staid 3
+	4
+badge
+	leant
+	parse 76
+	gauze 10
+	badge 1
+	4
+trail
+	leant
+	trawl 4
+	trail 1
+	3
+bleed
+	leant
+	slide 78
+	elder 4
+	bleed 1
+	4
+tract
+	leant
+	start 17
+	trait 2
+	tract 1
+	4
+grace
+	leant
+	scare 38
+	crave 4
+	grace 2
+	4
+mover
+	leant
+	prose 208
+	rover 16
+	cover 3
+	mover 2
+	5
+crock
+	leant
+	scour 205
+	crook 5
+	crock 1
+	4
+heavy
+	leant
+	heard 15
+	heave 2
+	heavy 1
+	4
+wafer
+	leant
+	parse 76
+	wager 10
+	wafer 2
+	4
+prism
+	leant
+	scour 205
+	frisk 4
+	prism 1
+	4
+shrug
+	leant
+	scour 205
+	shrub 3
+	shrug 1
+	4
+upper
+	leant
+	prose 208
+	riper 4
+	upper 2
+	4
+steam
+	leant
+	taste 27
+	stead 3
+	steam 2
+	4
+ankle
+	leant
+	angel 8
+	ankle 1
+	3
+fetch
+	leant
+	depth 26
+	retch 2
+	fetch 1
+	4
+trite
+	leant
+	trite 59
+	2
+cyber
+	leant
+	prose 208
+	cider 18
+	cheer 2
+	cyber 1
+	5
+verve
+	leant
+	serve 51
+	verve 1
+	3
+trash
+	leant
+	stark 13
+	trash 1
+	3
+craft
+	leant
+	start 17
+	draft 3
+	graft 2
+	craft 1
+	5
+otter
+	leant
+	trite 59
+	utter 2
+	otter 1
+	4
+abase
+	leant
+	scare 38
+	phase 3
+	abase 1
+	4
+crack
+	leant
+	crash 62
+	crazy 3
+	cramp 2
+	crack 1
+	5
+deity
+	leant
+	depth 26
+	deity 1
+	3
+halve
+	leant
+	cable 33
+	valve 5
+	salve 2
+	halve 1
+	5
+begun
+	leant
+	genie 30
+	begun 1
+	3
+morph
+	leant
+	scour 205
+	worry 8
+	morph 2
+	4
+altar
+	leant
+	trial 14
+	altar 1
+	3
+bushy
+	leant
+	scour 205
+	mushy 8
+	pushy 2
+	bushy 1
+	5
+hotly
+	leant
+	still 11
+	hotly 2
+	3
+cacti
+	leant
+	party 45
+	faith 2
+	cacti 1
+	4
+slosh
+	leant
+	solid 119
+	sloop 4
+	slosh 1
+	4
+anime
+	leant
+	ramen 21
+	enema 2
+	anime 1
+	4
+spout
+	leant
+	hoist 56
+	sport 4
+	spout 1
+	4
+stash
+	leant
+	stark 13
+	stamp 4
+	staid 3
+	stash 2
+	5
+rayon
+	leant
+	manor 45
+	baron 2
+	rayon 1
+	4
+daddy
+	leant
+	mayor 111
+	daisy 17
+	daddy 1
+	4
+witch
+	leant
+	south 97
+	hitch 5
+	ditch 3
+	pitch 2
+	witch 1
+	6
+clean
+	leant
+	angel 8
+	clean 1
+	3
+maple
+	leant
+	cable 33
+	eagle 2
+	maple 1
+	4
+swill
+	leant
+	solid 119
+	skill 6
+	spill 2
+	swill 1
+	5
+strut
+	leant
+	hoist 56
+	spurt 2
+	strut 1
+	4
+fishy
+	leant
+	scour 205
+	gipsy 6
+	fishy 1
+	4
+moist
+	leant
+	hoist 56
+	foist 3
+	joist 2
+	moist 1
+	5
+teeth
+	leant
+	depth 26
+	teeth 2
+	3
+moron
+	leant
+	sonic 67
+	mourn 2
+	moron 1
+	4
+focal
+	leant
+	solar 63
+	focal 3
+	3
+tenor
+	leant
+	tenor 3
+	2
+perch
+	leant
+	serve 51
+	merry 8
+	perch 1
+	4
+gayer
+	leant
+	parse 76
+	wager 10
+	gazer 3
+	gayer 2
+	5
+lunge
+	leant
+	liner 5
+	lunge 1
+	3
+alike
+	leant
+	cable 33
+	alive 3
+	alike 1
+	4
+poker
+	leant
+	prose 208
+	poker 2
+	3
+wreck
+	leant
+	prose 208
+	cried 15
+	wreck 1
+	4
+clung
+	leant
+	slink 14
+	flung 3
+	clung 1
+	4
+crone
+	leant
+	prone 23
+	drone 2
+	crone 1
+	4
+terse
+	leant
+	depth 26
+	retry 6
+	terse 1
+	4
+bunch
+	leant
+	sonic 67
+	hunch 4
+	bunch 3
+	4
+serve
+	leant
+	serve 51
+	2
+silky
+	leant
+	solid 119
+	silly 2
+	silky 1
+	4
+logic
+	leant
+	lumpy 18
+	livid 2
+	logic 1
+	4
+bacon
+	leant
+	manor 45
+	wagon 2
+	bacon 1
+	4
+loyal
+	leant
+	labor 7
+	local 2
+	loyal 1
+	4
+glaze
+	leant
+	blare 16
+	flake 6
+	glaze 4
+	4
+atone
+	leant
+	atone 1
+	2
+plant
+	leant
+	slant 2
+	plant 1
+	3
+sully
+	leant
+	solid 119
+	sulky 2
+	sully 1
+	4
+tidal
+	leant
+	trial 14
+	tidal 1
+	3
+dryer
+	leant
+	prose 208
+	cried 15
+	dryer 1
+	4
+early
+	leant
+	cable 33
+	early 1
+	3
+diver
+	leant
+	prose 208
+	cider 18
+	diver 1
+	4
+cadet
+	leant
+	cheat 10
+	cadet 1
+	3
+women
+	leant
+	diner 63
+	women 8
+	3
+imbue
+	leant
+	prose 208
+	judge 12
+	imbue 1
+	4
+catty
+	leant
+	party 45
+	tatty 6
+	fatty 3
+	catty 2
+	5
+thigh
+	leant
+	south 97
+	hitch 5
+	thigh 1
+	4
+verse
+	leant
+	serve 51
+	verse 1
+	3
+musky
+	leant
+	scour 205
+	mushy 8
+	musky 1
+	4
+spire
+	leant
+	prose 208
+	spree 2
+	spire 1
+	4
+dwarf
+	leant
+	crash 62
+	award 7
+	dwarf 1
+	4
+truer
+	leant
+	trite 59
+	truer 1
+	3
+reset
+	leant
+	beret 14
+	reset 1
+	3
+whiff
+	leant
+	scour 205
+	giddy 11
+	whiff 1
+	4
+blend
+	leant
+	clone 2
+	blend 1
+	3
+croup
+	leant
+	scour 205
+	croup 1
+	3
+cliff
+	leant
+	solid 119
+	frill 15
+	cliff 1
+	4
+delay
+	leant
+	decal 10
+	delay 1
+	3
+lathe
+	leant
+	latte 3
+	lathe 1
+	3
+gipsy
+	leant
+	scour 205
+	gipsy 6
+	3
+ozone
+	leant
+	prone 23
+	shone 3
+	ozone 1
+	4
+sleep
+	leant
+	slide 78
+	sleek 2
+	sleep 1
+	4
+basal
+	leant
+	solar 63
+	usual 2
+	basal 1
+	4
+pause
+	leant
+	parse 76
+	pause 1
+	3
+coyly
+	leant
+	solid 119
+	wooly 3
+	coyly 1
+	4
+tawny
+	leant
+	tawny 1
+	2
+viper
+	leant
+	prose 208
+	riper 4
+	viper 1
+	4
+foamy
+	leant
+	crash 62
+	foamy 2
+	3
+north
+	leant
+	tonic 14
+	north 1
+	3
+haunt
+	leant
+	taint 10
+	vaunt 5
+	haunt 4
+	4
+bobby
+	leant
+	scour 205
+	dodgy 10
+	hobby 3
+	bobby 1
+	5
+radii
+	leant
+	mayor 111
+	rapid 7
+	radii 1
+	4
+ripen
+	leant
+	diner 63
+	risen 3
+	ripen 1
+	4
+forge
+	leant
+	prose 208
+	forge 7
+	3
+smote
+	leant
+	trite 59
+	quote 3
+	smote 1
+	4
+snake
+	leant
+	knave 3
+	snake 1
+	3
+touch
+	leant
+	south 97
+	touch 2
+	3
+endow
+	leant
+	diner 63
+	undue 3
+	endow 1
+	4
+munch
+	leant
+	sonic 67
+	hunch 4
+	bunch 3
+	munch 2
+	5
+rearm
+	leant
+	heard 15
+	rearm 2
+	3
+theme
+	leant
+	trite 59
+	theme 4
+	3
+press
+	leant
+	prose 208
+	press 1
+	3
+abort
+	leant
+	about 17
+	abort 1
+	3
+sight
+	leant
+	hoist 56
+	sight 1
+	3
+tonal
+	leant
+	tonal 3
+	2
+tooth
+	leant
+	south 97
+	forth 4
+	tooth 2
+	4
+brick
+	leant
+	scour 205
+	crimp 6
+	brick 1
+	4
+panel
+	leant
+	angel 8
+	panel 2
+	3
+papal
+	leant
+	solar 63
+	cabal 5
+	papal 1
+	4
+fried
+	leant
+	prose 208
+	cried 15
+	dried 2
+	fried 1
+	5
+brace
+	leant
+	scare 38
+	crave 4
+	grace 2
+	brace 1
+	5
+storm
+	leant
+	south 97
+	stork 8
+	story 2
+	storm 1
+	5
+moult
+	leant
+	built 12
+	moult 1
+	3
+going
+	leant
+	irony 47
+	doing 3
+	going 1
+	4
+folio
+	leant
+	solid 119
+	folio 1
+	3
+trunk
+	leant
+	tying 10
+	trunk 1
+	3
+kebab
+	leant
+	recap 12
+	kebab 1
+	3
+blame
+	leant
+	blare 16
+	blame 3
+	3
+brown
+	leant
+	sonic 67
+	drown 5
+	grown 3
+	frown 2
+	brown 1
+	6
+shook
+	leant
+	scour 205
+	spook 6
+	shook 1
+	4
+shove
+	leant
+	prose 208
+	smoke 2
+	shove 1
+	4
+hutch
+	leant
+	south 97
+	dutch 3
+	butch 2
+	hutch 1
+	5
+stump
+	leant
+	south 97
+	study 4
+	stump 3
+	4
+weedy
+	leant
+	serve 51
+	beefy 4
+	geeky 2
+	weedy 1
+	5
+gnash
+	leant
+	grain 13
+	gnash 1
+	3
+preen
+	leant
+	diner 63
+	green 2
+	preen 1
+	4
+hyper
+	leant
+	prose 208
+	riper 4
+	upper 2
+	hyper 1
+	5
+title
+	leant
+	title 13
+	2
+burst
+	leant
+	hoist 56
+	crust 4
+	burst 1
+	4
+kneel
+	leant
+	olden 6
+	kneel 1
+	3
+trump
+	leant
+	south 97
+	truck 2
+	trump 1
+	4
+panic
+	leant
+	manor 45
+	candy 7
+	panic 1
+	4
+raven
+	leant
+	ramen 21
+	raven 1
+	3
+visor
+	leant
+	scour 205
+	visor 1
+	3
+naval
+	leant
+	banal 12
+	naval 2
+	3
+amply
+	leant
+	solar 63
+	badly 13
+	apply 2
+	amply 1
+	5
+whiny
+	leant
+	irony 47
+	shiny 4
+	whiny 1
+	4
+undid
+	leant
+	sonic 67
+	unzip 2
+	undid 1
+	4
+total
+	leant
+	trial 14
+	total 2
+	3
+parer
+	leant
+	parse 76
+	parer 1
+	3
+pithy
+	leant
+	south 97
+	thick 4
+	pithy 1
+	4
+chime
+	leant
+	prose 208
+	judge 12
+	emcee 2
+	chime 1
+	5
+shrew
+	leant
+	prose 208
+	shrew 9
+	3
+spoof
+	leant
+	scour 205
+	spook 6
+	spoof 1
+	4
+spent
+	leant
+	scent 3
+	spent 1
+	3
+chest
+	leant
+	crest 29
+	chest 1
+	3
+lodge
+	leant
+	loser 9
+	lodge 1
+	3
+tweet
+	leant
+	crest 29
+	theft 2
+	tweet 1
+	4
+suite
+	leant
+	trite 59
+	suite 5
+	3
+flank
+	leant
+	blank 8
+	plank 3
+	flank 2
+	4
+pouch
+	leant
+	scour 205
+	couch 4
+	pouch 2
+	4
+agile
+	leant
+	cable 33
+	agile 4
+	3
+rupee
+	leant
+	prose 208
+	rupee 1
+	3
+curve
+	leant
+	prose 208
+	ridge 6
+	where 2
+	curve 1
+	5
+piano
+	leant
+	prank 9
+	piano 1
+	3
+wrist
+	leant
+	hoist 56
+	twist 2
+	wrist 1
+	4
+bloke
+	leant
+	slide 78
+	globe 8
+	bloke 1
+	4
+movie
+	leant
+	prose 208
+	vogue 6
+	movie 1
+	4
+decal
+	leant
+	decal 10
+	2
+prone
+	leant
+	prone 23
+	2
+waver
+	leant
+	parse 76
+	wager 10
+	wafer 2
+	waver 1
+	5
+livid
+	leant
+	lumpy 18
+	logic 2
+	livid 1
+	4
+shied
+	leant
+	prose 208
+	sheik 3
+	shied 1
+	4
+milky
+	leant
+	solid 119
+	filmy 6
+	milky 1
+	4
+savvy
+	leant
+	mayor 111
+	daisy 17
+	sappy 3
+	saucy 2
+	savvy 1
+	6
+shore
+	leant
+	prose 208
+	swore 3
+	score 2
+	shore 1
+	5
+swung
+	leant
+	irony 47
+	spunk 4
+	swung 1
+	4
+strap
+	leant
+	party 45
+	strap 1
+	3
+vixen
+	leant
+	diner 63
+	given 2
+	vixen 1
+	4
+width
+	leant
+	south 97
+	mirth 5
+	fifth 2
+	width 1
+	5
+axial
+	leant
+	solar 63
+	cabal 5
+	axial 1
+	4
+glade
+	leant
+	blare 16
+	flake 6
+	glaze 4
+	glade 1
+	5
+mania
+	leant
+	manor 45
+	mania 4
+	3
+scope
+	leant
+	prose 208
+	scope 2
+	3
+booth
+	leant
+	south 97
+	forth 4
+	tooth 2
+	booth 1
+	5
+thing
+	leant
+	tying 10
+	thing 1
+	3
+aorta
+	leant
+	party 45
+	aorta 1
+	3
+linen
+	leant
+	liner 5
+	linen 1
+	3
+tilde
+	leant
+	title 13
+	tilde 1
+	3
+tipsy
+	leant
+	south 97
+	tipsy 1
+	3
+argue
+	leant
+	parse 76
+	azure 4
+	argue 1
+	4
+frost
+	leant
+	hoist 56
+	frost 1
+	3
+judge
+	leant
+	prose 208
+	judge 12
+	3
+bless
+	leant
+	slide 78
+	flesh 2
+	bless 1
+	4
+clank
+	leant
+	blank 8
+	plank 3
+	flank 2
+	clank 1
+	5
+forgo
+	leant
+	scour 205
+	worry 8
+	morph 2
+	forgo 1
+	5
+exalt
+	leant
+	exalt 1
+	2
+rebus
+	leant
+	serve 51
+	rebus 1
+	3
+mince
+	leant
+	diner 63
+	since 6
+	wince 2
+	mince 1
+	5
+hussy
+	leant
+	scour 205
+	mushy 8
+	hussy 2
+	4
+waive
+	leant
+	parse 76
+	gauze 10
+	cache 3
+	waive 2
+	5
+magma
+	leant
+	mayor 111
+	mamma 7
+	magma 1
+	4
+labor
+	leant
+	labor 7
+	2
+drawl
+	leant
+	slack 36
+	brawl 7
+	drawl 1
+	4
+opera
+	leant
+	parse 76
+	opera 1
+	3
+hello
+	leant
+	belle 23
+	cello 3
+	hello 1
+	4
+spiel
+	leant
+	slide 78
+	spiel 1
+	3
+alloy
+	leant
+	solar 63
+	allow 3
+	alloy 1
+	4
+totem
+	leant
+	trite 59
+	totem 1
+	3
+jazzy
+	leant
+	mayor 111
+	daisy 17
+	gawky 6
+	cabby 3
+	happy 2
+	jazzy 1
+	7
+rumba
+	leant
+	mayor 111
+	umbra 3
+	rumba 1
+	4
+aloft
+	leant
+	float 9
+	aloft 1
+	3
+grant
+	leant
+	chant 4
+	giant 2
+	grant 1
+	4
+odder
+	leant
+	prose 208
+	rover 16
+	offer 2
+	odder 1
+	5
+scalp
+	leant
+	slack 36
+	scaly 3
+	scald 2
+	scalp 1
+	5
+knack
+	leant
+	grain 13
+	snaky 3
+	knack 1
+	4
+swami
+	leant
+	crash 62
+	soapy 3
+	swami 1
+	4
+great
+	leant
+	cheat 10
+	treat 3
+	great 1
+	4
+mafia
+	leant
+	mayor 111
+	mamma 7
+	mafia 1
+	4
+power
+	leant
+	prose 208
+	poker 2
+	power 1
+	4
+truly
+	leant
+	still 11
+	hotly 2
+	truly 1
+	4
+dusky
+	leant
+	scour 205
+	mushy 8
+	fussy 2
+	dusky 1
+	5
+gland
+	leant
+	blank 8
+	clang 3
+	gland 1
+	4
+crude
+	leant
+	prose 208
+	bride 7
+	crude 1
+	4
+dirty
+	leant
+	south 97
+	ditty 7
+	dirty 1
+	4
+elfin
+	leant
+	olden 6
+	elfin 1
+	3
+lower
+	leant
+	loser 9
+	lower 2
+	3
+start
+	leant
+	start 17
+	2
+curly
+	leant
+	solid 119
+	plumb 12
+	curly 1
+	4
+drama
+	leant
+	crash 62
+	braid 5
+	drama 1
+	4
+shalt
+	leant
+	blast 3
+	shalt 1
+	3
+botch
+	leant
+	south 97
+	torch 2
+	botch 1
+	4
+caulk
+	leant
+	solar 63
+	badly 13
+	caulk 1
+	4
+favor
+	leant
+	mayor 111
+	savor 4
+	favor 1
+	4
+kayak
+	leant
+	mayor 111
+	kayak 1
+	3
+biddy
+	leant
+	scour 205
+	giddy 11
+	biddy 1
+	4
+ascot
+	leant
+	about 17
+	ascot 1
+	3
+spice
+	leant
+	prose 208
+	spike 2
+	spice 1
+	4
+motel
+	leant
+	title 13
+	hotel 3
+	motel 1
+	4
+ultra
+	leant
+	trial 14
+	ultra 1
+	3
+nicer
+	leant
+	diner 63
+	nicer 1
+	3
+ivory
+	leant
+	scour 205
+	brood 10
+	ivory 1
+	4
+cleat
+	leant
+	bleat 6
+	cleat 2
+	3
+salad
+	leant
+	solar 63
+	salad 1
+	3
+thrum
+	leant
+	south 97
+	thrum 1
+	3
+inane
+	leant
+	crane 2
+	inane 1
+	3
+witty
+	leant
+	south 97
+	ditty 7
+	bitty 3
+	witty 2
+	5
+greet
+	leant
+	crest 29
+	greet 1
+	3
+gruel
+	leant
+	slide 78
+	wheel 12
+	cruel 2
+	gruel 1
+	5
+dumpy
+	leant
+	scour 205
+	pudgy 15
+	dumpy 1
+	4
+inlet
+	leant
+	knelt 2
+	inlet 1
+	3
+frill
+	leant
+	solid 119
+	frill 15
+	3
+lousy
+	leant
+	lumpy 18
+	lousy 1
+	3
+pinch
+	leant
+	sonic 67
+	finch 4
+	pinch 3
+	4
+frail
+	leant
+	slack 36
+	brawl 7
+	grail 2
+	frail 1
+	5
+grove
+	leant
+	prose 208
+	drove 5
+	grove 1
+	4
+poesy
+	leant
+	prose 208
+	poesy 1
+	3
+prawn
+	leant
+	grain 13
+	brawn 3
+	drawn 2
+	prawn 1
+	5
+opine
+	leant
+	prone 23
+	opine 1
+	3
+downy
+	leant
+	irony 47
+	downy 1
+	3
+ethic
+	leant
+	trite 59
+	ethic 1
+	3
+mocha
+	leant
+	mayor 111
+	mocha 1
+	3
+sepia
+	leant
+	recap 12
+	sepia 1
+	3
+bible
+	leant
+	slide 78
+	rifle 3
+	bible 1
+	4
+blade
+	leant
+	blare 16
+	blame 3
+	blade 2
+	4
+tubal
+	leant
+	trial 14
+	total 2
+	tubal 1
+	4
+thank
+	leant
+	stank 4
+	thank 1
+	3
+refit
+	leant
+	beret 14
+	refit 3
+	3
+ensue
+	leant
+	diner 63
+	envoy 6
+	ensue 1
+	4
+glyph
+	leant
+	solid 119
+	plumb 12
+	glyph 1
+	4
+quack
+	leant
+	crash 62
+	aback 2
+	quack 1
+	4
+rowdy
+	leant
+	scour 205
+	worry 8
+	rowdy 1
+	4
+angst
+	leant
+	angst 1
+	2
+handy
+	leant
+	manor 45
+	candy 7
+	dandy 3
+	handy 2
+	5
+razor
+	leant
+	mayor 111
+	savor 4
+	razor 1
+	4
+thump
+	leant
+	south 97
+	thumb 2
+	thump 1
+	4
+weave
+	leant
+	heard 15
+	peace 3
+	weave 1
+	4
+demur
+	leant
+	serve 51
+	decry 6
+	demur 1
+	4
+wooer
+	leant
+	prose 208
+	wooer 1
+	3
+attic
+	leant
+	party 45
+	tibia 2
+	attic 1
+	4
+doubt
+	leant
+	hoist 56
+	doubt 3
+	3
+slyly
+	leant
+	solid 119
+	slump 8
+	slyly 1
+	4
+taffy
+	leant
+	party 45
+	tabby 3
+	tacky 2
+	taffy 1
+	5
+lofty
+	leant
+	lofty 2
+	2
+homer
+	leant
+	prose 208
+	rover 16
+	mower 6
+	homer 1
+	5
+splat
+	leant
+	float 9
+	splat 1
+	3
+rouge
+	leant
+	prose 208
+	forge 7
+	rouge 1
+	4
+stock
+	leant
+	south 97
+	stork 8
+	stock 1
+	4
+teach
+	leant
+	death 6
+	teach 1
+	3
+stony
+	leant
+	tying 10
+	stony 1
+	3
+timid
+	leant
+	south 97
+	trick 2
+	timid 1
+	4
+shave
+	leant
+	scare 38
+	shade 7
+	shame 4
+	shape 3
+	shake 2
+	shave 1
+	7
+verge
+	leant
+	serve 51
+	verge 1
+	3
+flunk
+	leant
+	slink 14
+	plunk 2
+	flunk 1
+	4
+queue
+	leant
+	prose 208
+	judge 12
+	queue 1
+	4
+skulk
+	leant
+	solid 119
+	slump 8
+	skull 2
+	skulk 1
+	5
+syrup
+	leant
+	scour 205
+	shrub 3
+	syrup 1
+	4
+hedge
+	leant
+	serve 51
+	wedge 4
+	hedge 1
+	4
+golem
+	leant
+	slide 78
+	wheel 12
+	ruler 2
+	golem 1
+	5
+bagel
+	leant
+	cable 33
+	baler 2
+	bagel 1
+	4
+drove
+	leant
+	prose 208
+	drove 5
+	3
+fluid
+	leant
+	solid 119
+	fluid 1
+	3
+grand
+	leant
+	prank 9
+	brand 2
+	grand 1
+	4
+paste
+	leant
+	taste 27
+	baste 5
+	caste 4
+	waste 3
+	paste 2
+	6
+amity
+	leant
+	party 45
+	amity 1
+	3
+glide
+	leant
+	slide 78
+	elide 2
+	glide 1
+	4
+algae
+	leant
+	cable 33
+	alive 3
+	algae 1
+	4
+fizzy
+	leant
+	scour 205
+	giddy 11
+	fizzy 4
+	4
+await
+	leant
+	start 17
+	adapt 2
+	await 1
+	4
+noisy
+	leant
+	sonic 67
+	noisy 1
+	3
+beret
+	leant
+	beret 14
+	2
+amiss
+	leant
+	mayor 111
+	sumac 3
+	amiss 1
+	4
+chock
+	leant
+	scour 205
+	pooch 2
+	chock 1
+	4
+stuck
+	leant
+	south 97
+	study 4
+	stump 3
+	stuck 2
+	5
+mange
+	leant
+	ramen 21
+	mange 1
+	3
+creep
+	leant
+	prose 208
+	creep 1
+	3
+stale
+	leant
+	plate 4
+	stale 1
+	3
+peril
+	leant
+	belle 23
+	peril 2
+	3
+payer
+	leant
+	parse 76
+	paper 2
+	payer 1
+	4
+smith
+	leant
+	south 97
+	sixth 2
+	smith 1
+	4
+stilt
+	leant
+	built 12
+	spilt 2
+	stilt 1
+	4
+dusty
+	leant
+	south 97
+	musty 4
+	gusty 3
+	dusty 2
+	5
+smite
+	leant
+	trite 59
+	suite 5
+	spite 2
+	smite 1
+	5
+bugle
+	leant
+	slide 78
+	boule 5
+	bugle 1
+	4
+offal
+	leant
+	solar 63
+	cloak 2
+	offal 1
+	4
+first
+	leant
+	hoist 56
+	midst 2
+	first 1
+	4
+decay
+	leant
+	recap 12
+	decay 1
+	3
+climb
+	leant
+	solid 119
+	frill 15
+	click 3
+	climb 1
+	5
+chain
+	leant
+	grain 13
+	chain 1
+	3
+begin
+	leant
+	genie 30
+	begin 1
+	3
+ficus
+	leant
+	scour 205
+	mucus 2
+	ficus 1
+	4
+swamp
+	leant
+	crash 62
+	soapy 3
+	swamp 1
+	4
+bloom
+	leant
+	solid 119
+	floor 11
+	gloom 2
+	bloom 1
+	5
+twang
+	leant
+	stank 4
+	twang 1
+	3
+winch
+	leant
+	sonic 67
+	finch 4
+	pinch 3
+	winch 2
+	5
+often
+	leant
+	inter 9
+	often 1
+	3
+sinew
+	leant
+	diner 63
+	piney 2
+	sinew 1
+	4
+dimly
+	leant
+	solid 119
+	drill 3
+	dimly 1
+	4
+rower
+	leant
+	prose 208
+	rover 16
+	roger 2
+	rower 1
+	5
+rhino
+	leant
+	irony 47
+	rhino 1
+	3
+spasm
+	leant
+	crash 62
+	amass 3
+	spasm 1
+	4
+lorry
+	leant
+	lumpy 18
+	lobby 3
+	lowly 2
+	lorry 1
+	5
+cycle
+	leant
+	slide 78
+	boule 5
+	cycle 1
+	4
+flick
+	leant
+	solid 119
+	frill 15
+	flick 1
+	4
+scare
+	leant
+	scare 38
+	2
+quiet
+	leant
+	crest 29
+	eight 3
+	quiet 1
+	4
+court
+	leant
+	hoist 56
+	doubt 3
+	court 1
+	4
+ruder
+	leant
+	prose 208
+	cider 18
+	udder 2
+	ruder 1
+	5
+privy
+	leant
+	scour 205
+	rigid 4
+	privy 1
+	4
+leapt
+	leant
+	least 2
+	leapt 1
+	3
+gypsy
+	leant
+	scour 205
+	gipsy 6
+	gypsy 1
+	4
+gouge
+	leant
+	prose 208
+	vogue 6
+	gouge 1
+	4
+guppy
+	leant
+	scour 205
+	pudgy 15
+	guppy 1
+	4
+patsy
+	leant
+	party 45
+	patsy 1
+	3
+navel
+	leant
+	angel 8
+	panel 2
+	navel 1
+	4
+miner
+	leant
+	diner 63
+	finer 2
+	miner 1
+	4
+serum
+	leant
+	serve 51
+	serif 2
+	serum 1
+	4
+thong
+	leant
+	tying 10
+	thong 1
+	3
+blunt
+	leant
+	glint 3
+	blunt 1
+	3
+fiber
+	leant
+	prose 208
+	cider 18
+	river 4
+	fixer 2
+	fiber 1
+	6
+duvet
+	leant
+	crest 29
+	eight 3
+	duvet 1
+	4
+snare
+	leant
+	knave 3
+	snare 1
+	3
+robot
+	leant
+	hoist 56
+	doubt 3
+	robot 1
+	4
+sooty
+	leant
+	south 97
+	sooty 1
+	3
+gaudy
+	leant
+	mayor 111
+	daisy 17
+	paddy 4
+	bawdy 2
+	gaudy 1
+	6
+visit
+	leant
+	hoist 56
+	visit 1
+	3
+cheat
+	leant
+	cheat 10
+	2
+binge
+	leant
+	diner 63
+	since 6
+	hinge 2
+	binge 1
+	5
+idler
+	leant
+	slide 78
+	wield 4
+	idler 1
+	4
+class
+	leant
+	slack 36
+	clash 3
+	clasp 2
+	class 1
+	5
+salsa
+	leant
+	solar 63
+	sally 2
+	salsa 1
+	4
+sandy
+	leant
+	manor 45
+	candy 7
+	dandy 3
+	handy 2
+	sandy 1
+	6
+triad
+	leant
+	party 45
+	triad 2
+	3
+pesto
+	leant
+	depth 26
+	petty 2
+	pesto 1
+	4
+goner
+	leant
+	diner 63
+	goner 2
+	3
+music
+	leant
+	scour 205
+	music 1
+	3
+opium
+	leant
+	scour 205
+	opium 1
+	3
+shoal
+	leant
+	solar 63
+	shoal 1
+	3
+tasty
+	leant
+	party 45
+	tatty 6
+	tasty 1
+	4
+siren
+	leant
+	diner 63
+	risen 3
+	siren 1
+	4
+jaunt
+	leant
+	taint 10
+	vaunt 5
+	haunt 4
+	jaunt 3
+	5
+hippy
+	leant
+	scour 205
+	giddy 11
+	fizzy 4
+	hippy 2
+	5
+swash
+	leant
+	crash 62
+	swash 4
+	3
+skimp
+	leant
+	scour 205
+	spiky 5
+	skimp 1
+	4
+tight
+	leant
+	hoist 56
+	right 5
+	wight 4
+	fight 3
+	tight 2
+	6
+roomy
+	leant
+	scour 205
+	brood 10
+	roomy 1
+	4
+dough
+	leant
+	scour 205
+	bough 5
+	dough 1
+	4
+whole
+	leant
+	slide 78
+	boule 5
+	whole 1
+	4
+smack
+	leant
+	crash 62
+	scamp 2
+	smack 1
+	4
+tamer
+	leant
+	taste 27
+	taker 3
+	taper 2
+	tamer 1
+	5
+ideal
+	leant
+	cable 33
+	gleam 5
+	ideal 1
+	4
+buddy
+	leant
+	scour 205
+	pudgy 15
+	muddy 2
+	buddy 1
+	5
+enjoy
+	leant
+	diner 63
+	envoy 6
+	enjoy 1
+	4
+colon
+	leant
+	nobly 8
+	colon 1
+	3
+quite
+	leant
+	trite 59
+	suite 5
+	quite 1
+	4
+dying
+	leant
+	irony 47
+	vying 2
+	dying 1
+	4
+talon
+	leant
+	tonal 3
+	talon 1
+	3
+mambo
+	leant
+	mayor 111
+	mambo 2
+	3
+audit
+	leant
+	about 17
+	audit 1
+	3
+blood
+	leant
+	solid 119
+	flood 3
+	blood 1
+	4
+puree
+	leant
+	prose 208
+	puree 2
+	3
+scram
+	leant
+	mayor 111
+	umbra 3
+	scram 1
+	4
+angel
+	leant
+	angel 8
+	2
+sassy
+	leant
+	mayor 111
+	daisy 17
+	gassy 2
+	sassy 1
+	5
+ample
+	leant
+	cable 33
+	agile 4
+	ample 2
+	4
+banjo
+	leant
+	manor 45
+	banjo 1
+	3
+shown
+	leant
+	sonic 67
+	sworn 7
+	shown 1
+	4
+karma
+	leant
+	mayor 111
+	karma 1
+	3
+uncut
+	leant
+	unfit 8
+	uncut 1
+	3
+wryly
+	leant
+	solid 119
+	plumb 12
+	wryly 1
+	4
+taunt
+	leant
+	taint 10
+	taunt 1
+	3
+these
+	leant
+	trite 59
+	theme 4
+	these 1
+	4
+natal
+	leant
+	tonal 3
+	natal 1
+	3
+spoke
+	leant
+	prose 208
+	scope 2
+	spoke 1
+	4
+duchy
+	leant
+	scour 205
+	chuck 8
+	duchy 1
+	4
+stoop
+	leant
+	south 97
+	stork 8
+	stoop 4
+	4
+howdy
+	leant
+	scour 205
+	dodgy 10
+	howdy 1
+	4
+hoard
+	leant
+	crash 62
+	wharf 2
+	hoard 1
+	4
+evict
+	leant
+	crest 29
+	edict 3
+	evict 1
+	4
+board
+	leant
+	crash 62
+	award 7
+	board 2
+	4
+tower
+	leant
+	trite 59
+	tuber 3
+	tower 1
+	4
+tenth
+	leant
+	tenor 3
+	tenth 2
+	3
+gloss
+	leant
+	solid 119
+	floss 2
+	gloss 1
+	4
+sedan
+	leant
+	began 4
+	pecan 2
+	sedan 1
+	4
+sling
+	leant
+	slink 14
+	sling 1
+	3
+guest
+	leant
+	crest 29
+	quest 2
+	guest 1
+	4
+micro
+	leant
+	scour 205
+	rocky 3
+	micro 1
+	4
+ester
+	leant
+	trite 59
+	outer 8
+	ester 1
+	4
+loamy
+	leant
+	llama 2
+	loamy 1
+	3
+vinyl
+	leant
+	nobly 8
+	vinyl 1
+	3
+greed
+	leant
+	prose 208
+	cried 15
+	breed 3
+	freed 2
+	greed 1
+	6
+knoll
+	leant
+	nobly 8
+	knoll 1
+	3
+crass
+	leant
+	crash 62
+	crass 1
+	3
+flora
+	leant
+	solar 63
+	carol 2
+	flora 1
+	4
+macaw
+	leant
+	mayor 111
+	mamma 7
+	macaw 1
+	4
+along
+	leant
+	along 1
+	2
+drunk
+	leant
+	irony 47
+	wrung 2
+	drunk 1
+	4
+defer
+	leant
+	serve 51
+	reedy 4
+	defer 1
+	4
+vigor
+	leant
+	scour 205
+	prior 3
+	vigor 1
+	4
+drake
+	leant
+	scare 38
+	grade 9
+	drape 2
+	drake 1
+	5
+cheek
+	leant
+	prose 208
+	dicey 6
+	cheek 1
+	4
+might
+	leant
+	hoist 56
+	right 5
+	wight 4
+	fight 3
+	tight 2
+	might 1
+	7
+haste
+	leant
+	taste 27
+	baste 5
+	caste 4
+	waste 3
+	paste 2
+	haste 1
+	7
+staff
+	leant
+	stark 13
+	stamp 4
+	staid 3
+	stash 2
+	staff 1
+	6
+eking
+	leant
+	prone 23
+	eking 3
+	3
+needy
+	leant
+	genie 30
+	never 5
+	needy 1
+	4
+cargo
+	leant
+	mayor 111
+	radio 2
+	cargo 1
+	4
+canon
+	leant
+	manor 45
+	canon 1
+	3
+flack
+	leant
+	slack 36
+	clack 3
+	black 2
+	flack 1
+	5
+flyer
+	leant
+	slide 78
+	ulcer 8
+	flyer 1
+	4
+metal
+	leant
+	petal 4
+	fetal 2
+	metal 1
+	4
+leafy
+	leant
+	lease 6
+	leaky 3
+	leafy 1
+	4
+abhor
+	leant
+	mayor 111
+	ardor 3
+	abhor 1
+	4
+manic
+	leant
+	manor 45
+	mania 4
+	manic 1
+	4
+meaty
+	leant
+	heath 6
+	meaty 1
+	3
+poise
+	leant
+	prose 208
+	posse 2
+	poise 1
+	4
+style
+	leant
+	title 13
+	stole 2
+	style 1
+	4
+oddly
+	leant
+	solid 119
+	droll 3
+	oddly 1
+	4
+cleft
+	leant
+	sleet 11
+	cleft 1
+	3
+sweet
+	leant
+	crest 29
+	sheet 3
+	sweet 1
+	4
+ferry
+	leant
+	serve 51
+	merry 8
+	berry 2
+	ferry 1
+	5
+berth
+	leant
+	depth 26
+	teeth 2
+	berth 1
+	4
+aging
+	leant
+	canny 11
+	aping 3
+	aging 1
+	4
+lover
+	leant
+	loser 9
+	lower 2
+	lover 1
+	4
+poppy
+	leant
+	scour 205
+	dodgy 10
+	hobby 3
+	poppy 1
+	5
+flirt
+	leant
+	built 12
+	flirt 1
+	3
+ovate
+	leant
+	grate 14
+	state 4
+	ovate 2
+	4
+idiot
+	leant
+	hoist 56
+	idiot 1
+	3
+agora
+	leant
+	mayor 111
+	cobra 5
+	agora 1
+	4
+pleat
+	leant
+	bleat 6
+	cleat 2
+	pleat 1
+	4
+unmet
+	leant
+	onset 5
+	unmet 1
+	3
+usage
+	leant
+	scare 38
+	phase 3
+	usage 1
+	4
+mouth
+	leant
+	south 97
+	youth 2
+	mouth 1
+	4
+steak
+	leant
+	taste 27
+	stead 3
+	steam 2
+	steak 1
+	5
+maybe
+	leant
+	parse 76
+	gauze 10
+	cache 3
+	waive 2
+	maybe 1
+	6
+funky
+	leant
+	sonic 67
+	hunky 2
+	funky 1
+	4
+irate
+	leant
+	grate 14
+	crate 2
+	irate 1
+	4
+borne
+	leant
+	prone 23
+	borne 1
+	3
+apron
+	leant
+	manor 45
+	arson 2
+	apron 1
+	4
+crawl
+	leant
+	slack 36
+	crawl 1
+	3
+pride
+	leant
+	prose 208
+	prize 5
+	prime 3
+	pride 2
+	5
+grout
+	leant
+	hoist 56
+	trout 2
+	grout 1
+	4
+china
+	leant
+	canny 11
+	china 1
+	3
+giver
+	leant
+	prose 208
+	cider 18
+	river 4
+	giver 1
+	5
+owner
+	leant
+	diner 63
+	goner 2
+	owner 1
+	4
+pivot
+	leant
+	hoist 56
+	bigot 4
+	pivot 1
+	4
+chief
+	leant
+	prose 208
+	dicey 6
+	chief 1
+	4
+itchy
+	leant
+	south 97
+	thick 4
+	itchy 1
+	4
+nasty
+	leant
+	tangy 10
+	nasty 1
+	3
+siege
+	leant
+	prose 208
+	sieve 3
+	siege 1
+	4
+expel
+	leant
+	slide 78
+	wheel 12
+	excel 2
+	expel 1
+	5
+quilt
+	leant
+	built 12
+	guilt 2
+	quilt 1
+	4
+nomad
+	leant
+	manor 45
+	woman 2
+	nomad 1
+	4
+spine
+	leant
+	prone 23
+	spine 1
+	3
+alpha
+	leant
+	solar 63
+	badly 13
+	awful 2
+	alpha 1
+	5
+enter
+	leant
+	inter 9
+	enter 1
+	3
+gaily
+	leant
+	solar 63
+	badly 13
+	gaily 2
+	4
+forte
+	leant
+	trite 59
+	route 2
+	forte 1
+	4
+zonal
+	leant
+	banal 12
+	final 2
+	zonal 1
+	4
+unfit
+	leant
+	unfit 8
+	2
+catch
+	leant
+	party 45
+	hatch 7
+	batch 4
+	match 3
+	watch 2
+	catch 1
+	7
+vocal
+	leant
+	solar 63
+	focal 3
+	vocal 1
+	4
+spied
+	leant
+	prose 208
+	sweep 5
+	spied 1
+	4
+topaz
+	leant
+	party 45
+	topaz 1
+	3
+booze
+	leant
+	prose 208
+	biome 5
+	booze 1
+	4
+freer
+	leant
+	prose 208
+	cried 15
+	freer 1
+	4
+adorn
+	leant
+	manor 45
+	acorn 4
+	adorn 1
+	4
+force
+	leant
+	prose 208
+	forge 7
+	force 1
+	4
+plump
+	leant
+	solid 119
+	plumb 12
+	plump 1
+	4
+brook
+	leant
+	scour 205
+	brood 10
+	broom 2
+	brook 1
+	5
+vouch
+	leant
+	scour 205
+	couch 4
+	pouch 2
+	vouch 1
+	5
+kitty
+	leant
+	south 97
+	ditty 7
+	bitty 3
+	witty 2
+	kitty 1
+	6
+lusty
+	leant
+	lofty 2
+	lusty 1
+	3
+jerky
+	leant
+	serve 51
+	merry 8
+	perky 3
+	jerky 1
+	5
+stand
+	leant
+	stank 4
+	stand 1
+	3
+prick
+	leant
+	scour 205
+	crimp 6
+	prick 1
+	4
+wimpy
+	leant
+	scour 205
+	giddy 11
+	fizzy 4
+	hippy 2
+	wimpy 1
+	6
+satin
+	leant
+	tangy 10
+	baton 2
+	satin 1
+	4
+hairy
+	leant
+	mayor 111
+	harpy 9
+	hairy 1
+	4
+masse
+	leant
+	parse 76
+	cause 2
+	masse 1
+	4
+which
+	leant
+	scour 205
+	civic 5
+	which 1
+	4
+lumpy
+	leant
+	lumpy 18
+	2
+model
+	leant
+	slide 78
+	dwell 3
+	model 1
+	4
+roast
+	leant
+	start 17
+	roast 1
+	3
+batty
+	leant
+	party 45
+	tatty 6
+	fatty 3
+	catty 2
+	batty 1
+	6
+lipid
+	leant
+	lumpy 18
+	lipid 1
+	3
+intro
+	leant
+	tonic 14
+	intro 1
+	3
+drain
+	leant
+	grain 13
+	brain 2
+	drain 1
+	4
+donor
+	leant
+	sonic 67
+	honor 3
+	donor 1
+	4
+remit
+	leant
+	beret 14
+	refit 3
+	remit 1
+	4
+leave
+	leant
+	lease 6
+	leave 1
+	3
+tread
+	leant
+	taste 27
+	tweak 2
+	tread 1
+	4
+hover
+	leant
+	prose 208
+	rover 16
+	cover 3
+	mover 2
+	hover 1
+	6
+mango
+	leant
+	manor 45
+	mango 1
+	3
+miser
+	leant
+	prose 208
+	shrew 9
+	riser 2
+	miser 1
+	5
+twirl
+	leant
+	still 11
+	twirl 1
+	3
+bossy
+	leant
+	scour 205
+	bosom 3
+	bossy 1
+	4
+gamer
+	leant
+	parse 76
+	wager 10
+	gazer 3
+	gayer 2
+	gamer 1
+	6
+mouse
+	leant
+	prose 208
+	house 3
+	mouse 1
+	4
+glass
+	leant
+	slack 36
+	flash 2
+	glass 1
+	4
+exert
+	leant
+	crest 29
+	overt 2
+	exert 1
+	4
+until
+	leant
+	until 1
+	2
+leach
+	leant
+	lease 6
+	leaky 3
+	leach 1
+	4
+lapse
+	leant
+	lapel 7
+	lapse 1
+	3
+loose
+	leant
+	loser 9
+	louse 2
+	loose 1
+	4
+clove
+	leant
+	slide 78
+	globe 8
+	clove 2
+	4
+repel
+	leant
+	belle 23
+	repel 3
+	3
+graph
+	leant
+	crash 62
+	graph 1
+	3
+dread
+	leant
+	parse 76
+	break 10
+	dream 3
+	dread 1
+	5
+madam
+	leant
+	mayor 111
+	magma 7
+	madam 1
+	4
+known
+	leant
+	sonic 67
+	drown 5
+	known 1
+	4
+cream
+	leant
+	parse 76
+	break 10
+	dream 3
+	cream 1
+	5
+druid
+	leant
+	scour 205
+	furry 8
+	druid 1
+	4
+jiffy
+	leant
+	scour 205
+	giddy 11
+	fizzy 4
+	jiffy 1
+	5
+guava
+	leant
+	crash 62
+	foamy 2
+	guava 1
+	4
+polyp
+	leant
+	solid 119
+	golly 6
+	polyp 1
+	4
+anger
+	leant
+	ramen 21
+	anger 1
+	3
+detox
+	leant
+	depth 26
+	deter 2
+	detox 1
+	4
+birth
+	leant
+	south 97
+	mirth 5
+	girth 2
+	birth 1
+	5
+began
+	leant
+	began 4
+	2
+arbor
+	leant
+	mayor 111
+	ardor 3
+	arbor 1
+	4
+sever
+	leant
+	serve 51
+	sever 1
+	3
+glean
+	leant
+	angel 8
+	glean 1
+	3
+slept
+	leant
+	sleet 11
+	slept 1
+	3
+forum
+	leant
+	scour 205
+	forum 1
+	3
+refer
+	leant
+	serve 51
+	reedy 4
+	refer 1
+	4
+revel
+	leant
+	belle 23
+	repel 3
+	revel 1
+	4
+pupil
+	leant
+	solid 119
+	vigil 3
+	pupil 1
+	4
+punch
+	leant
+	sonic 67
+	hunch 4
+	bunch 3
+	munch 2
+	punch 1
+	6
+braid
+	leant
+	crash 62
+	braid 5
+	3
+weary
+	leant
+	heard 15
+	rearm 2
+	weary 1
+	4
+guard
+	leant
+	crash 62
+	award 7
+	board 2
+	guard 1
+	5
+chirp
+	leant
+	scour 205
+	crimp 6
+	chirp 1
+	4
+jewel
+	leant
+	belle 23
+	repel 3
+	jewel 1
+	4
+horny
+	leant
+	irony 47
+	corny 2
+	horny 1
+	4
+super
+	leant
+	prose 208
+	sperm 2
+	super 1
+	4
+taboo
+	leant
+	party 45
+	hatch 7
+	taboo 1
+	4
+taste
+	leant
+	taste 27
+	2
+scorn
+	leant
+	sonic 67
+	scorn 1
+	3
+groin
+	leant
+	sonic 67
+	groin 1
+	3
+trust
+	leant
+	hoist 56
+	crust 4
+	trust 1
+	4
+elope
+	leant
+	slide 78
+	globe 8
+	clove 2
+	elope 1
+	5
+slang
+	leant
+	blank 8
+	clang 3
+	slang 1
+	4
+rusty
+	leant
+	south 97
+	musty 4
+	gusty 3
+	dusty 2
+	rusty 1
+	6
+evoke
+	leant
+	prose 208
+	biome 5
+	choke 2
+	evoke 1
+	5
+purge
+	leant
+	prose 208
+	puree 2
+	purge 1
+	4
+value
+	leant
+	cable 33
+	valve 5
+	value 1
+	4
+yearn
+	leant
+	yearn 1
+	2
+hazel
+	leant
+	cable 33
+	easel 4
+	gavel 2
+	hazel 1
+	5
+shirt
+	leant
+	hoist 56
+	shift 2
+	shirt 1
+	4
+fudge
+	leant
+	prose 208
+	judge 12
+	budge 2
+	fudge 1
+	5
+third
+	leant
+	south 97
+	thick 4
+	third 1
+	4
+dance
+	leant
+	ramen 21
+	dance 3
+	3
+sharp
+	leant
+	crash 62
+	shark 3
+	shard 2
+	sharp 1
+	5
+mower
+	leant
+	prose 208
+	rover 16
+	mower 6
+	4
+parka
+	leant
+	mayor 111
+	rapid 7
+	parka 1
+	4
+devil
+	leant
+	belle 23
+	peril 2
+	devil 1
+	4
+harsh
+	leant
+	mayor 111
+	rapid 7
+	harsh 1
+	4
+built
+	leant
+	built 12
+	2
+ruddy
+	leant
+	scour 205
+	furry 8
+	ruddy 2
+	4
+dodge
+	leant
+	prose 208
+	vogue 6
+	dodge 1
+	4
+chalk
+	leant
+	slack 36
+	chalk 1
+	3
+quash
+	leant
+	crash 62
+	swash 4
+	quash 1
+	4
+stung
+	leant
+	tying 10
+	stung 1
+	3
+forty
+	leant
+	south 97
+	booty 3
+	forty 1
+	4
+pilot
+	leant
+	built 12
+	split 2
+	pilot 1
+	4
+befit
+	leant
+	beret 14
+	befit 1
+	3
+gayly
+	leant
+	solar 63
+	badly 13
+	gaily 2
+	gayly 1
+	5
+unlit
+	leant
+	unlit 1
+	2
+cider
+	leant
+	prose 208
+	cider 18
+	3
+vegan
+	leant
+	began 4
+	vegan 1
+	3
+igloo
+	leant
+	solid 119
+	igloo 1
+	3
+boost
+	leant
+	hoist 56
+	roost 4
+	boost 1
+	4
+spend
+	leant
+	prone 23
+	spend 1
+	3
+lymph
+	leant
+	lumpy 18
+	lymph 1
+	3
+abuse
+	leant
+	parse 76
+	amuse 2
+	abuse 1
+	4
+daunt
+	leant
+	taint 10
+	vaunt 5
+	haunt 4
+	jaunt 3
+	daunt 2
+	6
+shawl
+	leant
+	slack 36
+	small 3
+	shawl 1
+	4
+shelf
+	leant
+	slide 78
+	smell 5
+	shelf 1
+	4
+icing
+	leant
+	irony 47
+	icing 1
+	3
+stuff
+	leant
+	south 97
+	study 4
+	stump 3
+	stuck 2
+	stuff 1
+	6
+macho
+	leant
+	mayor 111
+	mambo 2
+	macho 1
+	4
+abled
+	leant
+	cable 33
+	bleak 2
+	abled 1
+	4
+gaunt
+	leant
+	taint 10
+	vaunt 5
+	haunt 4
+	jaunt 3
+	daunt 2
+	gaunt 1
+	7
+chill
+	leant
+	solid 119
+	frill 15
+	chill 2
+	4
+money
+	leant
+	diner 63
+	boney 3
+	honey 2
+	money 1
+	5
+tense
+	leant
+	tenor 3
+	tenth 2
+	tense 1
+	4
+blaze
+	leant
+	blare 16
+	blame 3
+	blade 2
+	blaze 1
+	5
+toddy
+	leant
+	south 97
+	topic 6
+	toddy 1
+	4
+stone
+	leant
+	twine 3
+	stone 1
+	3
+unset
+	leant
+	unmet 5
+	unset 1
+	3
+snarl
+	leant
+	plain 4
+	snarl 1
+	3
+rugby
+	leant
+	scour 205
+	furry 8
+	ruddy 2
+	rugby 1
+	5
+under
+	leant
+	diner 63
+	under 1
+	3
+piper
+	leant
+	prose 208
+	purer 2
+	piper 1
+	4
+speck
+	leant
+	prose 208
+	sweep 5
+	speck 1
+	4
+derby
+	leant
+	serve 51
+	merry 8
+	perky 3
+	derby 1
+	5
+cinch
+	leant
+	sonic 67
+	finch 4
+	pinch 3
+	winch 2
+	cinch 1
+	6
+aisle
+	leant
+	cable 33
+	agile 4
+	aisle 1
+	4
+frock
+	leant
+	scour 205
+	crook 5
+	frock 1
+	4
+sting
+	leant
+	tying 10
+	sting 1
+	3
+butte
+	leant
+	trite 59
+	butte 1
+	3
+snuff
+	leant
+	sonic 67
+	spurn 2
+	snuff 1
+	4
+agate
+	leant
+	grate 14
+	agate 1
+	3
+tarot
+	leant
+	about 17
+	tarot 1
+	3
+spear
+	leant
+	parse 76
+	spear 1
+	3
+tough
+	leant
+	south 97
+	touch 2
+	tough 1
+	4
+abate
+	leant
+	grate 14
+	state 4
+	ovate 2
+	abate 1
+	5
+crisp
+	leant
+	scour 205
+	crisp 1
+	3
+adore
+	leant
+	parse 76
+	azure 4
+	afire 2
+	adore 1
+	5
+manga
+	leant
+	manor 45
+	mania 4
+	manga 1
+	4
+aunty
+	leant
+	tangy 10
+	aunty 1
+	3
+blink
+	leant
+	slink 14
+	clink 2
+	blink 1
+	4
+apple
+	leant
+	cable 33
+	agile 4
+	ample 2
+	apple 1
+	5
+guess
+	leant
+	prose 208
+	chess 2
+	guess 1
+	4
+sweat
+	leant
+	cheat 10
+	treat 3
+	sweat 1
+	4
+price
+	leant
+	prose 208
+	prize 5
+	prime 3
+	pride 2
+	price 1
+	6
+canny
+	leant
+	canny 11
+	2
+quark
+	leant
+	crash 62
+	award 7
+	ovary 2
+	quark 1
+	5
+scrum
+	leant
+	scour 205
+	scrub 2
+	scrum 1
+	4
+grass
+	leant
+	crash 62
+	grasp 3
+	grass 1
+	4
+tumor
+	leant
+	south 97
+	outgo 5
+	tumor 1
+	4
+tangy
+	leant
+	tangy 10
+	2
+boast
+	leant
+	start 17
+	coast 2
+	boast 1
+	4
+eying
+	leant
+	prone 23
+	eking 3
+	eying 1
+	4
+cedar
+	leant
+	recap 12
+	cedar 1
+	3
+swarm
+	leant
+	crash 62
+	spark 2
+	swarm 1
+	4
+husky
+	leant
+	scour 205
+	mushy 8
+	hussy 2
+	husky 1
+	5
+matey
+	leant
+	taste 27
+	water 5
+	matey 1
+	4
+cater
+	leant
+	taste 27
+	water 5
+	eater 3
+	hater 2
+	cater 1
+	6
+minim
+	leant
+	sonic 67
+	minim 1
+	3
+laden
+	leant
+	lance 2
+	laden 1
+	3
+blurb
+	leant
+	solid 119
+	plumb 12
+	blurb 1
+	4
+snack
+	leant
+	grain 13
+	snaky 3
+	snack 1
+	4
+leash
+	leant
+	lease 6
+	leash 1
+	3
+wrack
+	leant
+	crash 62
+	wrack 1
+	3
+pearl
+	leant
+	realm 3
+	pearl 1
+	3
+bathe
+	leant
+	taste 27
+	bathe 1
+	3
+actor
+	leant
+	party 45
+	triad 2
+	actor 1
+	4
+diner
+	leant
+	diner 63
+	2
+sunny
+	leant
+	irony 47
+	bunny 3
+	sunny 2
+	4
+incur
+	leant
+	sonic 67
+	incur 1
+	3
+rover
+	leant
+	prose 208
+	rover 16
+	3
+nasal
+	leant
+	banal 12
+	naval 2
+	nasal 1
+	4
+skirt
+	leant
+	hoist 56
+	swift 2
+	skirt 1
+	4
+aptly
+	leant
+	trial 14
+	salty 3
+	aptly 1
+	4
+funny
+	leant
+	irony 47
+	bunny 3
+	sunny 2
+	funny 1
+	5
+snore
+	leant
+	diner 63
+	nurse 2
+	snore 1
+	4
+locus
+	leant
+	lumpy 18
+	locus 1
+	3
+psalm
+	leant
+	slack 36
+	psalm 1
+	3
+flaky
+	leant
+	slack 36
+	flaky 1
+	3
+bulky
+	leant
+	solid 119
+	bully 7
+	bulky 1
+	4
+gauge
+	leant
+	parse 76
+	gauze 10
+	gauge 1
+	4
+valet
+	leant
+	bleat 6
+	valet 1
+	3
+canoe
+	leant
+	ramen 21
+	dance 3
+	canoe 1
+	4
+erode
+	leant
+	prose 208
+	drove 5
+	erode 1
+	4
+porch
+	leant
+	scour 205
+	micro 3
+	porch 1
+	4
+quill
+	leant
+	solid 119
+	frill 15
+	chill 2
+	quill 1
+	5
+slime
+	leant
+	slide 78
+	slice 2
+	slime 1
+	4
+quake
+	leant
+	scare 38
+	adage 7
+	quake 1
+	4

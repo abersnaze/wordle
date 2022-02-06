@@ -1,0 +1,12922 @@
+humph
+	stare
+	could 227
+	fungi 16
+	humph 4
+	4
+woody
+	stare
+	could 227
+	dowdy 8
+	woody 1
+	4
+broom
+	stare
+	crony 100
+	droop 13
+	broom 3
+	4
+lurid
+	stare
+	crony 100
+	lurid 2
+	3
+disco
+	stare
+	missy 38
+	disco 2
+	3
+flood
+	stare
+	could 227
+	flood 3
+	3
+panel
+	stare
+	laden 51
+	panel 2
+	3
+waver
+	stare
+	paler 47
+	wager 11
+	waver 2
+	4
+basin
+	stare
+	basin 16
+	2
+hutch
+	stare
+	count 98
+	hutch 3
+	3
+payer
+	stare
+	paler 47
+	payer 3
+	3
+boxer
+	stare
+	decor 118
+	mower 18
+	rover 9
+	joker 5
+	boxer 3
+	6
+decor
+	stare
+	decor 118
+	2
+glaze
+	stare
+	glade 24
+	glaze 1
+	3
+ozone
+	stare
+	guile 87
+	pence 11
+	ozone 1
+	4
+cleat
+	stare
+	pleat 21
+	cleat 2
+	3
+ready
+	stare
+	ready 3
+	2
+deity
+	stare
+	tenet 54
+	depth 9
+	deity 1
+	4
+joker
+	stare
+	decor 118
+	mower 18
+	rover 9
+	joker 5
+	5
+barge
+	stare
+	barge 7
+	2
+noise
+	stare
+	loose 21
+	poise 6
+	noise 1
+	4
+bunny
+	stare
+	could 227
+	fungi 16
+	bunny 2
+	4
+touch
+	stare
+	count 98
+	touch 1
+	3
+tweet
+	stare
+	tenet 54
+	tweet 1
+	3
+spout
+	stare
+	shout 18
+	spout 3
+	3
+rinse
+	stare
+	rouse 10
+	rinse 1
+	3
+slang
+	stare
+	scalp 27
+	slang 5
+	3
+using
+	stare
+	missy 38
+	using 1
+	3
+clout
+	stare
+	count 98
+	clout 1
+	3
+spoof
+	stare
+	slink 67
+	swoop 7
+	spoof 1
+	4
+sharp
+	stare
+	sharp 8
+	2
+adapt
+	stare
+	plait 9
+	adapt 1
+	3
+silly
+	stare
+	slink 67
+	silly 3
+	3
+fauna
+	stare
+	canal 127
+	fauna 1
+	3
+pesto
+	stare
+	upset 14
+	pesto 1
+	3
+baste
+	stare
+	baste 6
+	2
+shone
+	stare
+	spine 27
+	shone 3
+	3
+creak
+	stare
+	paler 47
+	creak 10
+	3
+sixth
+	stare
+	south 18
+	sixth 2
+	3
+epoxy
+	stare
+	olden 116
+	epoxy 3
+	3
+maple
+	stare
+	angle 41
+	fable 4
+	maple 2
+	4
+shawl
+	stare
+	scalp 27
+	slang 5
+	shawl 1
+	4
+clank
+	stare
+	clank 37
+	2
+civil
+	stare
+	could 227
+	clink 6
+	civil 1
+	4
+brave
+	stare
+	grace 14
+	drake 5
+	brave 2
+	4
+stool
+	stare
+	stink 22
+	stoop 8
+	stool 2
+	4
+tarot
+	stare
+	tarot 13
+	2
+vault
+	stare
+	taint 74
+	vault 5
+	3
+plain
+	stare
+	clank 37
+	plain 1
+	3
+fixer
+	stare
+	decor 118
+	filer 26
+	fixer 3
+	4
+yield
+	stare
+	olden 116
+	yield 5
+	3
+mural
+	stare
+	carol 64
+	mural 3
+	3
+sweat
+	stare
+	sweat 1
+	2
+nasty
+	stare
+	nasty 10
+	2
+defer
+	stare
+	decor 118
+	defer 2
+	3
+flare
+	stare
+	flare 4
+	2
+livid
+	stare
+	could 227
+	livid 3
+	3
+heavy
+	stare
+	leach 10
+	heavy 2
+	3
+magma
+	stare
+	canal 127
+	magma 5
+	3
+never
+	stare
+	decor 118
+	fever 9
+	never 2
+	4
+whoop
+	stare
+	could 227
+	whoop 8
+	3
+slack
+	stare
+	scalp 27
+	slack 1
+	3
+royal
+	stare
+	carol 64
+	royal 1
+	3
+octet
+	stare
+	tenet 54
+	octet 1
+	3
+bravo
+	stare
+	drawn 30
+	gravy 8
+	bravo 1
+	4
+grove
+	stare
+	grope 49
+	grove 1
+	3
+humus
+	stare
+	missy 38
+	humus 1
+	3
+teach
+	stare
+	meant 11
+	heath 3
+	teach 1
+	4
+gourd
+	stare
+	glory 20
+	gourd 1
+	3
+upper
+	stare
+	decor 118
+	filer 26
+	upper 6
+	4
+sleep
+	stare
+	spiel 21
+	sleep 1
+	3
+clone
+	stare
+	guile 87
+	delve 6
+	clone 2
+	4
+awash
+	stare
+	clash 14
+	awash 3
+	3
+bongo
+	stare
+	could 227
+	bongo 10
+	3
+weave
+	stare
+	glade 24
+	knave 9
+	weave 2
+	4
+scaly
+	stare
+	scalp 27
+	scaly 2
+	3
+spill
+	stare
+	slink 67
+	spill 2
+	3
+spent
+	stare
+	slept 10
+	spent 1
+	3
+crumb
+	stare
+	crony 100
+	crumb 4
+	3
+wring
+	stare
+	crony 100
+	bring 7
+	wring 1
+	4
+shale
+	stare
+	shale 12
+	2
+goner
+	stare
+	decor 118
+	mower 18
+	rover 9
+	joker 5
+	boxer 3
+	goner 2
+	7
+crisp
+	stare
+	crisp 12
+	2
+grind
+	stare
+	crony 100
+	bring 7
+	grind 1
+	4
+smash
+	stare
+	scalp 27
+	shaky 7
+	smash 2
+	4
+idiom
+	stare
+	could 227
+	idiom 3
+	3
+shore
+	stare
+	shore 7
+	2
+gloat
+	stare
+	taint 74
+	float 10
+	gloat 2
+	4
+pasta
+	stare
+	nasty 10
+	pasta 1
+	3
+brisk
+	stare
+	crisp 12
+	brisk 2
+	3
+spasm
+	stare
+	scalp 27
+	spawn 4
+	spasm 1
+	4
+spool
+	stare
+	slink 67
+	spool 5
+	3
+speed
+	stare
+	spiel 21
+	speed 1
+	3
+great
+	stare
+	later 14
+	great 3
+	3
+stave
+	stare
+	stave 5
+	2
+pedal
+	stare
+	laden 51
+	pedal 2
+	3
+inner
+	stare
+	decor 118
+	filer 26
+	inner 1
+	4
+pansy
+	stare
+	basin 16
+	pansy 1
+	3
+tease
+	stare
+	tease 1
+	2
+tower
+	stare
+	meter 30
+	tuber 4
+	tower 2
+	4
+brawn
+	stare
+	drawn 30
+	brawn 2
+	3
+ruder
+	stare
+	decor 118
+	ruder 7
+	3
+civic
+	stare
+	could 227
+	civic 4
+	3
+cubic
+	stare
+	could 227
+	cubic 2
+	3
+atone
+	stare
+	atone 1
+	2
+dopey
+	stare
+	olden 116
+	dopey 1
+	3
+beady
+	stare
+	leach 10
+	beady 1
+	3
+pilot
+	stare
+	count 98
+	pilot 4
+	3
+shaft
+	stare
+	slant 5
+	shaft 1
+	3
+porch
+	stare
+	crony 100
+	porch 2
+	3
+maker
+	stare
+	paler 47
+	wager 11
+	maker 4
+	4
+right
+	stare
+	throb 42
+	right 1
+	3
+plume
+	stare
+	guile 87
+	flume 4
+	plume 1
+	4
+claim
+	stare
+	clank 37
+	claim 2
+	3
+shire
+	stare
+	shore 7
+	shire 1
+	3
+story
+	stare
+	story 3
+	2
+hussy
+	stare
+	missy 38
+	hussy 3
+	3
+sower
+	stare
+	sewer 14
+	sower 1
+	3
+munch
+	stare
+	could 227
+	munch 8
+	3
+cameo
+	stare
+	laden 51
+	cameo 2
+	3
+poser
+	stare
+	poser 14
+	2
+stomp
+	stare
+	stink 22
+	stoop 8
+	stomp 1
+	4
+owing
+	stare
+	could 227
+	whoop 8
+	owing 1
+	4
+weary
+	stare
+	yearn 7
+	weary 1
+	3
+couch
+	stare
+	could 227
+	couch 2
+	3
+parry
+	stare
+	cairn 16
+	parry 3
+	3
+unity
+	stare
+	count 98
+	unity 3
+	3
+union
+	stare
+	could 227
+	jumbo 5
+	union 1
+	4
+roast
+	stare
+	roast 2
+	2
+butte
+	stare
+	tithe 20
+	butte 1
+	3
+loose
+	stare
+	loose 21
+	2
+sneer
+	stare
+	sewer 14
+	sneer 2
+	3
+lover
+	stare
+	decor 118
+	mower 18
+	rover 9
+	lover 2
+	5
+cause
+	stare
+	lapse 9
+	cause 2
+	3
+rocky
+	stare
+	crony 100
+	rocky 1
+	3
+album
+	stare
+	canal 127
+	aloud 14
+	album 1
+	4
+moody
+	stare
+	could 227
+	downy 8
+	moody 2
+	4
+pence
+	stare
+	guile 87
+	pence 11
+	3
+grant
+	stare
+	tract 12
+	grant 3
+	3
+loopy
+	stare
+	could 227
+	loopy 5
+	3
+ashen
+	stare
+	ashen 4
+	2
+strap
+	stare
+	strap 3
+	2
+blond
+	stare
+	could 227
+	flood 3
+	blond 1
+	4
+drunk
+	stare
+	crony 100
+	bring 7
+	drunk 1
+	4
+hence
+	stare
+	guile 87
+	hence 11
+	3
+abled
+	stare
+	laden 51
+	abled 1
+	3
+crane
+	stare
+	grace 14
+	crane 3
+	3
+quilt
+	stare
+	count 98
+	quilt 3
+	3
+adorn
+	stare
+	cairn 16
+	adorn 1
+	3
+scowl
+	stare
+	slink 67
+	spool 5
+	scowl 1
+	4
+shall
+	stare
+	scalp 27
+	shall 2
+	3
+pasty
+	stare
+	nasty 10
+	pasty 3
+	3
+email
+	stare
+	leach 10
+	email 1
+	3
+plier
+	stare
+	decor 118
+	filer 26
+	plier 1
+	4
+close
+	stare
+	loose 21
+	close 1
+	3
+manga
+	stare
+	canal 127
+	manga 2
+	3
+hymen
+	stare
+	olden 116
+	given 4
+	hymen 2
+	4
+balmy
+	stare
+	canal 127
+	daily 9
+	balmy 1
+	4
+shake
+	stare
+	shale 12
+	shake 5
+	3
+bawdy
+	stare
+	canal 127
+	bawdy 13
+	3
+gripe
+	stare
+	grope 49
+	gripe 1
+	3
+plait
+	stare
+	plait 9
+	2
+sonic
+	stare
+	slink 67
+	sonic 1
+	3
+width
+	stare
+	count 98
+	width 12
+	3
+quite
+	stare
+	tithe 20
+	quite 3
+	3
+skate
+	stare
+	skate 2
+	2
+weird
+	stare
+	ferry 10
+	weird 1
+	3
+chill
+	stare
+	could 227
+	chill 2
+	3
+slimy
+	stare
+	slink 67
+	slimy 1
+	3
+crust
+	stare
+	torus 13
+	crust 2
+	3
+alien
+	stare
+	laden 51
+	alien 1
+	3
+belly
+	stare
+	olden 116
+	belch 9
+	belly 1
+	4
+shied
+	stare
+	spiel 21
+	shied 1
+	3
+macho
+	stare
+	canal 127
+	macho 4
+	3
+buyer
+	stare
+	decor 118
+	filer 26
+	upper 6
+	buyer 2
+	5
+blimp
+	stare
+	could 227
+	fling 10
+	blimp 1
+	4
+color
+	stare
+	crony 100
+	color 2
+	3
+heath
+	stare
+	meant 11
+	heath 3
+	3
+curly
+	stare
+	crony 100
+	curly 2
+	3
+agape
+	stare
+	glade 24
+	agape 2
+	3
+hoard
+	stare
+	hoard 12
+	2
+saucy
+	stare
+	salad 18
+	savvy 5
+	saucy 3
+	4
+quash
+	stare
+	clash 14
+	awash 3
+	quash 2
+	4
+adobe
+	stare
+	angle 41
+	adobe 5
+	3
+dwarf
+	stare
+	hoard 12
+	dwarf 2
+	3
+young
+	stare
+	could 227
+	young 2
+	3
+farce
+	stare
+	barge 7
+	farce 2
+	3
+wordy
+	stare
+	crony 100
+	wordy 2
+	3
+downy
+	stare
+	could 227
+	downy 8
+	3
+psalm
+	stare
+	clash 14
+	psalm 1
+	3
+morph
+	stare
+	crony 100
+	rough 11
+	morph 1
+	4
+tardy
+	stare
+	tarot 13
+	tardy 1
+	3
+flock
+	stare
+	could 227
+	flock 2
+	3
+scoff
+	stare
+	slink 67
+	swoop 7
+	scoff 1
+	4
+leaky
+	stare
+	leach 10
+	leaky 2
+	3
+orbit
+	stare
+	throb 42
+	orbit 1
+	3
+whisk
+	stare
+	missy 38
+	whisk 1
+	3
+arrow
+	stare
+	carol 64
+	arrow 2
+	3
+birth
+	stare
+	throb 42
+	birth 1
+	3
+lefty
+	stare
+	tenet 54
+	depth 9
+	lefty 2
+	4
+mania
+	stare
+	canal 127
+	manga 2
+	mania 1
+	4
+scarf
+	stare
+	sharp 8
+	scarf 4
+	3
+valet
+	stare
+	pleat 21
+	valet 1
+	3
+eaten
+	stare
+	pleat 21
+	eaten 3
+	3
+femme
+	stare
+	guile 87
+	pence 11
+	femme 1
+	4
+sissy
+	stare
+	slink 67
+	sissy 3
+	3
+edify
+	stare
+	olden 116
+	edify 3
+	3
+fifth
+	stare
+	count 98
+	width 12
+	fifth 2
+	4
+ferry
+	stare
+	ferry 10
+	2
+shock
+	stare
+	slink 67
+	shock 5
+	3
+spark
+	stare
+	sharp 8
+	spark 1
+	3
+clang
+	stare
+	clank 37
+	clang 1
+	3
+train
+	stare
+	tract 12
+	trail 4
+	train 1
+	4
+wiser
+	stare
+	poser 14
+	wiser 3
+	3
+welch
+	stare
+	olden 116
+	belch 9
+	welch 1
+	4
+fjord
+	stare
+	glory 20
+	fjord 2
+	3
+stint
+	stare
+	stink 22
+	stint 2
+	3
+odder
+	stare
+	decor 118
+	odder 3
+	3
+gross
+	stare
+	crisp 12
+	gross 3
+	3
+fiber
+	stare
+	decor 118
+	filer 26
+	fixer 3
+	fiber 2
+	5
+rower
+	stare
+	decor 118
+	mower 18
+	rower 3
+	4
+habit
+	stare
+	taint 74
+	habit 1
+	3
+fluke
+	stare
+	guile 87
+	flume 4
+	fluke 1
+	4
+flunk
+	stare
+	could 227
+	flunk 7
+	3
+tangy
+	stare
+	taint 74
+	tangy 3
+	3
+rebar
+	stare
+	paler 47
+	rebar 3
+	3
+repel
+	stare
+	decor 118
+	repel 10
+	3
+mason
+	stare
+	basin 16
+	mason 1
+	3
+radar
+	stare
+	carol 64
+	nadir 9
+	radar 1
+	4
+leant
+	stare
+	enact 11
+	leant 2
+	3
+sassy
+	stare
+	salad 18
+	savvy 5
+	saucy 3
+	sassy 2
+	5
+jumbo
+	stare
+	could 227
+	jumbo 5
+	3
+piggy
+	stare
+	could 227
+	nymph 14
+	piggy 1
+	4
+wreck
+	stare
+	decor 118
+	wreck 4
+	3
+sandy
+	stare
+	salad 18
+	sandy 1
+	3
+lapse
+	stare
+	lapse 9
+	2
+scone
+	stare
+	spine 27
+	shone 3
+	scone 1
+	4
+hairy
+	stare
+	cairn 16
+	hairy 3
+	3
+blitz
+	stare
+	count 98
+	width 12
+	blitz 1
+	4
+broil
+	stare
+	crony 100
+	droop 13
+	broil 2
+	4
+dodgy
+	stare
+	could 227
+	downy 8
+	dodgy 1
+	4
+tibia
+	stare
+	taint 74
+	tibia 2
+	3
+steal
+	stare
+	steal 4
+	2
+grown
+	stare
+	crony 100
+	grown 5
+	3
+nutty
+	stare
+	count 98
+	unity 3
+	nutty 1
+	4
+kneel
+	stare
+	olden 116
+	kneel 1
+	3
+probe
+	stare
+	grope 49
+	probe 3
+	3
+plump
+	stare
+	could 227
+	flunk 7
+	plump 2
+	4
+vocal
+	stare
+	canal 127
+	vocal 3
+	3
+egret
+	stare
+	meter 30
+	egret 2
+	3
+knead
+	stare
+	laden 51
+	knead 2
+	3
+swath
+	stare
+	slant 5
+	swath 1
+	3
+retro
+	stare
+	retro 7
+	2
+bring
+	stare
+	crony 100
+	bring 7
+	3
+demur
+	stare
+	decor 118
+	defer 2
+	demur 1
+	4
+title
+	stare
+	tithe 20
+	title 1
+	3
+reuse
+	stare
+	rouse 10
+	reuse 1
+	3
+house
+	stare
+	loose 21
+	poise 6
+	house 2
+	4
+regal
+	stare
+	paler 47
+	regal 3
+	3
+jewel
+	stare
+	olden 116
+	bevel 10
+	jewel 1
+	4
+blurt
+	stare
+	twirl 7
+	blurt 1
+	3
+afoul
+	stare
+	canal 127
+	afoul 2
+	3
+drone
+	stare
+	grope 49
+	drone 6
+	3
+actor
+	stare
+	tarot 13
+	actor 1
+	3
+panic
+	stare
+	canal 127
+	panic 3
+	3
+booze
+	stare
+	guile 87
+	pence 11
+	booze 1
+	4
+meant
+	stare
+	meant 11
+	2
+adopt
+	stare
+	taint 74
+	float 10
+	adopt 2
+	4
+proof
+	stare
+	crony 100
+	droop 13
+	proof 1
+	4
+trick
+	stare
+	throb 42
+	trick 5
+	3
+mound
+	stare
+	could 227
+	mound 6
+	3
+crick
+	stare
+	crony 100
+	crumb 4
+	crick 1
+	4
+flier
+	stare
+	decor 118
+	filer 26
+	flier 1
+	4
+alarm
+	stare
+	hoard 12
+	alarm 2
+	3
+antic
+	stare
+	taint 74
+	antic 1
+	3
+death
+	stare
+	meant 11
+	heath 3
+	death 1
+	4
+agile
+	stare
+	angle 41
+	agile 1
+	3
+dowdy
+	stare
+	could 227
+	downy 8
+	dowdy 1
+	4
+drape
+	stare
+	grace 14
+	drake 5
+	drape 1
+	4
+jerky
+	stare
+	decor 118
+	repel 10
+	jerky 1
+	4
+whirl
+	stare
+	glory 20
+	whirl 1
+	3
+guild
+	stare
+	could 227
+	guild 2
+	3
+modal
+	stare
+	canal 127
+	modal 4
+	3
+thyme
+	stare
+	tithe 20
+	thyme 2
+	3
+drank
+	stare
+	drawn 30
+	drank 1
+	3
+share
+	stare
+	share 4
+	2
+spiel
+	stare
+	spiel 21
+	2
+suave
+	stare
+	shale 12
+	space 4
+	suave 2
+	4
+snoop
+	stare
+	slink 67
+	snoop 7
+	3
+boast
+	stare
+	boast 4
+	2
+crypt
+	stare
+	throb 42
+	print 6
+	crypt 1
+	4
+nasal
+	stare
+	basin 16
+	nasal 1
+	3
+empty
+	stare
+	tenet 54
+	empty 3
+	3
+spine
+	stare
+	spine 27
+	2
+staid
+	stare
+	stank 10
+	staid 5
+	3
+resin
+	stare
+	poser 14
+	resin 1
+	3
+dirty
+	stare
+	throb 42
+	dirty 1
+	3
+semen
+	stare
+	spiel 21
+	semen 3
+	3
+space
+	stare
+	shale 12
+	space 4
+	3
+burnt
+	stare
+	throb 42
+	burnt 1
+	3
+dowry
+	stare
+	glory 20
+	dowry 2
+	3
+again
+	stare
+	clank 37
+	again 1
+	3
+hydro
+	stare
+	glory 20
+	hydro 1
+	3
+crank
+	stare
+	drawn 30
+	crank 3
+	3
+cinch
+	stare
+	could 227
+	civic 4
+	cinch 1
+	4
+sully
+	stare
+	slink 67
+	spool 5
+	sully 2
+	4
+stung
+	stare
+	stink 22
+	stung 3
+	3
+aloud
+	stare
+	canal 127
+	aloud 14
+	3
+broth
+	stare
+	throb 42
+	broth 1
+	3
+budge
+	stare
+	guile 87
+	budge 5
+	3
+emcee
+	stare
+	guile 87
+	pence 11
+	emcee 1
+	4
+maize
+	stare
+	angle 41
+	maize 6
+	3
+honey
+	stare
+	olden 116
+	honey 3
+	3
+today
+	stare
+	taint 74
+	today 3
+	3
+bison
+	stare
+	missy 38
+	disco 2
+	bison 1
+	4
+robin
+	stare
+	crony 100
+	donor 5
+	robin 1
+	4
+spare
+	stare
+	share 4
+	spare 3
+	3
+paddy
+	stare
+	canal 127
+	bawdy 13
+	paddy 3
+	4
+datum
+	stare
+	taint 74
+	catty 14
+	datum 2
+	4
+which
+	stare
+	could 227
+	pinch 7
+	which 1
+	4
+chest
+	stare
+	upset 14
+	chest 3
+	3
+dowel
+	stare
+	olden 116
+	dowel 1
+	3
+motif
+	stare
+	count 98
+	tooth 8
+	motif 1
+	4
+neigh
+	stare
+	olden 116
+	penny 9
+	neigh 1
+	4
+dense
+	stare
+	loose 21
+	dense 3
+	3
+gavel
+	stare
+	laden 51
+	gavel 4
+	3
+brood
+	stare
+	crony 100
+	droop 13
+	brood 1
+	4
+atoll
+	stare
+	atoll 2
+	2
+stink
+	stare
+	stink 22
+	2
+stoop
+	stare
+	stink 22
+	stoop 8
+	3
+basil
+	stare
+	basin 16
+	basil 3
+	3
+grill
+	stare
+	crony 100
+	gruff 6
+	grill 1
+	4
+leach
+	stare
+	leach 10
+	2
+axial
+	stare
+	canal 127
+	axial 1
+	3
+extol
+	stare
+	tenet 54
+	empty 3
+	extol 1
+	4
+churn
+	stare
+	glory 20
+	churn 3
+	3
+kneed
+	stare
+	olden 116
+	unwed 3
+	kneed 1
+	4
+sleek
+	stare
+	spiel 21
+	sleek 1
+	3
+evict
+	stare
+	tenet 54
+	evict 8
+	3
+theft
+	stare
+	tenet 54
+	theft 1
+	3
+ounce
+	stare
+	guile 87
+	ounce 3
+	3
+purer
+	stare
+	decor 118
+	filer 26
+	buyer 6
+	purer 2
+	5
+vaunt
+	stare
+	taint 74
+	vaunt 5
+	3
+topaz
+	stare
+	taint 74
+	today 3
+	topaz 1
+	4
+eerie
+	stare
+	grope 49
+	eerie 7
+	3
+leech
+	stare
+	olden 116
+	belch 9
+	leech 1
+	4
+vapid
+	stare
+	canal 127
+	bawdy 13
+	vapid 1
+	4
+lower
+	stare
+	decor 118
+	mower 18
+	rower 3
+	lower 2
+	5
+parse
+	stare
+	raise 4
+	parse 1
+	3
+ocean
+	stare
+	laden 51
+	vegan 4
+	ocean 1
+	4
+arose
+	stare
+	raise 4
+	arose 1
+	3
+realm
+	stare
+	ready 3
+	realm 2
+	3
+salsa
+	stare
+	salad 18
+	salsa 1
+	3
+mecca
+	stare
+	laden 51
+	mecca 4
+	3
+lipid
+	stare
+	could 227
+	livid 3
+	lipid 1
+	4
+inane
+	stare
+	glade 24
+	knave 9
+	inane 1
+	4
+gouge
+	stare
+	guile 87
+	gouge 1
+	3
+amend
+	stare
+	laden 51
+	knead 2
+	amend 1
+	4
+saute
+	stare
+	saute 1
+	2
+wrack
+	stare
+	drawn 30
+	wrack 1
+	3
+sword
+	stare
+	shorn 10
+	sword 1
+	3
+price
+	stare
+	grope 49
+	prude 6
+	price 3
+	4
+scion
+	stare
+	slink 67
+	scion 2
+	3
+shorn
+	stare
+	shorn 10
+	2
+pixel
+	stare
+	olden 116
+	bevel 10
+	pixel 2
+	4
+graze
+	stare
+	grace 14
+	graze 4
+	3
+eject
+	stare
+	tenet 54
+	eject 2
+	3
+latch
+	stare
+	taint 74
+	catty 14
+	latch 6
+	4
+shape
+	stare
+	shale 12
+	shake 5
+	shape 4
+	4
+grave
+	stare
+	grace 14
+	graze 4
+	grave 3
+	4
+riser
+	stare
+	poser 14
+	wiser 3
+	riser 2
+	4
+ghoul
+	stare
+	could 227
+	ghoul 1
+	3
+slave
+	stare
+	shale 12
+	slave 1
+	3
+briar
+	stare
+	carol 64
+	briar 5
+	3
+glint
+	stare
+	count 98
+	glint 2
+	3
+corer
+	stare
+	decor 118
+	corer 3
+	3
+early
+	stare
+	paler 47
+	early 1
+	3
+slope
+	stare
+	spine 27
+	slope 2
+	3
+axiom
+	stare
+	canal 127
+	avoid 8
+	axiom 1
+	4
+swing
+	stare
+	slink 67
+	swing 4
+	3
+borne
+	stare
+	grope 49
+	borne 3
+	3
+glean
+	stare
+	laden 51
+	glean 2
+	3
+ramen
+	stare
+	paler 47
+	ramen 3
+	3
+cutie
+	stare
+	tithe 20
+	cutie 2
+	3
+rouge
+	stare
+	grope 49
+	rouge 3
+	3
+fibre
+	stare
+	where 5
+	fibre 2
+	3
+float
+	stare
+	taint 74
+	float 10
+	3
+gooey
+	stare
+	olden 116
+	gooey 2
+	3
+curse
+	stare
+	rouse 10
+	curse 3
+	3
+obese
+	stare
+	loose 21
+	obese 1
+	3
+flora
+	stare
+	cairn 16
+	flora 3
+	3
+human
+	stare
+	canal 127
+	human 3
+	3
+jazzy
+	stare
+	canal 127
+	bawdy 13
+	jazzy 3
+	4
+idyll
+	stare
+	could 227
+	idyll 3
+	3
+shade
+	stare
+	shale 12
+	shake 5
+	shape 4
+	shade 3
+	5
+joust
+	stare
+	moist 17
+	joust 2
+	3
+golem
+	stare
+	olden 116
+	vowel 4
+	golem 1
+	4
+butch
+	stare
+	count 98
+	hutch 3
+	butch 2
+	4
+crone
+	stare
+	grope 49
+	drone 6
+	crone 1
+	4
+fried
+	stare
+	decor 118
+	fried 5
+	3
+umbra
+	stare
+	cairn 16
+	flora 3
+	umbra 1
+	4
+undue
+	stare
+	guile 87
+	undue 4
+	3
+nudge
+	stare
+	guile 87
+	budge 5
+	nudge 3
+	4
+recap
+	stare
+	paler 47
+	recap 2
+	3
+chasm
+	stare
+	clash 14
+	chasm 1
+	3
+brace
+	stare
+	grace 14
+	brace 1
+	3
+usual
+	stare
+	basin 16
+	usual 1
+	3
+angry
+	stare
+	cairn 16
+	angry 1
+	3
+widow
+	stare
+	could 227
+	idiom 3
+	widow 1
+	4
+foyer
+	stare
+	decor 118
+	mower 18
+	rover 9
+	joker 5
+	boxer 3
+	goner 2
+	foyer 1
+	8
+yacht
+	stare
+	taint 74
+	vault 5
+	yacht 1
+	4
+duvet
+	stare
+	tenet 54
+	duvet 5
+	3
+shard
+	stare
+	sharp 8
+	shard 2
+	3
+preen
+	stare
+	decor 118
+	ripen 6
+	preen 1
+	4
+forte
+	stare
+	tripe 13
+	forte 2
+	3
+banjo
+	stare
+	canal 127
+	dandy 7
+	banjo 2
+	4
+feign
+	stare
+	olden 116
+	feign 3
+	3
+stone
+	stare
+	stone 5
+	2
+curio
+	stare
+	crony 100
+	color 2
+	curio 1
+	4
+spade
+	stare
+	shale 12
+	space 4
+	spade 1
+	4
+leper
+	stare
+	decor 118
+	fever 9
+	leper 2
+	4
+daunt
+	stare
+	taint 74
+	vaunt 5
+	daunt 4
+	4
+abode
+	stare
+	angle 41
+	adobe 5
+	abode 1
+	4
+pause
+	stare
+	lapse 9
+	pause 1
+	3
+snare
+	stare
+	share 4
+	spare 3
+	snare 2
+	4
+stunk
+	stare
+	stink 22
+	stunk 1
+	3
+cache
+	stare
+	angle 41
+	maize 6
+	cache 2
+	4
+drake
+	stare
+	grace 14
+	drake 5
+	3
+photo
+	stare
+	count 98
+	photo 2
+	3
+slash
+	stare
+	scalp 27
+	slang 5
+	slash 1
+	4
+stamp
+	stare
+	stank 10
+	staid 5
+	stamp 4
+	4
+purge
+	stare
+	grope 49
+	purge 1
+	3
+bleed
+	stare
+	olden 116
+	bleed 3
+	3
+petty
+	stare
+	tenet 54
+	petty 2
+	3
+since
+	stare
+	spine 27
+	since 2
+	3
+decoy
+	stare
+	olden 116
+	decoy 1
+	3
+filer
+	stare
+	decor 118
+	filer 26
+	3
+onion
+	stare
+	could 227
+	whoop 8
+	onion 1
+	4
+missy
+	stare
+	missy 38
+	2
+fifty
+	stare
+	count 98
+	width 12
+	bitty 3
+	fifty 1
+	5
+smack
+	stare
+	scalp 27
+	smack 3
+	3
+snack
+	stare
+	scalp 27
+	smack 3
+	snack 2
+	4
+stole
+	stare
+	stone 5
+	stole 3
+	3
+favor
+	stare
+	carol 64
+	rayon 7
+	favor 3
+	4
+wharf
+	stare
+	hoard 12
+	wharf 2
+	3
+noose
+	stare
+	loose 21
+	noose 3
+	3
+foamy
+	stare
+	clank 37
+	foamy 2
+	3
+untie
+	stare
+	tithe 20
+	cutie 2
+	untie 1
+	4
+sepia
+	stare
+	sedan 4
+	sepia 1
+	3
+swamp
+	stare
+	scalp 27
+	swamp 1
+	3
+worse
+	stare
+	rouse 10
+	worse 2
+	3
+chafe
+	stare
+	glade 24
+	knave 9
+	chafe 3
+	4
+pixie
+	stare
+	guile 87
+	mince 9
+	pixie 2
+	4
+plaza
+	stare
+	clank 37
+	plaza 4
+	3
+belle
+	stare
+	guile 87
+	noble 4
+	belle 1
+	4
+crump
+	stare
+	crony 100
+	crumb 4
+	crump 1
+	4
+batch
+	stare
+	taint 74
+	catty 14
+	latch 6
+	batch 5
+	5
+suite
+	stare
+	suite 4
+	2
+vigil
+	stare
+	could 227
+	fling 10
+	vigil 1
+	4
+pygmy
+	stare
+	could 227
+	nymph 14
+	pygmy 1
+	4
+jelly
+	stare
+	olden 116
+	belch 9
+	jelly 1
+	4
+cried
+	stare
+	decor 118
+	cried 2
+	3
+pagan
+	stare
+	canal 127
+	pagan 1
+	3
+furry
+	stare
+	glory 20
+	furry 3
+	3
+grand
+	stare
+	drawn 30
+	grand 2
+	3
+would
+	stare
+	could 227
+	would 1
+	3
+yearn
+	stare
+	yearn 7
+	2
+epoch
+	stare
+	olden 116
+	epoxy 3
+	epoch 1
+	4
+dingy
+	stare
+	could 227
+	dingy 6
+	3
+sheet
+	stare
+	slept 10
+	sheet 3
+	3
+ethic
+	stare
+	ethic 1
+	2
+revel
+	stare
+	decor 118
+	repel 10
+	revel 2
+	4
+erase
+	stare
+	erase 1
+	2
+gamut
+	stare
+	taint 74
+	vault 5
+	gamut 2
+	4
+known
+	stare
+	could 227
+	whoop 8
+	known 1
+	4
+diode
+	stare
+	guile 87
+	mince 9
+	pixie 2
+	diode 1
+	5
+karma
+	stare
+	carol 64
+	parka 4
+	karma 1
+	4
+inept
+	stare
+	tenet 54
+	inept 3
+	3
+delta
+	stare
+	pleat 21
+	delta 1
+	3
+relic
+	stare
+	decor 118
+	perch 3
+	relic 1
+	4
+light
+	stare
+	count 98
+	limit 8
+	light 1
+	4
+haste
+	stare
+	baste 6
+	haste 5
+	3
+wagon
+	stare
+	canal 127
+	wagon 1
+	3
+spite
+	stare
+	suite 4
+	spite 2
+	3
+steep
+	stare
+	steep 4
+	2
+blunt
+	stare
+	count 98
+	blunt 1
+	3
+otter
+	stare
+	otter 4
+	2
+ninja
+	stare
+	canal 127
+	ninja 2
+	3
+marry
+	stare
+	cairn 16
+	parry 3
+	marry 2
+	4
+chime
+	stare
+	guile 87
+	ovine 8
+	chime 2
+	4
+admit
+	stare
+	taint 74
+	admit 2
+	3
+troop
+	stare
+	throb 42
+	tumor 3
+	troop 1
+	4
+board
+	stare
+	hoard 12
+	board 1
+	3
+image
+	stare
+	glade 24
+	agape 2
+	image 1
+	4
+tango
+	stare
+	taint 74
+	tangy 3
+	tango 1
+	4
+octal
+	stare
+	taint 74
+	octal 3
+	3
+cloud
+	stare
+	could 227
+	cloud 1
+	3
+ovine
+	stare
+	guile 87
+	ovine 8
+	3
+grope
+	stare
+	grope 49
+	2
+cocoa
+	stare
+	canal 127
+	cocoa 2
+	3
+steam
+	stare
+	steal 4
+	steam 3
+	3
+bilge
+	stare
+	guile 87
+	bilge 2
+	3
+dwelt
+	stare
+	tenet 54
+	evict 8
+	dwelt 1
+	4
+chick
+	stare
+	could 227
+	civic 4
+	chick 1
+	4
+twice
+	stare
+	tithe 20
+	twice 2
+	3
+utter
+	stare
+	otter 4
+	utter 1
+	3
+lilac
+	stare
+	canal 127
+	lilac 2
+	3
+bigot
+	stare
+	count 98
+	pilot 4
+	bigot 1
+	4
+helix
+	stare
+	olden 116
+	belch 9
+	helix 1
+	4
+liken
+	stare
+	olden 116
+	liken 3
+	3
+alley
+	stare
+	laden 51
+	alley 1
+	3
+bulky
+	stare
+	could 227
+	bulky 4
+	3
+tryst
+	stare
+	torus 13
+	tryst 1
+	3
+radio
+	stare
+	carol 64
+	radio 1
+	3
+clung
+	stare
+	could 227
+	clung 3
+	3
+sonar
+	stare
+	sonar 7
+	2
+apple
+	stare
+	angle 41
+	apple 3
+	3
+ennui
+	stare
+	olden 116
+	penny 9
+	ennui 1
+	4
+sheik
+	stare
+	spiel 21
+	sheik 1
+	3
+verso
+	stare
+	poser 14
+	verso 1
+	3
+wryly
+	stare
+	crony 100
+	wryly 4
+	3
+demon
+	stare
+	olden 116
+	demon 1
+	3
+carve
+	stare
+	barge 7
+	farce 2
+	carve 1
+	4
+wrong
+	stare
+	crony 100
+	wrong 3
+	3
+lapel
+	stare
+	laden 51
+	lapel 2
+	3
+party
+	stare
+	tarot 13
+	party 2
+	3
+perky
+	stare
+	decor 118
+	repel 10
+	perky 1
+	4
+erect
+	stare
+	meter 30
+	erect 1
+	3
+pouty
+	stare
+	count 98
+	pouty 4
+	3
+druid
+	stare
+	crony 100
+	gruff 6
+	druid 1
+	4
+cacti
+	stare
+	taint 74
+	cacti 2
+	3
+naval
+	stare
+	canal 127
+	naval 1
+	3
+macaw
+	stare
+	canal 127
+	macaw 1
+	3
+taste
+	stare
+	baste 6
+	haste 5
+	taste 4
+	4
+afire
+	stare
+	afire 3
+	2
+where
+	stare
+	where 5
+	2
+thing
+	stare
+	count 98
+	thing 3
+	3
+rainy
+	stare
+	carol 64
+	nadir 9
+	rainy 1
+	4
+alloy
+	stare
+	canal 127
+	aloud 14
+	alloy 2
+	4
+fella
+	stare
+	laden 51
+	bleak 5
+	fella 1
+	4
+china
+	stare
+	canal 127
+	china 1
+	3
+penny
+	stare
+	olden 116
+	penny 9
+	3
+aunty
+	stare
+	taint 74
+	aunty 2
+	3
+worst
+	stare
+	torus 13
+	worst 1
+	3
+fever
+	stare
+	decor 118
+	fever 9
+	3
+impel
+	stare
+	olden 116
+	bevel 10
+	pixel 2
+	impel 1
+	5
+leave
+	stare
+	glade 24
+	leave 2
+	3
+surer
+	stare
+	sewer 14
+	surer 4
+	3
+unite
+	stare
+	tithe 20
+	quite 3
+	unite 1
+	4
+rupee
+	stare
+	grope 49
+	rupee 2
+	3
+droop
+	stare
+	crony 100
+	droop 13
+	3
+flout
+	stare
+	count 98
+	flout 2
+	3
+penne
+	stare
+	guile 87
+	pence 11
+	penne 1
+	4
+scout
+	stare
+	south 18
+	spout 3
+	scout 2
+	4
+scree
+	stare
+	scree 4
+	2
+tuber
+	stare
+	meter 30
+	tuber 4
+	3
+fewer
+	stare
+	decor 118
+	fever 9
+	fewer 1
+	4
+outdo
+	stare
+	count 98
+	outdo 3
+	3
+drier
+	stare
+	decor 118
+	diner 4
+	drier 1
+	4
+video
+	stare
+	olden 116
+	video 2
+	3
+debit
+	stare
+	tenet 54
+	debit 4
+	3
+trade
+	stare
+	crate 5
+	trade 1
+	3
+lever
+	stare
+	decor 118
+	fever 9
+	never 2
+	lever 1
+	5
+faint
+	stare
+	taint 74
+	faint 2
+	3
+unwed
+	stare
+	olden 116
+	unwed 3
+	3
+nobly
+	stare
+	could 227
+	holly 7
+	nobly 2
+	4
+madam
+	stare
+	canal 127
+	madam 2
+	3
+earth
+	stare
+	later 14
+	earth 1
+	3
+aphid
+	stare
+	canal 127
+	avoid 8
+	aphid 1
+	4
+bleak
+	stare
+	laden 51
+	bleak 5
+	3
+abbey
+	stare
+	laden 51
+	abbey 1
+	3
+lemon
+	stare
+	olden 116
+	lemon 3
+	3
+tamer
+	stare
+	later 14
+	tamer 3
+	3
+canal
+	stare
+	canal 127
+	2
+break
+	stare
+	paler 47
+	creak 10
+	break 3
+	4
+guile
+	stare
+	guile 87
+	2
+white
+	stare
+	tithe 20
+	white 1
+	3
+wench
+	stare
+	olden 116
+	penny 9
+	wench 2
+	4
+meter
+	stare
+	meter 30
+	2
+savvy
+	stare
+	salad 18
+	savvy 5
+	3
+genie
+	stare
+	guile 87
+	genie 1
+	3
+stall
+	stare
+	stank 10
+	staid 5
+	stamp 4
+	stall 3
+	5
+adult
+	stare
+	taint 74
+	float 10
+	adult 1
+	4
+dogma
+	stare
+	canal 127
+	avoid 8
+	dogma 1
+	4
+being
+	stare
+	olden 116
+	penny 9
+	being 1
+	4
+dream
+	stare
+	paler 47
+	creak 10
+	dream 3
+	4
+paper
+	stare
+	paler 47
+	payer 3
+	paper 2
+	4
+tread
+	stare
+	later 14
+	great 3
+	tread 1
+	4
+tulip
+	stare
+	count 98
+	tulip 2
+	3
+setup
+	stare
+	slept 10
+	setup 1
+	3
+plaid
+	stare
+	clank 37
+	plaza 4
+	plaid 1
+	4
+bloat
+	stare
+	taint 74
+	float 10
+	gloat 2
+	bloat 1
+	5
+plunk
+	stare
+	could 227
+	flunk 7
+	plunk 1
+	4
+lorry
+	stare
+	chord 20
+	lorry 3
+	3
+hunky
+	stare
+	could 227
+	fungi 16
+	bunny 2
+	hunky 1
+	5
+stage
+	stare
+	stave 5
+	stage 4
+	3
+tramp
+	stare
+	tract 12
+	trail 4
+	tramp 1
+	4
+plant
+	stare
+	plait 9
+	plant 1
+	3
+opera
+	stare
+	opera 2
+	2
+fetus
+	stare
+	upset 14
+	fetus 1
+	3
+shaky
+	stare
+	scalp 27
+	shaky 7
+	3
+lunge
+	stare
+	guile 87
+	lunge 2
+	3
+pushy
+	stare
+	missy 38
+	pushy 4
+	3
+amass
+	stare
+	clash 14
+	amass 2
+	3
+aptly
+	stare
+	taint 74
+	octal 3
+	aptly 1
+	4
+tacky
+	stare
+	taint 74
+	tacky 5
+	3
+gloss
+	stare
+	missy 38
+	gloss 2
+	3
+cough
+	stare
+	could 227
+	couch 2
+	cough 1
+	4
+slide
+	stare
+	spine 27
+	slide 5
+	3
+palsy
+	stare
+	basin 16
+	palsy 1
+	3
+alike
+	stare
+	angle 41
+	alike 2
+	3
+roomy
+	stare
+	crony 100
+	roomy 1
+	3
+stoke
+	stare
+	stone 5
+	stole 3
+	stoke 2
+	4
+merry
+	stare
+	ferry 10
+	merry 2
+	3
+taper
+	stare
+	later 14
+	tamer 3
+	taper 2
+	4
+elfin
+	stare
+	olden 116
+	elfin 1
+	3
+mangy
+	stare
+	canal 127
+	dandy 7
+	fanny 3
+	mangy 1
+	5
+diary
+	stare
+	hoard 12
+	dwarf 2
+	diary 1
+	4
+abate
+	stare
+	abate 5
+	2
+molar
+	stare
+	carol 64
+	molar 2
+	3
+ardor
+	stare
+	carol 64
+	ardor 4
+	3
+goofy
+	stare
+	could 227
+	bongo 10
+	goofy 1
+	4
+coral
+	stare
+	carol 64
+	coral 1
+	3
+reset
+	stare
+	wrest 4
+	reset 1
+	3
+twixt
+	stare
+	count 98
+	limit 8
+	twixt 1
+	4
+metal
+	stare
+	pleat 21
+	metal 2
+	3
+bless
+	stare
+	bless 9
+	2
+froze
+	stare
+	grope 49
+	drone 6
+	froze 2
+	4
+easel
+	stare
+	ashen 4
+	easel 1
+	3
+debug
+	stare
+	olden 116
+	edify 3
+	debug 1
+	4
+tally
+	stare
+	taint 74
+	tacky 5
+	tally 3
+	4
+brash
+	stare
+	crass 6
+	brash 2
+	3
+happy
+	stare
+	canal 127
+	bawdy 13
+	jazzy 3
+	happy 2
+	5
+totem
+	stare
+	tenet 54
+	totem 1
+	3
+smith
+	stare
+	south 18
+	sixth 2
+	smith 1
+	4
+daddy
+	stare
+	canal 127
+	bawdy 13
+	paddy 3
+	daddy 1
+	5
+squat
+	stare
+	splat 5
+	squat 1
+	3
+sunny
+	stare
+	slink 67
+	swung 3
+	sunny 1
+	4
+cairn
+	stare
+	cairn 16
+	2
+brute
+	stare
+	tripe 13
+	brute 2
+	3
+alive
+	stare
+	angle 41
+	alike 2
+	alive 1
+	4
+swami
+	stare
+	scalp 27
+	shaky 7
+	swami 1
+	4
+gruel
+	stare
+	decor 118
+	ripen 6
+	gruel 1
+	4
+toast
+	stare
+	boast 4
+	toast 2
+	3
+seize
+	stare
+	spine 27
+	slide 5
+	seize 1
+	4
+sweep
+	stare
+	spiel 21
+	sweep 2
+	3
+quell
+	stare
+	olden 116
+	belch 9
+	quell 1
+	4
+clerk
+	stare
+	ferry 10
+	clerk 1
+	3
+fluid
+	stare
+	could 227
+	fluid 1
+	3
+brunt
+	stare
+	throb 42
+	brunt 1
+	3
+slung
+	stare
+	slink 67
+	slung 1
+	3
+theme
+	stare
+	tithe 20
+	thyme 2
+	theme 1
+	4
+login
+	stare
+	could 227
+	loopy 5
+	login 1
+	4
+spoon
+	stare
+	slink 67
+	snoop 7
+	spoon 1
+	4
+lager
+	stare
+	paler 47
+	lager 2
+	3
+shady
+	stare
+	scalp 27
+	shaky 7
+	shady 1
+	4
+miser
+	stare
+	poser 14
+	wiser 3
+	riser 2
+	miser 1
+	5
+sieve
+	stare
+	spine 27
+	sieve 2
+	3
+retch
+	stare
+	meter 30
+	retch 1
+	3
+amply
+	stare
+	canal 127
+	aloud 14
+	amply 2
+	4
+month
+	stare
+	count 98
+	month 2
+	3
+sauce
+	stare
+	sauce 2
+	2
+croak
+	stare
+	carol 64
+	croak 1
+	3
+sight
+	stare
+	south 18
+	sight 2
+	3
+slurp
+	stare
+	shorn 10
+	slurp 3
+	3
+fiery
+	stare
+	ferry 10
+	fiery 1
+	3
+decal
+	stare
+	laden 51
+	decal 4
+	3
+swoop
+	stare
+	slink 67
+	swoop 7
+	3
+twist
+	stare
+	moist 17
+	twist 1
+	3
+mount
+	stare
+	count 98
+	mount 1
+	3
+renal
+	stare
+	paler 47
+	regal 3
+	renal 1
+	4
+mulch
+	stare
+	could 227
+	mulch 4
+	3
+least
+	stare
+	least 4
+	2
+final
+	stare
+	canal 127
+	final 2
+	3
+fling
+	stare
+	could 227
+	fling 10
+	3
+spell
+	stare
+	spiel 21
+	spell 1
+	3
+raven
+	stare
+	paler 47
+	ramen 3
+	raven 1
+	4
+spawn
+	stare
+	scalp 27
+	spawn 4
+	3
+swash
+	stare
+	scalp 27
+	shaky 7
+	smash 2
+	swash 1
+	5
+groan
+	stare
+	carol 64
+	groan 4
+	3
+merge
+	stare
+	grope 49
+	merge 4
+	3
+caddy
+	stare
+	canal 127
+	caddy 2
+	3
+toddy
+	stare
+	count 98
+	tooth 8
+	toddy 1
+	4
+cider
+	stare
+	decor 118
+	cider 1
+	3
+curry
+	stare
+	glory 20
+	furry 3
+	curry 2
+	4
+outgo
+	stare
+	count 98
+	outdo 3
+	outgo 1
+	4
+shine
+	stare
+	spine 27
+	shine 2
+	3
+booth
+	stare
+	count 98
+	tooth 8
+	booth 1
+	4
+ivory
+	stare
+	glory 20
+	ivory 1
+	3
+group
+	stare
+	crony 100
+	droop 13
+	group 1
+	4
+slink
+	stare
+	slink 67
+	2
+carat
+	stare
+	tardy 13
+	carat 1
+	3
+chant
+	stare
+	plait 9
+	chant 1
+	3
+cater
+	stare
+	later 14
+	cater 4
+	3
+donor
+	stare
+	crony 100
+	donor 5
+	3
+splat
+	stare
+	splat 5
+	2
+privy
+	stare
+	crony 100
+	wryly 4
+	privy 2
+	4
+thumb
+	stare
+	count 98
+	thumb 2
+	3
+crepe
+	stare
+	grope 49
+	crepe 1
+	3
+expel
+	stare
+	olden 116
+	bevel 10
+	expel 3
+	4
+query
+	stare
+	ferry 10
+	query 2
+	3
+sinew
+	stare
+	spiel 21
+	sinew 1
+	3
+scary
+	stare
+	sharp 8
+	scarf 4
+	scary 1
+	4
+chore
+	stare
+	where 5
+	chore 1
+	3
+solid
+	stare
+	slink 67
+	silly 3
+	solid 1
+	4
+robot
+	stare
+	throb 42
+	robot 1
+	3
+ledge
+	stare
+	guile 87
+	ledge 2
+	3
+proxy
+	stare
+	crony 100
+	proxy 1
+	3
+short
+	stare
+	short 6
+	2
+smelt
+	stare
+	slept 10
+	smelt 1
+	3
+sheer
+	stare
+	sewer 14
+	sneer 2
+	sheer 1
+	4
+filmy
+	stare
+	could 227
+	fling 10
+	filmy 1
+	4
+glory
+	stare
+	glory 20
+	2
+stank
+	stare
+	stank 10
+	2
+rumba
+	stare
+	carol 64
+	briar 5
+	rumba 1
+	4
+dread
+	stare
+	paler 47
+	creak 10
+	dream 3
+	dread 1
+	5
+bluer
+	stare
+	decor 118
+	filer 26
+	bluer 1
+	4
+rumor
+	stare
+	crony 100
+	rough 11
+	rumor 1
+	4
+spoil
+	stare
+	slink 67
+	silly 3
+	spoil 1
+	4
+murky
+	stare
+	crony 100
+	rugby 5
+	murky 1
+	4
+incur
+	stare
+	crony 100
+	incur 1
+	3
+verve
+	stare
+	grope 49
+	eerie 7
+	verve 2
+	4
+juicy
+	stare
+	could 227
+	munch 8
+	juicy 2
+	4
+quack
+	stare
+	clank 37
+	quack 3
+	3
+perch
+	stare
+	decor 118
+	perch 3
+	3
+idler
+	stare
+	decor 118
+	ruder 7
+	idler 1
+	4
+giddy
+	stare
+	could 227
+	dingy 6
+	giddy 1
+	4
+fugue
+	stare
+	guile 87
+	budge 5
+	fugue 1
+	4
+reach
+	stare
+	ready 3
+	realm 2
+	reach 1
+	4
+urine
+	stare
+	grope 49
+	crude 8
+	urine 1
+	4
+tripe
+	stare
+	tripe 13
+	2
+wedge
+	stare
+	guile 87
+	wedge 3
+	3
+seven
+	stare
+	spiel 21
+	semen 3
+	seven 1
+	4
+fight
+	stare
+	count 98
+	limit 8
+	fight 3
+	4
+manor
+	stare
+	carol 64
+	rayon 7
+	manor 1
+	4
+condo
+	stare
+	could 227
+	condo 1
+	3
+ebony
+	stare
+	olden 116
+	enjoy 4
+	ebony 1
+	4
+slick
+	stare
+	slink 67
+	slick 1
+	3
+worth
+	stare
+	throb 42
+	worth 3
+	3
+labor
+	stare
+	carol 64
+	labor 2
+	3
+raise
+	stare
+	raise 4
+	2
+drink
+	stare
+	crony 100
+	bring 7
+	drink 1
+	4
+think
+	stare
+	count 98
+	thing 3
+	think 1
+	4
+stead
+	stare
+	steal 4
+	steam 3
+	stead 2
+	4
+flush
+	stare
+	missy 38
+	flush 3
+	3
+segue
+	stare
+	spine 27
+	smoke 4
+	segue 1
+	4
+ditto
+	stare
+	count 98
+	photo 2
+	ditto 1
+	4
+eclat
+	stare
+	pleat 21
+	eclat 1
+	3
+blink
+	stare
+	could 227
+	fling 10
+	blink 1
+	4
+reply
+	stare
+	decor 118
+	repel 10
+	reply 1
+	4
+denim
+	stare
+	olden 116
+	denim 3
+	3
+dumpy
+	stare
+	could 227
+	dumpy 5
+	3
+scamp
+	stare
+	scalp 27
+	scamp 1
+	3
+dairy
+	stare
+	cairn 16
+	hairy 3
+	dairy 2
+	4
+bloke
+	stare
+	guile 87
+	delve 6
+	clone 2
+	bloke 1
+	5
+mower
+	stare
+	decor 118
+	mower 18
+	3
+begat
+	stare
+	pleat 21
+	begat 1
+	3
+alone
+	stare
+	angle 41
+	alone 1
+	3
+whelp
+	stare
+	olden 116
+	belch 9
+	whelp 1
+	4
+facet
+	stare
+	pleat 21
+	facet 2
+	3
+vying
+	stare
+	could 227
+	nymph 14
+	vying 1
+	4
+shush
+	stare
+	slink 67
+	swoop 7
+	shush 1
+	4
+shack
+	stare
+	scalp 27
+	smack 3
+	snack 2
+	shack 1
+	5
+rearm
+	stare
+	yearn 7
+	heard 4
+	rearm 2
+	4
+hello
+	stare
+	olden 116
+	hello 3
+	3
+irony
+	stare
+	crony 100
+	irony 1
+	3
+chock
+	stare
+	could 227
+	chock 1
+	3
+grace
+	stare
+	grace 14
+	2
+squad
+	stare
+	salad 18
+	squad 1
+	3
+mealy
+	stare
+	leach 10
+	mealy 1
+	3
+smoke
+	stare
+	spine 27
+	smoke 4
+	3
+allow
+	stare
+	canal 127
+	aloud 14
+	alloy 2
+	allow 1
+	5
+hotly
+	stare
+	count 98
+	tooth 8
+	hotly 1
+	4
+quote
+	stare
+	tithe 20
+	quote 2
+	3
+fence
+	stare
+	guile 87
+	pence 11
+	hence 2
+	fence 1
+	5
+clock
+	stare
+	could 227
+	clock 2
+	3
+hunch
+	stare
+	could 227
+	munch 8
+	hunch 3
+	4
+twirl
+	stare
+	twirl 7
+	2
+climb
+	stare
+	could 227
+	clink 6
+	climb 2
+	4
+patio
+	stare
+	taint 74
+	cacti 2
+	patio 1
+	4
+aorta
+	stare
+	tarot 13
+	aorta 1
+	3
+winch
+	stare
+	could 227
+	pinch 7
+	winch 2
+	4
+azure
+	stare
+	afire 3
+	azure 2
+	3
+inlet
+	stare
+	tenet 54
+	inlet 2
+	3
+knife
+	stare
+	guile 87
+	ovine 8
+	knife 1
+	4
+intro
+	stare
+	twirl 7
+	intro 1
+	3
+myrrh
+	stare
+	glory 20
+	myrrh 1
+	3
+warty
+	stare
+	tarot 13
+	party 2
+	warty 1
+	4
+agree
+	stare
+	barge 7
+	agree 1
+	3
+graft
+	stare
+	tract 12
+	grant 3
+	graft 1
+	4
+lusty
+	stare
+	moist 17
+	lusty 3
+	3
+slant
+	stare
+	slant 5
+	2
+cobra
+	stare
+	cairn 16
+	cobra 1
+	3
+delve
+	stare
+	guile 87
+	delve 6
+	3
+filth
+	stare
+	count 98
+	width 12
+	fifth 2
+	filth 1
+	5
+flair
+	stare
+	drawn 30
+	flair 3
+	3
+essay
+	stare
+	ashen 4
+	essay 1
+	3
+rigor
+	stare
+	crony 100
+	rough 11
+	rigor 1
+	4
+ruler
+	stare
+	decor 118
+	filer 26
+	ruler 1
+	4
+smote
+	stare
+	spite 4
+	smote 1
+	3
+bunch
+	stare
+	could 227
+	munch 8
+	hunch 3
+	bunch 2
+	5
+enjoy
+	stare
+	olden 116
+	enjoy 4
+	3
+spend
+	stare
+	spiel 21
+	spend 2
+	3
+prune
+	stare
+	grope 49
+	prude 6
+	prune 1
+	4
+fetch
+	stare
+	tenet 54
+	depth 9
+	fetch 1
+	4
+await
+	stare
+	plait 9
+	await 1
+	3
+rajah
+	stare
+	carol 64
+	nadir 9
+	rajah 1
+	4
+spree
+	stare
+	scree 4
+	spree 1
+	3
+tough
+	stare
+	count 98
+	pouty 4
+	tough 1
+	4
+swear
+	stare
+	swear 6
+	2
+buggy
+	stare
+	could 227
+	fungi 16
+	buggy 1
+	4
+opium
+	stare
+	could 227
+	jumbo 5
+	opium 1
+	4
+tribe
+	stare
+	tripe 13
+	tribe 3
+	3
+tenth
+	stare
+	tenet 54
+	tenth 1
+	3
+beset
+	stare
+	upset 14
+	beset 2
+	3
+quest
+	stare
+	upset 14
+	quest 2
+	3
+gorge
+	stare
+	grope 49
+	gorge 1
+	3
+throb
+	stare
+	throb 42
+	2
+sooty
+	stare
+	south 18
+	sooty 1
+	3
+teddy
+	stare
+	tenet 54
+	teddy 3
+	3
+cargo
+	stare
+	carol 64
+	cargo 1
+	3
+metro
+	stare
+	retro 7
+	metro 1
+	3
+plied
+	stare
+	olden 116
+	bleed 3
+	plied 2
+	4
+dimly
+	stare
+	could 227
+	idyll 3
+	dimly 1
+	4
+saint
+	stare
+	splat 5
+	saint 1
+	3
+mayor
+	stare
+	carol 64
+	rayon 7
+	mayor 1
+	4
+chirp
+	stare
+	glory 20
+	churn 3
+	chirp 1
+	4
+ovary
+	stare
+	hoard 12
+	ovary 1
+	3
+masse
+	stare
+	lapse 9
+	cause 2
+	masse 1
+	4
+rowdy
+	stare
+	crony 100
+	wordy 2
+	rowdy 1
+	4
+below
+	stare
+	olden 116
+	hello 3
+	below 1
+	4
+crier
+	stare
+	decor 118
+	crier 3
+	3
+bitty
+	stare
+	count 98
+	width 12
+	bitty 3
+	4
+brand
+	stare
+	drawn 30
+	grand 2
+	brand 1
+	4
+eking
+	stare
+	olden 116
+	penny 9
+	eking 1
+	4
+valid
+	stare
+	canal 127
+	daily 9
+	valid 1
+	4
+lying
+	stare
+	could 227
+	fling 10
+	lying 1
+	4
+dicey
+	stare
+	olden 116
+	dicey 2
+	3
+flank
+	stare
+	clank 37
+	flank 3
+	3
+force
+	stare
+	grope 49
+	borne 3
+	force 2
+	4
+spike
+	stare
+	spine 27
+	spike 2
+	3
+toxic
+	stare
+	count 98
+	toxic 3
+	3
+fussy
+	stare
+	missy 38
+	hussy 3
+	fussy 1
+	4
+caulk
+	stare
+	canal 127
+	caulk 1
+	3
+bound
+	stare
+	could 227
+	mound 6
+	bound 5
+	4
+tawny
+	stare
+	taint 74
+	tawny 1
+	3
+trove
+	stare
+	tripe 13
+	truce 2
+	trove 1
+	4
+tumor
+	stare
+	throb 42
+	tumor 3
+	3
+paler
+	stare
+	paler 47
+	2
+anger
+	stare
+	paler 47
+	anger 3
+	3
+remit
+	stare
+	meter 30
+	remit 1
+	3
+rural
+	stare
+	carol 64
+	mural 3
+	rural 1
+	4
+skirt
+	stare
+	short 6
+	skirt 2
+	3
+ulcer
+	stare
+	decor 118
+	ulcer 2
+	3
+hotel
+	stare
+	tenet 54
+	hotel 2
+	3
+above
+	stare
+	angle 41
+	adobe 5
+	above 1
+	4
+ovoid
+	stare
+	could 227
+	ovoid 1
+	3
+flour
+	stare
+	crony 100
+	flour 2
+	3
+stood
+	stare
+	stunk 22
+	stool 8
+	stoop 2
+	stood 1
+	5
+sense
+	stare
+	spine 27
+	sense 1
+	3
+miner
+	stare
+	decor 118
+	filer 26
+	river 6
+	miner 2
+	5
+swung
+	stare
+	slink 67
+	swung 3
+	3
+phony
+	stare
+	could 227
+	whoop 8
+	phony 1
+	4
+terra
+	stare
+	terra 4
+	2
+duchy
+	stare
+	could 227
+	duchy 1
+	3
+unfed
+	stare
+	olden 116
+	unwed 3
+	unfed 1
+	4
+pinky
+	stare
+	could 227
+	nymph 14
+	pinky 1
+	4
+poker
+	stare
+	decor 118
+	mower 18
+	rover 9
+	joker 5
+	poker 1
+	6
+islet
+	stare
+	upset 14
+	islet 1
+	3
+boozy
+	stare
+	could 227
+	bongo 10
+	boozy 2
+	4
+awoke
+	stare
+	angle 41
+	adobe 5
+	awoke 1
+	4
+circa
+	stare
+	carol 64
+	circa 1
+	3
+spunk
+	stare
+	slink 67
+	spunk 2
+	3
+start
+	stare
+	start 2
+	2
+lyric
+	stare
+	crony 100
+	lyric 1
+	3
+glare
+	stare
+	flare 4
+	glare 2
+	3
+nicer
+	stare
+	decor 118
+	ulcer 2
+	nicer 1
+	4
+lousy
+	stare
+	missy 38
+	lousy 2
+	3
+round
+	stare
+	crony 100
+	round 2
+	3
+tense
+	stare
+	tense 3
+	2
+trial
+	stare
+	tarot 13
+	trial 2
+	3
+third
+	stare
+	twirl 7
+	third 1
+	3
+prism
+	stare
+	crisp 12
+	prism 1
+	3
+slept
+	stare
+	slept 10
+	2
+knoll
+	stare
+	could 227
+	knoll 1
+	3
+bossy
+	stare
+	missy 38
+	hussy 3
+	bossy 1
+	4
+raspy
+	stare
+	harsh 4
+	raspy 1
+	3
+baggy
+	stare
+	canal 127
+	bawdy 13
+	baggy 1
+	4
+evade
+	stare
+	glade 24
+	evade 1
+	3
+boney
+	stare
+	olden 116
+	honey 3
+	boney 2
+	4
+cleft
+	stare
+	tenet 54
+	evict 8
+	cleft 1
+	4
+swift
+	stare
+	south 18
+	swift 3
+	3
+track
+	stare
+	tract 12
+	track 1
+	3
+caput
+	stare
+	taint 74
+	vault 5
+	gamut 2
+	caput 1
+	5
+woken
+	stare
+	olden 116
+	woken 4
+	3
+piece
+	stare
+	guile 87
+	mince 9
+	piece 1
+	4
+steak
+	stare
+	steal 4
+	steam 3
+	stead 2
+	steak 1
+	5
+snore
+	stare
+	shore 7
+	snore 4
+	3
+world
+	stare
+	crony 100
+	rough 11
+	world 1
+	4
+aging
+	stare
+	canal 127
+	aging 6
+	3
+erupt
+	stare
+	meter 30
+	erect 4
+	erupt 1
+	4
+peril
+	stare
+	decor 118
+	repel 10
+	peril 1
+	4
+biome
+	stare
+	guile 87
+	mince 9
+	biome 1
+	4
+chief
+	stare
+	olden 116
+	chief 3
+	3
+brink
+	stare
+	crony 100
+	bring 7
+	brink 1
+	4
+alibi
+	stare
+	canal 127
+	aloud 14
+	alibi 2
+	4
+arise
+	stare
+	raise 4
+	arise 1
+	3
+koala
+	stare
+	clank 37
+	koala 1
+	3
+spurt
+	stare
+	short 6
+	skirt 2
+	spurt 1
+	4
+sorry
+	stare
+	shorn 10
+	sorry 1
+	3
+troll
+	stare
+	throb 42
+	troll 2
+	3
+staff
+	stare
+	stank 10
+	staid 5
+	stamp 4
+	stall 3
+	staff 2
+	6
+blush
+	stare
+	missy 38
+	flush 3
+	blush 2
+	4
+elide
+	stare
+	guile 87
+	elide 2
+	3
+funky
+	stare
+	could 227
+	fungi 16
+	funky 2
+	4
+racer
+	stare
+	paler 47
+	wager 11
+	maker 4
+	racer 2
+	5
+sniff
+	stare
+	slink 67
+	scion 2
+	sniff 1
+	4
+shame
+	stare
+	shale 12
+	shake 5
+	shade 4
+	shape 3
+	shame 2
+	6
+ditch
+	stare
+	count 98
+	ditch 5
+	3
+motto
+	stare
+	count 98
+	tooth 8
+	motto 1
+	4
+hasty
+	stare
+	nasty 10
+	pasty 3
+	hasty 2
+	4
+tried
+	stare
+	meter 30
+	tried 3
+	3
+stock
+	stare
+	stink 22
+	stock 2
+	3
+retry
+	stare
+	retro 7
+	retry 1
+	3
+crook
+	stare
+	crony 100
+	crook 4
+	3
+swarm
+	stare
+	sharp 8
+	scarf 4
+	swarm 2
+	4
+eater
+	stare
+	later 14
+	cater 4
+	eater 3
+	4
+toxin
+	stare
+	count 98
+	month 2
+	toxin 1
+	4
+grail
+	stare
+	drawn 30
+	gravy 8
+	grail 2
+	4
+slunk
+	stare
+	slink 67
+	slunk 1
+	3
+loamy
+	stare
+	clank 37
+	qualm 4
+	loamy 1
+	4
+stern
+	stare
+	stern 1
+	2
+piety
+	stare
+	tenet 54
+	empty 3
+	piety 1
+	4
+drift
+	stare
+	throb 42
+	print 6
+	drift 1
+	4
+hilly
+	stare
+	could 227
+	hilly 5
+	3
+grasp
+	stare
+	crass 6
+	brash 2
+	grasp 1
+	4
+gaudy
+	stare
+	canal 127
+	bawdy 13
+	paddy 3
+	gaudy 1
+	5
+basis
+	stare
+	basin 16
+	basil 3
+	basis 2
+	4
+issue
+	stare
+	loose 21
+	issue 2
+	3
+false
+	stare
+	lapse 9
+	false 1
+	3
+token
+	stare
+	tenet 54
+	token 1
+	3
+kebab
+	stare
+	laden 51
+	mecca 4
+	kebab 1
+	4
+trice
+	stare
+	tripe 13
+	tribe 3
+	trice 2
+	4
+attic
+	stare
+	atoll 2
+	attic 1
+	3
+viral
+	stare
+	carol 64
+	mural 3
+	viral 1
+	4
+bezel
+	stare
+	olden 116
+	bevel 10
+	bezel 1
+	4
+deuce
+	stare
+	guile 87
+	undue 4
+	deuce 1
+	4
+grain
+	stare
+	drawn 30
+	grain 2
+	3
+clash
+	stare
+	clash 14
+	2
+scrub
+	stare
+	scrub 8
+	2
+swoon
+	stare
+	slink 67
+	snoop 7
+	swoon 1
+	4
+their
+	stare
+	meter 30
+	their 1
+	3
+mover
+	stare
+	decor 118
+	mower 18
+	mover 1
+	4
+turbo
+	stare
+	throb 42
+	turbo 1
+	3
+badly
+	stare
+	canal 127
+	daily 9
+	badly 2
+	4
+icing
+	stare
+	could 227
+	pinch 7
+	icing 1
+	4
+ethos
+	stare
+	ethos 1
+	2
+piano
+	stare
+	clank 37
+	piano 1
+	3
+pitch
+	stare
+	count 98
+	ditch 5
+	pitch 3
+	4
+meaty
+	stare
+	meant 11
+	meaty 1
+	3
+solve
+	stare
+	spine 27
+	smoke 4
+	solve 1
+	4
+forgo
+	stare
+	crony 100
+	rough 11
+	forgo 1
+	4
+unify
+	stare
+	could 227
+	fungi 16
+	unify 1
+	4
+alter
+	stare
+	later 14
+	alter 1
+	3
+etude
+	stare
+	etude 2
+	2
+chunk
+	stare
+	could 227
+	chunk 3
+	3
+refit
+	stare
+	meter 30
+	recut 4
+	refit 1
+	4
+drain
+	stare
+	drawn 30
+	drain 1
+	3
+gumbo
+	stare
+	could 227
+	jumbo 5
+	gumbo 1
+	4
+putty
+	stare
+	count 98
+	tulip 2
+	putty 1
+	4
+gazer
+	stare
+	paler 47
+	wager 11
+	gazer 3
+	4
+dusty
+	stare
+	moist 17
+	lusty 3
+	dusty 2
+	4
+vista
+	stare
+	nasty 10
+	vista 1
+	3
+aider
+	stare
+	paler 47
+	anger 3
+	aider 2
+	4
+drove
+	stare
+	grope 49
+	drone 6
+	drove 1
+	4
+forth
+	stare
+	throb 42
+	worth 3
+	forth 2
+	4
+tepee
+	stare
+	tithe 20
+	tepee 2
+	3
+coach
+	stare
+	clank 37
+	champ 3
+	coach 1
+	4
+loath
+	stare
+	plait 9
+	loath 1
+	3
+beech
+	stare
+	olden 116
+	beech 6
+	3
+omega
+	stare
+	laden 51
+	mecca 4
+	omega 1
+	4
+hater
+	stare
+	later 14
+	cater 4
+	eater 3
+	hater 2
+	5
+zesty
+	stare
+	upset 14
+	zesty 2
+	3
+thump
+	stare
+	count 98
+	thumb 2
+	thump 1
+	4
+evoke
+	stare
+	guile 87
+	pence 11
+	evoke 1
+	4
+quasi
+	stare
+	clash 14
+	amass 2
+	quasi 1
+	4
+sumac
+	stare
+	salad 18
+	sumac 1
+	3
+lunch
+	stare
+	could 227
+	mulch 4
+	lunch 1
+	4
+elude
+	stare
+	guile 87
+	flume 4
+	elude 1
+	4
+index
+	stare
+	olden 116
+	index 1
+	3
+vital
+	stare
+	taint 74
+	vital 1
+	3
+dodge
+	stare
+	guile 87
+	wedge 3
+	dodge 1
+	4
+lynch
+	stare
+	could 227
+	lynch 2
+	3
+clown
+	stare
+	could 227
+	clock 2
+	clown 1
+	4
+silky
+	stare
+	slink 67
+	silky 1
+	3
+often
+	stare
+	tenet 54
+	often 1
+	3
+crony
+	stare
+	crony 100
+	2
+forge
+	stare
+	grope 49
+	rouge 3
+	forge 1
+	4
+sheen
+	stare
+	spiel 21
+	semen 3
+	sheen 1
+	4
+torus
+	stare
+	torus 13
+	2
+willy
+	stare
+	could 227
+	hilly 5
+	willy 3
+	4
+verge
+	stare
+	grope 49
+	merge 4
+	verge 1
+	4
+rotor
+	stare
+	throb 42
+	rotor 2
+	3
+acrid
+	stare
+	carol 64
+	acrid 1
+	3
+exact
+	stare
+	enact 11
+	exact 1
+	3
+flail
+	stare
+	clank 37
+	plaza 4
+	flail 1
+	4
+linen
+	stare
+	olden 116
+	liken 3
+	linen 1
+	4
+shift
+	stare
+	south 18
+	sight 2
+	shift 1
+	4
+abbot
+	stare
+	taint 74
+	float 10
+	abbot 1
+	4
+safer
+	stare
+	swear 6
+	safer 2
+	3
+curvy
+	stare
+	crony 100
+	curly 2
+	curvy 1
+	4
+depth
+	stare
+	tenet 54
+	depth 9
+	3
+spice
+	stare
+	spine 27
+	spike 2
+	spice 1
+	4
+dunce
+	stare
+	guile 87
+	ounce 3
+	dunce 1
+	4
+maxim
+	stare
+	canal 127
+	bawdy 13
+	maxim 1
+	4
+avoid
+	stare
+	canal 127
+	avoid 8
+	3
+thief
+	stare
+	tenet 54
+	thief 2
+	3
+howdy
+	stare
+	could 227
+	downy 8
+	howdy 1
+	4
+repay
+	stare
+	paler 47
+	recap 2
+	repay 1
+	4
+biddy
+	stare
+	could 227
+	dingy 6
+	biddy 1
+	4
+vicar
+	stare
+	carol 64
+	vicar 1
+	3
+tasty
+	stare
+	nasty 10
+	hasty 3
+	pasty 2
+	tasty 1
+	5
+exile
+	stare
+	guile 87
+	exile 2
+	3
+midge
+	stare
+	guile 87
+	hinge 3
+	midge 1
+	4
+cabin
+	stare
+	canal 127
+	cabin 1
+	3
+might
+	stare
+	count 98
+	limit 8
+	might 1
+	4
+cramp
+	stare
+	drawn 30
+	gravy 8
+	cramp 3
+	4
+funny
+	stare
+	could 227
+	fungi 16
+	funky 2
+	funny 1
+	5
+bloom
+	stare
+	could 227
+	bloom 8
+	3
+vomit
+	stare
+	count 98
+	vomit 1
+	3
+cabby
+	stare
+	canal 127
+	caddy 2
+	cabby 1
+	4
+bread
+	stare
+	paler 47
+	creak 10
+	dream 3
+	bread 1
+	5
+ideal
+	stare
+	laden 51
+	decal 4
+	ideal 1
+	4
+pivot
+	stare
+	count 98
+	pilot 4
+	pivot 1
+	4
+crush
+	stare
+	crisp 12
+	crush 2
+	3
+feral
+	stare
+	paler 47
+	regal 3
+	feral 1
+	4
+dross
+	stare
+	crisp 12
+	gross 3
+	dross 1
+	4
+snuff
+	stare
+	slink 67
+	snoop 7
+	snuff 1
+	4
+gulch
+	stare
+	could 227
+	mulch 4
+	gulch 1
+	4
+scorn
+	stare
+	shorn 10
+	scorn 2
+	3
+crass
+	stare
+	crass 6
+	2
+deter
+	stare
+	meter 30
+	deter 1
+	3
+wager
+	stare
+	paler 47
+	wager 11
+	3
+sadly
+	stare
+	salad 18
+	sadly 1
+	3
+kayak
+	stare
+	canal 127
+	madam 2
+	kayak 1
+	4
+slosh
+	stare
+	slink 67
+	slosh 5
+	3
+fungi
+	stare
+	could 227
+	fungi 16
+	3
+puree
+	stare
+	grope 49
+	rupee 2
+	puree 1
+	4
+suing
+	stare
+	slink 67
+	swing 4
+	suing 1
+	4
+stalk
+	stare
+	stank 10
+	stalk 2
+	3
+dilly
+	stare
+	could 227
+	idyll 3
+	dilly 1
+	4
+qualm
+	stare
+	clank 37
+	qualm 4
+	3
+scope
+	stare
+	spine 27
+	slope 2
+	scope 1
+	4
+pizza
+	stare
+	canal 127
+	vodka 8
+	pizza 1
+	4
+tooth
+	stare
+	count 98
+	tooth 8
+	3
+slime
+	stare
+	spine 27
+	slide 5
+	slime 2
+	4
+rebel
+	stare
+	decor 118
+	repel 10
+	revel 2
+	rebel 1
+	5
+thrum
+	stare
+	throb 42
+	thrum 1
+	3
+salad
+	stare
+	salad 18
+	2
+flesh
+	stare
+	bless 9
+	flesh 1
+	3
+pecan
+	stare
+	laden 51
+	vegan 4
+	pecan 1
+	4
+fable
+	stare
+	angle 41
+	fable 4
+	3
+avert
+	stare
+	terra 4
+	avert 2
+	3
+built
+	stare
+	count 98
+	quilt 3
+	built 2
+	4
+polyp
+	stare
+	could 227
+	loopy 5
+	polyp 1
+	4
+rival
+	stare
+	carol 64
+	rival 1
+	3
+teary
+	stare
+	teary 2
+	2
+bevel
+	stare
+	olden 116
+	bevel 10
+	3
+decry
+	stare
+	ferry 10
+	decry 2
+	3
+endow
+	stare
+	olden 116
+	endow 1
+	3
+randy
+	stare
+	carol 64
+	nadir 9
+	randy 1
+	4
+titan
+	stare
+	taint 74
+	titan 1
+	3
+watch
+	stare
+	taint 74
+	catty 14
+	latch 6
+	batch 5
+	watch 4
+	6
+havoc
+	stare
+	canal 127
+	macho 4
+	havoc 1
+	4
+forty
+	stare
+	throb 42
+	forty 1
+	3
+arson
+	stare
+	harsh 4
+	arson 1
+	3
+tonga
+	stare
+	taint 74
+	tonga 2
+	3
+pooch
+	stare
+	could 227
+	pooch 2
+	3
+eagle
+	stare
+	angle 41
+	eagle 1
+	3
+rover
+	stare
+	decor 118
+	mower 18
+	rover 9
+	4
+bagel
+	stare
+	laden 51
+	gavel 4
+	bagel 1
+	4
+glass
+	stare
+	clash 14
+	glass 2
+	3
+genre
+	stare
+	where 5
+	genre 1
+	3
+drawl
+	stare
+	drawn 30
+	drawl 1
+	3
+leash
+	stare
+	leash 1
+	2
+badge
+	stare
+	angle 41
+	gauge 4
+	badge 1
+	4
+prude
+	stare
+	grope 49
+	prude 6
+	3
+villa
+	stare
+	canal 127
+	aloud 14
+	villa 1
+	4
+lasso
+	stare
+	basin 16
+	lasso 2
+	3
+grape
+	stare
+	grace 14
+	graze 4
+	grave 3
+	grape 2
+	5
+fairy
+	stare
+	cairn 16
+	hairy 3
+	dairy 2
+	fairy 1
+	5
+talon
+	stare
+	taint 74
+	tangy 3
+	talon 1
+	4
+vowel
+	stare
+	olden 116
+	vowel 4
+	3
+vegan
+	stare
+	laden 51
+	vegan 4
+	3
+clove
+	stare
+	guile 87
+	delve 6
+	clove 1
+	4
+lance
+	stare
+	angle 41
+	lance 1
+	3
+patty
+	stare
+	taint 74
+	patty 5
+	3
+stout
+	stare
+	stink 22
+	stoop 8
+	stout 1
+	4
+novel
+	stare
+	olden 116
+	novel 1
+	3
+crime
+	stare
+	grope 49
+	crude 8
+	crime 2
+	4
+blind
+	stare
+	could 227
+	livid 3
+	blind 1
+	4
+pupal
+	stare
+	canal 127
+	modal 4
+	pupal 1
+	4
+smite
+	stare
+	suite 4
+	spite 2
+	smite 1
+	4
+spied
+	stare
+	spiel 21
+	spied 1
+	3
+horde
+	stare
+	grope 49
+	borne 3
+	force 2
+	horde 1
+	5
+gassy
+	stare
+	basin 16
+	lasso 2
+	gassy 1
+	4
+bacon
+	stare
+	canal 127
+	bacon 1
+	3
+value
+	stare
+	angle 41
+	value 3
+	3
+valor
+	stare
+	carol 64
+	labor 2
+	valor 1
+	4
+burst
+	stare
+	torus 13
+	burst 1
+	3
+exalt
+	stare
+	meant 11
+	exact 2
+	exalt 1
+	4
+found
+	stare
+	could 227
+	mound 6
+	bound 5
+	found 4
+	5
+fiend
+	stare
+	olden 116
+	denim 3
+	fiend 1
+	4
+wrist
+	stare
+	torus 13
+	wrist 1
+	3
+homer
+	stare
+	decor 118
+	mower 18
+	homer 1
+	4
+niche
+	stare
+	guile 87
+	mince 9
+	niche 1
+	4
+agent
+	stare
+	pleat 21
+	agent 1
+	3
+birch
+	stare
+	crony 100
+	birch 2
+	3
+wheel
+	stare
+	olden 116
+	bevel 10
+	expel 3
+	wheel 1
+	5
+quill
+	stare
+	could 227
+	bully 4
+	quill 1
+	4
+befit
+	stare
+	tenet 54
+	debit 4
+	befit 1
+	4
+apart
+	stare
+	apart 4
+	2
+derby
+	stare
+	decor 118
+	derby 1
+	3
+jiffy
+	stare
+	could 227
+	nymph 14
+	jiffy 2
+	4
+dolly
+	stare
+	could 227
+	dolly 2
+	3
+dwell
+	stare
+	olden 116
+	yield 5
+	dwell 1
+	4
+mocha
+	stare
+	canal 127
+	mocha 1
+	3
+surly
+	stare
+	scrub 8
+	surly 1
+	3
+blame
+	stare
+	glade 24
+	blame 6
+	3
+breed
+	stare
+	decor 118
+	fried 5
+	breed 2
+	4
+wider
+	stare
+	decor 118
+	ruder 7
+	wider 2
+	4
+salty
+	stare
+	splat 5
+	salty 1
+	3
+twang
+	stare
+	plait 9
+	twang 2
+	3
+hoist
+	stare
+	moist 17
+	hoist 3
+	3
+gaffe
+	stare
+	angle 41
+	gauge 4
+	gaffe 1
+	4
+tiara
+	stare
+	apart 4
+	tiara 1
+	3
+knock
+	stare
+	could 227
+	knock 1
+	3
+wheat
+	stare
+	pleat 21
+	wheat 2
+	3
+peace
+	stare
+	glade 24
+	knave 9
+	chafe 3
+	peace 1
+	5
+logic
+	stare
+	could 227
+	logic 1
+	3
+rodeo
+	stare
+	decor 118
+	rodeo 1
+	3
+trash
+	stare
+	roast 2
+	trash 1
+	3
+voila
+	stare
+	canal 127
+	aloud 14
+	voila 2
+	4
+local
+	stare
+	canal 127
+	vocal 3
+	local 2
+	4
+windy
+	stare
+	could 227
+	dingy 6
+	windy 1
+	4
+quart
+	stare
+	apart 4
+	quart 2
+	3
+digit
+	stare
+	count 98
+	limit 8
+	digit 1
+	4
+mucus
+	stare
+	missy 38
+	mucus 1
+	3
+mushy
+	stare
+	missy 38
+	mushy 2
+	3
+melee
+	stare
+	guile 87
+	delve 6
+	melee 1
+	4
+welsh
+	stare
+	bless 9
+	welsh 1
+	3
+cyber
+	stare
+	decor 118
+	crier 3
+	cyber 2
+	4
+gayly
+	stare
+	canal 127
+	daily 9
+	gayly 1
+	4
+femur
+	stare
+	decor 118
+	fever 9
+	femur 1
+	4
+lucid
+	stare
+	could 227
+	lucid 1
+	3
+inert
+	stare
+	retro 7
+	inert 2
+	3
+notch
+	stare
+	count 98
+	notch 2
+	3
+weigh
+	stare
+	olden 116
+	beech 6
+	weigh 1
+	4
+shrub
+	stare
+	scrub 8
+	shrub 1
+	3
+detox
+	stare
+	tenet 54
+	depth 9
+	detox 1
+	4
+fatty
+	stare
+	taint 74
+	patty 5
+	fatty 4
+	4
+quail
+	stare
+	clank 37
+	qualm 4
+	quail 1
+	4
+whine
+	stare
+	guile 87
+	ovine 8
+	whine 1
+	4
+lingo
+	stare
+	could 227
+	bloom 8
+	lingo 1
+	4
+hazel
+	stare
+	laden 51
+	gavel 4
+	hazel 2
+	4
+chair
+	stare
+	drawn 30
+	flair 3
+	chair 1
+	4
+dirge
+	stare
+	grope 49
+	merge 4
+	dirge 1
+	4
+virus
+	stare
+	crisp 12
+	virus 3
+	3
+gypsy
+	stare
+	missy 38
+	lousy 2
+	gypsy 1
+	4
+lumen
+	stare
+	olden 116
+	liken 3
+	lumen 1
+	4
+cigar
+	stare
+	carol 64
+	cigar 1
+	3
+small
+	stare
+	scalp 27
+	shall 2
+	small 1
+	4
+revue
+	stare
+	grope 49
+	eerie 7
+	revue 1
+	4
+mamma
+	stare
+	canal 127
+	magma 5
+	mamma 1
+	4
+hefty
+	stare
+	tenet 54
+	depth 9
+	hefty 1
+	4
+about
+	stare
+	taint 74
+	float 10
+	adopt 2
+	about 1
+	5
+swine
+	stare
+	spine 27
+	shine 2
+	swine 1
+	4
+screw
+	stare
+	sewer 14
+	screw 2
+	3
+surge
+	stare
+	scree 4
+	surge 1
+	3
+dally
+	stare
+	canal 127
+	daily 9
+	dally 1
+	4
+audit
+	stare
+	taint 74
+	admit 2
+	audit 1
+	4
+decay
+	stare
+	laden 51
+	decay 2
+	3
+knack
+	stare
+	clank 37
+	knack 1
+	3
+rider
+	stare
+	decor 118
+	ruder 7
+	rider 1
+	4
+kitty
+	stare
+	count 98
+	width 12
+	bitty 3
+	kitty 1
+	5
+olden
+	stare
+	olden 116
+	2
+gravy
+	stare
+	drawn 30
+	gravy 8
+	3
+creep
+	stare
+	decor 118
+	wreck 4
+	creep 1
+	4
+wield
+	stare
+	olden 116
+	yield 5
+	wield 2
+	4
+annex
+	stare
+	laden 51
+	annex 2
+	3
+squib
+	stare
+	slink 67
+	sissy 3
+	squib 1
+	4
+elect
+	stare
+	tenet 54
+	eject 2
+	elect 1
+	4
+spear
+	stare
+	swear 6
+	spear 3
+	3
+pinto
+	stare
+	count 98
+	pinto 1
+	3
+lupus
+	stare
+	missy 38
+	locus 4
+	lupus 1
+	4
+bulge
+	stare
+	guile 87
+	lunge 2
+	bulge 1
+	4
+vapor
+	stare
+	carol 64
+	rayon 7
+	favor 3
+	vapor 1
+	5
+coast
+	stare
+	boast 4
+	toast 2
+	coast 1
+	4
+elope
+	stare
+	guile 87
+	delve 6
+	elope 1
+	4
+quiet
+	stare
+	tenet 54
+	duvet 5
+	quiet 1
+	4
+moose
+	stare
+	loose 21
+	noose 3
+	moose 2
+	4
+infer
+	stare
+	decor 118
+	filer 26
+	infer 1
+	4
+waive
+	stare
+	angle 41
+	maize 6
+	waive 1
+	4
+sprig
+	stare
+	scrub 8
+	sprig 1
+	3
+charm
+	stare
+	hoard 12
+	wharf 2
+	charm 1
+	4
+wimpy
+	stare
+	could 227
+	nymph 14
+	wimpy 1
+	4
+ladle
+	stare
+	angle 41
+	fable 4
+	maple 2
+	ladle 1
+	5
+fizzy
+	stare
+	could 227
+	nymph 14
+	jiffy 2
+	fizzy 1
+	5
+stove
+	stare
+	stone 5
+	stole 3
+	stoke 2
+	stove 1
+	5
+gauge
+	stare
+	angle 41
+	gauge 4
+	3
+dusky
+	stare
+	missy 38
+	pushy 4
+	dusky 1
+	4
+haute
+	stare
+	latte 6
+	haute 1
+	3
+quark
+	stare
+	hoard 12
+	alarm 2
+	quark 1
+	4
+every
+	stare
+	ferry 10
+	query 2
+	every 1
+	4
+tiger
+	stare
+	meter 30
+	tuber 4
+	tower 2
+	tiger 1
+	5
+daily
+	stare
+	canal 127
+	daily 9
+	3
+flake
+	stare
+	glade 24
+	blame 6
+	place 3
+	flake 1
+	5
+woozy
+	stare
+	could 227
+	bongo 10
+	woozy 1
+	4
+sever
+	stare
+	sewer 14
+	sever 1
+	3
+movie
+	stare
+	guile 87
+	mince 9
+	movie 1
+	4
+comet
+	stare
+	tenet 54
+	duvet 5
+	comet 2
+	4
+creek
+	stare
+	decor 118
+	wreck 4
+	creek 1
+	4
+graph
+	stare
+	drawn 30
+	gravy 8
+	grail 2
+	graph 1
+	5
+cloak
+	stare
+	canal 127
+	cloak 1
+	3
+crack
+	stare
+	drawn 30
+	gravy 8
+	cramp 3
+	crack 1
+	5
+usage
+	stare
+	chase 6
+	usage 1
+	3
+singe
+	stare
+	spine 27
+	since 2
+	singe 1
+	4
+north
+	stare
+	throb 42
+	worth 3
+	forth 2
+	north 1
+	5
+scant
+	stare
+	slant 5
+	scant 1
+	3
+chain
+	stare
+	clank 37
+	chain 1
+	3
+cadet
+	stare
+	pleat 21
+	facet 2
+	cadet 1
+	4
+chase
+	stare
+	chase 6
+	2
+spire
+	stare
+	shore 7
+	spire 1
+	3
+stein
+	stare
+	steep 4
+	stein 1
+	3
+clack
+	stare
+	clank 37
+	clack 1
+	3
+front
+	stare
+	throb 42
+	front 3
+	3
+grimy
+	stare
+	crony 100
+	wryly 4
+	privy 2
+	grimy 1
+	5
+aware
+	stare
+	flare 4
+	aware 1
+	3
+steel
+	stare
+	steep 4
+	steel 2
+	3
+ruddy
+	stare
+	crony 100
+	girly 5
+	ruddy 1
+	4
+valve
+	stare
+	angle 41
+	value 3
+	valve 1
+	4
+solar
+	stare
+	sonar 7
+	solar 1
+	3
+drawn
+	stare
+	drawn 30
+	2
+error
+	stare
+	decor 118
+	error 1
+	3
+corny
+	stare
+	crony 100
+	corny 1
+	3
+given
+	stare
+	olden 116
+	given 4
+	3
+papal
+	stare
+	canal 127
+	papal 1
+	3
+bully
+	stare
+	could 227
+	bully 4
+	3
+mouse
+	stare
+	loose 21
+	poise 6
+	house 2
+	mouse 1
+	5
+straw
+	stare
+	strap 3
+	straw 2
+	3
+frank
+	stare
+	drawn 30
+	crank 3
+	frank 2
+	4
+olive
+	stare
+	guile 87
+	elide 2
+	olive 1
+	4
+begun
+	stare
+	olden 116
+	feign 3
+	begun 1
+	4
+plush
+	stare
+	missy 38
+	flush 3
+	blush 2
+	plush 1
+	5
+brick
+	stare
+	crony 100
+	brick 2
+	3
+dying
+	stare
+	could 227
+	dingy 6
+	dying 1
+	4
+artsy
+	stare
+	artsy 1
+	2
+gusto
+	stare
+	moist 17
+	gusto 1
+	3
+queer
+	stare
+	decor 118
+	filer 26
+	upper 6
+	buyer 2
+	queer 1
+	6
+banal
+	stare
+	canal 127
+	banal 1
+	3
+floss
+	stare
+	missy 38
+	gloss 2
+	floss 1
+	4
+altar
+	stare
+	tarot 13
+	altar 1
+	3
+under
+	stare
+	decor 118
+	ruder 7
+	under 2
+	4
+guise
+	stare
+	loose 21
+	dense 3
+	guise 1
+	4
+champ
+	stare
+	clank 37
+	champ 3
+	3
+candy
+	stare
+	canal 127
+	candy 3
+	3
+tulle
+	stare
+	tithe 20
+	tepee 2
+	tulle 1
+	4
+hitch
+	stare
+	count 98
+	ditch 5
+	pitch 3
+	hitch 2
+	5
+holly
+	stare
+	could 227
+	holly 7
+	3
+tenet
+	stare
+	tenet 54
+	2
+south
+	stare
+	south 18
+	2
+tapir
+	stare
+	tarot 13
+	tapir 1
+	3
+worry
+	stare
+	glory 20
+	dowry 2
+	worry 1
+	4
+riper
+	stare
+	decor 118
+	filer 26
+	river 6
+	riper 1
+	5
+aroma
+	stare
+	carol 64
+	groan 4
+	aroma 1
+	4
+droit
+	stare
+	throb 42
+	front 3
+	droit 2
+	4
+shunt
+	stare
+	south 18
+	shunt 1
+	3
+dozen
+	stare
+	olden 116
+	dozen 1
+	3
+goody
+	stare
+	could 227
+	downy 8
+	moody 2
+	goody 1
+	5
+refer
+	stare
+	decor 118
+	fever 9
+	refer 1
+	4
+awake
+	stare
+	glade 24
+	knave 9
+	awake 2
+	4
+khaki
+	stare
+	clank 37
+	khaki 1
+	3
+rough
+	stare
+	crony 100
+	rough 11
+	3
+proud
+	stare
+	crony 100
+	droop 13
+	proud 1
+	4
+flume
+	stare
+	guile 87
+	flume 4
+	3
+roach
+	stare
+	drawn 30
+	flair 3
+	roach 1
+	4
+music
+	stare
+	missy 38
+	music 1
+	3
+shear
+	stare
+	swear 6
+	spear 3
+	shear 2
+	4
+blaze
+	stare
+	glade 24
+	blame 6
+	blaze 1
+	4
+court
+	stare
+	twirl 7
+	court 1
+	3
+draft
+	stare
+	tract 12
+	grant 3
+	draft 1
+	4
+assay
+	stare
+	basin 16
+	assay 1
+	3
+range
+	stare
+	barge 7
+	range 1
+	3
+prowl
+	stare
+	crony 100
+	droop 13
+	prowl 1
+	4
+dully
+	stare
+	could 227
+	dully 1
+	3
+build
+	stare
+	could 227
+	guild 2
+	build 1
+	4
+aside
+	stare
+	lapse 9
+	aside 1
+	3
+scare
+	stare
+	share 4
+	spare 3
+	snare 2
+	scare 1
+	5
+curve
+	stare
+	grope 49
+	eerie 7
+	curve 1
+	4
+match
+	stare
+	taint 74
+	catty 14
+	latch 6
+	batch 5
+	watch 4
+	match 3
+	7
+stair
+	stare
+	stair 1
+	2
+ripen
+	stare
+	decor 118
+	grief 6
+	ripen 1
+	4
+shirk
+	stare
+	shorn 10
+	shirk 1
+	3
+admin
+	stare
+	canal 127
+	aging 6
+	admin 1
+	4
+delay
+	stare
+	laden 51
+	decal 4
+	delay 1
+	4
+sulky
+	stare
+	slink 67
+	sulky 2
+	3
+guard
+	stare
+	hoard 12
+	guard 2
+	3
+apron
+	stare
+	carol 64
+	arrow 2
+	apron 1
+	4
+salve
+	stare
+	sauce 2
+	salve 1
+	3
+pulpy
+	stare
+	could 227
+	bulky 4
+	pulpy 1
+	4
+cruel
+	stare
+	decor 118
+	wreck 4
+	cruel 1
+	4
+foist
+	stare
+	moist 17
+	hoist 3
+	foist 2
+	4
+comma
+	stare
+	canal 127
+	cocoa 2
+	comma 1
+	4
+laden
+	stare
+	laden 51
+	2
+chalk
+	stare
+	clank 37
+	chalk 1
+	3
+quirk
+	stare
+	glory 20
+	churn 3
+	quirk 1
+	4
+sushi
+	stare
+	slink 67
+	sissy 3
+	sushi 1
+	4
+owner
+	stare
+	decor 118
+	mower 18
+	owner 1
+	4
+madly
+	stare
+	canal 127
+	daily 9
+	badly 2
+	madly 1
+	5
+cheat
+	stare
+	pleat 21
+	wheat 2
+	cheat 1
+	4
+anime
+	stare
+	angle 41
+	anime 2
+	3
+belch
+	stare
+	olden 116
+	belch 9
+	3
+moron
+	stare
+	crony 100
+	donor 5
+	moron 1
+	4
+oxide
+	stare
+	guile 87
+	ovine 8
+	oxide 1
+	4
+begin
+	stare
+	olden 116
+	feign 3
+	begin 1
+	4
+manic
+	stare
+	canal 127
+	panic 3
+	manic 1
+	4
+chord
+	stare
+	glory 20
+	fjord 2
+	chord 1
+	4
+slump
+	stare
+	slink 67
+	slosh 5
+	slump 2
+	4
+soggy
+	stare
+	slink 67
+	swoop 7
+	soggy 1
+	4
+igloo
+	stare
+	could 227
+	bloom 8
+	igloo 1
+	4
+merit
+	stare
+	meter 30
+	merit 1
+	3
+stunt
+	stare
+	stink 22
+	stung 3
+	stunt 1
+	4
+grief
+	stare
+	decor 118
+	ripen 6
+	grief 2
+	4
+smirk
+	stare
+	shorn 10
+	slurp 3
+	smirk 1
+	4
+nurse
+	stare
+	rouse 10
+	curse 3
+	nurse 2
+	4
+sheep
+	stare
+	spiel 21
+	sweep 2
+	sheep 1
+	4
+angst
+	stare
+	nasty 10
+	angst 1
+	3
+alpha
+	stare
+	canal 127
+	alpha 1
+	3
+crude
+	stare
+	grope 49
+	crude 8
+	3
+briny
+	stare
+	crony 100
+	briny 1
+	3
+diner
+	stare
+	decor 118
+	diner 4
+	3
+relax
+	stare
+	paler 47
+	relax 2
+	3
+cress
+	stare
+	poser 14
+	cress 4
+	3
+embed
+	stare
+	olden 116
+	dicey 2
+	embed 1
+	4
+truly
+	stare
+	throb 42
+	trick 5
+	truly 2
+	4
+guilt
+	stare
+	count 98
+	quilt 3
+	built 2
+	guilt 1
+	5
+rouse
+	stare
+	rouse 10
+	2
+exult
+	stare
+	tenet 54
+	evict 8
+	exult 1
+	4
+humid
+	stare
+	could 227
+	humid 2
+	3
+align
+	stare
+	canal 127
+	align 2
+	3
+blade
+	stare
+	glade 24
+	blade 1
+	3
+cabal
+	stare
+	canal 127
+	cabal 1
+	3
+jumpy
+	stare
+	could 227
+	fungi 16
+	humph 4
+	jumpy 1
+	5
+annoy
+	stare
+	canal 127
+	ninja 2
+	annoy 1
+	4
+mimic
+	stare
+	could 227
+	pinch 7
+	mimic 1
+	4
+witty
+	stare
+	count 98
+	width 12
+	witty 1
+	4
+magic
+	stare
+	canal 127
+	macho 4
+	magic 1
+	4
+brief
+	stare
+	decor 118
+	ripen 6
+	grief 2
+	brief 1
+	5
+betel
+	stare
+	tenet 54
+	betel 1
+	3
+allay
+	stare
+	canal 127
+	allay 1
+	3
+outer
+	stare
+	meter 30
+	outer 3
+	3
+gummy
+	stare
+	could 227
+	fungi 16
+	gummy 2
+	4
+catty
+	stare
+	taint 74
+	patty 5
+	fatty 4
+	catty 3
+	5
+leafy
+	stare
+	leach 10
+	leaky 2
+	leafy 1
+	4
+frill
+	stare
+	crony 100
+	gruff 6
+	frill 1
+	4
+erode
+	stare
+	grope 49
+	drone 6
+	erode 1
+	4
+entry
+	stare
+	retro 7
+	entry 1
+	3
+prose
+	stare
+	rouse 10
+	prose 1
+	3
+minor
+	stare
+	crony 100
+	donor 5
+	minor 1
+	4
+humor
+	stare
+	crony 100
+	furor 11
+	humor 1
+	4
+hovel
+	stare
+	olden 116
+	vowel 4
+	hovel 1
+	4
+pinch
+	stare
+	could 227
+	pinch 7
+	3
+amiss
+	stare
+	basin 16
+	amiss 1
+	3
+topic
+	stare
+	count 98
+	toxic 3
+	topic 1
+	4
+poesy
+	stare
+	bless 9
+	poesy 1
+	3
+plate
+	stare
+	abate 5
+	plate 3
+	3
+scent
+	stare
+	slept 10
+	sheet 3
+	scent 1
+	4
+ought
+	stare
+	count 98
+	flout 2
+	ought 1
+	4
+snail
+	stare
+	scalp 27
+	slang 5
+	snail 1
+	4
+heard
+	stare
+	yearn 7
+	heard 4
+	3
+wight
+	stare
+	count 98
+	limit 8
+	fight 3
+	wight 2
+	5
+matey
+	stare
+	pleat 21
+	eaten 3
+	matey 1
+	4
+choir
+	stare
+	crony 100
+	choir 1
+	3
+snout
+	stare
+	south 18
+	spout 3
+	scout 2
+	snout 1
+	5
+tonal
+	stare
+	taint 74
+	tonga 2
+	tonal 1
+	4
+gaunt
+	stare
+	taint 74
+	vaunt 5
+	daunt 4
+	gaunt 3
+	5
+truce
+	stare
+	tripe 13
+	trove 2
+	truce 1
+	4
+rugby
+	stare
+	crony 100
+	rugby 5
+	3
+rigid
+	stare
+	crony 100
+	lurid 2
+	rigid 1
+	4
+river
+	stare
+	decor 118
+	filer 26
+	river 6
+	4
+nosey
+	stare
+	bless 9
+	nosey 2
+	3
+wrest
+	stare
+	wrest 4
+	2
+dryly
+	stare
+	crony 100
+	wryly 4
+	dryly 1
+	4
+paint
+	stare
+	taint 74
+	faint 2
+	paint 1
+	4
+pulse
+	stare
+	loose 21
+	pulse 1
+	3
+junto
+	stare
+	count 98
+	junto 1
+	3
+diver
+	stare
+	decor 118
+	diner 4
+	diver 1
+	4
+minty
+	stare
+	count 98
+	minty 2
+	3
+canny
+	stare
+	canal 127
+	candy 3
+	canny 1
+	4
+spiky
+	stare
+	slink 67
+	spiky 3
+	3
+block
+	stare
+	could 227
+	flock 2
+	block 1
+	4
+hobby
+	stare
+	could 227
+	bongo 10
+	hobby 1
+	4
+state
+	stare
+	stave 5
+	stage 4
+	state 3
+	4
+wince
+	stare
+	guile 87
+	mince 9
+	wince 1
+	4
+lurch
+	stare
+	crony 100
+	birch 2
+	lurch 1
+	4
+smell
+	stare
+	spiel 21
+	smell 3
+	3
+croup
+	stare
+	crony 100
+	crook 4
+	croup 2
+	4
+heave
+	stare
+	glade 24
+	knave 9
+	weave 2
+	heave 1
+	5
+cycle
+	stare
+	guile 87
+	noble 4
+	cycle 1
+	4
+manly
+	stare
+	canal 127
+	manly 2
+	3
+phase
+	stare
+	chase 6
+	phase 1
+	3
+mercy
+	stare
+	decor 118
+	perch 3
+	mercy 1
+	4
+thong
+	stare
+	count 98
+	thong 1
+	3
+storm
+	stare
+	story 3
+	storm 2
+	3
+zonal
+	stare
+	canal 127
+	final 2
+	zonal 1
+	4
+primo
+	stare
+	crony 100
+	primo 2
+	3
+spank
+	stare
+	scalp 27
+	spawn 4
+	spank 1
+	4
+torch
+	stare
+	throb 42
+	torch 1
+	3
+fleck
+	stare
+	olden 116
+	fleck 2
+	3
+threw
+	stare
+	meter 30
+	tried 3
+	threw 1
+	4
+brake
+	stare
+	grace 14
+	drake 5
+	brake 1
+	4
+cluck
+	stare
+	could 227
+	clung 3
+	cluck 2
+	4
+glyph
+	stare
+	could 227
+	fling 10
+	glyph 1
+	4
+stash
+	stare
+	stank 10
+	staid 5
+	stamp 4
+	stall 3
+	staff 2
+	stash 1
+	7
+prick
+	stare
+	crony 100
+	brick 2
+	prick 1
+	4
+along
+	stare
+	canal 127
+	align 2
+	along 1
+	4
+scold
+	stare
+	slink 67
+	spool 5
+	scold 1
+	4
+testy
+	stare
+	upset 14
+	zesty 2
+	testy 1
+	4
+pluck
+	stare
+	could 227
+	pluck 1
+	3
+latte
+	stare
+	latte 6
+	2
+mince
+	stare
+	guile 87
+	mince 9
+	3
+harsh
+	stare
+	harsh 4
+	2
+whiff
+	stare
+	could 227
+	nymph 14
+	whiff 1
+	4
+phone
+	stare
+	guile 87
+	pence 11
+	phone 1
+	4
+cream
+	stare
+	paler 47
+	creak 10
+	cream 1
+	4
+mauve
+	stare
+	angle 41
+	maize 6
+	mauve 2
+	4
+sling
+	stare
+	slink 67
+	sling 1
+	3
+fleet
+	stare
+	tenet 54
+	fleet 1
+	3
+lunar
+	stare
+	carol 64
+	lunar 1
+	3
+filet
+	stare
+	tenet 54
+	duvet 5
+	comet 2
+	filet 1
+	5
+viola
+	stare
+	canal 127
+	aloud 14
+	viola 1
+	4
+amity
+	stare
+	taint 74
+	amity 1
+	3
+horse
+	stare
+	rouse 10
+	worse 2
+	horse 1
+	4
+jolly
+	stare
+	could 227
+	holly 7
+	jolly 3
+	4
+skimp
+	stare
+	slink 67
+	spiky 3
+	skimp 1
+	4
+cower
+	stare
+	decor 118
+	corer 3
+	cower 2
+	4
+baker
+	stare
+	paler 47
+	wager 11
+	maker 4
+	baker 1
+	5
+haven
+	stare
+	laden 51
+	haven 3
+	3
+liege
+	stare
+	guile 87
+	bilge 2
+	liege 1
+	4
+moldy
+	stare
+	could 227
+	moldy 1
+	3
+shave
+	stare
+	shale 12
+	shake 5
+	shape 4
+	shade 3
+	shame 2
+	shave 1
+	7
+argue
+	stare
+	barge 7
+	argue 1
+	3
+floor
+	stare
+	crony 100
+	flour 2
+	floor 1
+	4
+wispy
+	stare
+	missy 38
+	wispy 2
+	3
+click
+	stare
+	could 227
+	clink 6
+	click 1
+	4
+whale
+	stare
+	glade 24
+	leave 2
+	whale 1
+	4
+pride
+	stare
+	grope 49
+	prude 6
+	pride 1
+	4
+flaky
+	stare
+	clank 37
+	flaky 1
+	3
+level
+	stare
+	olden 116
+	bevel 10
+	level 1
+	4
+gleam
+	stare
+	laden 51
+	bleak 5
+	gleam 1
+	4
+moral
+	stare
+	carol 64
+	moral 1
+	3
+nadir
+	stare
+	carol 64
+	nadir 9
+	3
+blank
+	stare
+	clank 37
+	flank 3
+	blank 2
+	4
+limbo
+	stare
+	could 227
+	bloom 8
+	limbo 1
+	4
+lease
+	stare
+	chase 6
+	lease 2
+	3
+clasp
+	stare
+	clash 14
+	clasp 2
+	3
+guava
+	stare
+	clank 37
+	foamy 2
+	guava 1
+	4
+chose
+	stare
+	loose 21
+	chose 2
+	3
+slush
+	stare
+	slink 67
+	slosh 5
+	slush 1
+	4
+super
+	stare
+	sewer 14
+	surer 4
+	super 1
+	4
+picky
+	stare
+	could 227
+	pinch 7
+	picky 1
+	4
+fishy
+	stare
+	missy 38
+	wispy 2
+	fishy 1
+	4
+medic
+	stare
+	olden 116
+	medic 1
+	3
+devil
+	stare
+	olden 116
+	yield 5
+	devil 1
+	4
+gloom
+	stare
+	could 227
+	bloom 8
+	gloom 1
+	4
+swill
+	stare
+	slink 67
+	spill 2
+	swill 1
+	4
+axion
+	stare
+	canal 127
+	aging 6
+	axion 1
+	4
+furor
+	stare
+	crony 100
+	rough 11
+	furor 2
+	4
+voter
+	stare
+	meter 30
+	outer 3
+	voter 1
+	4
+melon
+	stare
+	olden 116
+	lemon 3
+	melon 1
+	4
+swirl
+	stare
+	shorn 10
+	slurp 3
+	swirl 1
+	4
+rebus
+	stare
+	poser 14
+	cress 4
+	rebus 1
+	4
+stand
+	stare
+	stank 10
+	stand 1
+	3
+caper
+	stare
+	paler 47
+	caper 1
+	3
+liver
+	stare
+	decor 118
+	filer 26
+	liver 2
+	4
+guess
+	stare
+	bless 9
+	guess 2
+	3
+label
+	stare
+	laden 51
+	lapel 2
+	label 1
+	4
+crawl
+	stare
+	drawn 30
+	crawl 2
+	3
+dandy
+	stare
+	canal 127
+	dandy 7
+	3
+guppy
+	stare
+	could 227
+	fungi 16
+	gummy 2
+	guppy 1
+	5
+horny
+	stare
+	crony 100
+	horny 1
+	3
+hound
+	stare
+	could 227
+	mound 6
+	bound 5
+	found 4
+	hound 3
+	6
+rapid
+	stare
+	carol 64
+	nadir 9
+	rapid 2
+	4
+wrath
+	stare
+	tract 12
+	wrath 1
+	3
+serum
+	stare
+	sewer 14
+	serum 2
+	3
+idiot
+	stare
+	count 98
+	pilot 4
+	idiot 1
+	4
+yeast
+	stare
+	least 4
+	yeast 3
+	3
+optic
+	stare
+	count 98
+	optic 1
+	3
+trout
+	stare
+	throb 42
+	troll 2
+	trout 1
+	4
+micro
+	stare
+	glory 20
+	micro 2
+	3
+mammy
+	stare
+	canal 127
+	bawdy 13
+	jazzy 3
+	happy 2
+	mammy 1
+	6
+ratio
+	stare
+	tarot 13
+	ratio 1
+	3
+serve
+	stare
+	scree 4
+	serve 1
+	3
+locus
+	stare
+	missy 38
+	locus 4
+	3
+stray
+	stare
+	strap 3
+	straw 2
+	stray 1
+	4
+imbue
+	stare
+	guile 87
+	imbue 2
+	3
+growl
+	stare
+	crony 100
+	droop 13
+	broil 2
+	growl 1
+	5
+tipsy
+	stare
+	moist 17
+	tipsy 1
+	3
+ankle
+	stare
+	angle 41
+	ankle 1
+	3
+brush
+	stare
+	crisp 12
+	gross 3
+	brush 1
+	4
+apply
+	stare
+	canal 127
+	aloud 14
+	amply 2
+	apply 1
+	5
+prank
+	stare
+	drawn 30
+	crank 3
+	frank 2
+	prank 1
+	5
+leapt
+	stare
+	meant 11
+	leapt 2
+	3
+knelt
+	stare
+	tenet 54
+	inept 3
+	knelt 1
+	4
+ether
+	stare
+	otter 4
+	ether 1
+	3
+blown
+	stare
+	could 227
+	bloom 8
+	blown 1
+	4
+grade
+	stare
+	grace 14
+	graze 4
+	grave 3
+	grape 2
+	grade 1
+	6
+girth
+	stare
+	throb 42
+	girth 2
+	3
+green
+	stare
+	decor 118
+	ripen 6
+	green 1
+	4
+rerun
+	stare
+	decor 118
+	repel 10
+	rerun 2
+	4
+eight
+	stare
+	tenet 54
+	evict 8
+	eight 1
+	4
+ample
+	stare
+	angle 41
+	apple 3
+	ample 1
+	4
+gonad
+	stare
+	canal 127
+	gonad 1
+	3
+could
+	stare
+	could 227
+	2
+bobby
+	stare
+	could 227
+	bongo 10
+	bobby 1
+	4
+musky
+	stare
+	missy 38
+	mushy 2
+	musky 1
+	4
+joint
+	stare
+	count 98
+	joint 2
+	3
+shuck
+	stare
+	slink 67
+	shock 5
+	shuck 1
+	4
+frock
+	stare
+	crony 100
+	frock 1
+	3
+borax
+	stare
+	carol 64
+	borax 2
+	3
+snipe
+	stare
+	spine 27
+	snipe 1
+	3
+flack
+	stare
+	clank 37
+	flack 2
+	3
+amaze
+	stare
+	glade 24
+	knave 9
+	chafe 3
+	amaze 1
+	5
+gnash
+	stare
+	clash 14
+	awash 3
+	quash 2
+	gnash 1
+	5
+quick
+	stare
+	could 227
+	munch 8
+	juicy 2
+	quick 1
+	5
+scoop
+	stare
+	slink 67
+	swoop 7
+	scoop 1
+	4
+chart
+	stare
+	apart 4
+	quart 2
+	chart 1
+	4
+lofty
+	stare
+	count 98
+	tooth 8
+	lofty 1
+	4
+snort
+	stare
+	short 6
+	snort 2
+	3
+ridge
+	stare
+	grope 49
+	merge 4
+	ridge 1
+	4
+major
+	stare
+	carol 64
+	rayon 7
+	favor 3
+	major 1
+	5
+tempo
+	stare
+	tenet 54
+	teddy 3
+	tempo 1
+	4
+shank
+	stare
+	scalp 27
+	shaky 7
+	shank 1
+	4
+mucky
+	stare
+	could 227
+	munch 8
+	mucky 1
+	4
+lumpy
+	stare
+	could 227
+	bulky 4
+	lumpy 1
+	4
+rarer
+	stare
+	paler 47
+	wager 11
+	maker 4
+	racer 2
+	rarer 1
+	6
+tubal
+	stare
+	taint 74
+	today 3
+	tubal 1
+	4
+stony
+	stare
+	stunk 22
+	stint 3
+	stony 1
+	4
+risen
+	stare
+	poser 14
+	risen 1
+	3
+fresh
+	stare
+	poser 14
+	cress 4
+	fresh 1
+	4
+quake
+	stare
+	glade 24
+	knave 9
+	awake 2
+	quake 1
+	5
+bowel
+	stare
+	olden 116
+	vowel 4
+	bowel 1
+	4
+nomad
+	stare
+	canal 127
+	human 3
+	nomad 1
+	4
+shark
+	stare
+	sharp 8
+	shard 2
+	shark 1
+	4
+older
+	stare
+	decor 118
+	odder 3
+	older 2
+	4
+knave
+	stare
+	glade 24
+	knave 9
+	3
+weedy
+	stare
+	olden 116
+	edify 3
+	weedy 1
+	4
+throw
+	stare
+	throb 42
+	throw 1
+	3
+scrum
+	stare
+	scrub 8
+	scrum 1
+	3
+total
+	stare
+	taint 74
+	total 1
+	3
+award
+	stare
+	hoard 12
+	guard 2
+	award 1
+	4
+spook
+	stare
+	slink 67
+	shock 5
+	spook 1
+	4
+finer
+	stare
+	decor 118
+	filer 26
+	fixer 3
+	fiber 2
+	finer 1
+	6
+fully
+	stare
+	could 227
+	bully 4
+	fully 2
+	4
+agate
+	stare
+	abate 5
+	agate 1
+	3
+geeky
+	stare
+	olden 116
+	weigh 6
+	geeky 1
+	4
+itchy
+	stare
+	itchy 1
+	2
+skill
+	stare
+	slink 67
+	skill 1
+	3
+saner
+	stare
+	swear 6
+	safer 2
+	saner 1
+	4
+fudge
+	stare
+	guile 87
+	budge 5
+	nudge 3
+	fudge 2
+	5
+golly
+	stare
+	could 227
+	holly 7
+	jolly 3
+	golly 2
+	5
+dutch
+	stare
+	count 98
+	hutch 3
+	butch 2
+	dutch 1
+	5
+amber
+	stare
+	paler 47
+	anger 3
+	aider 2
+	amber 1
+	5
+scuba
+	stare
+	salad 18
+	scuba 2
+	3
+pique
+	stare
+	guile 87
+	imbue 2
+	pique 1
+	4
+plank
+	stare
+	clank 37
+	flank 3
+	blank 2
+	plank 1
+	5
+focus
+	stare
+	missy 38
+	locus 4
+	focus 1
+	4
+choke
+	stare
+	guile 87
+	pence 11
+	choke 1
+	4
+prior
+	stare
+	crony 100
+	primo 2
+	prior 1
+	4
+crave
+	stare
+	grace 14
+	crane 3
+	crave 2
+	4
+uncut
+	stare
+	count 98
+	uncut 1
+	3
+taint
+	stare
+	taint 74
+	2
+react
+	stare
+	react 1
+	2
+hippy
+	stare
+	could 227
+	nymph 14
+	hippy 1
+	4
+droll
+	stare
+	crony 100
+	droop 13
+	droll 1
+	4
+cease
+	stare
+	chase 6
+	cease 1
+	3
+newly
+	stare
+	olden 116
+	newly 1
+	3
+iliac
+	stare
+	canal 127
+	lilac 2
+	iliac 1
+	4
+broke
+	stare
+	grope 49
+	drone 6
+	froze 2
+	broke 1
+	5
+shiny
+	stare
+	slink 67
+	swing 4
+	shiny 2
+	4
+rhino
+	stare
+	crony 100
+	round 2
+	rhino 1
+	4
+taunt
+	stare
+	taint 74
+	taunt 1
+	3
+ditty
+	stare
+	count 98
+	width 12
+	ditty 1
+	4
+stuck
+	stare
+	stink 22
+	stock 2
+	stuck 1
+	4
+stump
+	stare
+	stink 22
+	stoop 8
+	stump 1
+	4
+polar
+	stare
+	carol 64
+	molar 2
+	polar 1
+	4
+vigor
+	stare
+	crony 100
+	rough 11
+	vigor 1
+	4
+leery
+	stare
+	ferry 10
+	decry 2
+	leery 1
+	4
+posit
+	stare
+	moist 17
+	posit 1
+	3
+giver
+	stare
+	decor 118
+	filer 26
+	river 6
+	giver 1
+	5
+bluff
+	stare
+	could 227
+	flunk 7
+	bluff 1
+	4
+minus
+	stare
+	missy 38
+	minus 1
+	3
+skiff
+	stare
+	slink 67
+	spiky 3
+	skiff 1
+	4
+nylon
+	stare
+	could 227
+	bloom 8
+	nylon 1
+	4
+stain
+	stare
+	stank 10
+	stain 1
+	3
+cacao
+	stare
+	canal 127
+	cacao 1
+	3
+gauze
+	stare
+	angle 41
+	gauge 4
+	gauze 1
+	4
+louse
+	stare
+	loose 21
+	louse 1
+	3
+lemur
+	stare
+	decor 118
+	fever 9
+	lemur 1
+	4
+bride
+	stare
+	grope 49
+	bride 8
+	3
+heron
+	stare
+	decor 118
+	heron 1
+	3
+blast
+	stare
+	boast 4
+	blast 1
+	3
+coyly
+	stare
+	could 227
+	coyly 1
+	3
+folio
+	stare
+	could 227
+	loopy 5
+	folio 1
+	4
+conic
+	stare
+	could 227
+	conic 4
+	3
+depot
+	stare
+	tenet 54
+	debit 4
+	depot 1
+	4
+organ
+	stare
+	carol 64
+	groan 4
+	organ 1
+	4
+allot
+	stare
+	taint 74
+	float 10
+	allot 1
+	4
+cloth
+	stare
+	count 98
+	cloth 1
+	3
+waste
+	stare
+	baste 6
+	haste 5
+	taste 4
+	waste 3
+	5
+gamer
+	stare
+	paler 47
+	wager 11
+	gazer 3
+	gamer 2
+	5
+tidal
+	stare
+	taint 74
+	tibia 2
+	tidal 1
+	4
+baler
+	stare
+	paler 47
+	baler 1
+	3
+elite
+	stare
+	tithe 20
+	quite 3
+	elite 1
+	4
+cliff
+	stare
+	could 227
+	clink 6
+	climb 2
+	cliff 1
+	5
+angel
+	stare
+	laden 51
+	angel 1
+	3
+flask
+	stare
+	clash 14
+	glass 2
+	flask 1
+	4
+offal
+	stare
+	canal 127
+	modal 4
+	offal 1
+	4
+rayon
+	stare
+	carol 64
+	rayon 7
+	3
+heart
+	stare
+	teary 2
+	heart 1
+	3
+serif
+	stare
+	sewer 14
+	serum 2
+	serif 1
+	4
+clear
+	stare
+	paler 47
+	clear 1
+	3
+carol
+	stare
+	carol 64
+	2
+drama
+	stare
+	drawn 30
+	drama 1
+	3
+grass
+	stare
+	crass 6
+	grass 2
+	3
+brain
+	stare
+	drawn 30
+	grain 2
+	brain 1
+	4
+bleep
+	stare
+	olden 116
+	bleep 1
+	3
+whiny
+	stare
+	could 227
+	nymph 14
+	whiny 1
+	4
+print
+	stare
+	throb 42
+	print 6
+	3
+affix
+	stare
+	canal 127
+	vodka 8
+	affix 1
+	4
+blood
+	stare
+	could 227
+	flood 3
+	blood 1
+	4
+copse
+	stare
+	loose 21
+	poise 6
+	copse 1
+	4
+roger
+	stare
+	decor 118
+	mower 18
+	rover 9
+	roger 1
+	5
+pubic
+	stare
+	could 227
+	munch 8
+	pubic 1
+	4
+undid
+	stare
+	could 227
+	humid 2
+	undid 1
+	4
+udder
+	stare
+	decor 118
+	ruder 7
+	under 2
+	udder 1
+	5
+enemy
+	stare
+	olden 116
+	penny 9
+	enemy 1
+	4
+jaunt
+	stare
+	taint 74
+	vaunt 5
+	daunt 4
+	gaunt 3
+	jaunt 2
+	6
+broad
+	stare
+	carol 64
+	groan 4
+	broad 1
+	4
+fruit
+	stare
+	throb 42
+	print 6
+	fruit 1
+	4
+sound
+	stare
+	slink 67
+	swung 3
+	sound 1
+	4
+trawl
+	stare
+	tract 12
+	trail 4
+	trawl 1
+	4
+chili
+	stare
+	could 227
+	chill 2
+	chili 1
+	4
+kappa
+	stare
+	canal 127
+	magma 5
+	kappa 1
+	4
+beget
+	stare
+	tenet 54
+	beget 1
+	3
+visit
+	stare
+	moist 17
+	visit 1
+	3
+still
+	stare
+	stink 22
+	still 3
+	3
+pouch
+	stare
+	could 227
+	pouch 2
+	3
+bicep
+	stare
+	olden 116
+	chief 3
+	bicep 1
+	4
+truss
+	stare
+	torus 13
+	truss 1
+	3
+legal
+	stare
+	laden 51
+	legal 1
+	3
+sedan
+	stare
+	sepia 4
+	sedan 1
+	3
+spurn
+	stare
+	shorn 10
+	spurn 1
+	3
+beach
+	stare
+	leach 10
+	beach 2
+	3
+grunt
+	stare
+	throb 42
+	print 6
+	grunt 1
+	4
+whack
+	stare
+	clank 37
+	quack 3
+	whack 2
+	4
+wrung
+	stare
+	crony 100
+	bring 7
+	wrung 1
+	4
+unmet
+	stare
+	tenet 54
+	inlet 2
+	unmet 1
+	4
+goose
+	stare
+	loose 21
+	noose 3
+	moose 2
+	goose 1
+	5
+sloop
+	stare
+	slink 67
+	slosh 5
+	sloop 1
+	4
+visor
+	stare
+	crisp 12
+	virus 3
+	visor 1
+	4
+synod
+	stare
+	slink 67
+	snoop 7
+	synod 1
+	4
+chard
+	stare
+	hoard 12
+	chard 1
+	3
+shove
+	stare
+	spine 27
+	smoke 4
+	shove 1
+	4
+syrup
+	stare
+	scrub 8
+	syrup 2
+	3
+fanny
+	stare
+	canal 127
+	dandy 7
+	fanny 3
+	4
+recut
+	stare
+	meter 30
+	recut 4
+	3
+blend
+	stare
+	olden 116
+	blend 1
+	3
+brawl
+	stare
+	drawn 30
+	crawl 2
+	brawl 1
+	4
+crate
+	stare
+	crate 5
+	2
+score
+	stare
+	shore 7
+	snore 4
+	score 3
+	4
+tilde
+	stare
+	tithe 20
+	tilde 1
+	3
+tithe
+	stare
+	tithe 20
+	2
+soapy
+	stare
+	scalp 27
+	spawn 4
+	soapy 1
+	4
+stale
+	stare
+	stave 5
+	stage 4
+	state 3
+	stale 2
+	5
+dingo
+	stare
+	could 227
+	idiom 3
+	dingo 1
+	4
+drool
+	stare
+	crony 100
+	droop 13
+	drool 1
+	4
+bingo
+	stare
+	could 227
+	whoop 8
+	bingo 1
+	4
+colon
+	stare
+	could 227
+	colon 1
+	3
+foggy
+	stare
+	could 227
+	bongo 10
+	foggy 1
+	4
+stack
+	stare
+	stank 10
+	stalk 2
+	stack 1
+	4
+freer
+	stare
+	decor 118
+	filer 26
+	freer 1
+	4
+trope
+	stare
+	tripe 13
+	trope 1
+	3
+belie
+	stare
+	guile 87
+	belie 1
+	3
+larva
+	stare
+	carol 64
+	larva 1
+	3
+rebut
+	stare
+	meter 30
+	recut 4
+	rebut 1
+	4
+apnea
+	stare
+	laden 51
+	annex 2
+	apnea 1
+	4
+gland
+	stare
+	clank 37
+	gland 2
+	3
+craze
+	stare
+	grace 14
+	crane 3
+	crave 2
+	craze 1
+	5
+acorn
+	stare
+	cairn 16
+	acorn 1
+	3
+chaos
+	stare
+	clash 14
+	chaos 1
+	3
+beast
+	stare
+	least 4
+	yeast 3
+	beast 2
+	4
+clump
+	stare
+	could 227
+	clung 3
+	cluck 2
+	clump 1
+	5
+hardy
+	stare
+	carol 64
+	parka 4
+	hardy 1
+	4
+usher
+	stare
+	poser 14
+	usher 1
+	3
+upset
+	stare
+	upset 14
+	2
+chute
+	stare
+	tithe 20
+	chute 1
+	3
+nerve
+	stare
+	grope 49
+	eerie 7
+	verve 2
+	nerve 1
+	5
+musty
+	stare
+	moist 17
+	musty 1
+	3
+smart
+	stare
+	smart 1
+	2
+eying
+	stare
+	olden 116
+	penny 9
+	eying 1
+	4
+husky
+	stare
+	missy 38
+	pushy 4
+	husky 1
+	4
+wreak
+	stare
+	paler 47
+	creak 10
+	break 3
+	wreak 2
+	5
+enema
+	stare
+	laden 51
+	enema 2
+	3
+haunt
+	stare
+	taint 74
+	vaunt 5
+	daunt 4
+	gaunt 3
+	jaunt 2
+	haunt 1
+	7
+snarl
+	stare
+	sharp 8
+	scarf 4
+	swarm 2
+	snarl 1
+	5
+heist
+	stare
+	upset 14
+	chest 3
+	heist 1
+	4
+chuck
+	stare
+	could 227
+	chunk 3
+	chuck 1
+	4
+widen
+	stare
+	olden 116
+	widen 1
+	3
+smile
+	stare
+	spine 27
+	slide 5
+	smile 1
+	4
+ensue
+	stare
+	loose 21
+	issue 2
+	ensue 1
+	4
+loser
+	stare
+	poser 14
+	loser 1
+	3
+input
+	stare
+	count 98
+	unfit 3
+	input 1
+	4
+mafia
+	stare
+	canal 127
+	magma 5
+	mafia 1
+	4
+mange
+	stare
+	angle 41
+	mange 1
+	3
+marsh
+	stare
+	marsh 4
+	2
+venom
+	stare
+	olden 116
+	enjoy 4
+	venom 1
+	4
+ninny
+	stare
+	could 227
+	nymph 14
+	ninny 1
+	4
+tweak
+	stare
+	pleat 21
+	tweak 1
+	3
+catch
+	stare
+	taint 74
+	catty 14
+	catch 1
+	4
+dryer
+	stare
+	decor 118
+	diner 4
+	dryer 1
+	4
+pithy
+	stare
+	count 98
+	width 12
+	pithy 1
+	4
+spray
+	stare
+	sonar 7
+	spray 3
+	3
+enter
+	stare
+	meter 30
+	enter 1
+	3
+edict
+	stare
+	tenet 54
+	evict 8
+	edict 1
+	4
+truck
+	stare
+	throb 42
+	trick 5
+	truck 1
+	4
+frail
+	stare
+	drawn 30
+	gravy 8
+	cramp 3
+	frail 1
+	5
+unzip
+	stare
+	could 227
+	fungi 16
+	unzip 1
+	4
+augur
+	stare
+	carol 64
+	briar 5
+	augur 1
+	4
+puffy
+	stare
+	could 227
+	fungi 16
+	puffy 1
+	4
+tenor
+	stare
+	meter 30
+	tenor 1
+	3
+conch
+	stare
+	could 227
+	conic 4
+	conch 1
+	4
+oddly
+	stare
+	could 227
+	oddly 1
+	3
+junta
+	stare
+	taint 74
+	aunty 2
+	junta 1
+	4
+flute
+	stare
+	tithe 20
+	quote 2
+	flute 1
+	4
+vodka
+	stare
+	canal 127
+	avoid 8
+	vodka 1
+	4
+stoic
+	stare
+	stink 22
+	stoic 1
+	3
+satin
+	stare
+	splat 5
+	satin 1
+	3
+event
+	stare
+	tenet 54
+	event 1
+	3
+hurry
+	stare
+	glory 20
+	furry 3
+	curry 2
+	hurry 1
+	5
+crept
+	stare
+	meter 30
+	erect 4
+	crept 1
+	4
+rabbi
+	stare
+	carol 64
+	nadir 9
+	rabbi 1
+	4
+tacit
+	stare
+	taint 74
+	tacit 1
+	3
+krill
+	stare
+	crony 100
+	gruff 6
+	krill 2
+	4
+chess
+	stare
+	bless 9
+	guess 2
+	chess 1
+	4
+split
+	stare
+	south 18
+	swift 3
+	split 1
+	4
+bylaw
+	stare
+	canal 127
+	bylaw 1
+	3
+crash
+	stare
+	crass 6
+	crash 1
+	3
+extra
+	stare
+	terra 4
+	extra 1
+	3
+posse
+	stare
+	loose 21
+	poise 6
+	posse 1
+	4
+scald
+	stare
+	scalp 27
+	scaly 2
+	scald 1
+	4
+juror
+	stare
+	crony 100
+	furor 11
+	juror 1
+	4
+witch
+	stare
+	count 98
+	ditch 5
+	pitch 3
+	hitch 2
+	witch 1
+	6
+plumb
+	stare
+	could 227
+	flunk 7
+	plump 2
+	plumb 1
+	5
+clean
+	stare
+	laden 51
+	glean 2
+	clean 1
+	4
+until
+	stare
+	count 98
+	unity 3
+	until 1
+	4
+thigh
+	stare
+	count 98
+	width 12
+	thigh 1
+	4
+baton
+	stare
+	taint 74
+	baton 2
+	3
+among
+	stare
+	canal 127
+	aging 6
+	among 1
+	4
+hover
+	stare
+	decor 118
+	mower 18
+	rover 9
+	lover 2
+	hover 1
+	6
+girly
+	stare
+	crony 100
+	rugby 5
+	girly 1
+	4
+penal
+	stare
+	laden 51
+	penal 1
+	3
+hyper
+	stare
+	decor 118
+	filer 26
+	upper 6
+	hyper 1
+	5
+nymph
+	stare
+	could 227
+	nymph 14
+	3
+stake
+	stare
+	stave 5
+	stage 4
+	state 3
+	stale 2
+	stake 1
+	6
+abyss
+	stare
+	basin 16
+	abyss 1
+	3
+snowy
+	stare
+	slink 67
+	snoop 7
+	snowy 1
+	4
+sleet
+	stare
+	slept 10
+	sleet 1
+	3
+scene
+	stare
+	spine 27
+	shone 3
+	scene 1
+	4
+snake
+	stare
+	shale 12
+	space 4
+	suave 2
+	snake 1
+	5
+tight
+	stare
+	count 98
+	limit 8
+	fight 3
+	wight 2
+	tight 1
+	6
+water
+	stare
+	later 14
+	cater 4
+	eater 3
+	hater 2
+	water 1
+	6
+equal
+	stare
+	laden 51
+	bleak 5
+	equal 2
+	4
+braid
+	stare
+	drawn 30
+	braid 2
+	3
+glade
+	stare
+	glade 24
+	2
+stilt
+	stare
+	stink 22
+	still 3
+	stilt 1
+	4
+billy
+	stare
+	could 227
+	willy 5
+	hilly 3
+	billy 2
+	5
+chide
+	stare
+	guile 87
+	ovine 8
+	chime 2
+	chide 1
+	5
+tweed
+	stare
+	tenet 54
+	tweed 1
+	3
+crimp
+	stare
+	crony 100
+	crumb 4
+	crimp 1
+	4
+arena
+	stare
+	paler 47
+	creak 10
+	arena 1
+	4
+truer
+	stare
+	meter 30
+	tuber 4
+	truer 1
+	4
+torso
+	stare
+	torus 13
+	torso 1
+	3
+friar
+	stare
+	carol 64
+	briar 5
+	friar 1
+	4
+scale
+	stare
+	shale 12
+	scale 1
+	3
+poppy
+	stare
+	could 227
+	bongo 10
+	poppy 1
+	4
+flint
+	stare
+	count 98
+	glint 2
+	flint 1
+	4
+lathe
+	stare
+	latte 6
+	lathe 1
+	3
+terse
+	stare
+	terse 1
+	2
+thank
+	stare
+	plait 9
+	twang 2
+	thank 1
+	4
+swore
+	stare
+	shore 7
+	snore 4
+	score 3
+	swore 2
+	5
+shout
+	stare
+	south 18
+	shout 1
+	3
+freak
+	stare
+	paler 47
+	creak 10
+	break 3
+	wreak 2
+	freak 1
+	6
+midst
+	stare
+	moist 17
+	midst 1
+	3
+trite
+	stare
+	tripe 13
+	tribe 3
+	trice 2
+	trite 1
+	5
+guide
+	stare
+	guile 87
+	guide 1
+	3
+mouth
+	stare
+	count 98
+	pouty 4
+	mouth 1
+	4
+spoke
+	stare
+	spine 27
+	spoke 1
+	3
+juice
+	stare
+	guile 87
+	juice 1
+	3
+enact
+	stare
+	meant 11
+	enact 1
+	3
+spelt
+	stare
+	slept 10
+	spelt 1
+	3
+liner
+	stare
+	decor 118
+	filer 26
+	liver 2
+	liner 1
+	5
+groom
+	stare
+	crony 100
+	droop 13
+	broom 3
+	groom 1
+	5
+mirth
+	stare
+	throb 42
+	girth 2
+	mirth 1
+	4
+rehab
+	stare
+	paler 47
+	creak 10
+	rehab 1
+	4
+alert
+	stare
+	terra 4
+	avert 2
+	alert 1
+	4
+excel
+	stare
+	olden 116
+	bevel 10
+	expel 3
+	excel 1
+	5
+voice
+	stare
+	guile 87
+	ovine 8
+	voice 1
+	4
+piper
+	stare
+	decor 118
+	filer 26
+	river 6
+	miner 2
+	piper 1
+	6
+write
+	stare
+	tripe 13
+	write 1
+	3
+doubt
+	stare
+	count 98
+	doubt 2
+	3
+clued
+	stare
+	olden 116
+	bleed 3
+	plied 2
+	clued 1
+	5
+sport
+	stare
+	short 6
+	snort 2
+	sport 1
+	4
+class
+	stare
+	clash 14
+	clasp 2
+	class 1
+	4
+comic
+	stare
+	could 227
+	conic 4
+	comic 1
+	4
+rogue
+	stare
+	grope 49
+	rouge 3
+	rogue 1
+	4
+dough
+	stare
+	could 227
+	dough 1
+	3
+store
+	stare
+	store 1
+	2
+satyr
+	stare
+	satyr 1
+	2
+shoot
+	stare
+	south 18
+	shoot 1
+	3
+elbow
+	stare
+	olden 116
+	elbow 1
+	3
+dealt
+	stare
+	meant 11
+	leapt 2
+	dealt 1
+	4
+overt
+	stare
+	retro 7
+	overt 1
+	3
+abhor
+	stare
+	carol 64
+	ardor 4
+	abhor 1
+	4
+aisle
+	stare
+	lapse 9
+	aisle 1
+	3
+ghost
+	stare
+	moist 17
+	ghost 1
+	3
+noble
+	stare
+	guile 87
+	noble 4
+	3
+parka
+	stare
+	carol 64
+	parka 4
+	3
+eager
+	stare
+	paler 47
+	wager 11
+	eager 1
+	4
+dummy
+	stare
+	could 227
+	dumpy 5
+	dummy 1
+	4
+felon
+	stare
+	olden 116
+	lemon 3
+	felon 1
+	4
+queue
+	stare
+	guile 87
+	ounce 3
+	queue 1
+	4
+pound
+	stare
+	could 227
+	mound 6
+	bound 5
+	found 4
+	hound 3
+	pound 2
+	7
+maybe
+	stare
+	angle 41
+	maize 6
+	mauve 2
+	maybe 1
+	5
+elate
+	stare
+	abate 5
+	plate 3
+	elate 1
+	4
+waltz
+	stare
+	taint 74
+	catty 14
+	waltz 1
+	4
+chump
+	stare
+	could 227
+	chunk 3
+	chump 1
+	4
+flirt
+	stare
+	twirl 7
+	flirt 1
+	3
+truth
+	stare
+	throb 42
+	truth 1
+	3
+fatal
+	stare
+	taint 74
+	catty 14
+	datum 2
+	fatal 1
+	5
+abort
+	stare
+	abort 2
+	2
+navel
+	stare
+	laden 51
+	panel 2
+	navel 1
+	4
+treat
+	stare
+	later 14
+	great 3
+	treat 1
+	4
+count
+	stare
+	count 98
+	2
+askew
+	stare
+	ashen 4
+	askew 1
+	3
+piney
+	stare
+	olden 116
+	piney 1
+	3
+anvil
+	stare
+	canal 127
+	anvil 1
+	3
+bleat
+	stare
+	pleat 21
+	cleat 2
+	bleat 1
+	4
+speak
+	stare
+	sepia 4
+	speak 1
+	3
+unfit
+	stare
+	count 98
+	unfit 3
+	3
+vinyl
+	stare
+	could 227
+	fling 10
+	vinyl 1
+	4
+fecal
+	stare
+	laden 51
+	bleak 5
+	equal 2
+	fecal 1
+	5
+study
+	stare
+	stink 22
+	stoop 8
+	study 2
+	4
+paste
+	stare
+	baste 6
+	haste 5
+	taste 4
+	waste 3
+	paste 2
+	6
+queen
+	stare
+	olden 116
+	given 4
+	hymen 2
+	queen 1
+	5
+rhyme
+	stare
+	grope 49
+	eerie 7
+	rhyme 1
+	4
+sugar
+	stare
+	sonar 7
+	sugar 1
+	3
+plead
+	stare
+	laden 51
+	decal 4
+	plead 1
+	4
+scram
+	stare
+	sonar 7
+	spray 3
+	scram 1
+	4
+afoot
+	stare
+	taint 74
+	float 10
+	afoot 1
+	4
+peach
+	stare
+	leach 10
+	beach 2
+	peach 1
+	4
+scrap
+	stare
+	sonar 7
+	spray 3
+	scrap 1
+	4
+gaily
+	stare
+	canal 127
+	daily 9
+	gaily 1
+	4
+modem
+	stare
+	olden 116
+	video 2
+	modem 1
+	4
+aping
+	stare
+	canal 127
+	aging 6
+	aping 1
+	4
+going
+	stare
+	could 227
+	bongo 10
+	going 1
+	4
+frond
+	stare
+	crony 100
+	wrong 3
+	frond 1
+	4
+patch
+	stare
+	taint 74
+	catty 14
+	latch 6
+	batch 5
+	watch 4
+	match 3
+	patch 2
+	8
+sweet
+	stare
+	slept 10
+	sheet 3
+	sweet 1
+	4
+abide
+	stare
+	angle 41
+	adobe 5
+	abide 1
+	4
+lithe
+	stare
+	tithe 20
+	lithe 1
+	3
+lowly
+	stare
+	could 227
+	holly 7
+	lowly 1
+	4
+rivet
+	stare
+	meter 30
+	tried 3
+	rivet 1
+	4
+sigma
+	stare
+	salad 18
+	scuba 2
+	sigma 1
+	4
+moult
+	stare
+	count 98
+	doubt 2
+	moult 1
+	4
+amuse
+	stare
+	lapse 9
+	amuse 2
+	3
+cagey
+	stare
+	laden 51
+	cameo 2
+	cagey 1
+	4
+mango
+	stare
+	canal 127
+	dandy 7
+	banjo 2
+	mango 1
+	5
+sting
+	stare
+	stink 22
+	stint 2
+	sting 1
+	4
+polka
+	stare
+	canal 127
+	aloud 14
+	voila 2
+	polka 1
+	5
+woven
+	stare
+	olden 116
+	woken 4
+	woven 2
+	4
+savoy
+	stare
+	salad 18
+	savvy 5
+	savoy 1
+	4
+crazy
+	stare
+	drawn 30
+	gravy 8
+	crazy 1
+	4
+creed
+	stare
+	decor 118
+	cried 2
+	creed 1
+	4
+rifle
+	stare
+	grope 49
+	eerie 7
+	rifle 1
+	4
+exist
+	stare
+	upset 14
+	chest 3
+	exist 1
+	4
+table
+	stare
+	latte 6
+	table 1
+	3
+youth
+	stare
+	count 98
+	pouty 4
+	youth 1
+	4
+press
+	stare
+	poser 14
+	press 1
+	3
+women
+	stare
+	olden 116
+	woken 4
+	woven 2
+	women 1
+	5
+oaken
+	stare
+	laden 51
+	haven 3
+	oaken 2
+	4
+basic
+	stare
+	basin 16
+	basil 3
+	basis 2
+	basic 1
+	5
+stork
+	stare
+	story 3
+	storm 2
+	stork 1
+	4
+sworn
+	stare
+	shorn 10
+	scorn 2
+	sworn 1
+	4
+focal
+	stare
+	canal 127
+	vocal 3
+	local 2
+	focal 1
+	5
+shrug
+	stare
+	scrub 8
+	syrup 2
+	shrug 1
+	4
+ficus
+	stare
+	missy 38
+	ficus 1
+	3
+stark
+	stare
+	start 2
+	stark 1
+	3
+fault
+	stare
+	taint 74
+	vault 5
+	fault 1
+	4
+stuff
+	stare
+	stink 22
+	stoop 8
+	study 2
+	stuff 1
+	5
+bushy
+	stare
+	missy 38
+	pushy 4
+	bushy 1
+	4
+harem
+	stare
+	paler 47
+	ramen 3
+	harem 1
+	4
+onset
+	stare
+	upset 14
+	beset 2
+	onset 1
+	4
+bonus
+	stare
+	missy 38
+	focus 4
+	bonus 1
+	4
+quoth
+	stare
+	count 98
+	outdo 3
+	quoth 1
+	4
+agora
+	stare
+	cairn 16
+	flora 3
+	agora 1
+	4
+cross
+	stare
+	crisp 12
+	crush 2
+	cross 1
+	4
+ascot
+	stare
+	nasty 10
+	ascot 1
+	3
+lobby
+	stare
+	could 227
+	loopy 5
+	lobby 1
+	4
+scour
+	stare
+	scrub 8
+	scour 1
+	3
+wafer
+	stare
+	paler 47
+	wager 11
+	waver 2
+	wafer 1
+	5
+foray
+	stare
+	carol 64
+	borax 2
+	foray 1
+	4
+joist
+	stare
+	moist 17
+	hoist 3
+	foist 2
+	joist 1
+	5
+theta
+	stare
+	pleat 21
+	theta 1
+	3
+fetal
+	stare
+	pleat 21
+	metal 2
+	fetal 1
+	4
+poise
+	stare
+	loose 21
+	poise 6
+	3
+cheek
+	stare
+	olden 116
+	chief 3
+	cheek 1
+	4
+siren
+	stare
+	sewer 14
+	siren 1
+	3
+viper
+	stare
+	decor 118
+	filer 26
+	river 6
+	viper 1
+	5
+newer
+	stare
+	decor 118
+	fever 9
+	leper 2
+	newer 1
+	5
+honor
+	stare
+	crony 100
+	donor 5
+	honor 1
+	4
+laugh
+	stare
+	canal 127
+	daily 9
+	laugh 1
+	4
+triad
+	stare
+	tarot 13
+	trial 2
+	triad 1
+	4
+frisk
+	stare
+	crisp 12
+	brisk 2
+	frisk 1
+	4
+thorn
+	stare
+	twirl 7
+	thorn 1
+	3
+cynic
+	stare
+	could 227
+	civic 4
+	cynic 1
+	4
+forum
+	stare
+	crony 100
+	rough 11
+	forum 1
+	4
+lanky
+	stare
+	canal 127
+	manly 2
+	lanky 1
+	4
+night
+	stare
+	count 98
+	night 1
+	3
+fritz
+	stare
+	throb 42
+	print 6
+	fritz 1
+	4
+shyly
+	stare
+	slink 67
+	spool 5
+	sully 2
+	shyly 1
+	5
+slice
+	stare
+	spine 27
+	slide 5
+	slime 2
+	slice 1
+	5
+punch
+	stare
+	could 227
+	munch 8
+	hunch 3
+	bunch 2
+	punch 1
+	6
+giant
+	stare
+	plait 9
+	giant 1
+	3
+shown
+	stare
+	slink 67
+	snoop 7
+	shown 1
+	4
+tying
+	stare
+	count 98
+	thing 3
+	tying 1
+	4
+tract
+	stare
+	tract 12
+	2
+faith
+	stare
+	taint 74
+	faith 1
+	3
+boost
+	stare
+	moist 17
+	joust 2
+	boost 1
+	4
+kiosk
+	stare
+	missy 38
+	kiosk 1
+	3
+scalp
+	stare
+	scalp 27
+	2
+greed
+	stare
+	decor 118
+	fried 5
+	breed 2
+	greed 1
+	5
+caste
+	stare
+	baste 6
+	haste 5
+	taste 4
+	waste 3
+	paste 2
+	caste 1
+	7
+unset
+	stare
+	upset 14
+	unset 1
+	3
+vouch
+	stare
+	could 227
+	pouch 2
+	vouch 1
+	4
+carry
+	stare
+	cairn 16
+	carry 1
+	3
+moist
+	stare
+	moist 17
+	2
+stick
+	stare
+	stink 22
+	stick 1
+	3
+showy
+	stare
+	slink 67
+	swoop 7
+	showy 1
+	4
+booty
+	stare
+	count 98
+	tooth 8
+	booty 1
+	4
+skier
+	stare
+	sewer 14
+	surer 4
+	skier 2
+	4
+utile
+	stare
+	etude 2
+	utile 1
+	3
+prize
+	stare
+	grope 49
+	prude 6
+	price 3
+	prize 2
+	5
+venue
+	stare
+	guile 87
+	undue 4
+	venue 1
+	4
+geese
+	stare
+	loose 21
+	dense 3
+	geese 1
+	4
+niece
+	stare
+	guile 87
+	mince 9
+	niece 1
+	4
+bused
+	stare
+	bless 9
+	bused 1
+	3
+recur
+	stare
+	decor 118
+	recur 1
+	3
+hatch
+	stare
+	taint 74
+	catty 14
+	latch 6
+	batch 5
+	watch 4
+	match 3
+	patch 2
+	hatch 1
+	9
+route
+	stare
+	tripe 13
+	forte 2
+	route 1
+	4
+reedy
+	stare
+	decor 118
+	reedy 2
+	3
+opine
+	stare
+	guile 87
+	ovine 8
+	opine 1
+	4
+gully
+	stare
+	could 227
+	bully 4
+	fully 2
+	gully 1
+	5
+hinge
+	stare
+	guile 87
+	hinge 3
+	3
+comfy
+	stare
+	could 227
+	conic 4
+	comfy 1
+	4
+order
+	stare
+	decor 118
+	odder 3
+	older 2
+	order 1
+	5
+lucky
+	stare
+	could 227
+	mulch 4
+	lucky 1
+	4
+vague
+	stare
+	angle 41
+	vague 1
+	3
+dried
+	stare
+	decor 118
+	dried 1
+	3
+razor
+	stare
+	carol 64
+	rayon 7
+	razor 1
+	4
+bench
+	stare
+	olden 116
+	penny 9
+	wench 2
+	bench 1
+	5
+amble
+	stare
+	angle 41
+	apple 3
+	amble 1
+	4
+ovate
+	stare
+	abate 5
+	plate 3
+	ovate 1
+	4
+slyly
+	stare
+	slink 67
+	slosh 5
+	slump 2
+	slyly 1
+	5
+sperm
+	stare
+	sperm 1
+	2
+elder
+	stare
+	decor 118
+	ruder 7
+	wider 2
+	elder 1
+	5
+agony
+	stare
+	canal 127
+	aging 6
+	agony 1
+	4
+wound
+	stare
+	could 227
+	mound 6
+	bound 5
+	found 4
+	hound 3
+	pound 2
+	wound 1
+	8
+donut
+	stare
+	count 98
+	donut 1
+	3
+waist
+	stare
+	nasty 10
+	waist 1
+	3
+globe
+	stare
+	guile 87
+	globe 2
+	3
+greet
+	stare
+	meter 30
+	egret 2
+	greet 1
+	4
+trail
+	stare
+	tract 12
+	trail 4
+	3
+flown
+	stare
+	could 227
+	bloom 8
+	flown 1
+	4
+botch
+	stare
+	count 98
+	toxic 3
+	botch 1
+	4
+flung
+	stare
+	could 227
+	flunk 7
+	flung 1
+	4
+fancy
+	stare
+	canal 127
+	panic 3
+	fancy 1
+	4
+parer
+	stare
+	paler 47
+	payer 3
+	paper 2
+	parer 1
+	5
+style
+	stare
+	stone 5
+	style 1
+	3
+while
+	stare
+	guile 87
+	exile 2
+	while 1
+	4
+cable
+	stare
+	angle 41
+	fable 4
+	cable 1
+	4
+debut
+	stare
+	tenet 54
+	debit 4
+	debut 1
+	4
+pleat
+	stare
+	pleat 21
+	2
+kinky
+	stare
+	could 227
+	nymph 14
+	kinky 1
+	4
+motor
+	stare
+	throb 42
+	rotor 2
+	motor 1
+	4
+black
+	stare
+	clank 37
+	flack 2
+	black 1
+	4
+tunic
+	stare
+	count 98
+	tunic 1
+	3
+adore
+	stare
+	afire 3
+	azure 2
+	adore 1
+	4
+milky
+	stare
+	could 227
+	fling 10
+	milky 1
+	4
+mummy
+	stare
+	could 227
+	fungi 16
+	humph 4
+	mummy 1
+	5
+waxen
+	stare
+	laden 51
+	haven 3
+	oaken 2
+	waxen 1
+	5
+rusty
+	stare
+	torus 13
+	crust 2
+	rusty 1
+	4
+inter
+	stare
+	meter 30
+	outer 3
+	inter 1
+	4
+dizzy
+	stare
+	could 227
+	dingy 6
+	dizzy 1
+	4
+reign
+	stare
+	decor 118
+	repel 10
+	rerun 2
+	reign 1
+	5
+vivid
+	stare
+	could 227
+	vivid 1
+	3
+exert
+	stare
+	retro 7
+	inert 2
+	exert 1
+	4
+brook
+	stare
+	crony 100
+	droop 13
+	broom 3
+	brook 1
+	5
+vogue
+	stare
+	guile 87
+	vogue 1
+	3
+elegy
+	stare
+	olden 116
+	fleck 2
+	elegy 1
+	4
+cling
+	stare
+	could 227
+	clink 6
+	cling 1
+	4
+dance
+	stare
+	angle 41
+	dance 3
+	3
+shook
+	stare
+	slink 67
+	shock 5
+	shook 1
+	4
+crock
+	stare
+	crony 100
+	crook 4
+	crock 1
+	4
+macro
+	stare
+	cairn 16
+	macro 1
+	3
+pudgy
+	stare
+	could 227
+	dumpy 5
+	pudgy 1
+	4
+stiff
+	stare
+	stink 22
+	still 3
+	stiff 1
+	4
+burly
+	stare
+	crony 100
+	rugby 5
+	burly 1
+	4
+libel
+	stare
+	olden 116
+	bevel 10
+	libel 1
+	4
+drill
+	stare
+	crony 100
+	gruff 6
+	krill 2
+	drill 1
+	5
+puppy
+	stare
+	could 227
+	fungi 16
+	humph 4
+	puppy 1
+	5
+relay
+	stare
+	paler 47
+	relax 2
+	relay 1
+	4
+urban
+	stare
+	carol 64
+	briar 5
+	urban 1
+	4
+verse
+	stare
+	rouse 10
+	verse 1
+	3
+clink
+	stare
+	could 227
+	clink 6
+	3
+smock
+	stare
+	slink 67
+	shock 5
+	smock 1
+	4
+steer
+	stare
+	steer 1
+	2
+flyer
+	stare
+	decor 118
+	filer 26
+	flyer 1
+	4
+flash
+	stare
+	clash 14
+	flash 1
+	3
+usurp
+	stare
+	usurp 1
+	2
+aglow
+	stare
+	canal 127
+	aloud 14
+	aglow 1
+	4
+snide
+	stare
+	spine 27
+	snide 1
+	3
+smear
+	stare
+	swear 6
+	spear 3
+	shear 2
+	smear 1
+	5
+trust
+	stare
+	torus 13
+	trust 1
+	3
+aloft
+	stare
+	taint 74
+	float 10
+	aloft 1
+	4
+cumin
+	stare
+	could 227
+	cubic 2
+	cumin 1
+	4
+place
+	stare
+	glade 24
+	blame 6
+	place 3
+	4
+nanny
+	stare
+	canal 127
+	dandy 7
+	fanny 3
+	nanny 1
+	5
+woman
+	stare
+	canal 127
+	human 3
+	woman 1
+	4
+zebra
+	stare
+	opera 2
+	zebra 1
+	3
+began
+	stare
+	laden 51
+	vegan 4
+	began 1
+	4
+bough
+	stare
+	could 227
+	young 2
+	bough 1
+	4
+armor
+	stare
+	carol 64
+	ardor 4
+	armor 2
+	4
+minim
+	stare
+	could 227
+	nymph 14
+	minim 1
+	4
+fraud
+	stare
+	drawn 30
+	braid 2
+	fraud 1
+	4
+froth
+	stare
+	throb 42
+	froth 1
+	3
+gecko
+	stare
+	olden 116
+	epoxy 3
+	gecko 1
+	4
+ranch
+	stare
+	carol 64
+	ranch 1
+	3
+prove
+	stare
+	grope 49
+	probe 3
+	prove 2
+	4
+gusty
+	stare
+	moist 17
+	lusty 3
+	dusty 2
+	gusty 1
+	5
+boule
+	stare
+	guile 87
+	boule 2
+	3
+plane
+	stare
+	glade 24
+	blame 6
+	place 3
+	plane 1
+	5
+later
+	stare
+	later 14
+	2
+awful
+	stare
+	canal 127
+	afoul 2
+	awful 1
+	4
+buddy
+	stare
+	could 227
+	dumpy 5
+	buddy 1
+	4
+glide
+	stare
+	guile 87
+	glide 1
+	3
+slain
+	stare
+	scalp 27
+	slang 5
+	slain 1
+	4
+basal
+	stare
+	basin 16
+	basal 1
+	3
+cover
+	stare
+	decor 118
+	corer 3
+	cower 2
+	cover 1
+	5
+angle
+	stare
+	angle 41
+	2
+godly
+	stare
+	could 227
+	dolly 2
+	godly 1
+	4
+cheer
+	stare
+	decor 118
+	crier 3
+	cyber 2
+	cheer 1
+	5
+sneak
+	stare
+	sepia 4
+	sneak 1
+	3
+wacky
+	stare
+	canal 127
+	macho 4
+	wacky 1
+	4
+grime
+	stare
+	grope 49
+	grime 1
+	3
+needy
+	stare
+	olden 116
+	denim 3
+	needy 1
+	4
+trait
+	stare
+	tract 12
+	trait 1
+	3
+deign
+	stare
+	olden 116
+	deign 1
+	3
+savor
+	stare
+	sonar 7
+	savor 1
+	3
+salvo
+	stare
+	salad 18
+	salvo 3
+	3
+ember
+	stare
+	decor 118
+	filer 26
+	upper 6
+	ember 1
+	5
+seedy
+	stare
+	spiel 21
+	seedy 1
+	3
+blurb
+	stare
+	glory 20
+	blurb 1
+	3
+gawky
+	stare
+	canal 127
+	bawdy 13
+	gawky 1
+	4
+ombre
+	stare
+	where 5
+	fibre 2
+	ombre 1
+	4
+risky
+	stare
+	brisk 12
+	risky 1
+	3
+llama
+	stare
+	clank 37
+	plaza 4
+	llama 1
+	4
+medal
+	stare
+	laden 51
+	pedal 2
+	medal 1
+	4
+bugle
+	stare
+	guile 87
+	bugle 1
+	3
+flame
+	stare
+	glade 24
+	blame 6
+	flame 1
+	4
+taboo
+	stare
+	taint 74
+	tacky 5
+	taboo 1
+	4
+harry
+	stare
+	cairn 16
+	parry 3
+	marry 2
+	harry 1
+	5
+those
+	stare
+	tense 3
+	those 1
+	3
+avian
+	stare
+	canal 127
+	avian 1
+	3
+binge
+	stare
+	guile 87
+	hinge 3
+	binge 1
+	4
+model
+	stare
+	olden 116
+	model 1
+	3
+teeth
+	stare
+	tenet 54
+	teeth 1
+	3
+prong
+	stare
+	crony 100
+	wrong 3
+	prong 1
+	4
+power
+	stare
+	decor 118
+	mower 18
+	rower 3
+	lower 2
+	power 1
+	6
+shalt
+	stare
+	slant 5
+	shalt 1
+	3
+aback
+	stare
+	clank 37
+	quack 3
+	whack 2
+	aback 1
+	5
+spiny
+	stare
+	slink 67
+	swing 4
+	shiny 2
+	spiny 1
+	5
+clamp
+	stare
+	clank 37
+	claim 2
+	clamp 1
+	4
+swell
+	stare
+	spiel 21
+	smell 3
+	swell 2
+	4
+adage
+	stare
+	glade 24
+	adage 1
+	3
+ninth
+	stare
+	count 98
+	minty 2
+	ninth 1
+	4
+skulk
+	stare
+	slink 67
+	skulk 1
+	3
+money
+	stare
+	olden 116
+	honey 3
+	boney 2
+	money 1
+	5
+mambo
+	stare
+	canal 127
+	bawdy 13
+	mambo 1
+	4
+array
+	stare
+	carol 64
+	array 1
+	3
+prime
+	stare
+	grope 49
+	prude 6
+	price 3
+	prize 2
+	prime 1
+	6
+guest
+	stare
+	upset 14
+	quest 2
+	guest 1
+	4
+tonic
+	stare
+	count 98
+	notch 2
+	tonic 1
+	4
+mogul
+	stare
+	could 227
+	mogul 1
+	3
+berth
+	stare
+	meter 30
+	recut 4
+	berth 1
+	4
+daisy
+	stare
+	basin 16
+	daisy 1
+	3
+first
+	stare
+	torus 13
+	first 1
+	3
+covey
+	stare
+	olden 116
+	gooey 2
+	covey 1
+	4
+pried
+	stare
+	decor 118
+	fried 5
+	pried 1
+	4
+shrew
+	stare
+	sewer 14
+	screw 2
+	shrew 1
+	4
+cheap
+	stare
+	laden 51
+	mecca 4
+	cheap 1
+	4
+debar
+	stare
+	paler 47
+	rebar 3
+	debar 1
+	4
+learn
+	stare
+	yearn 7
+	learn 1
+	3
+arbor
+	stare
+	carol 64
+	ardor 4
+	armor 2
+	arbor 1
+	5
+bland
+	stare
+	clank 37
+	gland 2
+	bland 1
+	4
+wrote
+	stare
+	tripe 13
+	brute 2
+	wrote 1
+	4
+mourn
+	stare
+	glory 20
+	micro 2
+	mourn 1
+	4
+crowd
+	stare
+	crony 100
+	crook 4
+	croup 2
+	crowd 1
+	5
+cello
+	stare
+	olden 116
+	hello 3
+	cello 1
+	4
+ratty
+	stare
+	tarot 13
+	ratty 1
+	3
+swept
+	stare
+	slept 10
+	swept 1
+	3
+ahead
+	stare
+	laden 51
+	decay 2
+	ahead 1
+	4
+abase
+	stare
+	chase 6
+	lease 2
+	abase 1
+	4
+shelf
+	stare
+	spiel 21
+	shelf 1
+	3
+craft
+	stare
+	tract 12
+	craft 1
+	3
+ester
+	stare
+	wrest 4
+	ester 1
+	3
+twine
+	stare
+	tithe 20
+	twice 2
+	twine 1
+	4
+gnome
+	stare
+	guile 87
+	gnome 1
+	3
+child
+	stare
+	could 227
+	child 1
+	3
+ingot
+	stare
+	count 98
+	ingot 1
+	3
+trunk
+	stare
+	throb 42
+	trick 5
+	trunk 1
+	4
+bayou
+	stare
+	canal 127
+	bawdy 13
+	bayou 1
+	4
+gayer
+	stare
+	paler 47
+	wager 11
+	gazer 3
+	gamer 2
+	gayer 1
+	6
+check
+	stare
+	olden 116
+	beech 6
+	check 1
+	4
+buxom
+	stare
+	could 227
+	jumbo 5
+	buxom 1
+	4
+brown
+	stare
+	crony 100
+	grown 5
+	brown 3
+	4
+renew
+	stare
+	decor 118
+	repel 10
+	renew 1
+	4
+gamma
+	stare
+	canal 127
+	magma 5
+	gamma 1
+	4
+glove
+	stare
+	guile 87
+	globe 2
+	glove 1
+	4
+roost
+	stare
+	torus 13
+	roost 1
+	3
+coven
+	stare
+	olden 116
+	woken 4
+	coven 1
+	4
+brass
+	stare
+	crass 6
+	grass 2
+	brass 1
+	4
+credo
+	stare
+	decor 118
+	credo 1
+	3
+nerdy
+	stare
+	decor 118
+	reedy 2
+	nerdy 1
+	4
+icily
+	stare
+	could 227
+	icily 1
+	3
+sewer
+	stare
+	sewer 14
+	2
+occur
+	stare
+	crony 100
+	porch 2
+	occur 1
+	4
+aloof
+	stare
+	canal 127
+	aloud 14
+	aloof 1
+	4
+halve
+	stare
+	angle 41
+	value 3
+	halve 1
+	4
+unlit
+	stare
+	count 98
+	unfit 3
+	unlit 1
+	4
+bathe
+	stare
+	latte 6
+	bathe 1
+	3
+pearl
+	stare
+	yearn 7
+	heard 4
+	rearm 2
+	pearl 1
+	5
+bliss
+	stare
+	missy 38
+	bliss 1
+	3
+grout
+	stare
+	throb 42
+	front 3
+	droit 2
+	grout 1
+	5
+canon
+	stare
+	canal 127
+	candy 3
+	canon 1
+	4
+batty
+	stare
+	taint 74
+	patty 5
+	fatty 4
+	catty 3
+	batty 2
+	6
+flick
+	stare
+	could 227
+	lynch 2
+	flick 1
+	4
+algae
+	stare
+	angle 41
+	algae 1
+	3
+rabid
+	stare
+	carol 64
+	nadir 9
+	rapid 2
+	rabid 1
+	5
+audio
+	stare
+	canal 127
+	avoid 8
+	audio 1
+	4
+inbox
+	stare
+	could 227
+	whoop 8
+	inbox 1
+	4
+shoal
+	stare
+	salad 18
+	shoal 1
+	3
+wooly
+	stare
+	could 227
+	holly 7
+	nobly 2
+	wooly 1
+	5
+bosom
+	stare
+	missy 38
+	bosom 1
+	3
+strut
+	stare
+	strut 2
+	2
+baron
+	stare
+	carol 64
+	baron 1
+	3
+sauna
+	stare
+	salad 18
+	sauna 1
+	3
+prawn
+	stare
+	drawn 30
+	brawn 2
+	prawn 1
+	4
+taken
+	stare
+	pleat 21
+	eaten 3
+	taken 1
+	4
+sally
+	stare
+	salad 18
+	salvo 3
+	sally 1
+	4
+three
+	stare
+	trice 13
+	three 1
+	3
+chaff
+	stare
+	clank 37
+	champ 3
+	chaff 1
+	4
+judge
+	stare
+	guile 87
+	budge 5
+	nudge 3
+	fudge 2
+	judge 1
+	6
+abuse
+	stare
+	lapse 9
+	amuse 2
+	abuse 1
+	4
+limit
+	stare
+	count 98
+	limit 8
+	3
+motel
+	stare
+	tenet 54
+	hotel 2
+	motel 1
+	4
+coupe
+	stare
+	guile 87
+	undue 4
+	coupe 1
+	4
+inlay
+	stare
+	canal 127
+	inlay 1
+	3
+swish
+	stare
+	slink 67
+	swish 2
+	3
+thick
+	stare
+	count 98
+	ditch 5
+	thick 1
+	4
+whole
+	stare
+	guile 87
+	noble 4
+	whole 1
+	4
+taffy
+	stare
+	taint 74
+	tacky 5
+	tally 3
+	taffy 2
+	5
+fetid
+	stare
+	tenet 54
+	depth 9
+	fetid 1
+	4
+field
+	stare
+	olden 116
+	yield 5
+	wield 2
+	field 1
+	5
+snuck
+	stare
+	slink 67
+	snuck 1
+	3
+lodge
+	stare
+	guile 87
+	ledge 2
+	lodge 1
+	4
+ionic
+	stare
+	could 227
+	pooch 2
+	ionic 1
+	4
+other
+	stare
+	otter 4
+	other 1
+	3
+irate
+	stare
+	crate 5
+	irate 2
+	3
+uncle
+	stare
+	guile 87
+	boule 2
+	uncle 1
+	4
+snaky
+	stare
+	scalp 27
+	shaky 7
+	snaky 1
+	4
+patsy
+	stare
+	nasty 10
+	patsy 1
+	3
+natal
+	stare
+	taint 74
+	baton 2
+	natal 1
+	4
+prone
+	stare
+	grope 49
+	probe 3
+	prove 2
+	prone 1
+	5
+sloth
+	stare
+	south 18
+	sloth 1
+	3
+folly
+	stare
+	could 227
+	holly 7
+	jolly 3
+	golly 2
+	folly 1
+	6
+tatty
+	stare
+	taint 74
+	tatty 1
+	3
+tepid
+	stare
+	tenet 54
+	teddy 3
+	tepid 1
+	4
+timid
+	stare
+	count 98
+	width 12
+	timid 1
+	4
+there
+	stare
+	there 1
+	2
+rally
+	stare
+	carol 64
+	rally 2
+	3
+hedge
+	stare
+	guile 87
+	wedge 3
+	hedge 1
+	4
+skunk
+	stare
+	slink 67
+	spunk 2
+	skunk 1
+	4
+crest
+	stare
+	wrest 4
+	crest 1
+	3
+anode
+	stare
+	angle 41
+	anime 2
+	anode 1
+	4
+pupil
+	stare
+	could 227
+	bulky 4
+	pupil 1
+	4
+speck
+	stare
+	spiel 21
+	spend 2
+	speck 1
+	4
+bribe
+	stare
+	grope 49
+	crude 8
+	bribe 2
+	4
+petal
+	stare
+	pleat 21
+	petal 1
+	3
+march
+	stare
+	carol 64
+	march 1
+	3
+radii
+	stare
+	carol 64
+	nadir 9
+	radii 1
+	4
+trend
+	stare
+	meter 30
+	erect 4
+	trend 1
+	4
+freed
+	stare
+	decor 118
+	fried 5
+	freed 1
+	4
+after
+	stare
+	later 14
+	after 1
+	3
+acute
+	stare
+	latte 6
+	acute 1
+	3
+stare
+	stare
+	-1
+pesky
+	stare
+	bless 9
+	nosey 2
+	pesky 1
+	4
+mossy
+	stare
+	missy 38
+	mossy 1
+	3
+wooer
+	stare
+	decor 118
+	mower 18
+	wooer 1
+	4
+avail
+	stare
+	clank 37
+	qualm 4
+	avail 1
+	4
+creme
+	stare
+	grope 49
+	crude 8
+	crime 2
+	creme 1
+	5
+heady
+	stare
+	leach 10
+	heavy 2
+	heady 1
+	4
+strip
+	stare
+	strut 2
+	strip 1
+	3
+noisy
+	stare
+	missy 38
+	noisy 1
+	3
+steed
+	stare
+	steep 4
+	steel 2
+	steed 1
+	4
+timer
+	stare
+	meter 30
+	timer 1
+	3
+offer
+	stare
+	decor 118
+	mower 18
+	offer 1
+	4
+handy
+	stare
+	canal 127
+	dandy 7
+	handy 1
+	4
+crown
+	stare
+	crony 100
+	crown 1
+	3
+frost
+	stare
+	torus 13
+	frost 1
+	3
+skull
+	stare
+	slink 67
+	sulky 2
+	skull 1
+	4
+dress
+	stare
+	poser 14
+	cress 4
+	dress 1
+	4
+hyena
+	stare
+	laden 51
+	enema 2
+	hyena 1
+	4
+bible
+	stare
+	guile 87
+	bible 1
+	3
+leggy
+	stare
+	olden 116
+	belch 9
+	leggy 1
+	4
+jetty
+	stare
+	tenet 54
+	petty 2
+	jetty 1
+	4
+sixty
+	stare
+	south 18
+	sixty 1
+	3
+canoe
+	stare
+	angle 41
+	dance 3
+	canoe 1
+	4
+naive
+	stare
+	angle 41
+	dance 3
+	naive 1
+	4
+gipsy
+	stare
+	missy 38
+	gipsy 1
+	3
+sooth
+	stare
+	south 18
+	sooth 1
+	3
+purse
+	stare
+	rouse 10
+	curse 3
+	nurse 2
+	purse 1
+	5
+berry
+	stare
+	ferry 10
+	merry 2
+	berry 1
+	4
+tabby
+	stare
+	taint 74
+	tacky 5
+	tally 3
+	taffy 2
+	tabby 1
+	6
+imply
+	stare
+	could 227
+	hilly 5
+	imply 1
+	4
+slate
+	stare
+	skate 2
+	slate 1
+	3
+taker
+	stare
+	later 14
+	tamer 3
+	taper 2
+	taker 1
+	5
+adept
+	stare
+	pleat 21
+	adept 1
+	3
+quota
+	stare
+	taint 74
+	octal 3
+	quota 1
+	4
+harpy
+	stare
+	carol 64
+	parka 4
+	harpy 1
+	4
+drive
+	stare
+	grope 49
+	crude 8
+	drive 1
+	4
+whose
+	stare
+	loose 21
+	chose 2
+	whose 1
+	4
+asset
+	stare
+	asset 1
+	2
+payee
+	stare
+	angle 41
+	maize 6
+	cache 2
+	payee 1
+	5
+feast
+	stare
+	least 4
+	yeast 3
+	beast 2
+	feast 1
+	5
+beefy
+	stare
+	olden 116
+	beech 6
+	beefy 1
+	4
+these
+	stare
+	tense 3
+	these 1
+	3
+beard
+	stare
+	yearn 7
+	heard 4
+	beard 1
+	4
+trace
+	stare
+	crate 5
+	trace 1
+	3
+gruff
+	stare
+	crony 100
+	gruff 6
+	3
+cedar
+	stare
+	paler 47
+	rebar 3
+	cedar 1
+	4
+doing
+	stare
+	could 227
+	downy 8
+	doing 1
+	4
+frame
+	stare
+	grace 14
+	drake 5
+	brave 2
+	frame 1
+	5
+envoy
+	stare
+	olden 116
+	enjoy 4
+	envoy 1
+	4
+booby
+	stare
+	could 227
+	bongo 10
+	boozy 2
+	booby 1
+	5
+ultra
+	stare
+	abort 2
+	ultra 1
+	3
+groin
+	stare
+	crony 100
+	grown 5
+	groin 1
+	4
+hippo
+	stare
+	could 227
+	whoop 8
+	hippo 1
+	4
+towel
+	stare
+	tenet 54
+	thief 2
+	towel 1
+	4
+blare
+	stare
+	flare 4
+	glare 2
+	blare 1
+	4
+salon
+	stare
+	salad 18
+	salvo 3
+	salon 1
+	4
+ralph
+	stare
+	carol 64
+	rally 2
+	ralph 1
+	4
+spicy
+	stare
+	slink 67
+	swish 2
+	spicy 1
+	4
+media
+	stare
+	laden 51
+	media 1
+	3
+cavil
+	stare
+	canal 127
+	cavil 1
+	3
+point
+	stare
+	count 98
+	joint 2
+	point 1
+	4
+covet
+	stare
+	tenet 54
+	duvet 5
+	covet 1
+	4
+equip
+	stare
+	olden 116
+	beech 6
+	equip 1
+	4
+filly
+	stare
+	could 227
+	hilly 5
+	willy 3
+	billy 2
+	filly 1
+	6
+grate
+	stare
+	crate 5
+	irate 2
+	grate 1
+	4
+shell
+	stare
+	spiel 21
+	smell 3
+	swell 2
+	shell 1
+	5
+sappy
+	stare
+	salad 18
+	savvy 5
+	saucy 3
+	sassy 2
+	sappy 1
+	6
+large
+	stare
+	barge 7
+	large 1
+	3
+smoky
+	stare
+	slink 67
+	smoky 1
+	3
+drown
+	stare
+	crony 100
+	grown 5
+	brown 3
+	drown 2
+	5
+trump
+	stare
+	throb 42
+	trick 5
+	truly 2
+	trump 1
+	5
+spilt
+	stare
+	south 18
+	swift 3
+	spilt 1
+	4
+tutor
+	stare
+	throb 42
+	tumor 3
+	tutor 1
+	4
+siege
+	stare
+	spine 27
+	sieve 2
+	siege 1
+	4
+frown
+	stare
+	crony 100
+	grown 5
+	brown 3
+	drown 2
+	frown 1
+	6
+layer
+	stare
+	paler 47
+	lager 2
+	layer 1
+	4
+lymph
+	stare
+	could 227
+	fling 10
+	lymph 1
+	4
+camel
+	stare
+	laden 51
+	gavel 4
+	hazel 2
+	camel 1
+	5
+muddy
+	stare
+	could 227
+	dumpy 5
+	muddy 1
+	4
+fluff
+	stare
+	could 227
+	flunk 7
+	fluff 1
+	4
+shirt
+	stare
+	short 6
+	shirt 1
+	3
+spore
+	stare
+	shore 7
+	snore 4
+	score 3
+	swore 2
+	spore 1
+	6
+brine
+	stare
+	grope 49
+	crude 8
+	bribe 2
+	brine 1
+	5
+annul
+	stare
+	canal 127
+	annul 1
+	3
+finch
+	stare
+	could 227
+	pinch 7
+	winch 2
+	finch 1
+	5
+fuzzy
+	stare
+	could 227
+	fungi 16
+	fuzzy 1
+	4
+loyal
+	stare
+	canal 127
+	modal 4
+	loyal 1
+	4
+vixen
+	stare
+	olden 116
+	given 4
+	vixen 1
+	4
+sober
+	stare
+	sewer 14
+	surer 4
+	skier 2
+	sober 1
+	5
+beret
+	stare
+	meter 30
+	beret 1
+	3

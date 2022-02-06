@@ -1,0 +1,12956 @@
+trice
+	snare
+	trope 54
+	trice 4
+	3
+tubal
+	snare
+	aptly 136
+	tubal 6
+	3
+quilt
+	snare
+	could 219
+	guilt 7
+	quilt 2
+	4
+ample
+	snare
+	amble 37
+	ample 1
+	3
+artsy
+	snare
+	harsh 4
+	artsy 1
+	3
+toddy
+	snare
+	could 219
+	dowdy 7
+	toddy 1
+	4
+satin
+	snare
+	satin 5
+	2
+mauve
+	snare
+	amble 37
+	mauve 2
+	3
+fanny
+	snare
+	tangy 62
+	canny 9
+	fanny 2
+	4
+adage
+	snare
+	elate 26
+	adage 7
+	3
+epoxy
+	snare
+	betel 110
+	epoxy 5
+	3
+comfy
+	snare
+	could 219
+	comfy 2
+	3
+dwelt
+	snare
+	betel 110
+	elect 4
+	dwelt 1
+	4
+light
+	snare
+	could 219
+	light 10
+	3
+dummy
+	snare
+	could 219
+	dumpy 5
+	dummy 1
+	4
+holly
+	snare
+	could 219
+	holly 7
+	3
+champ
+	snare
+	claim 29
+	champ 1
+	3
+gayly
+	snare
+	aptly 136
+	daily 6
+	gayly 1
+	4
+chess
+	snare
+	upset 21
+	chess 4
+	3
+rouge
+	snare
+	trope 54
+	forge 6
+	rouge 1
+	4
+coyly
+	snare
+	could 219
+	coyly 1
+	3
+shake
+	snare
+	slate 18
+	spade 8
+	shake 4
+	4
+shock
+	snare
+	spilt 74
+	shock 9
+	3
+tacit
+	snare
+	aptly 136
+	tacit 8
+	3
+their
+	snare
+	order 128
+	femur 3
+	their 1
+	4
+shift
+	snare
+	spilt 74
+	shift 2
+	3
+fence
+	snare
+	niece 24
+	fence 3
+	3
+undid
+	snare
+	unlit 16
+	undid 2
+	3
+idler
+	snare
+	order 128
+	deter 4
+	idler 1
+	4
+mocha
+	snare
+	aptly 136
+	mamma 17
+	mocha 1
+	4
+fresh
+	snare
+	reset 16
+	cress 4
+	fresh 1
+	4
+guide
+	snare
+	guile 79
+	guide 1
+	3
+later
+	snare
+	later 56
+	2
+sharp
+	snare
+	stark 10
+	sharp 5
+	3
+suave
+	snare
+	slate 18
+	spade 8
+	shake 4
+	suave 1
+	5
+creme
+	snare
+	trope 54
+	bride 7
+	creme 1
+	4
+latte
+	snare
+	amble 37
+	halve 5
+	latte 1
+	4
+nurse
+	snare
+	nurse 2
+	2
+liner
+	snare
+	diner 19
+	liner 3
+	3
+frock
+	snare
+	grout 106
+	droop 14
+	frock 3
+	4
+barge
+	snare
+	barge 6
+	2
+relic
+	snare
+	order 128
+	remit 14
+	relic 1
+	4
+spied
+	snare
+	spelt 27
+	spied 1
+	3
+allow
+	snare
+	aptly 136
+	aloud 9
+	allow 1
+	4
+augur
+	snare
+	carol 65
+	friar 5
+	augur 1
+	4
+vapid
+	snare
+	aptly 136
+	vapid 3
+	3
+geeky
+	snare
+	betel 110
+	geeky 2
+	3
+masse
+	snare
+	lapse 15
+	masse 2
+	3
+pasty
+	snare
+	palsy 20
+	pasty 1
+	3
+warty
+	snare
+	carol 65
+	party 7
+	warty 1
+	4
+bosom
+	snare
+	hoist 50
+	focus 3
+	bosom 1
+	4
+snare
+	snare
+	-1
+madly
+	snare
+	aptly 136
+	daily 6
+	madly 2
+	4
+thing
+	snare
+	count 91
+	thing 3
+	3
+toast
+	snare
+	chaos 17
+	toast 2
+	3
+freed
+	snare
+	order 128
+	freed 9
+	3
+range
+	snare
+	range 1
+	2
+credo
+	snare
+	order 128
+	credo 1
+	3
+slyly
+	snare
+	spilt 74
+	sully 6
+	slyly 1
+	4
+intro
+	snare
+	intro 1
+	2
+blimp
+	snare
+	could 219
+	light 10
+	blimp 1
+	4
+youth
+	snare
+	could 219
+	youth 5
+	3
+faint
+	snare
+	tangy 62
+	haunt 8
+	faint 2
+	4
+event
+	snare
+	widen 47
+	event 6
+	3
+idiom
+	snare
+	could 219
+	idiom 4
+	3
+agile
+	snare
+	amble 37
+	agile 2
+	3
+ruler
+	snare
+	order 128
+	river 5
+	ruler 2
+	4
+threw
+	snare
+	order 128
+	revel 7
+	threw 1
+	4
+quest
+	snare
+	upset 21
+	quest 2
+	3
+large
+	snare
+	barge 6
+	large 1
+	3
+extra
+	snare
+	alert 6
+	extra 2
+	3
+incur
+	snare
+	incur 1
+	2
+ditch
+	snare
+	could 219
+	ditch 1
+	3
+lemon
+	snare
+	widen 47
+	lemon 4
+	3
+guess
+	snare
+	upset 21
+	guess 1
+	3
+grimy
+	snare
+	grout 106
+	grimy 2
+	3
+foyer
+	snare
+	order 128
+	mower 16
+	cover 8
+	joker 4
+	foyer 2
+	6
+harpy
+	snare
+	carol 65
+	party 7
+	harpy 1
+	4
+stove
+	snare
+	spite 24
+	stove 4
+	3
+drape
+	snare
+	grace 18
+	drake 7
+	drape 1
+	4
+bring
+	snare
+	grind 35
+	bring 2
+	3
+power
+	snare
+	order 128
+	mower 16
+	power 4
+	4
+cleat
+	snare
+	decal 48
+	cleat 2
+	3
+local
+	snare
+	aptly 136
+	local 12
+	3
+imply
+	snare
+	could 219
+	willy 5
+	imply 1
+	4
+prong
+	snare
+	grind 35
+	prong 3
+	3
+amend
+	snare
+	glean 20
+	amend 2
+	3
+foray
+	snare
+	carol 65
+	foray 3
+	3
+merge
+	snare
+	trope 54
+	merge 10
+	3
+hussy
+	snare
+	hoist 50
+	hussy 1
+	3
+sixty
+	snare
+	spilt 74
+	sixty 3
+	3
+feign
+	snare
+	widen 47
+	feign 3
+	3
+oaken
+	snare
+	glean 20
+	taken 5
+	oaken 1
+	4
+shore
+	snare
+	shore 7
+	2
+claim
+	snare
+	claim 29
+	2
+graze
+	snare
+	grace 18
+	graze 5
+	3
+cruel
+	snare
+	order 128
+	creep 7
+	cruel 1
+	4
+miser
+	snare
+	reset 16
+	miser 4
+	3
+sheen
+	snare
+	stein 8
+	sheen 1
+	3
+phase
+	snare
+	cease 7
+	phase 2
+	3
+conch
+	snare
+	count 91
+	conch 4
+	3
+islet
+	snare
+	upset 21
+	islet 1
+	3
+leapt
+	snare
+	death 18
+	leapt 1
+	3
+patsy
+	snare
+	palsy 20
+	patsy 1
+	3
+enact
+	snare
+	enact 1
+	2
+disco
+	snare
+	hoist 50
+	disco 1
+	3
+salad
+	snare
+	salsa 18
+	salad 1
+	3
+usual
+	snare
+	palsy 20
+	usual 1
+	3
+basic
+	snare
+	palsy 20
+	basic 2
+	3
+ombre
+	snare
+	ombre 5
+	2
+goody
+	snare
+	could 219
+	dowdy 7
+	goody 2
+	4
+match
+	snare
+	aptly 136
+	match 6
+	3
+unite
+	snare
+	unite 6
+	2
+grime
+	snare
+	trope 54
+	bride 7
+	grime 2
+	4
+broil
+	snare
+	grout 106
+	droop 14
+	frock 3
+	broil 1
+	5
+salve
+	snare
+	saute 3
+	salve 1
+	3
+naive
+	snare
+	lance 7
+	naive 1
+	3
+shorn
+	snare
+	shorn 4
+	2
+trick
+	snare
+	grout 106
+	trick 2
+	3
+noise
+	snare
+	noise 4
+	2
+piety
+	snare
+	betel 110
+	edict 8
+	piety 1
+	4
+swarm
+	snare
+	stark 10
+	sharp 5
+	scarf 3
+	swarm 1
+	5
+plush
+	snare
+	hoist 50
+	plush 3
+	3
+tatty
+	snare
+	aptly 136
+	tatty 4
+	3
+brave
+	snare
+	grace 18
+	drake 7
+	brave 3
+	4
+stick
+	snare
+	spilt 74
+	stick 3
+	3
+femur
+	snare
+	order 128
+	femur 3
+	3
+smack
+	snare
+	shalt 29
+	swamp 6
+	smack 1
+	4
+alone
+	snare
+	lance 7
+	alone 1
+	3
+sight
+	snare
+	spilt 74
+	sight 1
+	3
+blitz
+	snare
+	could 219
+	light 10
+	blitz 1
+	4
+child
+	snare
+	could 219
+	child 1
+	3
+panic
+	snare
+	tangy 62
+	canal 7
+	panic 2
+	4
+lodge
+	snare
+	guile 79
+	lodge 2
+	3
+early
+	snare
+	later 56
+	early 1
+	3
+night
+	snare
+	count 91
+	night 1
+	3
+enema
+	snare
+	enema 4
+	2
+fixer
+	snare
+	order 128
+	leper 29
+	tiger 9
+	fixer 2
+	5
+noisy
+	snare
+	noisy 5
+	2
+union
+	snare
+	unlit 16
+	union 2
+	3
+blade
+	snare
+	elate 26
+	blade 8
+	3
+burst
+	snare
+	truss 25
+	burst 1
+	3
+spool
+	snare
+	spilt 74
+	spool 1
+	3
+plier
+	snare
+	order 128
+	leper 29
+	plier 1
+	4
+whiny
+	snare
+	count 91
+	dying 8
+	whiny 1
+	4
+gummy
+	snare
+	could 219
+	guppy 10
+	gummy 1
+	4
+stale
+	snare
+	slate 18
+	stale 1
+	3
+clued
+	snare
+	betel 110
+	clued 3
+	3
+bylaw
+	snare
+	aptly 136
+	bylaw 2
+	3
+fiery
+	snare
+	ferry 15
+	fiery 1
+	3
+wrack
+	snare
+	craft 28
+	wrack 1
+	3
+stoke
+	snare
+	spite 24
+	stove 4
+	stoke 2
+	4
+carat
+	snare
+	carol 65
+	carat 1
+	3
+dowdy
+	snare
+	could 219
+	dowdy 7
+	3
+owing
+	snare
+	count 91
+	phony 3
+	owing 1
+	4
+caste
+	snare
+	lapse 15
+	caste 5
+	3
+icily
+	snare
+	could 219
+	icily 1
+	3
+dross
+	snare
+	truss 25
+	dross 3
+	3
+lofty
+	snare
+	could 219
+	folio 5
+	lofty 1
+	4
+super
+	snare
+	sewer 13
+	super 4
+	3
+filth
+	snare
+	could 219
+	light 10
+	filth 1
+	4
+taken
+	snare
+	glean 20
+	taken 5
+	3
+sappy
+	snare
+	salsa 18
+	savoy 4
+	saucy 2
+	sappy 1
+	5
+titan
+	snare
+	tangy 62
+	titan 1
+	3
+brine
+	snare
+	prone 8
+	brine 2
+	3
+knead
+	snare
+	enema 4
+	knead 1
+	3
+donor
+	snare
+	grind 35
+	donor 1
+	3
+nomad
+	snare
+	tangy 62
+	nomad 7
+	3
+grand
+	snare
+	grand 14
+	2
+alive
+	snare
+	amble 37
+	alive 3
+	3
+nudge
+	snare
+	niece 24
+	nudge 2
+	3
+pouty
+	snare
+	could 219
+	youth 5
+	pouty 1
+	4
+colon
+	snare
+	count 91
+	conch 4
+	colon 1
+	4
+unity
+	snare
+	unlit 16
+	unity 1
+	3
+annul
+	snare
+	annul 5
+	2
+bagel
+	snare
+	decal 48
+	bagel 5
+	3
+regal
+	snare
+	later 56
+	relay 4
+	regal 1
+	4
+yacht
+	snare
+	aptly 136
+	yacht 1
+	3
+carve
+	snare
+	barge 6
+	carve 2
+	3
+circa
+	snare
+	carol 65
+	circa 1
+	3
+turbo
+	snare
+	grout 106
+	tumor 3
+	turbo 1
+	4
+smirk
+	snare
+	stork 14
+	smirk 2
+	3
+gooey
+	snare
+	betel 110
+	dicey 7
+	gooey 1
+	4
+retch
+	snare
+	order 128
+	remit 14
+	retch 1
+	4
+blurb
+	snare
+	glory 23
+	blurb 3
+	3
+mucus
+	snare
+	hoist 50
+	mucus 4
+	3
+avian
+	snare
+	tangy 62
+	nomad 7
+	avian 1
+	4
+slosh
+	snare
+	spilt 74
+	slosh 4
+	3
+ardor
+	snare
+	carol 65
+	ardor 4
+	3
+gaunt
+	snare
+	tangy 62
+	gaunt 1
+	3
+chore
+	snare
+	ombre 5
+	chore 1
+	3
+scout
+	snare
+	spilt 74
+	scout 4
+	3
+orbit
+	snare
+	grout 106
+	orbit 1
+	3
+cheap
+	snare
+	decal 48
+	cheap 2
+	3
+goofy
+	snare
+	could 219
+	boozy 14
+	goofy 1
+	4
+unmet
+	snare
+	kneed 14
+	unmet 2
+	3
+broad
+	snare
+	carol 65
+	broad 2
+	3
+detox
+	snare
+	betel 110
+	fetid 5
+	detox 1
+	4
+prone
+	snare
+	prone 8
+	2
+taper
+	snare
+	later 56
+	taper 3
+	3
+timid
+	snare
+	could 219
+	timid 2
+	3
+steak
+	snare
+	steak 7
+	2
+after
+	snare
+	later 56
+	after 1
+	3
+scone
+	snare
+	scone 10
+	2
+trust
+	snare
+	truss 25
+	trust 1
+	3
+canon
+	snare
+	tangy 62
+	canal 7
+	canon 1
+	4
+drier
+	snare
+	order 128
+	drier 2
+	3
+petal
+	snare
+	decal 48
+	petal 4
+	3
+clasp
+	snare
+	chaos 17
+	clasp 1
+	3
+folly
+	snare
+	could 219
+	holly 7
+	folly 3
+	4
+horse
+	snare
+	rouse 9
+	horse 2
+	3
+floor
+	snare
+	grout 106
+	floor 3
+	3
+evoke
+	snare
+	guile 79
+	theme 8
+	evoke 1
+	4
+guard
+	snare
+	hoard 16
+	guard 2
+	3
+poser
+	snare
+	reset 16
+	miser 4
+	poser 2
+	4
+flyer
+	snare
+	order 128
+	leper 29
+	flyer 5
+	4
+price
+	snare
+	trope 54
+	price 5
+	3
+squib
+	snare
+	spilt 74
+	squib 3
+	3
+cause
+	snare
+	lapse 15
+	masse 2
+	cause 1
+	4
+etude
+	snare
+	guile 79
+	etude 4
+	3
+tease
+	snare
+	cease 7
+	tease 2
+	3
+trunk
+	snare
+	grind 35
+	trunk 4
+	3
+begat
+	snare
+	decal 48
+	begat 2
+	3
+coven
+	snare
+	widen 47
+	coven 6
+	3
+brunt
+	snare
+	grind 35
+	trunk 4
+	brunt 1
+	4
+buddy
+	snare
+	could 219
+	dumpy 5
+	buddy 1
+	4
+reset
+	snare
+	reset 16
+	2
+testy
+	snare
+	upset 21
+	testy 2
+	3
+brood
+	snare
+	grout 106
+	droop 14
+	brood 1
+	4
+leant
+	snare
+	leant 2
+	2
+baler
+	snare
+	later 56
+	baler 2
+	3
+brief
+	snare
+	order 128
+	creep 7
+	brief 3
+	4
+ounce
+	snare
+	niece 24
+	ounce 2
+	3
+syrup
+	snare
+	shrub 10
+	syrup 3
+	3
+juror
+	snare
+	grout 106
+	juror 5
+	3
+skiff
+	snare
+	spilt 74
+	skiff 2
+	3
+spark
+	snare
+	stark 10
+	spark 2
+	3
+mange
+	snare
+	lance 7
+	mange 1
+	3
+hardy
+	snare
+	carol 65
+	party 7
+	hardy 1
+	4
+brick
+	snare
+	grout 106
+	prick 10
+	brick 2
+	4
+mouth
+	snare
+	could 219
+	youth 5
+	mouth 1
+	4
+banal
+	snare
+	tangy 62
+	canal 7
+	banal 1
+	4
+basis
+	snare
+	palsy 20
+	basic 2
+	basis 1
+	4
+swear
+	snare
+	swear 5
+	2
+birch
+	snare
+	grout 106
+	birch 2
+	3
+psalm
+	snare
+	chaos 17
+	blast 4
+	psalm 1
+	4
+diner
+	snare
+	diner 19
+	2
+cheek
+	snare
+	betel 110
+	cheek 1
+	3
+brand
+	snare
+	grand 14
+	brand 1
+	3
+lynch
+	snare
+	count 91
+	winch 4
+	lynch 1
+	4
+bulge
+	snare
+	guile 79
+	bulge 1
+	3
+clump
+	snare
+	could 219
+	clump 2
+	3
+timer
+	snare
+	order 128
+	leper 29
+	tiger 9
+	timer 1
+	5
+cumin
+	snare
+	count 91
+	cumin 1
+	3
+whelp
+	snare
+	betel 110
+	yield 6
+	whelp 1
+	4
+outgo
+	snare
+	could 219
+	outgo 7
+	3
+guest
+	snare
+	upset 21
+	quest 2
+	guest 1
+	4
+wring
+	snare
+	grind 35
+	bring 2
+	wring 1
+	4
+rigor
+	snare
+	grout 106
+	rigor 3
+	3
+pixie
+	snare
+	guile 79
+	movie 6
+	pixie 1
+	4
+spurn
+	snare
+	shorn 4
+	spurn 1
+	3
+organ
+	snare
+	rayon 12
+	organ 2
+	3
+agate
+	snare
+	elate 26
+	agate 3
+	3
+adopt
+	snare
+	aptly 136
+	adopt 1
+	3
+spilt
+	snare
+	spilt 74
+	2
+nylon
+	snare
+	count 91
+	blown 6
+	nylon 1
+	4
+opera
+	snare
+	alert 6
+	opera 1
+	3
+flour
+	snare
+	grout 106
+	flour 1
+	3
+smith
+	snare
+	spilt 74
+	stick 3
+	smith 1
+	4
+rumor
+	snare
+	grout 106
+	juror 5
+	rumor 1
+	4
+slump
+	snare
+	spilt 74
+	slump 2
+	3
+lance
+	snare
+	lance 7
+	2
+viola
+	snare
+	aptly 136
+	viola 4
+	3
+nutty
+	snare
+	count 91
+	nutty 1
+	3
+angle
+	snare
+	angle 4
+	2
+paper
+	snare
+	later 56
+	wager 15
+	parer 8
+	paper 2
+	5
+horde
+	snare
+	trope 54
+	forge 6
+	horde 1
+	4
+maize
+	snare
+	amble 37
+	mauve 2
+	maize 1
+	4
+wrath
+	snare
+	craft 28
+	trawl 4
+	wrath 1
+	4
+chafe
+	snare
+	elate 26
+	adage 7
+	chafe 2
+	4
+blast
+	snare
+	chaos 17
+	blast 4
+	3
+deuce
+	snare
+	guile 79
+	etude 4
+	deuce 1
+	4
+plume
+	snare
+	guile 79
+	flume 5
+	plume 1
+	4
+march
+	snare
+	carol 65
+	march 1
+	3
+usage
+	snare
+	cease 7
+	usage 1
+	3
+latch
+	snare
+	aptly 136
+	latch 5
+	3
+chair
+	snare
+	craft 28
+	chair 1
+	3
+query
+	snare
+	ferry 15
+	query 2
+	3
+wheat
+	snare
+	decal 48
+	wheat 2
+	3
+scarf
+	snare
+	stark 10
+	sharp 5
+	scarf 3
+	4
+scrum
+	snare
+	shrub 10
+	syrup 3
+	scrum 2
+	4
+ought
+	snare
+	could 219
+	outgo 7
+	ought 1
+	4
+drain
+	snare
+	grand 14
+	drain 2
+	3
+joker
+	snare
+	order 128
+	mower 16
+	lover 8
+	joker 4
+	5
+gorge
+	snare
+	trope 54
+	forge 6
+	gorge 1
+	4
+grade
+	snare
+	grace 18
+	graze 5
+	grade 4
+	4
+rivet
+	snare
+	order 128
+	revel 7
+	rivet 1
+	4
+umbra
+	snare
+	macro 14
+	umbra 1
+	3
+canny
+	snare
+	tangy 62
+	canny 9
+	3
+gross
+	snare
+	truss 25
+	dross 3
+	gross 2
+	4
+stead
+	snare
+	steak 7
+	stead 3
+	3
+ingot
+	snare
+	unlit 16
+	ingot 1
+	3
+cheer
+	snare
+	order 128
+	leper 29
+	cheer 4
+	4
+dowry
+	snare
+	glory 23
+	dowry 2
+	3
+joist
+	snare
+	hoist 50
+	joist 3
+	3
+tangy
+	snare
+	tangy 62
+	2
+fizzy
+	snare
+	could 219
+	fight 19
+	fizzy 1
+	4
+valve
+	snare
+	amble 37
+	halve 5
+	valve 1
+	4
+tempo
+	snare
+	betel 110
+	depth 7
+	tempo 1
+	4
+ensue
+	snare
+	ensue 1
+	2
+whisk
+	snare
+	hoist 50
+	whisk 1
+	3
+alloy
+	snare
+	aptly 136
+	alloy 2
+	3
+impel
+	snare
+	betel 110
+	dowel 6
+	impel 2
+	4
+raven
+	snare
+	raven 4
+	2
+knife
+	snare
+	unite 6
+	knife 1
+	3
+relay
+	snare
+	later 56
+	relay 4
+	3
+saute
+	snare
+	saute 3
+	2
+curly
+	snare
+	grout 106
+	curly 7
+	3
+dirge
+	snare
+	trope 54
+	merge 10
+	dirge 1
+	4
+gamer
+	snare
+	later 56
+	wager 15
+	gamer 3
+	4
+smoky
+	snare
+	spilt 74
+	shock 9
+	smoky 1
+	4
+irony
+	snare
+	grind 35
+	irony 1
+	3
+piggy
+	snare
+	could 219
+	fight 19
+	piggy 1
+	4
+tally
+	snare
+	aptly 136
+	tally 1
+	3
+crane
+	snare
+	crane 1
+	2
+boost
+	snare
+	hoist 50
+	boost 2
+	3
+debar
+	snare
+	later 56
+	debar 3
+	3
+tenor
+	snare
+	diner 19
+	tenor 1
+	3
+cynic
+	snare
+	count 91
+	cynic 2
+	3
+tipsy
+	snare
+	hoist 50
+	tipsy 1
+	3
+mummy
+	snare
+	could 219
+	guppy 10
+	mummy 2
+	4
+leery
+	snare
+	ferry 15
+	leery 2
+	3
+trash
+	snare
+	brash 8
+	trash 2
+	3
+kappa
+	snare
+	aptly 136
+	vapid 3
+	kappa 1
+	4
+stray
+	snare
+	strap 10
+	stray 2
+	3
+crock
+	snare
+	grout 106
+	droop 14
+	frock 3
+	crock 1
+	5
+train
+	snare
+	grand 14
+	brain 4
+	train 1
+	4
+steel
+	snare
+	spelt 27
+	steel 1
+	3
+logic
+	snare
+	could 219
+	logic 1
+	3
+speak
+	snare
+	steak 7
+	speak 1
+	3
+sniff
+	snare
+	snuff 6
+	sniff 1
+	3
+angry
+	snare
+	angry 1
+	2
+paler
+	snare
+	later 56
+	baler 2
+	paler 1
+	4
+navel
+	snare
+	glean 20
+	navel 2
+	3
+freak
+	snare
+	later 56
+	break 11
+	freak 3
+	4
+envoy
+	snare
+	kneed 14
+	envoy 3
+	3
+cinch
+	snare
+	count 91
+	cynic 2
+	cinch 1
+	4
+sound
+	snare
+	sting 27
+	slunk 5
+	sound 1
+	4
+saint
+	snare
+	satin 5
+	saint 1
+	3
+croak
+	snare
+	carol 65
+	croak 1
+	3
+banjo
+	snare
+	tangy 62
+	canal 7
+	banjo 1
+	4
+dense
+	snare
+	noise 4
+	dense 2
+	3
+medal
+	snare
+	decal 48
+	medal 2
+	3
+skate
+	snare
+	slate 18
+	skate 2
+	3
+spawn
+	snare
+	slant 10
+	spawn 1
+	3
+purge
+	snare
+	trope 54
+	purge 3
+	3
+parka
+	snare
+	carol 65
+	party 7
+	parka 1
+	4
+coral
+	snare
+	carol 65
+	coral 1
+	3
+notch
+	snare
+	count 91
+	notch 2
+	3
+actor
+	snare
+	carol 65
+	actor 1
+	3
+perky
+	snare
+	order 128
+	remit 14
+	perky 3
+	4
+glare
+	snare
+	glare 4
+	2
+poker
+	snare
+	order 128
+	mower 16
+	lover 8
+	joker 4
+	poker 1
+	6
+verve
+	snare
+	trope 54
+	merge 10
+	verve 2
+	4
+amity
+	snare
+	aptly 136
+	amity 1
+	3
+under
+	snare
+	inter 5
+	under 1
+	3
+bonus
+	snare
+	noisy 5
+	bonus 1
+	3
+scant
+	snare
+	slant 10
+	scant 1
+	3
+clown
+	snare
+	count 91
+	clown 1
+	3
+scene
+	snare
+	scone 10
+	scene 1
+	3
+needy
+	snare
+	widen 47
+	needy 2
+	3
+riser
+	snare
+	reset 16
+	riser 1
+	3
+acorn
+	snare
+	acorn 3
+	2
+nasty
+	snare
+	nasty 5
+	2
+risky
+	snare
+	truss 25
+	risky 2
+	3
+caper
+	snare
+	later 56
+	wager 15
+	parer 8
+	caper 1
+	5
+rifle
+	snare
+	trope 54
+	merge 10
+	rifle 1
+	4
+thumb
+	snare
+	could 219
+	thumb 2
+	3
+theme
+	snare
+	guile 79
+	theme 8
+	3
+hedge
+	snare
+	guile 79
+	hedge 3
+	3
+pesto
+	snare
+	upset 21
+	pesto 1
+	3
+bilge
+	snare
+	guile 79
+	bilge 2
+	3
+laugh
+	snare
+	aptly 136
+	local 12
+	laugh 1
+	4
+aging
+	snare
+	tangy 62
+	aging 4
+	3
+vodka
+	snare
+	aptly 136
+	mamma 17
+	vodka 2
+	4
+tidal
+	snare
+	aptly 136
+	tubal 6
+	tidal 1
+	4
+elect
+	snare
+	betel 110
+	elect 1
+	3
+faith
+	snare
+	aptly 136
+	tacit 8
+	faith 1
+	4
+furor
+	snare
+	grout 106
+	juror 5
+	furor 1
+	4
+cable
+	snare
+	amble 37
+	cable 3
+	3
+lucid
+	snare
+	could 219
+	lucid 1
+	3
+cyber
+	snare
+	order 128
+	leper 29
+	tiger 9
+	cyber 2
+	5
+roger
+	snare
+	order 128
+	roger 4
+	3
+dimly
+	snare
+	could 219
+	dimly 3
+	3
+fetal
+	snare
+	decal 48
+	petal 4
+	fetal 2
+	4
+frame
+	snare
+	grace 18
+	drake 7
+	brave 3
+	frame 2
+	5
+kebab
+	snare
+	decal 48
+	begat 2
+	kebab 1
+	4
+share
+	snare
+	share 4
+	2
+mower
+	snare
+	order 128
+	mower 16
+	3
+gravy
+	snare
+	craft 28
+	grail 8
+	gravy 2
+	4
+strap
+	snare
+	strap 10
+	2
+pilot
+	snare
+	could 219
+	igloo 5
+	pilot 1
+	4
+input
+	snare
+	unlit 16
+	input 1
+	3
+waxen
+	snare
+	glean 20
+	taken 5
+	waxen 2
+	4
+sieve
+	snare
+	spite 24
+	sieve 2
+	3
+manor
+	snare
+	rayon 12
+	manor 1
+	3
+sloop
+	snare
+	spilt 74
+	slump 2
+	sloop 1
+	4
+chute
+	snare
+	guile 79
+	chute 4
+	3
+crony
+	snare
+	grind 35
+	trunk 4
+	crony 1
+	4
+civic
+	snare
+	could 219
+	civic 2
+	3
+think
+	snare
+	count 91
+	thing 3
+	think 1
+	4
+vista
+	snare
+	palsy 20
+	vista 2
+	3
+along
+	snare
+	tangy 62
+	aging 4
+	along 2
+	4
+topaz
+	snare
+	aptly 136
+	topaz 2
+	3
+lover
+	snare
+	order 128
+	mower 16
+	lover 8
+	4
+chain
+	snare
+	clank 16
+	chain 1
+	3
+sumac
+	snare
+	salsa 18
+	squad 3
+	sumac 1
+	4
+treat
+	snare
+	later 56
+	treat 3
+	3
+weave
+	snare
+	elate 26
+	weave 3
+	3
+stage
+	snare
+	slate 18
+	stage 3
+	3
+oddly
+	snare
+	could 219
+	oddly 1
+	3
+joust
+	snare
+	hoist 50
+	boost 2
+	joust 1
+	4
+octal
+	snare
+	aptly 136
+	latch 5
+	octal 1
+	4
+dogma
+	snare
+	aptly 136
+	mamma 17
+	dogma 1
+	4
+trout
+	snare
+	grout 106
+	trout 1
+	3
+party
+	snare
+	carol 65
+	party 7
+	3
+weedy
+	snare
+	betel 110
+	geeky 2
+	weedy 1
+	4
+mamma
+	snare
+	aptly 136
+	mamma 17
+	3
+harsh
+	snare
+	harsh 4
+	2
+soggy
+	snare
+	spilt 74
+	shock 9
+	soggy 1
+	4
+meant
+	snare
+	leant 2
+	meant 1
+	3
+ankle
+	snare
+	angle 4
+	ankle 1
+	3
+slung
+	snare
+	sting 27
+	slung 2
+	3
+affix
+	snare
+	aptly 136
+	avoid 4
+	affix 1
+	4
+forge
+	snare
+	trope 54
+	forge 6
+	3
+score
+	snare
+	shore 7
+	score 4
+	3
+legal
+	snare
+	decal 48
+	petal 4
+	legal 1
+	4
+proud
+	snare
+	grout 106
+	proud 2
+	3
+payee
+	snare
+	amble 37
+	vague 8
+	payee 2
+	4
+tarot
+	snare
+	carol 65
+	tarot 1
+	3
+cater
+	snare
+	later 56
+	cater 4
+	3
+biddy
+	snare
+	could 219
+	digit 6
+	biddy 1
+	4
+every
+	snare
+	ferry 15
+	query 2
+	every 1
+	4
+diver
+	snare
+	order 128
+	deter 4
+	diver 1
+	4
+stony
+	snare
+	sting 27
+	stunk 3
+	stony 1
+	4
+meaty
+	snare
+	death 18
+	meaty 1
+	3
+rayon
+	snare
+	rayon 12
+	2
+bleep
+	snare
+	betel 110
+	bleep 2
+	3
+flack
+	snare
+	claim 29
+	flack 2
+	3
+twice
+	snare
+	guile 79
+	twice 6
+	3
+group
+	snare
+	grout 106
+	group 1
+	3
+noose
+	snare
+	noise 4
+	noose 1
+	3
+flail
+	snare
+	claim 29
+	plait 3
+	flail 1
+	4
+axion
+	snare
+	tangy 62
+	nomad 7
+	axion 1
+	4
+flake
+	snare
+	elate 26
+	blade 8
+	flake 4
+	4
+chief
+	snare
+	betel 110
+	dicey 7
+	chief 1
+	4
+ester
+	snare
+	reset 16
+	ester 1
+	3
+crest
+	snare
+	reset 16
+	crest 2
+	3
+grant
+	snare
+	grand 14
+	grant 1
+	3
+login
+	snare
+	count 91
+	login 3
+	3
+scoff
+	snare
+	spilt 74
+	shock 9
+	scoff 1
+	4
+cabin
+	snare
+	tangy 62
+	cabin 4
+	3
+tough
+	snare
+	could 219
+	youth 5
+	tough 1
+	4
+ovary
+	snare
+	hoard 16
+	ovary 1
+	3
+twist
+	snare
+	hoist 50
+	twist 1
+	3
+enemy
+	snare
+	kneed 14
+	enemy 1
+	3
+spout
+	snare
+	spilt 74
+	spout 1
+	3
+below
+	snare
+	betel 110
+	below 3
+	3
+bingo
+	snare
+	count 91
+	blown 6
+	bingo 1
+	4
+hairy
+	snare
+	macro 14
+	hairy 5
+	3
+piper
+	snare
+	order 128
+	leper 29
+	piper 4
+	4
+fungi
+	snare
+	count 91
+	fungi 3
+	3
+elide
+	snare
+	guile 79
+	elide 3
+	3
+tense
+	snare
+	noise 4
+	dense 2
+	tense 1
+	4
+giant
+	snare
+	clank 16
+	giant 3
+	3
+wooly
+	snare
+	could 219
+	holly 7
+	wooly 1
+	4
+gloat
+	snare
+	aptly 136
+	tubal 6
+	gloat 2
+	4
+baker
+	snare
+	later 56
+	wager 15
+	parer 8
+	baker 2
+	5
+inlay
+	snare
+	annul 5
+	inlay 1
+	3
+swung
+	snare
+	sting 27
+	slung 2
+	swung 1
+	4
+cress
+	snare
+	reset 16
+	cress 4
+	3
+tamer
+	snare
+	later 56
+	taper 3
+	tamer 2
+	4
+phony
+	snare
+	count 91
+	blond 3
+	phony 1
+	4
+apart
+	snare
+	hoard 16
+	apart 5
+	3
+plied
+	snare
+	betel 110
+	clued 3
+	plied 1
+	4
+grail
+	snare
+	craft 28
+	grail 8
+	3
+fraud
+	snare
+	craft 28
+	fraud 2
+	3
+tramp
+	snare
+	craft 28
+	trawl 4
+	tramp 1
+	4
+marsh
+	snare
+	harsh 4
+	marsh 1
+	3
+punch
+	snare
+	count 91
+	punch 5
+	3
+mammy
+	snare
+	aptly 136
+	bawdy 10
+	mammy 2
+	4
+demur
+	snare
+	order 128
+	demur 1
+	3
+reach
+	snare
+	reach 4
+	2
+stole
+	snare
+	spite 24
+	stove 4
+	stoke 2
+	stole 1
+	5
+puppy
+	snare
+	could 219
+	guppy 10
+	puppy 1
+	4
+brash
+	snare
+	brash 8
+	2
+dough
+	snare
+	could 219
+	dough 2
+	3
+break
+	snare
+	later 56
+	break 11
+	3
+tiger
+	snare
+	order 128
+	leper 29
+	tiger 9
+	4
+embed
+	snare
+	betel 110
+	embed 1
+	3
+ditto
+	snare
+	could 219
+	idiom 4
+	ditto 1
+	4
+dully
+	snare
+	could 219
+	dully 1
+	3
+taboo
+	snare
+	aptly 136
+	tacit 8
+	taboo 1
+	4
+trawl
+	snare
+	craft 28
+	trawl 4
+	3
+bland
+	snare
+	clank 16
+	bland 3
+	3
+drool
+	snare
+	grout 106
+	droop 14
+	drool 1
+	4
+bench
+	snare
+	widen 47
+	event 6
+	bench 1
+	4
+frown
+	snare
+	grind 35
+	frown 3
+	3
+waltz
+	snare
+	aptly 136
+	tubal 6
+	waltz 1
+	4
+jewel
+	snare
+	betel 110
+	jewel 2
+	3
+putty
+	snare
+	could 219
+	guppy 10
+	putty 2
+	4
+erupt
+	snare
+	order 128
+	erupt 4
+	3
+dowel
+	snare
+	betel 110
+	dowel 6
+	3
+level
+	snare
+	betel 110
+	jewel 2
+	level 1
+	4
+coast
+	snare
+	chaos 17
+	coast 1
+	3
+jelly
+	snare
+	betel 110
+	cello 6
+	jelly 1
+	4
+pansy
+	snare
+	nasty 5
+	pansy 1
+	3
+amiss
+	snare
+	palsy 20
+	amiss 1
+	3
+skimp
+	snare
+	spilt 74
+	skimp 1
+	3
+snail
+	snare
+	snaky 3
+	snail 1
+	3
+vicar
+	snare
+	carol 65
+	vicar 1
+	3
+glory
+	snare
+	glory 23
+	2
+loose
+	snare
+	loose 19
+	2
+elbow
+	snare
+	betel 110
+	elbow 1
+	3
+remit
+	snare
+	order 128
+	remit 14
+	3
+smart
+	snare
+	stark 10
+	smart 1
+	3
+lathe
+	snare
+	amble 37
+	halve 5
+	lathe 1
+	4
+avail
+	snare
+	claim 29
+	avail 2
+	3
+brute
+	snare
+	trope 54
+	brute 2
+	3
+plaza
+	snare
+	claim 29
+	plaza 2
+	3
+small
+	snare
+	shalt 29
+	scaly 4
+	small 1
+	4
+boney
+	snare
+	widen 47
+	boney 5
+	3
+taunt
+	snare
+	tangy 62
+	taunt 3
+	3
+fully
+	snare
+	could 219
+	guilt 7
+	fully 2
+	4
+moral
+	snare
+	carol 65
+	moral 1
+	3
+myrrh
+	snare
+	glory 23
+	myrrh 1
+	3
+radii
+	snare
+	carol 65
+	rapid 8
+	radii 1
+	4
+raise
+	snare
+	raise 4
+	2
+mucky
+	snare
+	could 219
+	quick 6
+	mucky 1
+	4
+chide
+	snare
+	guile 79
+	twice 6
+	chide 2
+	4
+dread
+	snare
+	later 56
+	break 11
+	dread 3
+	4
+winch
+	snare
+	count 91
+	winch 4
+	3
+slant
+	snare
+	slant 10
+	2
+bathe
+	snare
+	amble 37
+	bathe 2
+	3
+anvil
+	snare
+	annul 5
+	anvil 1
+	3
+enter
+	snare
+	inter 5
+	enter 1
+	3
+crone
+	snare
+	prone 8
+	crone 2
+	3
+space
+	snare
+	slate 18
+	spade 8
+	space 1
+	4
+diode
+	snare
+	guile 79
+	movie 6
+	diode 1
+	4
+scale
+	snare
+	slate 18
+	scale 2
+	3
+ethos
+	snare
+	upset 21
+	ethos 1
+	3
+drift
+	snare
+	grout 106
+	drift 2
+	3
+start
+	snare
+	stark 10
+	start 1
+	3
+porch
+	snare
+	grout 106
+	world 7
+	porch 2
+	4
+seize
+	snare
+	spite 24
+	slime 5
+	seize 1
+	4
+willy
+	snare
+	could 219
+	willy 5
+	3
+adult
+	snare
+	aptly 136
+	adult 2
+	3
+fiber
+	snare
+	order 128
+	leper 29
+	tiger 9
+	fixer 2
+	fiber 1
+	6
+pixel
+	snare
+	betel 110
+	dowel 6
+	impel 2
+	pixel 1
+	5
+brass
+	snare
+	brash 8
+	brass 1
+	3
+binge
+	snare
+	niece 24
+	binge 2
+	3
+mania
+	snare
+	tangy 62
+	canal 7
+	mania 1
+	4
+neigh
+	snare
+	widen 47
+	eying 4
+	neigh 1
+	4
+pecan
+	snare
+	glean 20
+	pecan 1
+	3
+crank
+	snare
+	grand 14
+	crank 3
+	3
+shied
+	snare
+	spelt 27
+	shied 1
+	3
+water
+	snare
+	later 56
+	cater 4
+	water 3
+	4
+lunge
+	snare
+	niece 24
+	ozone 3
+	lunge 1
+	4
+lease
+	snare
+	cease 7
+	tease 2
+	lease 1
+	4
+bused
+	snare
+	upset 21
+	bused 1
+	3
+minor
+	snare
+	grind 35
+	minor 2
+	3
+favor
+	snare
+	carol 65
+	favor 5
+	3
+fibre
+	snare
+	ombre 5
+	fibre 1
+	3
+steep
+	snare
+	spelt 27
+	steep 1
+	3
+dryly
+	snare
+	grout 106
+	prick 10
+	dryly 2
+	4
+swoon
+	snare
+	sting 27
+	swoon 4
+	3
+bravo
+	snare
+	craft 28
+	grail 8
+	bravo 2
+	4
+tonic
+	snare
+	count 91
+	notch 2
+	tonic 1
+	4
+lumen
+	snare
+	widen 47
+	coven 6
+	lumen 3
+	4
+anime
+	snare
+	angle 4
+	anime 2
+	3
+siren
+	snare
+	siren 1
+	2
+cycle
+	snare
+	guile 79
+	cycle 3
+	3
+friar
+	snare
+	carol 65
+	friar 5
+	3
+burnt
+	snare
+	grind 35
+	horny 3
+	burnt 1
+	4
+since
+	snare
+	scone 10
+	since 1
+	3
+tawny
+	snare
+	tangy 62
+	tawny 1
+	3
+junto
+	snare
+	count 91
+	junto 1
+	3
+gnome
+	snare
+	unite 6
+	gnome 1
+	3
+frank
+	snare
+	grand 14
+	crank 3
+	frank 2
+	4
+eject
+	snare
+	betel 110
+	eject 2
+	3
+gamma
+	snare
+	aptly 136
+	mamma 17
+	gamma 1
+	4
+midst
+	snare
+	hoist 50
+	midst 1
+	3
+spiny
+	snare
+	sting 27
+	spiny 3
+	3
+howdy
+	snare
+	could 219
+	dowdy 7
+	howdy 1
+	4
+apple
+	snare
+	amble 37
+	agile 2
+	apple 1
+	4
+snoop
+	snare
+	snuff 6
+	snoop 2
+	3
+sunny
+	snare
+	sting 27
+	slunk 5
+	sunny 1
+	4
+amble
+	snare
+	amble 37
+	2
+pitch
+	snare
+	could 219
+	pitch 8
+	3
+jumpy
+	snare
+	could 219
+	guppy 10
+	jumpy 1
+	4
+goner
+	snare
+	diner 19
+	goner 2
+	3
+thrum
+	snare
+	grout 106
+	thrum 1
+	3
+dolly
+	snare
+	could 219
+	dolly 2
+	3
+fifty
+	snare
+	could 219
+	fight 19
+	fifty 1
+	4
+musty
+	snare
+	hoist 50
+	musty 4
+	3
+leech
+	snare
+	betel 110
+	leech 1
+	3
+asset
+	snare
+	asset 4
+	2
+duchy
+	snare
+	could 219
+	duchy 2
+	3
+stain
+	snare
+	slant 10
+	stain 1
+	3
+reuse
+	snare
+	rouse 9
+	reuse 1
+	3
+vapor
+	snare
+	carol 65
+	favor 5
+	vapor 1
+	4
+iliac
+	snare
+	aptly 136
+	local 12
+	iliac 1
+	4
+breed
+	snare
+	order 128
+	freed 9
+	breed 3
+	4
+krill
+	snare
+	grout 106
+	prick 10
+	krill 1
+	4
+sedan
+	snare
+	sedan 1
+	2
+roach
+	snare
+	craft 28
+	roach 1
+	3
+heady
+	snare
+	death 18
+	heady 1
+	3
+woody
+	snare
+	could 219
+	dowdy 7
+	woody 1
+	4
+rainy
+	snare
+	rayon 12
+	rainy 2
+	3
+gaffe
+	snare
+	amble 37
+	vague 8
+	gaffe 1
+	4
+tacky
+	snare
+	aptly 136
+	tacky 4
+	3
+elope
+	snare
+	guile 79
+	delve 5
+	elope 1
+	4
+quash
+	snare
+	chaos 17
+	quash 3
+	3
+flush
+	snare
+	hoist 50
+	plush 3
+	flush 2
+	4
+macro
+	snare
+	macro 14
+	2
+tread
+	snare
+	later 56
+	treat 3
+	tread 1
+	4
+agape
+	snare
+	elate 26
+	adage 7
+	agape 1
+	4
+never
+	snare
+	diner 19
+	never 2
+	3
+crept
+	snare
+	order 128
+	erupt 4
+	crept 1
+	4
+dwell
+	snare
+	betel 110
+	dwell 2
+	3
+skirt
+	snare
+	stork 14
+	skirt 1
+	3
+rhino
+	snare
+	grind 35
+	rhino 1
+	3
+stern
+	snare
+	stern 1
+	2
+again
+	snare
+	clank 16
+	again 1
+	3
+sissy
+	snare
+	spilt 74
+	squib 3
+	sissy 1
+	4
+gouge
+	snare
+	guile 79
+	gouge 1
+	3
+randy
+	snare
+	rayon 12
+	rainy 2
+	randy 1
+	4
+lasso
+	snare
+	palsy 20
+	lasso 1
+	3
+moist
+	snare
+	hoist 50
+	joist 3
+	moist 2
+	4
+fjord
+	snare
+	glory 23
+	fjord 2
+	3
+spade
+	snare
+	slate 18
+	spade 8
+	3
+tried
+	snare
+	order 128
+	freed 9
+	tried 4
+	4
+arbor
+	snare
+	carol 65
+	ardor 4
+	arbor 2
+	4
+patch
+	snare
+	aptly 136
+	patch 2
+	3
+beard
+	snare
+	teary 7
+	beard 4
+	3
+filet
+	snare
+	betel 110
+	filet 1
+	3
+curve
+	snare
+	trope 54
+	merge 10
+	curve 1
+	4
+broom
+	snare
+	grout 106
+	droop 14
+	broom 3
+	4
+loath
+	snare
+	claim 29
+	loath 2
+	3
+forty
+	snare
+	grout 106
+	worth 8
+	forty 1
+	4
+gumbo
+	snare
+	could 219
+	outgo 7
+	gumbo 1
+	4
+bribe
+	snare
+	trope 54
+	bride 7
+	bribe 1
+	4
+shrug
+	snare
+	scrub 10
+	syrup 3
+	shrug 2
+	4
+glean
+	snare
+	glean 20
+	2
+hatch
+	snare
+	aptly 136
+	match 6
+	hatch 4
+	4
+surer
+	snare
+	sewer 13
+	super 4
+	surer 1
+	4
+acrid
+	snare
+	carol 65
+	acrid 1
+	3
+fever
+	snare
+	order 128
+	leper 29
+	fever 3
+	4
+unzip
+	snare
+	unlit 16
+	undid 2
+	unzip 1
+	4
+paste
+	snare
+	lapse 15
+	paste 1
+	3
+egret
+	snare
+	order 128
+	revel 7
+	egret 1
+	4
+truth
+	snare
+	grout 106
+	truth 4
+	3
+igloo
+	snare
+	could 219
+	igloo 5
+	3
+staid
+	snare
+	shalt 29
+	staid 4
+	3
+story
+	snare
+	stork 14
+	story 2
+	3
+flirt
+	snare
+	glory 23
+	blurb 3
+	flirt 1
+	4
+error
+	snare
+	order 128
+	error 1
+	3
+cleft
+	snare
+	betel 110
+	elect 4
+	cleft 1
+	4
+erase
+	snare
+	erase 1
+	2
+gruel
+	snare
+	order 128
+	creep 7
+	brief 3
+	gruel 1
+	5
+lapse
+	snare
+	lapse 15
+	2
+could
+	snare
+	could 219
+	2
+thyme
+	snare
+	guile 79
+	theme 8
+	thyme 1
+	4
+mogul
+	snare
+	could 219
+	mogul 1
+	3
+drive
+	snare
+	trope 54
+	bride 7
+	drive 1
+	4
+flout
+	snare
+	could 219
+	flout 2
+	3
+prude
+	snare
+	trope 54
+	price 5
+	prude 1
+	4
+total
+	snare
+	aptly 136
+	latch 5
+	total 2
+	4
+girth
+	snare
+	grout 106
+	girth 1
+	3
+venom
+	snare
+	widen 47
+	event 6
+	venom 1
+	4
+abyss
+	snare
+	palsy 20
+	abyss 1
+	3
+alley
+	snare
+	decal 48
+	alley 2
+	3
+singe
+	snare
+	scone 10
+	singe 2
+	3
+mason
+	snare
+	nasty 5
+	mason 2
+	3
+peril
+	snare
+	order 128
+	remit 14
+	peril 1
+	4
+delay
+	snare
+	decal 48
+	delay 1
+	3
+sassy
+	snare
+	salsa 18
+	sassy 1
+	3
+rowdy
+	snare
+	grout 106
+	world 7
+	rowdy 1
+	4
+vinyl
+	snare
+	count 91
+	kinky 7
+	vinyl 1
+	4
+would
+	snare
+	could 219
+	would 1
+	3
+weird
+	snare
+	ferry 15
+	weird 2
+	3
+racer
+	snare
+	later 56
+	wager 15
+	parer 8
+	racer 1
+	5
+slick
+	snare
+	spilt 74
+	slick 2
+	3
+teach
+	snare
+	death 18
+	teach 1
+	3
+alike
+	snare
+	amble 37
+	alive 3
+	alike 1
+	4
+welsh
+	snare
+	upset 21
+	chess 4
+	welsh 1
+	4
+allot
+	snare
+	aptly 136
+	allot 2
+	3
+evade
+	snare
+	elate 26
+	evade 1
+	3
+recap
+	snare
+	later 56
+	break 11
+	recap 2
+	4
+trend
+	snare
+	diner 19
+	trend 2
+	3
+taint
+	snare
+	tangy 62
+	taunt 3
+	taint 1
+	4
+bezel
+	snare
+	betel 110
+	bezel 2
+	3
+loamy
+	snare
+	claim 29
+	loamy 1
+	3
+pizza
+	snare
+	aptly 136
+	vapid 3
+	pizza 1
+	4
+gloss
+	snare
+	hoist 50
+	gloss 2
+	3
+minus
+	snare
+	noisy 5
+	minus 1
+	3
+sloth
+	snare
+	spilt 74
+	sloth 2
+	3
+teeth
+	snare
+	betel 110
+	teeth 1
+	3
+rally
+	snare
+	carol 65
+	rally 2
+	3
+clack
+	snare
+	claim 29
+	clack 1
+	3
+hunky
+	snare
+	count 91
+	fungi 3
+	hunky 1
+	4
+salsa
+	snare
+	salsa 18
+	2
+bough
+	snare
+	could 219
+	youth 5
+	bough 1
+	4
+truer
+	snare
+	order 128
+	truer 3
+	3
+salvo
+	snare
+	salsa 18
+	salty 3
+	salvo 1
+	4
+probe
+	snare
+	trope 54
+	probe 2
+	3
+dealt
+	snare
+	death 18
+	dealt 1
+	3
+sworn
+	snare
+	shorn 4
+	sworn 2
+	3
+flung
+	snare
+	count 91
+	flung 3
+	3
+towel
+	snare
+	betel 110
+	towel 1
+	3
+blaze
+	snare
+	elate 26
+	blade 8
+	blaze 2
+	4
+comma
+	snare
+	aptly 136
+	mamma 17
+	comma 1
+	4
+admit
+	snare
+	aptly 136
+	about 5
+	admit 1
+	4
+pleat
+	snare
+	decal 48
+	bleat 4
+	pleat 1
+	4
+whine
+	snare
+	niece 24
+	whine 4
+	3
+trait
+	snare
+	craft 28
+	trait 1
+	3
+verso
+	snare
+	reset 16
+	verso 1
+	3
+today
+	snare
+	aptly 136
+	tacky 4
+	today 1
+	4
+lusty
+	snare
+	hoist 50
+	musty 4
+	lusty 3
+	4
+metro
+	snare
+	ferry 15
+	weird 2
+	metro 1
+	4
+magma
+	snare
+	aptly 136
+	mamma 17
+	magma 1
+	4
+aunty
+	snare
+	tangy 62
+	aunty 1
+	3
+sperm
+	snare
+	sperm 1
+	2
+shirk
+	snare
+	stork 14
+	smirk 2
+	shirk 1
+	4
+tweak
+	snare
+	decal 48
+	wheat 2
+	tweak 1
+	4
+retry
+	snare
+	ferry 15
+	retry 1
+	3
+fling
+	snare
+	count 91
+	dying 8
+	fling 1
+	4
+sling
+	snare
+	sting 27
+	sling 3
+	3
+slurp
+	snare
+	stork 14
+	slurp 2
+	3
+swash
+	snare
+	shalt 29
+	swash 2
+	3
+macho
+	snare
+	aptly 136
+	mamma 17
+	macho 2
+	4
+covey
+	snare
+	betel 110
+	dicey 7
+	covey 1
+	4
+grill
+	snare
+	grout 106
+	grimy 2
+	grill 1
+	4
+idiot
+	snare
+	could 219
+	idiom 4
+	idiot 1
+	4
+fecal
+	snare
+	decal 48
+	fecal 1
+	3
+sense
+	snare
+	scone 10
+	singe 2
+	sense 1
+	4
+debut
+	snare
+	betel 110
+	debut 2
+	3
+graft
+	snare
+	craft 28
+	graft 2
+	3
+final
+	snare
+	tangy 62
+	final 3
+	3
+dance
+	snare
+	lance 7
+	dance 1
+	3
+skulk
+	snare
+	spilt 74
+	sully 6
+	skulk 1
+	4
+hotel
+	snare
+	betel 110
+	hotel 2
+	3
+grope
+	snare
+	trope 54
+	grope 1
+	3
+gawky
+	snare
+	aptly 136
+	bawdy 10
+	gawky 1
+	4
+cocoa
+	snare
+	aptly 136
+	mamma 17
+	vodka 2
+	cocoa 1
+	5
+exile
+	snare
+	guile 79
+	exile 2
+	3
+layer
+	snare
+	later 56
+	layer 2
+	3
+rapid
+	snare
+	carol 65
+	rapid 8
+	3
+quake
+	snare
+	elate 26
+	adage 7
+	chafe 2
+	quake 1
+	5
+tithe
+	snare
+	guile 79
+	movie 6
+	tithe 2
+	4
+wager
+	snare
+	later 56
+	wager 15
+	3
+sonar
+	snare
+	sonar 1
+	2
+bluer
+	snare
+	order 128
+	leper 29
+	flyer 5
+	bluer 2
+	5
+geese
+	snare
+	loose 19
+	geese 3
+	3
+vault
+	snare
+	aptly 136
+	vault 2
+	3
+spurt
+	snare
+	stork 14
+	spurt 2
+	3
+amaze
+	snare
+	elate 26
+	adage 7
+	amaze 2
+	4
+topic
+	snare
+	could 219
+	topic 4
+	3
+askew
+	snare
+	asset 4
+	askew 1
+	3
+savoy
+	snare
+	salsa 18
+	savoy 4
+	3
+whoop
+	snare
+	could 219
+	whoop 5
+	3
+right
+	snare
+	grout 106
+	right 1
+	3
+shaky
+	snare
+	shalt 29
+	shaky 3
+	3
+fluid
+	snare
+	could 219
+	fluid 1
+	3
+chaff
+	snare
+	claim 29
+	chaff 2
+	3
+cameo
+	snare
+	decal 48
+	cameo 2
+	3
+vogue
+	snare
+	guile 79
+	vogue 1
+	3
+sweat
+	snare
+	steak 7
+	sweat 1
+	3
+inept
+	snare
+	kneed 14
+	inept 1
+	3
+vomit
+	snare
+	could 219
+	boozy 14
+	motif 2
+	vomit 1
+	5
+print
+	snare
+	grind 35
+	briny 3
+	print 1
+	4
+shear
+	snare
+	swear 5
+	shear 3
+	3
+rouse
+	snare
+	rouse 9
+	2
+dandy
+	snare
+	tangy 62
+	canny 9
+	dandy 4
+	4
+soapy
+	snare
+	shalt 29
+	swamp 6
+	soapy 1
+	4
+rebar
+	snare
+	later 56
+	debar 3
+	rebar 1
+	4
+perch
+	snare
+	order 128
+	remit 14
+	perky 3
+	perch 1
+	5
+stake
+	snare
+	slate 18
+	stage 3
+	stake 2
+	4
+tying
+	snare
+	count 91
+	thing 3
+	tying 1
+	4
+caddy
+	snare
+	aptly 136
+	bawdy 10
+	caddy 3
+	4
+wafer
+	snare
+	later 56
+	wager 15
+	wafer 2
+	4
+leave
+	snare
+	elate 26
+	leave 1
+	3
+dizzy
+	snare
+	could 219
+	digit 6
+	dizzy 1
+	4
+nadir
+	snare
+	rayon 12
+	nadir 1
+	3
+kinky
+	snare
+	count 91
+	kinky 7
+	3
+briny
+	snare
+	grind 35
+	briny 3
+	3
+utter
+	snare
+	order 128
+	leper 29
+	tiger 9
+	utter 1
+	5
+quark
+	snare
+	hoard 16
+	apart 5
+	quark 1
+	4
+afoot
+	snare
+	aptly 136
+	about 5
+	afoot 1
+	4
+mercy
+	snare
+	order 128
+	remit 14
+	mercy 1
+	4
+hymen
+	snare
+	widen 47
+	coven 6
+	lumen 3
+	hymen 1
+	5
+pagan
+	snare
+	tangy 62
+	pagan 2
+	3
+sixth
+	snare
+	spilt 74
+	sixty 3
+	sixth 1
+	4
+uncut
+	snare
+	unlit 16
+	uncut 1
+	3
+pinto
+	snare
+	count 91
+	pinto 1
+	3
+scent
+	snare
+	stein 8
+	scent 2
+	3
+koala
+	snare
+	claim 29
+	loath 2
+	koala 1
+	4
+solid
+	snare
+	spilt 74
+	solid 2
+	3
+thong
+	snare
+	count 91
+	thong 1
+	3
+ennui
+	snare
+	kneed 14
+	envoy 3
+	ennui 1
+	4
+idyll
+	snare
+	could 219
+	dimly 3
+	idyll 1
+	4
+lingo
+	snare
+	count 91
+	blown 6
+	lingo 1
+	4
+ninny
+	snare
+	count 91
+	dying 8
+	ninny 1
+	4
+spoil
+	snare
+	spilt 74
+	spoil 1
+	3
+puffy
+	snare
+	could 219
+	guppy 10
+	putty 2
+	puffy 1
+	5
+doubt
+	snare
+	could 219
+	dough 2
+	doubt 1
+	4
+beady
+	snare
+	death 18
+	beady 1
+	3
+trail
+	snare
+	craft 28
+	trawl 4
+	trail 1
+	4
+angst
+	snare
+	angst 1
+	2
+preen
+	snare
+	diner 19
+	preen 2
+	3
+piano
+	snare
+	clank 16
+	giant 3
+	piano 1
+	4
+which
+	snare
+	could 219
+	pitch 8
+	which 1
+	4
+eerie
+	snare
+	trope 54
+	merge 10
+	verve 2
+	eerie 1
+	5
+dicey
+	snare
+	betel 110
+	dicey 7
+	3
+refit
+	snare
+	order 128
+	remit 14
+	refit 1
+	4
+avoid
+	snare
+	aptly 136
+	avoid 4
+	3
+ember
+	snare
+	order 128
+	leper 29
+	cheer 4
+	ember 1
+	5
+hunch
+	snare
+	count 91
+	punch 5
+	hunch 4
+	4
+ralph
+	snare
+	carol 65
+	rally 2
+	ralph 1
+	4
+dwarf
+	snare
+	hoard 16
+	diary 2
+	dwarf 1
+	4
+rough
+	snare
+	grout 106
+	rough 1
+	3
+unwed
+	snare
+	kneed 14
+	unwed 2
+	3
+gavel
+	snare
+	decal 48
+	bagel 5
+	gavel 1
+	4
+globe
+	snare
+	guile 79
+	globe 2
+	3
+renal
+	snare
+	raven 4
+	renal 1
+	3
+segue
+	snare
+	spite 24
+	shove 4
+	segue 1
+	4
+bitty
+	snare
+	could 219
+	fight 19
+	bitty 3
+	4
+murky
+	snare
+	grout 106
+	curly 7
+	murky 1
+	4
+deign
+	snare
+	widen 47
+	deign 1
+	3
+agent
+	snare
+	glean 20
+	agent 1
+	3
+exult
+	snare
+	betel 110
+	elect 4
+	exult 1
+	4
+atoll
+	snare
+	aptly 136
+	adult 2
+	atoll 1
+	4
+posse
+	snare
+	loose 19
+	posse 5
+	3
+gripe
+	snare
+	trope 54
+	gripe 2
+	3
+sword
+	snare
+	stork 14
+	sword 1
+	3
+fatty
+	snare
+	aptly 136
+	tatty 4
+	catty 3
+	fatty 2
+	5
+bunch
+	snare
+	count 91
+	punch 5
+	hunch 4
+	bunch 3
+	5
+groan
+	snare
+	rayon 12
+	organ 2
+	groan 1
+	4
+ovoid
+	snare
+	could 219
+	ovoid 1
+	3
+quasi
+	snare
+	chaos 17
+	blast 4
+	quasi 1
+	4
+petty
+	snare
+	betel 110
+	fetid 5
+	petty 2
+	4
+stint
+	snare
+	sting 27
+	stint 2
+	3
+fluff
+	snare
+	could 219
+	plumb 4
+	fluff 1
+	4
+tulip
+	snare
+	could 219
+	tulip 5
+	3
+alter
+	snare
+	later 56
+	alter 1
+	3
+scowl
+	snare
+	spilt 74
+	slosh 4
+	scowl 1
+	4
+allay
+	snare
+	aptly 136
+	alloy 2
+	allay 1
+	4
+apron
+	snare
+	rayon 12
+	apron 1
+	3
+flick
+	snare
+	could 219
+	flick 1
+	3
+forth
+	snare
+	grout 106
+	worth 8
+	forth 1
+	4
+revue
+	snare
+	trope 54
+	merge 10
+	revue 1
+	4
+honor
+	snare
+	grind 35
+	honor 3
+	3
+inner
+	snare
+	inter 5
+	inner 2
+	3
+count
+	snare
+	count 91
+	2
+mulch
+	snare
+	could 219
+	mulch 3
+	3
+slunk
+	snare
+	sting 27
+	slunk 5
+	3
+fatal
+	snare
+	aptly 136
+	latch 5
+	fatal 1
+	4
+expel
+	snare
+	betel 110
+	expel 3
+	3
+squad
+	snare
+	salsa 18
+	squad 3
+	3
+magic
+	snare
+	aptly 136
+	mamma 17
+	macho 2
+	magic 1
+	5
+stung
+	snare
+	sting 27
+	stung 1
+	3
+spike
+	snare
+	spite 24
+	spike 2
+	3
+label
+	snare
+	decal 48
+	bagel 5
+	label 1
+	4
+pupal
+	snare
+	aptly 136
+	pupal 3
+	3
+study
+	snare
+	spilt 74
+	study 8
+	3
+worry
+	snare
+	glory 23
+	dowry 2
+	worry 1
+	4
+alarm
+	snare
+	hoard 16
+	apart 5
+	alarm 1
+	4
+mecca
+	snare
+	decal 48
+	mecca 1
+	3
+elegy
+	snare
+	betel 110
+	leech 2
+	elegy 1
+	4
+bison
+	snare
+	noisy 5
+	bison 1
+	3
+empty
+	snare
+	betel 110
+	edict 8
+	empty 1
+	4
+eagle
+	snare
+	amble 37
+	eagle 2
+	3
+young
+	snare
+	count 91
+	wound 7
+	young 1
+	4
+spear
+	snare
+	swear 5
+	shear 3
+	spear 2
+	4
+fussy
+	snare
+	hoist 50
+	fussy 2
+	3
+dirty
+	snare
+	grout 106
+	birth 3
+	dirty 1
+	4
+troop
+	snare
+	grout 106
+	troop 4
+	3
+jazzy
+	snare
+	aptly 136
+	bawdy 10
+	mammy 2
+	jazzy 1
+	5
+tumor
+	snare
+	grout 106
+	tumor 3
+	3
+brawl
+	snare
+	craft 28
+	grail 8
+	brawl 2
+	4
+botch
+	snare
+	could 219
+	topic 4
+	botch 1
+	4
+peach
+	snare
+	death 18
+	peach 3
+	3
+whiff
+	snare
+	could 219
+	fight 19
+	whiff 1
+	4
+eater
+	snare
+	later 56
+	cater 4
+	water 3
+	eater 2
+	5
+nosey
+	snare
+	nosey 1
+	2
+matey
+	snare
+	decal 48
+	matey 4
+	3
+clean
+	snare
+	glean 20
+	clean 1
+	3
+chaos
+	snare
+	chaos 17
+	2
+shove
+	snare
+	spite 24
+	shove 4
+	3
+guild
+	snare
+	could 219
+	guild 2
+	3
+quiet
+	snare
+	betel 110
+	duvet 5
+	quiet 1
+	4
+panel
+	snare
+	glean 20
+	navel 2
+	panel 1
+	4
+elder
+	snare
+	order 128
+	wider 4
+	elder 2
+	4
+write
+	snare
+	trope 54
+	brute 2
+	write 1
+	4
+frail
+	snare
+	craft 28
+	fraud 2
+	frail 1
+	4
+shalt
+	snare
+	shalt 29
+	2
+prawn
+	snare
+	grand 14
+	brain 4
+	prawn 1
+	4
+round
+	snare
+	grind 35
+	round 1
+	3
+gecko
+	snare
+	betel 110
+	gecko 4
+	3
+forte
+	snare
+	trope 54
+	forte 2
+	3
+unlit
+	snare
+	unlit 16
+	2
+epoch
+	snare
+	betel 110
+	epoxy 5
+	epoch 1
+	4
+rogue
+	snare
+	trope 54
+	forge 6
+	rogue 1
+	4
+clank
+	snare
+	clank 16
+	2
+spiky
+	snare
+	spilt 74
+	spiky 2
+	3
+bowel
+	snare
+	betel 110
+	bowel 1
+	3
+marry
+	snare
+	macro 14
+	marry 1
+	3
+rabid
+	snare
+	carol 65
+	rapid 8
+	rabid 1
+	4
+mambo
+	snare
+	aptly 136
+	mamma 17
+	mambo 1
+	4
+whose
+	snare
+	loose 19
+	whose 3
+	3
+quack
+	snare
+	claim 29
+	quack 3
+	3
+valet
+	snare
+	decal 48
+	alley 2
+	valet 1
+	4
+fault
+	snare
+	aptly 136
+	vault 2
+	fault 1
+	4
+motel
+	snare
+	betel 110
+	hotel 2
+	motel 1
+	4
+groin
+	snare
+	grind 35
+	groin 1
+	3
+essay
+	snare
+	asset 4
+	essay 1
+	3
+glaze
+	snare
+	elate 26
+	blade 8
+	flake 4
+	glaze 2
+	5
+leggy
+	snare
+	betel 110
+	cello 6
+	leggy 1
+	4
+north
+	snare
+	grind 35
+	honor 3
+	north 1
+	4
+biome
+	snare
+	guile 79
+	movie 6
+	biome 1
+	4
+ivory
+	snare
+	glory 23
+	ivory 1
+	3
+endow
+	snare
+	kneed 14
+	endow 1
+	3
+moldy
+	snare
+	could 219
+	moldy 1
+	3
+swami
+	snare
+	shalt 29
+	swamp 6
+	swami 1
+	4
+booby
+	snare
+	could 219
+	boozy 14
+	booby 2
+	4
+hyena
+	snare
+	glean 20
+	amend 2
+	hyena 1
+	4
+glint
+	snare
+	count 91
+	glint 2
+	3
+tweed
+	snare
+	betel 110
+	tweed 2
+	3
+hefty
+	snare
+	betel 110
+	depth 7
+	hefty 1
+	4
+churn
+	snare
+	churn 3
+	2
+flier
+	snare
+	order 128
+	leper 29
+	flyer 5
+	flier 1
+	5
+check
+	snare
+	betel 110
+	epoxy 5
+	check 1
+	4
+prism
+	snare
+	truss 25
+	prism 4
+	3
+adobe
+	snare
+	amble 37
+	adobe 4
+	3
+bunny
+	snare
+	count 91
+	bunny 2
+	3
+drawn
+	snare
+	grand 14
+	drain 2
+	drawn 1
+	4
+polka
+	snare
+	aptly 136
+	pupal 3
+	polka 1
+	4
+caulk
+	snare
+	aptly 136
+	viola 4
+	caulk 1
+	4
+thigh
+	snare
+	could 219
+	fight 19
+	thigh 1
+	4
+prove
+	snare
+	trope 54
+	probe 2
+	prove 1
+	4
+retro
+	snare
+	ferry 15
+	retro 1
+	3
+gaily
+	snare
+	aptly 136
+	daily 6
+	gaily 1
+	4
+clerk
+	snare
+	ferry 15
+	exert 3
+	clerk 1
+	4
+harry
+	snare
+	macro 14
+	hairy 5
+	harry 1
+	4
+cramp
+	snare
+	craft 28
+	cramp 4
+	3
+creed
+	snare
+	order 128
+	freed 9
+	breed 3
+	creed 2
+	5
+gamut
+	snare
+	aptly 136
+	tacit 8
+	gamut 1
+	4
+knack
+	snare
+	knack 1
+	2
+knock
+	snare
+	unlit 16
+	knock 2
+	3
+surly
+	snare
+	shrub 10
+	surly 1
+	3
+fleck
+	snare
+	betel 110
+	yield 6
+	fleck 1
+	4
+ether
+	snare
+	order 128
+	leper 29
+	cheer 4
+	ether 1
+	5
+beast
+	snare
+	beast 5
+	2
+charm
+	snare
+	hoard 16
+	charm 3
+	3
+woman
+	snare
+	tangy 62
+	nomad 7
+	woman 1
+	4
+glyph
+	snare
+	could 219
+	light 10
+	glyph 1
+	4
+haunt
+	snare
+	tangy 62
+	haunt 8
+	3
+clock
+	snare
+	could 219
+	clock 2
+	3
+sandy
+	snare
+	satin 5
+	sandy 2
+	3
+brisk
+	snare
+	truss 25
+	prism 4
+	brisk 2
+	4
+metal
+	snare
+	decal 48
+	petal 4
+	fetal 2
+	metal 1
+	5
+minim
+	snare
+	count 91
+	kinky 7
+	minim 1
+	4
+glide
+	snare
+	guile 79
+	glide 1
+	3
+place
+	snare
+	elate 26
+	blade 8
+	flake 4
+	glaze 2
+	place 1
+	6
+golly
+	snare
+	could 219
+	holly 7
+	folly 3
+	golly 2
+	5
+sadly
+	snare
+	salsa 18
+	sadly 1
+	3
+wreck
+	snare
+	order 128
+	erupt 4
+	wreck 1
+	4
+brake
+	snare
+	grace 18
+	drake 7
+	brake 1
+	4
+still
+	snare
+	spilt 74
+	still 1
+	3
+woozy
+	snare
+	could 219
+	boozy 14
+	woozy 1
+	4
+glass
+	snare
+	chaos 17
+	glass 2
+	3
+bushy
+	snare
+	hoist 50
+	bushy 3
+	3
+bacon
+	snare
+	tangy 62
+	cabin 4
+	bacon 1
+	4
+beefy
+	snare
+	betel 110
+	beefy 2
+	3
+flint
+	snare
+	count 91
+	glint 2
+	flint 1
+	4
+ovate
+	snare
+	elate 26
+	agate 3
+	ovate 1
+	4
+rural
+	snare
+	carol 65
+	rural 3
+	3
+slope
+	snare
+	spite 24
+	slope 2
+	3
+vaunt
+	snare
+	tangy 62
+	haunt 8
+	vaunt 3
+	4
+salty
+	snare
+	salsa 18
+	salty 3
+	3
+surge
+	snare
+	scree 4
+	surge 1
+	3
+swing
+	snare
+	sting 27
+	sling 3
+	swing 2
+	4
+dozen
+	snare
+	widen 47
+	dozen 1
+	3
+ripen
+	snare
+	diner 19
+	ripen 1
+	3
+stash
+	snare
+	shalt 29
+	stash 2
+	3
+abbey
+	snare
+	decal 48
+	matey 4
+	abbey 1
+	4
+valid
+	snare
+	aptly 136
+	local 12
+	valid 1
+	4
+cargo
+	snare
+	carol 65
+	cargo 1
+	3
+tenth
+	snare
+	widen 47
+	event 6
+	tenth 1
+	4
+milky
+	snare
+	could 219
+	light 10
+	milky 2
+	4
+scaly
+	snare
+	shalt 29
+	scaly 4
+	3
+fritz
+	snare
+	grout 106
+	trick 2
+	fritz 1
+	4
+slash
+	snare
+	shalt 29
+	slash 1
+	3
+liver
+	snare
+	order 128
+	leper 29
+	liver 1
+	4
+flash
+	snare
+	chaos 17
+	quash 3
+	flash 2
+	4
+lying
+	snare
+	count 91
+	dying 8
+	lying 2
+	4
+motor
+	snare
+	grout 106
+	worth 8
+	motor 2
+	4
+stout
+	snare
+	spilt 74
+	scout 4
+	stout 2
+	4
+hater
+	snare
+	later 56
+	cater 4
+	water 3
+	eater 2
+	hater 1
+	6
+maple
+	snare
+	amble 37
+	maple 1
+	3
+whole
+	snare
+	guile 79
+	cycle 3
+	whole 2
+	4
+badly
+	snare
+	aptly 136
+	daily 6
+	madly 2
+	badly 1
+	5
+macaw
+	snare
+	aptly 136
+	mamma 17
+	macaw 1
+	4
+wiser
+	snare
+	reset 16
+	miser 4
+	wiser 1
+	4
+worst
+	snare
+	truss 25
+	worst 3
+	3
+adapt
+	snare
+	claim 29
+	adapt 2
+	3
+chuck
+	snare
+	could 219
+	chuck 2
+	3
+gusty
+	snare
+	hoist 50
+	musty 4
+	lusty 3
+	gusty 2
+	5
+spice
+	snare
+	spite 24
+	spike 2
+	spice 1
+	4
+feral
+	snare
+	later 56
+	relay 4
+	feral 1
+	4
+assay
+	snare
+	palsy 20
+	assay 1
+	3
+pulse
+	snare
+	loose 19
+	pulse 1
+	3
+fauna
+	snare
+	tangy 62
+	cabin 4
+	fauna 2
+	4
+hotly
+	snare
+	could 219
+	holly 7
+	hotly 1
+	4
+finer
+	snare
+	diner 19
+	liner 3
+	finer 2
+	4
+beset
+	snare
+	upset 21
+	beset 1
+	3
+pudgy
+	snare
+	could 219
+	dumpy 5
+	pudgy 1
+	4
+foist
+	snare
+	hoist 50
+	joist 3
+	moist 2
+	foist 1
+	5
+pushy
+	snare
+	hoist 50
+	bushy 3
+	pushy 2
+	4
+aider
+	snare
+	later 56
+	aider 2
+	3
+cling
+	snare
+	count 91
+	cling 2
+	3
+crick
+	snare
+	grout 106
+	prick 10
+	brick 2
+	crick 1
+	5
+ruddy
+	snare
+	grout 106
+	curly 7
+	ruddy 1
+	4
+cloud
+	snare
+	could 219
+	cloud 1
+	3
+pearl
+	snare
+	heart 7
+	beard 4
+	pearl 3
+	4
+shire
+	snare
+	shore 7
+	shire 1
+	3
+bloat
+	snare
+	aptly 136
+	tubal 6
+	bloat 1
+	4
+spine
+	snare
+	scone 10
+	spine 3
+	3
+upset
+	snare
+	upset 21
+	2
+tight
+	snare
+	could 219
+	fight 19
+	tight 3
+	4
+spicy
+	snare
+	spilt 74
+	spiky 2
+	spicy 1
+	4
+swamp
+	snare
+	shalt 29
+	swamp 6
+	3
+aorta
+	snare
+	carol 65
+	foray 3
+	aorta 1
+	4
+owner
+	snare
+	diner 19
+	goner 2
+	owner 1
+	4
+pluck
+	snare
+	could 219
+	pluck 1
+	3
+there
+	snare
+	ombre 5
+	there 2
+	3
+money
+	snare
+	widen 47
+	boney 5
+	money 2
+	4
+bulky
+	snare
+	could 219
+	tulip 5
+	bulky 1
+	4
+creep
+	snare
+	order 128
+	creep 7
+	3
+crisp
+	snare
+	truss 25
+	prism 4
+	crisp 1
+	4
+sigma
+	snare
+	salsa 18
+	sigma 2
+	3
+suing
+	snare
+	sting 27
+	sling 3
+	swing 2
+	suing 1
+	5
+crash
+	snare
+	brash 8
+	trash 2
+	crash 1
+	4
+crimp
+	snare
+	grout 106
+	prick 10
+	crimp 1
+	4
+trace
+	snare
+	grace 18
+	trace 2
+	3
+track
+	snare
+	craft 28
+	track 1
+	3
+snore
+	snare
+	snore 1
+	2
+awake
+	snare
+	elate 26
+	adage 7
+	amaze 2
+	awake 1
+	5
+split
+	snare
+	spilt 74
+	split 1
+	3
+rower
+	snare
+	order 128
+	roger 4
+	rower 2
+	4
+shrew
+	snare
+	sewer 13
+	shrew 2
+	3
+torso
+	snare
+	truss 25
+	torso 1
+	3
+awoke
+	snare
+	amble 37
+	awoke 2
+	3
+lemur
+	snare
+	order 128
+	femur 3
+	lemur 1
+	4
+rupee
+	snare
+	trope 54
+	purge 3
+	rupee 1
+	4
+helix
+	snare
+	betel 110
+	cello 6
+	helix 1
+	4
+midge
+	snare
+	guile 79
+	midge 1
+	3
+nobly
+	snare
+	count 91
+	nobly 3
+	3
+decry
+	snare
+	ferry 15
+	leery 2
+	decry 1
+	4
+sepia
+	snare
+	steak 7
+	sepia 1
+	3
+scope
+	snare
+	spite 24
+	slope 2
+	scope 1
+	4
+udder
+	snare
+	order 128
+	wider 4
+	elder 2
+	udder 1
+	5
+screw
+	snare
+	sewer 13
+	shrew 2
+	screw 1
+	4
+scold
+	snare
+	spilt 74
+	sully 6
+	scold 1
+	4
+weary
+	snare
+	heart 7
+	beard 4
+	pearl 3
+	weary 2
+	5
+squat
+	snare
+	salsa 18
+	squad 3
+	squat 1
+	4
+serif
+	snare
+	sewer 13
+	serif 2
+	3
+trite
+	snare
+	trope 54
+	trice 4
+	trite 2
+	4
+rumba
+	snare
+	carol 65
+	friar 5
+	rumba 1
+	4
+odder
+	snare
+	order 128
+	odder 2
+	3
+elite
+	snare
+	guile 79
+	elide 3
+	elite 1
+	4
+guilt
+	snare
+	could 219
+	guilt 7
+	3
+sleet
+	snare
+	spelt 27
+	sleet 1
+	3
+dutch
+	snare
+	could 219
+	duchy 2
+	dutch 1
+	4
+merry
+	snare
+	ferry 15
+	merry 2
+	3
+louse
+	snare
+	loose 19
+	louse 1
+	3
+drake
+	snare
+	grace 18
+	drake 7
+	3
+raspy
+	snare
+	harsh 4
+	raspy 1
+	3
+swore
+	snare
+	shore 7
+	score 4
+	swore 3
+	4
+shone
+	snare
+	scone 10
+	shone 2
+	3
+picky
+	snare
+	could 219
+	pitch 8
+	picky 1
+	4
+stunt
+	snare
+	sting 27
+	stunt 3
+	3
+bride
+	snare
+	trope 54
+	bride 7
+	3
+lurch
+	snare
+	grout 106
+	curly 7
+	lurch 1
+	4
+shoal
+	snare
+	salsa 18
+	shoal 1
+	3
+roost
+	snare
+	truss 25
+	worst 3
+	roost 1
+	4
+mangy
+	snare
+	tangy 62
+	mangy 1
+	3
+bless
+	snare
+	upset 21
+	chess 4
+	bless 1
+	4
+brain
+	snare
+	grand 14
+	brain 4
+	3
+extol
+	snare
+	betel 110
+	extol 1
+	3
+lipid
+	snare
+	could 219
+	lipid 2
+	3
+forum
+	snare
+	grout 106
+	forum 2
+	3
+hoard
+	snare
+	hoard 16
+	2
+stank
+	snare
+	slant 10
+	stank 2
+	3
+lumpy
+	snare
+	could 219
+	tulip 5
+	lumpy 1
+	4
+funny
+	snare
+	count 91
+	bunny 2
+	funny 1
+	4
+leper
+	snare
+	order 128
+	leper 29
+	3
+lowly
+	snare
+	could 219
+	holly 7
+	lowly 1
+	4
+prize
+	snare
+	trope 54
+	price 5
+	prize 3
+	4
+ready
+	snare
+	reach 4
+	ready 2
+	3
+gonad
+	snare
+	tangy 62
+	gonad 1
+	3
+sauna
+	snare
+	satin 5
+	sandy 2
+	sauna 1
+	4
+cobra
+	snare
+	macro 14
+	cobra 1
+	3
+plain
+	snare
+	clank 16
+	plain 1
+	3
+radar
+	snare
+	carol 65
+	rapid 8
+	radar 1
+	4
+crumb
+	snare
+	grout 106
+	crumb 3
+	3
+goose
+	snare
+	loose 19
+	goose 2
+	3
+glove
+	snare
+	guile 79
+	globe 2
+	glove 1
+	4
+altar
+	snare
+	carol 65
+	altar 1
+	3
+basin
+	snare
+	nasty 5
+	mason 2
+	basin 1
+	4
+wight
+	snare
+	could 219
+	fight 19
+	tight 3
+	wight 2
+	5
+haven
+	snare
+	glean 20
+	taken 5
+	waxen 2
+	haven 1
+	5
+press
+	snare
+	reset 16
+	cress 4
+	press 2
+	4
+frill
+	snare
+	grout 106
+	prick 10
+	frill 2
+	4
+repay
+	snare
+	later 56
+	break 11
+	recap 2
+	repay 1
+	5
+shout
+	snare
+	spilt 74
+	scout 4
+	stout 2
+	shout 1
+	5
+maxim
+	snare
+	aptly 136
+	mamma 17
+	maxim 1
+	4
+title
+	snare
+	guile 79
+	title 2
+	3
+druid
+	snare
+	grout 106
+	crumb 3
+	druid 1
+	4
+shuck
+	snare
+	spilt 74
+	shock 9
+	shuck 1
+	4
+shark
+	snare
+	stark 10
+	spark 2
+	shark 1
+	4
+brown
+	snare
+	grind 35
+	frown 3
+	brown 2
+	4
+pygmy
+	snare
+	could 219
+	fight 19
+	pygmy 1
+	4
+abide
+	snare
+	amble 37
+	adobe 4
+	abide 1
+	4
+decay
+	snare
+	decal 48
+	decay 1
+	3
+creak
+	snare
+	later 56
+	break 11
+	freak 3
+	creak 2
+	5
+learn
+	snare
+	learn 2
+	2
+waste
+	snare
+	lapse 15
+	caste 5
+	waste 4
+	4
+vouch
+	snare
+	could 219
+	vouch 3
+	3
+flood
+	snare
+	could 219
+	flood 2
+	3
+crepe
+	snare
+	trope 54
+	gripe 2
+	crepe 1
+	4
+drink
+	snare
+	grind 35
+	drink 1
+	3
+stalk
+	snare
+	shalt 29
+	stalk 2
+	3
+hippo
+	snare
+	could 219
+	whoop 5
+	hippo 1
+	4
+tepee
+	snare
+	guile 79
+	theme 8
+	tepee 1
+	4
+cream
+	snare
+	later 56
+	break 11
+	dread 3
+	cream 1
+	5
+jaunt
+	snare
+	tangy 62
+	haunt 8
+	vaunt 3
+	jaunt 2
+	5
+video
+	snare
+	betel 110
+	dicey 7
+	video 1
+	4
+bicep
+	snare
+	betel 110
+	bicep 1
+	3
+urban
+	snare
+	rayon 12
+	urban 1
+	3
+missy
+	snare
+	hoist 50
+	missy 2
+	3
+choke
+	snare
+	guile 79
+	theme 8
+	choke 1
+	4
+tulle
+	snare
+	guile 79
+	tulle 1
+	3
+omega
+	snare
+	decal 48
+	matey 4
+	omega 1
+	4
+tenet
+	snare
+	widen 47
+	boney 5
+	tenet 1
+	4
+prime
+	snare
+	trope 54
+	price 5
+	prize 3
+	prime 2
+	5
+ionic
+	snare
+	count 91
+	ionic 1
+	3
+buggy
+	snare
+	could 219
+	guppy 10
+	buggy 1
+	4
+belly
+	snare
+	betel 110
+	below 3
+	belly 2
+	4
+catty
+	snare
+	aptly 136
+	fatty 4
+	tatty 3
+	catty 2
+	5
+delve
+	snare
+	guile 79
+	delve 5
+	3
+mount
+	snare
+	count 91
+	mount 1
+	3
+apply
+	snare
+	aptly 136
+	apply 1
+	3
+dodgy
+	snare
+	could 219
+	dowdy 7
+	dodgy 1
+	4
+duvet
+	snare
+	betel 110
+	duvet 5
+	3
+chord
+	snare
+	glory 23
+	fjord 2
+	chord 1
+	4
+creek
+	snare
+	order 128
+	creek 7
+	3
+tooth
+	snare
+	could 219
+	boozy 14
+	tooth 1
+	4
+posit
+	snare
+	hoist 50
+	posit 1
+	3
+saucy
+	snare
+	salsa 18
+	savoy 4
+	sappy 2
+	saucy 1
+	5
+grain
+	snare
+	grand 14
+	grain 1
+	3
+silky
+	snare
+	spilt 74
+	solid 2
+	silky 1
+	4
+batch
+	snare
+	aptly 136
+	match 6
+	hatch 4
+	batch 3
+	5
+voila
+	snare
+	aptly 136
+	viola 4
+	voila 1
+	4
+smoke
+	snare
+	spite 24
+	shove 4
+	smoke 1
+	4
+tapir
+	snare
+	carol 65
+	rapid 8
+	tapir 1
+	4
+shale
+	snare
+	slate 18
+	scale 2
+	shale 1
+	4
+smash
+	snare
+	shalt 29
+	swash 2
+	smash 1
+	4
+flesh
+	snare
+	upset 21
+	chess 4
+	flesh 1
+	4
+foggy
+	snare
+	could 219
+	boozy 14
+	foggy 2
+	4
+slush
+	snare
+	spilt 74
+	slosh 4
+	slush 1
+	4
+depth
+	snare
+	betel 110
+	depth 7
+	3
+tweet
+	snare
+	betel 110
+	tweed 2
+	tweet 1
+	4
+genie
+	snare
+	niece 24
+	genie 1
+	3
+eight
+	snare
+	betel 110
+	edict 8
+	eight 1
+	4
+edify
+	snare
+	betel 110
+	epoxy 5
+	edify 1
+	4
+wryly
+	snare
+	grout 106
+	prick 10
+	dryly 2
+	wryly 1
+	5
+bread
+	snare
+	later 56
+	break 11
+	bread 1
+	4
+savor
+	snare
+	strap 10
+	savor 1
+	3
+modal
+	snare
+	aptly 136
+	local 12
+	modal 1
+	4
+token
+	snare
+	widen 47
+	coven 6
+	token 1
+	4
+flair
+	snare
+	craft 28
+	flair 1
+	3
+shank
+	snare
+	slant 10
+	shank 2
+	3
+wound
+	snare
+	count 91
+	wound 7
+	3
+jerky
+	snare
+	order 128
+	remit 14
+	perky 3
+	jerky 1
+	5
+pence
+	snare
+	niece 24
+	fence 3
+	pence 2
+	4
+stall
+	snare
+	shalt 29
+	stalk 2
+	stall 1
+	4
+spill
+	snare
+	spilt 74
+	spill 1
+	3
+datum
+	snare
+	aptly 136
+	match 6
+	datum 1
+	4
+slime
+	snare
+	spite 24
+	slime 5
+	3
+steed
+	snare
+	spelt 27
+	steed 1
+	3
+exist
+	snare
+	upset 21
+	exist 3
+	3
+world
+	snare
+	grout 106
+	world 7
+	3
+yearn
+	snare
+	learn 2
+	yearn 1
+	3
+lager
+	snare
+	later 56
+	layer 2
+	lager 1
+	4
+valor
+	snare
+	carol 65
+	valor 2
+	3
+humor
+	snare
+	grout 106
+	juror 5
+	humor 1
+	4
+river
+	snare
+	order 128
+	river 5
+	3
+broth
+	snare
+	grout 106
+	troop 4
+	broth 2
+	4
+covet
+	snare
+	betel 110
+	duvet 5
+	covet 1
+	4
+brush
+	snare
+	truss 25
+	brush 2
+	3
+giver
+	snare
+	order 128
+	leper 29
+	tiger 9
+	giver 1
+	5
+coach
+	snare
+	claim 29
+	chaff 2
+	coach 1
+	4
+taffy
+	snare
+	aptly 136
+	tacky 4
+	taffy 2
+	4
+quell
+	snare
+	betel 110
+	dwell 2
+	quell 1
+	4
+donut
+	snare
+	count 91
+	donut 1
+	3
+upper
+	snare
+	order 128
+	leper 29
+	piper 4
+	upper 1
+	5
+croup
+	snare
+	grout 106
+	proud 2
+	croup 1
+	4
+fiend
+	snare
+	widen 47
+	fiend 1
+	3
+photo
+	snare
+	could 219
+	whoop 5
+	photo 1
+	4
+snarl
+	snare
+	snarl 1
+	2
+awful
+	snare
+	aptly 136
+	aloud 9
+	awful 1
+	4
+quite
+	snare
+	guile 79
+	quite 2
+	3
+azure
+	snare
+	azure 3
+	2
+manga
+	snare
+	tangy 62
+	manga 2
+	3
+muddy
+	snare
+	could 219
+	dumpy 5
+	muddy 1
+	4
+quail
+	snare
+	claim 29
+	avail 2
+	quail 1
+	4
+risen
+	snare
+	risen 2
+	2
+kiosk
+	snare
+	hoist 50
+	kiosk 1
+	3
+cadet
+	snare
+	decal 48
+	cadet 1
+	3
+flaky
+	snare
+	claim 29
+	plaza 2
+	flaky 1
+	4
+sinew
+	snare
+	stein 8
+	sinew 1
+	3
+otter
+	snare
+	order 128
+	otter 4
+	3
+shush
+	snare
+	spilt 74
+	shock 9
+	shush 1
+	4
+eager
+	snare
+	later 56
+	wager 15
+	eager 1
+	4
+anger
+	snare
+	anger 1
+	2
+hitch
+	snare
+	could 219
+	pitch 8
+	hitch 2
+	4
+miner
+	snare
+	diner 19
+	liner 3
+	finer 2
+	miner 1
+	5
+point
+	snare
+	count 91
+	point 2
+	3
+pesky
+	snare
+	upset 21
+	pesky 1
+	3
+pedal
+	snare
+	decal 48
+	medal 2
+	pedal 1
+	4
+chime
+	snare
+	guile 79
+	twice 6
+	chide 2
+	chime 1
+	5
+aisle
+	snare
+	lapse 15
+	aisle 1
+	3
+wispy
+	snare
+	hoist 50
+	wispy 3
+	3
+novel
+	snare
+	widen 47
+	boney 5
+	novel 1
+	4
+fleet
+	snare
+	betel 110
+	fleet 1
+	3
+frond
+	snare
+	grind 35
+	frond 1
+	3
+lapel
+	snare
+	decal 48
+	bagel 5
+	lapel 2
+	4
+drown
+	snare
+	grind 35
+	drown 1
+	3
+chirp
+	snare
+	glory 23
+	chirp 3
+	3
+droop
+	snare
+	grout 106
+	droop 14
+	3
+gourd
+	snare
+	glory 23
+	gourd 1
+	3
+tract
+	snare
+	craft 28
+	tract 1
+	3
+blunt
+	snare
+	count 91
+	blunt 1
+	3
+force
+	snare
+	trope 54
+	forge 6
+	force 1
+	4
+axial
+	snare
+	aptly 136
+	aloud 9
+	axial 1
+	4
+semen
+	snare
+	stein 8
+	semen 2
+	3
+abort
+	snare
+	macro 14
+	abort 3
+	3
+plead
+	snare
+	decal 48
+	plead 1
+	3
+robot
+	snare
+	grout 106
+	robot 1
+	3
+sewer
+	snare
+	sewer 13
+	2
+curvy
+	snare
+	grout 106
+	curly 7
+	curvy 1
+	4
+llama
+	snare
+	claim 29
+	llama 1
+	3
+nerve
+	snare
+	prone 8
+	nerve 1
+	3
+inert
+	snare
+	inert 2
+	2
+drank
+	snare
+	grand 14
+	drank 1
+	3
+solar
+	snare
+	strap 10
+	solar 2
+	3
+spank
+	snare
+	slant 10
+	shank 2
+	spank 1
+	4
+happy
+	snare
+	aptly 136
+	happy 2
+	3
+stave
+	snare
+	slate 18
+	stake 3
+	stage 2
+	stave 1
+	5
+amuse
+	snare
+	lapse 15
+	amuse 2
+	3
+poesy
+	snare
+	upset 21
+	poesy 1
+	3
+scare
+	snare
+	share 4
+	scare 3
+	3
+boozy
+	snare
+	could 219
+	boozy 14
+	3
+snaky
+	snare
+	snaky 3
+	2
+daunt
+	snare
+	tangy 62
+	haunt 8
+	vaunt 3
+	jaunt 2
+	daunt 1
+	6
+rebut
+	snare
+	order 128
+	remit 14
+	rebut 2
+	4
+comet
+	snare
+	betel 110
+	duvet 5
+	comet 1
+	4
+pound
+	snare
+	count 91
+	wound 7
+	pound 5
+	4
+sorry
+	snare
+	stork 14
+	sorry 1
+	3
+mound
+	snare
+	count 91
+	wound 7
+	pound 5
+	mound 4
+	5
+ratio
+	snare
+	carol 65
+	ratio 2
+	3
+arise
+	snare
+	raise 4
+	arise 1
+	3
+among
+	snare
+	tangy 62
+	aging 4
+	along 2
+	among 1
+	5
+lorry
+	snare
+	glory 23
+	lorry 1
+	3
+vegan
+	snare
+	glean 20
+	vegan 2
+	3
+unify
+	snare
+	unlit 16
+	union 2
+	unify 1
+	4
+stoop
+	snare
+	spilt 74
+	stoop 3
+	3
+first
+	snare
+	truss 25
+	worst 3
+	first 1
+	4
+speed
+	snare
+	spelt 27
+	speed 2
+	3
+stark
+	snare
+	stark 10
+	2
+array
+	snare
+	carol 65
+	array 1
+	3
+watch
+	snare
+	aptly 136
+	match 6
+	hatch 4
+	batch 3
+	watch 2
+	6
+steer
+	snare
+	sewer 13
+	steer 2
+	3
+lilac
+	snare
+	aptly 136
+	local 12
+	lilac 1
+	4
+pique
+	snare
+	guile 79
+	pique 2
+	3
+aloft
+	snare
+	aptly 136
+	allot 2
+	aloft 1
+	4
+reign
+	snare
+	diner 19
+	reign 1
+	3
+debit
+	snare
+	betel 110
+	debut 2
+	debit 1
+	4
+zesty
+	snare
+	upset 21
+	testy 2
+	zesty 1
+	4
+micro
+	snare
+	glory 23
+	micro 2
+	3
+bloke
+	snare
+	guile 79
+	delve 5
+	bloke 1
+	4
+class
+	snare
+	chaos 17
+	class 1
+	3
+shirt
+	snare
+	stork 14
+	spurt 2
+	shirt 1
+	4
+inbox
+	snare
+	unlit 16
+	inbox 2
+	3
+spasm
+	snare
+	shalt 29
+	swamp 6
+	spasm 1
+	4
+plait
+	snare
+	claim 29
+	plait 3
+	3
+itchy
+	snare
+	could 219
+	pitch 8
+	itchy 1
+	4
+realm
+	snare
+	reach 4
+	ready 2
+	realm 1
+	4
+loser
+	snare
+	reset 16
+	miser 4
+	poser 2
+	loser 1
+	5
+cluck
+	snare
+	could 219
+	clump 2
+	cluck 1
+	4
+funky
+	snare
+	count 91
+	fungi 3
+	funky 1
+	4
+conic
+	snare
+	count 91
+	conch 4
+	conic 1
+	4
+hence
+	snare
+	niece 24
+	fence 3
+	pence 2
+	hence 1
+	5
+grace
+	snare
+	grace 18
+	2
+curse
+	snare
+	rouse 9
+	curse 2
+	3
+dying
+	snare
+	count 91
+	dying 8
+	3
+chunk
+	snare
+	count 91
+	chunk 2
+	3
+refer
+	snare
+	order 128
+	river 5
+	ruler 2
+	refer 1
+	5
+axiom
+	snare
+	aptly 136
+	avoid 4
+	axiom 1
+	4
+spoon
+	snare
+	sting 27
+	swoon 4
+	spoon 1
+	4
+stein
+	snare
+	stein 8
+	2
+belie
+	snare
+	guile 79
+	belie 3
+	3
+tabby
+	snare
+	aptly 136
+	tacky 4
+	taffy 2
+	tabby 1
+	5
+manly
+	snare
+	tangy 62
+	canny 9
+	dandy 4
+	manly 2
+	5
+audio
+	snare
+	aptly 136
+	avoid 4
+	audio 1
+	4
+splat
+	snare
+	salsa 18
+	splat 1
+	3
+draft
+	snare
+	craft 28
+	graft 2
+	draft 1
+	4
+rehab
+	snare
+	later 56
+	break 11
+	rehab 1
+	4
+shunt
+	snare
+	sting 27
+	shunt 1
+	3
+stare
+	snare
+	share 4
+	scare 3
+	stare 2
+	4
+droit
+	snare
+	grout 106
+	droit 1
+	3
+plane
+	snare
+	plane 1
+	2
+godly
+	snare
+	could 219
+	dolly 2
+	godly 1
+	4
+wrote
+	snare
+	trope 54
+	wrote 1
+	3
+arose
+	snare
+	raise 4
+	arose 1
+	3
+scrap
+	snare
+	strap 10
+	scrap 1
+	3
+basil
+	snare
+	palsy 20
+	basil 2
+	3
+couch
+	snare
+	could 219
+	couch 2
+	3
+vying
+	snare
+	count 91
+	dying 8
+	lying 2
+	vying 1
+	5
+occur
+	snare
+	grout 106
+	forum 2
+	occur 1
+	4
+queen
+	snare
+	widen 47
+	coven 6
+	lumen 3
+	queen 1
+	5
+media
+	snare
+	decal 48
+	media 1
+	3
+shall
+	snare
+	shalt 29
+	shall 1
+	3
+scamp
+	snare
+	shalt 29
+	swamp 6
+	scamp 1
+	4
+plumb
+	snare
+	could 219
+	plumb 4
+	3
+depot
+	snare
+	betel 110
+	depth 7
+	depot 1
+	4
+renew
+	snare
+	diner 19
+	renew 1
+	3
+chock
+	snare
+	could 219
+	chock 1
+	3
+fight
+	snare
+	could 219
+	fight 19
+	3
+fried
+	snare
+	order 128
+	freed 9
+	fried 1
+	4
+ninja
+	snare
+	tangy 62
+	final 3
+	ninja 1
+	4
+bleat
+	snare
+	decal 48
+	bleat 4
+	3
+deter
+	snare
+	order 128
+	defer 4
+	deter 1
+	4
+style
+	snare
+	spite 24
+	stove 4
+	style 1
+	4
+spunk
+	snare
+	sting 27
+	slunk 5
+	spunk 2
+	4
+mouse
+	snare
+	loose 19
+	posse 5
+	mouse 2
+	4
+olive
+	snare
+	guile 79
+	elide 3
+	olive 1
+	4
+piece
+	snare
+	guile 79
+	movie 6
+	tithe 2
+	piece 1
+	5
+amply
+	snare
+	aptly 136
+	amply 1
+	3
+outdo
+	snare
+	could 219
+	outdo 1
+	3
+prank
+	snare
+	grand 14
+	crank 3
+	frank 2
+	prank 1
+	5
+crown
+	snare
+	grind 35
+	frown 3
+	brown 2
+	crown 1
+	5
+await
+	snare
+	claim 29
+	await 1
+	3
+moron
+	snare
+	grind 35
+	honor 3
+	moron 1
+	4
+loopy
+	snare
+	could 219
+	folio 5
+	loopy 1
+	4
+dream
+	snare
+	later 56
+	break 11
+	dread 3
+	dream 1
+	5
+primo
+	snare
+	grout 106
+	primo 2
+	3
+mango
+	snare
+	tangy 62
+	manga 2
+	mango 1
+	4
+floss
+	snare
+	hoist 50
+	gloss 2
+	floss 1
+	4
+juice
+	snare
+	guile 79
+	quite 2
+	juice 1
+	4
+synod
+	snare
+	sting 27
+	swoon 4
+	synod 1
+	4
+dryer
+	snare
+	order 128
+	drier 2
+	dryer 1
+	4
+nerdy
+	snare
+	diner 19
+	trend 2
+	nerdy 1
+	4
+heart
+	snare
+	teary 7
+	heart 1
+	3
+lunar
+	snare
+	rayon 12
+	lunar 1
+	3
+using
+	snare
+	noisy 5
+	using 1
+	3
+heist
+	snare
+	upset 21
+	exist 3
+	heist 1
+	4
+image
+	snare
+	elate 26
+	adage 7
+	image 1
+	4
+swoop
+	snare
+	spilt 74
+	swoop 2
+	3
+deity
+	snare
+	betel 110
+	depth 7
+	deity 1
+	4
+fifth
+	snare
+	could 219
+	fight 19
+	fifth 1
+	4
+align
+	snare
+	tangy 62
+	align 1
+	3
+icing
+	snare
+	count 91
+	icing 1
+	3
+clung
+	snare
+	count 91
+	chunk 2
+	clung 1
+	4
+model
+	snare
+	betel 110
+	dowel 6
+	model 1
+	4
+tower
+	snare
+	order 128
+	mower 16
+	power 4
+	tower 3
+	5
+penne
+	snare
+	niece 24
+	penne 2
+	3
+viper
+	snare
+	order 128
+	leper 29
+	piper 4
+	viper 1
+	5
+apnea
+	snare
+	glean 20
+	apnea 1
+	3
+silly
+	snare
+	spilt 74
+	silly 1
+	3
+crazy
+	snare
+	craft 28
+	cramp 4
+	crazy 3
+	4
+folio
+	snare
+	could 219
+	folio 5
+	3
+gipsy
+	snare
+	hoist 50
+	missy 2
+	gipsy 1
+	4
+greed
+	snare
+	order 128
+	freed 9
+	breed 3
+	creed 2
+	greed 1
+	6
+swath
+	snare
+	shalt 29
+	stash 2
+	swath 1
+	4
+sully
+	snare
+	spilt 74
+	sully 6
+	3
+vigil
+	snare
+	could 219
+	light 10
+	vigil 1
+	4
+atone
+	snare
+	lance 7
+	atone 1
+	3
+cubic
+	snare
+	could 219
+	cubic 1
+	3
+mealy
+	snare
+	death 18
+	leaky 3
+	mealy 1
+	4
+house
+	snare
+	loose 19
+	posse 5
+	mouse 2
+	house 1
+	5
+fudge
+	snare
+	guile 79
+	fudge 4
+	3
+arena
+	snare
+	raven 4
+	arena 1
+	3
+stool
+	snare
+	spilt 74
+	sloth 2
+	stool 1
+	4
+craft
+	snare
+	craft 28
+	2
+forgo
+	snare
+	grout 106
+	rigor 3
+	forgo 1
+	4
+blank
+	snare
+	clank 16
+	blank 3
+	3
+kneed
+	snare
+	kneed 14
+	2
+girly
+	snare
+	grout 106
+	girly 1
+	3
+qualm
+	snare
+	claim 29
+	qualm 1
+	3
+adept
+	snare
+	decal 48
+	adept 1
+	3
+state
+	snare
+	slate 18
+	skate 2
+	state 1
+	4
+great
+	snare
+	later 56
+	treat 3
+	great 1
+	4
+birth
+	snare
+	grout 106
+	birth 3
+	3
+humph
+	snare
+	could 219
+	guppy 10
+	humph 1
+	4
+mourn
+	snare
+	churn 3
+	mourn 1
+	3
+abbot
+	snare
+	aptly 136
+	about 5
+	abbot 1
+	4
+trade
+	snare
+	grace 18
+	drake 7
+	trade 1
+	4
+carol
+	snare
+	carol 65
+	2
+dress
+	snare
+	reset 16
+	cress 4
+	press 2
+	dress 1
+	5
+booze
+	snare
+	guile 79
+	theme 8
+	booze 1
+	4
+debug
+	snare
+	betel 110
+	debug 1
+	3
+larva
+	snare
+	carol 65
+	larva 1
+	3
+relax
+	snare
+	later 56
+	relay 4
+	relax 1
+	4
+tripe
+	snare
+	trope 54
+	tripe 1
+	3
+stunk
+	snare
+	sting 27
+	stunt 3
+	stunk 1
+	4
+slide
+	snare
+	spite 24
+	slime 5
+	slide 2
+	4
+chant
+	snare
+	clank 16
+	chant 1
+	3
+hilly
+	snare
+	could 219
+	willy 5
+	hilly 3
+	4
+wince
+	snare
+	niece 24
+	wince 2
+	3
+droll
+	snare
+	grout 106
+	droop 14
+	droll 1
+	4
+revel
+	snare
+	order 128
+	revel 7
+	3
+modem
+	snare
+	betel 110
+	dicey 7
+	modem 1
+	4
+clone
+	snare
+	niece 24
+	clone 1
+	3
+prune
+	snare
+	prone 8
+	prune 1
+	3
+rodeo
+	snare
+	order 128
+	rodeo 1
+	3
+villa
+	snare
+	aptly 136
+	viola 4
+	villa 1
+	4
+daisy
+	snare
+	palsy 20
+	daisy 2
+	3
+until
+	snare
+	unlit 16
+	until 1
+	3
+dusky
+	snare
+	hoist 50
+	mucus 4
+	dusky 1
+	4
+prose
+	snare
+	rouse 9
+	prose 1
+	3
+sting
+	snare
+	sting 27
+	2
+copse
+	snare
+	loose 19
+	posse 5
+	copse 1
+	4
+plank
+	snare
+	clank 16
+	blank 3
+	plank 2
+	4
+wrung
+	snare
+	grind 35
+	prong 3
+	wrung 1
+	4
+fetid
+	snare
+	betel 110
+	fetid 5
+	3
+often
+	snare
+	widen 47
+	coven 6
+	often 1
+	4
+pooch
+	snare
+	could 219
+	topic 4
+	pooch 1
+	4
+vivid
+	snare
+	could 219
+	timid 2
+	vivid 1
+	4
+hoist
+	snare
+	hoist 50
+	2
+twang
+	snare
+	clank 16
+	giant 3
+	twang 1
+	4
+genre
+	snare
+	genre 1
+	2
+chest
+	snare
+	upset 21
+	exist 3
+	chest 1
+	4
+shoot
+	snare
+	spilt 74
+	scout 4
+	shoot 1
+	4
+clink
+	snare
+	count 91
+	cling 2
+	clink 1
+	4
+onset
+	snare
+	onset 2
+	2
+parer
+	snare
+	later 56
+	wager 15
+	parer 8
+	4
+usher
+	snare
+	reset 16
+	usher 1
+	3
+flute
+	snare
+	guile 79
+	flume 5
+	flute 2
+	4
+sheep
+	snare
+	spelt 27
+	sheep 2
+	3
+paddy
+	snare
+	aptly 136
+	happy 2
+	paddy 1
+	4
+china
+	snare
+	tangy 62
+	nomad 7
+	china 1
+	4
+aside
+	snare
+	lapse 15
+	aside 1
+	3
+cover
+	snare
+	order 128
+	mower 16
+	lover 8
+	cover 2
+	5
+human
+	snare
+	tangy 62
+	axion 7
+	human 1
+	4
+exact
+	snare
+	death 18
+	exact 2
+	3
+baron
+	snare
+	rayon 12
+	baron 1
+	3
+unset
+	snare
+	onset 2
+	unset 1
+	3
+flame
+	snare
+	elate 26
+	blade 8
+	flake 4
+	flame 1
+	5
+brawn
+	snare
+	grand 14
+	brain 4
+	brawn 1
+	4
+snack
+	snare
+	snaky 3
+	snack 1
+	3
+spoke
+	snare
+	spite 24
+	spoke 1
+	3
+leaky
+	snare
+	death 18
+	leaky 3
+	3
+scalp
+	snare
+	shalt 29
+	scalp 4
+	3
+equip
+	snare
+	betel 110
+	epoxy 5
+	equip 1
+	4
+newer
+	snare
+	diner 19
+	never 2
+	newer 1
+	4
+awash
+	snare
+	chaos 17
+	quash 3
+	flash 2
+	awash 1
+	5
+while
+	snare
+	guile 79
+	exile 2
+	while 1
+	4
+trump
+	snare
+	grout 106
+	truth 4
+	trump 3
+	4
+staff
+	snare
+	shalt 29
+	staid 4
+	staff 3
+	4
+voice
+	snare
+	guile 79
+	twice 6
+	voice 1
+	4
+twirl
+	snare
+	glory 23
+	twirl 2
+	3
+month
+	snare
+	count 91
+	month 2
+	3
+argue
+	snare
+	barge 6
+	argue 1
+	3
+pubic
+	snare
+	could 219
+	quick 6
+	pubic 1
+	4
+trope
+	snare
+	trope 54
+	2
+sooth
+	snare
+	spilt 74
+	study 8
+	sooth 1
+	4
+adore
+	snare
+	azure 3
+	adore 2
+	3
+flunk
+	snare
+	count 91
+	flung 3
+	flunk 1
+	4
+gaudy
+	snare
+	aptly 136
+	bawdy 10
+	caddy 3
+	gaudy 1
+	5
+oxide
+	snare
+	guile 79
+	twice 6
+	oxide 1
+	4
+smock
+	snare
+	spilt 74
+	shock 9
+	smock 1
+	4
+strut
+	snare
+	shrub 10
+	syrup 3
+	scrum 2
+	strut 1
+	5
+throb
+	snare
+	grout 106
+	worth 8
+	throb 1
+	4
+shave
+	snare
+	slate 18
+	spade 8
+	shake 4
+	shave 2
+	5
+maybe
+	snare
+	amble 37
+	maybe 1
+	3
+gypsy
+	snare
+	hoist 50
+	fussy 2
+	gypsy 1
+	4
+ferry
+	snare
+	ferry 15
+	2
+gully
+	snare
+	could 219
+	guilt 7
+	gully 1
+	4
+found
+	snare
+	count 91
+	wound 7
+	pound 5
+	mound 4
+	found 3
+	6
+terse
+	snare
+	rouse 9
+	terse 2
+	3
+swill
+	snare
+	spilt 74
+	swill 2
+	3
+hutch
+	snare
+	could 219
+	quick 6
+	hutch 2
+	4
+laden
+	snare
+	glean 20
+	laden 1
+	3
+chili
+	snare
+	could 219
+	chili 2
+	3
+gauge
+	snare
+	amble 37
+	vague 8
+	gauge 2
+	4
+giddy
+	snare
+	could 219
+	digit 6
+	giddy 1
+	4
+butte
+	snare
+	guile 79
+	butte 3
+	3
+exert
+	snare
+	ferry 15
+	exert 3
+	3
+blush
+	snare
+	hoist 50
+	plush 3
+	flush 2
+	blush 1
+	5
+cigar
+	snare
+	carol 65
+	cigar 1
+	3
+known
+	snare
+	unlit 16
+	knock 2
+	known 1
+	4
+stamp
+	snare
+	shalt 29
+	staid 4
+	staff 3
+	stamp 2
+	5
+color
+	snare
+	grout 106
+	world 7
+	color 1
+	4
+snipe
+	snare
+	snipe 2
+	2
+shrub
+	snare
+	shrub 10
+	2
+lurid
+	snare
+	grout 106
+	curly 7
+	lurid 1
+	4
+rarer
+	snare
+	later 56
+	wager 15
+	parer 8
+	rarer 1
+	5
+welch
+	snare
+	betel 110
+	hello 6
+	welch 1
+	4
+aloof
+	snare
+	aptly 136
+	aloud 9
+	aloof 1
+	4
+stiff
+	snare
+	spilt 74
+	stick 3
+	stiff 1
+	4
+waist
+	snare
+	palsy 20
+	waist 1
+	3
+annoy
+	snare
+	annul 5
+	annoy 1
+	3
+wider
+	snare
+	order 128
+	wider 4
+	3
+arson
+	snare
+	arson 1
+	2
+cease
+	snare
+	cease 7
+	2
+sower
+	snare
+	sewer 13
+	sower 1
+	3
+proxy
+	snare
+	grout 106
+	droop 14
+	proxy 2
+	4
+naval
+	snare
+	tangy 62
+	cabin 4
+	fauna 2
+	naval 1
+	5
+vowel
+	snare
+	betel 110
+	dowel 6
+	vowel 1
+	4
+plump
+	snare
+	could 219
+	plumb 4
+	plump 1
+	4
+gazer
+	snare
+	later 56
+	wager 15
+	gamer 3
+	gazer 2
+	5
+scour
+	snare
+	shrub 10
+	scour 1
+	3
+catch
+	snare
+	aptly 136
+	match 6
+	hatch 4
+	batch 3
+	watch 2
+	catch 1
+	7
+pupil
+	snare
+	could 219
+	tulip 5
+	pupil 1
+	4
+cavil
+	snare
+	aptly 136
+	local 12
+	cavil 1
+	4
+verge
+	snare
+	trope 54
+	merge 10
+	verge 1
+	4
+chard
+	snare
+	hoard 16
+	chard 1
+	3
+wimpy
+	snare
+	could 219
+	fight 19
+	wimpy 1
+	4
+emcee
+	snare
+	guile 79
+	theme 8
+	emcee 1
+	4
+shawl
+	snare
+	shalt 29
+	shawl 1
+	3
+swept
+	snare
+	spelt 27
+	swept 1
+	3
+tutor
+	snare
+	grout 106
+	tumor 3
+	tutor 1
+	4
+blare
+	snare
+	glare 4
+	blare 2
+	3
+spite
+	snare
+	spite 24
+	2
+musky
+	snare
+	hoist 50
+	mucus 4
+	musky 1
+	4
+manic
+	snare
+	tangy 62
+	canal 7
+	panic 2
+	manic 1
+	5
+gayer
+	snare
+	later 56
+	wager 15
+	gamer 3
+	gazer 2
+	gayer 1
+	6
+bible
+	snare
+	guile 79
+	title 2
+	bible 1
+	4
+ebony
+	snare
+	widen 47
+	event 6
+	ebony 1
+	4
+amber
+	snare
+	later 56
+	aider 2
+	amber 1
+	4
+frisk
+	snare
+	truss 25
+	prism 4
+	brisk 2
+	frisk 1
+	5
+wacky
+	snare
+	aptly 136
+	bawdy 10
+	wacky 1
+	4
+shaft
+	snare
+	shalt 29
+	shaft 1
+	3
+inter
+	snare
+	inter 5
+	2
+grape
+	snare
+	grace 18
+	graze 5
+	grade 4
+	grape 3
+	5
+judge
+	snare
+	guile 79
+	fudge 4
+	judge 2
+	4
+bleak
+	snare
+	decal 48
+	bleat 4
+	bleak 1
+	4
+fuzzy
+	snare
+	could 219
+	guppy 10
+	mummy 2
+	fuzzy 1
+	5
+nanny
+	snare
+	tangy 62
+	canny 9
+	fanny 2
+	nanny 1
+	5
+rotor
+	snare
+	grout 106
+	worth 8
+	motor 2
+	rotor 1
+	5
+outer
+	snare
+	order 128
+	otter 4
+	outer 1
+	4
+guile
+	snare
+	guile 79
+	2
+digit
+	snare
+	could 219
+	digit 6
+	3
+dunce
+	snare
+	niece 24
+	ounce 2
+	dunce 1
+	4
+rusty
+	snare
+	truss 25
+	rusty 1
+	3
+inane
+	snare
+	inane 2
+	2
+basal
+	snare
+	palsy 20
+	basil 2
+	basal 1
+	4
+greet
+	snare
+	order 128
+	creep 7
+	greet 1
+	4
+bevel
+	snare
+	betel 110
+	bezel 2
+	bevel 1
+	4
+quart
+	snare
+	hoard 16
+	apart 5
+	quart 1
+	4
+shade
+	snare
+	slate 18
+	spade 8
+	shade 1
+	4
+pinch
+	snare
+	count 91
+	winch 4
+	pinch 2
+	4
+exalt
+	snare
+	death 18
+	exact 2
+	exalt 1
+	4
+filly
+	snare
+	could 219
+	willy 5
+	hilly 3
+	filly 2
+	5
+spell
+	snare
+	spelt 27
+	spell 1
+	3
+stair
+	snare
+	stair 1
+	2
+slice
+	snare
+	spite 24
+	slime 5
+	slide 2
+	slice 1
+	5
+smite
+	snare
+	spite 24
+	smite 2
+	3
+agora
+	snare
+	macro 14
+	abort 3
+	agora 1
+	4
+grasp
+	snare
+	brash 8
+	grasp 3
+	3
+cough
+	snare
+	could 219
+	couch 2
+	cough 1
+	4
+lucky
+	snare
+	could 219
+	mulch 3
+	lucky 1
+	4
+heave
+	snare
+	elate 26
+	weave 3
+	heave 1
+	4
+havoc
+	snare
+	aptly 136
+	mamma 17
+	havoc 1
+	4
+uncle
+	snare
+	unite 6
+	uncle 2
+	3
+email
+	snare
+	death 18
+	email 1
+	3
+frost
+	snare
+	truss 25
+	frost 2
+	3
+audit
+	snare
+	aptly 136
+	about 5
+	audit 1
+	4
+bugle
+	snare
+	guile 79
+	bugle 1
+	3
+hinge
+	snare
+	niece 24
+	binge 2
+	hinge 1
+	4
+lunch
+	snare
+	count 91
+	punch 5
+	hunch 4
+	bunch 3
+	lunch 2
+	6
+ghost
+	snare
+	hoist 50
+	ghost 1
+	3
+begun
+	snare
+	widen 47
+	lemon 4
+	begun 1
+	4
+ocean
+	snare
+	glean 20
+	ocean 1
+	3
+truss
+	snare
+	truss 25
+	2
+drill
+	snare
+	grout 106
+	prick 10
+	frill 2
+	drill 1
+	5
+offer
+	snare
+	order 128
+	otter 4
+	offer 1
+	4
+teary
+	snare
+	heart 7
+	teary 1
+	3
+vixen
+	snare
+	widen 47
+	vixen 4
+	3
+alien
+	snare
+	glean 20
+	alien 1
+	3
+crust
+	snare
+	truss 25
+	crust 1
+	3
+chalk
+	snare
+	claim 29
+	chalk 1
+	3
+women
+	snare
+	widen 47
+	women 3
+	3
+began
+	snare
+	glean 20
+	vegan 2
+	began 1
+	4
+boule
+	snare
+	guile 79
+	boule 1
+	3
+drone
+	snare
+	prone 8
+	crone 2
+	drone 1
+	4
+shady
+	snare
+	shalt 29
+	shaky 3
+	shady 1
+	4
+honey
+	snare
+	widen 47
+	boney 5
+	money 2
+	honey 1
+	5
+saner
+	snare
+	saner 1
+	2
+defer
+	snare
+	order 128
+	deter 4
+	defer 1
+	4
+mover
+	snare
+	order 128
+	mower 16
+	mover 1
+	4
+bossy
+	snare
+	hoist 50
+	bossy 3
+	3
+betel
+	snare
+	betel 110
+	2
+cloak
+	snare
+	aptly 136
+	local 12
+	cloak 1
+	4
+chick
+	snare
+	could 219
+	civic 2
+	chick 1
+	4
+nymph
+	snare
+	count 91
+	kinky 7
+	nymph 1
+	4
+repel
+	snare
+	order 128
+	revel 7
+	repel 2
+	4
+safer
+	snare
+	swear 5
+	safer 1
+	3
+poppy
+	snare
+	could 219
+	boozy 14
+	foggy 2
+	poppy 1
+	5
+sever
+	snare
+	sewer 13
+	sever 1
+	3
+mushy
+	snare
+	hoist 50
+	bushy 3
+	pushy 2
+	mushy 1
+	5
+shelf
+	snare
+	spelt 27
+	shelf 4
+	3
+habit
+	snare
+	aptly 136
+	tacit 8
+	habit 1
+	4
+leach
+	snare
+	death 18
+	peach 3
+	leach 2
+	4
+stomp
+	snare
+	spilt 74
+	stoop 3
+	stomp 1
+	4
+rinse
+	snare
+	nurse 2
+	rinse 1
+	3
+given
+	snare
+	widen 47
+	vixen 4
+	given 1
+	4
+parse
+	snare
+	raise 4
+	parse 1
+	3
+irate
+	snare
+	grace 18
+	drake 7
+	brave 3
+	frame 2
+	irate 1
+	6
+plate
+	snare
+	elate 26
+	plate 1
+	3
+windy
+	snare
+	count 91
+	kinky 7
+	windy 2
+	4
+issue
+	snare
+	loose 19
+	issue 1
+	3
+steal
+	snare
+	steak 7
+	stead 3
+	steal 2
+	4
+tibia
+	snare
+	aptly 136
+	tacit 8
+	tibia 1
+	4
+dried
+	snare
+	order 128
+	freed 9
+	tried 4
+	dried 3
+	5
+skier
+	snare
+	sewer 13
+	super 4
+	skier 2
+	4
+tribe
+	snare
+	trope 54
+	trice 4
+	trite 2
+	tribe 1
+	5
+onion
+	snare
+	unlit 16
+	inbox 2
+	onion 1
+	4
+decal
+	snare
+	decal 48
+	2
+fella
+	snare
+	decal 48
+	fella 1
+	3
+aphid
+	snare
+	aptly 136
+	aphid 1
+	3
+eaten
+	snare
+	glean 20
+	taken 5
+	eaten 1
+	4
+parry
+	snare
+	macro 14
+	hairy 5
+	parry 1
+	4
+flask
+	snare
+	chaos 17
+	blast 4
+	flask 1
+	4
+fairy
+	snare
+	macro 14
+	hairy 5
+	fairy 2
+	4
+canal
+	snare
+	tangy 62
+	canal 7
+	3
+spire
+	snare
+	shore 7
+	spire 1
+	3
+wedge
+	snare
+	guile 79
+	hedge 3
+	wedge 1
+	4
+noble
+	snare
+	niece 24
+	nudge 2
+	noble 1
+	4
+sweep
+	snare
+	spelt 27
+	sheep 2
+	sweep 1
+	4
+natal
+	snare
+	tangy 62
+	haunt 8
+	natal 2
+	4
+stump
+	snare
+	spilt 74
+	stoop 3
+	stump 1
+	4
+block
+	snare
+	could 219
+	block 2
+	3
+drove
+	snare
+	trope 54
+	drove 5
+	3
+abuse
+	snare
+	lapse 15
+	amuse 2
+	abuse 1
+	4
+gland
+	snare
+	clank 16
+	bland 3
+	gland 1
+	4
+graph
+	snare
+	craft 28
+	grail 8
+	gravy 2
+	graph 1
+	5
+where
+	snare
+	ombre 5
+	there 2
+	where 1
+	4
+beech
+	snare
+	betel 110
+	beefy 2
+	beech 1
+	4
+doing
+	snare
+	count 91
+	doing 3
+	3
+cacti
+	snare
+	aptly 136
+	tacit 8
+	cacti 1
+	4
+gusto
+	snare
+	hoist 50
+	gusto 1
+	3
+crowd
+	snare
+	grout 106
+	droop 14
+	crowd 1
+	4
+value
+	snare
+	amble 37
+	halve 5
+	value 1
+	4
+finch
+	snare
+	count 91
+	winch 4
+	pinch 2
+	finch 1
+	5
+lupus
+	snare
+	hoist 50
+	mucus 4
+	lupus 1
+	4
+wrist
+	snare
+	truss 25
+	frost 2
+	wrist 1
+	4
+libel
+	snare
+	betel 110
+	libel 1
+	3
+fruit
+	snare
+	grout 106
+	fruit 1
+	3
+handy
+	snare
+	tangy 62
+	canny 9
+	dandy 4
+	handy 1
+	5
+drama
+	snare
+	craft 28
+	grail 8
+	bravo 2
+	drama 1
+	5
+fable
+	snare
+	amble 37
+	cable 3
+	fable 2
+	4
+bliss
+	snare
+	hoist 50
+	bliss 1
+	3
+satyr
+	snare
+	strap 10
+	satyr 1
+	3
+borne
+	snare
+	prone 8
+	borne 1
+	3
+spent
+	snare
+	stein 8
+	scent 2
+	spent 1
+	4
+spore
+	snare
+	shore 7
+	score 4
+	swore 3
+	spore 2
+	5
+quick
+	snare
+	could 219
+	quick 6
+	3
+mossy
+	snare
+	hoist 50
+	bossy 3
+	mossy 1
+	4
+stuff
+	snare
+	spilt 74
+	study 8
+	stuff 2
+	4
+acute
+	snare
+	amble 37
+	awoke 2
+	acute 1
+	4
+brook
+	snare
+	grout 106
+	droop 14
+	broom 3
+	brook 1
+	5
+yield
+	snare
+	betel 110
+	yield 6
+	3
+black
+	snare
+	claim 29
+	flack 2
+	black 1
+	4
+blurt
+	snare
+	glory 23
+	blurb 3
+	blurt 1
+	4
+fancy
+	snare
+	tangy 62
+	canny 9
+	fancy 1
+	4
+above
+	snare
+	amble 37
+	adobe 4
+	above 1
+	4
+humid
+	snare
+	could 219
+	humid 1
+	3
+built
+	snare
+	could 219
+	guilt 7
+	quilt 2
+	built 1
+	5
+climb
+	snare
+	could 219
+	climb 4
+	3
+merit
+	snare
+	order 128
+	remit 14
+	merit 1
+	4
+decor
+	snare
+	order 128
+	decor 1
+	3
+storm
+	snare
+	stork 14
+	story 2
+	storm 1
+	4
+wrong
+	snare
+	grind 35
+	prong 3
+	wrong 1
+	4
+grind
+	snare
+	grind 35
+	2
+niche
+	snare
+	niece 24
+	niche 1
+	3
+knelt
+	snare
+	kneed 14
+	knelt 1
+	3
+flank
+	snare
+	clank 16
+	blank 3
+	plank 2
+	flank 1
+	5
+resin
+	snare
+	risen 2
+	resin 1
+	3
+jumbo
+	snare
+	could 219
+	outgo 7
+	jumbo 1
+	4
+sugar
+	snare
+	strap 10
+	solar 2
+	sugar 1
+	4
+scree
+	snare
+	scree 4
+	2
+proof
+	snare
+	grout 106
+	droop 14
+	proof 1
+	4
+three
+	snare
+	trope 54
+	three 1
+	3
+beret
+	snare
+	order 128
+	revel 7
+	beret 1
+	4
+berth
+	snare
+	order 128
+	remit 14
+	berth 1
+	4
+hydro
+	snare
+	glory 23
+	hydro 1
+	3
+thorn
+	snare
+	churn 3
+	thorn 1
+	3
+shell
+	snare
+	spelt 27
+	shelf 4
+	shell 1
+	4
+ascot
+	snare
+	palsy 20
+	vista 2
+	ascot 1
+	4
+whirl
+	snare
+	glory 23
+	twirl 2
+	whirl 1
+	4
+offal
+	snare
+	aptly 136
+	local 12
+	offal 1
+	4
+billy
+	snare
+	could 219
+	willy 5
+	hilly 3
+	filly 2
+	billy 1
+	6
+delta
+	snare
+	decal 48
+	delta 1
+	3
+husky
+	snare
+	hoist 50
+	husky 2
+	3
+wharf
+	snare
+	hoard 16
+	charm 3
+	wharf 1
+	4
+ficus
+	snare
+	hoist 50
+	wispy 3
+	ficus 1
+	4
+halve
+	snare
+	amble 37
+	halve 5
+	3
+sweet
+	snare
+	spelt 27
+	sweet 2
+	3
+opine
+	snare
+	niece 24
+	whine 4
+	opine 2
+	4
+tuber
+	snare
+	order 128
+	leper 29
+	tiger 9
+	tuber 1
+	5
+bobby
+	snare
+	could 219
+	boozy 14
+	bobby 1
+	4
+toxin
+	snare
+	count 91
+	month 2
+	toxin 1
+	4
+razor
+	snare
+	carol 65
+	favor 5
+	major 3
+	razor 1
+	5
+route
+	snare
+	trope 54
+	forte 2
+	route 1
+	4
+erode
+	snare
+	trope 54
+	drove 5
+	erode 1
+	4
+rearm
+	snare
+	heart 7
+	beard 4
+	pearl 3
+	weary 2
+	rearm 1
+	6
+woven
+	snare
+	widen 47
+	women 3
+	woven 2
+	4
+about
+	snare
+	aptly 136
+	about 5
+	3
+cabby
+	snare
+	aptly 136
+	bawdy 10
+	cabby 1
+	4
+pasta
+	snare
+	palsy 20
+	pasta 1
+	3
+sally
+	snare
+	salsa 18
+	salty 3
+	sally 1
+	4
+bluff
+	snare
+	could 219
+	plumb 4
+	bluff 1
+	4
+scuba
+	snare
+	salsa 18
+	sigma 2
+	scuba 1
+	4
+shook
+	snare
+	spilt 74
+	shock 9
+	shook 1
+	4
+gassy
+	snare
+	palsy 20
+	daisy 2
+	gassy 1
+	4
+shyly
+	snare
+	spilt 74
+	sully 6
+	shyly 1
+	4
+witty
+	snare
+	could 219
+	fight 19
+	bitty 3
+	witty 2
+	5
+lyric
+	snare
+	grout 106
+	birch 2
+	lyric 1
+	4
+white
+	snare
+	guile 79
+	twice 6
+	white 1
+	4
+grove
+	snare
+	trope 54
+	drove 5
+	grove 1
+	4
+sheet
+	snare
+	spelt 27
+	sweet 2
+	sheet 1
+	4
+butch
+	snare
+	could 219
+	quick 6
+	hutch 2
+	butch 1
+	5
+virus
+	snare
+	truss 25
+	virus 1
+	3
+totem
+	snare
+	betel 110
+	totem 2
+	3
+tunic
+	snare
+	count 91
+	tunic 1
+	3
+erect
+	snare
+	order 128
+	erupt 4
+	erect 1
+	4
+theft
+	snare
+	betel 110
+	edict 8
+	theft 1
+	4
+molar
+	snare
+	carol 65
+	molar 2
+	3
+eying
+	snare
+	widen 47
+	eying 4
+	3
+foamy
+	snare
+	claim 29
+	foamy 1
+	3
+agony
+	snare
+	tangy 62
+	agony 1
+	3
+mural
+	snare
+	carol 65
+	rural 3
+	mural 1
+	4
+heath
+	snare
+	death 18
+	heath 1
+	3
+undue
+	snare
+	unite 6
+	uncle 2
+	undue 1
+	4
+snuck
+	snare
+	snuff 6
+	snuck 1
+	3
+belch
+	snare
+	betel 110
+	below 3
+	belly 2
+	belch 1
+	5
+truck
+	snare
+	grout 106
+	truth 4
+	trump 3
+	truck 2
+	5
+snide
+	snare
+	snipe 2
+	snide 1
+	3
+freer
+	snare
+	order 128
+	truer 3
+	freer 2
+	4
+cabal
+	snare
+	aptly 136
+	local 12
+	cabal 1
+	4
+jetty
+	snare
+	betel 110
+	fetid 5
+	petty 2
+	jetty 1
+	5
+reedy
+	snare
+	order 128
+	reedy 2
+	3
+quirk
+	snare
+	glory 23
+	chirp 3
+	quirk 1
+	4
+roomy
+	snare
+	grout 106
+	floor 3
+	roomy 1
+	4
+madam
+	snare
+	aptly 136
+	mamma 17
+	madam 1
+	4
+blink
+	snare
+	count 91
+	dying 8
+	blink 1
+	4
+armor
+	snare
+	carol 65
+	ardor 4
+	arbor 2
+	armor 1
+	5
+strip
+	snare
+	shrub 10
+	strip 2
+	3
+kayak
+	snare
+	aptly 136
+	kayak 2
+	3
+felon
+	snare
+	widen 47
+	lemon 4
+	felon 1
+	4
+dingo
+	snare
+	count 91
+	blown 6
+	dingo 1
+	4
+thief
+	snare
+	betel 110
+	duvet 5
+	thief 1
+	4
+drawl
+	snare
+	craft 28
+	grail 8
+	brawl 2
+	drawl 1
+	5
+rerun
+	snare
+	diner 19
+	rerun 2
+	3
+untie
+	snare
+	unite 6
+	untie 1
+	3
+chose
+	snare
+	loose 19
+	whose 3
+	those 2
+	chose 1
+	5
+grown
+	snare
+	grind 35
+	grown 1
+	3
+canoe
+	snare
+	lance 7
+	canoe 1
+	3
+false
+	snare
+	lapse 15
+	false 1
+	3
+meter
+	snare
+	order 128
+	leper 29
+	fever 3
+	meter 1
+	5
+hound
+	snare
+	count 91
+	wound 7
+	pound 5
+	mound 4
+	found 3
+	hound 2
+	7
+snuff
+	snare
+	snuff 6
+	2
+fluke
+	snare
+	guile 79
+	flume 5
+	flute 2
+	fluke 1
+	5
+snort
+	snare
+	snort 1
+	2
+ramen
+	snare
+	raven 4
+	ramen 1
+	3
+stood
+	snare
+	spilt 74
+	study 8
+	stood 1
+	4
+thank
+	snare
+	clank 16
+	thank 1
+	3
+smear
+	snare
+	swear 5
+	shear 3
+	spear 2
+	smear 1
+	5
+mimic
+	snare
+	could 219
+	pitch 8
+	mimic 1
+	4
+sneer
+	snare
+	sneer 1
+	2
+third
+	snare
+	glory 23
+	third 3
+	3
+limit
+	snare
+	could 219
+	light 10
+	limit 1
+	4
+cheat
+	snare
+	decal 48
+	cheap 2
+	cheat 1
+	4
+rider
+	snare
+	order 128
+	rider 2
+	3
+leash
+	snare
+	beast 5
+	leash 1
+	3
+shiny
+	snare
+	sting 27
+	spiny 3
+	shiny 1
+	4
+melon
+	snare
+	widen 47
+	lemon 4
+	melon 1
+	4
+might
+	snare
+	could 219
+	fight 19
+	tight 3
+	wight 2
+	might 1
+	6
+wreak
+	snare
+	later 56
+	break 11
+	freak 3
+	creak 2
+	wreak 1
+	6
+bigot
+	snare
+	could 219
+	whoop 5
+	bigot 1
+	4
+motto
+	snare
+	could 219
+	boozy 14
+	motto 1
+	4
+craze
+	snare
+	grace 18
+	craze 3
+	3
+buyer
+	snare
+	order 128
+	leper 29
+	tiger 9
+	cyber 2
+	buyer 1
+	6
+pouch
+	snare
+	could 219
+	vouch 3
+	pouch 2
+	4
+scoop
+	snare
+	spilt 74
+	swoop 2
+	scoop 1
+	4
+zebra
+	snare
+	alert 6
+	zebra 1
+	3
+rebel
+	snare
+	order 128
+	revel 7
+	repel 2
+	rebel 1
+	5
+cello
+	snare
+	betel 110
+	cello 6
+	3
+blend
+	snare
+	widen 47
+	needy 2
+	blend 1
+	4
+jiffy
+	snare
+	could 219
+	fight 19
+	jiffy 1
+	4
+radio
+	snare
+	carol 65
+	ratio 2
+	radio 1
+	4
+order
+	snare
+	order 128
+	2
+patio
+	snare
+	aptly 136
+	patch 2
+	patio 1
+	4
+sprig
+	snare
+	shrub 10
+	strip 2
+	sprig 1
+	4
+waive
+	snare
+	amble 37
+	vague 8
+	waive 1
+	4
+abode
+	snare
+	amble 37
+	adobe 4
+	abode 1
+	4
+blown
+	snare
+	count 91
+	blown 6
+	3
+speck
+	snare
+	spelt 27
+	speed 2
+	speck 1
+	4
+abate
+	snare
+	elate 26
+	agate 3
+	abate 1
+	4
+dopey
+	snare
+	betel 110
+	video 7
+	dopey 1
+	4
+gloom
+	snare
+	could 219
+	igloo 5
+	gloom 1
+	4
+crude
+	snare
+	trope 54
+	bride 7
+	crude 1
+	4
+steam
+	snare
+	steak 7
+	stead 3
+	steal 2
+	steam 1
+	5
+melee
+	snare
+	guile 79
+	delve 5
+	melee 1
+	4
+cross
+	snare
+	truss 25
+	dross 3
+	gross 2
+	cross 1
+	5
+opium
+	snare
+	could 219
+	outgo 7
+	opium 1
+	4
+minty
+	snare
+	count 91
+	minty 2
+	3
+anode
+	snare
+	angle 4
+	anime 2
+	anode 1
+	4
+whale
+	snare
+	elate 26
+	whale 1
+	3
+fetch
+	snare
+	betel 110
+	fetid 5
+	fetch 1
+	4
+grass
+	snare
+	brash 8
+	grasp 3
+	grass 1
+	4
+smote
+	snare
+	spite 24
+	smote 1
+	3
+vague
+	snare
+	amble 37
+	vague 8
+	3
+imbue
+	snare
+	guile 79
+	pique 2
+	imbue 1
+	4
+queer
+	snare
+	order 128
+	leper 29
+	cheer 4
+	queer 1
+	5
+devil
+	snare
+	betel 110
+	devil 1
+	3
+diary
+	snare
+	hoard 16
+	dwarf 2
+	diary 1
+	4
+filer
+	snare
+	order 128
+	leper 29
+	flyer 5
+	filer 1
+	5
+downy
+	snare
+	count 91
+	doing 3
+	downy 1
+	4
+thump
+	snare
+	could 219
+	thumb 2
+	thump 1
+	4
+going
+	snare
+	count 91
+	doing 3
+	going 1
+	4
+blond
+	snare
+	count 91
+	phony 3
+	blond 1
+	4
+moody
+	snare
+	could 219
+	dowdy 7
+	goody 2
+	moody 1
+	5
+dally
+	snare
+	aptly 136
+	daily 6
+	dally 1
+	4
+rajah
+	snare
+	carol 65
+	rapid 8
+	rajah 2
+	4
+maker
+	snare
+	later 56
+	wager 15
+	parer 8
+	baker 2
+	maker 1
+	6
+snake
+	snare
+	snake 1
+	2
+clear
+	snare
+	later 56
+	clear 1
+	3
+slept
+	snare
+	spelt 27
+	slept 1
+	3
+cacao
+	snare
+	aptly 136
+	mamma 17
+	cacao 1
+	4
+wench
+	snare
+	widen 47
+	wench 1
+	3
+grate
+	snare
+	grace 18
+	graze 5
+	grade 4
+	grape 3
+	grate 2
+	6
+flume
+	snare
+	guile 79
+	flume 5
+	3
+dairy
+	snare
+	macro 14
+	hairy 5
+	fairy 2
+	dairy 1
+	5
+limbo
+	snare
+	could 219
+	igloo 5
+	limbo 1
+	4
+flown
+	snare
+	count 91
+	blown 6
+	flown 1
+	4
+crook
+	snare
+	grout 106
+	droop 14
+	broom 3
+	crook 1
+	5
+unfit
+	snare
+	unlit 16
+	unfit 1
+	3
+tonal
+	snare
+	tangy 62
+	tonal 1
+	3
+stand
+	snare
+	slant 10
+	stank 2
+	stand 1
+	4
+guppy
+	snare
+	could 219
+	guppy 10
+	3
+boast
+	snare
+	chaos 17
+	toast 2
+	boast 1
+	4
+budge
+	snare
+	guile 79
+	fudge 4
+	judge 2
+	budge 1
+	5
+fewer
+	snare
+	order 128
+	leper 29
+	fever 3
+	fewer 1
+	5
+bleed
+	snare
+	betel 110
+	bleep 2
+	bleed 1
+	4
+shard
+	snare
+	stark 10
+	sharp 5
+	shard 1
+	4
+spree
+	snare
+	spree 4
+	2
+peace
+	snare
+	elate 26
+	weave 3
+	peace 1
+	4
+skull
+	snare
+	spilt 74
+	sully 6
+	skull 1
+	4
+taker
+	snare
+	later 56
+	taper 3
+	tamer 2
+	taker 1
+	5
+vigor
+	snare
+	grout 106
+	rigor 3
+	vigor 1
+	4
+entry
+	snare
+	inert 2
+	entry 1
+	3
+lymph
+	snare
+	could 219
+	light 10
+	lymph 1
+	4
+motif
+	snare
+	could 219
+	boozy 14
+	vomit 2
+	motif 1
+	5
+south
+	snare
+	spilt 74
+	study 8
+	south 1
+	4
+ashen
+	snare
+	ashen 1
+	2
+crave
+	snare
+	grace 18
+	craze 3
+	crave 2
+	4
+harem
+	snare
+	later 56
+	harem 1
+	3
+crack
+	snare
+	craft 28
+	cramp 4
+	crazy 3
+	crack 2
+	5
+kneel
+	snare
+	kneed 14
+	kneel 1
+	3
+tardy
+	snare
+	carol 65
+	party 7
+	tardy 1
+	4
+broke
+	snare
+	trope 54
+	drove 5
+	broke 2
+	4
+guise
+	snare
+	loose 19
+	geese 3
+	guise 1
+	4
+chart
+	snare
+	hoard 16
+	charm 3
+	chart 1
+	4
+vocal
+	snare
+	aptly 136
+	local 12
+	vocal 2
+	4
+bloom
+	snare
+	could 219
+	igloo 5
+	bloom 1
+	4
+lanky
+	snare
+	tangy 62
+	canny 9
+	dandy 4
+	manly 2
+	lanky 1
+	6
+growl
+	snare
+	grout 106
+	growl 2
+	3
+skunk
+	snare
+	sting 27
+	slunk 5
+	spunk 2
+	skunk 1
+	5
+coupe
+	snare
+	guile 79
+	etude 4
+	coupe 1
+	4
+crush
+	snare
+	truss 25
+	brush 2
+	crush 1
+	4
+smile
+	snare
+	spite 24
+	slime 5
+	smile 1
+	4
+slate
+	snare
+	slate 18
+	2
+witch
+	snare
+	could 219
+	pitch 8
+	hitch 2
+	witch 1
+	5
+usurp
+	snare
+	usurp 1
+	2
+reply
+	snare
+	order 128
+	remit 14
+	reply 1
+	4
+cache
+	snare
+	amble 37
+	vague 8
+	payee 2
+	cache 1
+	5
+blood
+	snare
+	could 219
+	flood 2
+	blood 1
+	4
+bayou
+	snare
+	aptly 136
+	kayak 2
+	bayou 1
+	4
+ozone
+	snare
+	niece 24
+	phone 3
+	ozone 1
+	4
+trove
+	snare
+	trope 54
+	trove 1
+	3
+prowl
+	snare
+	grout 106
+	droop 14
+	proxy 2
+	prowl 1
+	5
+fishy
+	snare
+	hoist 50
+	fishy 1
+	3
+pride
+	snare
+	trope 54
+	price 5
+	prize 3
+	prime 2
+	pride 1
+	6
+build
+	snare
+	could 219
+	guild 2
+	build 1
+	4
+annex
+	snare
+	enema 4
+	annex 2
+	3
+crump
+	snare
+	grout 106
+	crumb 3
+	crump 1
+	4
+belle
+	snare
+	guile 79
+	cycle 3
+	whole 2
+	belle 1
+	5
+equal
+	snare
+	decal 48
+	equal 1
+	3
+palsy
+	snare
+	palsy 20
+	2
+green
+	snare
+	diner 19
+	green 2
+	3
+whack
+	snare
+	claim 29
+	quack 3
+	whack 2
+	4
+ulcer
+	snare
+	order 128
+	leper 29
+	flyer 5
+	bluer 2
+	ulcer 1
+	6
+gulch
+	snare
+	could 219
+	mulch 3
+	gulch 1
+	4
+baste
+	snare
+	lapse 15
+	caste 5
+	baste 4
+	4
+lousy
+	snare
+	hoist 50
+	bossy 3
+	lousy 1
+	4
+clash
+	snare
+	chaos 17
+	clash 1
+	3
+grave
+	snare
+	grace 18
+	graze 5
+	grade 4
+	grape 3
+	grate 2
+	grave 1
+	7
+bawdy
+	snare
+	aptly 136
+	bawdy 10
+	3
+rabbi
+	snare
+	carol 65
+	rapid 8
+	rabbi 1
+	4
+aping
+	snare
+	tangy 62
+	aging 4
+	aping 1
+	4
+voter
+	snare
+	order 128
+	mower 16
+	lover 8
+	voter 1
+	5
+teddy
+	snare
+	betel 110
+	depth 7
+	teddy 1
+	4
+tasty
+	snare
+	palsy 20
+	tasty 2
+	3
+twixt
+	snare
+	could 219
+	fight 19
+	twixt 1
+	4
+salon
+	snare
+	satin 5
+	salon 1
+	3
+worth
+	snare
+	grout 106
+	worth 8
+	3
+twine
+	snare
+	niece 24
+	whine 4
+	twine 1
+	4
+paint
+	snare
+	tangy 62
+	haunt 8
+	faint 2
+	paint 1
+	5
+payer
+	snare
+	later 56
+	wager 15
+	parer 8
+	paper 2
+	payer 1
+	6
+quote
+	snare
+	guile 79
+	butte 3
+	quote 1
+	4
+wagon
+	snare
+	tangy 62
+	pagan 2
+	wagon 1
+	4
+knave
+	snare
+	inane 2
+	knave 1
+	3
+medic
+	snare
+	betel 110
+	gecko 4
+	medic 1
+	4
+shown
+	snare
+	sting 27
+	swoon 4
+	shown 1
+	4
+close
+	snare
+	loose 19
+	close 1
+	3
+older
+	snare
+	order 128
+	odder 2
+	older 1
+	4
+spoof
+	snare
+	spilt 74
+	spoof 2
+	3
+abhor
+	snare
+	carol 65
+	ardor 4
+	abhor 1
+	4
+smell
+	snare
+	spelt 27
+	shelf 4
+	smell 2
+	4
+blame
+	snare
+	elate 26
+	blade 8
+	blaze 2
+	blame 1
+	5
+dodge
+	snare
+	guile 79
+	hedge 3
+	dodge 1
+	4
+rhyme
+	snare
+	trope 54
+	merge 10
+	rhyme 1
+	4
+grief
+	snare
+	order 128
+	creep 7
+	brief 3
+	grief 1
+	5
+tonga
+	snare
+	tangy 62
+	tonga 1
+	3
+angel
+	snare
+	enema 4
+	annex 2
+	angel 1
+	4
+clamp
+	snare
+	claim 29
+	clamp 1
+	3
+straw
+	snare
+	strap 10
+	stray 2
+	straw 1
+	4
+flora
+	snare
+	macro 14
+	abort 3
+	flora 1
+	4
+balmy
+	snare
+	aptly 136
+	balmy 1
+	3
+stock
+	snare
+	spilt 74
+	study 8
+	stock 1
+	4
+aback
+	snare
+	claim 29
+	quack 3
+	whack 2
+	aback 1
+	5
+lithe
+	snare
+	guile 79
+	belie 3
+	lithe 1
+	4
+privy
+	snare
+	grout 106
+	prick 10
+	privy 1
+	4
+pulpy
+	snare
+	could 219
+	tulip 5
+	pulpy 1
+	4
+tilde
+	snare
+	guile 79
+	belie 3
+	tilde 1
+	4
+beget
+	snare
+	betel 110
+	beget 1
+	3
+arrow
+	snare
+	carol 65
+	arrow 1
+	3
+locus
+	snare
+	hoist 50
+	locus 3
+	3
+admin
+	snare
+	tangy 62
+	nomad 7
+	admin 1
+	4
+phone
+	snare
+	niece 24
+	ozone 3
+	phone 1
+	4
+aloud
+	snare
+	aptly 136
+	aloud 9
+	3
+penal
+	snare
+	glean 20
+	penal 1
+	3
+curry
+	snare
+	glory 23
+	curry 3
+	3
+guava
+	snare
+	claim 29
+	adapt 2
+	guava 1
+	4
+hobby
+	snare
+	could 219
+	boozy 14
+	hobby 1
+	4
+crass
+	snare
+	brash 8
+	grasp 3
+	crass 1
+	4
+mirth
+	snare
+	grout 106
+	birth 3
+	mirth 1
+	4
+tiara
+	snare
+	hoard 16
+	apart 5
+	tiara 1
+	4
+cutie
+	snare
+	guile 79
+	cutie 1
+	3
+baton
+	snare
+	tangy 62
+	haunt 8
+	natal 2
+	baton 1
+	5
+scald
+	snare
+	shalt 29
+	scaly 4
+	scalp 2
+	scald 1
+	5
+gruff
+	snare
+	grout 106
+	gruff 1
+	3
+demon
+	snare
+	widen 47
+	demon 1
+	3
+ethic
+	snare
+	betel 110
+	edict 8
+	ethic 1
+	4
+verse
+	snare
+	rouse 9
+	terse 2
+	verse 1
+	4
+newly
+	snare
+	widen 47
+	newly 1
+	3
+scrub
+	snare
+	shrub 10
+	scrub 1
+	3
+excel
+	snare
+	betel 110
+	expel 3
+	excel 1
+	4
+crier
+	snare
+	order 128
+	truer 3
+	freer 2
+	crier 1
+	5
+alpha
+	snare
+	aptly 136
+	alpha 1
+	3
+award
+	snare
+	hoard 16
+	guard 2
+	award 1
+	4
+hello
+	snare
+	betel 110
+	cello 6
+	hello 1
+	4
+ranch
+	snare
+	rayon 12
+	ranch 1
+	3
+chasm
+	snare
+	chaos 17
+	chasm 1
+	3
+spook
+	snare
+	spilt 74
+	spoof 2
+	spook 1
+	4
+ghoul
+	snare
+	could 219
+	flout 2
+	ghoul 1
+	4
+stork
+	snare
+	stork 14
+	2
+infer
+	snare
+	inter 5
+	inner 2
+	infer 1
+	4
+livid
+	snare
+	could 219
+	lipid 2
+	livid 1
+	4
+brace
+	snare
+	grace 18
+	trace 2
+	brace 1
+	4
+snowy
+	snare
+	snuff 6
+	snoop 2
+	snowy 1
+	4
+linen
+	snare
+	widen 47
+	vixen 4
+	linen 2
+	4
+sauce
+	snare
+	saute 3
+	sauce 1
+	3
+plunk
+	snare
+	count 91
+	flung 3
+	plunk 1
+	4
+ledge
+	snare
+	guile 79
+	lodge 2
+	ledge 1
+	4
+torch
+	snare
+	grout 106
+	worth 8
+	torch 1
+	4
+rival
+	snare
+	carol 65
+	rival 2
+	3
+lobby
+	snare
+	could 219
+	folio 5
+	lobby 1
+	4
+pivot
+	snare
+	could 219
+	whoop 5
+	pivot 1
+	4
+troll
+	snare
+	grout 106
+	troop 4
+	troll 1
+	4
+chump
+	snare
+	could 219
+	chuck 2
+	chump 1
+	4
+froze
+	snare
+	trope 54
+	drove 5
+	broke 2
+	froze 1
+	5
+spiel
+	snare
+	spelt 27
+	spiel 1
+	3
+loyal
+	snare
+	aptly 136
+	bylaw 2
+	loyal 1
+	4
+flare
+	snare
+	glare 4
+	blare 2
+	flare 1
+	4
+enjoy
+	snare
+	kneed 14
+	envoy 3
+	enjoy 1
+	4
+baggy
+	snare
+	aptly 136
+	bawdy 10
+	baggy 1
+	4
+visor
+	snare
+	truss 25
+	risky 2
+	visor 1
+	4
+cliff
+	snare
+	could 219
+	climb 4
+	cliff 2
+	4
+lever
+	snare
+	order 128
+	leper 29
+	lever 1
+	4
+joint
+	snare
+	count 91
+	point 2
+	joint 1
+	4
+elate
+	snare
+	elate 26
+	2
+drunk
+	snare
+	grind 35
+	drunk 1
+	3
+heavy
+	snare
+	death 18
+	heavy 1
+	3
+afire
+	snare
+	azure 3
+	adore 2
+	afire 1
+	4
+carry
+	snare
+	macro 14
+	carry 1
+	3
+scram
+	snare
+	strap 10
+	scram 1
+	3
+trial
+	snare
+	carol 65
+	rival 2
+	trial 1
+	4
+hover
+	snare
+	order 128
+	mower 16
+	lover 8
+	cover 2
+	hover 1
+	6
+afoul
+	snare
+	aptly 136
+	aloud 9
+	afoul 1
+	4
+filmy
+	snare
+	could 219
+	light 10
+	milky 2
+	filmy 1
+	5
+shame
+	snare
+	slate 18
+	spade 8
+	shake 4
+	shave 2
+	shame 1
+	6
+liege
+	snare
+	guile 79
+	bilge 2
+	liege 1
+	4
+horny
+	snare
+	grind 35
+	horny 3
+	3
+ideal
+	snare
+	decal 48
+	ideal 1
+	3
+sheik
+	snare
+	spelt 27
+	sheik 2
+	3
+polyp
+	snare
+	could 219
+	folio 5
+	polyp 1
+	4
+curio
+	snare
+	grout 106
+	juror 5
+	curio 1
+	4
+derby
+	snare
+	order 128
+	reedy 2
+	derby 1
+	4
+eclat
+	snare
+	decal 48
+	cleat 2
+	eclat 1
+	4
+octet
+	snare
+	betel 110
+	totem 2
+	octet 1
+	4
+table
+	snare
+	amble 37
+	cable 3
+	fable 2
+	table 1
+	5
+float
+	snare
+	aptly 136
+	tubal 6
+	gloat 2
+	float 1
+	5
+morph
+	snare
+	grout 106
+	world 7
+	porch 2
+	morph 1
+	5
+recut
+	snare
+	order 128
+	remit 14
+	rebut 2
+	recut 1
+	5
+taste
+	snare
+	lapse 15
+	caste 5
+	waste 4
+	baste 3
+	taste 2
+	6
+skill
+	snare
+	spilt 74
+	swill 2
+	skill 1
+	4
+stone
+	snare
+	scone 10
+	shone 2
+	stone 1
+	4
+widow
+	snare
+	could 219
+	idiom 4
+	widow 1
+	4
+kitty
+	snare
+	could 219
+	fight 19
+	bitty 3
+	witty 2
+	kitty 1
+	6
+sleek
+	snare
+	spelt 27
+	sleek 1
+	3
+sneak
+	snare
+	sneak 1
+	2
+briar
+	snare
+	carol 65
+	friar 5
+	briar 1
+	4
+serve
+	snare
+	scree 4
+	serve 1
+	3
+wield
+	snare
+	betel 110
+	yield 6
+	wield 2
+	4
+juicy
+	snare
+	could 219
+	butch 6
+	quick 2
+	juicy 1
+	5
+ridge
+	snare
+	trope 54
+	merge 10
+	ridge 1
+	4
+borax
+	snare
+	carol 65
+	foray 3
+	borax 1
+	4
+daddy
+	snare
+	aptly 136
+	bawdy 10
+	caddy 3
+	daddy 1
+	5
+click
+	snare
+	could 219
+	climb 4
+	cliff 2
+	click 1
+	5
+rover
+	snare
+	order 128
+	roger 4
+	rower 2
+	rover 1
+	5
+choir
+	snare
+	grout 106
+	floor 3
+	choir 1
+	4
+front
+	snare
+	grind 35
+	trunk 4
+	front 1
+	4
+blind
+	snare
+	count 91
+	dying 8
+	blind 1
+	4
+grout
+	snare
+	grout 106
+	2
+urine
+	snare
+	prone 8
+	brine 2
+	urine 1
+	4
+these
+	snare
+	loose 19
+	geese 3
+	these 1
+	4
+spend
+	snare
+	stein 8
+	spend 1
+	3
+lower
+	snare
+	order 128
+	mower 16
+	power 4
+	tower 3
+	lower 2
+	6
+hasty
+	snare
+	palsy 20
+	tasty 2
+	hasty 1
+	4
+sheer
+	snare
+	sewer 13
+	steer 2
+	sheer 1
+	4
+ninth
+	snare
+	count 91
+	minty 2
+	ninth 1
+	4
+buxom
+	snare
+	could 219
+	outgo 7
+	buxom 1
+	4
+hippy
+	snare
+	could 219
+	fight 19
+	hippy 1
+	4
+furry
+	snare
+	glory 23
+	curry 3
+	furry 2
+	4
+attic
+	snare
+	aptly 136
+	attic 1
+	3
+index
+	snare
+	kneed 14
+	index 1
+	3
+piney
+	snare
+	widen 47
+	piney 1
+	3
+optic
+	snare
+	could 219
+	optic 1
+	3
+daily
+	snare
+	aptly 136
+	daily 6
+	3
+vital
+	snare
+	aptly 136
+	latch 5
+	total 2
+	vital 1
+	5
+visit
+	snare
+	hoist 50
+	visit 1
+	3
+cider
+	snare
+	order 128
+	wider 4
+	cider 1
+	4
+liken
+	snare
+	widen 47
+	vixen 4
+	linen 2
+	liken 1
+	5
+scorn
+	snare
+	shorn 4
+	sworn 2
+	scorn 1
+	4
+throw
+	snare
+	grout 106
+	worth 8
+	throw 1
+	4
+ditty
+	snare
+	could 219
+	digit 6
+	ditty 1
+	4
+bongo
+	snare
+	count 91
+	login 3
+	bongo 1
+	4
+stink
+	snare
+	sting 27
+	stint 2
+	stink 1
+	4
+sport
+	snare
+	stork 14
+	sport 2
+	3
+major
+	snare
+	carol 65
+	favor 5
+	major 3
+	4
+stack
+	snare
+	shalt 29
+	staid 4
+	staff 3
+	stamp 2
+	stack 1
+	6
+corny
+	snare
+	grind 35
+	horny 3
+	corny 1
+	4
+fugue
+	snare
+	guile 79
+	fudge 4
+	fugue 1
+	4
+woken
+	snare
+	widen 47
+	women 3
+	woven 2
+	woken 1
+	5
+algae
+	snare
+	amble 37
+	alive 3
+	algae 1
+	4
+riper
+	snare
+	order 128
+	river 5
+	riper 1
+	4
+ahead
+	snare
+	decal 48
+	ahead 1
+	3
+utile
+	snare
+	guile 79
+	utile 1
+	3
+wordy
+	snare
+	grout 106
+	world 7
+	wordy 1
+	4
+purer
+	snare
+	order 128
+	river 5
+	purer 1
+	4
+prior
+	snare
+	grout 106
+	primo 2
+	prior 1
+	4
+slave
+	snare
+	slate 18
+	slave 1
+	3
+brink
+	snare
+	grind 35
+	briny 3
+	brink 1
+	4
+hurry
+	snare
+	glory 23
+	curry 3
+	furry 2
+	hurry 1
+	5
+amass
+	snare
+	chaos 17
+	glass 2
+	amass 1
+	4
+slang
+	snare
+	slant 10
+	slang 1
+	3
+quota
+	snare
+	aptly 136
+	tacit 8
+	quota 1
+	4
+edict
+	snare
+	betel 110
+	edict 8
+	3
+evict
+	snare
+	betel 110
+	edict 8
+	evict 1
+	4
+froth
+	snare
+	grout 106
+	troop 4
+	broth 2
+	froth 1
+	5
+decoy
+	snare
+	betel 110
+	gecko 4
+	decoy 1
+	4
+puree
+	snare
+	trope 54
+	purge 3
+	puree 1
+	4
+dilly
+	snare
+	could 219
+	dimly 3
+	dilly 1
+	4
+denim
+	snare
+	widen 47
+	denim 1
+	3
+poise
+	snare
+	loose 19
+	posse 5
+	poise 1
+	4
+theta
+	snare
+	decal 48
+	matey 4
+	theta 1
+	4
+solve
+	snare
+	spite 24
+	shove 4
+	solve 1
+	4
+music
+	snare
+	hoist 50
+	wispy 3
+	music 1
+	4
+quill
+	snare
+	could 219
+	guilt 7
+	quill 1
+	4
+other
+	snare
+	order 128
+	otter 4
+	other 1
+	4
+scion
+	snare
+	sting 27
+	scion 1
+	3
+chase
+	snare
+	cease 7
+	chase 1
+	3
+spelt
+	snare
+	spelt 27
+	2
+booty
+	snare
+	could 219
+	boozy 14
+	booby 2
+	booty 1
+	5
+booth
+	snare
+	could 219
+	boozy 14
+	booth 1
+	4
+caput
+	snare
+	aptly 136
+	topaz 2
+	caput 1
+	4
+rugby
+	snare
+	grout 106
+	rugby 1
+	3
+cairn
+	snare
+	acorn 3
+	cairn 1
+	3
+cloth
+	snare
+	could 219
+	clock 2
+	cloth 1
+	4
+dusty
+	snare
+	hoist 50
+	musty 4
+	lusty 3
+	gusty 2
+	dusty 1
+	6
+cagey
+	snare
+	decal 48
+	cameo 2
+	cagey 1
+	4
+mafia
+	snare
+	aptly 136
+	mamma 17
+	mafia 1
+	4
+setup
+	snare
+	spelt 27
+	setup 1
+	3
+triad
+	snare
+	carol 65
+	friar 5
+	triad 1
+	4
+jolly
+	snare
+	could 219
+	holly 7
+	folly 3
+	golly 2
+	jolly 1
+	6
+thick
+	snare
+	could 219
+	pitch 8
+	thick 1
+	4
+farce
+	snare
+	barge 6
+	carve 2
+	farce 1
+	4
+junta
+	snare
+	tangy 62
+	junta 1
+	3
+berry
+	snare
+	ferry 15
+	merry 2
+	berry 1
+	4
+corer
+	snare
+	order 128
+	roger 4
+	corer 1
+	4
+olden
+	snare
+	widen 47
+	olden 1
+	3
+sober
+	snare
+	sewer 13
+	super 4
+	skier 2
+	sober 1
+	5
+touch
+	snare
+	could 219
+	vouch 3
+	pouch 2
+	touch 1
+	5
+crypt
+	snare
+	grout 106
+	drift 2
+	crypt 1
+	4
+yeast
+	snare
+	beast 5
+	yeast 3
+	3
+truce
+	snare
+	trope 54
+	trice 4
+	truce 1
+	4
+cedar
+	snare
+	later 56
+	debar 3
+	cedar 1
+	4
+tryst
+	snare
+	truss 25
+	tryst 1
+	3
+penny
+	snare
+	widen 47
+	event 6
+	penny 1
+	4
+slink
+	snare
+	sting 27
+	spiny 3
+	slink 1
+	4
+smelt
+	snare
+	spelt 27
+	smelt 1
+	3
+sleep
+	snare
+	spelt 27
+	sleep 1
+	3
+slain
+	snare
+	slant 10
+	slain 1
+	3
+wrest
+	snare
+	reset 16
+	crest 2
+	wrest 1
+	4
+adorn
+	snare
+	acorn 3
+	adorn 1
+	3
+badge
+	snare
+	amble 37
+	bathe 2
+	badge 1
+	4
+karma
+	snare
+	carol 65
+	party 7
+	karma 1
+	4
+court
+	snare
+	glory 23
+	micro 2
+	court 1
+	4
+moose
+	snare
+	loose 19
+	goose 2
+	moose 1
+	4
+chill
+	snare
+	could 219
+	chili 2
+	chill 1
+	4
+rocky
+	snare
+	grout 106
+	world 7
+	rocky 1
+	4
+aglow
+	snare
+	aptly 136
+	aloud 9
+	aglow 1
+	4
+befit
+	snare
+	betel 110
+	befit 1
+	3
+khaki
+	snare
+	claim 29
+	khaki 1
+	3
+sulky
+	snare
+	spilt 74
+	slosh 4
+	sulky 1
+	4
+haste
+	snare
+	lapse 15
+	caste 5
+	waste 4
+	baste 3
+	taste 2
+	haste 1
+	7
+width
+	snare
+	could 219
+	digit 6
+	width 1
+	4
+worse
+	snare
+	rouse 9
+	horse 2
+	worse 1
+	4
+short
+	snare
+	stork 14
+	sport 2
+	short 1
+	4
+nicer
+	snare
+	diner 19
+	nicer 1
+	3
+those
+	snare
+	loose 19
+	whose 3
+	chose 2
+	those 1
+	5
+knoll
+	snare
+	unlit 16
+	knoll 1
+	3
+crate
+	snare
+	grace 18
+	craze 3
+	crave 2
+	crate 1
+	5
+cower
+	snare
+	order 128
+	mower 16
+	power 4
+	tower 3
+	lower 2
+	cower 1
+	7
+clang
+	snare
+	clank 16
+	clang 1
+	3
+venue
+	snare
+	niece 24
+	penne 2
+	venue 1
+	4
+wheel
+	snare
+	betel 110
+	expel 3
+	wheel 1
+	4
+focal
+	snare
+	aptly 136
+	local 12
+	vocal 2
+	focal 1
+	5
+album
+	snare
+	aptly 136
+	aloud 9
+	album 1
+	4
+inlet
+	snare
+	kneed 14
+	unmet 2
+	inlet 1
+	4
+overt
+	snare
+	ferry 15
+	exert 3
+	overt 1
+	4
+labor
+	snare
+	carol 65
+	valor 2
+	labor 1
+	4
+hazel
+	snare
+	decal 48
+	bagel 5
+	lapel 2
+	hazel 1
+	5
+pause
+	snare
+	lapse 15
+	pause 1
+	3
+groom
+	snare
+	grout 106
+	growl 2
+	groom 1
+	4
+humus
+	snare
+	hoist 50
+	husky 2
+	humus 1
+	4
+hyper
+	snare
+	order 128
+	leper 29
+	piper 4
+	hyper 1
+	5
+quoth
+	snare
+	could 219
+	outgo 7
+	quoth 1
+	4
+heron
+	snare
+	diner 19
+	rerun 2
+	heron 1
+	4
+facet
+	snare
+	decal 48
+	facet 1
+	3
+swish
+	snare
+	spilt 74
+	skiff 2
+	swish 1
+	4
+bound
+	snare
+	count 91
+	wound 7
+	pound 5
+	mound 4
+	found 3
+	hound 2
+	bound 1
+	8
+suite
+	snare
+	spite 24
+	smite 2
+	suite 1
+	4
+leafy
+	snare
+	death 18
+	leaky 3
+	leafy 1
+	4
+seedy
+	snare
+	spelt 27
+	sheik 2
+	seedy 1
+	4
+stuck
+	snare
+	spilt 74
+	study 8
+	stuff 2
+	stuck 1
+	5
+clove
+	snare
+	guile 79
+	delve 5
+	clove 1
+	4
+wooer
+	snare
+	order 128
+	mower 16
+	wooer 1
+	4
+golem
+	snare
+	betel 110
+	clued 3
+	golem 1
+	4
+prick
+	snare
+	grout 106
+	prick 10
+	3
+ladle
+	snare
+	amble 37
+	eagle 2
+	ladle 1
+	4
+field
+	snare
+	betel 110
+	yield 6
+	wield 2
+	field 1
+	5
+gnash
+	snare
+	gnash 1
+	2
+agree
+	snare
+	barge 6
+	agree 1
+	3
+recur
+	snare
+	order 128
+	recur 1
+	3
+savvy
+	snare
+	salsa 18
+	savoy 4
+	savvy 1
+	4
+tango
+	snare
+	tangy 62
+	tango 1
+	3
+scary
+	snare
+	stark 10
+	sharp 5
+	scarf 3
+	scary 1
+	5
+patty
+	snare
+	aptly 136
+	patty 1
+	3
+aware
+	snare
+	glare 4
+	aware 1
+	3
+sonic
+	snare
+	sting 27
+	sonic 1
+	3
+feast
+	snare
+	beast 5
+	yeast 3
+	feast 2
+	4
+roast
+	snare
+	brash 8
+	roast 1
+	3
+royal
+	snare
+	carol 65
+	royal 1
+	3
+toxic
+	snare
+	could 219
+	topic 4
+	toxic 1
+	4
+moult
+	snare
+	could 219
+	moult 1
+	3
+snout
+	snare
+	snuff 6
+	snout 1
+	3
+glade
+	snare
+	elate 26
+	blade 8
+	glade 1
+	4
+queue
+	snare
+	guile 79
+	butte 3
+	queue 1
+	4
+being
+	snare
+	widen 47
+	eying 4
+	being 1
+	4
+eking
+	snare
+	widen 47
+	eying 4
+	eking 1
+	4
+obese
+	snare
+	loose 19
+	obese 1
+	3
+spare
+	snare
+	share 4
+	scare 3
+	stare 2
+	spare 1
+	5
+viral
+	snare
+	carol 65
+	rural 3
+	viral 1
+	4
+focus
+	snare
+	hoist 50
+	locus 3
+	focus 1
+	4
+slack
+	snare
+	shalt 29
+	slack 1
+	3
+sushi
+	snare
+	spilt 74
+	squib 3
+	sushi 1
+	4
+abase
+	snare
+	cease 7
+	phase 2
+	abase 1
+	4
+shine
+	snare
+	scone 10
+	spine 3
+	shine 2
+	4
+slimy
+	snare
+	spilt 74
+	slick 2
+	slimy 1
+	4
+stilt
+	snare
+	spilt 74
+	stilt 1
+	3
+ovine
+	snare
+	niece 24
+	whine 4
+	opine 2
+	ovine 1
+	5
+swift
+	snare
+	spilt 74
+	shift 2
+	swift 1
+	4
+robin
+	snare
+	grind 35
+	minor 2
+	robin 1
+	4
+munch
+	snare
+	count 91
+	punch 5
+	hunch 4
+	bunch 3
+	lunch 2
+	munch 1
+	7
+dumpy
+	snare
+	could 219
+	dumpy 5
+	3
+mayor
+	snare
+	carol 65
+	favor 5
+	mayor 3
+	4
+least
+	snare
+	beast 5
+	yeast 3
+	feast 2
+	least 1
+	5
+lefty
+	snare
+	betel 110
+	lefty 1
+	3
+board
+	snare
+	hoard 16
+	board 1
+	3
+plant
+	snare
+	clank 16
+	bland 3
+	plant 1
+	4
+pried
+	snare
+	order 128
+	freed 9
+	tried 4
+	dried 3
+	pried 2
+	6
+ultra
+	snare
+	macro 14
+	ultra 1
+	3
+waver
+	snare
+	later 56
+	wager 15
+	wafer 2
+	waver 1
+	5
+candy
+	snare
+	tangy 62
+	canny 9
+	candy 1
+	4
+comic
+	snare
+	could 219
+	comfy 2
+	comic 1
+	4
+boxer
+	snare
+	order 128
+	mower 16
+	lover 8
+	joker 4
+	foyer 2
+	boxer 1
+	7
+rigid
+	snare
+	grout 106
+	rigid 1
+	3
+purse
+	snare
+	rouse 9
+	curse 2
+	purse 1
+	4
+weigh
+	snare
+	betel 110
+	gecko 4
+	weigh 1
+	4
+siege
+	snare
+	spite 24
+	sieve 2
+	siege 1
+	4
+widen
+	snare
+	widen 47
+	2
+batty
+	snare
+	aptly 136
+	tatty 4
+	fatty 3
+	catty 2
+	batty 1
+	6
+ruder
+	snare
+	order 128
+	rider 2
+	ruder 1
+	4
+flock
+	snare
+	could 219
+	block 2
+	flock 1
+	4
+clout
+	snare
+	could 219
+	clout 1
+	3
+store
+	snare
+	shore 7
+	score 4
+	swore 3
+	spore 2
+	store 1
+	6
+earth
+	snare
+	later 56
+	earth 1
+	3
+civil
+	snare
+	could 219
+	cliff 4
+	civil 1
+	4
+crawl
+	snare
+	craft 28
+	cramp 4
+	crazy 3
+	crack 2
+	crawl 1
+	6
+cried
+	snare
+	order 128
+	freed 9
+	tried 4
+	dried 3
+	pried 2
+	cried 1
+	7
+camel
+	snare
+	decal 48
+	camel 1
+	3
+swirl
+	snare
+	stork 14
+	slurp 2
+	swirl 1
+	4
+stoic
+	snare
+	spilt 74
+	sixty 3
+	stoic 1
+	4
+alibi
+	snare
+	aptly 136
+	aloud 9
+	alibi 1
+	4
+easel
+	snare
+	asset 4
+	easel 1
+	3
+papal
+	snare
+	aptly 136
+	pupal 3
+	papal 1
+	4
+ratty
+	snare
+	carol 65
+	rapid 8
+	rajah 2
+	ratty 1
+	5
+pithy
+	snare
+	could 219
+	fight 19
+	pithy 1
+	4
+beach
+	snare
+	death 18
+	peach 3
+	leach 2
+	beach 1
+	5
+elfin
+	snare
+	widen 47
+	feign 3
+	elfin 1
+	4
+mince
+	snare
+	niece 24
+	wince 2
+	mince 1
+	4
+shape
+	snare
+	slate 18
+	spade 8
+	shape 1
+	4
+aptly
+	snare
+	aptly 136
+	2
+sooty
+	snare
+	spilt 74
+	study 8
+	sooty 1
+	4
+swell
+	snare
+	spelt 27
+	shelf 4
+	smell 2
+	swell 1
+	5
+bully
+	snare
+	could 219
+	guilt 7
+	fully 2
+	bully 1
+	5
+haute
+	snare
+	amble 37
+	vague 8
+	haute 1
+	4
+burly
+	snare
+	grout 106
+	curly 7
+	burly 1
+	4
+shack
+	snare
+	shalt 29
+	shaky 3
+	shack 1
+	4
+abled
+	snare
+	decal 48
+	abled 1
+	3
+niece
+	snare
+	niece 24
+	2
+showy
+	snare
+	spilt 74
+	shock 9
+	showy 1
+	4
+antic
+	snare
+	annul 5
+	antic 1
+	3
+polar
+	snare
+	carol 65
+	molar 2
+	polar 1
+	4
+rebus
+	snare
+	reset 16
+	rebus 1
+	3
+spray
+	snare
+	strap 10
+	spray 1
+	3
+crime
+	snare
+	trope 54
+	bride 7
+	grime 2
+	crime 1
+	5
+fetus
+	snare
+	upset 21
+	fetus 1
+	3
+nasal
+	snare
+	nasty 5
+	nasal 1
+	3
+dingy
+	snare
+	count 91
+	kinky 7
+	windy 2
+	dingy 1
+	5
+heard
+	snare
+	heart 7
+	heard 1
+	3
+pinky
+	snare
+	count 91
+	kinky 7
+	pinky 1
+	4
+homer
+	snare
+	order 128
+	mower 16
+	homer 1
+	4
+swine
+	snare
+	scone 10
+	spine 3
+	shine 2
+	swine 1
+	5
+react
+	snare
+	reach 4
+	react 1
+	3
+torus
+	snare
+	truss 25
+	torus 1
+	3
+condo
+	snare
+	count 91
+	conch 4
+	condo 1
+	4
+truly
+	snare
+	grout 106
+	truth 4
+	trump 3
+	truck 2
+	truly 1
+	6
+gauze
+	snare
+	amble 37
+	vague 8
+	gauge 2
+	gauze 1
+	5
+elude
+	snare
+	guile 79
+	flume 5
+	elude 1
+	4
+talon
+	snare
+	tangy 62
+	taunt 3
+	talon 1
+	4
+femme
+	snare
+	guile 79
+	theme 8
+	femme 1
+	4
+plaid
+	snare
+	claim 29
+	plait 3
+	plaid 1
+	4
+aroma
+	snare
+	carol 65
+	broad 2
+	aroma 1
+	4
+seven
+	snare
+	stein 8
+	semen 2
+	seven 1
+	4
+alert
+	snare
+	alert 6
+	2
+hovel
+	snare
+	betel 110
+	dowel 6
+	hovel 1
+	4
+tepid
+	snare
+	betel 110
+	depth 7
+	tepid 1
+	4
+braid
+	snare
+	craft 28
+	grail 8
+	braid 1
+	4
+begin
+	snare
+	widen 47
+	feign 3
+	begin 1
+	4
+gleam
+	snare
+	decal 48
+	bleat 4
+	gleam 1
+	4
+serum
+	snare
+	sewer 13
+	serif 2
+	serum 1
+	4
+zonal
+	snare
+	tangy 62
+	final 3
+	zonal 1
+	4
+avert
+	snare
+	alert 6
+	avert 1
+	3
+grunt
+	snare
+	grind 35
+	grunt 1
+	3
+unfed
+	snare
+	kneed 14
+	unwed 2
+	unfed 1
+	4
+death
+	snare
+	death 18
+	2
+movie
+	snare
+	guile 79
+	movie 6
+	3
+terra
+	snare
+	alert 6
+	extra 2
+	terra 1
+	4

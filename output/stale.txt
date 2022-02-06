@@ -1,0 +1,12893 @@
+avoid
+	stale
+	rayon 136
+	avoid 6
+	3
+brass
+	stale
+	crash 13
+	brass 3
+	3
+buddy
+	stale
+	round 221
+	dumpy 6
+	buddy 1
+	4
+build
+	stale
+	droll 44
+	build 3
+	3
+enter
+	stale
+	deter 77
+	enter 1
+	3
+alone
+	stale
+	alive 9
+	alone 2
+	3
+femur
+	stale
+	decor 165
+	fever 6
+	femur 1
+	4
+three
+	stale
+	trice 28
+	three 2
+	3
+title
+	stale
+	title 2
+	2
+sedan
+	stale
+	spear 10
+	sedan 1
+	3
+horse
+	stale
+	rouse 27
+	horse 2
+	3
+latch
+	stale
+	natal 19
+	latch 1
+	3
+metro
+	stale
+	deter 77
+	metro 4
+	3
+viper
+	stale
+	decor 165
+	viper 18
+	3
+broke
+	stale
+	drone 107
+	probe 6
+	broke 1
+	4
+biome
+	stale
+	drone 107
+	biome 4
+	3
+entry
+	stale
+	deter 77
+	entry 1
+	3
+crimp
+	stale
+	round 221
+	crimp 9
+	3
+dealt
+	stale
+	dealt 2
+	2
+bacon
+	stale
+	rayon 136
+	bacon 3
+	3
+debut
+	stale
+	deter 77
+	debit 5
+	debut 1
+	4
+tabby
+	stale
+	tacit 65
+	tangy 7
+	tabby 3
+	4
+genie
+	stale
+	drone 107
+	niche 12
+	genie 2
+	4
+cedar
+	stale
+	amber 61
+	cedar 1
+	3
+bleed
+	stale
+	leper 67
+	kneel 4
+	bleed 1
+	4
+motto
+	stale
+	truth 122
+	ditto 6
+	motto 1
+	4
+scour
+	stale
+	scion 56
+	scour 2
+	3
+tweet
+	stale
+	deter 77
+	tweet 1
+	3
+jerky
+	stale
+	decor 165
+	ferry 8
+	jerky 2
+	4
+stein
+	stale
+	steer 5
+	stein 1
+	3
+druid
+	stale
+	round 221
+	druid 1
+	3
+sadly
+	stale
+	sadly 2
+	2
+whack
+	stale
+	drank 48
+	whack 3
+	3
+screw
+	stale
+	sewer 28
+	screw 2
+	3
+speck
+	stale
+	sewer 28
+	speck 3
+	3
+spasm
+	stale
+	spark 23
+	spasm 2
+	3
+elate
+	stale
+	elate 2
+	2
+blind
+	stale
+	cloud 82
+	blind 1
+	3
+mower
+	stale
+	decor 165
+	mower 16
+	3
+lithe
+	stale
+	lithe 4
+	2
+uncut
+	stale
+	truth 122
+	uncut 6
+	3
+agent
+	stale
+	taper 27
+	cheat 4
+	agent 1
+	4
+flume
+	stale
+	globe 22
+	flume 5
+	3
+assay
+	stale
+	amiss 14
+	assay 1
+	3
+tutor
+	stale
+	truth 122
+	tutor 1
+	3
+beady
+	stale
+	heady 12
+	beady 2
+	3
+cloak
+	stale
+	carol 57
+	cloak 1
+	3
+wrest
+	stale
+	reset 17
+	wrest 2
+	3
+avail
+	stale
+	claim 28
+	frail 4
+	avail 2
+	4
+greed
+	stale
+	decor 165
+	fried 5
+	greed 2
+	4
+terra
+	stale
+	taper 27
+	treat 3
+	terra 1
+	4
+spank
+	stale
+	spark 23
+	spank 1
+	3
+junta
+	stale
+	tacit 65
+	junta 4
+	3
+gavel
+	stale
+	renal 37
+	bagel 6
+	gavel 1
+	4
+scalp
+	stale
+	scalp 5
+	2
+lynch
+	stale
+	cloud 82
+	lynch 2
+	3
+skiff
+	stale
+	scion 56
+	skimp 6
+	skiff 1
+	4
+sissy
+	stale
+	scion 56
+	squib 4
+	sissy 1
+	4
+might
+	stale
+	truth 122
+	might 5
+	3
+foggy
+	stale
+	round 221
+	boozy 11
+	foggy 3
+	4
+fatal
+	stale
+	natal 19
+	fatal 1
+	3
+threw
+	stale
+	deter 77
+	threw 2
+	3
+agile
+	stale
+	amble 11
+	angle 4
+	agile 1
+	4
+amble
+	stale
+	amble 11
+	2
+krill
+	stale
+	droll 44
+	krill 3
+	3
+vowel
+	stale
+	leper 67
+	vowel 9
+	3
+twixt
+	stale
+	truth 122
+	twixt 1
+	3
+kneel
+	stale
+	leper 67
+	kneel 4
+	3
+cheer
+	stale
+	decor 165
+	cheer 3
+	3
+musty
+	stale
+	frost 29
+	musty 3
+	3
+minus
+	stale
+	missy 42
+	minus 1
+	3
+dusky
+	stale
+	missy 42
+	pushy 4
+	dusky 1
+	4
+condo
+	stale
+	round 221
+	condo 1
+	3
+hazel
+	stale
+	renal 37
+	bagel 6
+	hazel 3
+	4
+friar
+	stale
+	rayon 136
+	vicar 8
+	friar 2
+	4
+tight
+	stale
+	truth 122
+	tight 1
+	3
+fresh
+	stale
+	poser 19
+	cress 4
+	fresh 1
+	4
+slimy
+	stale
+	slink 18
+	slimy 1
+	3
+manly
+	stale
+	daily 14
+	manly 3
+	3
+valor
+	stale
+	carol 57
+	valor 2
+	3
+admit
+	stale
+	tacit 65
+	admit 2
+	3
+crush
+	stale
+	missy 42
+	crush 2
+	3
+karma
+	stale
+	rayon 136
+	karma 3
+	3
+charm
+	stale
+	drank 48
+	charm 5
+	3
+strap
+	stale
+	strap 3
+	2
+tally
+	stale
+	fault 5
+	tally 1
+	3
+bland
+	stale
+	claim 28
+	blank 7
+	bland 1
+	4
+donor
+	stale
+	round 221
+	donor 1
+	3
+dwelt
+	stale
+	dwelt 3
+	2
+steam
+	stale
+	steam 3
+	2
+comet
+	stale
+	deter 77
+	comet 6
+	3
+unwed
+	stale
+	decor 165
+	unwed 8
+	3
+young
+	stale
+	round 221
+	young 1
+	3
+surge
+	stale
+	spire 32
+	scree 3
+	surge 1
+	4
+cloud
+	stale
+	cloud 82
+	2
+azure
+	stale
+	range 31
+	azure 3
+	3
+their
+	stale
+	deter 77
+	their 1
+	3
+flood
+	stale
+	cloud 82
+	flood 3
+	3
+sport
+	stale
+	shout 21
+	sport 2
+	3
+kiosk
+	stale
+	missy 42
+	kiosk 1
+	3
+prime
+	stale
+	drone 107
+	prime 9
+	3
+abode
+	stale
+	range 31
+	abode 5
+	3
+ingot
+	stale
+	truth 122
+	point 10
+	ingot 1
+	4
+humid
+	stale
+	round 221
+	humid 1
+	3
+heavy
+	stale
+	heady 12
+	heavy 1
+	3
+depth
+	stale
+	deter 77
+	debit 5
+	depth 1
+	4
+bongo
+	stale
+	round 221
+	conch 4
+	bongo 1
+	4
+scary
+	stale
+	spark 23
+	scary 4
+	3
+cavil
+	stale
+	carol 57
+	canal 3
+	cavil 1
+	4
+grimy
+	stale
+	round 221
+	crimp 9
+	grimy 1
+	4
+steep
+	stale
+	steer 5
+	steep 2
+	3
+fling
+	stale
+	cloud 82
+	fling 4
+	3
+wrack
+	stale
+	drank 48
+	wrack 2
+	3
+stand
+	stale
+	stank 11
+	stand 1
+	3
+clash
+	stale
+	clash 6
+	2
+inane
+	stale
+	crave 28
+	image 7
+	inane 1
+	4
+cider
+	stale
+	decor 165
+	cider 1
+	3
+melee
+	stale
+	globe 22
+	melee 2
+	3
+mogul
+	stale
+	cloud 82
+	mogul 1
+	3
+quasi
+	stale
+	crash 13
+	quasi 2
+	3
+event
+	stale
+	deter 77
+	event 3
+	3
+cutie
+	stale
+	trice 28
+	cutie 1
+	3
+beefy
+	stale
+	decor 165
+	feign 9
+	beefy 1
+	4
+regal
+	stale
+	renal 37
+	regal 1
+	3
+grave
+	stale
+	crave 28
+	grave 2
+	3
+aloft
+	stale
+	natal 19
+	aloft 2
+	3
+guest
+	stale
+	reset 17
+	guest 4
+	3
+drool
+	stale
+	cloud 82
+	drool 1
+	3
+thyme
+	stale
+	trice 28
+	thyme 3
+	3
+cliff
+	stale
+	cloud 82
+	clink 5
+	cliff 2
+	4
+great
+	stale
+	taper 27
+	great 3
+	3
+crash
+	stale
+	crash 13
+	2
+eclat
+	stale
+	pleat 12
+	eclat 1
+	3
+agate
+	stale
+	grate 8
+	agate 1
+	3
+fable
+	stale
+	amble 11
+	fable 2
+	3
+slime
+	stale
+	slime 5
+	2
+plush
+	stale
+	floss 9
+	plush 2
+	3
+video
+	stale
+	decor 165
+	video 2
+	3
+boney
+	stale
+	decor 165
+	women 9
+	honey 2
+	boney 1
+	5
+pasta
+	stale
+	nasty 11
+	pasta 1
+	3
+treat
+	stale
+	taper 27
+	treat 3
+	3
+rumba
+	stale
+	rayon 136
+	rumba 1
+	3
+safer
+	stale
+	spear 10
+	safer 2
+	3
+utter
+	stale
+	otter 5
+	utter 1
+	3
+meaty
+	stale
+	heart 10
+	meaty 1
+	3
+store
+	stale
+	store 4
+	2
+stain
+	stale
+	stank 11
+	stain 1
+	3
+sugar
+	stale
+	saucy 17
+	sugar 1
+	3
+spice
+	stale
+	spire 32
+	spice 3
+	3
+maple
+	stale
+	amble 11
+	maple 1
+	3
+model
+	stale
+	leper 67
+	vowel 9
+	model 1
+	4
+demur
+	stale
+	decor 165
+	demur 2
+	3
+broth
+	stale
+	truth 122
+	broth 2
+	3
+stray
+	stale
+	strap 3
+	stray 2
+	3
+tulle
+	stale
+	title 2
+	tulle 1
+	3
+salty
+	stale
+	salty 2
+	2
+conch
+	stale
+	round 221
+	conch 4
+	3
+loopy
+	stale
+	cloud 82
+	growl 4
+	loopy 1
+	4
+grade
+	stale
+	crave 28
+	grade 7
+	3
+rarer
+	stale
+	amber 61
+	parer 12
+	rarer 1
+	4
+squib
+	stale
+	scion 56
+	squib 4
+	3
+borax
+	stale
+	rayon 136
+	croak 6
+	borax 1
+	4
+catty
+	stale
+	tacit 65
+	catty 1
+	3
+flirt
+	stale
+	flint 18
+	flirt 1
+	3
+email
+	stale
+	leaky 6
+	email 1
+	3
+murky
+	stale
+	round 221
+	curry 6
+	murky 1
+	4
+shire
+	stale
+	spire 32
+	shire 1
+	3
+polyp
+	stale
+	cloud 82
+	lobby 9
+	polyp 1
+	4
+angle
+	stale
+	amble 11
+	angle 4
+	3
+miner
+	stale
+	decor 165
+	viper 18
+	miner 4
+	4
+poppy
+	stale
+	round 221
+	boozy 11
+	foggy 3
+	poppy 1
+	5
+burnt
+	stale
+	truth 122
+	burnt 1
+	3
+scuba
+	stale
+	saucy 17
+	scuba 1
+	3
+rehab
+	stale
+	amber 61
+	break 3
+	rehab 1
+	4
+knead
+	stale
+	amber 61
+	cheap 7
+	knead 1
+	4
+filmy
+	stale
+	cloud 82
+	filmy 7
+	3
+reply
+	stale
+	whelp 12
+	reply 1
+	3
+break
+	stale
+	amber 61
+	break 3
+	3
+trail
+	stale
+	trail 5
+	2
+gourd
+	stale
+	round 221
+	gourd 1
+	3
+major
+	stale
+	rayon 136
+	favor 3
+	major 1
+	4
+ratty
+	stale
+	tacit 65
+	ratty 5
+	3
+smote
+	stale
+	smote 4
+	2
+chess
+	stale
+	poser 19
+	chess 2
+	3
+chafe
+	stale
+	crave 28
+	chafe 1
+	3
+large
+	stale
+	alive 9
+	large 2
+	3
+fixer
+	stale
+	decor 165
+	viper 18
+	miner 4
+	fixer 2
+	5
+poesy
+	stale
+	poser 19
+	poesy 1
+	3
+boost
+	stale
+	frost 29
+	boost 2
+	3
+built
+	stale
+	built 7
+	2
+range
+	stale
+	range 31
+	2
+epoch
+	stale
+	decor 165
+	covey 3
+	epoch 1
+	4
+debug
+	stale
+	decor 165
+	debug 3
+	3
+taffy
+	stale
+	tacit 65
+	tangy 7
+	tabby 3
+	taffy 2
+	5
+paint
+	stale
+	tacit 65
+	paint 2
+	3
+helix
+	stale
+	leper 67
+	welch 7
+	helix 1
+	4
+jiffy
+	stale
+	round 221
+	wimpy 12
+	jiffy 2
+	4
+smelt
+	stale
+	smelt 2
+	2
+aping
+	stale
+	rayon 136
+	aping 4
+	3
+globe
+	stale
+	globe 22
+	2
+abhor
+	stale
+	rayon 136
+	abhor 5
+	3
+tidal
+	stale
+	natal 19
+	tidal 3
+	3
+iliac
+	stale
+	carol 57
+	iliac 2
+	3
+caper
+	stale
+	amber 61
+	parer 12
+	caper 1
+	4
+reach
+	stale
+	heady 12
+	reach 3
+	3
+surly
+	stale
+	sully 11
+	surly 1
+	3
+logic
+	stale
+	cloud 82
+	logic 1
+	3
+glare
+	stale
+	blare 13
+	glare 2
+	3
+smart
+	stale
+	smart 4
+	2
+coyly
+	stale
+	droll 44
+	coyly 2
+	3
+spoon
+	stale
+	scion 56
+	spoon 2
+	3
+piano
+	stale
+	drank 48
+	piano 1
+	3
+pedal
+	stale
+	renal 37
+	pedal 5
+	3
+butte
+	stale
+	trice 28
+	butte 2
+	3
+guard
+	stale
+	drank 48
+	hoard 5
+	guard 2
+	4
+usher
+	stale
+	poser 19
+	usher 1
+	3
+goose
+	stale
+	rouse 27
+	poise 7
+	goose 3
+	4
+gauze
+	stale
+	range 31
+	gauze 3
+	3
+penne
+	stale
+	drone 107
+	penne 2
+	3
+after
+	stale
+	taper 27
+	after 1
+	3
+slush
+	stale
+	slink 18
+	slump 5
+	slush 1
+	4
+crown
+	stale
+	round 221
+	crown 6
+	3
+gloom
+	stale
+	cloud 82
+	gloom 6
+	3
+tryst
+	stale
+	frost 29
+	trust 4
+	tryst 1
+	4
+relax
+	stale
+	renal 37
+	relax 2
+	3
+masse
+	stale
+	parse 10
+	masse 2
+	3
+amend
+	stale
+	amber 61
+	amend 1
+	3
+pulpy
+	stale
+	cloud 82
+	pulpy 4
+	3
+stiff
+	stale
+	stunk 24
+	strip 8
+	stiff 1
+	4
+expel
+	stale
+	leper 67
+	expel 1
+	3
+ethos
+	stale
+	ethos 1
+	2
+igloo
+	stale
+	cloud 82
+	lobby 9
+	igloo 1
+	4
+chock
+	stale
+	round 221
+	chock 3
+	3
+mason
+	stale
+	amiss 14
+	mason 1
+	3
+shaky
+	stale
+	spark 23
+	shaky 2
+	3
+shied
+	stale
+	sewer 28
+	shied 2
+	3
+salve
+	stale
+	salve 1
+	2
+leery
+	stale
+	leper 67
+	leery 1
+	3
+cheap
+	stale
+	amber 61
+	cheap 7
+	3
+rabbi
+	stale
+	rayon 136
+	rapid 6
+	rabbi 1
+	4
+pilot
+	stale
+	flint 18
+	light 3
+	pilot 1
+	4
+waltz
+	stale
+	natal 19
+	waltz 1
+	3
+hinge
+	stale
+	drone 107
+	niche 12
+	hinge 1
+	4
+livid
+	stale
+	cloud 82
+	livid 2
+	3
+wager
+	stale
+	amber 61
+	parer 12
+	wager 6
+	4
+semen
+	stale
+	sewer 28
+	semen 2
+	3
+pulse
+	stale
+	close 4
+	pulse 1
+	3
+shush
+	stale
+	scion 56
+	shrug 4
+	shush 1
+	4
+vague
+	stale
+	range 31
+	gauze 3
+	vague 1
+	4
+roach
+	stale
+	drank 48
+	charm 5
+	roach 1
+	4
+beech
+	stale
+	decor 165
+	beech 3
+	3
+relic
+	stale
+	leper 67
+	relic 1
+	3
+fever
+	stale
+	decor 165
+	fever 6
+	3
+paler
+	stale
+	renal 37
+	paler 4
+	3
+squad
+	stale
+	saucy 17
+	squad 1
+	3
+buggy
+	stale
+	round 221
+	jumpy 14
+	buggy 2
+	4
+anger
+	stale
+	amber 61
+	anger 2
+	3
+sumac
+	stale
+	saucy 17
+	sumac 1
+	3
+tithe
+	stale
+	trice 28
+	tithe 1
+	3
+wheel
+	stale
+	leper 67
+	kneel 4
+	wheel 1
+	4
+juice
+	stale
+	drone 107
+	piece 10
+	juice 1
+	4
+grunt
+	stale
+	truth 122
+	grunt 3
+	3
+boule
+	stale
+	boule 12
+	2
+count
+	stale
+	truth 122
+	count 3
+	3
+shrug
+	stale
+	scion 56
+	shrug 4
+	3
+zesty
+	stale
+	reset 17
+	zesty 3
+	3
+ralph
+	stale
+	carol 57
+	ralph 1
+	3
+annoy
+	stale
+	rayon 136
+	annoy 1
+	3
+layer
+	stale
+	renal 37
+	paler 4
+	layer 2
+	4
+goody
+	stale
+	round 221
+	dowdy 6
+	goody 2
+	4
+octet
+	stale
+	deter 77
+	octet 3
+	3
+thigh
+	stale
+	truth 122
+	thigh 1
+	3
+laden
+	stale
+	renal 37
+	laden 2
+	3
+frost
+	stale
+	frost 29
+	2
+milky
+	stale
+	cloud 82
+	filmy 7
+	milky 1
+	4
+rebar
+	stale
+	amber 61
+	rebar 2
+	3
+befit
+	stale
+	deter 77
+	hefty 4
+	befit 1
+	4
+latte
+	stale
+	latte 2
+	2
+petty
+	stale
+	deter 77
+	petty 3
+	3
+whelp
+	stale
+	whelp 12
+	2
+world
+	stale
+	droll 44
+	world 1
+	3
+spunk
+	stale
+	scion 56
+	spunk 5
+	3
+beret
+	stale
+	deter 77
+	beret 1
+	3
+parry
+	stale
+	rayon 136
+	harpy 9
+	parry 1
+	4
+quart
+	stale
+	tract 20
+	quart 2
+	3
+swift
+	stale
+	shout 21
+	swift 2
+	3
+bossy
+	stale
+	missy 42
+	hussy 3
+	bossy 1
+	4
+alien
+	stale
+	renal 37
+	laden 2
+	alien 1
+	4
+decoy
+	stale
+	decor 165
+	decoy 1
+	3
+delta
+	stale
+	pleat 12
+	delta 2
+	3
+slosh
+	stale
+	slink 18
+	slump 5
+	slosh 1
+	4
+ounce
+	stale
+	drone 107
+	ounce 1
+	3
+linen
+	stale
+	leper 67
+	linen 4
+	3
+visit
+	stale
+	frost 29
+	visit 1
+	3
+wooer
+	stale
+	decor 165
+	mower 16
+	wooer 1
+	4
+gnash
+	stale
+	crash 13
+	gnash 3
+	3
+nadir
+	stale
+	rayon 136
+	nadir 1
+	3
+snaky
+	stale
+	spark 23
+	shaky 2
+	snaky 1
+	4
+spire
+	stale
+	spire 32
+	2
+greet
+	stale
+	deter 77
+	greet 2
+	3
+smash
+	stale
+	spark 23
+	smash 4
+	3
+alert
+	stale
+	pleat 12
+	alert 1
+	3
+feast
+	stale
+	feast 3
+	2
+cubic
+	stale
+	round 221
+	jumpy 14
+	cubic 2
+	4
+hilly
+	stale
+	droll 44
+	filly 7
+	hilly 3
+	4
+belie
+	stale
+	globe 22
+	belie 1
+	3
+polar
+	stale
+	carol 57
+	polar 3
+	3
+hymen
+	stale
+	decor 165
+	eying 10
+	hymen 1
+	4
+spurt
+	stale
+	shout 21
+	spurt 1
+	3
+fritz
+	stale
+	truth 122
+	fritz 1
+	3
+renal
+	stale
+	renal 37
+	2
+noisy
+	stale
+	missy 42
+	noisy 1
+	3
+turbo
+	stale
+	truth 122
+	turbo 2
+	3
+chief
+	stale
+	decor 165
+	chief 3
+	3
+cocoa
+	stale
+	rayon 136
+	cocoa 2
+	3
+spark
+	stale
+	spark 23
+	2
+forgo
+	stale
+	round 221
+	porch 4
+	forgo 2
+	4
+deter
+	stale
+	deter 77
+	2
+easel
+	stale
+	easel 1
+	2
+hedge
+	stale
+	drone 107
+	budge 8
+	hedge 3
+	4
+chili
+	stale
+	droll 44
+	chili 3
+	3
+scare
+	stale
+	shape 13
+	snare 4
+	scare 1
+	4
+sonar
+	stale
+	saucy 17
+	sonar 2
+	3
+place
+	stale
+	blare 13
+	place 6
+	3
+still
+	stale
+	still 2
+	2
+sauna
+	stale
+	saucy 17
+	sauna 1
+	3
+fraud
+	stale
+	drank 48
+	fraud 2
+	3
+minim
+	stale
+	round 221
+	nymph 9
+	minim 1
+	4
+welsh
+	stale
+	welsh 4
+	2
+embed
+	stale
+	decor 165
+	unwed 8
+	embed 1
+	4
+chard
+	stale
+	drank 48
+	hoard 5
+	chard 1
+	4
+hotly
+	stale
+	built 7
+	hotly 2
+	3
+poker
+	stale
+	decor 165
+	mower 16
+	rover 8
+	poker 5
+	5
+scrub
+	stale
+	scion 56
+	scrub 2
+	3
+tiara
+	stale
+	tract 20
+	tiara 1
+	3
+arena
+	stale
+	amber 61
+	arena 1
+	3
+sonic
+	stale
+	scion 56
+	sonic 1
+	3
+stood
+	stale
+	stunk 24
+	strip 8
+	stood 1
+	4
+fetal
+	stale
+	pleat 12
+	fetal 2
+	3
+focus
+	stale
+	missy 42
+	focus 3
+	3
+gummy
+	stale
+	round 221
+	jumpy 14
+	gummy 2
+	4
+holly
+	stale
+	droll 44
+	holly 5
+	3
+radar
+	stale
+	rayon 136
+	rapid 6
+	radar 1
+	4
+fairy
+	stale
+	rayon 136
+	harpy 9
+	fairy 2
+	4
+syrup
+	stale
+	scion 56
+	shrug 4
+	syrup 1
+	4
+point
+	stale
+	truth 122
+	point 10
+	3
+rainy
+	stale
+	rayon 136
+	rainy 2
+	3
+slave
+	stale
+	slave 1
+	2
+conic
+	stale
+	round 221
+	conch 4
+	conic 1
+	4
+champ
+	stale
+	drank 48
+	champ 5
+	3
+intro
+	stale
+	truth 122
+	motor 4
+	intro 1
+	4
+found
+	stale
+	round 221
+	found 6
+	3
+shone
+	stale
+	spire 32
+	shone 7
+	3
+mushy
+	stale
+	missy 42
+	mushy 2
+	3
+showy
+	stale
+	scion 56
+	sword 5
+	showy 1
+	4
+cabin
+	stale
+	rayon 136
+	cabin 2
+	3
+grill
+	stale
+	droll 44
+	krill 3
+	grill 2
+	4
+idiot
+	stale
+	truth 122
+	point 10
+	idiot 1
+	4
+candy
+	stale
+	rayon 136
+	candy 8
+	3
+dozen
+	stale
+	decor 165
+	dozen 2
+	3
+scold
+	stale
+	sully 11
+	scold 1
+	3
+empty
+	stale
+	deter 77
+	event 8
+	empty 1
+	4
+radii
+	stale
+	rayon 136
+	rapid 6
+	radii 1
+	4
+surer
+	stale
+	sewer 28
+	surer 4
+	3
+teddy
+	stale
+	deter 77
+	teddy 2
+	3
+seedy
+	stale
+	sewer 28
+	seedy 1
+	3
+scant
+	stale
+	smart 4
+	scant 2
+	3
+liken
+	stale
+	leper 67
+	linen 4
+	liken 1
+	4
+macho
+	stale
+	rayon 136
+	macho 3
+	3
+evict
+	stale
+	deter 77
+	event 8
+	evict 1
+	4
+crude
+	stale
+	drone 107
+	pride 4
+	crude 1
+	4
+olden
+	stale
+	leper 67
+	vowel 9
+	olden 1
+	4
+swoop
+	stale
+	scion 56
+	spoof 4
+	swoop 1
+	4
+folio
+	stale
+	cloud 82
+	lobby 9
+	folio 1
+	4
+forth
+	stale
+	truth 122
+	forth 6
+	3
+satyr
+	stale
+	satyr 4
+	2
+awake
+	stale
+	crave 28
+	image 7
+	awake 2
+	4
+flung
+	stale
+	cloud 82
+	bluff 8
+	flung 2
+	4
+grass
+	stale
+	crash 13
+	brass 3
+	grass 1
+	4
+sinew
+	stale
+	sewer 28
+	sinew 1
+	3
+welch
+	stale
+	leper 67
+	welch 7
+	3
+proof
+	stale
+	round 221
+	crook 14
+	broom 3
+	proof 1
+	5
+eject
+	stale
+	deter 77
+	event 3
+	eject 1
+	4
+brief
+	stale
+	decor 165
+	grief 8
+	brief 1
+	4
+gawky
+	stale
+	rayon 136
+	bawdy 12
+	gawky 1
+	4
+snowy
+	stale
+	scion 56
+	snowy 2
+	3
+gland
+	stale
+	claim 28
+	blank 7
+	gland 1
+	4
+poise
+	stale
+	rouse 27
+	poise 7
+	3
+sepia
+	stale
+	spear 10
+	sepia 1
+	3
+sulky
+	stale
+	slink 18
+	sulky 1
+	3
+segue
+	stale
+	spire 32
+	shone 7
+	segue 1
+	4
+tying
+	stale
+	truth 122
+	toxin 7
+	tying 1
+	4
+total
+	stale
+	natal 19
+	total 3
+	3
+flora
+	stale
+	carol 57
+	polar 3
+	flora 1
+	4
+rhino
+	stale
+	round 221
+	rhino 1
+	3
+silly
+	stale
+	sully 11
+	silly 1
+	3
+kebab
+	stale
+	amber 61
+	kebab 1
+	3
+fuzzy
+	stale
+	round 221
+	jumpy 14
+	buggy 2
+	fuzzy 1
+	5
+quest
+	stale
+	reset 17
+	guest 4
+	quest 1
+	4
+carry
+	stale
+	rayon 136
+	harpy 9
+	carry 2
+	4
+enjoy
+	stale
+	decor 165
+	enjoy 2
+	3
+ramen
+	stale
+	amber 61
+	harem 2
+	ramen 1
+	4
+ghoul
+	stale
+	cloud 82
+	ghoul 1
+	3
+level
+	stale
+	leper 67
+	level 1
+	3
+femme
+	stale
+	drone 107
+	piece 10
+	femme 1
+	4
+gypsy
+	stale
+	missy 42
+	gypsy 1
+	3
+scout
+	stale
+	shout 21
+	scout 3
+	3
+enema
+	stale
+	amber 61
+	mecca 3
+	enema 1
+	4
+bluff
+	stale
+	cloud 82
+	bluff 8
+	3
+agony
+	stale
+	rayon 136
+	agony 1
+	3
+drunk
+	stale
+	round 221
+	drunk 1
+	3
+haute
+	stale
+	haute 3
+	2
+fella
+	stale
+	fella 2
+	2
+joust
+	stale
+	frost 29
+	joust 4
+	3
+sloop
+	stale
+	slink 18
+	slump 5
+	sloop 1
+	4
+homer
+	stale
+	decor 165
+	mower 16
+	homer 1
+	4
+alloy
+	stale
+	carol 57
+	alloy 4
+	3
+abate
+	stale
+	grate 8
+	abate 2
+	3
+civic
+	stale
+	round 221
+	wimpy 12
+	civic 1
+	4
+prowl
+	stale
+	cloud 82
+	prowl 4
+	3
+sully
+	stale
+	sully 11
+	2
+mince
+	stale
+	drone 107
+	niche 12
+	mince 2
+	4
+hotel
+	stale
+	betel 11
+	hotel 2
+	3
+donut
+	stale
+	truth 122
+	uncut 6
+	donut 1
+	4
+scion
+	stale
+	scion 56
+	2
+pinch
+	stale
+	round 221
+	nymph 9
+	pinch 1
+	4
+outgo
+	stale
+	truth 122
+	uncut 6
+	outgo 2
+	4
+coupe
+	stale
+	drone 107
+	coupe 5
+	3
+baton
+	stale
+	tacit 65
+	party 8
+	baton 2
+	4
+creep
+	stale
+	decor 165
+	creep 3
+	3
+bliss
+	stale
+	floss 9
+	bliss 1
+	3
+bravo
+	stale
+	drank 48
+	gravy 5
+	bravo 1
+	4
+taste
+	stale
+	taste 6
+	2
+cynic
+	stale
+	round 221
+	nymph 9
+	cynic 1
+	4
+motor
+	stale
+	truth 122
+	motor 4
+	3
+leech
+	stale
+	leper 67
+	leech 1
+	3
+fetch
+	stale
+	deter 77
+	petty 3
+	fetch 1
+	4
+fibre
+	stale
+	drone 107
+	revue 12
+	fibre 1
+	4
+march
+	stale
+	rayon 136
+	karma 3
+	march 1
+	4
+chant
+	stale
+	tract 20
+	chant 1
+	3
+nicer
+	stale
+	decor 165
+	nicer 1
+	3
+pound
+	stale
+	round 221
+	found 6
+	pound 5
+	4
+fluid
+	stale
+	cloud 82
+	fluid 1
+	3
+swept
+	stale
+	swept 6
+	2
+freer
+	stale
+	decor 165
+	viper 18
+	freer 4
+	4
+shake
+	stale
+	shape 13
+	shake 5
+	3
+woken
+	stale
+	decor 165
+	money 9
+	woken 2
+	4
+extol
+	stale
+	betel 11
+	extol 1
+	3
+rodeo
+	stale
+	decor 165
+	rodeo 1
+	3
+palsy
+	stale
+	basal 6
+	palsy 1
+	3
+vapid
+	stale
+	rayon 136
+	mamma 10
+	vapid 1
+	4
+funky
+	stale
+	round 221
+	hunky 10
+	funky 1
+	4
+begat
+	stale
+	taper 27
+	cheat 4
+	begat 1
+	4
+loyal
+	stale
+	carol 57
+	loyal 5
+	3
+which
+	stale
+	round 221
+	wimpy 12
+	which 2
+	4
+sheen
+	stale
+	sewer 28
+	sheen 3
+	3
+dumpy
+	stale
+	round 221
+	dumpy 6
+	3
+penal
+	stale
+	renal 37
+	penal 1
+	3
+frill
+	stale
+	droll 44
+	krill 3
+	grill 2
+	frill 1
+	5
+biddy
+	stale
+	round 221
+	biddy 3
+	3
+curio
+	stale
+	round 221
+	curio 7
+	3
+trunk
+	stale
+	truth 122
+	trunk 3
+	3
+grain
+	stale
+	drank 48
+	brawn 4
+	grain 1
+	4
+leper
+	stale
+	leper 67
+	2
+tangy
+	stale
+	tacit 65
+	tangy 7
+	3
+speed
+	stale
+	sewer 28
+	sheen 3
+	speed 1
+	4
+spied
+	stale
+	sewer 28
+	shied 2
+	spied 1
+	4
+alley
+	stale
+	renal 37
+	alley 2
+	3
+polka
+	stale
+	carol 57
+	along 3
+	polka 1
+	4
+stint
+	stale
+	stunk 24
+	stint 3
+	3
+girly
+	stale
+	droll 44
+	curly 3
+	girly 1
+	4
+mucus
+	stale
+	missy 42
+	mucus 1
+	3
+stead
+	stale
+	steam 3
+	stead 2
+	3
+hydro
+	stale
+	round 221
+	hydro 2
+	3
+folly
+	stale
+	droll 44
+	holly 5
+	folly 3
+	4
+equip
+	stale
+	decor 165
+	eying 10
+	equip 1
+	4
+elope
+	stale
+	globe 22
+	clone 3
+	elope 1
+	4
+frail
+	stale
+	claim 28
+	frail 4
+	3
+cheat
+	stale
+	taper 27
+	cheat 4
+	3
+essay
+	stale
+	askew 3
+	essay 1
+	3
+utile
+	stale
+	utile 1
+	2
+bleat
+	stale
+	pleat 12
+	bleat 2
+	3
+daddy
+	stale
+	rayon 136
+	bawdy 12
+	daddy 4
+	4
+bloom
+	stale
+	cloud 82
+	gloom 6
+	bloom 1
+	4
+birth
+	stale
+	truth 122
+	forth 6
+	birth 3
+	4
+carve
+	stale
+	range 31
+	carve 2
+	3
+slink
+	stale
+	slink 18
+	2
+rigor
+	stale
+	round 221
+	rigor 1
+	3
+flask
+	stale
+	clash 6
+	flask 2
+	3
+broom
+	stale
+	round 221
+	crook 14
+	broom 3
+	4
+habit
+	stale
+	tacit 65
+	habit 1
+	3
+infer
+	stale
+	decor 165
+	viper 18
+	infer 2
+	4
+axion
+	stale
+	rayon 136
+	axion 1
+	3
+spool
+	stale
+	slink 18
+	spool 2
+	3
+favor
+	stale
+	rayon 136
+	favor 3
+	3
+prick
+	stale
+	round 221
+	crimp 9
+	prick 1
+	4
+smirk
+	stale
+	scion 56
+	skimp 6
+	smirk 1
+	4
+evoke
+	stale
+	drone 107
+	biome 4
+	evoke 2
+	4
+patty
+	stale
+	tacit 65
+	ratty 5
+	patty 4
+	4
+react
+	stale
+	heart 10
+	react 1
+	3
+kneed
+	stale
+	decor 165
+	unwed 8
+	kneed 1
+	4
+booty
+	stale
+	truth 122
+	minty 4
+	booty 1
+	4
+filth
+	stale
+	flint 18
+	filth 1
+	3
+disco
+	stale
+	missy 42
+	visor 3
+	disco 1
+	4
+locus
+	stale
+	floss 9
+	locus 1
+	3
+spear
+	stale
+	spear 10
+	2
+inept
+	stale
+	deter 77
+	event 8
+	inept 1
+	4
+silky
+	stale
+	slink 18
+	silky 1
+	3
+qualm
+	stale
+	koala 3
+	qualm 1
+	3
+white
+	stale
+	trice 28
+	quite 3
+	white 1
+	4
+sheet
+	stale
+	swept 6
+	sheet 2
+	3
+coach
+	stale
+	drank 48
+	champ 5
+	coach 1
+	4
+grout
+	stale
+	truth 122
+	grout 1
+	3
+ruder
+	stale
+	decor 165
+	ruder 5
+	3
+haven
+	stale
+	amber 61
+	haven 4
+	3
+topaz
+	stale
+	tacit 65
+	topaz 3
+	3
+align
+	stale
+	carol 57
+	inlay 7
+	align 1
+	4
+gusty
+	stale
+	frost 29
+	musty 3
+	gusty 2
+	4
+prior
+	stale
+	round 221
+	crook 14
+	prior 1
+	4
+steed
+	stale
+	steer 5
+	steep 2
+	steed 1
+	4
+retry
+	stale
+	deter 77
+	metro 4
+	retry 1
+	4
+aging
+	stale
+	rayon 136
+	aping 4
+	aging 1
+	4
+extra
+	stale
+	taper 27
+	great 3
+	extra 1
+	4
+dusty
+	stale
+	frost 29
+	musty 3
+	gusty 2
+	dusty 1
+	5
+radio
+	stale
+	rayon 136
+	radio 1
+	3
+usual
+	stale
+	basal 6
+	usual 1
+	3
+court
+	stale
+	truth 122
+	court 1
+	3
+dully
+	stale
+	droll 44
+	dully 2
+	3
+gully
+	stale
+	droll 44
+	filly 7
+	gully 2
+	4
+oaken
+	stale
+	amber 61
+	haven 4
+	oaken 2
+	4
+trait
+	stale
+	tract 20
+	trait 1
+	3
+shorn
+	stale
+	scion 56
+	shorn 3
+	3
+annex
+	stale
+	amber 61
+	annex 2
+	3
+chain
+	stale
+	drank 48
+	chain 2
+	3
+wield
+	stale
+	whelp 12
+	wield 1
+	3
+crypt
+	stale
+	truth 122
+	front 6
+	crypt 1
+	4
+below
+	stale
+	leper 67
+	welch 7
+	below 1
+	4
+tract
+	stale
+	tract 20
+	2
+butch
+	stale
+	truth 122
+	butch 3
+	3
+apnea
+	stale
+	amber 61
+	annex 2
+	apnea 1
+	4
+tacky
+	stale
+	tacit 65
+	tacky 1
+	3
+sweat
+	stale
+	sweat 1
+	2
+excel
+	stale
+	leper 67
+	kneel 4
+	excel 1
+	4
+gauge
+	stale
+	range 31
+	gauge 2
+	3
+maybe
+	stale
+	range 31
+	maybe 6
+	3
+drawl
+	stale
+	claim 28
+	drawl 2
+	3
+valid
+	stale
+	carol 57
+	balmy 4
+	valid 1
+	4
+stank
+	stale
+	stank 11
+	2
+dimly
+	stale
+	droll 44
+	dimly 1
+	3
+among
+	stale
+	rayon 136
+	among 3
+	3
+diary
+	stale
+	drank 48
+	diary 2
+	3
+lefty
+	stale
+	betel 11
+	lefty 1
+	3
+shade
+	stale
+	shape 13
+	shake 5
+	shade 4
+	4
+began
+	stale
+	amber 61
+	began 1
+	3
+caste
+	stale
+	taste 6
+	caste 5
+	3
+fewer
+	stale
+	decor 165
+	fever 6
+	fewer 1
+	4
+crump
+	stale
+	round 221
+	crump 3
+	3
+blurb
+	stale
+	cloud 82
+	bluff 8
+	blurb 1
+	4
+parse
+	stale
+	parse 10
+	2
+cagey
+	stale
+	amber 61
+	haven 4
+	cagey 1
+	4
+cabby
+	stale
+	rayon 136
+	bawdy 12
+	cabby 1
+	4
+larva
+	stale
+	carol 57
+	larva 1
+	3
+hoard
+	stale
+	drank 48
+	hoard 5
+	3
+atoll
+	stale
+	atoll 1
+	2
+flute
+	stale
+	lithe 4
+	flute 1
+	3
+basal
+	stale
+	basal 6
+	2
+paddy
+	stale
+	rayon 136
+	bawdy 12
+	daddy 4
+	paddy 2
+	5
+askew
+	stale
+	askew 3
+	2
+beget
+	stale
+	deter 77
+	beget 2
+	3
+anvil
+	stale
+	carol 57
+	anvil 6
+	3
+vicar
+	stale
+	rayon 136
+	vicar 8
+	3
+crack
+	stale
+	drank 48
+	wrack 2
+	crack 1
+	4
+vital
+	stale
+	natal 19
+	total 3
+	vital 1
+	4
+vixen
+	stale
+	decor 165
+	eying 10
+	vixen 1
+	4
+slump
+	stale
+	slink 18
+	slump 5
+	3
+rebus
+	stale
+	poser 19
+	cress 4
+	rebus 1
+	4
+pithy
+	stale
+	truth 122
+	might 5
+	pithy 1
+	4
+scree
+	stale
+	spire 32
+	scree 3
+	3
+sixth
+	stale
+	shout 21
+	sixth 2
+	3
+stoop
+	stale
+	stunk 24
+	strip 8
+	stoop 2
+	4
+borne
+	stale
+	drone 107
+	borne 1
+	3
+caput
+	stale
+	tacit 65
+	caput 2
+	3
+budge
+	stale
+	drone 107
+	budge 8
+	3
+stock
+	stale
+	stunk 24
+	stock 3
+	3
+gumbo
+	stale
+	round 221
+	gumbo 4
+	3
+width
+	stale
+	truth 122
+	ninth 5
+	width 2
+	4
+carat
+	stale
+	tacit 65
+	caput 2
+	carat 1
+	4
+snoop
+	stale
+	scion 56
+	snoop 2
+	3
+laugh
+	stale
+	carol 57
+	balmy 4
+	laugh 1
+	4
+super
+	stale
+	sewer 28
+	surer 4
+	super 1
+	4
+opine
+	stale
+	drone 107
+	opine 2
+	3
+brine
+	stale
+	drone 107
+	brine 3
+	3
+cling
+	stale
+	cloud 82
+	clink 5
+	cling 1
+	4
+hello
+	stale
+	whelp 12
+	hello 1
+	3
+mummy
+	stale
+	round 221
+	jumpy 14
+	gummy 2
+	mummy 1
+	5
+crept
+	stale
+	deter 77
+	erupt 6
+	crept 1
+	4
+snack
+	stale
+	spark 23
+	shank 4
+	snack 1
+	4
+colon
+	stale
+	cloud 82
+	colon 2
+	3
+queue
+	stale
+	drone 107
+	piece 10
+	queue 1
+	4
+punch
+	stale
+	round 221
+	hunky 10
+	punch 3
+	4
+balmy
+	stale
+	carol 57
+	balmy 4
+	3
+cleft
+	stale
+	betel 11
+	cleft 2
+	3
+enemy
+	stale
+	decor 165
+	eying 10
+	enemy 1
+	4
+pecan
+	stale
+	amber 61
+	cheap 7
+	pecan 1
+	4
+cache
+	stale
+	range 31
+	maybe 6
+	cache 2
+	4
+rumor
+	stale
+	round 221
+	rumor 1
+	3
+creed
+	stale
+	decor 165
+	creed 2
+	3
+robin
+	stale
+	round 221
+	robin 1
+	3
+miser
+	stale
+	poser 19
+	miser 3
+	3
+amaze
+	stale
+	crave 28
+	image 7
+	amaze 1
+	4
+horde
+	stale
+	drone 107
+	horde 1
+	3
+kinky
+	stale
+	round 221
+	nymph 9
+	kinky 1
+	4
+clung
+	stale
+	cloud 82
+	clung 3
+	3
+puppy
+	stale
+	round 221
+	jumpy 14
+	puppy 2
+	4
+plaid
+	stale
+	claim 28
+	plaid 4
+	3
+choir
+	stale
+	round 221
+	crook 14
+	choir 1
+	4
+hasty
+	stale
+	nasty 11
+	hasty 3
+	3
+scorn
+	stale
+	scion 56
+	scorn 1
+	3
+under
+	stale
+	decor 165
+	ruder 5
+	under 2
+	4
+niece
+	stale
+	drone 107
+	niche 12
+	niece 1
+	4
+ensue
+	stale
+	rouse 27
+	ensue 2
+	3
+onset
+	stale
+	reset 17
+	onset 3
+	3
+trick
+	stale
+	truth 122
+	trick 2
+	3
+sassy
+	stale
+	saucy 17
+	savvy 5
+	sassy 3
+	4
+devil
+	stale
+	leper 67
+	welch 7
+	devil 1
+	4
+erode
+	stale
+	drone 107
+	erode 1
+	3
+float
+	stale
+	natal 19
+	float 3
+	3
+mammy
+	stale
+	rayon 136
+	bawdy 12
+	mammy 3
+	4
+piney
+	stale
+	decor 165
+	eying 10
+	piney 1
+	4
+ocean
+	stale
+	amber 61
+	cheap 7
+	ocean 1
+	4
+stage
+	stale
+	stage 5
+	2
+suing
+	stale
+	scion 56
+	suing 5
+	3
+pupil
+	stale
+	cloud 82
+	pulpy 4
+	pupil 1
+	4
+sense
+	stale
+	spire 32
+	shone 7
+	sense 1
+	4
+fence
+	stale
+	drone 107
+	niche 12
+	fence 2
+	4
+foyer
+	stale
+	decor 165
+	mower 16
+	rover 8
+	poker 5
+	foyer 3
+	6
+bunny
+	stale
+	round 221
+	bunny 2
+	3
+gloat
+	stale
+	natal 19
+	float 3
+	gloat 2
+	4
+purge
+	stale
+	drone 107
+	revue 12
+	purge 1
+	4
+mouse
+	stale
+	rouse 27
+	mouse 2
+	3
+golem
+	stale
+	leper 67
+	vowel 9
+	golem 1
+	4
+mamma
+	stale
+	rayon 136
+	mamma 10
+	3
+ripen
+	stale
+	decor 165
+	grief 8
+	ripen 1
+	4
+chill
+	stale
+	droll 44
+	chill 2
+	3
+savvy
+	stale
+	saucy 17
+	savvy 5
+	3
+wispy
+	stale
+	missy 42
+	wispy 3
+	3
+primo
+	stale
+	round 221
+	crook 14
+	primo 1
+	4
+stout
+	stale
+	stunk 24
+	stout 2
+	3
+blown
+	stale
+	cloud 82
+	gloom 6
+	blown 2
+	4
+amber
+	stale
+	amber 61
+	2
+magic
+	stale
+	rayon 136
+	mamma 10
+	magic 1
+	4
+guava
+	stale
+	drank 48
+	champ 5
+	guava 1
+	4
+oddly
+	stale
+	droll 44
+	would 4
+	oddly 1
+	4
+rival
+	stale
+	carol 57
+	rival 1
+	3
+shalt
+	stale
+	shalt 1
+	2
+gouge
+	stale
+	drone 107
+	coupe 5
+	gouge 1
+	4
+trial
+	stale
+	natal 19
+	tidal 3
+	trial 1
+	4
+spill
+	stale
+	sully 11
+	spill 3
+	3
+shape
+	stale
+	shape 13
+	2
+toast
+	stale
+	trash 5
+	toast 1
+	3
+whisk
+	stale
+	missy 42
+	frisk 4
+	whisk 1
+	4
+abled
+	stale
+	renal 37
+	alley 2
+	abled 1
+	4
+gassy
+	stale
+	amiss 14
+	gassy 1
+	3
+vaunt
+	stale
+	tacit 65
+	vaunt 6
+	3
+staid
+	stale
+	stank 11
+	stair 6
+	staid 1
+	4
+aside
+	stale
+	parse 10
+	aside 1
+	3
+spoil
+	stale
+	slink 18
+	spoil 2
+	3
+mango
+	stale
+	rayon 136
+	mango 2
+	3
+token
+	stale
+	deter 77
+	comet 6
+	token 1
+	4
+nasty
+	stale
+	nasty 11
+	2
+canny
+	stale
+	rayon 136
+	candy 8
+	canny 1
+	4
+taboo
+	stale
+	tacit 65
+	tangy 7
+	taboo 1
+	4
+foray
+	stale
+	rayon 136
+	foray 1
+	3
+decry
+	stale
+	decor 165
+	decry 1
+	3
+koala
+	stale
+	koala 3
+	2
+glide
+	stale
+	globe 22
+	glide 1
+	3
+gamma
+	stale
+	rayon 136
+	mamma 10
+	gamma 1
+	4
+twine
+	stale
+	trice 28
+	twine 1
+	3
+patsy
+	stale
+	nasty 11
+	patsy 1
+	3
+belly
+	stale
+	whelp 12
+	belly 3
+	3
+islet
+	stale
+	islet 1
+	2
+algae
+	stale
+	alive 9
+	alone 2
+	algae 1
+	4
+adept
+	stale
+	taper 27
+	adept 1
+	3
+baron
+	stale
+	rayon 136
+	baron 1
+	3
+goofy
+	stale
+	round 221
+	boozy 11
+	goofy 1
+	4
+swell
+	stale
+	swell 5
+	2
+gooey
+	stale
+	decor 165
+	women 9
+	gooey 1
+	4
+foist
+	stale
+	frost 29
+	foist 1
+	3
+route
+	stale
+	trice 28
+	route 2
+	3
+vinyl
+	stale
+	cloud 82
+	filmy 7
+	vinyl 1
+	4
+arose
+	stale
+	parse 10
+	arose 2
+	3
+blade
+	stale
+	blare 13
+	blade 3
+	3
+creek
+	stale
+	decor 165
+	creep 3
+	creek 1
+	4
+ditto
+	stale
+	truth 122
+	ditto 6
+	3
+faint
+	stale
+	tacit 65
+	paint 2
+	faint 1
+	4
+sushi
+	stale
+	scion 56
+	squib 4
+	sushi 1
+	4
+slope
+	stale
+	slime 5
+	slope 1
+	3
+flick
+	stale
+	cloud 82
+	flick 1
+	3
+whale
+	stale
+	whale 1
+	2
+quick
+	stale
+	round 221
+	jumpy 14
+	cubic 2
+	quick 1
+	5
+throb
+	stale
+	truth 122
+	throb 4
+	3
+trawl
+	stale
+	trail 5
+	trawl 1
+	3
+perky
+	stale
+	decor 165
+	ferry 8
+	jerky 2
+	perky 1
+	5
+anime
+	stale
+	range 31
+	anime 2
+	3
+rifle
+	stale
+	boule 12
+	exile 4
+	rifle 1
+	4
+audit
+	stale
+	tacit 65
+	admit 2
+	audit 1
+	4
+flown
+	stale
+	cloud 82
+	gloom 6
+	blown 2
+	flown 1
+	5
+flail
+	stale
+	claim 28
+	plaid 4
+	flail 2
+	4
+local
+	stale
+	carol 57
+	local 3
+	3
+niche
+	stale
+	drone 107
+	niche 12
+	3
+unfed
+	stale
+	decor 165
+	unwed 8
+	unfed 1
+	4
+shrew
+	stale
+	sewer 28
+	screw 2
+	shrew 1
+	4
+tasty
+	stale
+	nasty 11
+	hasty 3
+	tasty 2
+	4
+plead
+	stale
+	renal 37
+	plead 3
+	3
+skimp
+	stale
+	scion 56
+	skimp 6
+	3
+seize
+	stale
+	spire 32
+	shine 4
+	seize 1
+	4
+ovary
+	stale
+	drank 48
+	charm 5
+	ovary 1
+	4
+crane
+	stale
+	crave 28
+	crane 2
+	3
+thick
+	stale
+	truth 122
+	thick 4
+	3
+allow
+	stale
+	carol 57
+	alloy 4
+	allow 1
+	4
+bagel
+	stale
+	renal 37
+	bagel 6
+	3
+braid
+	stale
+	drank 48
+	fraud 2
+	braid 1
+	4
+imbue
+	stale
+	drone 107
+	piece 10
+	imbue 1
+	4
+scent
+	stale
+	swept 6
+	sheet 2
+	scent 1
+	4
+fight
+	stale
+	truth 122
+	might 5
+	fight 3
+	4
+child
+	stale
+	droll 44
+	build 3
+	child 1
+	4
+finch
+	stale
+	round 221
+	nymph 9
+	finch 3
+	4
+filly
+	stale
+	droll 44
+	filly 7
+	3
+coast
+	stale
+	trash 5
+	coast 2
+	3
+worst
+	stale
+	frost 29
+	worst 1
+	3
+privy
+	stale
+	round 221
+	crimp 9
+	privy 1
+	4
+swath
+	stale
+	smart 4
+	swath 1
+	3
+upset
+	stale
+	reset 17
+	onset 3
+	upset 1
+	4
+briar
+	stale
+	rayon 136
+	vicar 8
+	friar 2
+	briar 1
+	5
+froth
+	stale
+	truth 122
+	broth 2
+	froth 1
+	4
+gayly
+	stale
+	dally 14
+	gayly 3
+	3
+icily
+	stale
+	droll 44
+	chili 3
+	icily 1
+	4
+trade
+	stale
+	grate 8
+	trade 2
+	3
+truly
+	stale
+	built 7
+	truly 1
+	3
+hefty
+	stale
+	deter 77
+	hefty 4
+	3
+moult
+	stale
+	built 7
+	moult 1
+	3
+gripe
+	stale
+	drone 107
+	prime 9
+	gripe 1
+	4
+oxide
+	stale
+	drone 107
+	oxide 1
+	3
+diner
+	stale
+	decor 165
+	diner 4
+	3
+afoot
+	stale
+	tacit 65
+	abort 5
+	afoot 2
+	4
+tubal
+	stale
+	natal 19
+	tidal 3
+	tubal 1
+	4
+thrum
+	stale
+	truth 122
+	thrum 1
+	3
+spurn
+	stale
+	scion 56
+	spurn 1
+	3
+farce
+	stale
+	range 31
+	carve 2
+	farce 1
+	4
+until
+	stale
+	flint 18
+	until 1
+	3
+brake
+	stale
+	crave 28
+	grade 7
+	brake 2
+	4
+elude
+	stale
+	globe 22
+	flume 5
+	elude 1
+	4
+chute
+	stale
+	trice 28
+	chute 1
+	3
+waist
+	stale
+	nasty 11
+	waist 1
+	3
+exalt
+	stale
+	dealt 2
+	exalt 1
+	3
+adapt
+	stale
+	tract 20
+	adapt 3
+	3
+bonus
+	stale
+	missy 42
+	focus 3
+	bonus 1
+	4
+clack
+	stale
+	claim 28
+	clack 3
+	3
+south
+	stale
+	shout 21
+	south 1
+	3
+bobby
+	stale
+	round 221
+	boozy 11
+	bobby 1
+	4
+crave
+	stale
+	crave 28
+	2
+sweep
+	stale
+	sewer 28
+	sweep 1
+	3
+deity
+	stale
+	deter 77
+	debit 5
+	deity 1
+	4
+adult
+	stale
+	fault 5
+	adult 1
+	3
+cress
+	stale
+	poser 19
+	cress 4
+	3
+attic
+	stale
+	attic 1
+	2
+inbox
+	stale
+	round 221
+	onion 5
+	inbox 1
+	4
+urban
+	stale
+	rayon 136
+	urban 1
+	3
+newly
+	stale
+	whelp 12
+	newly 1
+	3
+angel
+	stale
+	renal 37
+	angel 2
+	3
+grope
+	stale
+	drone 107
+	probe 6
+	grope 1
+	4
+aroma
+	stale
+	rayon 136
+	croak 6
+	aroma 1
+	4
+pluck
+	stale
+	cloud 82
+	pluck 1
+	3
+brown
+	stale
+	round 221
+	crown 6
+	brown 3
+	4
+dross
+	stale
+	missy 42
+	dross 3
+	3
+fizzy
+	stale
+	round 221
+	wimpy 12
+	jiffy 2
+	fizzy 1
+	5
+plait
+	stale
+	trail 5
+	plait 1
+	3
+scone
+	stale
+	spire 32
+	shone 7
+	scone 1
+	4
+sting
+	stale
+	stunk 24
+	stint 3
+	sting 1
+	4
+sworn
+	stale
+	scion 56
+	shorn 3
+	sworn 1
+	4
+acrid
+	stale
+	rayon 136
+	vicar 8
+	acrid 1
+	4
+shyly
+	stale
+	sully 11
+	shyly 1
+	3
+knife
+	stale
+	drone 107
+	niche 12
+	genie 2
+	knife 1
+	5
+preen
+	stale
+	decor 165
+	grief 8
+	preen 1
+	4
+ethic
+	stale
+	otter 5
+	ethic 1
+	3
+whoop
+	stale
+	round 221
+	chock 3
+	whoop 1
+	4
+steel
+	stale
+	steel 1
+	2
+swish
+	stale
+	scion 56
+	skimp 6
+	swish 1
+	4
+quota
+	stale
+	tacit 65
+	junta 4
+	quota 1
+	4
+alarm
+	stale
+	claim 28
+	alarm 1
+	3
+thief
+	stale
+	deter 77
+	comet 6
+	thief 1
+	4
+stalk
+	stale
+	stalk 2
+	2
+verse
+	stale
+	rouse 27
+	verse 1
+	3
+royal
+	stale
+	carol 57
+	royal 1
+	3
+brunt
+	stale
+	truth 122
+	grunt 3
+	brunt 1
+	4
+shiny
+	stale
+	scion 56
+	suing 5
+	shiny 2
+	4
+rover
+	stale
+	decor 165
+	mower 16
+	rover 8
+	4
+aunty
+	stale
+	tacit 65
+	junta 4
+	aunty 1
+	4
+frock
+	stale
+	round 221
+	crook 14
+	frock 1
+	4
+avert
+	stale
+	taper 27
+	great 3
+	avert 1
+	4
+doing
+	stale
+	round 221
+	doing 2
+	3
+prawn
+	stale
+	drank 48
+	brawn 4
+	prawn 1
+	4
+ninth
+	stale
+	truth 122
+	ninth 5
+	3
+sheer
+	stale
+	sewer 28
+	sheer 2
+	3
+caulk
+	stale
+	daily 14
+	caulk 1
+	3
+clank
+	stale
+	claim 28
+	clack 3
+	clank 1
+	4
+moose
+	stale
+	rouse 27
+	poise 7
+	goose 3
+	moose 2
+	5
+macro
+	stale
+	rayon 136
+	macro 2
+	3
+otter
+	stale
+	otter 5
+	2
+stuck
+	stale
+	stunk 24
+	stuck 1
+	3
+teeth
+	stale
+	deter 77
+	teeth 1
+	3
+focal
+	stale
+	carol 57
+	local 3
+	focal 2
+	4
+hater
+	stale
+	taper 27
+	hater 4
+	3
+ferry
+	stale
+	decor 165
+	berry 8
+	ferry 2
+	4
+alike
+	stale
+	alive 9
+	alike 1
+	3
+mound
+	stale
+	round 221
+	found 6
+	pound 5
+	mound 4
+	5
+visor
+	stale
+	missy 42
+	visor 3
+	3
+manic
+	stale
+	rayon 136
+	manic 5
+	3
+weary
+	stale
+	heady 12
+	weary 1
+	3
+bigot
+	stale
+	truth 122
+	point 10
+	bigot 1
+	4
+erase
+	stale
+	cease 6
+	erase 1
+	3
+micro
+	stale
+	round 221
+	crook 14
+	micro 1
+	4
+gayer
+	stale
+	amber 61
+	parer 12
+	wager 6
+	gayer 2
+	5
+heady
+	stale
+	heady 12
+	2
+snout
+	stale
+	shout 21
+	scout 3
+	snout 2
+	4
+chair
+	stale
+	drank 48
+	charm 5
+	chair 1
+	4
+aptly
+	stale
+	fault 5
+	aptly 1
+	3
+drill
+	stale
+	droll 44
+	drill 1
+	3
+plier
+	stale
+	leper 67
+	plier 1
+	3
+myrrh
+	stale
+	round 221
+	crimp 9
+	myrrh 1
+	4
+twist
+	stale
+	frost 29
+	twist 2
+	3
+smear
+	stale
+	spear 10
+	smear 3
+	3
+wedge
+	stale
+	drone 107
+	budge 8
+	hedge 3
+	wedge 1
+	5
+blaze
+	stale
+	blare 13
+	blade 3
+	blaze 2
+	4
+optic
+	stale
+	truth 122
+	point 10
+	optic 1
+	4
+tooth
+	stale
+	truth 122
+	tooth 1
+	3
+tawny
+	stale
+	tacit 65
+	tangy 7
+	tawny 1
+	4
+crier
+	stale
+	decor 165
+	cheer 3
+	crier 2
+	4
+honey
+	stale
+	decor 165
+	women 9
+	boney 2
+	honey 1
+	5
+lobby
+	stale
+	cloud 82
+	lobby 9
+	3
+mambo
+	stale
+	rayon 136
+	macho 3
+	mambo 1
+	4
+rotor
+	stale
+	truth 122
+	motor 4
+	rotor 1
+	4
+brave
+	stale
+	crave 28
+	grave 2
+	brave 1
+	4
+baler
+	stale
+	renal 37
+	paler 4
+	baler 1
+	4
+bused
+	stale
+	poser 19
+	bused 1
+	3
+humph
+	stale
+	round 221
+	jumpy 14
+	humph 1
+	4
+lilac
+	stale
+	carol 57
+	iliac 2
+	lilac 1
+	4
+refit
+	stale
+	deter 77
+	refit 6
+	3
+swore
+	stale
+	spire 32
+	swore 4
+	3
+growl
+	stale
+	cloud 82
+	prowl 4
+	growl 1
+	4
+crowd
+	stale
+	round 221
+	crowd 4
+	3
+croup
+	stale
+	round 221
+	curio 7
+	croup 1
+	4
+drink
+	stale
+	round 221
+	drink 1
+	3
+breed
+	stale
+	decor 165
+	fried 5
+	greed 2
+	breed 1
+	5
+horny
+	stale
+	round 221
+	horny 2
+	3
+sloth
+	stale
+	sloth 2
+	2
+sneak
+	stale
+	spear 10
+	sneak 1
+	3
+tango
+	stale
+	tacit 65
+	tangy 7
+	tango 1
+	4
+fishy
+	stale
+	missy 42
+	wispy 3
+	fishy 2
+	4
+maker
+	stale
+	amber 61
+	maker 2
+	3
+exile
+	stale
+	boule 12
+	exile 4
+	3
+flank
+	stale
+	claim 28
+	blank 7
+	flank 2
+	4
+scald
+	stale
+	scalp 5
+	scald 2
+	3
+wrung
+	stale
+	round 221
+	wrung 1
+	3
+adage
+	stale
+	crave 28
+	image 7
+	adage 1
+	4
+groin
+	stale
+	round 221
+	crown 6
+	groin 1
+	4
+pinky
+	stale
+	round 221
+	nymph 9
+	pinky 1
+	4
+stunt
+	stale
+	stunk 24
+	stunt 2
+	3
+burly
+	stale
+	droll 44
+	burly 3
+	3
+draft
+	stale
+	tract 20
+	draft 3
+	3
+axial
+	stale
+	carol 57
+	anvil 6
+	axial 1
+	4
+third
+	stale
+	truth 122
+	throb 4
+	third 1
+	4
+boast
+	stale
+	trash 5
+	coast 2
+	boast 1
+	4
+skill
+	stale
+	sully 11
+	spill 3
+	skill 2
+	4
+rayon
+	stale
+	rayon 136
+	2
+shank
+	stale
+	spark 23
+	shank 4
+	3
+pushy
+	stale
+	missy 42
+	pushy 4
+	3
+wench
+	stale
+	decor 165
+	beech 3
+	wench 1
+	4
+again
+	stale
+	drank 48
+	chain 2
+	again 1
+	4
+begun
+	stale
+	decor 165
+	feign 9
+	begun 1
+	4
+error
+	stale
+	decor 165
+	error 1
+	3
+leaky
+	stale
+	leafy 6
+	leaky 1
+	3
+crook
+	stale
+	round 221
+	crook 14
+	3
+thorn
+	stale
+	truth 122
+	throb 4
+	thorn 1
+	4
+satin
+	stale
+	satyr 4
+	satin 1
+	3
+shear
+	stale
+	spear 10
+	smear 3
+	shear 2
+	4
+brash
+	stale
+	crash 13
+	brash 1
+	3
+watch
+	stale
+	tacit 65
+	catty 7
+	watch 5
+	4
+lemur
+	stale
+	leper 67
+	lemur 1
+	3
+spray
+	stale
+	saucy 17
+	spray 1
+	3
+handy
+	stale
+	rayon 136
+	candy 8
+	handy 2
+	4
+lyric
+	stale
+	cloud 82
+	lyric 2
+	3
+rivet
+	stale
+	deter 77
+	threw 2
+	rivet 1
+	4
+stake
+	stale
+	stage 5
+	stake 4
+	3
+power
+	stale
+	decor 165
+	mower 16
+	power 2
+	4
+triad
+	stale
+	tacit 65
+	triad 1
+	3
+cluck
+	stale
+	cloud 82
+	clung 3
+	cluck 2
+	4
+adorn
+	stale
+	rayon 136
+	adorn 4
+	3
+banjo
+	stale
+	rayon 136
+	mango 2
+	banjo 1
+	4
+sorry
+	stale
+	scion 56
+	sword 5
+	sorry 1
+	4
+grown
+	stale
+	round 221
+	crown 6
+	brown 3
+	grown 2
+	5
+mauve
+	stale
+	range 31
+	maybe 6
+	mauve 2
+	4
+swarm
+	stale
+	spark 23
+	scary 4
+	swarm 2
+	4
+start
+	stale
+	stank 11
+	stair 6
+	start 1
+	4
+decor
+	stale
+	decor 165
+	2
+razor
+	stale
+	rayon 136
+	razor 1
+	3
+being
+	stale
+	decor 165
+	feign 9
+	being 1
+	4
+crick
+	stale
+	round 221
+	crimp 9
+	crick 1
+	4
+decay
+	stale
+	amber 61
+	cheap 7
+	decay 1
+	4
+chunk
+	stale
+	round 221
+	chunk 1
+	3
+kitty
+	stale
+	truth 122
+	ditto 6
+	kitty 3
+	4
+dowdy
+	stale
+	round 221
+	dowdy 6
+	3
+pixel
+	stale
+	leper 67
+	pixel 2
+	3
+unmet
+	stale
+	deter 77
+	comet 6
+	unmet 1
+	4
+mecca
+	stale
+	amber 61
+	mecca 3
+	3
+tulip
+	stale
+	flint 18
+	tulip 1
+	3
+skier
+	stale
+	sewer 28
+	surer 4
+	skier 2
+	4
+jumpy
+	stale
+	round 221
+	jumpy 14
+	3
+spend
+	stale
+	sewer 28
+	speck 3
+	spend 1
+	4
+trite
+	stale
+	trice 28
+	trite 3
+	3
+elite
+	stale
+	lithe 4
+	elite 1
+	3
+cleat
+	stale
+	pleat 12
+	bleat 2
+	cleat 1
+	4
+cumin
+	stale
+	round 221
+	hunky 10
+	cumin 1
+	4
+abort
+	stale
+	tacit 65
+	abort 5
+	3
+bezel
+	stale
+	leper 67
+	bezel 3
+	3
+crisp
+	stale
+	missy 42
+	frisk 4
+	crisp 1
+	4
+flock
+	stale
+	cloud 82
+	flock 2
+	3
+spade
+	stale
+	shape 13
+	space 3
+	spade 2
+	4
+snarl
+	stale
+	slain 7
+	snarl 1
+	3
+daisy
+	stale
+	amiss 14
+	daisy 1
+	3
+madly
+	stale
+	daily 14
+	madly 2
+	3
+rogue
+	stale
+	drone 107
+	gorge 6
+	rogue 1
+	4
+tarot
+	stale
+	tacit 65
+	tarot 2
+	3
+arrow
+	stale
+	rayon 136
+	abhor 5
+	arrow 1
+	4
+cacao
+	stale
+	rayon 136
+	macho 3
+	cacao 1
+	4
+fudge
+	stale
+	drone 107
+	budge 8
+	fudge 2
+	4
+inlay
+	stale
+	carol 57
+	inlay 7
+	3
+basil
+	stale
+	basal 6
+	basil 1
+	3
+there
+	stale
+	trice 28
+	three 2
+	there 1
+	4
+mirth
+	stale
+	truth 122
+	forth 6
+	birth 3
+	mirth 2
+	5
+tough
+	stale
+	truth 122
+	tough 2
+	3
+modal
+	stale
+	carol 57
+	loyal 5
+	modal 2
+	4
+wreak
+	stale
+	amber 61
+	creak 7
+	wreak 2
+	4
+inlet
+	stale
+	betel 11
+	inlet 2
+	3
+recut
+	stale
+	deter 77
+	refit 6
+	recut 2
+	4
+rally
+	stale
+	daily 14
+	manly 3
+	gayly 2
+	rally 1
+	5
+genre
+	stale
+	drone 107
+	genre 2
+	3
+bulge
+	stale
+	globe 22
+	bulge 2
+	3
+lurch
+	stale
+	cloud 82
+	lurch 5
+	3
+sooty
+	stale
+	shout 21
+	sooty 1
+	3
+elect
+	stale
+	betel 11
+	elect 1
+	3
+pride
+	stale
+	drone 107
+	pride 4
+	3
+would
+	stale
+	droll 44
+	would 4
+	3
+shack
+	stale
+	spark 23
+	shank 4
+	shack 1
+	4
+giddy
+	stale
+	round 221
+	biddy 3
+	giddy 1
+	4
+lunch
+	stale
+	cloud 82
+	lurch 5
+	lunch 1
+	4
+ninja
+	stale
+	rayon 136
+	aping 4
+	ninja 1
+	4
+elfin
+	stale
+	leper 67
+	elfin 5
+	3
+revel
+	stale
+	leper 67
+	revel 2
+	3
+booth
+	stale
+	truth 122
+	ninth 5
+	booth 1
+	4
+dodgy
+	stale
+	round 221
+	dowdy 6
+	dodgy 1
+	4
+arbor
+	stale
+	rayon 136
+	abhor 5
+	arbor 1
+	4
+wince
+	stale
+	drone 107
+	niche 12
+	mince 2
+	wince 1
+	5
+weedy
+	stale
+	decor 165
+	weedy 2
+	3
+shale
+	stale
+	shale 2
+	2
+today
+	stale
+	tacit 65
+	topaz 3
+	today 1
+	4
+medic
+	stale
+	decor 165
+	medic 1
+	3
+pizza
+	stale
+	rayon 136
+	pizza 3
+	3
+taint
+	stale
+	tacit 65
+	taint 1
+	3
+clamp
+	stale
+	claim 28
+	clamp 1
+	3
+lousy
+	stale
+	floss 9
+	lousy 1
+	3
+impel
+	stale
+	leper 67
+	impel 1
+	3
+ladle
+	stale
+	amble 11
+	ladle 2
+	3
+steal
+	stale
+	steal 1
+	2
+dream
+	stale
+	amber 61
+	dream 2
+	3
+grime
+	stale
+	drone 107
+	prime 9
+	grime 2
+	4
+wrist
+	stale
+	frost 29
+	trust 4
+	wrist 1
+	4
+cello
+	stale
+	hello 12
+	cello 1
+	3
+pupal
+	stale
+	carol 57
+	anvil 6
+	pupal 1
+	4
+ahead
+	stale
+	amber 61
+	ahead 1
+	3
+retro
+	stale
+	deter 77
+	metro 4
+	retro 1
+	4
+willy
+	stale
+	droll 44
+	filly 7
+	hilly 3
+	willy 2
+	5
+witch
+	stale
+	truth 122
+	witch 6
+	3
+spent
+	stale
+	swept 6
+	spent 1
+	3
+tramp
+	stale
+	tract 20
+	tramp 2
+	3
+canal
+	stale
+	carol 57
+	canal 3
+	3
+eagle
+	stale
+	amble 11
+	ladle 2
+	eagle 1
+	4
+maxim
+	stale
+	rayon 136
+	mamma 10
+	maxim 1
+	4
+hatch
+	stale
+	tacit 65
+	catty 7
+	watch 5
+	hatch 4
+	5
+cable
+	stale
+	amble 11
+	fable 2
+	cable 1
+	4
+chirp
+	stale
+	round 221
+	crimp 9
+	chirp 1
+	4
+dizzy
+	stale
+	round 221
+	biddy 3
+	dizzy 1
+	4
+bowel
+	stale
+	leper 67
+	dowel 9
+	vowel 2
+	bowel 1
+	5
+jetty
+	stale
+	deter 77
+	petty 3
+	jetty 1
+	4
+month
+	stale
+	truth 122
+	ninth 5
+	month 1
+	4
+exact
+	stale
+	heart 10
+	exact 2
+	3
+baste
+	stale
+	taste 6
+	baste 5
+	3
+canon
+	stale
+	rayon 136
+	bacon 3
+	canon 1
+	4
+chore
+	stale
+	drone 107
+	chore 1
+	3
+field
+	stale
+	whelp 12
+	field 3
+	3
+truth
+	stale
+	truth 122
+	2
+lanky
+	stale
+	carol 57
+	balmy 4
+	lanky 1
+	4
+batch
+	stale
+	tacit 65
+	catty 7
+	watch 5
+	hatch 4
+	batch 3
+	6
+glove
+	stale
+	globe 22
+	glove 1
+	3
+cream
+	stale
+	amber 61
+	dream 2
+	cream 1
+	4
+shine
+	stale
+	spire 32
+	shine 4
+	3
+prone
+	stale
+	drone 107
+	prone 2
+	3
+alive
+	stale
+	alive 9
+	2
+soapy
+	stale
+	spark 23
+	scamp 3
+	soapy 1
+	4
+snort
+	stale
+	shout 21
+	sport 2
+	snort 1
+	4
+beast
+	stale
+	feast 3
+	beast 2
+	3
+sprig
+	stale
+	scion 56
+	squib 4
+	sprig 1
+	4
+corer
+	stale
+	decor 165
+	corer 3
+	3
+spout
+	stale
+	short 21
+	scout 3
+	snout 2
+	spout 1
+	5
+nosey
+	stale
+	poser 19
+	nosey 1
+	3
+freak
+	stale
+	amber 61
+	creak 7
+	wreak 2
+	freak 1
+	5
+covey
+	stale
+	decor 165
+	covey 3
+	3
+stool
+	stale
+	stool 1
+	2
+churn
+	stale
+	round 221
+	churn 1
+	3
+taken
+	stale
+	taper 27
+	taken 1
+	3
+tapir
+	stale
+	tacit 65
+	tapir 1
+	3
+motif
+	stale
+	truth 122
+	point 10
+	motif 1
+	4
+wryly
+	stale
+	droll 44
+	wryly 1
+	3
+price
+	stale
+	drone 107
+	prime 9
+	price 2
+	4
+guess
+	stale
+	poser 19
+	chess 2
+	guess 1
+	4
+input
+	stale
+	truth 122
+	uncut 6
+	input 1
+	4
+print
+	stale
+	truth 122
+	front 6
+	print 1
+	4
+lurid
+	stale
+	cloud 82
+	lurid 1
+	3
+drank
+	stale
+	drank 48
+	2
+vegan
+	stale
+	amber 61
+	cheap 7
+	vegan 1
+	4
+maize
+	stale
+	range 31
+	maybe 6
+	mauve 2
+	maize 1
+	5
+front
+	stale
+	truth 122
+	front 6
+	3
+hurry
+	stale
+	round 221
+	curry 6
+	hurry 2
+	4
+panic
+	stale
+	rayon 136
+	manic 5
+	panic 1
+	4
+chime
+	stale
+	drone 107
+	piece 10
+	chime 1
+	4
+fleck
+	stale
+	leper 67
+	elfin 5
+	fleck 1
+	4
+raspy
+	stale
+	amiss 14
+	raspy 1
+	3
+sleep
+	stale
+	sleep 3
+	2
+using
+	stale
+	missy 42
+	using 1
+	3
+tribe
+	stale
+	trice 28
+	trite 3
+	tribe 2
+	4
+tipsy
+	stale
+	frost 29
+	tipsy 1
+	3
+udder
+	stale
+	decor 165
+	ruder 5
+	under 2
+	udder 1
+	5
+stunk
+	stale
+	stunk 24
+	2
+undue
+	stale
+	drone 107
+	undue 2
+	3
+swine
+	stale
+	spire 32
+	shine 4
+	swine 1
+	4
+adopt
+	stale
+	tacit 65
+	abort 5
+	afoot 2
+	adopt 1
+	5
+glyph
+	stale
+	cloud 82
+	fling 4
+	glyph 1
+	4
+buyer
+	stale
+	decor 165
+	viper 18
+	freer 4
+	buyer 1
+	5
+ruler
+	stale
+	leper 67
+	idler 8
+	ruler 1
+	4
+elbow
+	stale
+	leper 67
+	elfin 5
+	elbow 2
+	4
+frisk
+	stale
+	missy 42
+	brisk 4
+	frisk 1
+	4
+piety
+	stale
+	deter 77
+	event 8
+	piety 1
+	4
+jaunt
+	stale
+	tacit 65
+	vaunt 6
+	jaunt 4
+	4
+swill
+	stale
+	sully 11
+	spill 3
+	skill 2
+	swill 1
+	5
+false
+	stale
+	false 2
+	2
+fanny
+	stale
+	rayon 136
+	candy 8
+	fanny 3
+	4
+crest
+	stale
+	reset 17
+	wrest 2
+	crest 1
+	4
+throw
+	stale
+	truth 122
+	throb 4
+	throw 1
+	4
+llama
+	stale
+	claim 28
+	llama 1
+	3
+login
+	stale
+	cloud 82
+	lobby 9
+	login 1
+	4
+shame
+	stale
+	shape 13
+	shake 5
+	shame 4
+	4
+unfit
+	stale
+	truth 122
+	uncut 6
+	unfit 1
+	4
+snide
+	stale
+	spire 32
+	shine 4
+	snide 1
+	4
+crass
+	stale
+	crash 13
+	crass 1
+	3
+sharp
+	stale
+	spark 23
+	sharp 1
+	3
+hunch
+	stale
+	round 221
+	hunky 10
+	hunch 1
+	4
+banal
+	stale
+	carol 57
+	banal 3
+	3
+aphid
+	stale
+	rayon 136
+	pizza 3
+	aphid 1
+	4
+dodge
+	stale
+	drone 107
+	dodge 1
+	3
+limbo
+	stale
+	cloud 82
+	lobby 9
+	limbo 1
+	4
+usage
+	stale
+	cease 6
+	usage 1
+	3
+sperm
+	stale
+	sewer 28
+	sperm 1
+	3
+talon
+	stale
+	natal 19
+	talon 1
+	3
+berry
+	stale
+	decor 165
+	ferry 8
+	berry 2
+	4
+aloof
+	stale
+	carol 57
+	alloy 4
+	aloof 1
+	4
+ether
+	stale
+	otter 5
+	ether 1
+	3
+sandy
+	stale
+	saucy 17
+	savvy 5
+	sassy 3
+	sandy 2
+	5
+dowry
+	stale
+	round 221
+	dowry 2
+	3
+ascot
+	stale
+	nasty 11
+	ascot 1
+	3
+smock
+	stale
+	scion 56
+	smock 2
+	3
+clean
+	stale
+	renal 37
+	clean 2
+	3
+hunky
+	stale
+	round 221
+	hunky 10
+	3
+scowl
+	stale
+	slink 18
+	spool 2
+	scowl 1
+	4
+grant
+	stale
+	tract 20
+	draft 3
+	grant 1
+	4
+glade
+	stale
+	blare 13
+	place 6
+	glade 4
+	4
+junto
+	stale
+	truth 122
+	junto 2
+	3
+dance
+	stale
+	range 31
+	dance 2
+	3
+curry
+	stale
+	round 221
+	curry 6
+	3
+slice
+	stale
+	slime 5
+	slice 2
+	3
+bulky
+	stale
+	cloud 82
+	pulpy 4
+	bulky 1
+	4
+eager
+	stale
+	amber 61
+	parer 12
+	wager 6
+	eager 1
+	5
+libel
+	stale
+	leper 67
+	linen 4
+	libel 1
+	4
+floss
+	stale
+	floss 9
+	2
+repay
+	stale
+	amber 61
+	creak 7
+	repay 1
+	4
+hippo
+	stale
+	round 221
+	chock 3
+	hippo 1
+	4
+shout
+	stale
+	shout 21
+	2
+chaos
+	stale
+	crash 13
+	chaos 1
+	3
+deign
+	stale
+	decor 165
+	debug 3
+	deign 1
+	4
+those
+	stale
+	terse 4
+	those 1
+	3
+kayak
+	stale
+	rayon 136
+	kayak 1
+	3
+skulk
+	stale
+	sully 11
+	skulk 1
+	3
+duvet
+	stale
+	deter 77
+	duvet 1
+	3
+nasal
+	stale
+	basal 6
+	nasal 1
+	3
+apply
+	stale
+	daily 14
+	apply 2
+	3
+plate
+	stale
+	elate 2
+	plate 1
+	3
+fried
+	stale
+	decor 165
+	fried 5
+	3
+bluer
+	stale
+	leper 67
+	idler 8
+	bluer 3
+	4
+cadet
+	stale
+	taper 27
+	cadet 4
+	3
+stale
+	stale
+	-1
+learn
+	stale
+	leaky 6
+	learn 2
+	3
+saucy
+	stale
+	saucy 17
+	2
+sixty
+	stale
+	shout 21
+	sixty 1
+	3
+testy
+	stale
+	reset 17
+	zesty 3
+	testy 1
+	4
+plume
+	stale
+	globe 22
+	flume 5
+	plume 1
+	4
+spicy
+	stale
+	scion 56
+	spicy 1
+	3
+blond
+	stale
+	cloud 82
+	flood 3
+	blond 1
+	4
+guppy
+	stale
+	round 221
+	jumpy 14
+	puppy 2
+	guppy 1
+	5
+splat
+	stale
+	salty 2
+	splat 1
+	3
+spook
+	stale
+	scion 56
+	spook 4
+	3
+flush
+	stale
+	floss 9
+	flush 1
+	3
+bloat
+	stale
+	natal 19
+	float 3
+	gloat 2
+	bloat 1
+	5
+tonal
+	stale
+	natal 19
+	tonal 1
+	3
+juror
+	stale
+	round 221
+	curio 7
+	juror 2
+	4
+joker
+	stale
+	decor 165
+	mower 16
+	rover 8
+	poker 5
+	joker 1
+	6
+jazzy
+	stale
+	rayon 136
+	bawdy 12
+	mammy 3
+	jazzy 2
+	5
+eerie
+	stale
+	drone 107
+	revue 12
+	eerie 2
+	4
+tibia
+	stale
+	tacit 65
+	tibia 1
+	3
+widow
+	stale
+	round 221
+	widow 2
+	3
+bitty
+	stale
+	truth 122
+	kitty 6
+	bitty 3
+	4
+daily
+	stale
+	daily 14
+	2
+madam
+	stale
+	rayon 136
+	mamma 10
+	madam 1
+	4
+dense
+	stale
+	rouse 27
+	dense 2
+	3
+smile
+	stale
+	smile 1
+	2
+virus
+	stale
+	missy 42
+	virus 2
+	3
+rocky
+	stale
+	round 221
+	rocky 2
+	3
+humor
+	stale
+	round 221
+	curio 7
+	humor 1
+	4
+parer
+	stale
+	amber 61
+	parer 12
+	3
+salvo
+	stale
+	salvo 6
+	2
+vigor
+	stale
+	round 221
+	crook 14
+	vigor 1
+	4
+robot
+	stale
+	truth 122
+	motor 4
+	robot 1
+	4
+catch
+	stale
+	tacit 65
+	catty 7
+	catch 1
+	4
+sunny
+	stale
+	scion 56
+	spunk 5
+	sunny 1
+	4
+bible
+	stale
+	boule 12
+	bible 2
+	3
+billy
+	stale
+	droll 44
+	filly 7
+	hilly 3
+	willy 2
+	billy 1
+	6
+stack
+	stale
+	stank 11
+	stack 2
+	3
+brawl
+	stale
+	claim 28
+	drawl 2
+	brawl 1
+	4
+audio
+	stale
+	rayon 136
+	avoid 6
+	audio 1
+	4
+gulch
+	stale
+	cloud 82
+	lurch 5
+	gulch 2
+	4
+plunk
+	stale
+	cloud 82
+	bluff 8
+	plunk 2
+	4
+lucid
+	stale
+	cloud 82
+	lucid 1
+	3
+rural
+	stale
+	carol 57
+	rural 3
+	3
+torus
+	stale
+	frost 29
+	torus 1
+	3
+onion
+	stale
+	round 221
+	onion 5
+	3
+sally
+	stale
+	sadly 2
+	sally 1
+	3
+finer
+	stale
+	decor 165
+	viper 18
+	miner 4
+	finer 1
+	5
+clone
+	stale
+	globe 22
+	clone 3
+	3
+clove
+	stale
+	globe 22
+	clone 3
+	clove 1
+	4
+dowel
+	stale
+	leper 67
+	vowel 9
+	bowel 2
+	dowel 1
+	5
+quiet
+	stale
+	deter 77
+	comet 6
+	quiet 1
+	4
+foamy
+	stale
+	drank 48
+	champ 5
+	foamy 1
+	4
+group
+	stale
+	round 221
+	curio 7
+	group 1
+	4
+anode
+	stale
+	range 31
+	anime 2
+	anode 1
+	4
+voila
+	stale
+	daily 14
+	voila 1
+	3
+papal
+	stale
+	carol 57
+	banal 3
+	papal 1
+	4
+write
+	stale
+	trice 28
+	write 1
+	3
+dread
+	stale
+	amber 61
+	creak 7
+	dread 1
+	4
+grasp
+	stale
+	crash 13
+	brass 3
+	grasp 1
+	4
+lover
+	stale
+	leper 67
+	lover 4
+	3
+death
+	stale
+	heart 10
+	death 2
+	3
+chuck
+	stale
+	round 221
+	chuck 2
+	3
+party
+	stale
+	tacit 65
+	party 8
+	3
+realm
+	stale
+	realm 2
+	2
+timid
+	stale
+	truth 122
+	toxin 7
+	timid 1
+	4
+cried
+	stale
+	decor 165
+	creed 2
+	cried 1
+	4
+argue
+	stale
+	range 31
+	argue 2
+	3
+golly
+	stale
+	droll 44
+	holly 5
+	folly 3
+	golly 2
+	5
+quote
+	stale
+	trice 28
+	butte 2
+	quote 1
+	4
+crumb
+	stale
+	round 221
+	crump 3
+	crumb 1
+	4
+value
+	stale
+	alive 9
+	value 1
+	3
+hovel
+	stale
+	leper 67
+	vowel 9
+	hovel 2
+	4
+often
+	stale
+	deter 77
+	octet 3
+	often 1
+	4
+umbra
+	stale
+	rayon 136
+	vicar 8
+	umbra 1
+	4
+bylaw
+	stale
+	carol 57
+	inlay 7
+	bylaw 1
+	4
+wring
+	stale
+	round 221
+	wring 4
+	3
+media
+	stale
+	amber 61
+	mecca 3
+	media 1
+	4
+chord
+	stale
+	round 221
+	crowd 4
+	chord 1
+	4
+jolly
+	stale
+	droll 44
+	holly 5
+	folly 3
+	golly 2
+	jolly 1
+	6
+detox
+	stale
+	deter 77
+	detox 1
+	3
+older
+	stale
+	leper 67
+	idler 8
+	older 1
+	4
+bribe
+	stale
+	drone 107
+	prime 9
+	bribe 1
+	4
+dying
+	stale
+	round 221
+	dying 1
+	3
+flaky
+	stale
+	claim 28
+	blank 7
+	flaky 1
+	4
+going
+	stale
+	round 221
+	going 1
+	3
+wafer
+	stale
+	amber 61
+	parer 12
+	wager 6
+	wafer 2
+	5
+awoke
+	stale
+	range 31
+	abode 5
+	awoke 1
+	4
+blush
+	stale
+	floss 9
+	plush 2
+	blush 1
+	4
+upper
+	stale
+	decor 165
+	riper 18
+	upper 2
+	4
+later
+	stale
+	pleat 12
+	delta 2
+	later 1
+	4
+press
+	stale
+	poser 19
+	press 1
+	3
+boxer
+	stale
+	decor 165
+	mower 16
+	rover 8
+	poker 5
+	foyer 3
+	boxer 2
+	7
+theft
+	stale
+	deter 77
+	event 8
+	theft 1
+	4
+tumor
+	stale
+	truth 122
+	turbo 2
+	tumor 1
+	4
+tweak
+	stale
+	taper 27
+	tweak 2
+	3
+prank
+	stale
+	drank 48
+	prank 3
+	3
+hussy
+	stale
+	missy 42
+	hussy 3
+	3
+groom
+	stale
+	round 221
+	crook 14
+	broom 3
+	groom 1
+	5
+trout
+	stale
+	truth 122
+	trout 1
+	3
+basic
+	stale
+	amiss 14
+	basic 2
+	3
+obese
+	stale
+	rouse 27
+	chose 3
+	obese 1
+	4
+bawdy
+	stale
+	rayon 136
+	bawdy 12
+	3
+dried
+	stale
+	decor 165
+	dried 1
+	3
+phony
+	stale
+	round 221
+	phony 2
+	3
+asset
+	stale
+	asset 1
+	2
+scram
+	stale
+	saucy 17
+	scram 2
+	3
+block
+	stale
+	cloud 82
+	block 2
+	3
+cycle
+	stale
+	boule 12
+	exile 4
+	cycle 1
+	4
+proxy
+	stale
+	round 221
+	crook 14
+	proxy 1
+	4
+agree
+	stale
+	range 31
+	argue 2
+	agree 1
+	4
+savor
+	stale
+	saucy 17
+	savor 1
+	3
+minty
+	stale
+	truth 122
+	minty 4
+	3
+blare
+	stale
+	blare 13
+	2
+stung
+	stale
+	stunk 24
+	stunt 2
+	stung 1
+	4
+mania
+	stale
+	rayon 136
+	manic 5
+	mania 1
+	4
+motel
+	stale
+	betel 11
+	hotel 2
+	motel 1
+	4
+viral
+	stale
+	carol 57
+	rural 3
+	viral 1
+	4
+loath
+	stale
+	trail 5
+	loath 2
+	3
+fruit
+	stale
+	truth 122
+	grunt 3
+	fruit 1
+	4
+brood
+	stale
+	round 221
+	crowd 4
+	brood 1
+	4
+woman
+	stale
+	rayon 136
+	woman 1
+	3
+union
+	stale
+	round 221
+	union 1
+	3
+gruff
+	stale
+	round 221
+	crump 3
+	gruff 1
+	4
+mover
+	stale
+	decor 165
+	mower 16
+	mover 1
+	4
+theta
+	stale
+	taper 27
+	tweak 2
+	theta 1
+	4
+swash
+	stale
+	spark 23
+	smash 4
+	swash 1
+	4
+slain
+	stale
+	slain 7
+	2
+mount
+	stale
+	truth 122
+	count 3
+	mount 1
+	4
+round
+	stale
+	round 221
+	2
+sleet
+	stale
+	sleet 2
+	2
+chest
+	stale
+	reset 17
+	guest 4
+	chest 1
+	4
+ember
+	stale
+	decor 165
+	viper 18
+	freer 4
+	ember 1
+	5
+fussy
+	stale
+	missy 42
+	hussy 3
+	fussy 1
+	4
+inter
+	stale
+	deter 77
+	outer 3
+	inter 1
+	4
+stilt
+	stale
+	still 2
+	stilt 1
+	3
+seven
+	stale
+	sewer 28
+	semen 2
+	seven 1
+	4
+curly
+	stale
+	droll 44
+	burly 3
+	curly 1
+	4
+godly
+	stale
+	droll 44
+	would 4
+	godly 1
+	4
+artsy
+	stale
+	nasty 11
+	artsy 1
+	3
+harem
+	stale
+	amber 61
+	harem 2
+	3
+sigma
+	stale
+	saucy 17
+	sonar 2
+	sigma 1
+	4
+verso
+	stale
+	poser 19
+	verso 1
+	3
+aware
+	stale
+	crave 28
+	aware 1
+	3
+delay
+	stale
+	renal 37
+	delay 1
+	3
+scrum
+	stale
+	scion 56
+	scrub 2
+	scrum 1
+	4
+drawn
+	stale
+	drank 48
+	drawn 2
+	3
+witty
+	stale
+	truth 122
+	ditto 6
+	kitty 3
+	bitty 2
+	witty 1
+	6
+flint
+	stale
+	flout 18
+	flirt 2
+	flint 1
+	4
+blimp
+	stale
+	cloud 82
+	fling 4
+	blimp 1
+	4
+twice
+	stale
+	trice 28
+	twice 1
+	3
+vocal
+	stale
+	carol 57
+	local 3
+	focal 2
+	vocal 1
+	5
+dingo
+	stale
+	round 221
+	dingo 1
+	3
+froze
+	stale
+	drone 107
+	probe 6
+	froze 2
+	4
+baggy
+	stale
+	rayon 136
+	bawdy 12
+	baggy 1
+	4
+wooly
+	stale
+	droll 44
+	wooly 1
+	3
+clink
+	stale
+	cloud 82
+	clink 5
+	3
+frank
+	stale
+	drank 48
+	prank 3
+	frank 2
+	4
+tamer
+	stale
+	taper 27
+	tamer 2
+	3
+other
+	stale
+	otter 5
+	other 1
+	3
+lager
+	stale
+	renal 37
+	paler 4
+	layer 2
+	lager 1
+	5
+whine
+	stale
+	drone 107
+	penne 2
+	whine 1
+	4
+opera
+	stale
+	amber 61
+	creak 7
+	opera 1
+	4
+posse
+	stale
+	rouse 27
+	poise 7
+	posse 1
+	4
+navel
+	stale
+	renal 37
+	angel 2
+	navel 1
+	4
+axiom
+	stale
+	rayon 136
+	cocoa 2
+	axiom 1
+	4
+grind
+	stale
+	round 221
+	grind 1
+	3
+stomp
+	stale
+	stunk 24
+	strip 8
+	stoop 2
+	stomp 1
+	5
+split
+	stale
+	sloth 2
+	split 1
+	3
+liege
+	stale
+	globe 22
+	liege 3
+	3
+icing
+	stale
+	round 221
+	icing 4
+	3
+wight
+	stale
+	truth 122
+	might 5
+	fight 3
+	wight 2
+	5
+forte
+	stale
+	trice 28
+	route 2
+	forte 1
+	4
+titan
+	stale
+	tacit 65
+	titan 1
+	3
+outdo
+	stale
+	truth 122
+	uncut 6
+	outgo 2
+	outdo 1
+	5
+exult
+	stale
+	dwelt 3
+	exult 1
+	3
+water
+	stale
+	taper 27
+	hater 4
+	water 3
+	4
+nutty
+	stale
+	truth 122
+	nutty 2
+	3
+blood
+	stale
+	cloud 82
+	flood 3
+	blood 1
+	4
+phone
+	stale
+	drone 107
+	phone 2
+	3
+lupus
+	stale
+	floss 9
+	lupus 1
+	3
+stoke
+	stale
+	store 4
+	stoke 3
+	3
+refer
+	stale
+	decor 165
+	fever 6
+	refer 1
+	4
+final
+	stale
+	carol 57
+	anvil 6
+	final 1
+	4
+shift
+	stale
+	shout 21
+	shift 2
+	3
+mocha
+	stale
+	rayon 136
+	avoid 6
+	mocha 2
+	4
+rugby
+	stale
+	round 221
+	rugby 1
+	3
+hobby
+	stale
+	round 221
+	boozy 11
+	hobby 1
+	4
+pagan
+	stale
+	rayon 136
+	cabin 2
+	pagan 1
+	4
+every
+	stale
+	decor 165
+	grief 8
+	every 2
+	4
+patio
+	stale
+	tacit 65
+	patio 2
+	3
+clang
+	stale
+	claim 28
+	clack 3
+	clang 1
+	4
+worry
+	stale
+	round 221
+	porch 4
+	forgo 2
+	worry 1
+	5
+space
+	stale
+	shape 13
+	spade 3
+	space 2
+	4
+vodka
+	stale
+	rayon 136
+	avoid 6
+	vodka 1
+	4
+suave
+	stale
+	shape 13
+	snare 4
+	suave 1
+	4
+unity
+	stale
+	truth 122
+	junto 2
+	unity 1
+	4
+touch
+	stale
+	truth 122
+	tough 2
+	touch 1
+	4
+pinto
+	stale
+	truth 122
+	minty 4
+	pinto 1
+	4
+dough
+	stale
+	round 221
+	dough 1
+	3
+hyena
+	stale
+	amber 61
+	cheap 7
+	hyena 1
+	4
+rowdy
+	stale
+	round 221
+	rowdy 1
+	3
+loser
+	stale
+	welsh 4
+	loser 1
+	3
+glean
+	stale
+	renal 37
+	clean 2
+	glean 1
+	4
+mural
+	stale
+	carol 57
+	rural 3
+	mural 1
+	4
+perch
+	stale
+	decor 165
+	perch 2
+	3
+stark
+	stale
+	stank 11
+	stack 2
+	stark 1
+	4
+idler
+	stale
+	leper 67
+	idler 8
+	3
+dummy
+	stale
+	round 221
+	dumpy 6
+	dummy 1
+	4
+tepid
+	stale
+	deter 77
+	teddy 2
+	tepid 1
+	4
+debit
+	stale
+	deter 77
+	debit 5
+	3
+alibi
+	stale
+	carol 57
+	inlay 7
+	alibi 1
+	4
+ridge
+	stale
+	drone 107
+	ridge 1
+	3
+glint
+	stale
+	flint 18
+	glint 1
+	3
+recur
+	stale
+	decor 165
+	recur 1
+	3
+eight
+	stale
+	deter 77
+	event 8
+	eight 1
+	4
+allot
+	stale
+	natal 19
+	aloft 2
+	allot 1
+	4
+filer
+	stale
+	leper 67
+	idler 8
+	filer 1
+	4
+shoot
+	stale
+	shout 21
+	shoot 2
+	3
+scene
+	stale
+	spire 32
+	shone 7
+	scene 1
+	4
+hutch
+	stale
+	truth 122
+	butch 3
+	hutch 2
+	4
+album
+	stale
+	carol 57
+	inlay 7
+	album 2
+	4
+midst
+	stale
+	frost 29
+	twist 2
+	midst 1
+	4
+grail
+	stale
+	claim 28
+	frail 4
+	grail 1
+	4
+depot
+	stale
+	deter 77
+	debit 5
+	depot 1
+	4
+grate
+	stale
+	grate 8
+	2
+chick
+	stale
+	round 221
+	wimpy 12
+	chick 1
+	4
+close
+	stale
+	close 4
+	2
+halve
+	stale
+	alive 9
+	halve 2
+	3
+occur
+	stale
+	round 221
+	curio 7
+	occur 1
+	4
+ennui
+	stale
+	decor 165
+	eying 10
+	ennui 1
+	4
+pence
+	stale
+	drone 107
+	niche 12
+	fence 2
+	pence 1
+	5
+shown
+	stale
+	scion 56
+	shorn 3
+	shown 1
+	4
+snake
+	stale
+	shape 13
+	snare 4
+	snake 1
+	4
+query
+	stale
+	decor 165
+	green 8
+	query 2
+	4
+gonad
+	stale
+	rayon 136
+	among 3
+	gonad 1
+	4
+grove
+	stale
+	drone 107
+	probe 6
+	froze 2
+	grove 1
+	5
+arise
+	stale
+	parse 10
+	arose 2
+	arise 1
+	4
+waver
+	stale
+	amber 61
+	parer 12
+	wager 6
+	wafer 2
+	waver 1
+	6
+usurp
+	stale
+	missy 42
+	focus 3
+	usurp 1
+	4
+slang
+	stale
+	snail 7
+	slang 1
+	3
+grief
+	stale
+	decor 165
+	grief 8
+	3
+abbey
+	stale
+	amber 61
+	abbey 1
+	3
+eying
+	stale
+	decor 165
+	eying 10
+	3
+fiend
+	stale
+	decor 165
+	unwed 8
+	fiend 1
+	4
+porch
+	stale
+	round 221
+	porch 4
+	3
+shave
+	stale
+	shape 13
+	shake 5
+	shade 4
+	shame 3
+	shave 2
+	6
+couch
+	stale
+	round 221
+	couch 5
+	3
+amity
+	stale
+	tacit 65
+	amity 1
+	3
+whiny
+	stale
+	round 221
+	icing 4
+	whiny 1
+	4
+label
+	stale
+	renal 37
+	bagel 6
+	label 1
+	4
+crust
+	stale
+	frost 29
+	trust 4
+	crust 1
+	4
+gruel
+	stale
+	leper 67
+	gruel 2
+	3
+fluke
+	stale
+	globe 22
+	flume 5
+	fluke 1
+	4
+salsa
+	stale
+	salvo 6
+	salsa 2
+	3
+idiom
+	stale
+	round 221
+	widow 2
+	idiom 1
+	4
+ozone
+	stale
+	drone 107
+	phone 2
+	ozone 1
+	4
+shrub
+	stale
+	scion 56
+	shrug 4
+	shrub 1
+	4
+blast
+	stale
+	blast 1
+	2
+droit
+	stale
+	truth 122
+	front 6
+	droit 1
+	4
+vista
+	stale
+	nasty 11
+	vista 1
+	3
+outer
+	stale
+	deter 77
+	outer 3
+	3
+ratio
+	stale
+	tacit 65
+	patio 2
+	ratio 1
+	4
+heave
+	stale
+	crave 28
+	heave 3
+	3
+trace
+	stale
+	grate 8
+	trade 2
+	trace 1
+	4
+slide
+	stale
+	slime 5
+	slice 2
+	slide 1
+	4
+weigh
+	stale
+	decor 165
+	feign 9
+	weigh 1
+	4
+ovoid
+	stale
+	round 221
+	ovoid 1
+	3
+burst
+	stale
+	frost 29
+	burst 1
+	3
+leach
+	stale
+	leaky 6
+	learn 2
+	leach 1
+	4
+felon
+	stale
+	leper 67
+	welch 7
+	felon 2
+	4
+denim
+	stale
+	decor 165
+	debug 3
+	denim 1
+	4
+check
+	stale
+	decor 165
+	chief 3
+	check 1
+	4
+olive
+	stale
+	globe 22
+	olive 1
+	3
+risky
+	stale
+	missy 42
+	wispy 3
+	fishy 2
+	risky 1
+	5
+psalm
+	stale
+	psalm 1
+	2
+retch
+	stale
+	deter 77
+	metro 4
+	retch 1
+	4
+snipe
+	stale
+	spire 32
+	snipe 1
+	3
+woven
+	stale
+	decor 165
+	women 9
+	woken 2
+	woven 1
+	5
+aider
+	stale
+	amber 61
+	anger 2
+	aider 1
+	4
+bunch
+	stale
+	round 221
+	hunky 10
+	punch 3
+	bunch 2
+	5
+shoal
+	stale
+	salsa 6
+	shoal 1
+	3
+vapor
+	stale
+	rayon 136
+	favor 3
+	vapor 1
+	4
+incur
+	stale
+	round 221
+	incur 1
+	3
+harry
+	stale
+	rayon 136
+	harpy 9
+	harry 2
+	4
+fancy
+	stale
+	rayon 136
+	candy 8
+	fancy 1
+	4
+straw
+	stale
+	strap 3
+	stray 2
+	straw 1
+	4
+untie
+	stale
+	trice 28
+	untie 1
+	3
+nerve
+	stale
+	drone 107
+	genre 2
+	nerve 1
+	4
+shell
+	stale
+	swell 5
+	shell 3
+	3
+woody
+	stale
+	round 221
+	dowdy 6
+	woody 1
+	4
+smoky
+	stale
+	scion 56
+	sword 5
+	smoky 1
+	4
+cargo
+	stale
+	rayon 136
+	macro 2
+	cargo 1
+	4
+track
+	stale
+	tract 20
+	track 1
+	3
+crime
+	stale
+	drone 107
+	prime 9
+	grime 2
+	crime 1
+	5
+stave
+	stale
+	stage 5
+	stake 4
+	stave 3
+	4
+novel
+	stale
+	leper 67
+	vowel 9
+	hovel 2
+	novel 1
+	5
+siren
+	stale
+	sewer 28
+	siren 1
+	3
+bloke
+	stale
+	globe 22
+	bloke 1
+	3
+bless
+	stale
+	welsh 4
+	bless 1
+	3
+solve
+	stale
+	slime 5
+	solve 1
+	3
+admin
+	stale
+	rayon 136
+	admin 3
+	3
+slunk
+	stale
+	slink 18
+	slunk 1
+	3
+ample
+	stale
+	amble 11
+	ample 1
+	3
+datum
+	stale
+	tacit 65
+	party 8
+	baton 2
+	datum 1
+	5
+debar
+	stale
+	amber 61
+	rebar 2
+	debar 1
+	4
+legal
+	stale
+	renal 37
+	pedal 5
+	legal 2
+	4
+blurt
+	stale
+	flint 18
+	blurt 2
+	3
+octal
+	stale
+	natal 19
+	total 3
+	octal 1
+	4
+savoy
+	stale
+	saucy 17
+	savvy 5
+	savoy 1
+	4
+unset
+	stale
+	reset 17
+	onset 3
+	unset 1
+	4
+dirty
+	stale
+	truth 122
+	dirty 2
+	3
+flout
+	stale
+	flint 18
+	flout 1
+	3
+haunt
+	stale
+	tacit 65
+	vaunt 6
+	jaunt 4
+	haunt 3
+	5
+quell
+	stale
+	whelp 12
+	field 3
+	quell 1
+	4
+movie
+	stale
+	drone 107
+	coupe 5
+	movie 1
+	4
+noble
+	stale
+	boule 12
+	noble 1
+	3
+wordy
+	stale
+	round 221
+	dowry 2
+	wordy 1
+	4
+botch
+	stale
+	truth 122
+	witch 6
+	botch 2
+	4
+booze
+	stale
+	drone 107
+	biome 4
+	booze 1
+	4
+lunar
+	stale
+	carol 57
+	lunar 1
+	3
+class
+	stale
+	clash 6
+	class 2
+	3
+shove
+	stale
+	spire 32
+	shone 7
+	shove 1
+	4
+stair
+	stale
+	stank 11
+	stair 6
+	3
+rerun
+	stale
+	decor 165
+	ferry 8
+	rerun 1
+	4
+marry
+	stale
+	rayon 136
+	harpy 9
+	carry 2
+	marry 1
+	5
+tonga
+	stale
+	tacit 65
+	topaz 3
+	tonga 1
+	4
+tacit
+	stale
+	tacit 65
+	2
+click
+	stale
+	cloud 82
+	clink 5
+	click 1
+	4
+pesto
+	stale
+	reset 17
+	zesty 3
+	pesto 1
+	4
+pesky
+	stale
+	poser 19
+	pesky 1
+	3
+moist
+	stale
+	frost 29
+	joust 4
+	moist 2
+	4
+joist
+	stale
+	frost 29
+	joust 4
+	joist 1
+	4
+tease
+	stale
+	tease 1
+	2
+etude
+	stale
+	etude 1
+	2
+dicey
+	stale
+	decor 165
+	dicey 1
+	3
+croak
+	stale
+	rayon 136
+	croak 6
+	3
+canoe
+	stale
+	range 31
+	dance 2
+	canoe 1
+	4
+purer
+	stale
+	decor 165
+	viper 18
+	purer 1
+	4
+birch
+	stale
+	round 221
+	crimp 9
+	birch 1
+	4
+bosom
+	stale
+	missy 42
+	bosom 1
+	3
+hardy
+	stale
+	rayon 136
+	harpy 9
+	harry 2
+	hardy 1
+	5
+proud
+	stale
+	round 221
+	proud 1
+	3
+quack
+	stale
+	drank 48
+	whack 3
+	quack 2
+	4
+shard
+	stale
+	spark 23
+	scary 4
+	swarm 2
+	shard 1
+	5
+floor
+	stale
+	cloud 82
+	gloom 6
+	floor 1
+	4
+chide
+	stale
+	drone 107
+	budge 8
+	chide 1
+	4
+skate
+	stale
+	skate 1
+	2
+women
+	stale
+	decor 165
+	women 9
+	3
+copse
+	stale
+	rouse 27
+	poise 7
+	copse 1
+	4
+droop
+	stale
+	round 221
+	hydro 2
+	droop 1
+	4
+waive
+	stale
+	range 31
+	maybe 6
+	cache 2
+	waive 1
+	5
+valve
+	stale
+	alive 9
+	halve 2
+	valve 1
+	4
+racer
+	stale
+	amber 61
+	parer 12
+	racer 1
+	4
+clump
+	stale
+	cloud 82
+	clung 3
+	cluck 2
+	clump 1
+	5
+quite
+	stale
+	trice 28
+	quite 3
+	3
+mouth
+	stale
+	truth 122
+	mouth 2
+	3
+unite
+	stale
+	trice 28
+	quite 3
+	unite 1
+	4
+grape
+	stale
+	crave 28
+	grade 7
+	grape 2
+	4
+vomit
+	stale
+	truth 122
+	point 10
+	vomit 1
+	4
+smack
+	stale
+	spark 23
+	shank 4
+	smack 1
+	4
+crony
+	stale
+	round 221
+	crony 4
+	3
+feral
+	stale
+	renal 37
+	feral 1
+	3
+filet
+	stale
+	betel 11
+	inlet 2
+	filet 1
+	4
+cramp
+	stale
+	drank 48
+	gravy 5
+	cramp 1
+	4
+leant
+	stale
+	leant 2
+	2
+slurp
+	stale
+	slink 18
+	slump 5
+	slurp 1
+	4
+grand
+	stale
+	drank 48
+	grand 2
+	3
+bough
+	stale
+	round 221
+	couch 5
+	bough 1
+	4
+dally
+	stale
+	daily 14
+	dally 1
+	3
+spare
+	stale
+	shape 13
+	spade 3
+	space 2
+	spare 1
+	5
+arson
+	stale
+	amiss 14
+	assay 2
+	arson 1
+	4
+prize
+	stale
+	drone 107
+	prime 9
+	price 2
+	prize 1
+	5
+chose
+	stale
+	rouse 27
+	chose 3
+	3
+poser
+	stale
+	poser 19
+	2
+dunce
+	stale
+	drone 107
+	dunce 1
+	3
+slick
+	stale
+	slink 18
+	slick 1
+	3
+teary
+	stale
+	heart 10
+	teary 1
+	3
+peril
+	stale
+	leper 67
+	peril 1
+	3
+comfy
+	stale
+	round 221
+	boozy 11
+	foggy 3
+	comfy 1
+	5
+yacht
+	stale
+	tacit 65
+	yacht 1
+	3
+sight
+	stale
+	shout 21
+	sight 1
+	3
+brush
+	stale
+	missy 42
+	crush 2
+	brush 1
+	4
+wacky
+	stale
+	rayon 136
+	bawdy 12
+	wacky 1
+	4
+magma
+	stale
+	rayon 136
+	mamma 10
+	magma 1
+	4
+parka
+	stale
+	rayon 136
+	karma 3
+	parka 1
+	4
+nurse
+	stale
+	rouse 27
+	nurse 3
+	3
+thong
+	stale
+	truth 122
+	thick 4
+	thong 1
+	4
+opium
+	stale
+	round 221
+	gumbo 4
+	opium 1
+	4
+gnome
+	stale
+	drone 107
+	gnome 1
+	3
+reuse
+	stale
+	rouse 27
+	reuse 1
+	3
+chalk
+	stale
+	koala 3
+	chalk 1
+	3
+nerdy
+	stale
+	decor 165
+	nerdy 3
+	3
+plump
+	stale
+	cloud 82
+	bluff 8
+	plunk 2
+	plump 1
+	5
+fleet
+	stale
+	betel 11
+	fleet 1
+	3
+aglow
+	stale
+	carol 57
+	alloy 4
+	aglow 1
+	4
+gorge
+	stale
+	drone 107
+	gorge 6
+	3
+ashen
+	stale
+	ashen 3
+	2
+wrong
+	stale
+	round 221
+	crony 4
+	wrong 2
+	4
+salad
+	stale
+	salvo 6
+	salsa 2
+	salad 1
+	4
+wharf
+	stale
+	drank 48
+	charm 5
+	wharf 1
+	4
+basin
+	stale
+	amiss 14
+	basic 2
+	basin 1
+	4
+brick
+	stale
+	round 221
+	crimp 9
+	brick 1
+	4
+daunt
+	stale
+	tacit 65
+	vaunt 6
+	jaunt 4
+	haunt 3
+	daunt 2
+	6
+raven
+	stale
+	amber 61
+	raven 1
+	3
+unify
+	stale
+	round 221
+	hunky 10
+	unify 1
+	4
+stink
+	stale
+	stunk 24
+	stink 1
+	3
+gleam
+	stale
+	renal 37
+	plead 3
+	gleam 2
+	4
+knave
+	stale
+	crave 28
+	heave 3
+	knave 1
+	4
+bride
+	stale
+	drone 107
+	pride 4
+	bride 1
+	4
+ready
+	stale
+	heady 12
+	beady 2
+	ready 1
+	4
+eaten
+	stale
+	taper 27
+	cadet 4
+	eaten 2
+	4
+quill
+	stale
+	droll 44
+	chill 2
+	quill 1
+	4
+lodge
+	stale
+	globe 22
+	lodge 1
+	3
+penny
+	stale
+	decor 165
+	feign 9
+	penny 1
+	4
+recap
+	stale
+	amber 61
+	creak 7
+	recap 1
+	4
+trend
+	stale
+	deter 77
+	trend 1
+	3
+bilge
+	stale
+	globe 22
+	bulge 2
+	bilge 1
+	4
+knock
+	stale
+	round 221
+	onion 5
+	knock 1
+	4
+zebra
+	stale
+	amber 61
+	zebra 1
+	3
+shock
+	stale
+	scion 56
+	smock 2
+	shock 1
+	4
+acute
+	stale
+	haute 3
+	acute 1
+	3
+slant
+	stale
+	slant 1
+	2
+stole
+	stale
+	stole 2
+	2
+whole
+	stale
+	boule 12
+	whole 1
+	3
+clasp
+	stale
+	clash 6
+	class 2
+	clasp 1
+	4
+needy
+	stale
+	decor 165
+	weedy 2
+	needy 1
+	4
+siege
+	stale
+	spire 32
+	siege 4
+	3
+above
+	stale
+	range 31
+	abode 5
+	above 1
+	4
+brisk
+	stale
+	missy 42
+	frisk 4
+	brisk 1
+	4
+lasso
+	stale
+	basal 6
+	lasso 1
+	3
+scope
+	stale
+	spire 32
+	scope 1
+	3
+gaily
+	stale
+	daily 14
+	gaily 1
+	3
+slash
+	stale
+	slain 7
+	slash 2
+	3
+cross
+	stale
+	missy 42
+	dross 3
+	cross 2
+	4
+ought
+	stale
+	truth 122
+	ought 1
+	3
+storm
+	stale
+	stunk 24
+	strip 8
+	storm 2
+	4
+defer
+	stale
+	decor 165
+	demur 2
+	defer 1
+	4
+cloth
+	stale
+	flint 18
+	cloth 1
+	3
+sling
+	stale
+	slink 18
+	sling 1
+	3
+rider
+	stale
+	decor 165
+	ruder 5
+	rider 1
+	4
+beard
+	stale
+	heady 12
+	beard 1
+	3
+dilly
+	stale
+	droll 44
+	dully 2
+	dilly 1
+	4
+hence
+	stale
+	drone 107
+	niche 12
+	hence 1
+	4
+deuce
+	stale
+	drone 107
+	deuce 1
+	3
+topic
+	stale
+	truth 122
+	toxin 7
+	topic 1
+	4
+lingo
+	stale
+	cloud 82
+	lobby 9
+	lingo 1
+	4
+ruddy
+	stale
+	round 221
+	ruddy 1
+	3
+teach
+	stale
+	heart 10
+	death 2
+	teach 1
+	4
+prism
+	stale
+	missy 42
+	prism 1
+	3
+verve
+	stale
+	drone 107
+	revue 12
+	verve 2
+	4
+snuck
+	stale
+	scion 56
+	snuck 1
+	3
+fault
+	stale
+	fault 5
+	2
+corny
+	stale
+	round 221
+	horny 2
+	corny 1
+	4
+stoic
+	stale
+	stunk 24
+	strip 8
+	stoic 1
+	4
+soggy
+	stale
+	scion 56
+	sword 5
+	soggy 1
+	4
+tripe
+	stale
+	trice 28
+	trite 3
+	tribe 2
+	tripe 1
+	5
+amuse
+	stale
+	parse 10
+	amuse 2
+	3
+erupt
+	stale
+	deter 77
+	erupt 6
+	3
+grace
+	stale
+	crave 28
+	grace 2
+	3
+sewer
+	stale
+	sewer 28
+	2
+angst
+	stale
+	nasty 11
+	angst 1
+	3
+rower
+	stale
+	decor 165
+	mower 16
+	power 2
+	rower 1
+	5
+cough
+	stale
+	round 221
+	couch 5
+	cough 1
+	4
+worse
+	stale
+	rouse 27
+	horse 2
+	worse 1
+	4
+brawn
+	stale
+	drank 48
+	brawn 4
+	3
+egret
+	stale
+	deter 77
+	greet 2
+	egret 1
+	4
+coral
+	stale
+	carol 57
+	coral 1
+	3
+delve
+	stale
+	globe 22
+	melee 2
+	delve 1
+	4
+bully
+	stale
+	droll 44
+	filly 7
+	gully 2
+	bully 1
+	5
+reign
+	stale
+	decor 165
+	ferry 8
+	reign 2
+	4
+cameo
+	stale
+	amber 61
+	cameo 1
+	3
+coven
+	stale
+	decor 165
+	covey 3
+	coven 1
+	4
+cater
+	stale
+	taper 27
+	hater 4
+	water 3
+	cater 2
+	5
+missy
+	stale
+	missy 42
+	2
+whose
+	stale
+	rouse 27
+	whose 3
+	3
+sower
+	stale
+	sewer 28
+	sower 1
+	3
+funny
+	stale
+	round 221
+	bunny 2
+	funny 1
+	4
+buxom
+	stale
+	round 221
+	gumbo 4
+	buxom 1
+	4
+lower
+	stale
+	leper 67
+	lover 4
+	lower 1
+	4
+juicy
+	stale
+	round 221
+	jumpy 14
+	juicy 1
+	4
+crazy
+	stale
+	drank 48
+	gravy 5
+	crazy 1
+	4
+crone
+	stale
+	drone 107
+	prone 2
+	crone 1
+	4
+risen
+	stale
+	poser 19
+	risen 1
+	3
+tatty
+	stale
+	tacit 65
+	tatty 1
+	3
+weave
+	stale
+	crave 28
+	heave 3
+	weave 1
+	4
+sweet
+	stale
+	swept 6
+	sweet 1
+	3
+skirt
+	stale
+	shout 21
+	swift 2
+	skirt 1
+	4
+rinse
+	stale
+	rouse 27
+	rinse 1
+	3
+havoc
+	stale
+	rayon 136
+	havoc 1
+	3
+reset
+	stale
+	reset 17
+	2
+tenth
+	stale
+	deter 77
+	hefty 4
+	tenth 1
+	4
+heart
+	stale
+	heart 10
+	2
+antic
+	stale
+	tacit 65
+	antic 1
+	3
+cairn
+	stale
+	rayon 136
+	cairn 1
+	3
+guide
+	stale
+	drone 107
+	budge 8
+	guide 1
+	4
+spelt
+	stale
+	smelt 2
+	spelt 1
+	3
+demon
+	stale
+	decor 165
+	demon 1
+	3
+dryer
+	stale
+	decor 165
+	diner 4
+	dryer 1
+	4
+cyber
+	stale
+	decor 165
+	cheer 3
+	crier 2
+	cyber 1
+	5
+drape
+	stale
+	crave 28
+	grade 7
+	drape 2
+	4
+betel
+	stale
+	betel 11
+	2
+music
+	stale
+	missy 42
+	music 1
+	3
+guild
+	stale
+	droll 44
+	build 3
+	guild 1
+	4
+await
+	stale
+	tract 20
+	adapt 3
+	await 1
+	4
+scrap
+	stale
+	saucy 17
+	scram 2
+	scrap 1
+	4
+shaft
+	stale
+	smart 4
+	scant 2
+	shaft 1
+	4
+posit
+	stale
+	frost 29
+	posit 1
+	3
+rusty
+	stale
+	frost 29
+	rusty 1
+	3
+dandy
+	stale
+	rayon 136
+	candy 8
+	handy 2
+	dandy 1
+	5
+merit
+	stale
+	deter 77
+	refit 6
+	merit 1
+	4
+knoll
+	stale
+	droll 44
+	knoll 1
+	3
+lathe
+	stale
+	latte 2
+	lathe 1
+	3
+abase
+	stale
+	cease 6
+	abase 2
+	3
+meant
+	stale
+	heart 10
+	meant 1
+	3
+quail
+	stale
+	claim 28
+	frail 4
+	avail 2
+	quail 1
+	5
+emcee
+	stale
+	drone 107
+	piece 10
+	emcee 1
+	4
+lemon
+	stale
+	leper 67
+	lemon 2
+	3
+ulcer
+	stale
+	leper 67
+	idler 8
+	bluer 3
+	ulcer 1
+	5
+shirt
+	stale
+	shout 21
+	shift 2
+	shirt 1
+	4
+giver
+	stale
+	decor 165
+	viper 18
+	giver 2
+	4
+spike
+	stale
+	spire 32
+	spice 3
+	spike 2
+	4
+forge
+	stale
+	drone 107
+	gorge 6
+	forge 1
+	4
+rearm
+	stale
+	heady 12
+	rearm 1
+	3
+stump
+	stale
+	stunk 24
+	stump 3
+	3
+gaffe
+	stale
+	range 31
+	gauze 3
+	gaffe 1
+	4
+eking
+	stale
+	decor 165
+	eying 10
+	eking 1
+	4
+glaze
+	stale
+	blare 13
+	place 6
+	glade 4
+	glaze 1
+	5
+swung
+	stale
+	scion 56
+	spunk 5
+	swung 1
+	4
+drama
+	stale
+	drank 48
+	drama 1
+	3
+carol
+	stale
+	carol 57
+	2
+honor
+	stale
+	round 221
+	honor 2
+	3
+resin
+	stale
+	poser 19
+	resin 1
+	3
+suite
+	stale
+	smote 4
+	suite 2
+	3
+bathe
+	stale
+	haute 3
+	bathe 1
+	3
+muddy
+	stale
+	round 221
+	dumpy 6
+	muddy 1
+	4
+cease
+	stale
+	cease 6
+	2
+tenor
+	stale
+	deter 77
+	tenor 1
+	3
+winch
+	stale
+	round 221
+	nymph 9
+	finch 3
+	winch 2
+	5
+lumen
+	stale
+	leper 67
+	linen 4
+	lumen 1
+	4
+sneer
+	stale
+	sewer 28
+	sheer 2
+	sneer 1
+	4
+organ
+	stale
+	rayon 136
+	adorn 4
+	organ 1
+	4
+abbot
+	stale
+	tacit 65
+	abort 5
+	abbot 1
+	4
+paper
+	stale
+	amber 61
+	parer 12
+	paper 2
+	4
+spilt
+	stale
+	spilt 1
+	2
+synod
+	stale
+	scion 56
+	snoop 2
+	synod 1
+	4
+troll
+	stale
+	built 7
+	hotly 2
+	troll 1
+	4
+snail
+	stale
+	slain 7
+	snail 1
+	3
+blame
+	stale
+	blare 13
+	blade 3
+	blaze 2
+	blame 1
+	5
+thump
+	stale
+	truth 122
+	thump 2
+	3
+payer
+	stale
+	amber 61
+	parer 12
+	paper 2
+	payer 1
+	5
+sound
+	stale
+	scion 56
+	snowy 2
+	sound 1
+	4
+drier
+	stale
+	decor 165
+	diner 4
+	drier 1
+	4
+puffy
+	stale
+	round 221
+	jumpy 14
+	puffy 1
+	4
+lapel
+	stale
+	renal 37
+	bagel 6
+	hazel 3
+	lapel 2
+	5
+squat
+	stale
+	satyr 4
+	squat 1
+	3
+spiny
+	stale
+	scion 56
+	suing 5
+	shiny 2
+	spiny 1
+	5
+groan
+	stale
+	rayon 136
+	adorn 4
+	groan 1
+	4
+giant
+	stale
+	tract 20
+	adapt 3
+	giant 1
+	4
+diver
+	stale
+	decor 165
+	diner 4
+	diver 1
+	4
+unzip
+	stale
+	round 221
+	hunky 10
+	unzip 1
+	4
+abide
+	stale
+	range 31
+	abode 5
+	abide 1
+	4
+belle
+	stale
+	boule 12
+	bible 2
+	belle 1
+	4
+duchy
+	stale
+	round 221
+	dumpy 6
+	duchy 1
+	4
+nomad
+	stale
+	rayon 136
+	among 3
+	nomad 1
+	4
+prong
+	stale
+	round 221
+	crony 4
+	wrong 2
+	prong 1
+	5
+mayor
+	stale
+	rayon 136
+	mayor 1
+	3
+sieve
+	stale
+	spire 32
+	siege 4
+	sieve 1
+	4
+trice
+	stale
+	trice 28
+	2
+spite
+	stale
+	smote 4
+	suite 2
+	spite 1
+	4
+stork
+	stale
+	stunk 24
+	stock 3
+	stork 1
+	4
+ombre
+	stale
+	drone 107
+	gorge 6
+	ombre 1
+	4
+hover
+	stale
+	decor 165
+	mower 16
+	rover 8
+	hover 1
+	5
+matey
+	stale
+	taper 27
+	cadet 4
+	eaten 2
+	matey 1
+	5
+glass
+	stale
+	clash 6
+	flask 2
+	glass 1
+	4
+odder
+	stale
+	decor 165
+	odder 2
+	3
+sooth
+	stale
+	shout 21
+	sooth 1
+	3
+blink
+	stale
+	cloud 82
+	fling 4
+	blink 1
+	4
+gamut
+	stale
+	tacit 65
+	vaunt 6
+	gamut 1
+	4
+purse
+	stale
+	rouse 27
+	nurse 3
+	purse 2
+	4
+prose
+	stale
+	rouse 27
+	prose 1
+	3
+manor
+	stale
+	rayon 136
+	manor 1
+	3
+slack
+	stale
+	slain 7
+	slash 2
+	slack 1
+	4
+choke
+	stale
+	drone 107
+	biome 4
+	evoke 2
+	choke 1
+	5
+serum
+	stale
+	sewer 28
+	serum 2
+	3
+angry
+	stale
+	rayon 136
+	angry 1
+	3
+dopey
+	stale
+	decor 165
+	dozen 2
+	dopey 1
+	4
+truss
+	stale
+	frost 29
+	truss 1
+	3
+augur
+	stale
+	rayon 136
+	vicar 8
+	augur 1
+	4
+roost
+	stale
+	frost 29
+	roost 1
+	3
+crate
+	stale
+	grate 8
+	crate 2
+	3
+guilt
+	stale
+	built 7
+	guilt 2
+	3
+venue
+	stale
+	drone 107
+	niche 12
+	venue 1
+	4
+phase
+	stale
+	cease 6
+	abase 2
+	phase 1
+	4
+dutch
+	stale
+	truth 122
+	butch 3
+	hutch 2
+	dutch 1
+	5
+stamp
+	stale
+	stank 11
+	stair 6
+	stamp 3
+	4
+fjord
+	stale
+	round 221
+	crowd 4
+	fjord 1
+	4
+tempo
+	stale
+	deter 77
+	hefty 4
+	tempo 1
+	4
+musky
+	stale
+	missy 42
+	mushy 2
+	musky 1
+	4
+pasty
+	stale
+	nasty 11
+	hasty 3
+	pasty 2
+	4
+known
+	stale
+	round 221
+	onion 5
+	known 1
+	4
+story
+	stale
+	stunk 24
+	strip 8
+	storm 2
+	story 1
+	5
+wound
+	stale
+	round 221
+	found 6
+	pound 5
+	mound 4
+	wound 3
+	6
+trope
+	stale
+	trice 28
+	trope 2
+	3
+along
+	stale
+	carol 57
+	along 3
+	3
+vouch
+	stale
+	round 221
+	couch 5
+	vouch 2
+	4
+shark
+	stale
+	spark 23
+	shark 1
+	3
+slept
+	stale
+	sleet 2
+	slept 1
+	3
+bugle
+	stale
+	boule 12
+	bugle 1
+	3
+pause
+	stale
+	parse 10
+	pause 1
+	3
+armor
+	stale
+	rayon 136
+	abhor 5
+	armor 2
+	4
+feign
+	stale
+	decor 165
+	feign 9
+	3
+piece
+	stale
+	drone 107
+	piece 10
+	3
+forty
+	stale
+	truth 122
+	dirty 2
+	forty 1
+	4
+tenet
+	stale
+	deter 77
+	beget 2
+	tenet 1
+	4
+strip
+	stale
+	stunk 24
+	strip 8
+	3
+broil
+	stale
+	cloud 82
+	prowl 4
+	broil 1
+	4
+lever
+	stale
+	leper 67
+	lever 1
+	3
+order
+	stale
+	decor 165
+	odder 2
+	order 1
+	4
+edict
+	stale
+	deter 77
+	edict 1
+	3
+wheat
+	stale
+	taper 27
+	cheat 4
+	wheat 1
+	4
+smith
+	stale
+	shout 21
+	sixth 2
+	smith 1
+	4
+widen
+	stale
+	decor 165
+	unwed 8
+	widen 1
+	4
+plied
+	stale
+	leper 67
+	pixel 2
+	plied 1
+	4
+drove
+	stale
+	drone 107
+	drove 1
+	3
+irate
+	stale
+	grate 8
+	crate 2
+	irate 1
+	4
+irony
+	stale
+	round 221
+	crony 4
+	irony 1
+	4
+vault
+	stale
+	fault 5
+	vault 1
+	3
+lipid
+	stale
+	cloud 82
+	livid 2
+	lipid 1
+	4
+bushy
+	stale
+	missy 42
+	pushy 4
+	bushy 1
+	4
+noose
+	stale
+	rouse 27
+	poise 7
+	goose 3
+	moose 2
+	noose 1
+	6
+truck
+	stale
+	truth 122
+	trunk 3
+	truck 1
+	4
+cruel
+	stale
+	leper 67
+	cruel 2
+	3
+liner
+	stale
+	leper 67
+	lover 4
+	liner 1
+	4
+vogue
+	stale
+	drone 107
+	coupe 5
+	vogue 1
+	4
+shirk
+	stale
+	scion 56
+	skimp 6
+	shirk 1
+	4
+crank
+	stale
+	drank 48
+	prank 3
+	frank 2
+	crank 1
+	5
+spawn
+	stale
+	spark 23
+	spasm 2
+	spawn 1
+	4
+skunk
+	stale
+	scion 56
+	spunk 5
+	skunk 1
+	4
+stove
+	stale
+	store 4
+	stoke 3
+	stove 2
+	4
+curvy
+	stale
+	round 221
+	curry 6
+	curvy 1
+	4
+solar
+	stale
+	salvo 6
+	solar 1
+	3
+gaudy
+	stale
+	rayon 136
+	bawdy 12
+	paddy 4
+	gaudy 1
+	5
+shady
+	stale
+	spark 23
+	smash 4
+	shady 1
+	4
+bleep
+	stale
+	leper 67
+	bleep 1
+	3
+unlit
+	stale
+	flint 18
+	unlit 1
+	3
+booby
+	stale
+	round 221
+	boozy 11
+	booby 1
+	4
+badge
+	stale
+	range 31
+	gauge 2
+	badge 1
+	4
+leave
+	stale
+	blare 13
+	leave 1
+	3
+pouty
+	stale
+	truth 122
+	pouty 1
+	3
+flare
+	stale
+	blare 13
+	glare 2
+	flare 1
+	4
+trove
+	stale
+	trice 28
+	trope 2
+	trove 1
+	4
+smite
+	stale
+	smote 4
+	smite 1
+	3
+hound
+	stale
+	round 221
+	found 6
+	pound 5
+	wound 4
+	mound 3
+	hound 2
+	7
+agora
+	stale
+	rayon 136
+	croak 6
+	agora 1
+	4
+knelt
+	stale
+	dwelt 3
+	knelt 1
+	3
+roast
+	stale
+	trash 5
+	roast 1
+	3
+award
+	stale
+	drank 48
+	hoard 5
+	guard 2
+	award 1
+	5
+steak
+	stale
+	steam 3
+	stead 2
+	steak 1
+	4
+prude
+	stale
+	drone 107
+	pride 4
+	prude 1
+	4
+abuse
+	stale
+	parse 10
+	amuse 2
+	abuse 1
+	4
+crock
+	stale
+	round 221
+	crook 14
+	crock 1
+	4
+sniff
+	stale
+	scion 56
+	suing 5
+	sniff 1
+	4
+ankle
+	stale
+	amble 11
+	angle 4
+	ankle 1
+	4
+drake
+	stale
+	crave 28
+	grade 7
+	drape 2
+	drake 1
+	5
+amass
+	stale
+	crash 13
+	quasi 2
+	amass 1
+	4
+aorta
+	stale
+	tacit 65
+	junta 4
+	aorta 1
+	4
+quake
+	stale
+	crave 28
+	image 7
+	awake 2
+	quake 1
+	5
+randy
+	stale
+	rayon 136
+	rainy 2
+	randy 1
+	4
+spree
+	stale
+	spire 32
+	spree 1
+	3
+hippy
+	stale
+	round 221
+	wimpy 12
+	hippy 1
+	4
+metal
+	stale
+	pleat 12
+	fetal 2
+	metal 1
+	4
+stone
+	stale
+	store 4
+	stoke 3
+	stove 2
+	stone 1
+	5
+cabal
+	stale
+	carol 57
+	canal 3
+	cabal 1
+	4
+exert
+	stale
+	deter 77
+	exert 2
+	3
+joint
+	stale
+	truth 122
+	point 10
+	joint 1
+	4
+snuff
+	stale
+	scion 56
+	spunk 5
+	snuff 1
+	4
+harsh
+	stale
+	amiss 14
+	harsh 2
+	3
+scamp
+	stale
+	spark 23
+	scamp 3
+	3
+riper
+	stale
+	decor 165
+	viper 18
+	riper 2
+	4
+bound
+	stale
+	round 221
+	found 6
+	pound 5
+	mound 4
+	wound 3
+	hound 2
+	bound 1
+	8
+howdy
+	stale
+	round 221
+	dowdy 6
+	howdy 1
+	4
+least
+	stale
+	least 1
+	2
+toxic
+	stale
+	truth 122
+	toxin 7
+	toxic 1
+	4
+acorn
+	stale
+	rayon 136
+	adorn 4
+	acorn 1
+	4
+chart
+	stale
+	tract 20
+	chart 1
+	3
+natal
+	stale
+	natal 19
+	2
+rigid
+	stale
+	round 221
+	rigid 1
+	3
+smell
+	stale
+	swell 5
+	shell 3
+	smell 2
+	4
+payee
+	stale
+	range 31
+	maybe 6
+	payee 1
+	4
+taker
+	stale
+	taper 27
+	tamer 2
+	taker 1
+	4
+sober
+	stale
+	sewer 28
+	surer 4
+	skier 2
+	sober 1
+	5
+hyper
+	stale
+	decor 165
+	viper 18
+	upper 2
+	hyper 1
+	5
+steer
+	stale
+	steer 5
+	2
+flunk
+	stale
+	cloud 82
+	bluff 8
+	flung 2
+	flunk 1
+	5
+shore
+	stale
+	spire 32
+	swore 4
+	shore 3
+	4
+wimpy
+	stale
+	round 221
+	wimpy 12
+	3
+rupee
+	stale
+	drone 107
+	revue 12
+	rupee 1
+	4
+warty
+	stale
+	tacit 65
+	party 8
+	warty 1
+	4
+basis
+	stale
+	amiss 14
+	basis 1
+	3
+mucky
+	stale
+	round 221
+	jumpy 14
+	mucky 1
+	4
+naive
+	stale
+	range 31
+	naive 1
+	3
+light
+	stale
+	flint 18
+	light 3
+	3
+bevel
+	stale
+	leper 67
+	bezel 3
+	bevel 1
+	4
+adobe
+	stale
+	range 31
+	abode 5
+	adobe 1
+	4
+ditty
+	stale
+	truth 122
+	ditto 6
+	ditty 1
+	4
+briny
+	stale
+	round 221
+	wring 4
+	briny 2
+	4
+craft
+	stale
+	tract 20
+	craft 1
+	3
+chaff
+	stale
+	drank 48
+	champ 5
+	chaff 1
+	4
+dogma
+	stale
+	rayon 136
+	avoid 6
+	dogma 1
+	4
+chump
+	stale
+	round 221
+	chuck 2
+	chump 1
+	4
+freed
+	stale
+	decor 165
+	fried 5
+	freed 1
+	4
+truer
+	stale
+	deter 77
+	truer 5
+	3
+actor
+	stale
+	tacit 65
+	actor 1
+	3
+gipsy
+	stale
+	missy 42
+	gipsy 1
+	3
+cower
+	stale
+	decor 165
+	corer 3
+	cower 2
+	4
+minor
+	stale
+	round 221
+	crown 6
+	minor 1
+	4
+while
+	stale
+	boule 12
+	exile 4
+	while 1
+	4
+revue
+	stale
+	drone 107
+	revue 12
+	3
+wiser
+	stale
+	poser 19
+	miser 3
+	wiser 2
+	4
+roomy
+	stale
+	round 221
+	rocky 2
+	roomy 1
+	4
+glory
+	stale
+	cloud 82
+	gloom 6
+	glory 1
+	4
+moldy
+	stale
+	cloud 82
+	moldy 1
+	3
+merry
+	stale
+	decor 165
+	ferry 8
+	berry 2
+	merry 1
+	5
+where
+	stale
+	drone 107
+	revue 12
+	where 1
+	4
+dress
+	stale
+	poser 19
+	cress 4
+	dress 1
+	4
+given
+	stale
+	decor 165
+	eying 10
+	given 1
+	4
+shuck
+	stale
+	scion 56
+	shuck 1
+	3
+bicep
+	stale
+	decor 165
+	bicep 1
+	3
+molar
+	stale
+	carol 57
+	polar 3
+	molar 1
+	4
+rouse
+	stale
+	rouse 27
+	2
+humus
+	stale
+	missy 42
+	humus 1
+	3
+barge
+	stale
+	range 31
+	barge 1
+	3
+medal
+	stale
+	renal 37
+	pedal 5
+	medal 1
+	4
+scoff
+	stale
+	scion 56
+	scoff 2
+	3
+tonic
+	stale
+	truth 122
+	toxin 7
+	tonic 1
+	4
+digit
+	stale
+	truth 122
+	point 10
+	digit 1
+	4
+aisle
+	stale
+	aisle 1
+	2
+voter
+	stale
+	deter 77
+	outer 3
+	voter 1
+	4
+singe
+	stale
+	spire 32
+	siege 4
+	singe 1
+	4
+worth
+	stale
+	truth 122
+	forth 6
+	worth 2
+	4
+geeky
+	stale
+	decor 165
+	feign 9
+	geeky 1
+	4
+ficus
+	stale
+	missy 42
+	virus 2
+	ficus 1
+	4
+evade
+	stale
+	crave 28
+	evade 1
+	3
+newer
+	stale
+	decor 165
+	fever 6
+	newer 1
+	4
+furry
+	stale
+	round 221
+	curry 6
+	hurry 2
+	furry 1
+	5
+state
+	stale
+	stage 5
+	stake 4
+	stave 3
+	state 2
+	5
+viola
+	stale
+	daily 14
+	viola 2
+	3
+awash
+	stale
+	crash 13
+	gnash 3
+	awash 2
+	4
+whirl
+	stale
+	cloud 82
+	filmy 7
+	whirl 1
+	4
+dwarf
+	stale
+	drank 48
+	diary 2
+	dwarf 1
+	4
+pearl
+	stale
+	leaky 6
+	pearl 1
+	3
+elide
+	stale
+	globe 22
+	flume 5
+	elide 1
+	4
+rapid
+	stale
+	rayon 136
+	rapid 6
+	3
+small
+	stale
+	scalp 5
+	small 2
+	3
+frond
+	stale
+	round 221
+	frond 1
+	3
+fungi
+	stale
+	round 221
+	hunky 10
+	fungi 1
+	4
+quilt
+	stale
+	built 7
+	guilt 2
+	quilt 1
+	4
+bleak
+	stale
+	renal 37
+	plead 3
+	gleam 2
+	bleak 1
+	5
+wagon
+	stale
+	rayon 136
+	bacon 3
+	wagon 1
+	4
+adore
+	stale
+	range 31
+	azure 3
+	adore 2
+	4
+brute
+	stale
+	trice 28
+	brute 2
+	3
+clown
+	stale
+	cloud 82
+	clown 2
+	3
+marsh
+	stale
+	amiss 14
+	marsh 1
+	3
+flake
+	stale
+	blare 13
+	place 6
+	glade 4
+	flake 2
+	5
+terse
+	stale
+	terse 4
+	2
+spine
+	stale
+	spire 32
+	spice 3
+	spike 2
+	spine 1
+	5
+style
+	stale
+	stole 2
+	style 1
+	3
+ninny
+	stale
+	round 221
+	icing 4
+	ninny 1
+	4
+piper
+	stale
+	decor 165
+	viper 18
+	riper 2
+	piper 1
+	5
+tunic
+	stale
+	truth 122
+	tunic 1
+	3
+salon
+	stale
+	salvo 6
+	salon 1
+	3
+erect
+	stale
+	deter 77
+	exert 2
+	erect 1
+	4
+peach
+	stale
+	heady 12
+	reach 3
+	peach 2
+	4
+lofty
+	stale
+	flint 18
+	lofty 1
+	3
+board
+	stale
+	drank 48
+	hoard 5
+	board 1
+	4
+relay
+	stale
+	renal 37
+	relax 2
+	relay 1
+	4
+thank
+	stale
+	tract 20
+	thank 2
+	3
+green
+	stale
+	decor 165
+	grief 8
+	green 1
+	4
+yeast
+	stale
+	feast 3
+	beast 2
+	yeast 1
+	4
+frown
+	stale
+	round 221
+	crown 6
+	brown 3
+	grown 2
+	frown 1
+	6
+loamy
+	stale
+	claim 28
+	loamy 1
+	3
+drain
+	stale
+	drank 48
+	drawn 2
+	drain 1
+	4
+slung
+	stale
+	slink 18
+	slung 1
+	3
+stern
+	stale
+	steer 5
+	stern 1
+	3
+waste
+	stale
+	taste 6
+	caste 5
+	baste 4
+	waste 3
+	5
+snore
+	stale
+	spire 32
+	swore 4
+	shore 3
+	snore 2
+	5
+awful
+	stale
+	carol 57
+	anvil 6
+	awful 1
+	4
+venom
+	stale
+	decor 165
+	venom 1
+	3
+graft
+	stale
+	tract 20
+	draft 3
+	graft 1
+	4
+money
+	stale
+	decor 165
+	women 9
+	money 1
+	4
+earth
+	stale
+	taper 27
+	earth 1
+	3
+furor
+	stale
+	round 221
+	curio 7
+	juror 2
+	furor 1
+	5
+flame
+	stale
+	blare 13
+	place 6
+	glade 4
+	flake 2
+	flame 1
+	6
+mangy
+	stale
+	rayon 136
+	candy 8
+	fanny 3
+	mangy 1
+	5
+comma
+	stale
+	rayon 136
+	avoid 6
+	mocha 2
+	comma 1
+	5
+endow
+	stale
+	decor 165
+	endow 1
+	3
+orbit
+	stale
+	truth 122
+	front 6
+	orbit 1
+	4
+uncle
+	stale
+	boule 12
+	uncle 2
+	3
+apart
+	stale
+	tract 20
+	quart 2
+	apart 1
+	4
+judge
+	stale
+	drone 107
+	budge 8
+	fudge 2
+	judge 1
+	5
+saner
+	stale
+	spear 10
+	safer 2
+	saner 1
+	4
+lying
+	stale
+	cloud 82
+	filmy 7
+	lying 1
+	4
+gusto
+	stale
+	frost 29
+	gusto 1
+	3
+clued
+	stale
+	leper 67
+	vowel 9
+	clued 1
+	4
+tread
+	stale
+	taper 27
+	treat 3
+	tread 1
+	4
+nobly
+	stale
+	droll 44
+	coyly 2
+	nobly 1
+	4
+berth
+	stale
+	deter 77
+	refit 6
+	berth 1
+	4
+binge
+	stale
+	drone 107
+	niche 12
+	binge 1
+	4
+trash
+	stale
+	trash 5
+	2
+score
+	stale
+	spire 32
+	swore 4
+	shore 3
+	snore 2
+	score 1
+	6
+afire
+	stale
+	range 31
+	azure 3
+	adore 2
+	afire 1
+	5
+rajah
+	stale
+	rayon 136
+	rapid 6
+	rajah 1
+	4
+harpy
+	stale
+	rayon 136
+	harpy 9
+	3
+ester
+	stale
+	reset 17
+	ester 1
+	3
+drown
+	stale
+	round 221
+	drown 1
+	3
+derby
+	stale
+	decor 165
+	derby 1
+	3
+exist
+	stale
+	reset 17
+	guest 4
+	exist 1
+	4
+bayou
+	stale
+	rayon 136
+	bayou 1
+	3
+pooch
+	stale
+	round 221
+	boozy 11
+	pooch 1
+	4
+mimic
+	stale
+	round 221
+	wimpy 12
+	mimic 1
+	4
+pygmy
+	stale
+	round 221
+	wimpy 12
+	pygmy 1
+	4
+woozy
+	stale
+	round 221
+	boozy 11
+	woozy 1
+	4
+blend
+	stale
+	leper 67
+	elfin 5
+	blend 1
+	4
+pried
+	stale
+	decor 165
+	fried 5
+	pried 1
+	4
+wreck
+	stale
+	decor 165
+	creep 3
+	wreck 1
+	4
+flyer
+	stale
+	leper 67
+	idler 8
+	bluer 3
+	flyer 1
+	5
+smoke
+	stale
+	spire 32
+	shone 7
+	smoke 1
+	4
+plain
+	stale
+	claim 28
+	plaid 4
+	plain 1
+	4
+serve
+	stale
+	spire 32
+	scree 3
+	serve 1
+	4
+piggy
+	stale
+	round 221
+	wimpy 12
+	piggy 2
+	4
+leash
+	stale
+	leash 1
+	2
+elegy
+	stale
+	leper 67
+	elegy 1
+	3
+slate
+	stale
+	slate 1
+	2
+chasm
+	stale
+	crash 13
+	chasm 1
+	3
+covet
+	stale
+	deter 77
+	comet 6
+	covet 1
+	4
+haste
+	stale
+	taste 6
+	caste 5
+	baste 4
+	waste 3
+	haste 2
+	6
+sever
+	stale
+	sewer 28
+	sever 1
+	3
+tower
+	stale
+	deter 77
+	truer 5
+	tiger 3
+	tower 1
+	5
+night
+	stale
+	truth 122
+	might 5
+	fight 3
+	wight 2
+	night 1
+	6
+whiff
+	stale
+	round 221
+	wimpy 12
+	which 2
+	whiff 1
+	5
+toddy
+	stale
+	truth 122
+	toxin 7
+	toddy 1
+	4
+right
+	stale
+	truth 122
+	right 1
+	3
+spore
+	stale
+	spire 32
+	spore 1
+	3
+camel
+	stale
+	renal 37
+	label 6
+	gavel 3
+	hazel 2
+	camel 1
+	6
+wrath
+	stale
+	tract 20
+	wrath 1
+	3
+swing
+	stale
+	scion 56
+	suing 5
+	swing 1
+	4
+picky
+	stale
+	round 221
+	wimpy 12
+	piggy 2
+	picky 1
+	5
+strut
+	stale
+	stunk 24
+	stout 2
+	strut 1
+	4
+fetus
+	stale
+	reset 17
+	fetus 1
+	3
+early
+	stale
+	fella 2
+	early 1
+	3
+guise
+	stale
+	rouse 27
+	guise 1
+	3
+nudge
+	stale
+	drone 107
+	undue 2
+	nudge 1
+	4
+study
+	stale
+	stunk 24
+	stump 3
+	study 2
+	4
+fugue
+	stale
+	drone 107
+	piece 10
+	fugue 1
+	4
+faith
+	stale
+	tacit 65
+	faith 1
+	3
+bingo
+	stale
+	round 221
+	onion 5
+	bingo 1
+	4
+leapt
+	stale
+	leant 2
+	leapt 1
+	3
+probe
+	stale
+	drone 107
+	probe 6
+	3
+nanny
+	stale
+	rayon 136
+	candy 8
+	fanny 3
+	nanny 1
+	5
+black
+	stale
+	claim 28
+	black 2
+	3
+boozy
+	stale
+	round 221
+	boozy 11
+	3
+elder
+	stale
+	leper 67
+	elder 1
+	3
+ovine
+	stale
+	drone 107
+	opine 2
+	ovine 1
+	4
+swirl
+	stale
+	slink 18
+	swirl 1
+	3
+gazer
+	stale
+	amber 61
+	parer 12
+	wager 6
+	gayer 2
+	gazer 1
+	6
+kappa
+	stale
+	rayon 136
+	mamma 10
+	kappa 1
+	4
+creme
+	stale
+	drone 107
+	prime 9
+	creme 1
+	4
+flack
+	stale
+	claim 28
+	black 2
+	flack 1
+	4
+truce
+	stale
+	trice 28
+	truce 1
+	3
+undid
+	stale
+	round 221
+	undid 1
+	3
+stall
+	stale
+	stalk 2
+	stall 1
+	3
+dingy
+	stale
+	round 221
+	dingy 2
+	3
+tuber
+	stale
+	deter 77
+	truer 5
+	tuber 1
+	4
+rouge
+	stale
+	drone 107
+	gorge 6
+	rouge 1
+	4
+yearn
+	stale
+	heady 12
+	yearn 1
+	3
+ranch
+	stale
+	rayon 136
+	ranch 1
+	3
+towel
+	stale
+	betel 11
+	towel 1
+	3
+ultra
+	stale
+	natal 19
+	ultra 1
+	3
+trust
+	stale
+	frost 29
+	trust 4
+	3
+torso
+	stale
+	frost 29
+	torso 1
+	3
+aback
+	stale
+	drank 48
+	whack 3
+	quack 2
+	aback 1
+	5
+clerk
+	stale
+	leper 67
+	clerk 1
+	3
+midge
+	stale
+	drone 107
+	budge 8
+	hedge 3
+	midge 1
+	5
+geese
+	stale
+	rouse 27
+	dense 2
+	geese 1
+	4
+petal
+	stale
+	pleat 12
+	petal 1
+	3
+flour
+	stale
+	cloud 82
+	flour 1
+	3
+fatty
+	stale
+	tacit 65
+	ratty 5
+	patty 4
+	tatty 3
+	fatty 2
+	6
+mourn
+	stale
+	round 221
+	mourn 1
+	3
+neigh
+	stale
+	decor 165
+	feign 9
+	neigh 1
+	4
+fluff
+	stale
+	cloud 82
+	bluff 8
+	fluff 1
+	4
+modem
+	stale
+	decor 165
+	video 2
+	modem 1
+	4
+pivot
+	stale
+	truth 122
+	point 10
+	pivot 1
+	4
+cheek
+	stale
+	decor 165
+	chief 3
+	cheek 1
+	4
+clock
+	stale
+	cloud 82
+	clown 2
+	clock 1
+	4
+paste
+	stale
+	taste 6
+	caste 5
+	baste 4
+	waste 3
+	haste 2
+	paste 1
+	7
+offal
+	stale
+	carol 57
+	loyal 5
+	offal 1
+	4
+spiel
+	stale
+	sleep 3
+	spiel 1
+	3
+index
+	stale
+	decor 165
+	unwed 8
+	index 1
+	4
+clout
+	stale
+	flint 18
+	blurt 2
+	clout 1
+	4
+serif
+	stale
+	sewer 28
+	serum 2
+	serif 1
+	4
+vying
+	stale
+	round 221
+	icing 4
+	vying 1
+	4
+fecal
+	stale
+	renal 37
+	pedal 5
+	legal 2
+	fecal 1
+	5
+claim
+	stale
+	claim 28
+	2
+issue
+	stale
+	rouse 27
+	ensue 2
+	issue 1
+	4
+cigar
+	stale
+	rayon 136
+	vicar 8
+	cigar 1
+	4
+decal
+	stale
+	renal 37
+	pedal 5
+	decal 1
+	4
+diode
+	stale
+	drone 107
+	diode 1
+	3
+happy
+	stale
+	rayon 136
+	bawdy 12
+	mammy 3
+	jazzy 2
+	happy 1
+	6
+itchy
+	stale
+	itchy 1
+	2
+baker
+	stale
+	amber 61
+	baker 1
+	3
+moral
+	stale
+	carol 57
+	moral 1
+	3
+swamp
+	stale
+	spark 23
+	scamp 3
+	swamp 1
+	4
+shawl
+	stale
+	slain 7
+	shawl 1
+	3
+human
+	stale
+	rayon 136
+	admin 3
+	human 1
+	4
+pansy
+	stale
+	amiss 14
+	harsh 2
+	pansy 1
+	4
+hairy
+	stale
+	rayon 136
+	harpy 9
+	hairy 1
+	4
+quark
+	stale
+	drank 48
+	quark 1
+	3
+sword
+	stale
+	scion 56
+	sword 5
+	3
+tepee
+	stale
+	trice 28
+	thyme 3
+	tepee 1
+	4
+queen
+	stale
+	decor 165
+	eying 10
+	queen 1
+	4
+creak
+	stale
+	amber 61
+	creak 7
+	3
+villa
+	stale
+	daily 14
+	viola 2
+	villa 1
+	4
+stash
+	stale
+	stank 11
+	stair 6
+	stamp 3
+	stash 2
+	5
+munch
+	stale
+	round 221
+	hunky 10
+	punch 3
+	bunch 2
+	munch 1
+	6
+swear
+	stale
+	spear 10
+	smear 3
+	shear 2
+	swear 1
+	5
+crepe
+	stale
+	drone 107
+	prime 9
+	crepe 1
+	4
+rebel
+	stale
+	leper 67
+	revel 2
+	rebel 1
+	4
+moron
+	stale
+	round 221
+	honor 2
+	moron 1
+	4
+imply
+	stale
+	droll 44
+	chili 3
+	imply 1
+	4
+liver
+	stale
+	leper 67
+	lover 4
+	liver 1
+	4
+shunt
+	stale
+	shout 21
+	shunt 1
+	3
+swoon
+	stale
+	scion 56
+	spoon 2
+	swoon 1
+	4
+roger
+	stale
+	decor 165
+	mower 16
+	rover 8
+	roger 1
+	5
+circa
+	stale
+	rayon 136
+	vicar 8
+	circa 1
+	4
+saute
+	stale
+	saute 1
+	2
+swami
+	stale
+	spark 23
+	smash 4
+	swami 1
+	4
+inner
+	stale
+	decor 165
+	viper 18
+	infer 2
+	inner 1
+	5
+trump
+	stale
+	truth 122
+	trunk 3
+	trump 1
+	4
+eater
+	stale
+	taper 27
+	hater 4
+	water 3
+	cater 2
+	eater 1
+	6
+dairy
+	stale
+	rayon 136
+	harpy 9
+	fairy 2
+	dairy 1
+	5
+drone
+	stale
+	drone 107
+	2
+pleat
+	stale
+	pleat 12
+	2
+first
+	stale
+	frost 29
+	first 1
+	3
+ovate
+	stale
+	grate 8
+	abate 2
+	ovate 1
+	4
+lowly
+	stale
+	droll 44
+	holly 5
+	lowly 1
+	4
+jelly
+	stale
+	whelp 12
+	belly 3
+	jelly 1
+	4
+tardy
+	stale
+	tacit 65
+	tangy 7
+	tabby 3
+	taffy 2
+	tardy 1
+	6
+inert
+	stale
+	deter 77
+	erupt 6
+	inert 2
+	4
+frame
+	stale
+	crave 28
+	grade 7
+	brake 2
+	frame 1
+	5
+climb
+	stale
+	cloud 82
+	clink 5
+	cliff 2
+	climb 1
+	5
+offer
+	stale
+	decor 165
+	mower 16
+	offer 1
+	4
+verge
+	stale
+	drone 107
+	revue 12
+	verve 2
+	verge 1
+	5
+could
+	stale
+	droll 44
+	would 4
+	could 1
+	4
+heath
+	stale
+	heart 10
+	heath 1
+	3
+overt
+	stale
+	deter 77
+	erupt 6
+	inert 2
+	overt 1
+	5
+bring
+	stale
+	round 221
+	wring 4
+	bring 1
+	4
+droll
+	stale
+	droll 44
+	2
+leafy
+	stale
+	leaky 6
+	leafy 1
+	3
+gloss
+	stale
+	floss 9
+	gloss 1
+	3
+merge
+	stale
+	drone 107
+	revue 12
+	eerie 2
+	merge 1
+	5
+allay
+	stale
+	carol 57
+	inlay 7
+	allay 1
+	4
+blank
+	stale
+	claim 28
+	blank 7
+	3
+cause
+	stale
+	parse 10
+	masse 2
+	cause 1
+	4
+north
+	stale
+	truth 122
+	forth 6
+	worth 2
+	north 1
+	5
+comic
+	stale
+	round 221
+	boozy 11
+	comic 1
+	4
+fetid
+	stale
+	deter 77
+	fetid 1
+	3
+patch
+	stale
+	tacit 65
+	catty 7
+	watch 5
+	hatch 4
+	batch 3
+	patch 2
+	7
+snare
+	stale
+	shape 13
+	snare 4
+	3
+lapse
+	stale
+	false 2
+	lapse 1
+	3
+afoul
+	stale
+	carol 57
+	loyal 5
+	afoul 1
+	4
+amiss
+	stale
+	amiss 14
+	2
+thing
+	stale
+	truth 122
+	thick 4
+	thing 1
+	4
+apple
+	stale
+	amble 11
+	angle 4
+	apple 1
+	4
+plumb
+	stale
+	cloud 82
+	bluff 8
+	plumb 1
+	4
+scaly
+	stale
+	scalp 5
+	scald 2
+	scaly 1
+	4
+color
+	stale
+	cloud 82
+	colon 2
+	color 1
+	4
+stuff
+	stale
+	stunk 24
+	stump 3
+	study 2
+	stuff 1
+	5
+toxin
+	stale
+	truth 122
+	toxin 7
+	3
+graph
+	stale
+	drank 48
+	gravy 5
+	graph 1
+	4
+dryly
+	stale
+	droll 44
+	dryly 1
+	3
+sauce
+	stale
+	sauce 1
+	2
+drift
+	stale
+	truth 122
+	droit 6
+	drift 1
+	4
+leggy
+	stale
+	leper 67
+	lemon 2
+	leggy 1
+	4
+gamer
+	stale
+	amber 61
+	maker 2
+	gamer 1
+	4
+graze
+	stale
+	crave 28
+	grade 7
+	grape 2
+	graze 1
+	5
+twang
+	stale
+	tract 20
+	thank 2
+	twang 1
+	4
+remit
+	stale
+	deter 77
+	refit 6
+	remit 1
+	4
+shelf
+	stale
+	swell 5
+	shelf 1
+	3
+urine
+	stale
+	drone 107
+	brine 3
+	urine 1
+	4
+equal
+	stale
+	renal 37
+	equal 2
+	3
+sleek
+	stale
+	sleep 3
+	sleek 1
+	3
+mange
+	stale
+	range 31
+	mange 1
+	3
+stare
+	stale
+	stage 5
+	stake 4
+	stave 3
+	state 2
+	stare 1
+	6
+begin
+	stale
+	decor 165
+	feign 9
+	begin 1
+	4
+dolly
+	stale
+	droll 44
+	dolly 1
+	3
+tried
+	stale
+	deter 77
+	tried 1
+	3
+mulch
+	stale
+	cloud 82
+	lurch 5
+	gulch 2
+	mulch 1
+	5
+repel
+	stale
+	leper 67
+	repel 1
+	3
+match
+	stale
+	tacit 65
+	catty 7
+	watch 5
+	hatch 4
+	batch 3
+	patch 2
+	match 1
+	8
+setup
+	stale
+	swept 6
+	setup 1
+	3
+prove
+	stale
+	drone 107
+	probe 6
+	prove 1
+	4
+dwell
+	stale
+	whelp 12
+	dwell 1
+	3
+fiery
+	stale
+	decor 165
+	grief 8
+	fiery 1
+	4
+idyll
+	stale
+	droll 44
+	idyll 1
+	3
+lusty
+	stale
+	lusty 1
+	2
+cobra
+	stale
+	rayon 136
+	croak 6
+	cobra 1
+	4
+facet
+	stale
+	taper 27
+	cadet 4
+	facet 1
+	4
+ideal
+	stale
+	renal 37
+	equal 2
+	ideal 1
+	4
+cacti
+	stale
+	tacit 65
+	cacti 1
+	3
+quirk
+	stale
+	round 221
+	curry 6
+	quirk 1
+	4
+flair
+	stale
+	claim 28
+	plaid 4
+	flail 2
+	flair 1
+	5
+meter
+	stale
+	deter 77
+	meter 1
+	3
+fiber
+	stale
+	decor 165
+	viper 18
+	miner 4
+	fixer 2
+	fiber 1
+	6
+queer
+	stale
+	decor 165
+	viper 18
+	freer 4
+	queer 1
+	5
+blitz
+	stale
+	flint 18
+	blitz 1
+	3
+hoist
+	stale
+	frost 29
+	joust 4
+	moist 2
+	hoist 1
+	5
+wrote
+	stale
+	trice 28
+	brute 2
+	wrote 1
+	4
+flier
+	stale
+	leper 67
+	idler 8
+	flier 1
+	4
+gross
+	stale
+	missy 42
+	dross 3
+	cross 2
+	gross 1
+	5
+beset
+	stale
+	reset 17
+	beset 1
+	3
+fauna
+	stale
+	rayon 136
+	manic 5
+	fauna 1
+	4
+pouch
+	stale
+	round 221
+	couch 5
+	vouch 2
+	pouch 1
+	5
+brand
+	stale
+	drank 48
+	grand 2
+	brand 1
+	4
+curve
+	stale
+	drone 107
+	revue 12
+	curve 1
+	4
+bison
+	stale
+	missy 42
+	visor 3
+	bison 1
+	4
+puree
+	stale
+	drone 107
+	revue 12
+	puree 1
+	4
+annul
+	stale
+	carol 57
+	anvil 6
+	annul 1
+	4
+atone
+	stale
+	atone 1
+	2
+bench
+	stale
+	decor 165
+	beech 3
+	bench 1
+	4
+belch
+	stale
+	leper 67
+	welch 7
+	belch 1
+	4
+theme
+	stale
+	trice 28
+	thyme 3
+	theme 1
+	4
+thumb
+	stale
+	truth 122
+	thump 2
+	thumb 1
+	4
+troop
+	stale
+	truth 122
+	trick 2
+	troop 1
+	4
+skull
+	stale
+	sully 11
+	skull 1
+	3
+quoth
+	stale
+	truth 122
+	quoth 1
+	3
+since
+	stale
+	spire 32
+	siege 4
+	since 1
+	4
+envoy
+	stale
+	decor 165
+	enjoy 2
+	envoy 1
+	4
+force
+	stale
+	drone 107
+	gorge 6
+	force 1
+	4
+civil
+	stale
+	cloud 82
+	civil 1
+	3
+fifty
+	stale
+	truth 122
+	minty 4
+	fifty 1
+	4
+flash
+	stale
+	clash 6
+	flash 1
+	3
+brain
+	stale
+	drank 48
+	brawn 4
+	brain 1
+	4
+gecko
+	stale
+	decor 165
+	gecko 1
+	3
+brook
+	stale
+	round 221
+	crook 14
+	brook 1
+	4
+plane
+	stale
+	blare 13
+	place 6
+	plane 1
+	4
+fifth
+	stale
+	truth 122
+	ninth 5
+	width 2
+	fifth 1
+	5
+plaza
+	stale
+	claim 28
+	blank 7
+	plaza 1
+	4
+rabid
+	stale
+	rayon 136
+	rapid 6
+	rabid 1
+	4
+pique
+	stale
+	drone 107
+	piece 10
+	pique 2
+	4
+ledge
+	stale
+	globe 22
+	liege 3
+	ledge 1
+	4
+credo
+	stale
+	decor 165
+	credo 1
+	3
+batty
+	stale
+	tacit 65
+	ratty 5
+	patty 4
+	tatty 3
+	fatty 2
+	batty 1
+	7
+spiky
+	stale
+	scion 56
+	skimp 6
+	spiky 1
+	4
+altar
+	stale
+	natal 19
+	altar 1
+	3
+labor
+	stale
+	carol 57
+	valor 2
+	labor 1
+	4
+slyly
+	stale
+	sully 11
+	slyly 1
+	3
+forum
+	stale
+	round 221
+	forum 1
+	3
+beach
+	stale
+	heady 12
+	reach 3
+	peach 2
+	beach 1
+	5
+apron
+	stale
+	rayon 136
+	apron 1
+	3
+think
+	stale
+	truth 122
+	thick 4
+	think 1
+	4
+bread
+	stale
+	amber 61
+	break 3
+	bread 1
+	4
+voice
+	stale
+	drone 107
+	coupe 5
+	voice 1
+	4
+rebut
+	stale
+	deter 77
+	refit 6
+	recut 2
+	rebut 1
+	5
+heard
+	stale
+	heady 12
+	heard 1
+	3
+windy
+	stale
+	round 221
+	dingy 2
+	windy 1
+	4
+cover
+	stale
+	decor 165
+	corer 3
+	cower 2
+	cover 1
+	5
+broad
+	stale
+	rayon 136
+	croak 6
+	broad 1
+	4
+dirge
+	stale
+	drone 107
+	dirge 1
+	3
+torch
+	stale
+	truth 122
+	torch 1
+	3
+downy
+	stale
+	round 221
+	doing 2
+	downy 1
+	4
+agape
+	stale
+	crave 28
+	image 7
+	agape 1
+	4
+brace
+	stale
+	crave 28
+	grace 2
+	brace 1
+	4
+gaunt
+	stale
+	tacit 65
+	vaunt 6
+	jaunt 4
+	haunt 3
+	daunt 2
+	gaunt 1
+	7
+lance
+	stale
+	alive 9
+	large 2
+	lance 1
+	4
+pixie
+	stale
+	drone 107
+	piece 10
+	pique 2
+	pixie 1
+	5
+ionic
+	stale
+	round 221
+	conch 4
+	ionic 1
+	4
+tiger
+	stale
+	deter 77
+	truer 5
+	tiger 3
+	4
+raise
+	stale
+	parse 10
+	raise 1
+	3
+lorry
+	stale
+	cloud 82
+	lobby 9
+	lorry 1
+	4
+khaki
+	stale
+	drank 48
+	khaki 1
+	3
+plank
+	stale
+	claim 28
+	blank 7
+	flank 2
+	plank 1
+	5
+never
+	stale
+	decor 165
+	fever 6
+	never 1
+	4
+naval
+	stale
+	carol 57
+	banal 3
+	naval 1
+	4
+pubic
+	stale
+	round 221
+	jumpy 14
+	pubic 1
+	4
+fully
+	stale
+	droll 44
+	filly 7
+	fully 1
+	4
+zonal
+	stale
+	carol 57
+	loyal 5
+	modal 2
+	zonal 1
+	5
+tilde
+	stale
+	lithe 4
+	tilde 1
+	3
+cinch
+	stale
+	round 221
+	nymph 9
+	finch 3
+	winch 2
+	cinch 1
+	6
+prune
+	stale
+	drone 107
+	brine 3
+	prune 1
+	4
+guile
+	stale
+	boule 12
+	uncle 2
+	guile 1
+	4
+mafia
+	stale
+	rayon 136
+	mamma 10
+	mafia 1
+	4
+knack
+	stale
+	drank 48
+	knack 1
+	3
+noise
+	stale
+	rouse 27
+	poise 7
+	noise 1
+	4
+macaw
+	stale
+	rayon 136
+	mamma 10
+	macaw 1
+	4
+heist
+	stale
+	reset 17
+	heist 1
+	3
+pudgy
+	stale
+	round 221
+	dumpy 6
+	pudgy 1
+	4
+quash
+	stale
+	crash 13
+	gnash 3
+	awash 2
+	quash 1
+	5
+pitch
+	stale
+	truth 122
+	witch 6
+	pitch 3
+	4
+owing
+	stale
+	round 221
+	phony 2
+	owing 1
+	4
+goner
+	stale
+	decor 165
+	mower 16
+	rover 8
+	poker 5
+	foyer 3
+	boxer 2
+	goner 1
+	8
+ghost
+	stale
+	frost 29
+	boost 2
+	ghost 1
+	4
+scale
+	stale
+	shale 2
+	scale 1
+	3
+brink
+	stale
+	round 221
+	wring 4
+	briny 2
+	brink 1
+	5
+spoof
+	stale
+	scion 56
+	spook 4
+	spoof 1
+	4
+vigil
+	stale
+	cloud 82
+	filmy 7
+	vigil 1
+	4
+louse
+	stale
+	close 4
+	louse 1
+	3
+plant
+	stale
+	plait 5
+	plant 1
+	3
+stick
+	stale
+	stunk 24
+	stock 3
+	stick 1
+	4
+hitch
+	stale
+	truth 122
+	witch 6
+	pitch 3
+	hitch 2
+	5
+rhyme
+	stale
+	drone 107
+	revue 12
+	rhyme 1
+	4
+caddy
+	stale
+	rayon 136
+	bawdy 12
+	daddy 4
+	paddy 2
+	caddy 1
+	6
+edify
+	stale
+	decor 165
+	unwed 8
+	edify 1
+	4
+about
+	stale
+	tacit 65
+	abort 5
+	about 1
+	4
+melon
+	stale
+	leper 67
+	welch 7
+	felon 2
+	melon 1
+	5
+jewel
+	stale
+	leper 67
+	bezel 3
+	jewel 1
+	4
+timer
+	stale
+	deter 77
+	truer 5
+	tiger 3
+	timer 1
+	5
+taper
+	stale
+	taper 27
+	2
+owner
+	stale
+	decor 165
+	mower 16
+	owner 1
+	4
+affix
+	stale
+	rayon 136
+	pizza 3
+	affix 1
+	4
+renew
+	stale
+	decor 165
+	ferry 8
+	reign 2
+	renew 1
+	5
+mercy
+	stale
+	decor 165
+	perch 2
+	mercy 1
+	4
+enact
+	stale
+	heart 10
+	exact 2
+	enact 1
+	4
+jumbo
+	stale
+	round 221
+	gumbo 4
+	jumbo 1
+	4
+notch
+	stale
+	truth 122
+	witch 6
+	botch 2
+	notch 1
+	5
+manga
+	stale
+	rayon 136
+	manic 5
+	manga 1
+	4
+moody
+	stale
+	round 221
+	dowdy 6
+	goody 2
+	moody 1
+	5
+staff
+	stale
+	stank 11
+	stair 6
+	stamp 3
+	stash 2
+	staff 1
+	6
+nymph
+	stale
+	round 221
+	nymph 9
+	3
+house
+	stale
+	rouse 27
+	mouse 2
+	house 1
+	4
+taunt
+	stale
+	tacit 65
+	tarot 2
+	taunt 1
+	4
+flesh
+	stale
+	welsh 4
+	flesh 1
+	3
+lumpy
+	stale
+	cloud 82
+	pulpy 4
+	lumpy 1
+	4
+youth
+	stale
+	truth 122
+	mouth 2
+	youth 1
+	4
+panel
+	stale
+	renal 37
+	panel 1
+	3
+ivory
+	stale
+	round 221
+	crook 14
+	ivory 1
+	4
+ditch
+	stale
+	truth 122
+	witch 6
+	pitch 3
+	hitch 2
+	ditch 1
+	6
+drive
+	stale
+	drone 107
+	drive 1
+	3
+train
+	stale
+	tract 20
+	tramp 2
+	train 1
+	4
+these
+	stale
+	terse 4
+	these 1
+	3
+peace
+	stale
+	crave 28
+	peace 1
+	3
+lease
+	stale
+	lease 1
+	2
+curse
+	stale
+	rouse 27
+	nurse 3
+	purse 2
+	curse 1
+	5
+share
+	stale
+	shape 13
+	shake 5
+	shade 4
+	shame 3
+	shave 2
+	share 1
+	7
+waxen
+	stale
+	amber 61
+	haven 4
+	oaken 2
+	waxen 1
+	5
+valet
+	stale
+	pleat 12
+	valet 1
+	3
+river
+	stale
+	decor 165
+	viper 18
+	giver 2
+	river 1
+	5
+epoxy
+	stale
+	decor 165
+	money 9
+	epoxy 1
+	4
+morph
+	stale
+	round 221
+	porch 4
+	morph 1
+	4
+aloud
+	stale
+	carol 57
+	along 3
+	aloud 1
+	4
+omega
+	stale
+	amber 61
+	omega 1
+	3
+scoop
+	stale
+	scion 56
+	scoop 1
+	3
+mossy
+	stale
+	missy 42
+	mossy 1
+	3
+scarf
+	stale
+	spark 23
+	scary 4
+	scarf 1
+	4
+sheep
+	stale
+	sewer 28
+	sheen 3
+	sheep 1
+	4
+abyss
+	stale
+	amiss 14
+	abyss 1
+	3
+totem
+	stale
+	deter 77
+	octet 3
+	totem 1
+	4
+blunt
+	stale
+	flint 18
+	blunt 1
+	3
+array
+	stale
+	rayon 136
+	array 1
+	3
+solid
+	stale
+	slink 18
+	spoil 2
+	solid 1
+	4
+shall
+	stale
+	scald 5
+	small 2
+	shall 1
+	4
+weird
+	stale
+	decor 165
+	nerdy 3
+	weird 1
+	4
+amply
+	stale
+	dally 14
+	apply 2
+	amply 1
+	4
+crawl
+	stale
+	claim 28
+	crawl 1
+	3
+lunge
+	stale
+	globe 22
+	liege 3
+	lunge 1
+	4
+vivid
+	stale
+	round 221
+	vivid 1
+	3
+riser
+	stale
+	poser 19
+	miser 3
+	wiser 2
+	riser 1
+	5
+alpha
+	stale
+	carol 57
+	inlay 7
+	album 2
+	alpha 1
+	5
+twirl
+	stale
+	flint 18
+	twirl 1
+	3
+photo
+	stale
+	truth 122
+	photo 1
+	3
+rough
+	stale
+	round 221
+	rough 1
+	3
+doubt
+	stale
+	truth 122
+	count 3
+	doubt 1
+	4
+stony
+	stale
+	stunk 24
+	stint 3
+	stony 1
+	4
+avian
+	stale
+	rayon 136
+	admin 3
+	avian 1
+	4
+husky
+	stale
+	missy 42
+	pushy 4
+	husky 1
+	4
+putty
+	stale
+	truth 122
+	nutty 2
+	putty 1
+	4
+table
+	stale
+	table 1
+	2
+short
+	stale
+	shout 21
+	shoot 2
+	short 1
+	4
+craze
+	stale
+	crave 28
+	crane 2
+	craze 1
+	4
+wider
+	stale
+	decor 165
+	ruder 5
+	wider 1
+	4
+china
+	stale
+	rayon 136
+	aping 4
+	china 1
+	4
+lucky
+	stale
+	cloud 82
+	lurch 5
+	lucky 1
+	4
+sappy
+	stale
+	saucy 17
+	savvy 5
+	sassy 3
+	sandy 2
+	sappy 1
+	6
+ebony
+	stale
+	decor 165
+	women 9
+	ebony 1
+	4
+tense
+	stale
+	terse 4
+	tense 1
+	3
+girth
+	stale
+	truth 122
+	forth 6
+	birth 3
+	mirth 2
+	girth 1
+	6
+nylon
+	stale
+	cloud 82
+	lobby 9
+	nylon 1
+	4
+sheik
+	stale
+	sewer 28
+	speck 3
+	sheik 1
+	4
+saint
+	stale
+	satyr 4
+	saint 1
+	3
+gravy
+	stale
+	drank 48
+	gravy 5
+	3
+alter
+	stale
+	pleat 12
+	alter 1
+	3
+tweed
+	stale
+	deter 77
+	tweed 1
+	3
+spell
+	stale
+	swell 5
+	shell 3
+	smell 2
+	spell 1
+	5
+lymph
+	stale
+	cloud 82
+	filmy 7
+	lymph 1
+	4
+yield
+	stale
+	whelp 12
+	field 3
+	yield 1
+	4
+mealy
+	stale
+	realm 2
+	mealy 1
+	3
+speak
+	stale
+	spear 10
+	speak 1
+	3
+image
+	stale
+	crave 28
+	image 7
+	3
+ardor
+	stale
+	rayon 136
+	abhor 5
+	armor 2
+	ardor 1
+	5
+shook
+	stale
+	scion 56
+	spook 4
+	shook 1
+	4
+badly
+	stale
+	dally 14
+	madly 2
+	badly 1
+	4
+clear
+	stale
+	renal 37
+	clear 1
+	3
+heron
+	stale
+	decor 165
+	heron 1
+	3
+limit
+	stale
+	flint 18
+	light 3
+	limit 1
+	4
+reedy
+	stale
+	decor 165
+	nerdy 3
+	reedy 1
+	4
+chase
+	stale
+	cease 6
+	chase 1
+	3
+loose
+	stale
+	close 4
+	loose 1
+	3
+spoke
+	stale
+	spire 32
+	spoke 1
+	3

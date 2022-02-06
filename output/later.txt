@@ -1,0 +1,12972 @@
+posse
+	later
+	noise 135
+	mouse 6
+	posse 3
+	4
+glass
+	later
+	slain 75
+	class 6
+	glass 1
+	4
+spill
+	later
+	solid 117
+	slink 7
+	spill 2
+	4
+erect
+	later
+	trice 31
+	erect 1
+	3
+gecko
+	later
+	noise 135
+	gecko 4
+	3
+dumpy
+	later
+	sonic 196
+	dumpy 15
+	3
+bread
+	later
+	brace 47
+	bread 2
+	3
+spasm
+	later
+	chain 68
+	spasm 6
+	3
+cacti
+	later
+	taint 30
+	cacti 1
+	3
+shell
+	later
+	slice 67
+	shell 5
+	3
+tasty
+	later
+	taint 30
+	tasty 1
+	3
+lowly
+	later
+	lumpy 19
+	lowly 2
+	3
+froth
+	later
+	trout 63
+	froth 2
+	3
+chasm
+	later
+	chain 68
+	chasm 4
+	3
+lymph
+	later
+	lumpy 19
+	lymph 1
+	3
+serif
+	later
+	prose 100
+	serif 4
+	3
+merit
+	later
+	trice 31
+	merit 4
+	3
+decay
+	later
+	shade 62
+	decay 4
+	3
+ramen
+	later
+	ramen 3
+	2
+beady
+	later
+	shade 62
+	beady 1
+	3
+radar
+	later
+	savor 9
+	radar 2
+	3
+curly
+	later
+	drill 21
+	curly 3
+	3
+never
+	later
+	riser 73
+	power 30
+	defer 10
+	never 1
+	5
+tenet
+	later
+	unset 20
+	tenet 1
+	3
+hello
+	later
+	slice 67
+	belly 10
+	hello 1
+	4
+charm
+	later
+	brand 71
+	shark 11
+	charm 2
+	4
+above
+	later
+	shade 62
+	above 3
+	3
+lynch
+	later
+	lumpy 19
+	lynch 2
+	3
+tense
+	later
+	heist 55
+	tense 1
+	3
+lager
+	later
+	lager 2
+	2
+pizza
+	later
+	chain 68
+	amiss 4
+	pizza 1
+	4
+prune
+	later
+	prose 100
+	pride 6
+	prune 1
+	4
+tiara
+	later
+	tract 25
+	tiara 1
+	3
+block
+	later
+	solid 117
+	block 10
+	3
+image
+	later
+	shade 62
+	awake 9
+	image 3
+	4
+start
+	later
+	tract 25
+	start 1
+	3
+tidal
+	later
+	bloat 18
+	tidal 1
+	3
+squad
+	later
+	chain 68
+	squad 5
+	3
+verge
+	later
+	prose 100
+	verge 13
+	3
+kayak
+	later
+	candy 62
+	kayak 2
+	3
+catty
+	later
+	catty 16
+	2
+erupt
+	later
+	trice 31
+	erupt 2
+	3
+totem
+	later
+	totem 3
+	2
+dowel
+	later
+	bleep 25
+	dowel 6
+	3
+label
+	later
+	label 3
+	2
+water
+	later
+	water 4
+	2
+exile
+	later
+	slice 67
+	exile 3
+	3
+scuba
+	later
+	chain 68
+	scuba 2
+	3
+wiser
+	later
+	riser 73
+	wiser 2
+	3
+copse
+	later
+	noise 135
+	mouse 6
+	posse 3
+	copse 1
+	5
+gipsy
+	later
+	sonic 196
+	gipsy 5
+	3
+cutie
+	later
+	cutie 11
+	2
+verve
+	later
+	prose 100
+	verge 13
+	verve 1
+	4
+twine
+	later
+	heist 55
+	twine 4
+	3
+enema
+	later
+	shade 62
+	began 8
+	enema 1
+	4
+creek
+	later
+	pried 25
+	creek 2
+	3
+scope
+	later
+	noise 135
+	spoke 4
+	scope 1
+	4
+brass
+	later
+	brand 71
+	brass 3
+	3
+dimly
+	later
+	solid 117
+	dimly 2
+	3
+antic
+	later
+	antic 3
+	2
+myrrh
+	later
+	crony 108
+	myrrh 2
+	3
+arrow
+	later
+	brand 71
+	arrow 4
+	3
+clung
+	later
+	solid 117
+	plunk 12
+	clung 2
+	4
+pound
+	later
+	sonic 196
+	pound 8
+	3
+baker
+	later
+	wager 17
+	parer 10
+	baker 4
+	4
+batch
+	later
+	catty 16
+	batch 5
+	3
+liner
+	later
+	lover 7
+	liner 2
+	3
+aisle
+	later
+	glade 40
+	ample 5
+	aisle 2
+	4
+fewer
+	later
+	riser 73
+	power 30
+	fewer 2
+	4
+steed
+	later
+	unset 20
+	steed 2
+	3
+lurch
+	later
+	lurch 4
+	2
+raise
+	later
+	farce 6
+	raise 2
+	3
+raven
+	later
+	ramen 3
+	raven 1
+	3
+spawn
+	later
+	chain 68
+	spawn 1
+	3
+comet
+	later
+	unset 20
+	comet 4
+	3
+tipsy
+	later
+	hoist 107
+	tipsy 1
+	3
+dried
+	later
+	pried 25
+	dried 3
+	3
+parka
+	later
+	hardy 29
+	parka 4
+	3
+buddy
+	later
+	sonic 196
+	dumpy 15
+	buddy 1
+	4
+brunt
+	later
+	trout 63
+	grunt 4
+	brunt 1
+	4
+troll
+	later
+	blurt 5
+	troll 1
+	3
+blink
+	later
+	solid 117
+	clink 15
+	blink 1
+	4
+flank
+	later
+	slain 75
+	clank 7
+	flank 3
+	4
+horde
+	later
+	prose 100
+	forge 8
+	horde 2
+	4
+ingot
+	later
+	hoist 107
+	ingot 3
+	3
+bonus
+	later
+	sonic 196
+	bonus 1
+	3
+randy
+	later
+	hardy 29
+	randy 1
+	3
+befit
+	later
+	heist 55
+	befit 2
+	3
+vault
+	later
+	tally 6
+	vault 2
+	3
+scald
+	later
+	slain 75
+	scald 6
+	3
+chafe
+	later
+	shade 62
+	chafe 1
+	3
+expel
+	later
+	bleep 25
+	expel 1
+	3
+wrong
+	later
+	crony 108
+	wrong 3
+	3
+suing
+	later
+	sonic 196
+	suing 5
+	3
+tenth
+	later
+	heist 55
+	tenth 3
+	3
+risky
+	later
+	crony 108
+	hurry 6
+	risky 1
+	4
+bliss
+	later
+	solid 117
+	bliss 1
+	3
+wheel
+	later
+	bleep 25
+	wheel 2
+	3
+groom
+	later
+	crony 108
+	brood 10
+	groom 2
+	4
+lapse
+	later
+	lapse 3
+	2
+light
+	later
+	light 4
+	2
+lunge
+	later
+	ledge 9
+	lunge 1
+	3
+space
+	later
+	shade 62
+	space 3
+	3
+minor
+	later
+	rigor 15
+	minor 2
+	3
+cough
+	later
+	sonic 196
+	cough 6
+	3
+algae
+	later
+	glade 40
+	algae 1
+	3
+pinky
+	later
+	sonic 196
+	pinky 6
+	3
+bilge
+	later
+	slice 67
+	bilge 3
+	3
+froze
+	later
+	prose 100
+	drone 7
+	froze 3
+	4
+foray
+	later
+	brand 71
+	spray 6
+	foray 1
+	4
+dream
+	later
+	brace 47
+	dream 5
+	3
+voter
+	later
+	enter 9
+	outer 4
+	voter 1
+	4
+shame
+	later
+	shade 62
+	shame 4
+	3
+aping
+	later
+	chain 68
+	aping 3
+	3
+paste
+	later
+	paste 8
+	2
+flyer
+	later
+	idler 10
+	bluer 3
+	flyer 1
+	4
+swine
+	later
+	noise 135
+	snipe 5
+	swine 2
+	4
+satyr
+	later
+	satyr 1
+	2
+aunty
+	later
+	stain 38
+	aunty 3
+	3
+merge
+	later
+	prose 100
+	verge 13
+	merge 1
+	4
+reign
+	later
+	prose 100
+	merry 15
+	reign 1
+	4
+cache
+	later
+	mange 18
+	sauce 5
+	cache 1
+	4
+knead
+	later
+	shade 62
+	decay 4
+	knead 1
+	4
+mange
+	later
+	mange 18
+	2
+mammy
+	later
+	candy 62
+	gassy 10
+	mammy 3
+	4
+chock
+	later
+	sonic 196
+	chock 1
+	3
+organ
+	later
+	brand 71
+	organ 3
+	3
+retry
+	later
+	retry 5
+	2
+canal
+	later
+	sadly 26
+	canal 6
+	3
+ensue
+	later
+	noise 135
+	ensue 2
+	3
+fence
+	later
+	noise 135
+	pence 7
+	fence 2
+	4
+dryly
+	later
+	drill 21
+	dryly 1
+	3
+morph
+	later
+	crony 108
+	morph 5
+	3
+vital
+	later
+	octal 4
+	vital 1
+	3
+think
+	later
+	hoist 107
+	think 4
+	3
+shove
+	later
+	noise 135
+	spoke 4
+	shove 1
+	4
+woken
+	later
+	widen 40
+	woken 3
+	3
+savor
+	later
+	savor 9
+	2
+willy
+	later
+	solid 117
+	filmy 6
+	willy 3
+	4
+smoky
+	later
+	sonic 196
+	spook 6
+	smoky 1
+	4
+scant
+	later
+	stain 38
+	scant 1
+	3
+troop
+	later
+	trout 63
+	troop 1
+	3
+caste
+	later
+	paste 8
+	caste 5
+	3
+trove
+	later
+	trice 31
+	trove 2
+	3
+deign
+	later
+	noise 135
+	deign 5
+	3
+champ
+	later
+	chain 68
+	chasm 4
+	champ 1
+	4
+waive
+	later
+	mange 18
+	cause 5
+	waive 1
+	4
+leash
+	later
+	leash 7
+	2
+edify
+	later
+	noise 135
+	edify 2
+	3
+aroma
+	later
+	brand 71
+	arrow 4
+	aroma 1
+	4
+eerie
+	later
+	prose 100
+	verge 13
+	eerie 1
+	4
+force
+	later
+	prose 100
+	forge 8
+	force 1
+	4
+grape
+	later
+	brace 47
+	grade 8
+	grape 3
+	4
+gourd
+	later
+	crony 108
+	morph 5
+	gourd 1
+	4
+clone
+	later
+	slice 67
+	clone 2
+	3
+scour
+	later
+	rigor 15
+	scour 2
+	3
+guide
+	later
+	noise 135
+	guide 4
+	3
+showy
+	later
+	sonic 196
+	spook 6
+	showy 1
+	4
+pride
+	later
+	prose 100
+	pride 6
+	3
+toddy
+	later
+	hoist 107
+	booty 3
+	toddy 1
+	4
+press
+	later
+	prose 100
+	press 1
+	3
+filer
+	later
+	idler 10
+	filer 1
+	3
+trump
+	later
+	trout 63
+	truck 4
+	trump 2
+	4
+fresh
+	later
+	prose 100
+	dress 3
+	fresh 1
+	4
+wheat
+	later
+	skate 32
+	wheat 5
+	3
+steam
+	later
+	skate 32
+	steam 3
+	3
+equal
+	later
+	glade 40
+	fella 4
+	equal 1
+	4
+horse
+	later
+	prose 100
+	horse 3
+	3
+lyric
+	later
+	lurch 4
+	lyric 1
+	3
+count
+	later
+	hoist 107
+	count 4
+	3
+fifth
+	later
+	hoist 107
+	fifth 4
+	3
+cover
+	later
+	riser 73
+	power 30
+	hover 8
+	cover 2
+	5
+junto
+	later
+	hoist 107
+	junto 1
+	3
+shack
+	later
+	chain 68
+	shack 2
+	3
+neigh
+	later
+	noise 135
+	neigh 1
+	3
+truth
+	later
+	trout 63
+	truth 1
+	3
+denim
+	later
+	noise 135
+	denim 4
+	3
+egret
+	later
+	egret 8
+	2
+story
+	later
+	trout 63
+	story 3
+	3
+wacky
+	later
+	candy 62
+	wacky 2
+	3
+civic
+	later
+	sonic 196
+	civic 4
+	3
+kitty
+	later
+	ditto 22
+	kitty 3
+	3
+linen
+	later
+	linen 5
+	2
+stoop
+	later
+	hoist 107
+	stoop 6
+	3
+dowry
+	later
+	crony 108
+	dowry 5
+	3
+dress
+	later
+	prose 100
+	dress 3
+	3
+brine
+	later
+	prose 100
+	crude 9
+	brine 3
+	4
+visor
+	later
+	rigor 15
+	minor 2
+	visor 1
+	4
+geese
+	later
+	noise 135
+	geese 1
+	3
+octal
+	later
+	octal 4
+	2
+rouge
+	later
+	prose 100
+	forge 8
+	rouge 1
+	4
+imply
+	later
+	solid 117
+	clink 15
+	imply 1
+	4
+upset
+	later
+	unset 20
+	upset 1
+	3
+stool
+	later
+	built 21
+	stool 3
+	3
+sally
+	later
+	sadly 26
+	sally 1
+	3
+inane
+	later
+	shade 62
+	awake 9
+	image 3
+	inane 1
+	5
+dough
+	later
+	sonic 196
+	goody 16
+	dough 1
+	4
+exert
+	later
+	trice 31
+	exert 5
+	3
+putty
+	later
+	ditto 22
+	putty 2
+	3
+blurb
+	later
+	drill 21
+	blurb 3
+	3
+genre
+	later
+	prose 100
+	verge 13
+	genre 1
+	4
+photo
+	later
+	hoist 107
+	photo 3
+	3
+obese
+	later
+	noise 135
+	whose 3
+	obese 1
+	4
+sixty
+	later
+	hoist 107
+	sixty 1
+	3
+share
+	later
+	brace 47
+	share 4
+	3
+clerk
+	later
+	reply 5
+	clerk 1
+	3
+meant
+	later
+	skate 32
+	meant 4
+	3
+purge
+	later
+	prose 100
+	purge 1
+	3
+crude
+	later
+	prose 100
+	crude 9
+	3
+llama
+	later
+	lilac 5
+	llama 1
+	3
+aider
+	later
+	aider 3
+	2
+sonic
+	later
+	sonic 196
+	2
+ester
+	later
+	enter 9
+	ester 1
+	3
+poesy
+	later
+	noise 135
+	poesy 1
+	3
+slice
+	later
+	slice 67
+	2
+filmy
+	later
+	solid 117
+	filmy 6
+	3
+wrist
+	later
+	trout 63
+	wrist 4
+	3
+angry
+	later
+	brand 71
+	angry 3
+	3
+toxin
+	later
+	hoist 107
+	toxin 4
+	3
+slosh
+	later
+	solid 117
+	spool 4
+	slosh 1
+	4
+board
+	later
+	brand 71
+	board 1
+	3
+flier
+	later
+	idler 10
+	flier 2
+	3
+medic
+	later
+	noise 135
+	medic 2
+	3
+sleet
+	later
+	islet 7
+	sleet 1
+	3
+shift
+	later
+	hoist 107
+	shift 1
+	3
+power
+	later
+	riser 73
+	power 30
+	3
+shire
+	later
+	prose 100
+	serve 3
+	shire 1
+	4
+snaky
+	later
+	chain 68
+	snaky 2
+	3
+slept
+	later
+	slept 15
+	2
+latte
+	later
+	latte 2
+	2
+align
+	later
+	slain 75
+	align 1
+	3
+horny
+	later
+	crony 108
+	horny 1
+	3
+nobly
+	later
+	solid 117
+	nobly 4
+	3
+beget
+	later
+	unset 20
+	comet 4
+	beget 2
+	4
+idiom
+	later
+	sonic 196
+	idiom 4
+	3
+theme
+	later
+	heist 55
+	theme 3
+	3
+porch
+	later
+	crony 108
+	porch 2
+	3
+nicer
+	later
+	riser 73
+	diner 12
+	nicer 1
+	4
+waste
+	later
+	paste 8
+	caste 5
+	waste 4
+	4
+spiny
+	later
+	sonic 196
+	suing 5
+	spiny 2
+	4
+vigil
+	later
+	solid 117
+	vigil 3
+	3
+aphid
+	later
+	chain 68
+	aphid 1
+	3
+spoof
+	later
+	sonic 196
+	spook 6
+	spoof 1
+	4
+spend
+	later
+	noise 135
+	spend 1
+	3
+agate
+	later
+	skate 32
+	agate 3
+	3
+thigh
+	later
+	hoist 107
+	think 4
+	thigh 1
+	4
+dread
+	later
+	brace 47
+	dream 5
+	dread 1
+	4
+sunny
+	later
+	sonic 196
+	sunny 1
+	3
+pupil
+	later
+	solid 117
+	vigil 3
+	pupil 1
+	4
+prawn
+	later
+	brand 71
+	prawn 2
+	3
+sully
+	later
+	solid 117
+	sully 2
+	3
+drunk
+	later
+	crony 108
+	bring 7
+	drunk 1
+	4
+grade
+	later
+	brace 47
+	grade 8
+	3
+livid
+	later
+	lumpy 19
+	lingo 4
+	livid 1
+	4
+cheek
+	later
+	widen 40
+	cheek 5
+	3
+begin
+	later
+	noise 135
+	denim 4
+	begin 1
+	4
+creme
+	later
+	prose 100
+	crude 9
+	creme 2
+	4
+sandy
+	later
+	candy 62
+	sandy 3
+	3
+check
+	later
+	noise 135
+	check 6
+	3
+grimy
+	later
+	crony 108
+	grimy 2
+	3
+flock
+	later
+	solid 117
+	block 10
+	flock 2
+	4
+avian
+	later
+	chain 68
+	avian 2
+	3
+zonal
+	later
+	slain 75
+	zonal 2
+	3
+detox
+	later
+	cutie 11
+	petty 3
+	detox 1
+	4
+bunch
+	later
+	sonic 196
+	bunch 4
+	3
+blast
+	later
+	bloat 18
+	blast 1
+	3
+jumbo
+	later
+	sonic 196
+	jumbo 4
+	3
+smote
+	later
+	heist 55
+	stoke 4
+	smote 1
+	4
+eaten
+	later
+	eaten 2
+	2
+bowel
+	later
+	bleep 25
+	bowel 1
+	3
+coupe
+	later
+	noise 135
+	gouge 5
+	coupe 1
+	4
+orbit
+	later
+	trout 63
+	orbit 1
+	3
+eater
+	later
+	water 4
+	eater 3
+	3
+drive
+	later
+	prose 100
+	crude 9
+	drive 1
+	4
+mirth
+	later
+	trout 63
+	mirth 5
+	3
+reply
+	later
+	reply 5
+	2
+smoke
+	later
+	noise 135
+	spoke 4
+	smoke 1
+	4
+skimp
+	later
+	sonic 196
+	spiky 6
+	skimp 1
+	4
+thong
+	later
+	hoist 107
+	photo 3
+	thong 1
+	4
+shrug
+	later
+	crony 108
+	shrug 9
+	3
+femme
+	later
+	noise 135
+	fugue 9
+	femme 1
+	4
+borax
+	later
+	brand 71
+	borax 1
+	3
+humus
+	later
+	sonic 196
+	humus 10
+	3
+false
+	later
+	false 9
+	2
+midst
+	later
+	hoist 107
+	midst 1
+	3
+braid
+	later
+	brand 71
+	braid 1
+	3
+qualm
+	later
+	slain 75
+	koala 3
+	qualm 1
+	4
+drank
+	later
+	brand 71
+	drank 1
+	3
+scoop
+	later
+	sonic 196
+	scoop 4
+	3
+crisp
+	later
+	crony 108
+	crisp 6
+	3
+pixie
+	later
+	noise 135
+	pixie 5
+	3
+spore
+	later
+	prose 100
+	spore 1
+	3
+stony
+	later
+	hoist 107
+	stoop 6
+	stony 2
+	4
+undid
+	later
+	sonic 196
+	undid 2
+	3
+spree
+	later
+	pried 25
+	spree 2
+	3
+beset
+	later
+	unset 20
+	beset 1
+	3
+chart
+	later
+	tract 25
+	chart 1
+	3
+missy
+	later
+	sonic 196
+	gipsy 5
+	missy 1
+	4
+mossy
+	later
+	sonic 196
+	mossy 3
+	3
+twist
+	later
+	hoist 107
+	twist 1
+	3
+rough
+	later
+	crony 108
+	morph 5
+	rough 1
+	4
+tepid
+	later
+	heist 55
+	tepid 1
+	3
+fifty
+	later
+	hoist 107
+	fifty 4
+	3
+cubic
+	later
+	sonic 196
+	civic 4
+	cubic 1
+	4
+surly
+	later
+	drill 21
+	curly 3
+	surly 2
+	4
+torso
+	later
+	trout 63
+	throw 4
+	torso 1
+	4
+anger
+	later
+	aider 3
+	anger 2
+	3
+heave
+	later
+	shade 62
+	heave 1
+	3
+march
+	later
+	hardy 29
+	march 2
+	3
+shawl
+	later
+	slain 75
+	scalp 6
+	shawl 1
+	4
+crump
+	later
+	crony 108
+	crisp 6
+	crump 1
+	4
+world
+	later
+	drill 21
+	world 1
+	3
+blunt
+	later
+	built 21
+	blunt 1
+	3
+spark
+	later
+	brand 71
+	shark 11
+	spark 1
+	4
+girly
+	later
+	drill 21
+	girly 1
+	3
+sweep
+	later
+	widen 40
+	sweep 1
+	3
+lease
+	later
+	leash 7
+	lease 1
+	3
+coach
+	later
+	chain 68
+	coach 1
+	3
+react
+	later
+	trace 14
+	react 1
+	3
+eking
+	later
+	noise 135
+	deign 5
+	eking 2
+	4
+which
+	later
+	sonic 196
+	quick 5
+	which 1
+	4
+scree
+	later
+	pried 25
+	scree 4
+	3
+choir
+	later
+	rigor 15
+	choir 1
+	3
+cloud
+	later
+	solid 117
+	blood 4
+	cloud 1
+	4
+dirty
+	later
+	trout 63
+	mirth 5
+	dirty 1
+	4
+flash
+	later
+	slain 75
+	class 6
+	flash 2
+	4
+hippy
+	later
+	sonic 196
+	whiff 9
+	hippy 1
+	4
+party
+	later
+	party 5
+	2
+drain
+	later
+	brand 71
+	drain 2
+	3
+scout
+	later
+	hoist 107
+	scout 4
+	3
+unlit
+	later
+	built 21
+	unlit 1
+	3
+smash
+	later
+	chain 68
+	swash 4
+	smash 1
+	4
+alley
+	later
+	alley 4
+	2
+kneel
+	later
+	bleep 25
+	wheel 2
+	kneel 1
+	4
+queue
+	later
+	noise 135
+	fugue 9
+	queue 1
+	4
+scrum
+	later
+	crony 108
+	scrum 3
+	3
+shore
+	later
+	prose 100
+	shore 4
+	3
+chard
+	later
+	brand 71
+	chard 5
+	3
+gayly
+	later
+	sadly 26
+	gayly 3
+	3
+unite
+	later
+	heist 55
+	twine 4
+	unite 1
+	4
+itchy
+	later
+	hoist 107
+	fifth 4
+	itchy 1
+	4
+donut
+	later
+	hoist 107
+	count 4
+	donut 1
+	4
+swath
+	later
+	stain 38
+	swath 2
+	3
+etude
+	later
+	heist 55
+	etude 3
+	3
+chime
+	later
+	noise 135
+	guide 4
+	chime 1
+	4
+vista
+	later
+	stain 38
+	vista 1
+	3
+chide
+	later
+	noise 135
+	guide 4
+	chide 1
+	4
+boozy
+	later
+	sonic 196
+	goody 16
+	boozy 3
+	4
+dairy
+	later
+	hardy 29
+	dairy 1
+	3
+lumpy
+	later
+	lumpy 19
+	2
+axial
+	later
+	slain 75
+	voila 4
+	axial 1
+	4
+vinyl
+	later
+	solid 117
+	clink 15
+	vinyl 1
+	4
+mayor
+	later
+	savor 9
+	mayor 4
+	3
+waltz
+	later
+	tally 6
+	waltz 1
+	3
+flake
+	later
+	glade 40
+	blame 7
+	plane 4
+	flake 2
+	5
+golem
+	later
+	bleep 25
+	dowel 6
+	golem 1
+	4
+blind
+	later
+	solid 117
+	build 4
+	blind 1
+	4
+swing
+	later
+	sonic 196
+	suing 5
+	swing 1
+	4
+mouth
+	later
+	hoist 107
+	mouth 7
+	3
+focus
+	later
+	sonic 196
+	focus 1
+	3
+truss
+	later
+	trout 63
+	truck 4
+	trump 2
+	truss 1
+	5
+debit
+	later
+	heist 55
+	befit 2
+	debit 1
+	4
+broad
+	later
+	brand 71
+	broad 1
+	3
+wench
+	later
+	noise 135
+	wench 5
+	3
+cried
+	later
+	pried 25
+	dried 3
+	cried 2
+	4
+diary
+	later
+	brand 71
+	diary 2
+	3
+frail
+	later
+	rival 15
+	frail 2
+	3
+chief
+	later
+	widen 40
+	chief 1
+	3
+stain
+	later
+	stain 38
+	2
+tepee
+	later
+	unset 20
+	tepee 3
+	3
+wryly
+	later
+	drill 21
+	wryly 1
+	3
+puree
+	later
+	pried 25
+	puree 1
+	3
+revue
+	later
+	prose 100
+	verge 13
+	revue 1
+	4
+lofty
+	later
+	light 4
+	lofty 2
+	3
+woozy
+	later
+	sonic 196
+	goody 16
+	boozy 3
+	woozy 1
+	5
+leper
+	later
+	lover 7
+	liner 2
+	leper 1
+	4
+bless
+	later
+	slice 67
+	bless 2
+	3
+money
+	later
+	widen 40
+	money 4
+	3
+recap
+	later
+	brace 47
+	recap 1
+	3
+peace
+	later
+	shade 62
+	awake 9
+	image 3
+	peace 1
+	5
+demur
+	later
+	demur 5
+	2
+revel
+	later
+	revel 5
+	2
+stomp
+	later
+	hoist 107
+	stoop 6
+	stomp 1
+	4
+ankle
+	later
+	glade 40
+	ample 5
+	aisle 2
+	ankle 1
+	5
+melon
+	later
+	slice 67
+	belly 10
+	melon 2
+	4
+spear
+	later
+	spear 7
+	2
+tripe
+	later
+	trice 31
+	tripe 3
+	3
+trend
+	later
+	trice 31
+	trend 1
+	3
+annoy
+	later
+	chain 68
+	annoy 5
+	3
+blitz
+	later
+	built 21
+	blitz 1
+	3
+evade
+	later
+	shade 62
+	evade 1
+	3
+liver
+	later
+	lover 7
+	liver 2
+	3
+hatch
+	later
+	catty 16
+	batch 5
+	hatch 4
+	4
+every
+	later
+	prose 100
+	merry 15
+	every 3
+	4
+whisk
+	later
+	sonic 196
+	gipsy 5
+	whisk 1
+	4
+saucy
+	later
+	candy 62
+	wacky 2
+	saucy 1
+	4
+fuzzy
+	later
+	sonic 196
+	dumpy 15
+	fuzzy 2
+	4
+snarl
+	later
+	rival 15
+	drawl 4
+	snarl 1
+	4
+gypsy
+	later
+	sonic 196
+	humus 10
+	gypsy 1
+	4
+graph
+	later
+	brand 71
+	crash 10
+	graph 1
+	4
+ruler
+	later
+	idler 10
+	ruler 1
+	3
+patch
+	later
+	catty 16
+	batch 5
+	hatch 4
+	patch 3
+	5
+prude
+	later
+	prose 100
+	pride 6
+	prude 1
+	4
+fancy
+	later
+	candy 62
+	fancy 1
+	3
+dense
+	later
+	noise 135
+	dense 2
+	3
+brake
+	later
+	brace 47
+	brake 2
+	3
+alter
+	later
+	alter 1
+	2
+viper
+	later
+	riser 73
+	diner 12
+	viper 5
+	4
+cyber
+	later
+	riser 73
+	power 30
+	defer 10
+	cyber 2
+	5
+paper
+	later
+	wager 17
+	parer 10
+	paper 2
+	4
+hunch
+	later
+	sonic 196
+	bunch 4
+	hunch 3
+	4
+digit
+	later
+	hoist 107
+	digit 3
+	3
+mecca
+	later
+	shade 62
+	began 8
+	mecca 1
+	4
+onset
+	later
+	unset 20
+	onset 1
+	3
+crony
+	later
+	crony 108
+	2
+cloth
+	later
+	built 21
+	stool 3
+	cloth 1
+	4
+least
+	later
+	least 3
+	2
+input
+	later
+	hoist 107
+	digit 3
+	input 1
+	4
+humor
+	later
+	rigor 15
+	humor 3
+	3
+crier
+	later
+	riser 73
+	crier 2
+	3
+hilly
+	later
+	solid 117
+	filmy 6
+	willy 3
+	hilly 2
+	5
+ought
+	later
+	hoist 107
+	ought 1
+	3
+flare
+	later
+	regal 10
+	flare 2
+	3
+style
+	later
+	slept 15
+	style 2
+	3
+stamp
+	later
+	stain 38
+	stamp 4
+	3
+cater
+	later
+	water 4
+	eater 3
+	cater 2
+	4
+beach
+	later
+	shade 62
+	beach 3
+	3
+prime
+	later
+	prose 100
+	prude 6
+	prime 3
+	4
+rerun
+	later
+	prose 100
+	merry 15
+	rerun 1
+	4
+jelly
+	later
+	slice 67
+	belly 10
+	jelly 1
+	4
+minim
+	later
+	sonic 196
+	minim 1
+	3
+awash
+	later
+	chain 68
+	swash 4
+	awash 1
+	4
+funny
+	later
+	sonic 196
+	funny 4
+	3
+ozone
+	later
+	noise 135
+	ozone 4
+	3
+chase
+	later
+	shade 62
+	chase 2
+	3
+sassy
+	later
+	candy 62
+	gassy 10
+	sassy 1
+	4
+booze
+	later
+	noise 135
+	gouge 5
+	booze 1
+	4
+shook
+	later
+	sonic 196
+	spook 6
+	shook 1
+	4
+scent
+	later
+	heist 55
+	scent 3
+	3
+oddly
+	later
+	solid 117
+	oddly 1
+	3
+manga
+	later
+	candy 62
+	manga 4
+	3
+frill
+	later
+	drill 21
+	frill 3
+	3
+derby
+	later
+	prose 100
+	merry 15
+	derby 3
+	4
+bitty
+	later
+	ditto 22
+	kitty 3
+	bitty 2
+	4
+salvo
+	later
+	sadly 26
+	salvo 3
+	3
+known
+	later
+	sonic 196
+	known 2
+	3
+tight
+	later
+	hoist 107
+	tight 5
+	3
+chaff
+	later
+	chain 68
+	chasm 4
+	chaff 1
+	4
+worse
+	later
+	prose 100
+	horse 3
+	worse 1
+	4
+purse
+	later
+	prose 100
+	purse 1
+	3
+widen
+	later
+	widen 40
+	2
+quoth
+	later
+	hoist 107
+	photo 3
+	quoth 1
+	4
+favor
+	later
+	savor 9
+	favor 1
+	3
+grail
+	later
+	rival 15
+	frail 2
+	grail 1
+	4
+eight
+	later
+	heist 55
+	eight 1
+	3
+bleed
+	later
+	bleep 25
+	bleed 1
+	3
+spray
+	later
+	brand 71
+	spray 6
+	3
+picky
+	later
+	sonic 196
+	quick 5
+	picky 1
+	4
+swish
+	later
+	sonic 196
+	spiky 6
+	swish 1
+	4
+grope
+	later
+	prose 100
+	grope 1
+	3
+flick
+	later
+	solid 117
+	clink 15
+	flick 1
+	4
+strut
+	later
+	trout 63
+	strut 1
+	3
+emcee
+	later
+	widen 40
+	cheek 5
+	emcee 1
+	4
+tonic
+	later
+	hoist 107
+	toxin 4
+	tonic 1
+	4
+sheen
+	later
+	widen 40
+	semen 6
+	sheen 1
+	4
+mound
+	later
+	sonic 196
+	pound 8
+	mound 5
+	4
+depth
+	later
+	heist 55
+	tenth 3
+	depth 1
+	4
+knoll
+	later
+	solid 117
+	block 10
+	knoll 1
+	4
+plane
+	later
+	glade 40
+	blame 7
+	plane 4
+	4
+warty
+	later
+	party 5
+	warty 1
+	3
+touch
+	later
+	hoist 107
+	mouth 7
+	touch 2
+	4
+serve
+	later
+	prose 100
+	serve 3
+	3
+eagle
+	later
+	false 9
+	eagle 3
+	3
+lipid
+	later
+	lumpy 19
+	lipid 1
+	3
+wager
+	later
+	wager 17
+	2
+pulpy
+	later
+	solid 117
+	gully 7
+	pulpy 2
+	4
+bleak
+	later
+	glade 40
+	bleak 2
+	3
+altar
+	later
+	altar 1
+	2
+borne
+	later
+	prose 100
+	forge 8
+	horde 2
+	borne 1
+	5
+savvy
+	later
+	candy 62
+	gassy 10
+	savvy 3
+	4
+built
+	later
+	built 21
+	2
+cigar
+	later
+	briar 12
+	cigar 2
+	3
+raspy
+	later
+	hardy 29
+	raspy 3
+	3
+major
+	later
+	savor 9
+	mayor 4
+	major 2
+	4
+trait
+	later
+	tract 25
+	trait 1
+	3
+comma
+	later
+	chain 68
+	comma 2
+	3
+whose
+	later
+	noise 135
+	whose 3
+	3
+junta
+	later
+	stain 38
+	aunty 3
+	junta 1
+	4
+fjord
+	later
+	crony 108
+	fjord 2
+	3
+slink
+	later
+	solid 117
+	slink 7
+	3
+sniff
+	later
+	sonic 196
+	suing 5
+	sniff 1
+	4
+would
+	later
+	solid 117
+	would 2
+	3
+paint
+	later
+	taint 30
+	paint 3
+	3
+irate
+	later
+	trace 14
+	irate 2
+	3
+forty
+	later
+	trout 63
+	forty 4
+	3
+shown
+	later
+	sonic 196
+	shown 5
+	3
+coyly
+	later
+	solid 117
+	nobly 4
+	coyly 2
+	4
+store
+	later
+	trice 31
+	route 3
+	store 1
+	4
+drawl
+	later
+	rival 15
+	drawl 4
+	3
+conch
+	later
+	sonic 196
+	conch 2
+	3
+dummy
+	later
+	sonic 196
+	dumpy 15
+	dummy 1
+	4
+polyp
+	later
+	solid 117
+	folly 6
+	polyp 1
+	4
+tatty
+	later
+	catty 16
+	tatty 4
+	3
+aback
+	later
+	chain 68
+	aback 4
+	3
+credo
+	later
+	prose 100
+	credo 1
+	3
+shone
+	later
+	noise 135
+	shone 2
+	3
+lance
+	later
+	lapse 3
+	lance 2
+	3
+eclat
+	later
+	eclat 12
+	2
+straw
+	later
+	tract 25
+	straw 4
+	3
+folly
+	later
+	solid 117
+	folly 6
+	3
+armor
+	later
+	briar 12
+	armor 2
+	3
+steer
+	later
+	other 8
+	steer 1
+	3
+hazel
+	later
+	navel 7
+	hazel 4
+	3
+shave
+	later
+	shade 62
+	shame 4
+	shave 3
+	4
+slant
+	later
+	bloat 18
+	slant 3
+	3
+goody
+	later
+	sonic 196
+	goody 16
+	3
+oxide
+	later
+	noise 135
+	oxide 1
+	3
+shear
+	later
+	spear 7
+	shear 3
+	3
+ahead
+	later
+	shade 62
+	ahead 1
+	3
+roast
+	later
+	tract 25
+	roast 4
+	3
+stink
+	later
+	hoist 107
+	stink 4
+	3
+ralph
+	later
+	ralph 3
+	2
+mouse
+	later
+	noise 135
+	mouse 6
+	3
+cagey
+	later
+	oaken 6
+	cagey 2
+	3
+build
+	later
+	solid 117
+	build 4
+	3
+safer
+	later
+	wager 17
+	parer 10
+	baker 4
+	safer 2
+	5
+yield
+	later
+	slice 67
+	yield 5
+	3
+miser
+	later
+	riser 73
+	wiser 2
+	miser 1
+	4
+roger
+	later
+	riser 73
+	roger 5
+	3
+nosey
+	later
+	widen 40
+	money 4
+	nosey 1
+	4
+frond
+	later
+	crony 108
+	wrong 3
+	frond 1
+	4
+class
+	later
+	slain 75
+	class 6
+	3
+craft
+	later
+	tract 25
+	craft 1
+	3
+other
+	later
+	other 8
+	2
+round
+	later
+	crony 108
+	round 2
+	3
+beard
+	later
+	brace 47
+	beard 1
+	3
+arbor
+	later
+	briar 12
+	arbor 1
+	3
+began
+	later
+	shade 62
+	began 8
+	3
+blown
+	later
+	solid 117
+	block 10
+	blown 2
+	4
+brisk
+	later
+	crony 108
+	brisk 6
+	3
+manly
+	later
+	sadly 26
+	gayly 3
+	manly 1
+	4
+crack
+	later
+	brand 71
+	crash 10
+	crack 3
+	4
+jerky
+	later
+	prose 100
+	merry 15
+	derby 3
+	jerky 1
+	5
+shard
+	later
+	brand 71
+	chard 5
+	shard 1
+	4
+canoe
+	later
+	mange 18
+	canoe 2
+	3
+sappy
+	later
+	candy 62
+	gassy 10
+	savvy 3
+	sappy 1
+	5
+plaid
+	later
+	slain 75
+	plaid 3
+	3
+wooer
+	later
+	riser 73
+	power 30
+	wooer 1
+	4
+skulk
+	later
+	solid 117
+	slunk 8
+	skulk 1
+	4
+howdy
+	later
+	sonic 196
+	goody 16
+	howdy 2
+	4
+gummy
+	later
+	sonic 196
+	dumpy 15
+	gummy 2
+	4
+pooch
+	later
+	sonic 196
+	cough 6
+	pooch 1
+	4
+noose
+	later
+	noise 135
+	noose 1
+	3
+abuse
+	later
+	shade 62
+	abuse 2
+	3
+madly
+	later
+	sadly 26
+	madly 2
+	3
+stake
+	later
+	skate 32
+	stake 1
+	3
+epoch
+	later
+	noise 135
+	gecko 4
+	epoch 1
+	4
+medal
+	later
+	glade 40
+	medal 5
+	3
+shuck
+	later
+	sonic 196
+	shuck 1
+	3
+knack
+	later
+	chain 68
+	knack 2
+	3
+lying
+	later
+	lumpy 19
+	lynch 2
+	lying 1
+	4
+front
+	later
+	trout 63
+	front 3
+	3
+limbo
+	later
+	lumpy 19
+	limbo 1
+	3
+scamp
+	later
+	chain 68
+	aback 4
+	scamp 1
+	4
+mucky
+	later
+	sonic 196
+	mucky 4
+	3
+crypt
+	later
+	trout 63
+	wrist 4
+	crypt 1
+	4
+stunk
+	later
+	hoist 107
+	stunk 9
+	3
+crawl
+	later
+	rival 15
+	drawl 4
+	crawl 2
+	4
+hefty
+	later
+	heist 55
+	hefty 1
+	3
+sport
+	later
+	trout 63
+	sport 4
+	3
+acrid
+	later
+	brand 71
+	acrid 1
+	3
+quite
+	later
+	heist 55
+	twine 4
+	quite 1
+	4
+snowy
+	later
+	sonic 196
+	shown 5
+	snowy 1
+	4
+ladle
+	later
+	lapse 3
+	lance 2
+	ladle 1
+	4
+girth
+	later
+	trout 63
+	mirth 5
+	girth 2
+	4
+taint
+	later
+	taint 30
+	2
+stilt
+	later
+	built 21
+	stilt 2
+	3
+stock
+	later
+	hoist 107
+	stoop 6
+	stony 2
+	stock 1
+	5
+flair
+	later
+	solar 4
+	flair 1
+	3
+ghoul
+	later
+	solid 117
+	block 10
+	ghoul 1
+	4
+gnome
+	later
+	noise 135
+	ozone 4
+	gnome 1
+	4
+ethos
+	later
+	heist 55
+	ethos 1
+	3
+vivid
+	later
+	sonic 196
+	vivid 2
+	3
+penne
+	later
+	noise 135
+	pence 7
+	penne 1
+	4
+beech
+	later
+	noise 135
+	check 6
+	beech 1
+	4
+agape
+	later
+	shade 62
+	awake 9
+	agape 2
+	4
+hippo
+	later
+	sonic 196
+	idiom 4
+	hippo 1
+	4
+brain
+	later
+	brand 71
+	brain 2
+	3
+humph
+	later
+	sonic 196
+	dumpy 15
+	humph 1
+	4
+chuck
+	later
+	sonic 196
+	mucky 4
+	chuck 1
+	4
+finer
+	later
+	riser 73
+	diner 12
+	finer 2
+	4
+filly
+	later
+	solid 117
+	filly 6
+	3
+ionic
+	later
+	sonic 196
+	ionic 2
+	3
+bagel
+	later
+	navel 7
+	hazel 4
+	bagel 3
+	4
+fatal
+	later
+	fatal 2
+	2
+alloy
+	later
+	slain 75
+	alloy 8
+	3
+pivot
+	later
+	hoist 107
+	ingot 3
+	pivot 1
+	4
+audit
+	later
+	stain 38
+	audit 3
+	3
+koala
+	later
+	slain 75
+	koala 3
+	3
+stoke
+	later
+	heist 55
+	stoke 4
+	3
+inlet
+	later
+	islet 7
+	inlet 1
+	3
+wooly
+	later
+	solid 117
+	nobly 4
+	coyly 2
+	wooly 1
+	5
+larva
+	later
+	larva 1
+	2
+lupus
+	later
+	lumpy 19
+	lupus 1
+	3
+flaky
+	later
+	slain 75
+	black 6
+	flaky 1
+	4
+peril
+	later
+	reply 5
+	peril 1
+	3
+asset
+	later
+	asset 1
+	2
+rearm
+	later
+	brace 47
+	ready 5
+	rearm 1
+	4
+stray
+	later
+	tract 25
+	straw 4
+	stray 2
+	4
+belie
+	later
+	slice 67
+	bilge 3
+	belie 1
+	4
+stern
+	later
+	trice 31
+	exert 5
+	stern 1
+	4
+verse
+	later
+	prose 100
+	curse 5
+	verse 1
+	4
+wagon
+	later
+	candy 62
+	mason 6
+	wagon 1
+	4
+torch
+	later
+	trout 63
+	throw 4
+	torch 1
+	4
+flour
+	later
+	flour 3
+	2
+chill
+	later
+	solid 117
+	clink 15
+	chill 2
+	4
+breed
+	later
+	pried 25
+	breed 4
+	3
+aptly
+	later
+	octal 4
+	aptly 1
+	3
+nadir
+	later
+	savor 9
+	radar 2
+	nadir 1
+	4
+quirk
+	later
+	crony 108
+	shrug 9
+	quirk 1
+	4
+boast
+	later
+	stain 38
+	boast 3
+	3
+sauce
+	later
+	mange 18
+	sauce 5
+	3
+stand
+	later
+	stain 38
+	stand 2
+	3
+booby
+	later
+	sonic 196
+	goody 16
+	boozy 3
+	booby 1
+	5
+query
+	later
+	prose 100
+	merry 15
+	every 3
+	query 2
+	5
+buyer
+	later
+	riser 73
+	power 30
+	defer 10
+	cyber 2
+	buyer 1
+	6
+debar
+	later
+	spear 7
+	debar 3
+	3
+lilac
+	later
+	lilac 5
+	2
+tardy
+	later
+	party 5
+	tardy 1
+	3
+gorge
+	later
+	prose 100
+	forge 8
+	gorge 1
+	4
+daddy
+	later
+	candy 62
+	daddy 4
+	3
+scary
+	later
+	brand 71
+	shark 11
+	scary 3
+	4
+index
+	later
+	widen 40
+	index 1
+	3
+ovary
+	later
+	brand 71
+	shark 11
+	ovary 1
+	4
+prize
+	later
+	prose 100
+	pride 6
+	prime 3
+	prize 2
+	5
+pushy
+	later
+	sonic 196
+	humus 10
+	pushy 2
+	4
+elite
+	later
+	slept 15
+	elite 2
+	3
+quick
+	later
+	sonic 196
+	quick 5
+	3
+vapor
+	later
+	savor 9
+	vapor 1
+	3
+stood
+	later
+	hoist 107
+	stoop 6
+	stood 1
+	4
+stove
+	later
+	heist 55
+	stoke 4
+	stove 2
+	4
+snail
+	later
+	slain 75
+	snail 1
+	3
+cower
+	later
+	riser 73
+	power 30
+	cower 2
+	4
+avoid
+	later
+	chain 68
+	avoid 3
+	3
+flask
+	later
+	slain 75
+	class 6
+	flash 2
+	flask 1
+	5
+swung
+	later
+	sonic 196
+	skunk 4
+	swung 1
+	4
+baler
+	later
+	baler 2
+	2
+aware
+	later
+	brace 47
+	share 4
+	aware 1
+	4
+eying
+	later
+	noise 135
+	deign 5
+	eking 2
+	eying 1
+	5
+snake
+	later
+	shade 62
+	space 3
+	snake 2
+	4
+downy
+	later
+	sonic 196
+	pound 8
+	downy 1
+	4
+jumpy
+	later
+	sonic 196
+	dumpy 15
+	jumpy 1
+	4
+pleat
+	later
+	eclat 12
+	pleat 2
+	3
+slave
+	later
+	glade 40
+	blame 7
+	plane 4
+	flake 2
+	slave 1
+	6
+three
+	later
+	egret 8
+	three 1
+	3
+heard
+	later
+	brace 47
+	ready 5
+	heard 1
+	4
+motor
+	later
+	motor 3
+	2
+purer
+	later
+	riser 73
+	order 5
+	purer 1
+	4
+liege
+	later
+	ledge 9
+	liege 1
+	3
+lingo
+	later
+	lumpy 19
+	lingo 4
+	3
+rhino
+	later
+	crony 108
+	round 2
+	rhino 1
+	4
+bride
+	later
+	prose 100
+	crude 9
+	bride 1
+	4
+choke
+	later
+	noise 135
+	choke 2
+	3
+palsy
+	later
+	sadly 26
+	palsy 1
+	3
+worth
+	later
+	trout 63
+	forty 4
+	worth 2
+	4
+gamut
+	later
+	taint 30
+	gamut 3
+	3
+gaunt
+	later
+	taint 30
+	gaunt 5
+	3
+cruel
+	later
+	revel 5
+	cruel 2
+	3
+aside
+	later
+	shade 62
+	aside 1
+	3
+felon
+	later
+	slice 67
+	belly 10
+	melon 2
+	felon 1
+	5
+pansy
+	later
+	candy 62
+	nanny 4
+	pansy 2
+	4
+ruddy
+	later
+	crony 108
+	hurry 6
+	ruddy 2
+	4
+float
+	later
+	bloat 18
+	float 2
+	3
+sleep
+	later
+	bleep 25
+	sleep 1
+	3
+dutch
+	later
+	ditto 22
+	dutch 1
+	3
+flack
+	later
+	slain 75
+	flack 6
+	3
+inbox
+	later
+	sonic 196
+	owing 4
+	inbox 1
+	4
+rhyme
+	later
+	prose 100
+	verge 13
+	rhyme 2
+	4
+flood
+	later
+	solid 117
+	blood 4
+	flood 1
+	4
+theft
+	later
+	heist 55
+	theft 1
+	3
+renal
+	later
+	regal 10
+	renal 1
+	3
+jolly
+	later
+	solid 117
+	folly 6
+	jolly 3
+	4
+lunar
+	later
+	lunar 1
+	2
+wimpy
+	later
+	sonic 196
+	whiff 9
+	wimpy 1
+	4
+ebony
+	later
+	noise 135
+	envoy 6
+	ebony 1
+	4
+louse
+	later
+	ledge 9
+	louse 2
+	3
+gusto
+	later
+	hoist 107
+	stoop 6
+	gusto 1
+	4
+bough
+	later
+	sonic 196
+	goody 16
+	bough 1
+	4
+canon
+	later
+	candy 62
+	canon 1
+	3
+bland
+	later
+	slain 75
+	clank 7
+	bland 2
+	4
+spire
+	later
+	prose 100
+	spire 1
+	3
+shady
+	later
+	chain 68
+	shady 2
+	3
+droit
+	later
+	trout 63
+	front 3
+	droit 1
+	4
+globe
+	later
+	slice 67
+	elope 8
+	globe 3
+	4
+nomad
+	later
+	chain 68
+	annoy 5
+	nomad 1
+	4
+range
+	later
+	farce 6
+	raise 2
+	range 1
+	4
+goner
+	later
+	riser 73
+	power 30
+	hover 8
+	goner 4
+	5
+woman
+	later
+	chain 68
+	woman 1
+	3
+prior
+	later
+	rigor 15
+	prior 1
+	3
+shine
+	later
+	noise 135
+	snipe 5
+	swine 2
+	shine 1
+	5
+color
+	later
+	flour 3
+	color 1
+	3
+elope
+	later
+	slice 67
+	elope 8
+	3
+sweet
+	later
+	unset 20
+	sweet 2
+	3
+field
+	later
+	slice 67
+	yield 5
+	field 2
+	4
+total
+	later
+	octal 4
+	total 1
+	3
+offer
+	later
+	riser 73
+	power 30
+	offer 2
+	4
+stave
+	later
+	skate 32
+	stave 2
+	3
+glint
+	later
+	built 21
+	glint 2
+	3
+thief
+	later
+	unset 20
+	tepee 3
+	thief 1
+	4
+yacht
+	later
+	taint 30
+	gamut 3
+	yacht 1
+	4
+super
+	later
+	riser 73
+	sewer 8
+	super 2
+	4
+motif
+	later
+	ditto 22
+	motif 2
+	3
+trice
+	later
+	trice 31
+	2
+salon
+	later
+	sadly 26
+	salvo 3
+	salon 1
+	4
+synod
+	later
+	sonic 196
+	synod 1
+	3
+ultra
+	later
+	ultra 1
+	2
+lumen
+	later
+	linen 5
+	lumen 1
+	3
+royal
+	later
+	rival 15
+	royal 2
+	3
+table
+	later
+	table 1
+	2
+faint
+	later
+	taint 30
+	paint 3
+	faint 2
+	4
+tarot
+	later
+	party 5
+	tarot 2
+	3
+havoc
+	later
+	candy 62
+	macho 5
+	havoc 1
+	4
+slump
+	later
+	solid 117
+	slunk 8
+	slump 2
+	4
+navel
+	later
+	navel 7
+	2
+train
+	later
+	tract 25
+	train 3
+	3
+ratty
+	later
+	ratty 2
+	2
+ombre
+	later
+	prose 100
+	forge 8
+	ombre 1
+	4
+cross
+	later
+	crony 108
+	crook 5
+	croup 3
+	cross 2
+	5
+mulch
+	later
+	solid 117
+	gully 7
+	mulch 1
+	4
+angel
+	later
+	alley 4
+	angel 1
+	3
+burst
+	later
+	trout 63
+	burst 3
+	3
+drama
+	later
+	brand 71
+	drama 1
+	3
+issue
+	later
+	noise 135
+	sieve 3
+	issue 1
+	4
+puffy
+	later
+	sonic 196
+	dumpy 15
+	puffy 1
+	4
+upper
+	later
+	riser 73
+	power 30
+	upper 2
+	4
+ovate
+	later
+	skate 32
+	agate 3
+	ovate 1
+	4
+dizzy
+	later
+	sonic 196
+	whiff 9
+	biddy 4
+	dizzy 1
+	5
+snuff
+	later
+	sonic 196
+	skunk 4
+	snuff 1
+	4
+break
+	later
+	brace 47
+	bread 2
+	break 1
+	4
+endow
+	later
+	noise 135
+	envoy 6
+	endow 1
+	4
+syrup
+	later
+	crony 108
+	myrrh 2
+	syrup 1
+	4
+deity
+	later
+	heist 55
+	deity 1
+	3
+blurt
+	later
+	blurt 5
+	2
+slope
+	later
+	slice 67
+	slope 1
+	3
+amity
+	later
+	stain 38
+	amity 1
+	3
+under
+	later
+	riser 73
+	power 30
+	defer 10
+	under 2
+	5
+ripen
+	later
+	pried 25
+	ripen 1
+	3
+wispy
+	later
+	sonic 196
+	gipsy 5
+	wispy 1
+	4
+graft
+	later
+	tract 25
+	graft 3
+	3
+entry
+	later
+	retry 5
+	entry 1
+	3
+salve
+	later
+	false 9
+	salve 1
+	3
+slyly
+	later
+	solid 117
+	slunk 8
+	slyly 1
+	4
+being
+	later
+	noise 135
+	deign 5
+	being 1
+	4
+rugby
+	later
+	crony 108
+	hurry 6
+	ruddy 2
+	rugby 1
+	5
+gruel
+	later
+	revel 5
+	cruel 2
+	gruel 1
+	4
+begun
+	later
+	noise 135
+	wench 5
+	begun 1
+	4
+fleck
+	later
+	slice 67
+	fleck 1
+	3
+sloth
+	later
+	spilt 21
+	stool 2
+	sloth 1
+	4
+tying
+	later
+	hoist 107
+	tying 2
+	3
+segue
+	later
+	noise 135
+	segue 1
+	3
+abhor
+	later
+	briar 12
+	abhor 1
+	3
+donor
+	later
+	rigor 15
+	humor 3
+	donor 1
+	4
+shelf
+	later
+	slice 67
+	shell 5
+	shelf 1
+	4
+slack
+	later
+	slain 75
+	slack 2
+	3
+owner
+	later
+	riser 73
+	power 30
+	owner 1
+	4
+first
+	later
+	trout 63
+	skirt 4
+	first 1
+	4
+drift
+	later
+	trout 63
+	wrist 4
+	drift 2
+	4
+spoil
+	later
+	solid 117
+	spoil 1
+	3
+drape
+	later
+	brace 47
+	grade 8
+	drape 2
+	4
+unfed
+	later
+	widen 40
+	unfed 2
+	3
+crest
+	later
+	trice 31
+	crest 2
+	3
+stuff
+	later
+	hoist 107
+	stunk 9
+	stuff 3
+	4
+knock
+	later
+	sonic 196
+	knock 1
+	3
+heath
+	later
+	skate 32
+	heath 3
+	3
+fella
+	later
+	glade 40
+	fella 4
+	3
+funky
+	later
+	sonic 196
+	funny 4
+	funky 1
+	4
+cabin
+	later
+	candy 62
+	cabin 1
+	3
+level
+	later
+	linen 5
+	level 1
+	3
+joust
+	later
+	hoist 107
+	joust 2
+	3
+glove
+	later
+	slice 67
+	elope 8
+	globe 3
+	glove 1
+	5
+reach
+	later
+	brace 47
+	reach 1
+	3
+scarf
+	later
+	brand 71
+	shark 11
+	scary 3
+	scarf 1
+	5
+curse
+	later
+	prose 100
+	curse 5
+	3
+smell
+	later
+	slice 67
+	shell 5
+	smell 3
+	4
+seize
+	later
+	noise 135
+	spike 3
+	seize 1
+	4
+leach
+	later
+	leash 7
+	leach 1
+	3
+foamy
+	later
+	chain 68
+	spasm 6
+	foamy 1
+	4
+guppy
+	later
+	sonic 196
+	dumpy 15
+	guppy 2
+	4
+mocha
+	later
+	chain 68
+	mocha 1
+	3
+awful
+	later
+	slain 75
+	focal 12
+	awful 1
+	4
+amiss
+	later
+	chain 68
+	amiss 4
+	3
+hoard
+	later
+	brand 71
+	chard 5
+	hoard 1
+	4
+quote
+	later
+	heist 55
+	etude 3
+	quote 1
+	4
+quasi
+	later
+	chain 68
+	quasi 2
+	3
+spilt
+	later
+	built 21
+	stilt 2
+	spilt 1
+	4
+glide
+	later
+	slice 67
+	glide 3
+	3
+inlay
+	later
+	slain 75
+	inlay 2
+	3
+draft
+	later
+	tract 25
+	graft 3
+	draft 1
+	4
+sword
+	later
+	crony 108
+	fjord 2
+	sword 1
+	4
+croup
+	later
+	crony 108
+	crook 5
+	cross 3
+	croup 2
+	5
+basal
+	later
+	sadly 26
+	basal 3
+	3
+jewel
+	later
+	bleep 25
+	jewel 3
+	3
+slung
+	later
+	solid 117
+	slunk 8
+	slung 1
+	4
+chose
+	later
+	noise 135
+	whose 3
+	chose 1
+	4
+prick
+	later
+	crony 108
+	prick 2
+	3
+swamp
+	later
+	chain 68
+	spasm 6
+	swamp 1
+	4
+value
+	later
+	false 9
+	value 3
+	3
+swoop
+	later
+	sonic 196
+	spook 6
+	swoop 1
+	4
+spelt
+	later
+	spelt 15
+	2
+speak
+	later
+	shade 62
+	speak 3
+	3
+fling
+	later
+	solid 117
+	clink 15
+	fling 1
+	4
+belly
+	later
+	slice 67
+	belly 10
+	3
+wreak
+	later
+	brace 47
+	dream 5
+	wreak 2
+	4
+croak
+	later
+	brand 71
+	arrow 4
+	croak 1
+	4
+anode
+	later
+	shade 62
+	anode 3
+	3
+drier
+	later
+	riser 73
+	crier 2
+	drier 1
+	4
+prowl
+	later
+	drill 21
+	prowl 2
+	3
+arise
+	later
+	brace 47
+	arise 3
+	3
+tulle
+	later
+	slept 15
+	tulle 3
+	3
+gauze
+	later
+	mange 18
+	gauze 3
+	3
+idyll
+	later
+	solid 117
+	dimly 2
+	idyll 1
+	4
+resin
+	later
+	prose 100
+	serif 4
+	resin 1
+	4
+cycle
+	later
+	slice 67
+	cycle 2
+	3
+guess
+	later
+	noise 135
+	guess 2
+	3
+risen
+	later
+	pried 25
+	risen 2
+	3
+petty
+	later
+	cutie 11
+	petty 3
+	3
+gavel
+	later
+	navel 7
+	gavel 1
+	3
+whiff
+	later
+	sonic 196
+	whiff 9
+	3
+smirk
+	later
+	crony 108
+	shrug 9
+	smirk 1
+	4
+aglow
+	later
+	slain 75
+	vocal 12
+	aglow 1
+	4
+twang
+	later
+	stain 38
+	twang 3
+	3
+noble
+	later
+	slice 67
+	boule 7
+	noble 1
+	4
+wrung
+	later
+	crony 108
+	bring 7
+	wrung 1
+	4
+thrum
+	later
+	trout 63
+	thrum 1
+	3
+scold
+	later
+	solid 117
+	scold 1
+	3
+blend
+	later
+	slice 67
+	blend 3
+	3
+moldy
+	later
+	solid 117
+	moldy 2
+	3
+saute
+	later
+	paste 8
+	saute 1
+	3
+pouch
+	later
+	sonic 196
+	cough 6
+	pouch 2
+	4
+tibia
+	later
+	stain 38
+	audit 3
+	tibia 1
+	4
+tabby
+	later
+	taint 30
+	tabby 4
+	3
+arena
+	later
+	brace 47
+	dream 5
+	arena 1
+	4
+carry
+	later
+	hardy 29
+	carry 3
+	3
+robin
+	later
+	crony 108
+	mourn 3
+	robin 1
+	4
+nurse
+	later
+	prose 100
+	curse 5
+	nurse 1
+	4
+stalk
+	later
+	bloat 18
+	stalk 2
+	3
+drink
+	later
+	crony 108
+	bring 7
+	drink 1
+	4
+blame
+	later
+	glade 40
+	blame 7
+	3
+music
+	later
+	sonic 196
+	music 1
+	3
+razor
+	later
+	savor 9
+	mayor 4
+	razor 1
+	4
+sheep
+	later
+	widen 40
+	cheek 5
+	sheep 1
+	4
+cadet
+	later
+	cadet 3
+	2
+ruder
+	later
+	riser 73
+	roger 5
+	ruder 2
+	4
+taffy
+	later
+	taint 30
+	tabby 4
+	taffy 2
+	4
+threw
+	later
+	egret 8
+	threw 1
+	3
+bring
+	later
+	crony 108
+	bring 7
+	3
+snare
+	later
+	brace 47
+	share 4
+	snare 2
+	4
+windy
+	later
+	sonic 196
+	pinky 6
+	windy 3
+	4
+sprig
+	later
+	crony 108
+	shrug 9
+	sprig 1
+	4
+diner
+	later
+	riser 73
+	diner 12
+	3
+watch
+	later
+	catty 16
+	batch 5
+	hatch 4
+	patch 3
+	watch 2
+	6
+decor
+	later
+	demur 5
+	decor 1
+	3
+sieve
+	later
+	noise 135
+	sieve 3
+	3
+femur
+	later
+	demur 5
+	femur 1
+	3
+semen
+	later
+	widen 40
+	semen 6
+	3
+dogma
+	later
+	chain 68
+	squad 5
+	dogma 2
+	4
+heart
+	later
+	trace 14
+	heart 1
+	3
+brown
+	later
+	crony 108
+	brown 5
+	3
+tango
+	later
+	taint 30
+	tango 2
+	3
+covet
+	later
+	unset 20
+	comet 4
+	covet 1
+	4
+spade
+	later
+	shade 62
+	spade 1
+	3
+decoy
+	later
+	noise 135
+	gecko 4
+	decoy 1
+	4
+demon
+	later
+	noise 135
+	envoy 6
+	demon 1
+	4
+chaos
+	later
+	chain 68
+	chasm 4
+	chaos 1
+	4
+anvil
+	later
+	slain 75
+	anvil 1
+	3
+belle
+	later
+	slice 67
+	boule 7
+	belle 1
+	4
+grand
+	later
+	brand 71
+	grand 1
+	3
+prong
+	later
+	crony 108
+	wrong 3
+	prong 1
+	4
+sweat
+	later
+	skate 32
+	steam 3
+	sweat 1
+	4
+amply
+	later
+	slain 75
+	vocal 12
+	amply 2
+	4
+solar
+	later
+	solar 4
+	2
+genie
+	later
+	noise 135
+	mince 5
+	genie 1
+	4
+booty
+	later
+	hoist 107
+	booty 3
+	3
+askew
+	later
+	ashen 5
+	askew 1
+	3
+chunk
+	later
+	sonic 196
+	chunk 1
+	3
+gully
+	later
+	solid 117
+	gully 7
+	3
+muddy
+	later
+	sonic 196
+	dumpy 15
+	muddy 1
+	4
+dwell
+	later
+	slice 67
+	belly 10
+	dwell 2
+	4
+magic
+	later
+	candy 62
+	macho 5
+	magic 1
+	4
+metal
+	later
+	metal 3
+	2
+joker
+	later
+	riser 73
+	power 30
+	hover 8
+	goner 4
+	joker 3
+	6
+abled
+	later
+	alley 4
+	abled 1
+	3
+fetus
+	later
+	cutie 11
+	fetus 2
+	3
+prose
+	later
+	prose 100
+	2
+paddy
+	later
+	candy 62
+	daddy 4
+	paddy 1
+	4
+rocky
+	later
+	crony 108
+	rocky 1
+	3
+fiery
+	later
+	prose 100
+	merry 15
+	every 3
+	query 2
+	fiery 1
+	6
+cedar
+	later
+	spear 7
+	debar 3
+	cedar 1
+	4
+pupal
+	later
+	slain 75
+	vocal 12
+	pupal 1
+	4
+wield
+	later
+	slice 67
+	yield 5
+	field 2
+	wield 1
+	5
+ovine
+	later
+	noise 135
+	ovine 2
+	3
+sever
+	later
+	riser 73
+	sewer 8
+	sever 1
+	4
+penny
+	later
+	noise 135
+	wench 5
+	penny 1
+	4
+growl
+	later
+	drill 21
+	prowl 2
+	growl 1
+	4
+pilot
+	later
+	spilt 21
+	pilot 1
+	3
+voila
+	later
+	slain 75
+	voila 4
+	3
+thyme
+	later
+	heist 55
+	theme 3
+	thyme 1
+	4
+duchy
+	later
+	sonic 196
+	mucky 4
+	duchy 1
+	4
+bigot
+	later
+	hoist 107
+	ingot 3
+	bigot 1
+	4
+dance
+	later
+	mange 18
+	canoe 2
+	dance 1
+	4
+tithe
+	later
+	cutie 11
+	tithe 1
+	3
+leapt
+	later
+	least 3
+	leapt 2
+	3
+kiosk
+	later
+	sonic 196
+	kiosk 1
+	3
+floss
+	later
+	solid 117
+	floss 2
+	3
+leave
+	later
+	leash 7
+	leaky 3
+	leave 1
+	4
+plumb
+	later
+	solid 117
+	plunk 12
+	plumb 2
+	4
+salsa
+	later
+	sadly 26
+	salvo 3
+	salsa 1
+	4
+grout
+	later
+	trout 63
+	grout 1
+	3
+haven
+	later
+	oaken 6
+	haven 2
+	3
+grill
+	later
+	drill 21
+	frill 3
+	grill 2
+	4
+found
+	later
+	sonic 196
+	pound 8
+	mound 5
+	found 4
+	5
+squat
+	later
+	stain 38
+	squat 1
+	3
+young
+	later
+	sonic 196
+	pound 8
+	young 1
+	4
+badly
+	later
+	sadly 26
+	madly 2
+	badly 1
+	4
+knave
+	later
+	shade 62
+	awake 9
+	knave 1
+	4
+shush
+	later
+	sonic 196
+	shush 1
+	3
+bound
+	later
+	sonic 196
+	pound 8
+	mound 5
+	found 4
+	bound 3
+	6
+eject
+	later
+	heist 55
+	eject 2
+	3
+tenor
+	later
+	tenor 2
+	2
+hairy
+	later
+	hardy 29
+	hairy 1
+	3
+nudge
+	later
+	noise 135
+	nudge 1
+	3
+cliff
+	later
+	solid 117
+	clink 15
+	cliff 2
+	4
+ferry
+	later
+	prose 100
+	merry 15
+	ferry 2
+	4
+death
+	later
+	skate 32
+	heath 3
+	death 1
+	4
+worry
+	later
+	crony 108
+	dowry 5
+	worry 1
+	4
+brush
+	later
+	crony 108
+	brisk 6
+	brush 1
+	4
+shade
+	later
+	shade 62
+	2
+chili
+	later
+	solid 117
+	clink 15
+	chill 2
+	chili 1
+	5
+feign
+	later
+	noise 135
+	deign 5
+	feign 1
+	4
+chess
+	later
+	noise 135
+	guess 2
+	chess 1
+	4
+lunch
+	later
+	lumpy 19
+	lunch 2
+	3
+meaty
+	later
+	skate 32
+	heath 3
+	meaty 1
+	4
+score
+	later
+	prose 100
+	shore 4
+	score 3
+	4
+acorn
+	later
+	brand 71
+	angry 3
+	acorn 1
+	4
+camel
+	later
+	navel 7
+	hazel 4
+	bagel 3
+	camel 2
+	5
+swell
+	later
+	slice 67
+	shell 5
+	smell 3
+	swell 2
+	5
+plunk
+	later
+	solid 117
+	plunk 12
+	3
+could
+	later
+	solid 117
+	would 2
+	could 1
+	4
+feast
+	later
+	skate 32
+	feast 3
+	3
+colon
+	later
+	solid 117
+	jolly 6
+	colon 1
+	4
+leant
+	later
+	least 3
+	leapt 2
+	leant 1
+	4
+clump
+	later
+	solid 117
+	plunk 12
+	clump 1
+	4
+china
+	later
+	chain 68
+	china 1
+	3
+boule
+	later
+	slice 67
+	boule 7
+	3
+quark
+	later
+	brand 71
+	shark 11
+	quark 1
+	4
+since
+	later
+	noise 135
+	since 2
+	3
+maple
+	later
+	false 9
+	maple 3
+	3
+harry
+	later
+	hardy 29
+	harry 2
+	3
+edict
+	later
+	heist 55
+	edict 2
+	3
+hussy
+	later
+	sonic 196
+	humus 10
+	hussy 2
+	4
+lobby
+	later
+	lumpy 19
+	lowly 2
+	lobby 1
+	4
+hydro
+	later
+	crony 108
+	hydro 1
+	3
+erase
+	later
+	brace 47
+	grade 8
+	erase 2
+	4
+might
+	later
+	hoist 107
+	tight 5
+	might 4
+	4
+ashen
+	later
+	ashen 5
+	2
+balmy
+	later
+	sadly 26
+	balmy 1
+	3
+broke
+	later
+	prose 100
+	drone 7
+	froze 3
+	broke 2
+	5
+perky
+	later
+	prose 100
+	perky 2
+	3
+cairn
+	later
+	hardy 29
+	cairn 3
+	3
+wharf
+	later
+	brand 71
+	shark 11
+	charm 2
+	wharf 1
+	5
+pecan
+	later
+	shade 62
+	began 8
+	pecan 1
+	4
+zesty
+	later
+	heist 55
+	zesty 3
+	3
+clock
+	later
+	solid 117
+	block 10
+	flock 2
+	clock 1
+	5
+rehab
+	later
+	brace 47
+	rehab 2
+	3
+vomit
+	later
+	hoist 107
+	vomit 1
+	3
+curvy
+	later
+	crony 108
+	curvy 2
+	3
+steak
+	later
+	skate 32
+	steak 1
+	3
+logic
+	later
+	lumpy 19
+	lingo 4
+	logic 1
+	4
+bully
+	later
+	solid 117
+	gully 7
+	bully 2
+	4
+opine
+	later
+	noise 135
+	ovine 2
+	opine 1
+	4
+nanny
+	later
+	candy 62
+	nanny 4
+	3
+bulge
+	later
+	slice 67
+	boule 7
+	bulge 1
+	4
+grief
+	later
+	pried 25
+	grief 2
+	3
+quiet
+	later
+	unset 20
+	quiet 2
+	3
+yeast
+	later
+	skate 32
+	feast 3
+	yeast 2
+	4
+fatty
+	later
+	catty 16
+	tatty 4
+	fatty 3
+	4
+fugue
+	later
+	noise 135
+	fugue 9
+	3
+twirl
+	later
+	blurt 5
+	twirl 1
+	3
+mince
+	later
+	noise 135
+	mince 5
+	3
+imbue
+	later
+	noise 135
+	pixie 5
+	imbue 1
+	4
+latch
+	later
+	latch 1
+	2
+elegy
+	later
+	slice 67
+	blend 3
+	elegy 1
+	4
+rusty
+	later
+	trout 63
+	rusty 1
+	3
+moist
+	later
+	hoist 107
+	moist 3
+	3
+nasal
+	later
+	sadly 26
+	basal 3
+	nasal 1
+	4
+farce
+	later
+	farce 6
+	2
+golly
+	later
+	solid 117
+	folly 6
+	jolly 3
+	golly 2
+	5
+sheik
+	later
+	noise 135
+	sheik 1
+	3
+droll
+	later
+	drill 21
+	droll 1
+	3
+glade
+	later
+	glade 40
+	2
+snoop
+	later
+	sonic 196
+	shown 5
+	snoop 1
+	4
+black
+	later
+	slain 75
+	flack 6
+	black 2
+	4
+creak
+	later
+	brace 47
+	creak 2
+	3
+sound
+	later
+	sonic 196
+	sound 1
+	3
+spurt
+	later
+	trout 63
+	burst 3
+	spurt 1
+	4
+ether
+	later
+	other 8
+	ether 1
+	3
+idler
+	later
+	idler 10
+	2
+feral
+	later
+	regal 10
+	feral 1
+	3
+pygmy
+	later
+	sonic 196
+	dumpy 15
+	pygmy 1
+	4
+cable
+	later
+	false 9
+	eagle 3
+	maple 2
+	cable 1
+	5
+abase
+	later
+	shade 62
+	abase 3
+	3
+dopey
+	later
+	widen 40
+	embed 4
+	dopey 1
+	4
+whirl
+	later
+	drill 21
+	whirl 2
+	3
+mimic
+	later
+	sonic 196
+	civic 4
+	mimic 1
+	4
+rider
+	later
+	riser 73
+	rider 3
+	3
+miner
+	later
+	riser 73
+	diner 12
+	finer 2
+	miner 1
+	5
+weary
+	later
+	brace 47
+	ready 5
+	weary 1
+	4
+brace
+	later
+	brace 47
+	2
+wince
+	later
+	noise 135
+	mince 5
+	wince 1
+	4
+pudgy
+	later
+	sonic 196
+	dumpy 15
+	pudgy 1
+	4
+whoop
+	later
+	sonic 196
+	jumbo 4
+	whoop 1
+	4
+weigh
+	later
+	noise 135
+	edify 2
+	weigh 1
+	4
+saint
+	later
+	taint 30
+	paint 3
+	faint 2
+	saint 1
+	5
+godly
+	later
+	solid 117
+	godly 1
+	3
+after
+	later
+	after 1
+	2
+river
+	later
+	riser 73
+	rider 3
+	river 2
+	4
+slush
+	later
+	solid 117
+	slunk 8
+	slump 2
+	slush 1
+	5
+jazzy
+	later
+	candy 62
+	gassy 10
+	mammy 3
+	jazzy 2
+	5
+plead
+	later
+	glade 40
+	plead 1
+	3
+sooty
+	later
+	hoist 107
+	sooty 1
+	3
+fixer
+	later
+	riser 73
+	diner 12
+	viper 5
+	fixer 2
+	5
+lorry
+	later
+	lurch 4
+	lorry 1
+	3
+depot
+	later
+	heist 55
+	depot 2
+	3
+wring
+	later
+	crony 108
+	bring 7
+	wring 1
+	4
+chant
+	later
+	stain 38
+	twang 3
+	chant 1
+	4
+grave
+	later
+	brace 47
+	grade 8
+	grape 3
+	grave 2
+	5
+hoist
+	later
+	hoist 107
+	2
+corer
+	later
+	riser 73
+	order 5
+	corer 1
+	4
+truck
+	later
+	trout 63
+	truck 4
+	3
+finch
+	later
+	sonic 196
+	finch 4
+	3
+datum
+	later
+	catty 16
+	patio 4
+	datum 1
+	4
+flung
+	later
+	solid 117
+	plunk 12
+	clung 2
+	flung 1
+	5
+macro
+	later
+	hardy 29
+	cairn 3
+	macro 1
+	4
+renew
+	later
+	pried 25
+	scree 4
+	renew 1
+	4
+utile
+	later
+	slept 15
+	tulle 3
+	utile 1
+	4
+video
+	later
+	widen 40
+	video 1
+	3
+grace
+	later
+	brace 47
+	grace 1
+	3
+fiber
+	later
+	riser 73
+	diner 12
+	viper 5
+	fixer 2
+	fiber 1
+	6
+frame
+	later
+	brace 47
+	grade 8
+	erase 2
+	frame 1
+	5
+noisy
+	later
+	sonic 196
+	noisy 1
+	3
+assay
+	later
+	chain 68
+	squad 5
+	assay 1
+	4
+bluer
+	later
+	idler 10
+	bluer 3
+	3
+crash
+	later
+	brand 71
+	crash 10
+	3
+helix
+	later
+	slice 67
+	yield 5
+	helix 1
+	4
+thick
+	later
+	hoist 107
+	think 4
+	thick 1
+	4
+patio
+	later
+	catty 16
+	patio 4
+	3
+posit
+	later
+	hoist 107
+	posit 1
+	3
+cream
+	later
+	brace 47
+	creak 2
+	cream 1
+	4
+piggy
+	later
+	sonic 196
+	whiff 9
+	biddy 4
+	piggy 1
+	5
+silly
+	later
+	solid 117
+	silly 2
+	3
+trade
+	later
+	trace 14
+	trade 1
+	3
+tramp
+	later
+	tract 25
+	train 3
+	tramp 2
+	4
+easel
+	later
+	gavel 7
+	hazel 4
+	camel 3
+	easel 2
+	5
+flail
+	later
+	slain 75
+	plaid 3
+	flail 2
+	4
+sedan
+	later
+	shade 62
+	sedan 1
+	3
+fever
+	later
+	riser 73
+	power 30
+	defer 10
+	fever 1
+	5
+seedy
+	later
+	noise 135
+	seedy 3
+	3
+bacon
+	later
+	candy 62
+	bacon 1
+	3
+circa
+	later
+	brand 71
+	spray 6
+	circa 1
+	4
+brood
+	later
+	crony 108
+	brood 10
+	3
+mogul
+	later
+	solid 117
+	nobly 4
+	mogul 1
+	4
+skill
+	later
+	solid 117
+	slink 7
+	skill 1
+	4
+gamer
+	later
+	wager 17
+	gamer 3
+	3
+tangy
+	later
+	taint 30
+	tango 2
+	tangy 1
+	4
+erode
+	later
+	prose 100
+	drone 7
+	erode 1
+	4
+dross
+	later
+	crony 108
+	brood 10
+	dross 1
+	4
+talon
+	later
+	tally 6
+	talon 1
+	3
+hater
+	later
+	water 4
+	eater 3
+	cater 2
+	hater 1
+	5
+whelp
+	later
+	slice 67
+	belly 10
+	whelp 1
+	4
+shied
+	later
+	widen 40
+	shied 2
+	3
+gassy
+	later
+	candy 62
+	gassy 10
+	3
+gleam
+	later
+	glade 40
+	gleam 2
+	3
+usual
+	later
+	slain 75
+	usual 1
+	3
+begat
+	later
+	skate 32
+	wheat 5
+	begat 1
+	4
+crimp
+	later
+	crony 108
+	crisp 6
+	crimp 1
+	4
+hover
+	later
+	riser 73
+	power 30
+	hover 8
+	4
+hinge
+	later
+	noise 135
+	mince 5
+	hinge 2
+	4
+amend
+	later
+	shade 62
+	decay 4
+	amend 1
+	4
+learn
+	later
+	learn 1
+	2
+snout
+	later
+	hoist 107
+	scout 4
+	snout 3
+	4
+surge
+	later
+	prose 100
+	serve 3
+	surge 1
+	4
+waist
+	later
+	taint 30
+	waist 1
+	3
+moose
+	later
+	noise 135
+	moose 6
+	3
+penal
+	later
+	glade 40
+	penal 4
+	3
+kebab
+	later
+	shade 62
+	began 8
+	kebab 1
+	4
+fecal
+	later
+	glade 40
+	fella 4
+	fecal 1
+	4
+group
+	later
+	crony 108
+	brood 10
+	group 2
+	4
+tawny
+	later
+	taint 30
+	tawny 1
+	3
+swami
+	later
+	chain 68
+	quasi 2
+	swami 1
+	4
+gouge
+	later
+	noise 135
+	gouge 5
+	3
+south
+	later
+	hoist 107
+	south 2
+	3
+hasty
+	later
+	taint 30
+	hasty 3
+	3
+molar
+	later
+	solar 4
+	molar 2
+	3
+marsh
+	later
+	hardy 29
+	march 2
+	marsh 1
+	4
+flint
+	later
+	built 21
+	glint 2
+	flint 1
+	4
+guilt
+	later
+	built 21
+	guilt 2
+	3
+enemy
+	later
+	noise 135
+	wench 5
+	enemy 1
+	4
+steel
+	later
+	islet 7
+	steel 1
+	3
+rodeo
+	later
+	pried 25
+	rodeo 1
+	3
+still
+	later
+	built 21
+	still 1
+	3
+minty
+	later
+	hoist 107
+	fifty 4
+	minty 1
+	4
+lathe
+	later
+	latte 2
+	lathe 1
+	3
+broth
+	later
+	trout 63
+	froth 2
+	broth 1
+	4
+flush
+	later
+	solid 117
+	flush 3
+	3
+drawn
+	later
+	brand 71
+	drain 2
+	drawn 1
+	4
+stein
+	later
+	heist 55
+	stein 1
+	3
+anime
+	later
+	shade 62
+	above 3
+	anime 1
+	4
+terra
+	later
+	trace 14
+	terra 1
+	3
+stead
+	later
+	skate 32
+	steam 3
+	stead 1
+	4
+devil
+	later
+	slice 67
+	yield 5
+	devil 1
+	4
+freak
+	later
+	brace 47
+	dream 5
+	wreak 2
+	freak 1
+	5
+admin
+	later
+	chain 68
+	admin 1
+	3
+fable
+	later
+	false 9
+	fable 1
+	3
+delta
+	later
+	eclat 12
+	delta 1
+	3
+atoll
+	later
+	bloat 18
+	atoll 1
+	3
+skunk
+	later
+	sonic 196
+	skunk 4
+	3
+rumba
+	later
+	brand 71
+	rumba 3
+	3
+poser
+	later
+	riser 73
+	poser 1
+	3
+beret
+	later
+	egret 8
+	beret 1
+	3
+augur
+	later
+	briar 12
+	augur 1
+	3
+mucus
+	later
+	sonic 196
+	mucus 1
+	3
+amuse
+	later
+	shade 62
+	abuse 2
+	amuse 1
+	4
+embed
+	later
+	widen 40
+	embed 4
+	3
+giant
+	later
+	stain 38
+	giant 1
+	3
+biome
+	later
+	noise 135
+	biome 2
+	3
+valid
+	later
+	sadly 26
+	valid 1
+	3
+groin
+	later
+	crony 108
+	brown 5
+	groin 1
+	4
+tonal
+	later
+	bloat 18
+	tonal 1
+	3
+splat
+	later
+	bloat 18
+	splat 1
+	3
+mural
+	later
+	rival 15
+	mural 3
+	3
+spell
+	later
+	slice 67
+	shell 5
+	smell 3
+	swell 2
+	spell 1
+	6
+fussy
+	later
+	sonic 196
+	humus 10
+	fussy 2
+	4
+extra
+	later
+	extra 1
+	2
+tapir
+	later
+	tapir 1
+	2
+reuse
+	later
+	prose 100
+	curse 5
+	reuse 1
+	4
+elect
+	later
+	slept 15
+	elect 2
+	3
+agile
+	later
+	glade 40
+	agile 2
+	3
+disco
+	later
+	sonic 196
+	disco 1
+	3
+swept
+	later
+	heist 55
+	scent 3
+	swept 1
+	4
+bulky
+	later
+	solid 117
+	gully 7
+	pulpy 2
+	bulky 1
+	5
+frock
+	later
+	crony 108
+	frock 1
+	3
+novel
+	later
+	bleep 25
+	dowel 6
+	novel 2
+	4
+candy
+	later
+	candy 62
+	2
+setup
+	later
+	cutie 11
+	fetus 2
+	setup 1
+	4
+enjoy
+	later
+	noise 135
+	envoy 6
+	enjoy 1
+	4
+sworn
+	later
+	crony 108
+	sworn 2
+	3
+guava
+	later
+	chain 68
+	spasm 6
+	guava 1
+	4
+gloat
+	later
+	bloat 18
+	float 2
+	gloat 1
+	4
+niche
+	later
+	noise 135
+	niche 2
+	3
+chair
+	later
+	briar 12
+	chair 1
+	3
+macho
+	later
+	candy 62
+	macho 5
+	3
+ditty
+	later
+	ditto 22
+	ditty 1
+	3
+ninja
+	later
+	chain 68
+	aping 3
+	ninja 1
+	4
+stank
+	later
+	stain 38
+	stand 2
+	stank 1
+	4
+month
+	later
+	hoist 107
+	mouth 7
+	month 1
+	4
+igloo
+	later
+	solid 117
+	igloo 1
+	3
+villa
+	later
+	slain 75
+	voila 4
+	villa 1
+	4
+crazy
+	later
+	brand 71
+	crash 10
+	crack 3
+	crazy 2
+	5
+greet
+	later
+	egret 8
+	greet 1
+	3
+wight
+	later
+	hoist 107
+	tight 5
+	might 4
+	wight 3
+	5
+dying
+	later
+	sonic 196
+	dying 4
+	3
+jetty
+	later
+	cutie 11
+	petty 3
+	jetty 1
+	4
+testy
+	later
+	heist 55
+	zesty 3
+	testy 1
+	4
+grasp
+	later
+	brand 71
+	crash 10
+	grasp 2
+	4
+frisk
+	later
+	crony 108
+	brisk 6
+	frisk 1
+	4
+acute
+	later
+	skate 32
+	acute 1
+	3
+lover
+	later
+	lover 7
+	2
+quell
+	later
+	slice 67
+	belly 10
+	dwell 2
+	quell 1
+	5
+snack
+	later
+	chain 68
+	knack 2
+	snack 1
+	4
+tally
+	later
+	tally 6
+	2
+dowdy
+	later
+	sonic 196
+	goody 16
+	howdy 2
+	dowdy 1
+	5
+grown
+	later
+	crony 108
+	brown 5
+	grown 3
+	4
+metro
+	later
+	retry 5
+	metro 1
+	3
+udder
+	later
+	riser 73
+	power 30
+	defer 10
+	under 2
+	udder 1
+	6
+dolly
+	later
+	solid 117
+	moldy 2
+	dolly 1
+	4
+spout
+	later
+	hoist 107
+	scout 4
+	snout 3
+	spout 2
+	5
+burly
+	later
+	drill 21
+	curly 3
+	surly 2
+	burly 1
+	5
+adept
+	later
+	skate 32
+	wheat 5
+	adept 2
+	4
+aloud
+	later
+	slain 75
+	alloy 8
+	aloud 1
+	4
+click
+	later
+	solid 117
+	clink 15
+	click 1
+	4
+clash
+	later
+	slain 75
+	class 6
+	clash 2
+	4
+ennui
+	later
+	noise 135
+	denim 4
+	ennui 1
+	4
+annex
+	later
+	ashen 5
+	annex 2
+	3
+mamma
+	later
+	candy 62
+	mamma 8
+	3
+scrap
+	later
+	brand 71
+	spray 6
+	scrap 1
+	4
+loyal
+	later
+	lilac 5
+	loyal 1
+	3
+study
+	later
+	hoist 107
+	stunk 9
+	stuff 3
+	study 2
+	5
+blare
+	later
+	regal 10
+	flare 2
+	blare 1
+	4
+hyena
+	later
+	shade 62
+	hyena 1
+	3
+rumor
+	later
+	rigor 15
+	rumor 1
+	3
+chick
+	later
+	sonic 196
+	quick 5
+	chick 1
+	4
+sorry
+	later
+	crony 108
+	dowry 5
+	sorry 1
+	4
+oaken
+	later
+	oaken 6
+	2
+women
+	later
+	widen 40
+	woken 3
+	women 2
+	4
+cocoa
+	later
+	chain 68
+	comma 2
+	cocoa 1
+	4
+ficus
+	later
+	sonic 196
+	ficus 1
+	3
+bugle
+	later
+	slice 67
+	boule 7
+	bugle 1
+	4
+hunky
+	later
+	sonic 196
+	funny 4
+	hunky 1
+	4
+apart
+	later
+	tract 25
+	roast 4
+	apart 2
+	4
+fibre
+	later
+	prose 100
+	verge 13
+	rhyme 2
+	fibre 1
+	5
+proud
+	later
+	crony 108
+	brood 10
+	proud 1
+	4
+creep
+	later
+	pried 25
+	creep 1
+	3
+inept
+	later
+	heist 55
+	inept 1
+	3
+naive
+	later
+	mange 18
+	naive 1
+	3
+sewer
+	later
+	riser 73
+	sewer 8
+	3
+lefty
+	later
+	lefty 1
+	2
+urban
+	later
+	brand 71
+	urban 1
+	3
+night
+	later
+	hoist 107
+	tight 5
+	might 4
+	wight 3
+	night 2
+	6
+stoic
+	later
+	hoist 107
+	stoic 1
+	3
+afoot
+	later
+	stain 38
+	adopt 7
+	afoot 2
+	4
+iliac
+	later
+	slain 75
+	iliac 2
+	3
+impel
+	later
+	bleep 25
+	impel 3
+	3
+robot
+	later
+	trout 63
+	robot 2
+	3
+spike
+	later
+	noise 135
+	spike 3
+	3
+rover
+	later
+	riser 73
+	roger 5
+	rover 2
+	4
+tamer
+	later
+	tamer 3
+	2
+axiom
+	later
+	chain 68
+	amiss 4
+	axiom 1
+	4
+munch
+	later
+	sonic 196
+	hunch 4
+	bunch 3
+	munch 2
+	5
+baron
+	later
+	hardy 29
+	parka 4
+	baron 2
+	4
+patsy
+	later
+	catty 16
+	patsy 1
+	3
+thump
+	later
+	hoist 107
+	thump 2
+	3
+motto
+	later
+	ditto 22
+	motto 1
+	3
+rebar
+	later
+	spear 7
+	debar 3
+	rebar 1
+	4
+shyly
+	later
+	solid 117
+	slunk 8
+	shyly 1
+	4
+valet
+	later
+	valet 1
+	2
+bunny
+	later
+	sonic 196
+	funny 4
+	bunny 1
+	4
+shale
+	later
+	glade 40
+	shale 3
+	3
+delve
+	later
+	slice 67
+	boule 7
+	delve 1
+	4
+twixt
+	later
+	hoist 107
+	twixt 1
+	3
+steal
+	later
+	eclat 12
+	steal 1
+	3
+plier
+	later
+	idler 10
+	flier 2
+	plier 1
+	4
+stone
+	later
+	heist 55
+	stoke 4
+	stove 2
+	stone 1
+	5
+sumac
+	later
+	chain 68
+	scuba 2
+	sumac 1
+	4
+gross
+	later
+	crony 108
+	brood 10
+	group 2
+	gross 1
+	5
+barge
+	later
+	farce 6
+	barge 2
+	3
+wrack
+	later
+	brand 71
+	crash 10
+	wrack 1
+	4
+nerve
+	later
+	prose 100
+	verge 13
+	nerve 1
+	4
+hutch
+	later
+	ditto 22
+	hutch 2
+	3
+shank
+	later
+	chain 68
+	shank 1
+	3
+merry
+	later
+	prose 100
+	merry 15
+	3
+broil
+	later
+	drill 21
+	broil 1
+	3
+glean
+	later
+	glade 40
+	gleam 2
+	glean 1
+	4
+chord
+	later
+	crony 108
+	chord 1
+	3
+harem
+	later
+	ramen 3
+	harem 1
+	3
+crush
+	later
+	crony 108
+	crisp 6
+	crush 1
+	4
+wafer
+	later
+	wager 17
+	wafer 2
+	3
+equip
+	later
+	noise 135
+	medic 2
+	equip 1
+	4
+stale
+	later
+	eclat 12
+	stale 3
+	3
+stork
+	later
+	trout 63
+	story 3
+	stork 2
+	4
+relay
+	later
+	regal 10
+	relay 2
+	3
+faith
+	later
+	taint 30
+	faith 1
+	3
+rabbi
+	later
+	hardy 29
+	cairn 3
+	rabbi 1
+	4
+civil
+	later
+	solid 117
+	vigil 3
+	civil 1
+	4
+phase
+	later
+	shade 62
+	chase 2
+	phase 1
+	4
+milky
+	later
+	solid 117
+	filmy 6
+	milky 1
+	4
+siren
+	later
+	pried 25
+	risen 2
+	siren 1
+	4
+fight
+	later
+	hoist 107
+	tight 5
+	might 4
+	wight 3
+	night 2
+	fight 1
+	7
+fanny
+	later
+	candy 62
+	nanny 4
+	fanny 1
+	4
+clank
+	later
+	slain 75
+	clank 7
+	3
+mealy
+	later
+	glade 40
+	mealy 2
+	3
+fungi
+	later
+	sonic 196
+	pinky 6
+	fungi 1
+	4
+sober
+	later
+	riser 73
+	sewer 8
+	super 2
+	sober 1
+	5
+tough
+	later
+	hoist 107
+	mouth 7
+	touch 2
+	tough 1
+	5
+binge
+	later
+	noise 135
+	mince 5
+	hinge 2
+	binge 1
+	5
+exalt
+	later
+	pleat 12
+	exalt 2
+	3
+weedy
+	later
+	noise 135
+	check 6
+	weedy 2
+	4
+argue
+	later
+	brace 47
+	arise 3
+	argue 1
+	4
+bosom
+	later
+	sonic 196
+	mossy 3
+	bosom 1
+	4
+exact
+	later
+	skate 32
+	meant 4
+	exact 1
+	4
+alive
+	later
+	glade 40
+	alive 3
+	3
+burnt
+	later
+	trout 63
+	burst 3
+	burnt 1
+	4
+torus
+	later
+	trout 63
+	torus 1
+	3
+grain
+	later
+	brand 71
+	prawn 2
+	grain 1
+	4
+whack
+	later
+	chain 68
+	shack 2
+	whack 1
+	4
+media
+	later
+	shade 62
+	decay 4
+	media 1
+	4
+plant
+	later
+	bloat 18
+	slant 3
+	plant 1
+	4
+filet
+	later
+	islet 7
+	filet 1
+	3
+covey
+	later
+	widen 40
+	cheek 5
+	covey 1
+	4
+fairy
+	later
+	hardy 29
+	raspy 3
+	fairy 1
+	4
+mercy
+	later
+	prose 100
+	merry 15
+	mercy 1
+	4
+whale
+	later
+	glade 40
+	shale 3
+	whale 1
+	4
+bison
+	later
+	sonic 196
+	bison 1
+	3
+abide
+	later
+	shade 62
+	anode 3
+	abide 1
+	4
+weave
+	later
+	shade 62
+	awake 9
+	weave 1
+	4
+flute
+	later
+	slept 15
+	elite 2
+	flute 1
+	4
+savoy
+	later
+	candy 62
+	gassy 10
+	savvy 3
+	savoy 1
+	5
+petal
+	later
+	metal 3
+	petal 2
+	3
+visit
+	later
+	hoist 107
+	visit 1
+	3
+libel
+	later
+	linen 5
+	libel 1
+	3
+comfy
+	later
+	sonic 196
+	cough 6
+	comfy 1
+	4
+ardor
+	later
+	briar 12
+	armor 2
+	ardor 1
+	4
+throw
+	later
+	trout 63
+	throw 4
+	3
+sower
+	later
+	riser 73
+	sewer 8
+	sower 1
+	4
+khaki
+	later
+	chain 68
+	khaki 1
+	3
+briar
+	later
+	briar 12
+	2
+lousy
+	later
+	lumpy 19
+	lousy 1
+	3
+await
+	later
+	stain 38
+	await 1
+	3
+abbey
+	later
+	ashen 5
+	abbey 1
+	3
+crown
+	later
+	crony 108
+	crown 1
+	3
+gloss
+	later
+	solid 117
+	floss 2
+	gloss 1
+	4
+islet
+	later
+	islet 7
+	2
+place
+	later
+	glade 40
+	blame 7
+	plane 4
+	place 1
+	5
+treat
+	later
+	trace 14
+	treat 2
+	3
+beefy
+	later
+	noise 135
+	check 6
+	weedy 2
+	beefy 1
+	5
+shorn
+	later
+	crony 108
+	sworn 2
+	shorn 1
+	4
+shake
+	later
+	shade 62
+	shame 4
+	shave 3
+	shake 2
+	5
+human
+	later
+	chain 68
+	human 1
+	3
+freer
+	later
+	riser 73
+	order 5
+	freer 1
+	4
+mummy
+	later
+	sonic 196
+	dumpy 15
+	mummy 2
+	4
+adapt
+	later
+	stain 38
+	adapt 1
+	3
+amble
+	later
+	glade 40
+	ample 5
+	amble 1
+	4
+clasp
+	later
+	slain 75
+	class 6
+	clash 2
+	clasp 1
+	5
+dingy
+	later
+	sonic 196
+	pinky 6
+	windy 3
+	dingy 1
+	5
+route
+	later
+	trice 31
+	route 3
+	3
+award
+	later
+	brand 71
+	chard 5
+	award 2
+	4
+pinch
+	later
+	sonic 196
+	finch 4
+	pinch 3
+	4
+tumor
+	later
+	tumor 1
+	2
+earth
+	later
+	earth 1
+	2
+elide
+	later
+	slice 67
+	glide 3
+	elide 1
+	4
+toxic
+	later
+	hoist 107
+	toxin 4
+	toxic 1
+	4
+boost
+	later
+	hoist 107
+	joust 2
+	boost 1
+	4
+mambo
+	later
+	candy 62
+	mamma 8
+	mambo 1
+	4
+booth
+	later
+	hoist 107
+	mouth 7
+	booth 2
+	4
+decry
+	later
+	prose 100
+	merry 15
+	decry 1
+	4
+artsy
+	later
+	artsy 1
+	2
+sloop
+	later
+	solid 117
+	sloop 4
+	3
+macaw
+	later
+	candy 62
+	macho 5
+	macaw 1
+	4
+smile
+	later
+	slice 67
+	smile 1
+	3
+cargo
+	later
+	hardy 29
+	parka 4
+	baron 2
+	cargo 1
+	5
+satin
+	later
+	catty 16
+	patio 4
+	satin 1
+	4
+evoke
+	later
+	noise 135
+	choke 2
+	evoke 1
+	4
+bloom
+	later
+	solid 117
+	block 10
+	blown 2
+	bloom 1
+	5
+juror
+	later
+	rigor 15
+	juror 2
+	3
+parse
+	later
+	farce 6
+	barge 2
+	parse 1
+	4
+blood
+	later
+	solid 117
+	blood 4
+	3
+forte
+	later
+	trice 31
+	route 3
+	forte 1
+	4
+heavy
+	later
+	shade 62
+	beach 3
+	heavy 1
+	4
+polka
+	later
+	slain 75
+	vocal 12
+	polka 1
+	4
+poppy
+	later
+	sonic 196
+	goody 16
+	hobby 3
+	poppy 1
+	5
+scorn
+	later
+	crony 108
+	scorn 1
+	3
+shirk
+	later
+	crony 108
+	shrug 9
+	shirk 1
+	4
+ridge
+	later
+	prose 100
+	verge 13
+	ridge 1
+	4
+crook
+	later
+	crony 108
+	crook 5
+	3
+cress
+	later
+	prose 100
+	dress 3
+	cress 1
+	4
+hurry
+	later
+	crony 108
+	hurry 6
+	3
+mason
+	later
+	candy 62
+	mason 6
+	3
+foyer
+	later
+	riser 73
+	power 30
+	hover 8
+	goner 4
+	joker 3
+	foyer 2
+	7
+lurid
+	later
+	lurch 4
+	lurid 1
+	3
+rivet
+	later
+	egret 8
+	rivet 1
+	3
+virus
+	later
+	crony 108
+	shrug 9
+	virus 1
+	4
+adult
+	later
+	bloat 18
+	adult 2
+	3
+again
+	later
+	chain 68
+	again 1
+	3
+essay
+	later
+	shade 62
+	essay 1
+	3
+gaudy
+	later
+	candy 62
+	daddy 4
+	gaudy 2
+	4
+scale
+	later
+	glade 40
+	shale 3
+	scale 1
+	4
+taunt
+	later
+	taint 30
+	taunt 1
+	3
+vocal
+	later
+	slain 75
+	vocal 12
+	3
+write
+	later
+	trice 31
+	write 1
+	3
+pearl
+	later
+	regal 10
+	pearl 1
+	3
+ledge
+	later
+	ledge 9
+	2
+pence
+	later
+	noise 135
+	pence 7
+	3
+cluck
+	later
+	solid 117
+	plunk 12
+	cluck 1
+	4
+retro
+	later
+	retry 5
+	retro 1
+	3
+trash
+	later
+	tract 25
+	train 3
+	tramp 2
+	trash 1
+	5
+knife
+	later
+	noise 135
+	knife 2
+	3
+error
+	later
+	demur 5
+	error 1
+	3
+jiffy
+	later
+	sonic 196
+	whiff 9
+	jiffy 1
+	4
+about
+	later
+	stain 38
+	adopt 7
+	afoot 2
+	about 1
+	5
+swill
+	later
+	solid 117
+	slink 7
+	spill 2
+	swill 1
+	5
+chore
+	later
+	prose 100
+	chore 1
+	3
+payer
+	later
+	wager 17
+	parer 10
+	paper 2
+	payer 1
+	5
+aloof
+	later
+	slain 75
+	alloy 8
+	aloof 1
+	4
+duvet
+	later
+	unset 20
+	quiet 2
+	duvet 1
+	4
+banjo
+	later
+	candy 62
+	manga 4
+	banjo 1
+	4
+forgo
+	later
+	crony 108
+	morph 5
+	forgo 1
+	4
+dusky
+	later
+	sonic 196
+	humus 10
+	fussy 2
+	dusky 1
+	5
+owing
+	later
+	sonic 196
+	owing 4
+	3
+bribe
+	later
+	prose 100
+	crude 9
+	brine 3
+	bribe 1
+	5
+triad
+	later
+	tract 25
+	triad 1
+	3
+third
+	later
+	trout 63
+	third 1
+	3
+pedal
+	later
+	glade 40
+	medal 5
+	pedal 1
+	4
+lithe
+	later
+	lithe 1
+	2
+sheer
+	later
+	riser 73
+	sewer 8
+	sheer 2
+	4
+manic
+	later
+	candy 62
+	manic 2
+	3
+reset
+	later
+	egret 8
+	reset 1
+	3
+trust
+	later
+	trout 63
+	trust 1
+	3
+tower
+	later
+	other 8
+	tower 1
+	3
+wrote
+	later
+	trice 31
+	wrote 2
+	3
+hence
+	later
+	noise 135
+	pence 7
+	fence 2
+	hence 1
+	5
+match
+	later
+	catty 16
+	batch 5
+	hatch 4
+	patch 3
+	watch 2
+	match 1
+	7
+speed
+	later
+	widen 40
+	embed 4
+	speed 1
+	4
+state
+	later
+	skate 32
+	state 1
+	3
+bevel
+	later
+	bleep 25
+	bevel 2
+	3
+crone
+	later
+	prose 100
+	drone 7
+	crone 1
+	4
+crick
+	later
+	crony 108
+	crisp 6
+	crick 1
+	4
+loath
+	later
+	loath 1
+	2
+plaza
+	later
+	slain 75
+	flack 6
+	plaza 1
+	4
+nutty
+	later
+	ditto 22
+	putty 2
+	nutty 1
+	4
+sheet
+	later
+	unset 20
+	sweet 2
+	sheet 1
+	4
+child
+	later
+	solid 117
+	build 4
+	child 1
+	4
+dicey
+	later
+	widen 40
+	dicey 1
+	3
+poker
+	later
+	riser 73
+	power 30
+	poker 1
+	4
+snipe
+	later
+	noise 135
+	snipe 5
+	3
+spoke
+	later
+	noise 135
+	spoke 4
+	3
+coven
+	later
+	widen 40
+	semen 6
+	coven 1
+	4
+icily
+	later
+	solid 117
+	clink 15
+	icily 1
+	4
+focal
+	later
+	slain 75
+	vocal 12
+	focal 1
+	4
+stall
+	later
+	bloat 18
+	stalk 2
+	stall 1
+	4
+jaunt
+	later
+	taint 30
+	gaunt 5
+	jaunt 4
+	4
+conic
+	later
+	sonic 196
+	ionic 2
+	conic 1
+	4
+forum
+	later
+	crony 108
+	morph 5
+	forum 1
+	4
+trite
+	later
+	trice 31
+	tripe 3
+	trite 2
+	4
+spunk
+	later
+	sonic 196
+	skunk 4
+	spunk 1
+	4
+gayer
+	later
+	wager 17
+	gamer 3
+	gayer 2
+	4
+phony
+	later
+	sonic 196
+	known 2
+	phony 1
+	4
+buxom
+	later
+	sonic 196
+	jumbo 4
+	buxom 1
+	4
+niece
+	later
+	noise 135
+	niche 2
+	niece 1
+	4
+below
+	later
+	slice 67
+	belly 10
+	below 1
+	4
+abort
+	later
+	tract 25
+	abort 1
+	3
+relic
+	later
+	reply 5
+	relic 1
+	3
+queen
+	later
+	widen 40
+	semen 6
+	queen 1
+	4
+slate
+	later
+	eclat 12
+	stale 3
+	slate 1
+	4
+smart
+	later
+	tract 25
+	roast 4
+	smart 1
+	4
+print
+	later
+	trout 63
+	wrist 4
+	drift 2
+	print 1
+	5
+claim
+	later
+	slain 75
+	plaid 3
+	flail 2
+	claim 1
+	5
+gooey
+	later
+	widen 40
+	cheek 5
+	gooey 1
+	4
+stunt
+	later
+	hoist 107
+	stunt 1
+	3
+alien
+	later
+	alley 4
+	alien 1
+	3
+court
+	later
+	trout 63
+	court 1
+	3
+deuce
+	later
+	noise 135
+	fugue 9
+	deuce 1
+	4
+mangy
+	later
+	candy 62
+	nanny 4
+	pansy 2
+	mangy 1
+	5
+pouty
+	later
+	hoist 107
+	booty 3
+	pouty 1
+	4
+slurp
+	later
+	drill 21
+	blurb 3
+	slurp 1
+	4
+clean
+	later
+	glade 40
+	bleak 2
+	clean 1
+	4
+homer
+	later
+	riser 73
+	power 30
+	hover 8
+	homer 1
+	5
+radio
+	later
+	hardy 29
+	radio 4
+	3
+pesky
+	later
+	noise 135
+	seedy 3
+	pesky 1
+	4
+title
+	later
+	title 2
+	2
+trail
+	later
+	trail 3
+	2
+budge
+	later
+	noise 135
+	fugue 9
+	budge 2
+	4
+diver
+	later
+	riser 73
+	diner 12
+	diver 1
+	4
+racer
+	later
+	wager 17
+	parer 10
+	racer 1
+	4
+crane
+	later
+	brace 47
+	crane 3
+	3
+shrew
+	later
+	pried 25
+	scree 4
+	shrew 1
+	4
+saner
+	later
+	wager 17
+	parer 10
+	baker 4
+	safer 2
+	saner 1
+	6
+brave
+	later
+	brace 47
+	brake 2
+	brave 1
+	4
+vowel
+	later
+	bleep 25
+	dowel 6
+	vowel 1
+	4
+token
+	later
+	unset 20
+	token 1
+	3
+great
+	later
+	trace 14
+	great 1
+	3
+solve
+	later
+	slice 67
+	solve 1
+	3
+tulip
+	later
+	built 21
+	tulip 1
+	3
+small
+	later
+	slain 75
+	scald 6
+	small 2
+	4
+tweak
+	later
+	skate 32
+	tweak 1
+	3
+skirt
+	later
+	trout 63
+	skirt 4
+	3
+clear
+	later
+	clear 1
+	2
+sneer
+	later
+	riser 73
+	sewer 8
+	sheer 2
+	sneer 1
+	5
+rigid
+	later
+	crony 108
+	shrug 9
+	rigid 1
+	4
+gauge
+	later
+	mange 18
+	gauge 2
+	3
+bloat
+	later
+	bloat 18
+	2
+bayou
+	later
+	candy 62
+	kayak 2
+	bayou 1
+	4
+slash
+	later
+	slain 75
+	slack 2
+	slash 1
+	4
+snide
+	later
+	noise 135
+	snipe 5
+	snide 1
+	4
+sissy
+	later
+	sonic 196
+	spiky 6
+	sissy 1
+	4
+cheer
+	later
+	riser 73
+	power 30
+	defer 10
+	cheer 3
+	5
+login
+	later
+	lumpy 19
+	lingo 4
+	login 1
+	4
+creed
+	later
+	pried 25
+	breed 4
+	creed 3
+	4
+usurp
+	later
+	crony 108
+	shrug 9
+	usurp 1
+	4
+caulk
+	later
+	sadly 26
+	caulk 1
+	3
+awoke
+	later
+	shade 62
+	above 3
+	awoke 1
+	4
+cheat
+	later
+	skate 32
+	wheat 5
+	cheat 1
+	4
+hymen
+	later
+	widen 40
+	semen 6
+	hymen 1
+	4
+cause
+	later
+	mange 18
+	cause 5
+	3
+plain
+	later
+	slain 75
+	plain 1
+	3
+catch
+	later
+	catty 16
+	catch 1
+	3
+swore
+	later
+	prose 100
+	shore 4
+	score 3
+	swore 2
+	5
+throb
+	later
+	trout 63
+	throw 4
+	throb 1
+	4
+screw
+	later
+	pried 25
+	scree 4
+	screw 1
+	4
+clack
+	later
+	slain 75
+	flack 6
+	black 2
+	clack 1
+	5
+spoon
+	later
+	sonic 196
+	shown 5
+	spoon 1
+	4
+apron
+	later
+	brand 71
+	angry 3
+	apron 1
+	4
+bused
+	later
+	widen 40
+	embed 4
+	bused 1
+	4
+chute
+	later
+	heist 55
+	theme 3
+	chute 1
+	4
+brawn
+	later
+	brand 71
+	brain 2
+	brawn 1
+	4
+piano
+	later
+	chain 68
+	piano 1
+	3
+vegan
+	later
+	shade 62
+	began 8
+	vegan 1
+	4
+shock
+	later
+	sonic 196
+	scoop 4
+	shock 2
+	4
+swoon
+	later
+	sonic 196
+	shown 5
+	swoon 1
+	4
+repay
+	later
+	brace 47
+	repay 2
+	3
+fauna
+	later
+	candy 62
+	mason 6
+	fauna 1
+	4
+exist
+	later
+	heist 55
+	exist 1
+	3
+bicep
+	later
+	widen 40
+	bicep 1
+	3
+curve
+	later
+	prose 100
+	verge 13
+	curve 1
+	4
+slick
+	later
+	solid 117
+	slink 7
+	slick 1
+	4
+ranch
+	later
+	hardy 29
+	ranch 2
+	3
+swash
+	later
+	chain 68
+	swash 4
+	3
+umbra
+	later
+	brand 71
+	rumba 3
+	umbra 1
+	4
+youth
+	later
+	hoist 107
+	mouth 7
+	youth 1
+	4
+crank
+	later
+	brand 71
+	crank 3
+	3
+laugh
+	later
+	laugh 3
+	2
+quill
+	later
+	solid 117
+	clink 15
+	quill 1
+	4
+rival
+	later
+	rival 15
+	2
+unmet
+	later
+	unset 20
+	unmet 1
+	3
+biddy
+	later
+	sonic 196
+	whiff 9
+	biddy 4
+	4
+teddy
+	later
+	heist 55
+	teddy 2
+	3
+freed
+	later
+	pried 25
+	breed 4
+	creed 3
+	freed 2
+	5
+array
+	later
+	brand 71
+	arrow 4
+	array 1
+	4
+green
+	later
+	pried 25
+	creek 2
+	green 1
+	4
+bloke
+	later
+	slice 67
+	elope 8
+	globe 3
+	bloke 1
+	5
+clout
+	later
+	built 21
+	clout 2
+	3
+plush
+	later
+	solid 117
+	flush 3
+	plush 2
+	4
+canny
+	later
+	candy 62
+	canny 1
+	3
+rouse
+	later
+	prose 100
+	horse 3
+	rouse 1
+	4
+early
+	later
+	early 1
+	2
+drill
+	later
+	drill 21
+	2
+whiny
+	later
+	sonic 196
+	dying 4
+	whiny 1
+	4
+inert
+	later
+	trice 31
+	merit 4
+	inert 1
+	4
+titan
+	later
+	antic 3
+	titan 1
+	3
+cramp
+	later
+	brand 71
+	crash 10
+	crack 3
+	crazy 2
+	cramp 1
+	6
+flame
+	later
+	glade 40
+	blame 7
+	flame 1
+	4
+blimp
+	later
+	solid 117
+	clink 15
+	blimp 1
+	4
+bongo
+	later
+	sonic 196
+	bongo 1
+	3
+crave
+	later
+	brace 47
+	crane 3
+	crave 2
+	4
+tutor
+	later
+	motor 3
+	tutor 1
+	3
+along
+	later
+	slain 75
+	along 1
+	3
+strip
+	later
+	trout 63
+	mirth 5
+	strip 1
+	4
+soggy
+	later
+	sonic 196
+	soggy 1
+	3
+heron
+	later
+	prose 100
+	heron 1
+	3
+mount
+	later
+	hoist 107
+	count 4
+	mount 1
+	4
+those
+	later
+	heist 55
+	those 2
+	3
+husky
+	later
+	sonic 196
+	humus 10
+	hussy 2
+	husky 1
+	5
+skier
+	later
+	riser 73
+	skier 1
+	3
+abate
+	later
+	skate 32
+	agate 3
+	abate 1
+	4
+labor
+	later
+	labor 1
+	2
+yearn
+	later
+	brace 47
+	ready 5
+	yearn 1
+	4
+stick
+	later
+	hoist 107
+	stink 4
+	stick 1
+	4
+eager
+	later
+	wager 17
+	eager 1
+	3
+holly
+	later
+	solid 117
+	folly 6
+	jolly 3
+	golly 2
+	holly 1
+	6
+guise
+	later
+	noise 135
+	guise 1
+	3
+guest
+	later
+	heist 55
+	guest 2
+	3
+chest
+	later
+	heist 55
+	chest 1
+	3
+pesto
+	later
+	heist 55
+	zesty 3
+	pesto 1
+	4
+woody
+	later
+	sonic 196
+	goody 16
+	woody 2
+	4
+shalt
+	later
+	bloat 18
+	adult 2
+	shalt 1
+	4
+prank
+	later
+	brand 71
+	crank 3
+	prank 2
+	4
+spank
+	later
+	chain 68
+	snaky 2
+	spank 1
+	4
+musky
+	later
+	sonic 196
+	humus 10
+	musky 1
+	4
+rinse
+	later
+	prose 100
+	curse 5
+	rinse 1
+	4
+allay
+	later
+	slain 75
+	alloy 8
+	allay 1
+	4
+refer
+	later
+	riser 73
+	roger 5
+	ruder 2
+	refer 1
+	5
+unify
+	later
+	sonic 196
+	dying 4
+	unify 1
+	4
+elder
+	later
+	idler 10
+	elder 2
+	3
+plait
+	later
+	bloat 18
+	slant 3
+	plait 1
+	4
+stump
+	later
+	hoist 107
+	stunk 9
+	stuff 3
+	study 2
+	stump 1
+	6
+proxy
+	later
+	crony 108
+	proxy 1
+	3
+crime
+	later
+	prose 100
+	crude 9
+	creme 2
+	crime 1
+	5
+legal
+	later
+	leash 7
+	legal 1
+	3
+stout
+	later
+	hoist 107
+	scout 4
+	snout 3
+	spout 2
+	stout 1
+	6
+turbo
+	later
+	trout 63
+	turbo 1
+	3
+cabal
+	later
+	sadly 26
+	canal 6
+	cabal 1
+	4
+north
+	later
+	trout 63
+	forty 4
+	worth 2
+	north 1
+	5
+gulch
+	later
+	solid 117
+	gully 7
+	gulch 1
+	4
+tract
+	later
+	tract 25
+	2
+witty
+	later
+	ditto 22
+	kitty 3
+	bitty 2
+	witty 1
+	5
+maize
+	later
+	mange 18
+	maize 4
+	3
+trick
+	later
+	trout 63
+	trick 1
+	3
+weird
+	later
+	prose 100
+	merry 15
+	weird 1
+	4
+tacky
+	later
+	taint 30
+	tabby 4
+	taffy 2
+	tacky 1
+	5
+smelt
+	later
+	slept 15
+	smelt 1
+	3
+agora
+	later
+	brand 71
+	spray 6
+	agora 1
+	4
+botch
+	later
+	ditto 22
+	botch 2
+	3
+truer
+	later
+	other 8
+	truer 4
+	3
+brick
+	later
+	crony 108
+	prick 2
+	brick 1
+	4
+pasty
+	later
+	taint 30
+	hasty 3
+	pasty 1
+	4
+occur
+	later
+	rigor 15
+	scour 2
+	occur 1
+	4
+suave
+	later
+	shade 62
+	space 3
+	snake 2
+	suave 1
+	5
+verso
+	later
+	prose 100
+	verso 1
+	3
+cleft
+	later
+	slept 15
+	elect 2
+	cleft 1
+	4
+basin
+	later
+	candy 62
+	mason 6
+	basin 1
+	4
+queer
+	later
+	riser 73
+	power 30
+	defer 10
+	cheer 3
+	queer 1
+	6
+caper
+	later
+	wager 17
+	parer 10
+	caper 1
+	4
+coral
+	later
+	rival 15
+	mural 3
+	coral 1
+	4
+fraud
+	later
+	brand 71
+	fraud 1
+	3
+prism
+	later
+	crony 108
+	brisk 6
+	prism 1
+	4
+psalm
+	later
+	slain 75
+	psalm 1
+	3
+rebus
+	later
+	prose 100
+	serif 4
+	rebus 1
+	4
+sigma
+	later
+	chain 68
+	amiss 4
+	sigma 1
+	4
+elude
+	later
+	slice 67
+	elope 8
+	elude 1
+	4
+groan
+	later
+	brand 71
+	organ 3
+	groan 1
+	4
+scalp
+	later
+	slain 75
+	scald 6
+	scalp 2
+	4
+cacao
+	later
+	candy 62
+	cacao 1
+	3
+grate
+	later
+	trace 14
+	irate 2
+	grate 1
+	4
+rarer
+	later
+	wager 17
+	parer 10
+	rarer 1
+	4
+intro
+	later
+	intro 1
+	2
+among
+	later
+	chain 68
+	annoy 5
+	among 1
+	4
+uncle
+	later
+	slice 67
+	cycle 2
+	uncle 1
+	4
+steep
+	later
+	unset 20
+	steed 2
+	steep 1
+	4
+refit
+	later
+	trice 31
+	merit 4
+	refit 1
+	4
+riper
+	later
+	riser 73
+	rider 3
+	river 2
+	riper 1
+	5
+enter
+	later
+	enter 9
+	2
+topic
+	later
+	hoist 107
+	toxin 4
+	topic 1
+	4
+adorn
+	later
+	brand 71
+	adorn 1
+	3
+arson
+	later
+	brand 71
+	organ 3
+	arson 1
+	4
+storm
+	later
+	trout 63
+	story 3
+	stork 2
+	storm 1
+	5
+amaze
+	later
+	shade 62
+	awake 9
+	agape 2
+	amaze 1
+	5
+chirp
+	later
+	crony 108
+	chirp 1
+	3
+grime
+	later
+	prose 100
+	crude 9
+	brine 3
+	grime 1
+	5
+sharp
+	later
+	brand 71
+	shark 11
+	sharp 1
+	4
+towel
+	later
+	islet 7
+	towel 1
+	3
+patty
+	later
+	catty 16
+	tatty 4
+	fatty 3
+	patty 2
+	5
+badge
+	later
+	mange 18
+	gauge 2
+	badge 1
+	4
+mushy
+	later
+	sonic 196
+	humus 10
+	mushy 1
+	4
+regal
+	later
+	regal 10
+	2
+scram
+	later
+	brand 71
+	spray 6
+	scram 1
+	4
+smock
+	later
+	sonic 196
+	scoop 4
+	shock 2
+	smock 1
+	5
+clang
+	later
+	slain 75
+	clank 7
+	clang 1
+	4
+tease
+	later
+	skate 32
+	tease 1
+	3
+afire
+	later
+	brace 47
+	afire 3
+	3
+untie
+	later
+	cutie 11
+	untie 1
+	3
+glyph
+	later
+	solid 117
+	plunk 12
+	glyph 1
+	4
+angle
+	later
+	glade 40
+	agile 2
+	angle 1
+	4
+envoy
+	later
+	noise 135
+	envoy 6
+	3
+gloom
+	later
+	solid 117
+	block 10
+	gloom 2
+	4
+undue
+	later
+	noise 135
+	pence 7
+	undue 1
+	4
+where
+	later
+	prose 100
+	verge 13
+	where 1
+	4
+buggy
+	later
+	sonic 196
+	dumpy 15
+	fuzzy 2
+	buggy 1
+	5
+arose
+	later
+	brace 47
+	arise 3
+	arose 1
+	4
+peach
+	later
+	shade 62
+	beach 3
+	peach 1
+	4
+later
+	later
+	-1
+phone
+	later
+	noise 135
+	ozone 4
+	phone 1
+	4
+crowd
+	later
+	crony 108
+	crook 5
+	cross 3
+	croup 2
+	crowd 1
+	6
+wound
+	later
+	sonic 196
+	pound 8
+	mound 5
+	found 4
+	bound 3
+	wound 2
+	7
+dandy
+	later
+	candy 62
+	sandy 3
+	dandy 2
+	4
+loopy
+	later
+	lumpy 19
+	loopy 1
+	3
+minus
+	later
+	sonic 196
+	minus 1
+	3
+pithy
+	later
+	ditto 22
+	pithy 4
+	3
+scene
+	later
+	noise 135
+	ensue 2
+	scene 1
+	4
+awake
+	later
+	shade 62
+	awake 9
+	3
+sneak
+	later
+	shade 62
+	speak 3
+	sneak 1
+	4
+actor
+	later
+	actor 1
+	2
+naval
+	later
+	sadly 26
+	canal 6
+	naval 1
+	4
+going
+	later
+	sonic 196
+	going 2
+	3
+swear
+	later
+	spear 7
+	shear 3
+	swear 2
+	4
+honey
+	later
+	widen 40
+	money 4
+	honey 2
+	4
+sense
+	later
+	noise 135
+	dense 2
+	sense 1
+	4
+blade
+	later
+	glade 40
+	blade 1
+	3
+wrath
+	later
+	tract 25
+	wrath 1
+	3
+model
+	later
+	bleep 25
+	dowel 6
+	model 1
+	4
+mafia
+	later
+	candy 62
+	mamma 8
+	mafia 1
+	4
+hound
+	later
+	sonic 196
+	pound 8
+	mound 5
+	found 4
+	bound 3
+	wound 2
+	hound 1
+	8
+ditch
+	later
+	ditto 22
+	ditch 1
+	3
+nerdy
+	later
+	prose 100
+	merry 15
+	derby 3
+	nerdy 1
+	5
+venom
+	later
+	noise 135
+	envoy 6
+	venom 1
+	4
+baton
+	later
+	catty 16
+	patio 4
+	baton 1
+	4
+baste
+	later
+	paste 8
+	caste 5
+	waste 4
+	baste 3
+	5
+bleep
+	later
+	bleep 25
+	2
+caput
+	later
+	taint 30
+	gamut 3
+	caput 1
+	4
+rower
+	later
+	riser 73
+	roger 5
+	rover 2
+	rower 1
+	5
+alike
+	later
+	glade 40
+	alive 3
+	alike 1
+	4
+filth
+	later
+	built 21
+	filth 1
+	3
+trawl
+	later
+	trail 3
+	trawl 1
+	3
+cinch
+	later
+	sonic 196
+	finch 4
+	pinch 3
+	cinch 2
+	5
+squib
+	later
+	sonic 196
+	squib 1
+	3
+older
+	later
+	idler 10
+	elder 2
+	older 1
+	4
+happy
+	later
+	candy 62
+	gassy 10
+	mammy 3
+	jazzy 2
+	happy 1
+	6
+recut
+	later
+	trice 31
+	recut 1
+	3
+solid
+	later
+	solid 117
+	2
+grunt
+	later
+	trout 63
+	brunt 4
+	grunt 1
+	4
+vogue
+	later
+	noise 135
+	gouge 5
+	vogue 1
+	4
+tread
+	later
+	trace 14
+	treat 2
+	tread 1
+	4
+droop
+	later
+	crony 108
+	brood 10
+	droop 1
+	4
+smear
+	later
+	spear 7
+	shear 3
+	swear 2
+	smear 1
+	5
+scion
+	later
+	sonic 196
+	scion 1
+	3
+billy
+	later
+	solid 117
+	filmy 6
+	willy 3
+	hilly 2
+	billy 1
+	6
+tempo
+	later
+	heist 55
+	teddy 2
+	tempo 1
+	4
+album
+	later
+	slain 75
+	alloy 8
+	album 2
+	4
+roach
+	later
+	brand 71
+	shark 11
+	roach 1
+	4
+carve
+	later
+	farce 6
+	carve 1
+	3
+prone
+	later
+	prose 100
+	prone 3
+	3
+overt
+	later
+	trice 31
+	exert 5
+	overt 1
+	4
+remit
+	later
+	trice 31
+	merit 4
+	remit 1
+	4
+manor
+	later
+	savor 9
+	mayor 4
+	major 2
+	manor 1
+	5
+trout
+	later
+	trout 63
+	2
+butte
+	later
+	cutie 11
+	butte 1
+	3
+truce
+	later
+	trice 31
+	truce 1
+	3
+often
+	later
+	totem 3
+	often 1
+	3
+silky
+	later
+	solid 117
+	silly 2
+	silky 1
+	4
+shrub
+	later
+	crony 108
+	shrug 9
+	shrub 1
+	4
+giver
+	later
+	riser 73
+	diner 12
+	viper 5
+	giver 1
+	5
+sugar
+	later
+	briar 12
+	sugar 2
+	3
+flirt
+	later
+	blurt 5
+	flirt 1
+	3
+using
+	later
+	sonic 196
+	using 1
+	3
+unity
+	later
+	hoist 107
+	tying 2
+	unity 1
+	4
+mourn
+	later
+	crony 108
+	mourn 3
+	3
+ascot
+	later
+	stain 38
+	ascot 1
+	3
+rebut
+	later
+	trice 31
+	exert 5
+	rebut 1
+	4
+cheap
+	later
+	shade 62
+	cheap 1
+	3
+geeky
+	later
+	noise 135
+	check 6
+	geeky 1
+	4
+allot
+	later
+	bloat 18
+	allot 1
+	3
+house
+	later
+	noise 135
+	mouse 6
+	house 1
+	4
+taker
+	later
+	tamer 3
+	taker 2
+	3
+pitch
+	later
+	ditto 22
+	pithy 4
+	pitch 1
+	4
+halve
+	later
+	false 9
+	value 3
+	halve 1
+	4
+berry
+	later
+	prose 100
+	merry 15
+	ferry 2
+	berry 1
+	5
+rifle
+	later
+	reply 5
+	rifle 1
+	3
+bleat
+	later
+	eclat 12
+	pleat 2
+	bleat 1
+	4
+proof
+	later
+	crony 108
+	brood 10
+	groom 2
+	proof 1
+	5
+fudge
+	later
+	noise 135
+	fugue 9
+	fudge 1
+	4
+pasta
+	later
+	taint 30
+	hasty 3
+	pasta 1
+	4
+midge
+	later
+	noise 135
+	pixie 5
+	midge 1
+	4
+folio
+	later
+	solid 117
+	folio 1
+	3
+stare
+	later
+	trace 14
+	stare 1
+	3
+smack
+	later
+	chain 68
+	aback 4
+	smack 2
+	4
+enact
+	later
+	skate 32
+	meant 4
+	enact 1
+	4
+preen
+	later
+	pried 25
+	preen 1
+	3
+foist
+	later
+	hoist 107
+	moist 3
+	foist 2
+	4
+sinew
+	later
+	widen 40
+	sinew 1
+	3
+ivory
+	later
+	crony 108
+	ivory 2
+	3
+price
+	later
+	prose 100
+	pride 6
+	prime 3
+	prize 2
+	price 1
+	6
+haunt
+	later
+	taint 30
+	gaunt 5
+	jaunt 4
+	haunt 3
+	5
+fleet
+	later
+	islet 7
+	fleet 1
+	3
+layer
+	later
+	lager 2
+	layer 1
+	3
+crumb
+	later
+	crony 108
+	crisp 6
+	crumb 1
+	4
+pixel
+	later
+	bleep 25
+	impel 3
+	pixel 2
+	4
+dilly
+	later
+	solid 117
+	dilly 1
+	3
+ideal
+	later
+	glade 40
+	medal 5
+	ideal 1
+	4
+leggy
+	later
+	ledge 9
+	leggy 1
+	3
+quake
+	later
+	shade 62
+	awake 9
+	quake 1
+	4
+swirl
+	later
+	drill 21
+	whirl 2
+	swirl 1
+	4
+swift
+	later
+	hoist 107
+	swift 2
+	3
+druid
+	later
+	crony 108
+	brisk 6
+	druid 1
+	4
+email
+	later
+	glade 40
+	mealy 2
+	email 1
+	4
+heist
+	later
+	heist 55
+	2
+serum
+	later
+	prose 100
+	serif 4
+	serum 1
+	4
+thorn
+	later
+	trout 63
+	thorn 1
+	3
+thumb
+	later
+	hoist 107
+	thump 2
+	thumb 1
+	4
+ninth
+	later
+	hoist 107
+	fifth 4
+	ninth 2
+	4
+rural
+	later
+	rival 15
+	royal 2
+	rural 1
+	4
+apple
+	later
+	glade 40
+	ample 5
+	apple 1
+	4
+brute
+	later
+	trice 31
+	wrote 2
+	brute 1
+	4
+ovoid
+	later
+	sonic 196
+	ovoid 1
+	3
+goose
+	later
+	noise 135
+	mouse 6
+	posse 3
+	goose 1
+	5
+thank
+	later
+	stain 38
+	twang 3
+	thank 1
+	4
+loser
+	later
+	lover 7
+	loser 2
+	3
+maybe
+	later
+	mange 18
+	maize 4
+	maybe 3
+	4
+staid
+	later
+	stain 38
+	staid 1
+	3
+trace
+	later
+	trace 14
+	2
+lemon
+	later
+	ledge 9
+	lemon 1
+	3
+tried
+	later
+	egret 8
+	tried 1
+	3
+there
+	later
+	trice 31
+	there 2
+	3
+stole
+	later
+	slept 15
+	style 2
+	stole 1
+	4
+taboo
+	later
+	taint 30
+	tabby 4
+	taboo 1
+	4
+skiff
+	later
+	sonic 196
+	spiky 6
+	skiff 1
+	4
+tunic
+	later
+	hoist 107
+	fifty 4
+	tunic 1
+	4
+crept
+	later
+	trice 31
+	crest 2
+	crept 1
+	4
+stung
+	later
+	hoist 107
+	stunk 9
+	stung 1
+	4
+spare
+	later
+	brace 47
+	share 4
+	snare 2
+	spare 1
+	5
+terse
+	later
+	trice 31
+	there 2
+	terse 1
+	4
+modem
+	later
+	widen 40
+	modem 1
+	3
+avert
+	later
+	trace 14
+	avert 1
+	3
+reedy
+	later
+	prose 100
+	merry 15
+	reedy 1
+	4
+topaz
+	later
+	stain 38
+	adopt 7
+	topaz 1
+	4
+plume
+	later
+	slice 67
+	elope 8
+	plume 1
+	4
+odder
+	later
+	riser 73
+	power 30
+	offer 2
+	odder 1
+	5
+condo
+	later
+	sonic 196
+	conch 2
+	condo 1
+	4
+vapid
+	later
+	candy 62
+	vapid 2
+	3
+adage
+	later
+	shade 62
+	adage 1
+	3
+rupee
+	later
+	pried 25
+	spree 2
+	rupee 1
+	4
+vouch
+	later
+	sonic 196
+	cough 6
+	pouch 2
+	vouch 1
+	5
+madam
+	later
+	candy 62
+	vapid 2
+	madam 1
+	4
+dusty
+	later
+	hoist 107
+	stunk 9
+	dusty 3
+	4
+aging
+	later
+	chain 68
+	aping 3
+	aging 1
+	4
+shaky
+	later
+	chain 68
+	shady 2
+	shaky 1
+	4
+gamma
+	later
+	candy 62
+	mamma 8
+	gamma 1
+	4
+lever
+	later
+	lover 7
+	liver 2
+	lever 1
+	4
+musty
+	later
+	hoist 107
+	stunk 9
+	dusty 3
+	musty 2
+	5
+affix
+	later
+	chain 68
+	avoid 3
+	affix 1
+	4
+plump
+	later
+	solid 117
+	plunk 12
+	plumb 2
+	plump 1
+	5
+slide
+	later
+	slice 67
+	slide 2
+	3
+unfit
+	later
+	hoist 107
+	digit 3
+	unfit 1
+	4
+teeth
+	later
+	heist 55
+	tenth 3
+	teeth 1
+	4
+fruit
+	later
+	trout 63
+	brunt 4
+	fruit 2
+	4
+surer
+	later
+	riser 73
+	surer 1
+	3
+hedge
+	later
+	noise 135
+	fugue 9
+	hedge 2
+	4
+winch
+	later
+	sonic 196
+	finch 4
+	pinch 3
+	cinch 2
+	winch 1
+	6
+guard
+	later
+	brand 71
+	chard 5
+	award 2
+	guard 1
+	5
+spurn
+	later
+	crony 108
+	spurn 1
+	3
+curio
+	later
+	crony 108
+	curio 1
+	3
+brief
+	later
+	pried 25
+	grief 2
+	brief 1
+	4
+tribe
+	later
+	trice 31
+	tripe 3
+	trite 2
+	tribe 1
+	5
+admit
+	later
+	stain 38
+	audit 3
+	admit 1
+	4
+elfin
+	later
+	slice 67
+	elfin 1
+	3
+gruff
+	later
+	crony 108
+	brisk 6
+	gruff 1
+	4
+repel
+	later
+	revel 5
+	repel 2
+	3
+flout
+	later
+	built 21
+	clout 2
+	flout 1
+	4
+dodgy
+	later
+	sonic 196
+	goody 16
+	dodgy 1
+	4
+sepia
+	later
+	shade 62
+	speak 3
+	sepia 1
+	4
+optic
+	later
+	ditto 22
+	motif 2
+	optic 1
+	4
+tiger
+	later
+	other 8
+	truer 4
+	tiger 2
+	4
+evict
+	later
+	heist 55
+	edict 2
+	evict 1
+	4
+judge
+	later
+	noise 135
+	fugue 9
+	budge 2
+	judge 1
+	5
+parer
+	later
+	wager 17
+	parer 10
+	3
+glaze
+	later
+	glade 40
+	glaze 1
+	3
+quart
+	later
+	tract 25
+	roast 4
+	apart 2
+	quart 1
+	5
+mover
+	later
+	riser 73
+	power 30
+	hover 8
+	cover 2
+	mover 1
+	6
+cloak
+	later
+	slain 75
+	alloy 8
+	cloak 1
+	4
+dodge
+	later
+	noise 135
+	gouge 5
+	dodge 1
+	4
+rajah
+	later
+	hardy 29
+	ranch 2
+	rajah 1
+	4
+gripe
+	later
+	prose 100
+	gripe 2
+	3
+tweet
+	later
+	unset 20
+	comet 4
+	beget 2
+	tweet 1
+	5
+cello
+	later
+	slice 67
+	cello 1
+	3
+rogue
+	later
+	prose 100
+	forge 8
+	rogue 1
+	4
+welsh
+	later
+	slice 67
+	welsh 1
+	3
+laden
+	later
+	label 3
+	laden 1
+	3
+widow
+	later
+	sonic 196
+	idiom 4
+	widow 1
+	4
+alert
+	later
+	alert 1
+	2
+trunk
+	later
+	trout 63
+	truck 4
+	trunk 1
+	4
+bible
+	later
+	slice 67
+	bilge 3
+	bible 1
+	4
+vaunt
+	later
+	taint 30
+	gaunt 5
+	jaunt 4
+	haunt 3
+	vaunt 2
+	6
+irony
+	later
+	crony 108
+	irony 1
+	3
+dirge
+	later
+	prose 100
+	verge 13
+	dirge 1
+	4
+shark
+	later
+	brand 71
+	shark 11
+	3
+inter
+	later
+	enter 9
+	inter 1
+	3
+bushy
+	later
+	sonic 196
+	humus 10
+	pushy 2
+	bushy 1
+	5
+timid
+	later
+	hoist 107
+	fifty 4
+	timid 1
+	4
+crass
+	later
+	brand 71
+	crash 10
+	crass 1
+	4
+newer
+	later
+	riser 73
+	power 30
+	fewer 2
+	newer 1
+	5
+woven
+	later
+	widen 40
+	woken 3
+	women 2
+	woven 1
+	5
+harsh
+	later
+	hardy 29
+	harsh 1
+	3
+pagan
+	later
+	candy 62
+	mason 6
+	pagan 1
+	4
+unzip
+	later
+	sonic 196
+	undid 2
+	unzip 1
+	4
+clove
+	later
+	slice 67
+	clone 2
+	clove 1
+	4
+stiff
+	later
+	hoist 107
+	stink 4
+	stiff 1
+	4
+cider
+	later
+	riser 73
+	diner 12
+	cider 2
+	4
+split
+	later
+	built 21
+	pilot 2
+	split 1
+	4
+stuck
+	later
+	hoist 107
+	stunk 9
+	stuck 1
+	4
+carol
+	later
+	ralph 3
+	carol 1
+	3
+olden
+	later
+	bleep 25
+	olden 2
+	3
+piper
+	later
+	riser 73
+	diner 12
+	viper 5
+	piper 1
+	5
+debug
+	later
+	noise 135
+	check 6
+	debug 1
+	4
+leafy
+	later
+	leash 7
+	leafy 3
+	3
+diode
+	later
+	noise 135
+	biome 2
+	diode 1
+	4
+rayon
+	later
+	hardy 29
+	rayon 1
+	3
+relax
+	later
+	regal 10
+	relay 2
+	relax 1
+	4
+cling
+	later
+	solid 117
+	clink 15
+	cling 1
+	4
+scoff
+	later
+	sonic 196
+	scoop 4
+	scoff 1
+	4
+exult
+	later
+	slept 15
+	exult 1
+	3
+forge
+	later
+	prose 100
+	forge 8
+	3
+brand
+	later
+	brand 71
+	2
+fritz
+	later
+	trout 63
+	fritz 1
+	3
+caddy
+	later
+	candy 62
+	caddy 1
+	3
+rapid
+	later
+	hardy 29
+	radio 4
+	rapid 2
+	4
+brink
+	later
+	crony 108
+	bring 7
+	brink 1
+	4
+locus
+	later
+	lumpy 19
+	locus 1
+	3
+olive
+	later
+	slice 67
+	glide 3
+	olive 1
+	4
+butch
+	later
+	ditto 22
+	hutch 2
+	butch 1
+	4
+pique
+	later
+	noise 135
+	pixie 5
+	pique 2
+	4
+short
+	later
+	trout 63
+	sport 4
+	short 2
+	4
+wedge
+	later
+	noise 135
+	fugue 9
+	hedge 2
+	wedge 1
+	5
+brook
+	later
+	crony 108
+	brood 10
+	brook 2
+	4
+swarm
+	later
+	brand 71
+	shark 11
+	scary 3
+	swarm 1
+	5
+realm
+	later
+	regal 10
+	realm 1
+	3
+shoot
+	later
+	hoist 107
+	shoot 2
+	3
+goofy
+	later
+	sonic 196
+	goody 16
+	goofy 1
+	4
+briny
+	later
+	crony 108
+	briny 1
+	3
+slang
+	later
+	slain 75
+	slang 1
+	3
+gaily
+	later
+	sadly 26
+	gayly 3
+	gaily 1
+	4
+dingo
+	later
+	sonic 196
+	dingo 2
+	3
+glory
+	later
+	drill 21
+	blurb 3
+	glory 1
+	4
+opium
+	later
+	sonic 196
+	idiom 4
+	opium 1
+	4
+avail
+	later
+	slain 75
+	avail 2
+	3
+liken
+	later
+	linen 5
+	liken 1
+	3
+slunk
+	later
+	solid 117
+	slunk 8
+	3
+sixth
+	later
+	hoist 107
+	sixth 1
+	3
+tonga
+	later
+	stain 38
+	aunty 3
+	tonga 1
+	4
+bezel
+	later
+	bleep 25
+	bevel 2
+	bezel 1
+	4
+beast
+	later
+	skate 32
+	feast 3
+	yeast 2
+	beast 1
+	5
+spite
+	later
+	heist 55
+	spite 3
+	3
+given
+	later
+	widen 40
+	given 2
+	3
+quash
+	later
+	chain 68
+	swash 4
+	quash 1
+	4
+noise
+	later
+	noise 135
+	2
+snore
+	later
+	prose 100
+	shore 4
+	score 3
+	swore 2
+	snore 1
+	6
+pinto
+	later
+	hoist 107
+	pinto 1
+	3
+timer
+	later
+	other 8
+	truer 4
+	tiger 2
+	timer 1
+	5
+clink
+	later
+	solid 117
+	clink 15
+	3
+spine
+	later
+	noise 135
+	snipe 5
+	spine 1
+	4
+close
+	later
+	slice 67
+	close 1
+	3
+width
+	later
+	hoist 107
+	fifth 4
+	ninth 2
+	width 1
+	5
+privy
+	later
+	crony 108
+	grimy 2
+	privy 1
+	4
+lanky
+	later
+	laugh 3
+	lanky 2
+	3
+spent
+	later
+	heist 55
+	scent 3
+	spent 1
+	4
+strap
+	later
+	tract 25
+	straw 4
+	stray 2
+	strap 1
+	5
+recur
+	later
+	demur 5
+	recur 1
+	3
+valor
+	later
+	valor 1
+	2
+today
+	later
+	stain 38
+	adopt 7
+	today 1
+	4
+abbot
+	later
+	stain 38
+	adopt 7
+	abbot 1
+	4
+lucky
+	later
+	lumpy 19
+	lucky 1
+	3
+quest
+	later
+	heist 55
+	guest 2
+	quest 1
+	4
+bawdy
+	later
+	candy 62
+	daddy 4
+	gaudy 2
+	bawdy 1
+	5
+belch
+	later
+	slice 67
+	belch 2
+	3
+leery
+	later
+	leery 1
+	2
+flume
+	later
+	slice 67
+	elope 8
+	flume 2
+	4
+debut
+	later
+	heist 55
+	depot 2
+	debut 1
+	4
+excel
+	later
+	bleep 25
+	jewel 3
+	excel 1
+	4
+teach
+	later
+	skate 32
+	meant 4
+	teach 1
+	4
+joist
+	later
+	hoist 107
+	moist 3
+	foist 2
+	joist 1
+	5
+greed
+	later
+	pried 25
+	breed 4
+	creed 3
+	freed 2
+	greed 1
+	6
+soapy
+	later
+	chain 68
+	spasm 6
+	soapy 1
+	4
+magma
+	later
+	candy 62
+	mamma 8
+	magma 1
+	4
+uncut
+	later
+	hoist 107
+	uncut 1
+	3
+fetid
+	later
+	cutie 11
+	fetid 1
+	3
+fluff
+	later
+	solid 117
+	plunk 12
+	fluff 2
+	4
+scaly
+	later
+	slain 75
+	scald 6
+	scalp 2
+	scaly 1
+	5
+birth
+	later
+	trout 63
+	mirth 5
+	girth 2
+	birth 1
+	5
+motel
+	later
+	motel 3
+	2
+shall
+	later
+	slain 75
+	scald 6
+	small 2
+	shall 1
+	5
+moody
+	later
+	sonic 196
+	goody 16
+	woody 2
+	moody 1
+	5
+vying
+	later
+	sonic 196
+	dying 4
+	vying 1
+	4
+aloft
+	later
+	bloat 18
+	aloft 1
+	3
+spicy
+	later
+	sonic 196
+	spicy 1
+	3
+omega
+	later
+	shade 62
+	began 8
+	omega 1
+	4
+adopt
+	later
+	stain 38
+	adopt 7
+	3
+daisy
+	later
+	candy 62
+	daisy 1
+	3
+cavil
+	later
+	sadly 26
+	canal 6
+	cavil 1
+	4
+scare
+	later
+	brace 47
+	scare 1
+	3
+tryst
+	later
+	trout 63
+	tryst 1
+	3
+cumin
+	later
+	sonic 196
+	cumin 1
+	3
+honor
+	later
+	rigor 15
+	humor 3
+	honor 1
+	4
+speck
+	later
+	noise 135
+	seedy 3
+	speck 1
+	4
+alpha
+	later
+	slain 75
+	alloy 8
+	album 2
+	alpha 1
+	5
+berth
+	later
+	trice 31
+	exert 5
+	berth 1
+	4
+natal
+	later
+	fatal 2
+	natal 1
+	3
+theta
+	later
+	skate 32
+	theta 1
+	3
+tubal
+	later
+	bloat 18
+	tubal 1
+	3
+baggy
+	later
+	candy 62
+	gassy 10
+	baggy 1
+	4
+union
+	later
+	sonic 196
+	owing 4
+	union 1
+	4
+lodge
+	later
+	ledge 9
+	lodge 1
+	3
+these
+	later
+	heist 55
+	those 2
+	these 1
+	4
+sulky
+	later
+	solid 117
+	sully 2
+	sulky 1
+	4
+slain
+	later
+	slain 75
+	2
+viral
+	later
+	rival 15
+	viral 1
+	3
+sleek
+	later
+	bleep 25
+	sleek 1
+	3
+flesh
+	later
+	slice 67
+	bless 2
+	flesh 1
+	4
+axion
+	later
+	chain 68
+	avian 2
+	axion 1
+	4
+tooth
+	later
+	hoist 107
+	mouth 7
+	booth 2
+	tooth 1
+	5
+amass
+	later
+	chain 68
+	spasm 6
+	amass 1
+	4
+alibi
+	later
+	slain 75
+	iliac 2
+	alibi 1
+	4
+nymph
+	later
+	sonic 196
+	nymph 1
+	3
+hobby
+	later
+	sonic 196
+	goody 16
+	hobby 3
+	4
+juice
+	later
+	noise 135
+	guide 4
+	juice 1
+	4
+vixen
+	later
+	widen 40
+	given 2
+	vixen 1
+	4
+brawl
+	later
+	rival 15
+	drawl 4
+	crawl 2
+	brawl 1
+	5
+moron
+	later
+	crony 108
+	mourn 3
+	moron 1
+	4
+amber
+	later
+	aider 3
+	anger 2
+	amber 1
+	4
+maker
+	later
+	wager 17
+	parer 10
+	baker 4
+	maker 1
+	5
+scone
+	later
+	noise 135
+	shone 2
+	scone 1
+	4
+fetch
+	later
+	cutie 11
+	fetch 1
+	3
+shout
+	later
+	hoist 107
+	shoot 2
+	shout 1
+	4
+gumbo
+	later
+	sonic 196
+	jumbo 4
+	gumbo 1
+	4
+grove
+	later
+	prose 100
+	drone 7
+	froze 3
+	broke 2
+	grove 1
+	6
+drown
+	later
+	crony 108
+	brown 5
+	grown 3
+	drown 2
+	5
+masse
+	later
+	mange 18
+	maize 4
+	maybe 3
+	masse 2
+	5
+mania
+	later
+	candy 62
+	manga 4
+	mania 1
+	4
+heady
+	later
+	shade 62
+	heady 1
+	3
+shirt
+	later
+	trout 63
+	skirt 4
+	shirt 1
+	4
+fishy
+	later
+	sonic 196
+	gipsy 5
+	fishy 1
+	4
+clown
+	later
+	solid 117
+	block 10
+	clown 1
+	4
+onion
+	later
+	sonic 196
+	owing 4
+	onion 1
+	4
+sonar
+	later
+	briar 12
+	sugar 2
+	sonar 1
+	4
+leaky
+	later
+	leash 7
+	leafy 3
+	leaky 1
+	4
+marry
+	later
+	hardy 29
+	carry 3
+	marry 2
+	4
+cease
+	later
+	shade 62
+	abase 3
+	cease 1
+	4
+agree
+	later
+	agree 1
+	2
+wreck
+	later
+	prose 100
+	wreck 1
+	3
+daily
+	later
+	sadly 26
+	daily 2
+	3
+staff
+	later
+	stain 38
+	stamp 4
+	staff 3
+	4
+riser
+	later
+	riser 73
+	2
+vodka
+	later
+	chain 68
+	squad 5
+	dogma 2
+	vodka 1
+	5
+bathe
+	later
+	bathe 1
+	2
+craze
+	later
+	brace 47
+	crane 3
+	crave 2
+	craze 1
+	5
+whole
+	later
+	slice 67
+	boule 7
+	whole 1
+	4
+basil
+	later
+	sadly 26
+	basal 3
+	basil 1
+	4
+dunce
+	later
+	noise 135
+	pence 7
+	dunce 1
+	4
+sauna
+	later
+	candy 62
+	mason 6
+	sauna 1
+	4
+boxer
+	later
+	riser 73
+	power 30
+	hover 8
+	goner 4
+	joker 3
+	foyer 2
+	boxer 1
+	8
+bravo
+	later
+	brand 71
+	brass 3
+	bravo 1
+	4
+pulse
+	later
+	slice 67
+	pulse 1
+	3
+spool
+	later
+	solid 117
+	sloop 4
+	spool 1
+	4
+maxim
+	later
+	candy 62
+	mamma 8
+	maxim 1
+	4
+gnash
+	later
+	chain 68
+	gnash 1
+	3
+valve
+	later
+	false 9
+	value 3
+	valve 1
+	4
+matey
+	later
+	eaten 2
+	matey 1
+	3
+skull
+	later
+	solid 117
+	slunk 8
+	skull 1
+	4
+afoul
+	later
+	slain 75
+	vocal 12
+	afoul 1
+	4
+glare
+	later
+	regal 10
+	glare 1
+	3
+micro
+	later
+	crony 108
+	porch 2
+	micro 1
+	4
+mower
+	later
+	riser 73
+	power 30
+	cower 2
+	mower 1
+	5
+aorta
+	later
+	tract 25
+	straw 4
+	aorta 1
+	4
+wordy
+	later
+	crony 108
+	dowry 5
+	wordy 1
+	4
+bench
+	later
+	noise 135
+	wench 5
+	bench 1
+	4
+guild
+	later
+	solid 117
+	build 4
+	guild 1
+	4
+sushi
+	later
+	sonic 196
+	spiky 6
+	sushi 1
+	4
+audio
+	later
+	chain 68
+	avoid 3
+	audio 1
+	4
+attic
+	later
+	antic 3
+	attic 1
+	3
+lemur
+	later
+	lemur 1
+	2
+extol
+	later
+	title 2
+	extol 1
+	3
+final
+	later
+	slain 75
+	inlay 2
+	final 1
+	4
+ethic
+	later
+	heist 55
+	ethic 1
+	3
+trial
+	later
+	trail 3
+	trial 1
+	3
+while
+	later
+	slice 67
+	exile 3
+	while 2
+	4
+comic
+	later
+	sonic 196
+	comic 1
+	3
+meter
+	later
+	enter 9
+	meter 2
+	3
+betel
+	later
+	motel 3
+	betel 1
+	3
+cabby
+	later
+	candy 62
+	cabby 1
+	3
+idiot
+	later
+	hoist 107
+	idiot 1
+	3
+furor
+	later
+	rigor 15
+	juror 2
+	furor 1
+	4
+waver
+	later
+	wager 17
+	wafer 2
+	waver 1
+	4
+fetal
+	later
+	metal 3
+	petal 2
+	fetal 1
+	4
+apnea
+	later
+	ashen 5
+	annex 2
+	apnea 1
+	4
+bluff
+	later
+	solid 117
+	plunk 12
+	fluff 2
+	bluff 1
+	5
+leech
+	later
+	ledge 9
+	leech 1
+	3
+plank
+	later
+	slain 75
+	clank 7
+	flank 3
+	plank 2
+	5
+annul
+	later
+	slain 75
+	zonal 2
+	annul 1
+	4
+primo
+	later
+	crony 108
+	primo 1
+	3
+loose
+	later
+	ledge 9
+	louse 2
+	loose 1
+	4
+panic
+	later
+	candy 62
+	manic 2
+	panic 1
+	4
+suite
+	later
+	heist 55
+	spite 3
+	suite 2
+	4
+scowl
+	later
+	solid 117
+	sloop 4
+	scowl 1
+	4
+tweed
+	later
+	unset 20
+	tepee 3
+	tweed 1
+	4
+wider
+	later
+	riser 73
+	diner 12
+	cider 2
+	wider 1
+	5
+stage
+	later
+	skate 32
+	stave 2
+	stage 1
+	4
+dally
+	later
+	sadly 26
+	daily 2
+	dally 1
+	4
+drool
+	later
+	drill 21
+	drool 1
+	3
+tilde
+	later
+	slept 15
+	tulle 3
+	tilde 1
+	4
+abyss
+	later
+	chain 68
+	squad 5
+	abyss 1
+	4
+basis
+	later
+	candy 62
+	mamma 8
+	basis 1
+	4
+hotel
+	later
+	motel 3
+	hotel 1
+	3
+birch
+	later
+	crony 108
+	scrum 3
+	birch 1
+	4
+octet
+	later
+	totem 3
+	octet 1
+	3
+vigor
+	later
+	rigor 15
+	vigor 1
+	3
+alone
+	later
+	glade 40
+	alive 3
+	alone 1
+	4
+couch
+	later
+	sonic 196
+	cough 6
+	couch 1
+	4
+alarm
+	later
+	rival 15
+	alarm 2
+	3
+quail
+	later
+	slain 75
+	avail 2
+	quail 1
+	4
+guile
+	later
+	slice 67
+	exile 3
+	while 2
+	guile 1
+	5
+doubt
+	later
+	hoist 107
+	count 4
+	doubt 1
+	4
+tuber
+	later
+	other 8
+	truer 4
+	tuber 1
+	4
+bossy
+	later
+	sonic 196
+	mossy 3
+	bossy 1
+	4
+dryer
+	later
+	riser 73
+	order 5
+	dryer 1
+	4
+loamy
+	later
+	lilac 5
+	loamy 1
+	3
+usage
+	later
+	shade 62
+	abase 3
+	usage 1
+	4
+singe
+	later
+	noise 135
+	since 2
+	singe 1
+	4
+lapel
+	later
+	label 3
+	lapel 1
+	3
+slime
+	later
+	slice 67
+	slide 2
+	slime 1
+	4
+piney
+	later
+	widen 40
+	piney 1
+	3
+cobra
+	later
+	brand 71
+	rumba 3
+	cobra 1
+	4
+blush
+	later
+	solid 117
+	flush 3
+	plush 2
+	blush 1
+	5
+friar
+	later
+	briar 12
+	friar 1
+	3
+worst
+	later
+	trout 63
+	robot 2
+	worst 1
+	4
+zebra
+	later
+	brace 47
+	rehab 2
+	zebra 1
+	4
+dwarf
+	later
+	brand 71
+	diary 2
+	dwarf 1
+	4
+welch
+	later
+	slice 67
+	belch 2
+	welch 1
+	4
+bobby
+	later
+	sonic 196
+	goody 16
+	hobby 3
+	bobby 1
+	5
+frost
+	later
+	trout 63
+	front 3
+	frost 1
+	4
+notch
+	later
+	ditto 22
+	botch 2
+	notch 1
+	4
+punch
+	later
+	sonic 196
+	bunch 4
+	hunch 3
+	munch 2
+	punch 1
+	6
+outgo
+	later
+	ditto 22
+	outgo 1
+	3
+bylaw
+	later
+	slain 75
+	vocal 12
+	bylaw 1
+	4
+mauve
+	later
+	mange 18
+	maize 4
+	maybe 3
+	masse 2
+	mauve 1
+	6
+spiky
+	later
+	sonic 196
+	spiky 6
+	3
+drone
+	later
+	prose 100
+	drone 7
+	3
+epoxy
+	later
+	noise 135
+	gecko 4
+	epoxy 1
+	4
+cameo
+	later
+	oaken 6
+	cameo 1
+	3
+order
+	later
+	riser 73
+	order 5
+	3
+offal
+	later
+	slain 75
+	vocal 12
+	offal 1
+	4
+adobe
+	later
+	shade 62
+	adobe 1
+	3
+their
+	later
+	tenor 2
+	their 1
+	3
+haste
+	later
+	paste 8
+	caste 5
+	waste 4
+	baste 3
+	haste 2
+	6
+karma
+	later
+	hardy 29
+	parka 4
+	karma 1
+	4
+quack
+	later
+	chain 68
+	aback 4
+	smack 2
+	quack 1
+	5
+thing
+	later
+	hoist 107
+	think 4
+	thing 1
+	4
+ounce
+	later
+	noise 135
+	ozone 4
+	ounce 1
+	4
+dwelt
+	later
+	slept 15
+	dwelt 2
+	3
+outer
+	later
+	enter 9
+	outer 4
+	3
+papal
+	later
+	sadly 26
+	canal 6
+	papal 1
+	4
+azure
+	later
+	brace 47
+	afire 3
+	azure 2
+	4
+prove
+	later
+	prose 100
+	prone 3
+	prove 2
+	4
+toast
+	later
+	stain 38
+	boast 3
+	toast 2
+	4
+rainy
+	later
+	hardy 29
+	raspy 3
+	rainy 1
+	4
+fizzy
+	later
+	sonic 196
+	whiff 9
+	fizzy 1
+	4
+flora
+	later
+	rival 15
+	alarm 2
+	flora 1
+	4
+defer
+	later
+	riser 73
+	power 30
+	defer 10
+	4
+snort
+	later
+	trout 63
+	sport 4
+	short 2
+	snort 1
+	5
+fluke
+	later
+	slice 67
+	elope 8
+	flume 2
+	fluke 1
+	5
+blank
+	later
+	slain 75
+	clank 7
+	flank 3
+	plank 2
+	blank 1
+	6
+inner
+	later
+	riser 73
+	inner 2
+	3
+daunt
+	later
+	taint 30
+	gaunt 5
+	jaunt 4
+	haunt 3
+	vaunt 2
+	daunt 1
+	7
+blaze
+	later
+	glade 40
+	blame 7
+	blaze 1
+	4
+shiny
+	later
+	sonic 196
+	suing 5
+	spiny 2
+	shiny 1
+	5
+white
+	later
+	heist 55
+	white 1
+	3
+roomy
+	later
+	crony 108
+	ivory 2
+	roomy 1
+	4
+gland
+	later
+	slain 75
+	clank 7
+	bland 2
+	gland 1
+	5
+sting
+	later
+	hoist 107
+	stink 4
+	sting 1
+	4
+rigor
+	later
+	rigor 15
+	2
+allow
+	later
+	slain 75
+	alloy 8
+	allow 1
+	4
+large
+	later
+	large 1
+	2
+trope
+	later
+	trice 31
+	trove 2
+	trope 1
+	4
+teary
+	later
+	trace 14
+	teary 1
+	3
+infer
+	later
+	riser 73
+	inner 2
+	infer 1
+	4
+fault
+	later
+	tally 6
+	vault 2
+	fault 1
+	4
+twice
+	later
+	heist 55
+	twine 4
+	twice 1
+	4
+lasso
+	later
+	laugh 3
+	lanky 2
+	lasso 1
+	4
+brash
+	later
+	brand 71
+	brass 3
+	brash 1
+	4
+abode
+	later
+	shade 62
+	anode 3
+	abode 1
+	4
+local
+	later
+	lilac 5
+	local 1
+	3
+joint
+	later
+	hoist 107
+	joint 2
+	3
+moral
+	later
+	rival 15
+	mural 3
+	moral 1
+	4
+roost
+	later
+	trout 63
+	sport 4
+	roost 1
+	4
+gravy
+	later
+	brand 71
+	crash 10
+	gravy 1
+	4
+voice
+	later
+	noise 135
+	voice 1
+	3
+floor
+	later
+	flour 3
+	floor 1
+	3
+shaft
+	later
+	stain 38
+	swath 2
+	shaft 1
+	4
+ninny
+	later
+	sonic 196
+	pinky 6
+	windy 3
+	ninny 1
+	5
+ample
+	later
+	glade 40
+	ample 5
+	3
+foggy
+	later
+	sonic 196
+	goody 16
+	foggy 1
+	4
+waxen
+	later
+	oaken 6
+	haven 2
+	waxen 1
+	4
+kinky
+	later
+	sonic 196
+	pinky 6
+	kinky 1
+	4
+hitch
+	later
+	ditto 22
+	pithy 4
+	witch 2
+	hitch 1
+	5
+pause
+	later
+	mange 18
+	sauce 5
+	pause 1
+	4
+incur
+	later
+	rigor 15
+	incur 1
+	3
+rotor
+	later
+	motor 3
+	rotor 1
+	3
+salad
+	later
+	sadly 26
+	salad 1
+	3
+lusty
+	later
+	light 4
+	lofty 2
+	lusty 1
+	4
+habit
+	later
+	taint 30
+	habit 1
+	3
+drake
+	later
+	brace 47
+	grade 8
+	drape 2
+	drake 1
+	5
+needy
+	later
+	noise 135
+	needy 1
+	3
+shape
+	later
+	shade 62
+	shame 4
+	shave 3
+	shake 2
+	shape 1
+	6
+sperm
+	later
+	prose 100
+	sperm 1
+	3
+juicy
+	later
+	sonic 196
+	quick 5
+	juicy 1
+	4
+ghost
+	later
+	hoist 107
+	ghost 1
+	3
+hardy
+	later
+	hardy 29
+	2
+piety
+	later
+	heist 55
+	piety 1
+	3
+usher
+	later
+	riser 73
+	sewer 8
+	usher 1
+	4
+parry
+	later
+	hardy 29
+	carry 3
+	marry 2
+	parry 1
+	5
+spiel
+	later
+	bleep 25
+	impel 3
+	pixel 2
+	spiel 1
+	5
+shoal
+	later
+	slain 75
+	shoal 1
+	3
+churn
+	later
+	crony 108
+	churn 1
+	3
+rebel
+	later
+	revel 5
+	repel 2
+	rebel 1
+	4
+handy
+	later
+	candy 62
+	sandy 3
+	dandy 2
+	handy 1
+	5
+gawky
+	later
+	candy 62
+	gassy 10
+	gawky 1
+	4
+flown
+	later
+	solid 117
+	block 10
+	gloom 2
+	flown 1
+	5
+sadly
+	later
+	sadly 26
+	2
+basic
+	later
+	candy 62
+	macho 5
+	basic 1
+	4
+unset
+	later
+	unset 20
+	2
+adore
+	later
+	brace 47
+	afire 3
+	azure 2
+	adore 1
+	5
+flunk
+	later
+	solid 117
+	plunk 12
+	flunk 1
+	4
+ember
+	later
+	riser 73
+	power 30
+	defer 10
+	cheer 3
+	ember 1
+	6
+plied
+	later
+	bleep 25
+	plied 1
+	3
+siege
+	later
+	noise 135
+	sieve 3
+	siege 1
+	4
+humid
+	later
+	sonic 196
+	vivid 2
+	humid 1
+	4
+pried
+	later
+	pried 25
+	2
+movie
+	later
+	noise 135
+	movie 1
+	3
+kneed
+	later
+	widen 40
+	unfed 2
+	kneed 1
+	4
+chump
+	later
+	sonic 196
+	mucky 4
+	chump 1
+	4
+rally
+	later
+	ralph 3
+	rally 1
+	3
+nylon
+	later
+	solid 117
+	nylon 1
+	3
+lower
+	later
+	lover 7
+	loser 2
+	lower 1
+	4
+blond
+	later
+	solid 117
+	blood 4
+	blond 1
+	4
+gonad
+	later
+	chain 68
+	annoy 5
+	gonad 1
+	4
+knelt
+	later
+	slept 15
+	dwelt 2
+	knelt 1
+	4
+lucid
+	later
+	lumpy 19
+	lunch 2
+	lucid 1
+	4
+sight
+	later
+	hoist 107
+	sight 1
+	3
+fiend
+	later
+	noise 135
+	denim 4
+	fiend 1
+	4
+fluid
+	later
+	solid 117
+	fluid 1
+	3
+harpy
+	later
+	hardy 29
+	harry 2
+	harpy 1
+	4
+rabid
+	later
+	hardy 29
+	radio 4
+	rapid 2
+	rabid 1
+	5
+crock
+	later
+	crony 108
+	crook 5
+	crock 1
+	4
+angst
+	later
+	stain 38
+	angst 1
+	3
+climb
+	later
+	solid 117
+	clink 15
+	cliff 2
+	climb 1
+	5
+gazer
+	later
+	wager 17
+	gamer 3
+	gayer 2
+	gazer 1
+	5
+dully
+	later
+	solid 117
+	dully 1
+	3
+bingo
+	later
+	sonic 196
+	dingo 2
+	bingo 1
+	4
+giddy
+	later
+	sonic 196
+	whiff 9
+	biddy 4
+	giddy 1
+	5
+boney
+	later
+	widen 40
+	money 4
+	honey 2
+	boney 1
+	5
+frank
+	later
+	brand 71
+	crank 3
+	prank 2
+	frank 1
+	5
+utter
+	later
+	enter 9
+	outer 4
+	utter 1
+	4
+probe
+	later
+	prose 100
+	prone 3
+	prove 2
+	probe 1
+	5
+ocean
+	later
+	shade 62
+	began 8
+	ocean 1
+	4
+crate
+	later
+	trace 14
+	crate 1
+	3
+chalk
+	later
+	slain 75
+	koala 3
+	chalk 1
+	4
+decal
+	later
+	glade 40
+	medal 5
+	decal 1
+	4
+panel
+	later
+	navel 7
+	panel 1
+	3
+salty
+	later
+	tally 6
+	salty 1
+	3
+skate
+	later
+	skate 32
+	2
+ulcer
+	later
+	idler 10
+	bluer 3
+	ulcer 1
+	4
+unwed
+	later
+	widen 40
+	unwed 1
+	3
+forth
+	later
+	trout 63
+	forty 4
+	forth 1
+	4
+clued
+	later
+	bleep 25
+	olden 2
+	clued 1
+	4
+atone
+	later
+	skate 32
+	atone 1
+	3
+rowdy
+	later
+	crony 108
+	dowry 5
+	rowdy 1
+	4
+opera
+	later
+	brace 47
+	repay 2
+	opera 1
+	4
+cleat
+	later
+	eclat 12
+	cleat 1
+	3
+facet
+	later
+	cadet 3
+	facet 1
+	3
+vague
+	later
+	mange 18
+	gauze 3
+	vague 1
+	4
+truly
+	later
+	blurt 5
+	truly 1
+	3
+until
+	later
+	until 2
+	2
+dealt
+	later
+	eclat 12
+	dealt 1
+	3
+delay
+	later
+	glade 40
+	medal 5
+	delay 1
+	4
+crust
+	later
+	trout 63
+	brunt 4
+	fruit 2
+	crust 1
+	5
+quilt
+	later
+	built 21
+	guilt 2
+	quilt 1
+	4
+poise
+	later
+	noise 135
+	poise 1
+	3
+nasty
+	later
+	taint 30
+	nasty 1
+	3
+carat
+	later
+	party 5
+	tarot 2
+	carat 1
+	4
+venue
+	later
+	noise 135
+	pence 7
+	venue 1
+	4
+perch
+	later
+	prose 100
+	perky 2
+	perch 1
+	4
+gusty
+	later
+	hoist 107
+	stunk 9
+	dusty 3
+	musty 2
+	gusty 1
+	6
+corny
+	later
+	crony 108
+	corny 1
+	3
+haute
+	later
+	paste 8
+	haute 1
+	3
+clamp
+	later
+	slain 75
+	flack 6
+	clamp 1
+	4
+fried
+	later
+	pried 25
+	dried 3
+	cried 2
+	fried 1
+	5
+hotly
+	later
+	until 2
+	hotly 1
+	3
+stark
+	later
+	tract 25
+	stark 1
+	3
+seven
+	later
+	widen 40
+	semen 6
+	seven 1
+	4
+ready
+	later
+	brace 47
+	ready 5
+	3
+stint
+	later
+	hoist 107
+	swift 2
+	stint 1
+	4
+agent
+	later
+	skate 32
+	wheat 5
+	adept 2
+	agent 1
+	5
+fully
+	later
+	solid 117
+	gully 7
+	bully 2
+	fully 1
+	5
+whine
+	later
+	noise 135
+	knife 2
+	whine 1
+	4
+kappa
+	later
+	candy 62
+	mamma 8
+	kappa 1
+	4
+modal
+	later
+	slain 75
+	vocal 12
+	modal 1
+	4
+elate
+	later
+	eclat 12
+	elate 1
+	3
+vicar
+	later
+	briar 12
+	cigar 2
+	vicar 1
+	4
+right
+	later
+	trout 63
+	skirt 4
+	right 1
+	4
+puppy
+	later
+	sonic 196
+	dumpy 15
+	guppy 2
+	puppy 1
+	5
+smite
+	later
+	heist 55
+	spite 3
+	suite 2
+	smite 1
+	5
+tacit
+	later
+	taint 30
+	tacit 1
+	3
+plate
+	later
+	eclat 12
+	stale 3
+	plate 1
+	4
+apply
+	later
+	slain 75
+	vocal 12
+	amply 2
+	apply 1
+	5
+point
+	later
+	hoist 107
+	joint 2
+	point 1
+	4
+sling
+	later
+	solid 117
+	slink 7
+	sling 1
+	4
+sooth
+	later
+	hoist 107
+	south 2
+	sooth 1
+	4
+grass
+	later
+	brand 71
+	crash 10
+	grasp 2
+	grass 1
+	5
+retch
+	later
+	retry 5
+	retch 1
+	3
+radii
+	later
+	hardy 29
+	radio 4
+	radii 1
+	4
+empty
+	later
+	heist 55
+	etude 3
+	empty 1
+	4
+curry
+	later
+	crony 108
+	curvy 2
+	curry 1
+	4
+spook
+	later
+	sonic 196
+	spook 6
+	3
+agony
+	later
+	chain 68
+	annoy 5
+	agony 1
+	4
+limit
+	later
+	light 4
+	limit 1
+	3
+deter
+	later
+	enter 9
+	meter 2
+	deter 1
+	4
+grind
+	later
+	crony 108
+	bring 7
+	grind 1
+	4
+chain
+	later
+	chain 68
+	2
+outdo
+	later
+	ditto 22
+	outdo 1
+	3
+batty
+	later
+	catty 16
+	tatty 4
+	fatty 3
+	patty 2
+	batty 1
+	6
+mango
+	later
+	candy 62
+	manga 4
+	mango 1
+	4
+pluck
+	later
+	solid 117
+	plunk 12
+	pluck 1
+	4
+cynic
+	later
+	sonic 196
+	cynic 1
+	3
+witch
+	later
+	ditto 22
+	pithy 4
+	hitch 2
+	witch 1
+	5
+hyper
+	later
+	riser 73
+	power 30
+	upper 2
+	hyper 1
+	5
+moult
+	later
+	built 21
+	moult 1
+	3
+otter
+	later
+	enter 9
+	outer 4
+	otter 1
+	4
+elbow
+	later
+	slice 67
+	blend 3
+	elbow 1
+	4
+ratio
+	later
+	ratty 2
+	ratio 1
+	3
+grant
+	later
+	tract 25
+	graft 3
+	grant 1
+	4
+smith
+	later
+	hoist 107
+	smith 1
+	3
+gaffe
+	later
+	mange 18
+	gauze 3
+	gaffe 1
+	4
+taken
+	later
+	cadet 3
+	taken 1
+	3
+spied
+	later
+	widen 40
+	shied 2
+	spied 1
+	4
+broom
+	later
+	crony 108
+	brood 10
+	brook 2
+	broom 1
+	5
+murky
+	later
+	crony 108
+	hurry 6
+	murky 1
+	4
+doing
+	later
+	sonic 196
+	going 2
+	doing 1
+	4
+snuck
+	later
+	sonic 196
+	snuck 1
+	3
+quota
+	later
+	stain 38
+	adopt 7
+	quota 1
+	4
+ditto
+	later
+	ditto 22
+	2
+graze
+	later
+	brace 47
+	grade 8
+	grape 3
+	grave 2
+	graze 1
+	6
+payee
+	later
+	oaken 6
+	cagey 2
+	payee 1
+	4
+track
+	later
+	tract 25
+	track 1
+	3
+stack
+	later
+	stain 38
+	stamp 4
+	staff 3
+	stack 2
+	5
+dozen
+	later
+	widen 40
+	dozen 1
+	3
+pubic
+	later
+	sonic 196
+	civic 4
+	pubic 1
+	4
+stash
+	later
+	stain 38
+	stamp 4
+	staff 3
+	stack 2
+	stash 1
+	6
+taste
+	later
+	paste 8
+	caste 5
+	waste 4
+	baste 3
+	haste 2
+	taste 1
+	7
+icing
+	later
+	sonic 196
+	icing 1
+	3
+drove
+	later
+	prose 100
+	drove 7
+	3
+polar
+	later
+	solar 4
+	molar 2
+	polar 1
+	4
+piece
+	later
+	noise 135
+	pixie 5
+	pique 2
+	piece 1
+	5
+event
+	later
+	heist 55
+	eject 2
+	event 1
+	4
+hovel
+	later
+	bleep 25
+	dowel 6
+	novel 2
+	hovel 1
+	5
+paler
+	later
+	baler 2
+	paler 1
+	3
+newly
+	later
+	slice 67
+	belly 10
+	newly 1
+	4
+crepe
+	later
+	prose 100
+	gripe 2
+	crepe 1
+	4
+frown
+	later
+	crony 108
+	brown 5
+	grown 3
+	drown 2
+	frown 1
+	6
+spice
+	later
+	noise 135
+	spike 3
+	spice 1
+	4
+stair
+	later
+	stair 1
+	2
+krill
+	later
+	drill 21
+	frill 3
+	grill 2
+	krill 1
+	5
+melee
+	later
+	bleep 25
+	jewel 3
+	melee 1
+	4
+urine
+	later
+	prose 100
+	crude 9
+	urine 1
+	4
+shunt
+	later
+	hoist 107
+	shunt 1
+	3
+viola
+	later
+	slain 75
+	voila 4
+	viola 1
+	4
+banal
+	later
+	sadly 26
+	canal 6
+	banal 1
+	4
+furry
+	later
+	crony 108
+	hurry 6
+	furry 1
+	4
+scrub
+	later
+	crony 108
+	scrum 3
+	scrub 1
+	4
+coast
+	later
+	stain 38
+	boast 3
+	toast 2
+	coast 1
+	5
+wrest
+	later
+	trice 31
+	erupt 2
+	wrest 1
+	4
+taper
+	later
+	tamer 3
+	taker 2
+	taper 1
+	4
+slimy
+	later
+	solid 117
+	slink 7
+	slimy 1
+	4

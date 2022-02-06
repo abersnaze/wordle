@@ -1,0 +1,12956 @@
+stove
+	alter
+	heist 55
+	stove 4
+	3
+theta
+	alter
+	skate 34
+	theta 1
+	3
+amble
+	alter
+	angle 7
+	ample 4
+	amble 1
+	4
+grill
+	alter
+	drill 22
+	grill 3
+	3
+style
+	alter
+	style 11
+	2
+surge
+	alter
+	prose 100
+	surge 3
+	3
+bonus
+	alter
+	sonic 196
+	bonus 1
+	3
+smash
+	alter
+	candy 110
+	smash 11
+	3
+adore
+	alter
+	arose 8
+	adore 1
+	3
+masse
+	alter
+	shame 63
+	masse 1
+	3
+ombre
+	alter
+	prose 100
+	forge 8
+	ombre 1
+	4
+cacti
+	alter
+	taint 56
+	cacti 1
+	3
+count
+	alter
+	shout 107
+	count 3
+	3
+heady
+	alter
+	shame 63
+	heady 4
+	3
+flint
+	alter
+	flint 8
+	2
+matey
+	alter
+	matey 2
+	2
+conch
+	alter
+	sonic 196
+	conch 2
+	3
+reach
+	alter
+	brace 45
+	reach 1
+	3
+snide
+	alter
+	noise 135
+	spine 5
+	snide 1
+	4
+outdo
+	alter
+	ditto 22
+	outdo 1
+	3
+humor
+	alter
+	rigor 15
+	humor 3
+	3
+clank
+	alter
+	slack 30
+	clank 1
+	3
+raise
+	alter
+	brace 45
+	raise 3
+	3
+guilt
+	alter
+	guilt 17
+	2
+movie
+	alter
+	noise 135
+	movie 1
+	3
+pleat
+	alter
+	pleat 6
+	2
+waist
+	alter
+	taint 56
+	waist 1
+	3
+storm
+	alter
+	trout 63
+	storm 3
+	3
+hazel
+	alter
+	laden 10
+	bagel 5
+	hazel 3
+	4
+wacky
+	alter
+	candy 110
+	wacky 2
+	3
+choke
+	alter
+	noise 135
+	choke 2
+	3
+stern
+	alter
+	trice 31
+	exert 5
+	stern 1
+	4
+woman
+	alter
+	candy 110
+	piano 7
+	woman 1
+	4
+filmy
+	alter
+	silly 84
+	filmy 2
+	3
+clack
+	alter
+	slack 30
+	clack 3
+	3
+cough
+	alter
+	sonic 196
+	cough 6
+	3
+toddy
+	alter
+	shout 107
+	pinto 6
+	toddy 1
+	4
+poise
+	alter
+	noise 135
+	poise 1
+	3
+knife
+	alter
+	noise 135
+	knife 2
+	3
+scope
+	alter
+	noise 135
+	spoke 4
+	scope 1
+	4
+rhino
+	alter
+	crony 108
+	rhino 2
+	3
+cleft
+	alter
+	cleft 5
+	2
+spoke
+	alter
+	noise 135
+	spoke 4
+	3
+carry
+	alter
+	chard 89
+	carry 3
+	3
+barge
+	alter
+	brace 45
+	barge 1
+	3
+decal
+	alter
+	scale 33
+	decal 2
+	3
+ladle
+	alter
+	scale 33
+	ladle 4
+	3
+stoop
+	alter
+	shout 107
+	stoop 7
+	3
+solid
+	alter
+	silly 84
+	solid 1
+	3
+creme
+	alter
+	prose 100
+	crude 9
+	creme 2
+	4
+clock
+	alter
+	slunk 52
+	clock 5
+	3
+golly
+	alter
+	silly 84
+	golly 9
+	3
+harry
+	alter
+	chard 89
+	harry 2
+	3
+knelt
+	alter
+	style 11
+	knelt 3
+	3
+tidal
+	alter
+	tally 14
+	tidal 3
+	3
+fizzy
+	alter
+	sonic 196
+	whiff 9
+	fizzy 1
+	4
+libel
+	alter
+	bevel 23
+	libel 1
+	3
+vixen
+	alter
+	widen 40
+	vixen 2
+	3
+lucky
+	alter
+	silly 84
+	lumpy 4
+	lucky 1
+	4
+petty
+	alter
+	cutie 11
+	petty 3
+	3
+pedal
+	alter
+	scale 33
+	pedal 7
+	3
+recur
+	alter
+	demur 5
+	recur 1
+	3
+annul
+	alter
+	anvil 9
+	annul 1
+	3
+serum
+	alter
+	prose 100
+	serum 4
+	3
+manga
+	alter
+	candy 110
+	manga 4
+	3
+lager
+	alter
+	lager 4
+	2
+butch
+	alter
+	ditto 22
+	butch 2
+	3
+point
+	alter
+	shout 107
+	point 7
+	3
+obese
+	alter
+	noise 135
+	whose 3
+	obese 1
+	4
+cache
+	alter
+	shame 63
+	cache 1
+	3
+slice
+	alter
+	close 25
+	slice 1
+	3
+cheek
+	alter
+	widen 40
+	cheek 5
+	3
+epoxy
+	alter
+	noise 135
+	epoxy 4
+	3
+quark
+	alter
+	chard 89
+	spark 4
+	quark 1
+	4
+filly
+	alter
+	silly 84
+	filly 5
+	3
+enema
+	alter
+	shame 63
+	enema 1
+	3
+hello
+	alter
+	belle 51
+	hello 3
+	3
+grimy
+	alter
+	crony 108
+	grimy 2
+	3
+await
+	alter
+	adopt 12
+	await 2
+	3
+spear
+	alter
+	spear 7
+	2
+girth
+	alter
+	trout 63
+	girth 5
+	3
+soggy
+	alter
+	sonic 196
+	soggy 1
+	3
+bible
+	alter
+	belle 51
+	bugle 3
+	bible 1
+	4
+bunny
+	alter
+	sonic 196
+	funky 4
+	bunny 1
+	4
+racer
+	alter
+	wager 17
+	parer 10
+	racer 1
+	4
+erupt
+	alter
+	trice 31
+	erupt 2
+	3
+quake
+	alter
+	shame 63
+	knave 6
+	quake 1
+	4
+swirl
+	alter
+	drill 22
+	swirl 2
+	3
+idiom
+	alter
+	sonic 196
+	idiom 4
+	3
+juicy
+	alter
+	sonic 196
+	chick 5
+	juicy 1
+	4
+larva
+	alter
+	viral 17
+	larva 1
+	3
+smirk
+	alter
+	crony 108
+	shrug 9
+	smirk 1
+	4
+creek
+	alter
+	pried 25
+	creek 2
+	3
+squad
+	alter
+	candy 110
+	vodka 3
+	squad 1
+	4
+swear
+	alter
+	spear 7
+	swear 3
+	3
+madly
+	alter
+	sally 60
+	madly 6
+	3
+rhyme
+	alter
+	prose 100
+	verge 13
+	rhyme 2
+	4
+soapy
+	alter
+	candy 110
+	soapy 3
+	3
+verge
+	alter
+	prose 100
+	verge 13
+	3
+smote
+	alter
+	heist 55
+	stove 4
+	smote 1
+	4
+mucky
+	alter
+	sonic 196
+	mucky 4
+	3
+sneer
+	alter
+	riser 73
+	sewer 8
+	sneer 2
+	4
+spunk
+	alter
+	sonic 196
+	spunk 4
+	3
+digit
+	alter
+	shout 107
+	digit 2
+	3
+shire
+	alter
+	prose 100
+	surge 3
+	shire 1
+	4
+gaily
+	alter
+	sally 60
+	madly 6
+	gaily 2
+	4
+stock
+	alter
+	shout 107
+	stoop 7
+	stock 3
+	4
+halve
+	alter
+	scale 33
+	halve 3
+	3
+favor
+	alter
+	vicar 16
+	favor 2
+	3
+valor
+	alter
+	polar 6
+	valor 1
+	3
+timid
+	alter
+	shout 107
+	timid 4
+	3
+bezel
+	alter
+	bevel 23
+	bezel 1
+	3
+mealy
+	alter
+	scale 33
+	mealy 1
+	3
+ultra
+	alter
+	ultra 1
+	2
+shade
+	alter
+	shame 63
+	shade 4
+	3
+flack
+	alter
+	slack 30
+	clack 3
+	flack 2
+	4
+maker
+	alter
+	wager 17
+	parer 10
+	maker 4
+	4
+micro
+	alter
+	crony 108
+	micro 2
+	3
+claim
+	alter
+	slack 30
+	claim 3
+	3
+rusty
+	alter
+	trout 63
+	rusty 1
+	3
+ruler
+	alter
+	liver 10
+	ruler 1
+	3
+begun
+	alter
+	noise 135
+	wench 5
+	begun 1
+	4
+usher
+	alter
+	riser 73
+	sewer 8
+	usher 1
+	4
+bloke
+	alter
+	close 25
+	globe 4
+	bloke 1
+	4
+plank
+	alter
+	slack 30
+	plank 3
+	3
+plier
+	alter
+	flier 7
+	plier 1
+	3
+build
+	alter
+	silly 84
+	build 4
+	3
+spree
+	alter
+	pried 25
+	spree 2
+	3
+denim
+	alter
+	noise 135
+	denim 4
+	3
+dairy
+	alter
+	chard 89
+	dairy 1
+	3
+split
+	alter
+	guilt 17
+	split 3
+	3
+ratty
+	alter
+	ratty 2
+	2
+bough
+	alter
+	sonic 196
+	goody 16
+	bough 1
+	4
+reedy
+	alter
+	prose 100
+	berry 15
+	reedy 1
+	4
+condo
+	alter
+	sonic 196
+	conch 2
+	condo 1
+	4
+cyber
+	alter
+	riser 73
+	cower 30
+	cyber 2
+	4
+canon
+	alter
+	candy 110
+	canon 1
+	3
+slack
+	alter
+	slack 30
+	2
+sweat
+	alter
+	skate 34
+	steam 3
+	sweat 1
+	4
+wheat
+	alter
+	skate 34
+	wheat 3
+	3
+dingo
+	alter
+	sonic 196
+	dingo 2
+	3
+orbit
+	alter
+	trout 63
+	orbit 1
+	3
+taffy
+	alter
+	taint 56
+	taffy 4
+	3
+chase
+	alter
+	shame 63
+	chase 2
+	3
+basin
+	alter
+	candy 110
+	mason 6
+	basin 1
+	4
+trout
+	alter
+	trout 63
+	2
+caddy
+	alter
+	candy 110
+	caddy 1
+	3
+ebony
+	alter
+	noise 135
+	envoy 6
+	ebony 1
+	4
+leafy
+	alter
+	scale 33
+	leafy 3
+	3
+tenet
+	alter
+	unset 20
+	tenet 1
+	3
+theft
+	alter
+	heist 55
+	theft 1
+	3
+daddy
+	alter
+	candy 110
+	daddy 4
+	3
+truer
+	alter
+	truer 8
+	2
+fugue
+	alter
+	noise 135
+	fugue 9
+	3
+pinky
+	alter
+	sonic 196
+	pinky 6
+	3
+crier
+	alter
+	riser 73
+	crier 2
+	3
+jazzy
+	alter
+	candy 110
+	gassy 10
+	jazzy 3
+	4
+chord
+	alter
+	crony 108
+	chord 1
+	3
+match
+	alter
+	catty 17
+	match 5
+	3
+splat
+	alter
+	tally 14
+	splat 1
+	3
+incur
+	alter
+	rigor 15
+	incur 1
+	3
+crass
+	alter
+	chard 89
+	crank 5
+	crass 3
+	4
+bayou
+	alter
+	candy 110
+	kayak 2
+	bayou 1
+	4
+crude
+	alter
+	prose 100
+	crude 9
+	3
+cloud
+	alter
+	slunk 52
+	cloud 1
+	3
+later
+	alter
+	later 1
+	2
+bully
+	alter
+	silly 84
+	golly 9
+	bully 3
+	4
+risky
+	alter
+	crony 108
+	furry 6
+	risky 1
+	4
+panic
+	alter
+	candy 110
+	panic 2
+	3
+vital
+	alter
+	latch 6
+	vital 2
+	3
+hoard
+	alter
+	chard 89
+	hoard 1
+	3
+phony
+	alter
+	sonic 196
+	phony 2
+	3
+taker
+	alter
+	taker 3
+	2
+lanky
+	alter
+	sally 60
+	lanky 1
+	3
+goose
+	alter
+	noise 135
+	moose 6
+	goose 1
+	4
+brain
+	alter
+	chard 89
+	brain 11
+	3
+derby
+	alter
+	prose 100
+	berry 15
+	derby 1
+	4
+shush
+	alter
+	sonic 196
+	shush 1
+	3
+livid
+	alter
+	silly 84
+	vigil 6
+	livid 1
+	4
+flown
+	alter
+	slunk 52
+	flown 3
+	3
+pound
+	alter
+	sonic 196
+	pound 8
+	3
+sadly
+	alter
+	sally 60
+	sadly 1
+	3
+duvet
+	alter
+	unset 20
+	quiet 2
+	duvet 1
+	4
+joker
+	alter
+	riser 73
+	cower 30
+	mover 8
+	joker 5
+	5
+brace
+	alter
+	brace 45
+	2
+extra
+	alter
+	extra 1
+	2
+trawl
+	alter
+	trawl 3
+	2
+truce
+	alter
+	trice 31
+	truce 1
+	3
+stone
+	alter
+	heist 55
+	stove 4
+	stone 2
+	4
+broil
+	alter
+	drill 22
+	broil 1
+	3
+lance
+	alter
+	scale 33
+	lance 1
+	3
+lucid
+	alter
+	silly 84
+	lucid 4
+	3
+renal
+	alter
+	regal 10
+	renal 1
+	3
+coupe
+	alter
+	noise 135
+	vogue 5
+	coupe 1
+	4
+imbue
+	alter
+	noise 135
+	imbue 5
+	3
+qualm
+	alter
+	sally 60
+	koala 5
+	qualm 1
+	4
+junta
+	alter
+	taint 56
+	junta 1
+	3
+stair
+	alter
+	stair 2
+	2
+hater
+	alter
+	hater 4
+	2
+flute
+	alter
+	cleft 5
+	flute 1
+	3
+fault
+	alter
+	tally 14
+	fault 2
+	3
+wordy
+	alter
+	crony 108
+	wordy 5
+	3
+fishy
+	alter
+	sonic 196
+	gipsy 5
+	fishy 1
+	4
+belly
+	alter
+	belle 51
+	belly 1
+	3
+graph
+	alter
+	chard 89
+	graph 2
+	3
+gumbo
+	alter
+	sonic 196
+	gumbo 4
+	3
+glyph
+	alter
+	slunk 52
+	blimp 8
+	glyph 1
+	4
+havoc
+	alter
+	candy 110
+	macho 5
+	havoc 1
+	4
+gusto
+	alter
+	shout 107
+	gusto 1
+	3
+defer
+	alter
+	riser 73
+	power 30
+	defer 10
+	4
+widow
+	alter
+	sonic 196
+	idiom 4
+	widow 1
+	4
+debug
+	alter
+	noise 135
+	debug 6
+	3
+eater
+	alter
+	hater 4
+	eater 3
+	3
+stark
+	alter
+	tract 27
+	stark 1
+	3
+tangy
+	alter
+	taint 56
+	tangy 2
+	3
+taper
+	alter
+	taker 3
+	taper 2
+	3
+bluff
+	alter
+	slunk 52
+	bluff 6
+	3
+jiffy
+	alter
+	sonic 196
+	whiff 9
+	jiffy 1
+	4
+shrug
+	alter
+	crony 108
+	shrug 9
+	3
+motto
+	alter
+	ditto 22
+	motto 1
+	3
+whisk
+	alter
+	sonic 196
+	gipsy 5
+	whisk 1
+	4
+devil
+	alter
+	belle 51
+	leggy 3
+	devil 1
+	4
+silly
+	alter
+	silly 84
+	2
+kneed
+	alter
+	widen 40
+	kneed 2
+	3
+berry
+	alter
+	prose 100
+	berry 15
+	3
+diary
+	alter
+	chard 89
+	diary 2
+	3
+whiff
+	alter
+	sonic 196
+	whiff 9
+	3
+trait
+	alter
+	tract 27
+	trait 1
+	3
+visit
+	alter
+	shout 107
+	visit 3
+	3
+tawny
+	alter
+	taint 56
+	tawny 1
+	3
+judge
+	alter
+	noise 135
+	fugue 9
+	judge 2
+	4
+fjord
+	alter
+	crony 108
+	fjord 2
+	3
+frank
+	alter
+	chard 89
+	brain 11
+	frank 2
+	4
+hyper
+	alter
+	riser 73
+	cower 30
+	under 10
+	ember 3
+	hyper 1
+	6
+snowy
+	alter
+	sonic 196
+	snowy 5
+	3
+joint
+	alter
+	shout 107
+	point 7
+	joint 1
+	4
+balmy
+	alter
+	sally 60
+	balmy 1
+	3
+sulky
+	alter
+	silly 84
+	sulky 1
+	3
+world
+	alter
+	drill 22
+	world 1
+	3
+perch
+	alter
+	prose 100
+	perch 2
+	3
+annex
+	alter
+	annex 5
+	2
+ditch
+	alter
+	ditto 22
+	ditch 1
+	3
+clink
+	alter
+	slunk 52
+	clink 2
+	3
+whose
+	alter
+	noise 135
+	whose 3
+	3
+owing
+	alter
+	sonic 196
+	owing 4
+	3
+using
+	alter
+	sonic 196
+	using 1
+	3
+otter
+	alter
+	enter 9
+	otter 4
+	3
+omega
+	alter
+	shame 63
+	media 3
+	omega 1
+	4
+spoon
+	alter
+	sonic 196
+	snowy 5
+	spoon 1
+	4
+mushy
+	alter
+	sonic 196
+	mushy 10
+	3
+bevel
+	alter
+	bevel 23
+	2
+among
+	alter
+	again 20
+	among 1
+	3
+venue
+	alter
+	noise 135
+	pence 7
+	venue 1
+	4
+heron
+	alter
+	prose 100
+	heron 1
+	3
+mover
+	alter
+	riser 73
+	cower 30
+	mover 8
+	4
+field
+	alter
+	belle 51
+	field 5
+	3
+dowdy
+	alter
+	sonic 196
+	goody 16
+	dowdy 2
+	4
+weird
+	alter
+	prose 100
+	berry 15
+	weird 1
+	4
+wooly
+	alter
+	silly 84
+	nobly 5
+	wooly 3
+	4
+acrid
+	alter
+	adorn 11
+	acrid 1
+	3
+enjoy
+	alter
+	noise 135
+	envoy 6
+	enjoy 1
+	4
+torch
+	alter
+	trout 63
+	throb 4
+	torch 1
+	4
+tonal
+	alter
+	tally 14
+	tidal 3
+	tonal 2
+	4
+tepee
+	alter
+	unset 20
+	tepee 3
+	3
+suing
+	alter
+	sonic 196
+	suing 5
+	3
+bleat
+	alter
+	pleat 6
+	bleat 2
+	3
+quite
+	alter
+	heist 55
+	twine 4
+	quite 1
+	4
+lobby
+	alter
+	silly 84
+	lumpy 4
+	lobby 1
+	4
+waive
+	alter
+	shame 63
+	vague 9
+	waive 2
+	4
+photo
+	alter
+	shout 107
+	photo 2
+	3
+flock
+	alter
+	slunk 52
+	clock 5
+	flock 2
+	4
+blast
+	alter
+	blast 7
+	2
+caulk
+	alter
+	sally 60
+	caulk 1
+	3
+beset
+	alter
+	unset 20
+	beset 1
+	3
+liner
+	alter
+	liver 10
+	liner 1
+	3
+amass
+	alter
+	again 20
+	amass 3
+	3
+trail
+	alter
+	trawl 3
+	trail 1
+	3
+frill
+	alter
+	drill 22
+	grill 3
+	frill 2
+	4
+irate
+	alter
+	trace 14
+	irate 2
+	3
+swill
+	alter
+	silly 84
+	swill 3
+	3
+chock
+	alter
+	sonic 196
+	chock 1
+	3
+fatty
+	alter
+	catty 17
+	fatty 4
+	3
+giver
+	alter
+	riser 73
+	diner 12
+	viper 5
+	giver 1
+	5
+rumor
+	alter
+	rigor 15
+	rumor 1
+	3
+brief
+	alter
+	pried 25
+	brief 2
+	3
+droop
+	alter
+	crony 108
+	droop 10
+	3
+stump
+	alter
+	shout 107
+	stunk 6
+	stump 3
+	4
+queer
+	alter
+	riser 73
+	cower 30
+	under 10
+	queer 2
+	5
+black
+	alter
+	slack 30
+	clack 3
+	flack 2
+	black 1
+	5
+bribe
+	alter
+	prose 100
+	crude 9
+	bribe 3
+	4
+climb
+	alter
+	slunk 52
+	blimp 8
+	climb 1
+	4
+bacon
+	alter
+	candy 110
+	bacon 1
+	3
+cargo
+	alter
+	chard 89
+	cargo 3
+	3
+whoop
+	alter
+	sonic 196
+	gumbo 4
+	whoop 1
+	4
+rotor
+	alter
+	rotor 3
+	2
+flick
+	alter
+	slunk 52
+	clock 5
+	flick 1
+	4
+quell
+	alter
+	belle 51
+	swell 6
+	quell 1
+	4
+chunk
+	alter
+	sonic 196
+	chunk 1
+	3
+bugle
+	alter
+	belle 51
+	bugle 3
+	3
+cloak
+	alter
+	slack 30
+	cloak 1
+	3
+giddy
+	alter
+	sonic 196
+	whiff 9
+	biddy 4
+	giddy 1
+	5
+march
+	alter
+	chard 89
+	march 2
+	3
+finer
+	alter
+	riser 73
+	diner 12
+	finer 2
+	4
+pesky
+	alter
+	noise 135
+	pesky 3
+	3
+award
+	alter
+	adorn 11
+	award 1
+	3
+skiff
+	alter
+	sonic 196
+	spiky 6
+	skiff 1
+	4
+scoop
+	alter
+	sonic 196
+	scoop 4
+	3
+spoof
+	alter
+	sonic 196
+	spook 6
+	spoof 1
+	4
+awoke
+	alter
+	abode 17
+	awoke 1
+	3
+anime
+	alter
+	abode 17
+	amuse 5
+	anime 1
+	4
+frown
+	alter
+	crony 108
+	frown 5
+	3
+mamma
+	alter
+	candy 110
+	mamma 8
+	3
+tempo
+	alter
+	heist 55
+	tempo 2
+	3
+skirt
+	alter
+	trout 63
+	skirt 4
+	3
+weave
+	alter
+	shame 63
+	knave 6
+	weave 1
+	4
+rodeo
+	alter
+	pried 25
+	rodeo 1
+	3
+bushy
+	alter
+	sonic 196
+	mushy 10
+	bushy 2
+	4
+young
+	alter
+	sonic 196
+	pound 8
+	young 1
+	4
+worth
+	alter
+	trout 63
+	worth 4
+	3
+bagel
+	alter
+	laden 10
+	bagel 5
+	3
+giant
+	alter
+	taint 56
+	giant 1
+	3
+third
+	alter
+	trout 63
+	third 1
+	3
+motel
+	alter
+	motel 3
+	2
+child
+	alter
+	silly 84
+	build 4
+	child 1
+	4
+stork
+	alter
+	trout 63
+	storm 3
+	stork 2
+	4
+deity
+	alter
+	heist 55
+	deity 1
+	3
+leash
+	alter
+	scale 33
+	leash 1
+	3
+filer
+	alter
+	liver 10
+	filer 1
+	3
+savor
+	alter
+	vicar 16
+	favor 2
+	savor 1
+	4
+youth
+	alter
+	shout 107
+	youth 4
+	3
+shaft
+	alter
+	taint 56
+	coast 4
+	shaft 1
+	4
+utile
+	alter
+	style 11
+	utile 1
+	3
+woody
+	alter
+	sonic 196
+	goody 16
+	woody 2
+	4
+attic
+	alter
+	attic 2
+	2
+fresh
+	alter
+	prose 100
+	cress 3
+	fresh 1
+	4
+often
+	alter
+	often 3
+	2
+stiff
+	alter
+	shout 107
+	stink 5
+	stiff 1
+	4
+drama
+	alter
+	chard 89
+	drawn 4
+	drama 1
+	4
+polar
+	alter
+	polar 6
+	2
+candy
+	alter
+	candy 110
+	2
+alter
+	alter
+	-1
+rouse
+	alter
+	prose 100
+	worse 3
+	rouse 1
+	4
+sloop
+	alter
+	slunk 52
+	sloop 4
+	3
+proud
+	alter
+	crony 108
+	droop 10
+	proud 1
+	4
+crush
+	alter
+	crony 108
+	crimp 6
+	crush 1
+	4
+winch
+	alter
+	sonic 196
+	winch 4
+	3
+sweet
+	alter
+	unset 20
+	sweet 2
+	3
+askew
+	alter
+	annex 5
+	askew 2
+	3
+small
+	alter
+	sally 60
+	small 2
+	3
+tract
+	alter
+	tract 27
+	2
+fussy
+	alter
+	sonic 196
+	mushy 10
+	fussy 2
+	4
+thick
+	alter
+	shout 107
+	thing 4
+	thick 1
+	4
+exert
+	alter
+	trice 31
+	exert 5
+	3
+watch
+	alter
+	catty 17
+	match 5
+	watch 4
+	4
+inert
+	alter
+	trice 31
+	remit 4
+	inert 1
+	4
+melee
+	alter
+	bevel 23
+	melee 1
+	3
+latch
+	alter
+	latch 6
+	2
+bitty
+	alter
+	ditto 22
+	bitty 3
+	3
+snake
+	alter
+	shame 63
+	spade 4
+	snake 2
+	4
+rebar
+	alter
+	spear 7
+	rebar 3
+	3
+title
+	alter
+	title 3
+	2
+admit
+	alter
+	adopt 12
+	admit 1
+	3
+shorn
+	alter
+	crony 108
+	shorn 2
+	3
+groan
+	alter
+	chard 89
+	baron 14
+	groan 2
+	4
+doing
+	alter
+	sonic 196
+	doing 2
+	3
+sorry
+	alter
+	crony 108
+	wordy 5
+	sorry 1
+	4
+labor
+	alter
+	polar 6
+	labor 1
+	3
+rebus
+	alter
+	prose 100
+	serum 4
+	rebus 1
+	4
+tramp
+	alter
+	tract 27
+	tramp 3
+	3
+abbey
+	alter
+	annex 5
+	askew 2
+	abbey 1
+	4
+forte
+	alter
+	trice 31
+	forte 3
+	3
+neigh
+	alter
+	noise 135
+	neigh 1
+	3
+abhor
+	alter
+	abhor 5
+	2
+twine
+	alter
+	heist 55
+	twine 4
+	3
+angel
+	alter
+	angel 2
+	2
+elect
+	alter
+	cleft 5
+	elect 1
+	3
+alley
+	alter
+	alley 2
+	2
+metal
+	alter
+	metal 5
+	2
+agate
+	alter
+	agate 6
+	2
+spiny
+	alter
+	sonic 196
+	suing 5
+	spiny 2
+	4
+dress
+	alter
+	prose 100
+	dress 3
+	3
+aback
+	alter
+	again 20
+	amass 3
+	aback 1
+	4
+mania
+	alter
+	candy 110
+	manga 4
+	mania 1
+	4
+minty
+	alter
+	shout 107
+	timid 4
+	minty 1
+	4
+mogul
+	alter
+	silly 84
+	mogul 3
+	3
+swoon
+	alter
+	sonic 196
+	snowy 5
+	swoon 1
+	4
+heath
+	alter
+	skate 34
+	heath 3
+	3
+badge
+	alter
+	shame 63
+	vague 9
+	badge 2
+	4
+drank
+	alter
+	chard 89
+	drawn 4
+	drank 1
+	4
+spiel
+	alter
+	bevel 23
+	impel 5
+	spiel 2
+	4
+lumpy
+	alter
+	silly 84
+	lumpy 4
+	3
+aroma
+	alter
+	adorn 11
+	aroma 1
+	3
+elate
+	alter
+	pleat 6
+	elate 2
+	3
+artsy
+	alter
+	artsy 1
+	2
+laugh
+	alter
+	sally 60
+	canal 7
+	laugh 1
+	4
+blitz
+	alter
+	flint 8
+	blitz 1
+	3
+guide
+	alter
+	noise 135
+	guide 4
+	3
+prawn
+	alter
+	chard 89
+	brain 11
+	prawn 1
+	4
+bland
+	alter
+	slack 30
+	plain 7
+	bland 2
+	4
+jaunt
+	alter
+	taint 56
+	jaunt 5
+	3
+bobby
+	alter
+	sonic 196
+	goody 16
+	bobby 3
+	4
+saner
+	alter
+	wager 17
+	parer 10
+	maker 4
+	saner 2
+	5
+scale
+	alter
+	scale 33
+	2
+sport
+	alter
+	trout 63
+	sport 4
+	3
+bluer
+	alter
+	flier 7
+	bluer 4
+	3
+gauge
+	alter
+	shame 63
+	vague 9
+	gauge 2
+	4
+cigar
+	alter
+	vicar 16
+	cigar 1
+	3
+edict
+	alter
+	heist 55
+	edict 2
+	3
+ralph
+	alter
+	viral 17
+	ralph 2
+	3
+worse
+	alter
+	prose 100
+	worse 3
+	3
+gland
+	alter
+	slack 30
+	plain 7
+	bland 2
+	gland 1
+	5
+boule
+	alter
+	belle 51
+	bugle 3
+	boule 1
+	4
+ninja
+	alter
+	candy 110
+	ninja 1
+	3
+grasp
+	alter
+	chard 89
+	brain 11
+	grasp 3
+	4
+creed
+	alter
+	pried 25
+	creed 4
+	3
+river
+	alter
+	riser 73
+	river 3
+	3
+salvo
+	alter
+	sally 60
+	salvo 4
+	3
+olden
+	alter
+	sleep 7
+	olden 2
+	3
+abuse
+	alter
+	abode 17
+	abuse 2
+	3
+draft
+	alter
+	tract 27
+	draft 3
+	3
+sperm
+	alter
+	prose 100
+	sperm 1
+	3
+raven
+	alter
+	raven 3
+	2
+learn
+	alter
+	regal 10
+	learn 1
+	3
+proof
+	alter
+	crony 108
+	droop 10
+	proof 1
+	4
+riper
+	alter
+	riser 73
+	river 3
+	riper 2
+	4
+guess
+	alter
+	noise 135
+	guess 2
+	3
+write
+	alter
+	trice 31
+	write 1
+	3
+quoth
+	alter
+	shout 107
+	quoth 1
+	3
+pique
+	alter
+	noise 135
+	imbue 5
+	pique 1
+	4
+slimy
+	alter
+	slunk 52
+	sloop 4
+	slimy 2
+	4
+joust
+	alter
+	shout 107
+	joust 1
+	3
+early
+	alter
+	regal 10
+	early 1
+	3
+gamut
+	alter
+	taint 56
+	gamut 3
+	3
+depot
+	alter
+	heist 55
+	depot 2
+	3
+hymen
+	alter
+	widen 40
+	semen 6
+	hymen 1
+	4
+nobly
+	alter
+	silly 84
+	wooly 5
+	nobly 3
+	4
+press
+	alter
+	prose 100
+	press 1
+	3
+plaza
+	alter
+	slack 30
+	plain 7
+	plaza 1
+	4
+probe
+	alter
+	prose 100
+	probe 3
+	3
+plait
+	alter
+	blast 7
+	plait 2
+	3
+broke
+	alter
+	prose 100
+	drone 7
+	broke 3
+	4
+twice
+	alter
+	heist 55
+	twine 4
+	twice 1
+	4
+gaudy
+	alter
+	candy 110
+	daddy 4
+	gaudy 2
+	4
+moody
+	alter
+	sonic 196
+	goody 16
+	woody 2
+	moody 1
+	5
+prune
+	alter
+	prose 100
+	pride 6
+	prune 1
+	4
+vault
+	alter
+	tally 14
+	fault 2
+	vault 1
+	4
+gipsy
+	alter
+	sonic 196
+	gipsy 5
+	3
+older
+	alter
+	flier 7
+	bluer 4
+	older 2
+	4
+chest
+	alter
+	heist 55
+	chest 1
+	3
+crumb
+	alter
+	crony 108
+	crump 6
+	crumb 1
+	4
+macho
+	alter
+	candy 110
+	macho 5
+	3
+stale
+	alter
+	least 10
+	stale 1
+	3
+sworn
+	alter
+	crony 108
+	shorn 2
+	sworn 1
+	4
+minus
+	alter
+	sonic 196
+	minus 1
+	3
+duchy
+	alter
+	sonic 196
+	mucky 4
+	duchy 1
+	4
+fleet
+	alter
+	fleet 2
+	2
+stall
+	alter
+	tally 14
+	stall 1
+	3
+boost
+	alter
+	shout 107
+	boost 1
+	3
+three
+	alter
+	egret 8
+	three 1
+	3
+wrath
+	alter
+	tract 27
+	wrath 1
+	3
+naive
+	alter
+	shame 63
+	vague 9
+	waive 2
+	naive 1
+	5
+piety
+	alter
+	heist 55
+	piety 1
+	3
+humus
+	alter
+	sonic 196
+	mushy 10
+	humus 1
+	4
+shyly
+	alter
+	silly 84
+	shyly 1
+	3
+erect
+	alter
+	trice 31
+	erect 1
+	3
+dozen
+	alter
+	widen 40
+	dozen 1
+	3
+noble
+	alter
+	belle 51
+	noble 1
+	3
+reign
+	alter
+	prose 100
+	berry 15
+	reign 1
+	4
+craft
+	alter
+	tract 27
+	craft 1
+	3
+swept
+	alter
+	heist 55
+	swept 3
+	3
+patch
+	alter
+	catty 17
+	match 5
+	watch 4
+	patch 3
+	5
+pivot
+	alter
+	shout 107
+	point 7
+	pivot 1
+	4
+botch
+	alter
+	ditto 22
+	botch 2
+	3
+stole
+	alter
+	style 11
+	stole 1
+	3
+siege
+	alter
+	noise 135
+	siege 3
+	3
+slung
+	alter
+	slunk 52
+	slung 1
+	3
+knave
+	alter
+	shame 63
+	knave 6
+	3
+undue
+	alter
+	noise 135
+	pence 7
+	undue 1
+	4
+grand
+	alter
+	chard 89
+	brand 4
+	grand 1
+	4
+unfit
+	alter
+	shout 107
+	unfit 1
+	3
+amend
+	alter
+	abode 17
+	amend 2
+	3
+entry
+	alter
+	metro 5
+	entry 1
+	3
+elide
+	alter
+	close 25
+	flume 6
+	elide 2
+	4
+belie
+	alter
+	belle 51
+	belie 1
+	3
+amuse
+	alter
+	abode 17
+	amuse 5
+	3
+goner
+	alter
+	riser 73
+	cower 30
+	mover 8
+	joker 5
+	goner 3
+	6
+stool
+	alter
+	guilt 17
+	stool 2
+	3
+wench
+	alter
+	noise 135
+	wench 5
+	3
+milky
+	alter
+	silly 84
+	filmy 2
+	milky 1
+	4
+siren
+	alter
+	pried 25
+	siren 2
+	3
+stuff
+	alter
+	shout 107
+	stunk 6
+	stump 3
+	stuff 2
+	5
+braid
+	alter
+	chard 89
+	brand 4
+	braid 1
+	4
+scant
+	alter
+	taint 56
+	scant 2
+	3
+forge
+	alter
+	prose 100
+	forge 8
+	3
+fruit
+	alter
+	trout 63
+	grunt 4
+	fruit 2
+	4
+stunk
+	alter
+	shout 107
+	stunk 6
+	3
+blurt
+	alter
+	blurt 2
+	2
+basis
+	alter
+	candy 110
+	mamma 8
+	basis 1
+	4
+nomad
+	alter
+	candy 110
+	nomad 1
+	3
+poppy
+	alter
+	sonic 196
+	goody 16
+	bobby 3
+	poppy 1
+	5
+cubic
+	alter
+	sonic 196
+	cubic 4
+	3
+envoy
+	alter
+	noise 135
+	envoy 6
+	3
+groin
+	alter
+	crony 108
+	frown 5
+	groin 1
+	4
+slide
+	alter
+	close 25
+	slide 2
+	3
+flood
+	alter
+	slunk 52
+	blimp 8
+	flood 1
+	4
+brush
+	alter
+	crony 108
+	brisk 6
+	brush 1
+	4
+mayor
+	alter
+	vicar 16
+	mayor 4
+	3
+sonar
+	alter
+	vicar 16
+	sonar 3
+	3
+slick
+	alter
+	slunk 52
+	slick 1
+	3
+navel
+	alter
+	laden 10
+	navel 2
+	3
+trace
+	alter
+	trace 14
+	2
+chuck
+	alter
+	sonic 196
+	mucky 4
+	chuck 1
+	4
+donor
+	alter
+	rigor 15
+	humor 3
+	donor 1
+	4
+shone
+	alter
+	noise 135
+	shone 2
+	3
+which
+	alter
+	sonic 196
+	chick 5
+	which 1
+	4
+bring
+	alter
+	crony 108
+	bring 7
+	3
+tonic
+	alter
+	shout 107
+	pinto 6
+	tonic 1
+	4
+alarm
+	alter
+	alarm 1
+	2
+missy
+	alter
+	sonic 196
+	gipsy 5
+	missy 1
+	4
+inter
+	alter
+	enter 9
+	inter 1
+	3
+saint
+	alter
+	taint 56
+	saint 3
+	3
+noose
+	alter
+	noise 135
+	noose 1
+	3
+sieve
+	alter
+	noise 135
+	siege 3
+	sieve 1
+	4
+snack
+	alter
+	candy 110
+	snack 2
+	3
+tiara
+	alter
+	tract 27
+	tiara 1
+	3
+brute
+	alter
+	trice 31
+	brute 2
+	3
+brass
+	alter
+	chard 89
+	brain 11
+	brass 2
+	4
+gummy
+	alter
+	sonic 196
+	dumpy 15
+	gummy 2
+	4
+fatal
+	alter
+	latch 6
+	fatal 2
+	3
+papal
+	alter
+	sally 60
+	canal 7
+	papal 1
+	4
+feast
+	alter
+	skate 34
+	feast 3
+	3
+lumen
+	alter
+	bevel 23
+	liken 4
+	lumen 1
+	4
+found
+	alter
+	sonic 196
+	pound 8
+	found 5
+	4
+dingy
+	alter
+	sonic 196
+	pinky 6
+	dingy 3
+	4
+curio
+	alter
+	crony 108
+	curio 1
+	3
+total
+	alter
+	latch 6
+	vital 2
+	total 1
+	4
+truth
+	alter
+	trout 63
+	truth 1
+	3
+smelt
+	alter
+	style 11
+	smelt 2
+	3
+fling
+	alter
+	slunk 52
+	fling 4
+	3
+visor
+	alter
+	rigor 15
+	visor 2
+	3
+rover
+	alter
+	riser 73
+	rover 5
+	3
+amply
+	alter
+	anvil 9
+	amply 3
+	3
+bleed
+	alter
+	sleep 7
+	bleed 1
+	3
+flesh
+	alter
+	close 25
+	flesh 2
+	3
+scald
+	alter
+	sally 60
+	scald 2
+	3
+spilt
+	alter
+	guilt 17
+	spilt 2
+	3
+drawn
+	alter
+	chard 89
+	drawn 4
+	3
+order
+	alter
+	riser 73
+	order 5
+	3
+apron
+	alter
+	adorn 11
+	apron 2
+	3
+plain
+	alter
+	slack 30
+	plain 7
+	3
+shuck
+	alter
+	sonic 196
+	shuck 1
+	3
+vague
+	alter
+	shame 63
+	vague 9
+	3
+carve
+	alter
+	brace 45
+	carve 1
+	3
+actor
+	alter
+	actor 1
+	2
+lasso
+	alter
+	sally 60
+	basal 4
+	lasso 1
+	4
+lilac
+	alter
+	sally 60
+	lilac 1
+	3
+table
+	alter
+	least 10
+	table 1
+	3
+drink
+	alter
+	crony 108
+	bring 7
+	drink 1
+	4
+flair
+	alter
+	flair 1
+	2
+still
+	alter
+	guilt 17
+	still 1
+	3
+snuff
+	alter
+	sonic 196
+	spunk 4
+	snuff 1
+	4
+dicey
+	alter
+	widen 40
+	dicey 1
+	3
+queen
+	alter
+	widen 40
+	semen 6
+	queen 1
+	4
+acute
+	alter
+	agate 6
+	acute 1
+	3
+clear
+	alter
+	clear 1
+	2
+petal
+	alter
+	metal 5
+	petal 2
+	3
+clued
+	alter
+	sleep 7
+	olden 2
+	clued 1
+	4
+pence
+	alter
+	noise 135
+	pence 7
+	3
+issue
+	alter
+	noise 135
+	siege 3
+	issue 1
+	4
+tough
+	alter
+	shout 107
+	youth 4
+	tough 2
+	4
+villa
+	alter
+	sally 60
+	villa 1
+	3
+crave
+	alter
+	brace 45
+	crave 3
+	3
+scuba
+	alter
+	candy 110
+	scuba 8
+	3
+endow
+	alter
+	noise 135
+	envoy 6
+	endow 1
+	4
+smock
+	alter
+	sonic 196
+	scoop 4
+	smock 2
+	4
+altar
+	alter
+	altar 1
+	2
+overt
+	alter
+	trice 31
+	exert 5
+	overt 1
+	4
+snout
+	alter
+	shout 107
+	snout 4
+	3
+class
+	alter
+	slack 30
+	class 3
+	3
+leper
+	alter
+	liver 10
+	lower 3
+	leper 1
+	4
+burnt
+	alter
+	trout 63
+	burnt 3
+	3
+camel
+	alter
+	laden 10
+	bagel 5
+	hazel 3
+	camel 2
+	5
+wrong
+	alter
+	crony 108
+	wrong 3
+	3
+easel
+	alter
+	laden 10
+	bagel 5
+	hazel 3
+	camel 2
+	easel 1
+	6
+koala
+	alter
+	sally 60
+	koala 5
+	3
+shale
+	alter
+	scale 33
+	shale 1
+	3
+quote
+	alter
+	heist 55
+	quote 3
+	3
+elder
+	alter
+	flier 7
+	bluer 4
+	older 2
+	elder 1
+	5
+flash
+	alter
+	slack 30
+	flash 2
+	3
+yearn
+	alter
+	brace 45
+	ready 5
+	yearn 1
+	4
+unlit
+	alter
+	guilt 17
+	unlit 1
+	3
+donut
+	alter
+	shout 107
+	donut 1
+	3
+board
+	alter
+	chard 89
+	board 2
+	3
+virus
+	alter
+	crony 108
+	shrug 9
+	virus 1
+	4
+waxen
+	alter
+	oaken 6
+	waxen 2
+	3
+karma
+	alter
+	chard 89
+	baron 14
+	karma 2
+	4
+pixie
+	alter
+	noise 135
+	imbue 5
+	pixie 2
+	4
+tunic
+	alter
+	shout 107
+	tunic 2
+	3
+shear
+	alter
+	spear 7
+	swear 3
+	shear 2
+	4
+trunk
+	alter
+	trout 63
+	trunk 4
+	3
+taboo
+	alter
+	taint 56
+	taffy 4
+	taboo 1
+	4
+palsy
+	alter
+	sally 60
+	palsy 1
+	3
+cabby
+	alter
+	candy 110
+	cabby 1
+	3
+ensue
+	alter
+	noise 135
+	ensue 2
+	3
+fecal
+	alter
+	scale 33
+	decal 2
+	fecal 1
+	4
+bravo
+	alter
+	chard 89
+	brain 11
+	brass 2
+	bravo 1
+	5
+stein
+	alter
+	heist 55
+	stein 1
+	3
+eager
+	alter
+	wager 17
+	eager 1
+	3
+scold
+	alter
+	silly 84
+	scold 2
+	3
+evade
+	alter
+	shame 63
+	knave 6
+	evade 1
+	4
+bowel
+	alter
+	bevel 23
+	bowel 1
+	3
+husky
+	alter
+	sonic 196
+	mushy 10
+	husky 2
+	4
+plate
+	alter
+	pleat 6
+	plate 1
+	3
+dodge
+	alter
+	noise 135
+	vogue 5
+	dodge 1
+	4
+punch
+	alter
+	sonic 196
+	punch 4
+	3
+flask
+	alter
+	slack 30
+	flask 1
+	3
+unity
+	alter
+	shout 107
+	tunic 2
+	unity 1
+	4
+churn
+	alter
+	crony 108
+	churn 1
+	3
+magma
+	alter
+	candy 110
+	mamma 8
+	magma 1
+	4
+input
+	alter
+	shout 107
+	input 2
+	3
+tutor
+	alter
+	rotor 3
+	tutor 1
+	3
+stomp
+	alter
+	shout 107
+	stoop 7
+	stomp 1
+	4
+mason
+	alter
+	candy 110
+	mason 6
+	3
+wrote
+	alter
+	trice 31
+	brute 2
+	wrote 1
+	4
+abled
+	alter
+	angel 2
+	abled 1
+	3
+joist
+	alter
+	shout 107
+	joist 4
+	3
+funky
+	alter
+	sonic 196
+	funky 4
+	3
+spasm
+	alter
+	candy 110
+	smash 11
+	spasm 1
+	4
+tilde
+	alter
+	style 11
+	tilde 1
+	3
+short
+	alter
+	trout 63
+	sport 4
+	short 2
+	4
+tapir
+	alter
+	stair 2
+	tapir 1
+	3
+spout
+	alter
+	shout 107
+	snout 4
+	spout 3
+	4
+major
+	alter
+	vicar 16
+	mayor 4
+	major 2
+	4
+algae
+	alter
+	alive 4
+	algae 2
+	3
+anvil
+	alter
+	anvil 9
+	2
+froze
+	alter
+	prose 100
+	drone 7
+	broke 3
+	froze 2
+	5
+vigor
+	alter
+	rigor 15
+	vigor 1
+	3
+music
+	alter
+	sonic 196
+	music 1
+	3
+lurid
+	alter
+	drill 22
+	lurid 1
+	3
+birch
+	alter
+	crony 108
+	birch 3
+	3
+idler
+	alter
+	liver 10
+	idler 1
+	3
+nicer
+	alter
+	riser 73
+	diner 12
+	nicer 1
+	4
+shave
+	alter
+	shame 63
+	shade 4
+	shave 3
+	4
+scamp
+	alter
+	candy 110
+	scuba 8
+	scamp 1
+	4
+affix
+	alter
+	again 20
+	audio 4
+	affix 1
+	4
+media
+	alter
+	shame 63
+	media 3
+	3
+alert
+	alter
+	alert 1
+	2
+awash
+	alter
+	again 20
+	amass 3
+	awash 1
+	4
+abate
+	alter
+	agate 6
+	abate 1
+	3
+swoop
+	alter
+	sonic 196
+	spook 6
+	swoop 1
+	4
+slate
+	alter
+	pleat 6
+	elate 2
+	slate 1
+	4
+cluck
+	alter
+	slunk 52
+	cluck 2
+	3
+tight
+	alter
+	shout 107
+	tight 5
+	3
+flail
+	alter
+	slack 30
+	plain 7
+	flail 1
+	4
+horse
+	alter
+	prose 100
+	worse 3
+	horse 1
+	4
+salve
+	alter
+	scale 33
+	salve 1
+	3
+threw
+	alter
+	egret 8
+	threw 1
+	3
+rabbi
+	alter
+	chard 89
+	baron 14
+	rabbi 1
+	4
+fifty
+	alter
+	shout 107
+	timid 4
+	fifty 1
+	4
+month
+	alter
+	shout 107
+	month 1
+	3
+daunt
+	alter
+	taint 56
+	jaunt 5
+	daunt 4
+	4
+madam
+	alter
+	candy 110
+	madam 2
+	3
+union
+	alter
+	sonic 196
+	owing 4
+	union 1
+	4
+wafer
+	alter
+	wager 17
+	wafer 2
+	3
+cinch
+	alter
+	sonic 196
+	winch 4
+	cinch 3
+	4
+grown
+	alter
+	crony 108
+	frown 5
+	grown 3
+	4
+kiosk
+	alter
+	sonic 196
+	kiosk 1
+	3
+piece
+	alter
+	noise 135
+	imbue 5
+	pixie 2
+	piece 1
+	5
+tubal
+	alter
+	tally 14
+	tidal 3
+	tonal 2
+	tubal 1
+	5
+crest
+	alter
+	trice 31
+	crest 2
+	3
+thief
+	alter
+	unset 20
+	tepee 3
+	thief 1
+	4
+groom
+	alter
+	crony 108
+	droop 10
+	groom 3
+	4
+local
+	alter
+	sally 60
+	lilac 2
+	local 1
+	4
+lowly
+	alter
+	silly 84
+	lowly 1
+	3
+annoy
+	alter
+	again 20
+	annoy 1
+	3
+scare
+	alter
+	brace 45
+	scare 1
+	3
+blimp
+	alter
+	slunk 52
+	blimp 8
+	3
+spent
+	alter
+	heist 55
+	swept 3
+	spent 1
+	4
+leggy
+	alter
+	belle 51
+	lemon 3
+	leggy 1
+	4
+polka
+	alter
+	sally 60
+	polka 1
+	3
+biddy
+	alter
+	sonic 196
+	whiff 9
+	giddy 4
+	biddy 1
+	5
+latte
+	alter
+	metal 5
+	latte 2
+	3
+plaid
+	alter
+	slack 30
+	plain 7
+	plaid 1
+	4
+bound
+	alter
+	sonic 196
+	pound 8
+	found 5
+	bound 4
+	5
+hence
+	alter
+	noise 135
+	pence 7
+	hence 2
+	4
+prize
+	alter
+	prose 100
+	pride 6
+	prize 3
+	4
+plunk
+	alter
+	slunk 52
+	plunk 2
+	3
+arose
+	alter
+	arose 8
+	2
+furry
+	alter
+	crony 108
+	furry 6
+	3
+slosh
+	alter
+	slunk 52
+	sloop 4
+	slosh 1
+	4
+steam
+	alter
+	skate 34
+	steam 3
+	3
+every
+	alter
+	prose 100
+	berry 15
+	every 3
+	4
+sleet
+	alter
+	fleet 2
+	sleet 1
+	3
+topic
+	alter
+	shout 107
+	pinto 6
+	topic 1
+	4
+raspy
+	alter
+	chard 89
+	baron 14
+	raspy 1
+	4
+great
+	alter
+	trace 14
+	great 1
+	3
+paddy
+	alter
+	candy 110
+	daddy 4
+	paddy 1
+	4
+purse
+	alter
+	prose 100
+	purse 1
+	3
+regal
+	alter
+	regal 10
+	2
+fancy
+	alter
+	candy 110
+	fancy 1
+	3
+poser
+	alter
+	riser 73
+	poser 1
+	3
+macro
+	alter
+	chard 89
+	macro 1
+	3
+recap
+	alter
+	brace 45
+	recap 1
+	3
+thump
+	alter
+	shout 107
+	thump 2
+	3
+jolly
+	alter
+	silly 84
+	golly 9
+	jolly 4
+	4
+guppy
+	alter
+	sonic 196
+	dumpy 15
+	guppy 2
+	4
+repel
+	alter
+	repel 5
+	2
+canal
+	alter
+	sally 60
+	canal 7
+	3
+tense
+	alter
+	heist 55
+	tense 1
+	3
+radio
+	alter
+	chard 89
+	radio 3
+	3
+check
+	alter
+	noise 135
+	debug 6
+	check 1
+	4
+diode
+	alter
+	noise 135
+	diode 2
+	3
+flunk
+	alter
+	slunk 52
+	plunk 2
+	flunk 1
+	4
+dummy
+	alter
+	sonic 196
+	dumpy 15
+	dummy 1
+	4
+girly
+	alter
+	drill 22
+	girly 1
+	3
+creep
+	alter
+	pried 25
+	creep 1
+	3
+blend
+	alter
+	close 25
+	blend 3
+	3
+axial
+	alter
+	anvil 9
+	axial 1
+	3
+awake
+	alter
+	abode 17
+	amuse 5
+	awake 2
+	4
+story
+	alter
+	trout 63
+	storm 3
+	stork 2
+	story 1
+	5
+totem
+	alter
+	often 3
+	totem 1
+	3
+blank
+	alter
+	slack 30
+	plank 3
+	blank 2
+	4
+fairy
+	alter
+	chard 89
+	marry 4
+	fairy 1
+	4
+brake
+	alter
+	brace 45
+	brake 2
+	3
+harsh
+	alter
+	chard 89
+	harsh 4
+	3
+voter
+	alter
+	enter 9
+	otter 4
+	voter 1
+	4
+satyr
+	alter
+	satyr 1
+	2
+blunt
+	alter
+	flint 8
+	blunt 1
+	3
+there
+	alter
+	trice 31
+	there 2
+	3
+earth
+	alter
+	trace 14
+	earth 1
+	3
+knoll
+	alter
+	silly 84
+	knoll 1
+	3
+theme
+	alter
+	heist 55
+	theme 3
+	3
+tepid
+	alter
+	heist 55
+	tepid 1
+	3
+metro
+	alter
+	metro 5
+	2
+comma
+	alter
+	candy 110
+	comma 7
+	3
+piano
+	alter
+	candy 110
+	piano 7
+	3
+tribe
+	alter
+	trice 31
+	tribe 3
+	3
+saucy
+	alter
+	candy 110
+	wacky 2
+	saucy 1
+	4
+begat
+	alter
+	state 34
+	wheat 4
+	begat 1
+	4
+twixt
+	alter
+	shout 107
+	digit 2
+	twixt 1
+	4
+wharf
+	alter
+	chard 89
+	shark 3
+	wharf 1
+	4
+mocha
+	alter
+	candy 110
+	scuba 8
+	mocha 1
+	4
+spice
+	alter
+	noise 135
+	spice 3
+	3
+stood
+	alter
+	shout 107
+	stoop 7
+	stood 1
+	4
+exile
+	alter
+	belle 51
+	exile 1
+	3
+shape
+	alter
+	shame 63
+	shade 4
+	shave 3
+	shape 2
+	5
+spare
+	alter
+	brace 45
+	spare 3
+	3
+heavy
+	alter
+	shame 63
+	heady 4
+	heavy 1
+	4
+ninny
+	alter
+	sonic 196
+	pinky 6
+	dingy 3
+	ninny 1
+	5
+scout
+	alter
+	shout 107
+	snout 4
+	spout 3
+	scout 2
+	5
+etude
+	alter
+	heist 55
+	quote 3
+	etude 1
+	4
+ditto
+	alter
+	ditto 22
+	2
+optic
+	alter
+	ditto 22
+	optic 2
+	3
+built
+	alter
+	guilt 17
+	built 2
+	3
+chore
+	alter
+	prose 100
+	chore 1
+	3
+grail
+	alter
+	viral 17
+	grail 2
+	3
+tooth
+	alter
+	shout 107
+	tooth 2
+	3
+habit
+	alter
+	taint 56
+	habit 1
+	3
+heave
+	alter
+	shame 63
+	heave 1
+	3
+heart
+	alter
+	trace 14
+	heart 1
+	3
+cover
+	alter
+	riser 73
+	cower 30
+	cover 1
+	4
+image
+	alter
+	shame 63
+	image 1
+	3
+route
+	alter
+	trice 31
+	forte 3
+	route 1
+	4
+sonic
+	alter
+	sonic 196
+	2
+thing
+	alter
+	shout 107
+	thing 4
+	3
+meter
+	alter
+	enter 9
+	meter 2
+	3
+rider
+	alter
+	riser 73
+	river 3
+	riper 2
+	rider 1
+	5
+privy
+	alter
+	crony 108
+	grimy 2
+	privy 1
+	4
+hound
+	alter
+	sonic 196
+	pound 8
+	found 5
+	bound 4
+	hound 3
+	6
+shunt
+	alter
+	shout 107
+	shunt 1
+	3
+stilt
+	alter
+	split 17
+	stilt 1
+	3
+roost
+	alter
+	trout 63
+	sport 4
+	roost 1
+	4
+hinge
+	alter
+	noise 135
+	hinge 5
+	3
+arena
+	alter
+	arose 8
+	arena 1
+	3
+gazer
+	alter
+	wager 17
+	gazer 3
+	3
+nadir
+	alter
+	vicar 16
+	nadir 1
+	3
+rearm
+	alter
+	brace 45
+	ready 5
+	rearm 1
+	4
+house
+	alter
+	noise 135
+	moose 6
+	posse 3
+	house 1
+	5
+stray
+	alter
+	tract 27
+	party 5
+	stray 1
+	4
+trove
+	alter
+	trice 31
+	trove 2
+	3
+drawl
+	alter
+	viral 17
+	drawl 4
+	3
+paler
+	alter
+	lager 4
+	paler 2
+	3
+unwed
+	alter
+	widen 40
+	unwed 1
+	3
+payee
+	alter
+	oaken 6
+	payee 2
+	3
+bathe
+	alter
+	bathe 1
+	2
+circa
+	alter
+	chard 89
+	cargo 3
+	circa 1
+	4
+weedy
+	alter
+	noise 135
+	debug 6
+	weedy 1
+	4
+guest
+	alter
+	heist 55
+	guest 2
+	3
+pilot
+	alter
+	guilt 17
+	split 3
+	pilot 1
+	4
+fungi
+	alter
+	sonic 196
+	pinky 6
+	fungi 1
+	4
+lathe
+	alter
+	metal 5
+	latte 2
+	lathe 1
+	4
+molar
+	alter
+	polar 6
+	molar 2
+	3
+chide
+	alter
+	noise 135
+	guide 4
+	chide 1
+	4
+teeth
+	alter
+	heist 55
+	teeth 3
+	3
+prove
+	alter
+	prose 100
+	probe 3
+	prove 2
+	4
+sooth
+	alter
+	shout 107
+	sooth 1
+	3
+snaky
+	alter
+	candy 110
+	snaky 1
+	3
+stamp
+	alter
+	taint 56
+	stamp 6
+	3
+skate
+	alter
+	skate 34
+	2
+waltz
+	alter
+	tally 14
+	waltz 1
+	3
+brown
+	alter
+	crony 108
+	frown 5
+	grown 3
+	brown 2
+	5
+gloat
+	alter
+	blast 7
+	gloat 2
+	3
+wooer
+	alter
+	riser 73
+	cower 30
+	wooer 1
+	4
+smile
+	alter
+	belle 51
+	while 6
+	smile 2
+	4
+pride
+	alter
+	prose 100
+	pride 6
+	3
+teddy
+	alter
+	heist 55
+	tempo 2
+	teddy 1
+	4
+thorn
+	alter
+	trout 63
+	thorn 1
+	3
+brave
+	alter
+	brace 45
+	brake 2
+	brave 1
+	4
+rouge
+	alter
+	prose 100
+	forge 8
+	rouge 1
+	4
+fluff
+	alter
+	slunk 52
+	bluff 6
+	fluff 1
+	4
+after
+	alter
+	after 1
+	2
+dance
+	alter
+	shame 63
+	vague 9
+	dance 2
+	4
+cream
+	alter
+	brace 45
+	cream 2
+	3
+where
+	alter
+	prose 100
+	verge 13
+	where 1
+	4
+payer
+	alter
+	wager 17
+	parer 10
+	payer 2
+	4
+truss
+	alter
+	trout 63
+	trunk 4
+	truss 2
+	4
+grief
+	alter
+	pried 25
+	brief 2
+	grief 1
+	4
+bingo
+	alter
+	sonic 196
+	dingo 2
+	bingo 1
+	4
+foray
+	alter
+	chard 89
+	baron 14
+	foray 1
+	4
+pushy
+	alter
+	sonic 196
+	mushy 10
+	bushy 2
+	pushy 1
+	5
+prone
+	alter
+	prose 100
+	probe 3
+	prove 2
+	prone 1
+	5
+rally
+	alter
+	viral 17
+	ralph 2
+	rally 1
+	4
+eking
+	alter
+	noise 135
+	eking 5
+	3
+frost
+	alter
+	trout 63
+	frost 3
+	3
+usage
+	alter
+	shame 63
+	usage 2
+	3
+lousy
+	alter
+	silly 84
+	lousy 1
+	3
+scent
+	alter
+	heist 55
+	swept 3
+	scent 1
+	4
+vista
+	alter
+	taint 56
+	vista 2
+	3
+lupus
+	alter
+	silly 84
+	locus 2
+	lupus 1
+	4
+aider
+	alter
+	aider 3
+	2
+begin
+	alter
+	noise 135
+	denim 4
+	begin 1
+	4
+reuse
+	alter
+	prose 100
+	curse 5
+	reuse 1
+	4
+fetal
+	alter
+	metal 5
+	petal 2
+	fetal 1
+	4
+ardor
+	alter
+	abhor 5
+	ardor 2
+	3
+baron
+	alter
+	chard 89
+	baron 14
+	3
+bread
+	alter
+	brace 45
+	bread 2
+	3
+lower
+	alter
+	liver 10
+	lower 3
+	3
+freed
+	alter
+	pried 25
+	creed 4
+	freed 3
+	4
+tibia
+	alter
+	taint 56
+	tibia 1
+	3
+golem
+	alter
+	bevel 23
+	liken 4
+	golem 1
+	4
+pouch
+	alter
+	sonic 196
+	cough 6
+	pouch 2
+	4
+windy
+	alter
+	sonic 196
+	pinky 6
+	dingy 3
+	windy 1
+	5
+scaly
+	alter
+	sally 60
+	scaly 1
+	3
+blood
+	alter
+	slunk 52
+	blimp 8
+	blood 1
+	4
+ennui
+	alter
+	noise 135
+	denim 4
+	ennui 1
+	4
+muddy
+	alter
+	sonic 196
+	dumpy 15
+	muddy 1
+	4
+angle
+	alter
+	angle 7
+	2
+savvy
+	alter
+	candy 110
+	gassy 10
+	savoy 3
+	savvy 1
+	5
+inbox
+	alter
+	sonic 196
+	owing 4
+	inbox 1
+	4
+rumba
+	alter
+	chard 89
+	baron 14
+	rumba 1
+	4
+flume
+	alter
+	close 25
+	flume 6
+	3
+ozone
+	alter
+	noise 135
+	ozone 4
+	3
+glide
+	alter
+	close 25
+	flume 6
+	elide 2
+	glide 1
+	5
+augur
+	alter
+	abhor 5
+	augur 1
+	3
+glaze
+	alter
+	blade 15
+	flake 6
+	plane 4
+	glaze 2
+	5
+beast
+	alter
+	skate 34
+	feast 3
+	beast 2
+	4
+basal
+	alter
+	sally 60
+	basal 4
+	3
+pulse
+	alter
+	belle 51
+	pulse 2
+	3
+snuck
+	alter
+	sonic 196
+	snuck 1
+	3
+lapse
+	alter
+	scale 33
+	lapse 2
+	3
+purge
+	alter
+	prose 100
+	purge 1
+	3
+leave
+	alter
+	scale 33
+	leave 1
+	3
+fetid
+	alter
+	cutie 11
+	fetid 1
+	3
+ghoul
+	alter
+	silly 84
+	mogul 3
+	ghoul 1
+	4
+uncle
+	alter
+	belle 51
+	while 6
+	uncle 2
+	4
+exalt
+	alter
+	least 10
+	exalt 1
+	3
+brisk
+	alter
+	crony 108
+	brisk 6
+	3
+spurn
+	alter
+	crony 108
+	spurn 1
+	3
+width
+	alter
+	shout 107
+	width 4
+	3
+shaky
+	alter
+	candy 110
+	soapy 3
+	shaky 1
+	4
+pupal
+	alter
+	sally 60
+	focal 9
+	pupal 1
+	4
+sepia
+	alter
+	shame 63
+	sepia 4
+	3
+resin
+	alter
+	prose 100
+	serum 4
+	resin 1
+	4
+dream
+	alter
+	brace 45
+	dream 4
+	3
+flare
+	alter
+	flare 3
+	2
+hotel
+	alter
+	motel 3
+	hotel 1
+	3
+daily
+	alter
+	sally 60
+	madly 6
+	daily 1
+	4
+tacky
+	alter
+	taint 56
+	taffy 4
+	tacky 2
+	4
+quirk
+	alter
+	crony 108
+	shrug 9
+	quirk 1
+	4
+triad
+	alter
+	tract 27
+	triad 1
+	3
+color
+	alter
+	color 1
+	2
+horde
+	alter
+	prose 100
+	forge 8
+	horde 2
+	4
+crazy
+	alter
+	chard 89
+	crank 5
+	crass 3
+	crazy 2
+	5
+beech
+	alter
+	noise 135
+	debug 6
+	beech 2
+	4
+revue
+	alter
+	prose 100
+	verge 13
+	revue 1
+	4
+thank
+	alter
+	taint 56
+	thank 2
+	3
+droll
+	alter
+	drill 22
+	droll 1
+	3
+their
+	alter
+	their 2
+	2
+liege
+	alter
+	belle 51
+	liege 1
+	3
+baggy
+	alter
+	candy 110
+	gassy 10
+	baggy 1
+	4
+limit
+	alter
+	guilt 17
+	split 3
+	limit 1
+	4
+radar
+	alter
+	vicar 16
+	sonar 3
+	radar 1
+	4
+wince
+	alter
+	noise 135
+	hinge 5
+	wince 2
+	4
+waver
+	alter
+	wager 17
+	wafer 2
+	waver 1
+	4
+flung
+	alter
+	slunk 52
+	flung 2
+	3
+wield
+	alter
+	belle 51
+	field 5
+	wield 2
+	4
+index
+	alter
+	widen 40
+	index 1
+	3
+fiend
+	alter
+	noise 135
+	denim 4
+	fiend 1
+	4
+crone
+	alter
+	prose 100
+	drone 7
+	crone 1
+	4
+sleep
+	alter
+	sleep 7
+	2
+odder
+	alter
+	riser 73
+	cower 30
+	odder 2
+	4
+cagey
+	alter
+	oaken 6
+	payee 2
+	cagey 1
+	4
+avian
+	alter
+	again 20
+	avian 1
+	3
+spend
+	alter
+	noise 135
+	spend 1
+	3
+berth
+	alter
+	trice 31
+	exert 5
+	berth 1
+	4
+dusty
+	alter
+	shout 107
+	dusty 3
+	3
+ranch
+	alter
+	chard 89
+	march 2
+	ranch 1
+	4
+deign
+	alter
+	noise 135
+	eking 5
+	deign 2
+	4
+spire
+	alter
+	prose 100
+	spire 1
+	3
+pinto
+	alter
+	shout 107
+	pinto 6
+	3
+floss
+	alter
+	slunk 52
+	floss 3
+	3
+gulch
+	alter
+	silly 84
+	gulch 3
+	3
+pinch
+	alter
+	sonic 196
+	winch 4
+	cinch 3
+	pinch 2
+	5
+surly
+	alter
+	drill 22
+	surly 3
+	3
+bongo
+	alter
+	sonic 196
+	bongo 1
+	3
+marry
+	alter
+	chard 89
+	marry 4
+	3
+bleep
+	alter
+	sleep 7
+	bleep 1
+	3
+brash
+	alter
+	chard 89
+	graph 2
+	brash 1
+	4
+stash
+	alter
+	taint 56
+	stamp 6
+	stash 3
+	4
+sugar
+	alter
+	vicar 16
+	sonar 3
+	sugar 1
+	4
+bride
+	alter
+	prose 100
+	crude 9
+	bride 1
+	4
+needy
+	alter
+	noise 135
+	needy 1
+	3
+trope
+	alter
+	trice 31
+	trove 2
+	trope 1
+	4
+refer
+	alter
+	riser 73
+	rover 5
+	refer 2
+	4
+broth
+	alter
+	trout 63
+	broth 2
+	3
+olive
+	alter
+	close 25
+	olive 1
+	3
+strut
+	alter
+	trout 63
+	strut 1
+	3
+north
+	alter
+	trout 63
+	worth 4
+	north 2
+	4
+vapid
+	alter
+	candy 110
+	madam 2
+	vapid 1
+	4
+infer
+	alter
+	riser 73
+	infer 2
+	3
+ashen
+	alter
+	annex 5
+	ashen 1
+	3
+clasp
+	alter
+	slack 30
+	class 3
+	clasp 2
+	4
+noisy
+	alter
+	sonic 196
+	noisy 1
+	3
+tried
+	alter
+	egret 8
+	tried 1
+	3
+vigil
+	alter
+	silly 84
+	vigil 6
+	3
+arise
+	alter
+	arose 8
+	arise 1
+	3
+ulcer
+	alter
+	flier 7
+	bluer 4
+	ulcer 1
+	4
+alibi
+	alter
+	alloy 10
+	alibi 4
+	3
+motif
+	alter
+	ditto 22
+	optic 2
+	motif 1
+	4
+deter
+	alter
+	enter 9
+	meter 2
+	deter 1
+	4
+smart
+	alter
+	tract 27
+	smart 3
+	3
+owner
+	alter
+	riser 73
+	cower 30
+	owner 1
+	4
+first
+	alter
+	trout 63
+	skirt 4
+	first 1
+	4
+mince
+	alter
+	noise 135
+	hinge 5
+	wince 2
+	mince 1
+	5
+proxy
+	alter
+	crony 108
+	proxy 1
+	3
+pasty
+	alter
+	taint 56
+	pasty 3
+	3
+smith
+	alter
+	shout 107
+	smith 2
+	3
+flake
+	alter
+	blade 15
+	flake 6
+	3
+penny
+	alter
+	noise 135
+	wench 5
+	penny 1
+	4
+crowd
+	alter
+	crony 108
+	crook 5
+	crowd 3
+	4
+blind
+	alter
+	slunk 52
+	fling 4
+	blind 1
+	4
+pesto
+	alter
+	heist 55
+	testy 3
+	pesto 1
+	4
+nylon
+	alter
+	silly 84
+	nylon 2
+	3
+eight
+	alter
+	heist 55
+	eight 1
+	3
+tweed
+	alter
+	unset 20
+	tepee 3
+	tweed 1
+	4
+track
+	alter
+	tract 27
+	track 1
+	3
+scour
+	alter
+	rigor 15
+	scour 2
+	3
+honey
+	alter
+	widen 40
+	honey 4
+	3
+binge
+	alter
+	noise 135
+	hinge 5
+	binge 1
+	4
+iliac
+	alter
+	slack 30
+	iliac 1
+	3
+handy
+	alter
+	candy 110
+	handy 3
+	3
+crank
+	alter
+	chard 89
+	crank 5
+	3
+ingot
+	alter
+	shout 107
+	point 7
+	ingot 1
+	4
+cheer
+	alter
+	riser 73
+	cower 30
+	cyber 2
+	cheer 1
+	5
+aware
+	alter
+	arose 8
+	aware 3
+	3
+frisk
+	alter
+	crony 108
+	brisk 6
+	frisk 1
+	4
+azure
+	alter
+	arose 8
+	aware 3
+	azure 2
+	4
+chafe
+	alter
+	shame 63
+	chafe 1
+	3
+cower
+	alter
+	riser 73
+	power 30
+	cower 2
+	4
+melon
+	alter
+	belle 51
+	welsh 5
+	melon 2
+	4
+parse
+	alter
+	brace 45
+	raise 3
+	parse 1
+	4
+voice
+	alter
+	noise 135
+	voice 1
+	3
+faith
+	alter
+	taint 56
+	faith 1
+	3
+myrrh
+	alter
+	crony 108
+	myrrh 2
+	3
+jelly
+	alter
+	belle 51
+	hello 3
+	jelly 1
+	4
+khaki
+	alter
+	candy 110
+	smash 11
+	khaki 1
+	4
+woven
+	alter
+	widen 40
+	woven 3
+	3
+chart
+	alter
+	tract 27
+	chart 1
+	3
+snare
+	alter
+	brace 45
+	spare 3
+	snare 2
+	4
+penal
+	alter
+	scale 33
+	pedal 7
+	penal 1
+	4
+feign
+	alter
+	noise 135
+	eking 5
+	deign 2
+	feign 1
+	5
+fraud
+	alter
+	chard 89
+	brand 4
+	fraud 1
+	4
+shelf
+	alter
+	belle 51
+	field 5
+	shelf 1
+	4
+stick
+	alter
+	shout 107
+	stink 5
+	stick 1
+	4
+dumpy
+	alter
+	sonic 196
+	dumpy 15
+	3
+hatch
+	alter
+	catty 17
+	match 5
+	watch 4
+	patch 3
+	hatch 2
+	6
+pizza
+	alter
+	candy 110
+	smash 11
+	pizza 1
+	4
+study
+	alter
+	shout 107
+	stunk 6
+	stump 3
+	stuff 2
+	study 1
+	6
+inane
+	alter
+	shame 63
+	knave 6
+	inane 1
+	4
+focus
+	alter
+	sonic 196
+	focus 1
+	3
+rifle
+	alter
+	rifle 5
+	2
+retro
+	alter
+	metro 5
+	retro 1
+	3
+anode
+	alter
+	abode 17
+	anode 1
+	3
+cocoa
+	alter
+	candy 110
+	comma 7
+	cocoa 1
+	4
+brine
+	alter
+	prose 100
+	crude 9
+	bribe 3
+	brine 1
+	5
+slunk
+	alter
+	slunk 52
+	2
+slope
+	alter
+	close 25
+	slope 1
+	3
+floor
+	alter
+	floor 2
+	2
+corny
+	alter
+	crony 108
+	corny 1
+	3
+edify
+	alter
+	noise 135
+	edify 2
+	3
+squib
+	alter
+	sonic 196
+	squib 1
+	3
+penne
+	alter
+	noise 135
+	pence 7
+	penne 1
+	4
+adept
+	alter
+	agate 6
+	adept 1
+	3
+decry
+	alter
+	prose 100
+	berry 15
+	decry 1
+	4
+ramen
+	alter
+	raven 3
+	ramen 1
+	3
+tarot
+	alter
+	tract 27
+	tarot 1
+	3
+fetus
+	alter
+	cutie 11
+	fetus 2
+	3
+rapid
+	alter
+	chard 89
+	rapid 3
+	3
+tacit
+	alter
+	taint 56
+	tacit 1
+	3
+stand
+	alter
+	taint 56
+	stand 2
+	3
+lorry
+	alter
+	drill 22
+	lorry 2
+	3
+beget
+	alter
+	unset 20
+	beget 4
+	3
+shove
+	alter
+	noise 135
+	spoke 4
+	shove 1
+	4
+china
+	alter
+	candy 110
+	china 2
+	3
+evict
+	alter
+	heist 55
+	edict 2
+	evict 1
+	4
+chalk
+	alter
+	sally 60
+	koala 5
+	chalk 1
+	4
+venom
+	alter
+	noise 135
+	envoy 6
+	venom 1
+	4
+shiny
+	alter
+	sonic 196
+	suing 5
+	spiny 2
+	shiny 1
+	5
+stoke
+	alter
+	heist 55
+	stove 4
+	stone 2
+	stoke 1
+	5
+munch
+	alter
+	sonic 196
+	punch 4
+	munch 3
+	4
+colon
+	alter
+	silly 84
+	gulch 3
+	colon 1
+	4
+grain
+	alter
+	chard 89
+	brain 11
+	grain 1
+	4
+geese
+	alter
+	noise 135
+	geese 1
+	3
+ample
+	alter
+	angle 7
+	ample 4
+	3
+voila
+	alter
+	sally 60
+	koala 5
+	voila 1
+	4
+death
+	alter
+	skate 34
+	heath 3
+	death 1
+	4
+welsh
+	alter
+	belle 51
+	welch 5
+	welsh 1
+	4
+miner
+	alter
+	riser 73
+	diner 12
+	finer 2
+	miner 1
+	5
+gorge
+	alter
+	prose 100
+	forge 8
+	gorge 1
+	4
+viral
+	alter
+	viral 17
+	2
+jumpy
+	alter
+	sonic 196
+	dumpy 15
+	jumpy 1
+	4
+mauve
+	alter
+	shame 63
+	maize 4
+	mauve 3
+	4
+scrum
+	alter
+	crony 108
+	birch 3
+	scrum 1
+	4
+sixty
+	alter
+	shout 107
+	stink 5
+	sixty 1
+	4
+abode
+	alter
+	adobe 17
+	abode 1
+	3
+drunk
+	alter
+	crony 108
+	bring 7
+	drunk 1
+	4
+bloom
+	alter
+	slunk 52
+	blimp 8
+	bloom 1
+	4
+ester
+	alter
+	enter 9
+	ester 1
+	3
+level
+	alter
+	bevel 23
+	level 1
+	3
+smell
+	alter
+	belle 51
+	swell 6
+	smell 3
+	4
+funny
+	alter
+	sonic 196
+	funky 4
+	funny 1
+	4
+tread
+	alter
+	trace 14
+	tread 2
+	3
+adorn
+	alter
+	adorn 11
+	2
+crony
+	alter
+	crony 108
+	2
+baton
+	alter
+	catty 17
+	baton 4
+	3
+slink
+	alter
+	slunk 52
+	slink 1
+	3
+diver
+	alter
+	riser 73
+	diner 12
+	diver 1
+	4
+wrest
+	alter
+	trice 31
+	erupt 2
+	wrest 1
+	4
+afoul
+	alter
+	anvil 9
+	afoul 2
+	3
+print
+	alter
+	trout 63
+	print 4
+	3
+forgo
+	alter
+	crony 108
+	forgo 5
+	3
+aunty
+	alter
+	adopt 12
+	aunty 2
+	3
+peril
+	alter
+	rifle 5
+	peril 1
+	3
+salad
+	alter
+	sally 60
+	salvo 4
+	salad 2
+	4
+might
+	alter
+	shout 107
+	tight 5
+	might 4
+	4
+women
+	alter
+	widen 40
+	woven 3
+	women 2
+	4
+sprig
+	alter
+	crony 108
+	shrug 9
+	sprig 1
+	4
+filth
+	alter
+	guilt 17
+	filth 1
+	3
+icing
+	alter
+	sonic 196
+	icing 1
+	3
+cello
+	alter
+	belle 51
+	hello 3
+	cello 1
+	4
+nerdy
+	alter
+	prose 100
+	berry 15
+	nerdy 3
+	4
+quart
+	alter
+	tract 27
+	smart 3
+	quart 1
+	4
+smoke
+	alter
+	noise 135
+	spoke 4
+	smoke 1
+	4
+again
+	alter
+	again 20
+	2
+boxer
+	alter
+	riser 73
+	cower 30
+	mover 8
+	joker 5
+	goner 3
+	boxer 2
+	7
+cynic
+	alter
+	sonic 196
+	cynic 1
+	3
+logic
+	alter
+	silly 84
+	lucid 4
+	logic 1
+	4
+mafia
+	alter
+	candy 110
+	mamma 8
+	mafia 1
+	4
+until
+	alter
+	until 2
+	2
+swung
+	alter
+	sonic 196
+	spunk 4
+	swung 1
+	4
+pecan
+	alter
+	shame 63
+	began 7
+	pecan 1
+	4
+folio
+	alter
+	silly 84
+	folio 2
+	3
+sight
+	alter
+	shout 107
+	sight 1
+	3
+taint
+	alter
+	taint 56
+	2
+dimly
+	alter
+	silly 84
+	dimly 1
+	3
+mimic
+	alter
+	sonic 196
+	cubic 4
+	mimic 1
+	4
+paint
+	alter
+	taint 56
+	saint 3
+	paint 2
+	4
+share
+	alter
+	brace 45
+	spare 3
+	snare 2
+	share 1
+	5
+trend
+	alter
+	trice 31
+	trend 1
+	3
+token
+	alter
+	unset 20
+	token 1
+	3
+midge
+	alter
+	noise 135
+	imbue 5
+	midge 1
+	4
+crate
+	alter
+	trace 14
+	crate 1
+	3
+frock
+	alter
+	crony 108
+	frock 1
+	3
+lying
+	alter
+	silly 84
+	lying 1
+	3
+boney
+	alter
+	widen 40
+	honey 4
+	boney 2
+	4
+glean
+	alter
+	blade 15
+	glean 3
+	3
+sweep
+	alter
+	widen 40
+	sweep 1
+	3
+drive
+	alter
+	prose 100
+	crude 9
+	drive 1
+	4
+drool
+	alter
+	drill 22
+	drool 1
+	3
+skill
+	alter
+	silly 84
+	swill 3
+	skill 2
+	4
+recut
+	alter
+	trice 31
+	recut 1
+	3
+spike
+	alter
+	noise 135
+	spice 3
+	spike 1
+	4
+allot
+	alter
+	allot 2
+	2
+snore
+	alter
+	prose 100
+	snore 4
+	3
+topaz
+	alter
+	taint 56
+	topaz 2
+	3
+nymph
+	alter
+	sonic 196
+	nymph 1
+	3
+gypsy
+	alter
+	sonic 196
+	mushy 10
+	gypsy 1
+	4
+opine
+	alter
+	noise 135
+	opine 2
+	3
+afoot
+	alter
+	adopt 12
+	afoot 2
+	3
+buxom
+	alter
+	sonic 196
+	gumbo 4
+	buxom 1
+	4
+blink
+	alter
+	slunk 52
+	clink 2
+	blink 1
+	4
+bigot
+	alter
+	shout 107
+	point 7
+	bigot 1
+	4
+phase
+	alter
+	shame 63
+	chase 2
+	phase 1
+	4
+bless
+	alter
+	close 25
+	flesh 2
+	bless 1
+	4
+exact
+	alter
+	skate 34
+	exact 4
+	3
+putty
+	alter
+	ditto 22
+	putty 2
+	3
+wight
+	alter
+	shout 107
+	tight 5
+	might 4
+	wight 3
+	5
+titan
+	alter
+	catty 17
+	titan 1
+	3
+clamp
+	alter
+	slack 30
+	claim 3
+	clamp 1
+	4
+snort
+	alter
+	trout 63
+	sport 4
+	short 2
+	snort 1
+	5
+crust
+	alter
+	trout 63
+	grunt 4
+	fruit 2
+	crust 1
+	5
+gavel
+	alter
+	laden 10
+	bagel 5
+	gavel 1
+	4
+fuzzy
+	alter
+	sonic 196
+	dumpy 15
+	fuzzy 2
+	4
+fifth
+	alter
+	shout 107
+	width 4
+	fifth 2
+	4
+howdy
+	alter
+	sonic 196
+	goody 16
+	dowdy 2
+	howdy 1
+	5
+lymph
+	alter
+	silly 84
+	lymph 2
+	3
+shank
+	alter
+	candy 110
+	piano 7
+	shank 1
+	4
+spark
+	alter
+	chard 89
+	spark 4
+	3
+broom
+	alter
+	crony 108
+	droop 10
+	groom 3
+	broom 1
+	5
+cried
+	alter
+	pried 25
+	cried 3
+	3
+elegy
+	alter
+	close 25
+	blend 3
+	elegy 1
+	4
+hunch
+	alter
+	sonic 196
+	punch 4
+	munch 3
+	hunch 2
+	5
+dally
+	alter
+	sally 60
+	dally 1
+	3
+elite
+	alter
+	cleft 5
+	elite 1
+	3
+inept
+	alter
+	heist 55
+	inept 1
+	3
+dross
+	alter
+	crony 108
+	droop 10
+	dross 1
+	4
+catch
+	alter
+	catty 17
+	catch 1
+	3
+click
+	alter
+	slunk 52
+	clock 5
+	click 1
+	4
+limbo
+	alter
+	silly 84
+	vigil 6
+	limbo 1
+	4
+banjo
+	alter
+	candy 110
+	manga 4
+	banjo 1
+	4
+jerky
+	alter
+	prose 100
+	berry 15
+	nerdy 3
+	jerky 2
+	5
+slant
+	alter
+	blast 7
+	slant 1
+	3
+revel
+	alter
+	repel 5
+	revel 2
+	3
+agent
+	alter
+	agate 6
+	agent 1
+	3
+zebra
+	alter
+	brace 45
+	zebra 2
+	3
+crump
+	alter
+	crony 108
+	crump 6
+	3
+panel
+	alter
+	laden 10
+	navel 2
+	panel 1
+	4
+curly
+	alter
+	drill 22
+	surly 3
+	curly 2
+	4
+shine
+	alter
+	noise 135
+	spine 5
+	shine 2
+	4
+aorta
+	alter
+	aorta 3
+	2
+unfed
+	alter
+	widen 40
+	kneed 2
+	unfed 1
+	4
+allay
+	alter
+	allow 10
+	allay 1
+	3
+modal
+	alter
+	sally 60
+	focal 9
+	modal 2
+	4
+bleak
+	alter
+	blade 15
+	bleak 1
+	3
+pixel
+	alter
+	bevel 23
+	impel 5
+	spiel 2
+	pixel 1
+	5
+showy
+	alter
+	sonic 196
+	spook 6
+	showy 1
+	4
+goofy
+	alter
+	sonic 196
+	goody 16
+	goofy 1
+	4
+power
+	alter
+	riser 73
+	cower 30
+	power 2
+	4
+newer
+	alter
+	riser 73
+	cower 30
+	newer 2
+	4
+louse
+	alter
+	belle 51
+	louse 4
+	3
+banal
+	alter
+	sally 60
+	canal 7
+	banal 1
+	4
+dwell
+	alter
+	belle 51
+	swell 6
+	dwell 1
+	4
+cutie
+	alter
+	cutie 11
+	2
+chute
+	alter
+	heist 55
+	theme 3
+	chute 1
+	4
+dread
+	alter
+	brace 45
+	dream 4
+	dread 1
+	4
+south
+	alter
+	shout 107
+	south 1
+	3
+rowdy
+	alter
+	crony 108
+	wordy 5
+	rowdy 1
+	4
+drake
+	alter
+	brace 45
+	grade 8
+	drake 2
+	4
+widen
+	alter
+	widen 40
+	2
+ideal
+	alter
+	scale 33
+	pedal 7
+	ideal 1
+	4
+rerun
+	alter
+	prose 100
+	berry 15
+	rerun 1
+	4
+piper
+	alter
+	riser 73
+	diner 12
+	viper 5
+	piper 1
+	5
+fried
+	alter
+	pried 25
+	cried 3
+	fried 2
+	4
+shift
+	alter
+	shout 107
+	shift 1
+	3
+solar
+	alter
+	polar 6
+	molar 2
+	solar 1
+	4
+lingo
+	alter
+	silly 84
+	vigil 6
+	lingo 1
+	4
+froth
+	alter
+	trout 63
+	broth 2
+	froth 1
+	4
+delta
+	alter
+	least 10
+	delta 1
+	3
+notch
+	alter
+	ditto 22
+	botch 2
+	notch 1
+	4
+prank
+	alter
+	chard 89
+	brain 11
+	frank 2
+	prank 1
+	5
+apply
+	alter
+	afoul 9
+	amply 2
+	apply 1
+	4
+randy
+	alter
+	chard 89
+	radio 3
+	randy 1
+	4
+swell
+	alter
+	belle 51
+	swell 6
+	3
+chaff
+	alter
+	candy 110
+	comma 7
+	chaff 1
+	4
+awful
+	alter
+	anvil 9
+	afoul 2
+	awful 1
+	4
+touch
+	alter
+	shout 107
+	youth 4
+	tough 2
+	touch 1
+	5
+lease
+	alter
+	scale 33
+	lease 1
+	3
+curse
+	alter
+	prose 100
+	curse 5
+	3
+vaunt
+	alter
+	taint 56
+	jaunt 5
+	daunt 4
+	vaunt 3
+	5
+caper
+	alter
+	wager 17
+	parer 10
+	caper 1
+	4
+dowel
+	alter
+	bevel 23
+	impel 5
+	dowel 1
+	4
+toast
+	alter
+	taint 56
+	toast 1
+	3
+croak
+	alter
+	chard 89
+	cargo 3
+	croak 1
+	4
+brand
+	alter
+	chard 89
+	brand 4
+	3
+civic
+	alter
+	sonic 196
+	cubic 4
+	civic 1
+	4
+false
+	alter
+	scale 33
+	lapse 2
+	false 1
+	4
+audio
+	alter
+	again 20
+	audio 4
+	3
+sunny
+	alter
+	sonic 196
+	sunny 1
+	3
+aping
+	alter
+	again 20
+	aping 1
+	3
+murky
+	alter
+	crony 108
+	furry 6
+	murky 1
+	4
+foist
+	alter
+	shout 107
+	joist 4
+	foist 2
+	4
+inlet
+	alter
+	islet 5
+	inlet 1
+	3
+sober
+	alter
+	riser 73
+	sewer 8
+	sober 2
+	4
+belle
+	alter
+	belle 51
+	2
+asset
+	alter
+	asset 1
+	2
+salty
+	alter
+	tally 14
+	salty 1
+	3
+pried
+	alter
+	pried 25
+	2
+mercy
+	alter
+	prose 100
+	berry 15
+	nerdy 3
+	jerky 2
+	mercy 1
+	6
+ethos
+	alter
+	heist 55
+	ethos 1
+	3
+outgo
+	alter
+	ditto 22
+	outgo 1
+	3
+rinse
+	alter
+	prose 100
+	curse 5
+	rinse 1
+	4
+teary
+	alter
+	trace 14
+	teary 1
+	3
+briar
+	alter
+	vicar 16
+	briar 2
+	3
+intro
+	alter
+	intro 1
+	2
+lefty
+	alter
+	style 11
+	lefty 1
+	3
+tamer
+	alter
+	taker 3
+	taper 2
+	tamer 1
+	4
+mambo
+	alter
+	candy 110
+	mamma 8
+	mambo 1
+	4
+leapt
+	alter
+	least 10
+	leapt 2
+	3
+flame
+	alter
+	blade 15
+	flake 6
+	flame 1
+	4
+hover
+	alter
+	riser 73
+	cower 30
+	mover 8
+	hover 1
+	5
+stain
+	alter
+	taint 56
+	stain 1
+	3
+locus
+	alter
+	silly 84
+	lupus 2
+	locus 1
+	4
+catty
+	alter
+	catty 17
+	2
+undid
+	alter
+	sonic 196
+	undid 2
+	3
+rebut
+	alter
+	trice 31
+	exert 5
+	rebut 1
+	4
+vouch
+	alter
+	sonic 196
+	cough 6
+	pouch 2
+	vouch 1
+	5
+lemur
+	alter
+	lemur 1
+	2
+night
+	alter
+	shout 107
+	tight 5
+	might 4
+	wight 3
+	night 2
+	6
+batty
+	alter
+	catty 17
+	fatty 4
+	batty 3
+	4
+peace
+	alter
+	shame 63
+	knave 6
+	peace 1
+	4
+fluid
+	alter
+	slunk 52
+	bluff 6
+	fluid 1
+	4
+swath
+	alter
+	taint 56
+	stamp 6
+	swath 1
+	4
+emcee
+	alter
+	widen 40
+	cheek 5
+	emcee 1
+	4
+sassy
+	alter
+	candy 110
+	gassy 10
+	sassy 1
+	4
+lofty
+	alter
+	guilt 17
+	stool 2
+	lofty 1
+	4
+sedan
+	alter
+	shame 63
+	sepia 4
+	sedan 1
+	4
+testy
+	alter
+	heist 55
+	testy 3
+	3
+dirty
+	alter
+	trout 63
+	girth 5
+	dirty 1
+	4
+gayer
+	alter
+	wager 17
+	gazer 3
+	gayer 2
+	4
+juror
+	alter
+	rigor 15
+	juror 2
+	3
+nurse
+	alter
+	prose 100
+	curse 5
+	nurse 1
+	4
+shrub
+	alter
+	crony 108
+	shrug 9
+	shrub 1
+	4
+homer
+	alter
+	riser 73
+	cower 30
+	mover 8
+	homer 1
+	5
+swish
+	alter
+	sonic 196
+	spiky 6
+	swish 1
+	4
+axiom
+	alter
+	again 20
+	axiom 2
+	3
+crypt
+	alter
+	trout 63
+	print 4
+	crypt 1
+	4
+whelp
+	alter
+	belle 51
+	field 5
+	whelp 1
+	4
+stare
+	alter
+	trace 14
+	stare 1
+	3
+bicep
+	alter
+	widen 40
+	bicep 1
+	3
+aglow
+	alter
+	anvil 9
+	amply 3
+	aglow 1
+	4
+octet
+	alter
+	totem 3
+	octet 1
+	3
+stank
+	alter
+	taint 56
+	stand 2
+	stank 1
+	4
+unzip
+	alter
+	sonic 196
+	undid 2
+	unzip 1
+	4
+semen
+	alter
+	widen 40
+	semen 6
+	3
+dutch
+	alter
+	ditto 22
+	dutch 1
+	3
+depth
+	alter
+	heist 55
+	teeth 3
+	depth 1
+	4
+demur
+	alter
+	demur 5
+	2
+octal
+	alter
+	latch 6
+	octal 1
+	3
+sound
+	alter
+	sonic 196
+	sound 1
+	3
+state
+	alter
+	skate 34
+	state 1
+	3
+natal
+	alter
+	latch 6
+	fatal 2
+	natal 1
+	4
+verso
+	alter
+	prose 100
+	verso 1
+	3
+break
+	alter
+	brace 45
+	bread 2
+	break 1
+	4
+sower
+	alter
+	riser 73
+	sewer 8
+	sower 1
+	4
+prowl
+	alter
+	drill 22
+	prowl 2
+	3
+chair
+	alter
+	vicar 16
+	chair 1
+	3
+toxic
+	alter
+	shout 107
+	pinto 6
+	toxic 1
+	4
+oxide
+	alter
+	noise 135
+	oxide 1
+	3
+thumb
+	alter
+	shout 107
+	thump 2
+	thumb 1
+	4
+liken
+	alter
+	bevel 23
+	liken 4
+	3
+drain
+	alter
+	chard 89
+	drawn 4
+	drain 1
+	4
+ovary
+	alter
+	chard 89
+	spark 4
+	ovary 1
+	4
+toxin
+	alter
+	shout 107
+	pinto 6
+	toxin 1
+	4
+gourd
+	alter
+	crony 108
+	forgo 5
+	gourd 1
+	4
+cross
+	alter
+	crony 108
+	crock 5
+	crowd 3
+	cross 2
+	5
+alone
+	alter
+	alive 4
+	algae 2
+	alone 1
+	4
+seven
+	alter
+	widen 40
+	semen 6
+	seven 1
+	4
+adapt
+	alter
+	adopt 12
+	adapt 1
+	3
+dandy
+	alter
+	candy 110
+	handy 3
+	dandy 2
+	4
+gully
+	alter
+	silly 84
+	golly 9
+	gully 1
+	4
+teach
+	alter
+	skate 34
+	exact 4
+	teach 1
+	4
+flora
+	alter
+	flora 1
+	2
+relic
+	alter
+	rifle 5
+	relic 1
+	3
+quest
+	alter
+	heist 55
+	guest 2
+	quest 1
+	4
+cameo
+	alter
+	oaken 6
+	cameo 1
+	3
+droit
+	alter
+	trout 63
+	frost 3
+	droit 1
+	4
+unite
+	alter
+	heist 55
+	twine 4
+	unite 1
+	4
+razor
+	alter
+	vicar 16
+	mayor 4
+	razor 1
+	4
+leach
+	alter
+	scale 33
+	leach 1
+	3
+rural
+	alter
+	viral 17
+	mural 4
+	rural 1
+	4
+angry
+	alter
+	adorn 11
+	angry 1
+	3
+curve
+	alter
+	prose 100
+	verge 13
+	curve 1
+	4
+urine
+	alter
+	prose 100
+	crude 9
+	urine 1
+	4
+light
+	alter
+	guilt 17
+	light 1
+	3
+ready
+	alter
+	brace 45
+	ready 5
+	3
+modem
+	alter
+	widen 40
+	modem 1
+	3
+ethic
+	alter
+	heist 55
+	ethic 1
+	3
+label
+	alter
+	laden 10
+	label 2
+	3
+oaken
+	alter
+	oaken 6
+	2
+rebel
+	alter
+	repel 5
+	revel 2
+	rebel 1
+	4
+unset
+	alter
+	unset 20
+	2
+jumbo
+	alter
+	sonic 196
+	gumbo 4
+	jumbo 1
+	4
+legal
+	alter
+	scale 33
+	pedal 7
+	legal 1
+	4
+tabby
+	alter
+	taint 56
+	taffy 4
+	tacky 2
+	tabby 1
+	5
+party
+	alter
+	tract 27
+	party 5
+	3
+alpha
+	alter
+	allow 10
+	alibi 4
+	alpha 1
+	4
+druid
+	alter
+	crony 108
+	brisk 6
+	druid 1
+	4
+guard
+	alter
+	chard 89
+	board 2
+	guard 1
+	4
+canoe
+	alter
+	shame 63
+	vague 9
+	dance 2
+	canoe 1
+	5
+canny
+	alter
+	candy 110
+	canny 1
+	3
+scowl
+	alter
+	silly 84
+	scowl 2
+	3
+spine
+	alter
+	noise 135
+	spine 5
+	3
+scion
+	alter
+	sonic 196
+	scion 1
+	3
+tango
+	alter
+	taint 56
+	tangy 2
+	tango 1
+	4
+biome
+	alter
+	noise 135
+	diode 2
+	biome 1
+	4
+booth
+	alter
+	shout 107
+	tooth 2
+	booth 1
+	4
+bawdy
+	alter
+	candy 110
+	daddy 4
+	gaudy 2
+	bawdy 1
+	5
+admin
+	alter
+	again 20
+	admin 1
+	3
+spool
+	alter
+	silly 84
+	scowl 2
+	spool 1
+	4
+crane
+	alter
+	brace 45
+	crave 3
+	crane 2
+	4
+organ
+	alter
+	chard 89
+	baron 14
+	groan 2
+	organ 1
+	5
+talon
+	alter
+	tally 14
+	talon 1
+	3
+lodge
+	alter
+	belle 51
+	louse 4
+	lodge 1
+	4
+loose
+	alter
+	belle 51
+	louse 4
+	loose 1
+	4
+drier
+	alter
+	riser 73
+	crier 2
+	drier 1
+	4
+mural
+	alter
+	viral 17
+	mural 4
+	3
+rainy
+	alter
+	chard 89
+	baron 14
+	rainy 1
+	4
+equip
+	alter
+	noise 135
+	equip 2
+	3
+taunt
+	alter
+	taint 56
+	taunt 1
+	3
+leaky
+	alter
+	scale 33
+	leafy 3
+	leaky 1
+	4
+ruddy
+	alter
+	crony 108
+	furry 6
+	ruddy 2
+	4
+smack
+	alter
+	candy 110
+	scuba 8
+	smack 2
+	4
+slump
+	alter
+	slunk 52
+	slump 2
+	3
+arson
+	alter
+	adorn 11
+	apron 2
+	arson 1
+	4
+tonga
+	alter
+	taint 56
+	tonga 1
+	3
+dwelt
+	alter
+	style 11
+	knelt 3
+	dwelt 1
+	4
+elfin
+	alter
+	close 25
+	blend 3
+	elfin 1
+	4
+gonad
+	alter
+	candy 110
+	gonad 1
+	3
+eagle
+	alter
+	scale 33
+	ladle 4
+	eagle 3
+	4
+wreak
+	alter
+	brace 45
+	dream 4
+	wreak 2
+	4
+baker
+	alter
+	wager 17
+	parer 10
+	maker 4
+	baker 1
+	5
+email
+	alter
+	scale 33
+	leafy 3
+	email 1
+	4
+spook
+	alter
+	sonic 196
+	spook 6
+	3
+cider
+	alter
+	riser 73
+	diner 12
+	cider 2
+	4
+valid
+	alter
+	sally 60
+	valid 1
+	3
+pasta
+	alter
+	taint 56
+	pasty 3
+	pasta 1
+	4
+risen
+	alter
+	pried 25
+	siren 2
+	risen 1
+	4
+genie
+	alter
+	noise 135
+	hinge 5
+	genie 1
+	4
+dryer
+	alter
+	riser 73
+	order 5
+	dryer 1
+	4
+miser
+	alter
+	riser 73
+	miser 2
+	3
+flush
+	alter
+	slunk 52
+	flush 3
+	3
+sneak
+	alter
+	shame 63
+	sepia 4
+	sneak 1
+	4
+video
+	alter
+	widen 40
+	video 1
+	3
+vogue
+	alter
+	noise 135
+	vogue 5
+	3
+adopt
+	alter
+	adopt 12
+	2
+bench
+	alter
+	noise 135
+	wench 5
+	bench 1
+	4
+hasty
+	alter
+	taint 56
+	pasty 3
+	hasty 1
+	4
+spicy
+	alter
+	sonic 196
+	spicy 1
+	3
+prick
+	alter
+	crony 108
+	prick 2
+	3
+avert
+	alter
+	avert 1
+	2
+kitty
+	alter
+	ditto 22
+	bitty 3
+	kitty 2
+	4
+shoal
+	alter
+	sally 60
+	shoal 3
+	3
+sniff
+	alter
+	sonic 196
+	suing 5
+	sniff 1
+	4
+eying
+	alter
+	noise 135
+	eking 5
+	eying 1
+	4
+vowel
+	alter
+	bevel 23
+	vowel 1
+	3
+parry
+	alter
+	chard 89
+	parry 4
+	3
+shirk
+	alter
+	crony 108
+	shrug 9
+	shirk 1
+	4
+blond
+	alter
+	slunk 52
+	fling 4
+	blond 1
+	4
+aptly
+	alter
+	aptly 1
+	2
+grunt
+	alter
+	trout 63
+	grunt 4
+	3
+eerie
+	alter
+	prose 100
+	verge 13
+	eerie 1
+	4
+islet
+	alter
+	islet 5
+	2
+spray
+	alter
+	chard 89
+	baron 14
+	spray 1
+	4
+finch
+	alter
+	sonic 196
+	winch 4
+	cinch 3
+	pinch 2
+	finch 1
+	6
+cycle
+	alter
+	belle 51
+	while 6
+	uncle 2
+	cycle 1
+	5
+relax
+	alter
+	regal 10
+	relax 2
+	3
+couch
+	alter
+	sonic 196
+	cough 6
+	couch 1
+	4
+faint
+	alter
+	taint 56
+	saint 3
+	paint 2
+	faint 1
+	5
+crimp
+	alter
+	crony 108
+	crump 6
+	crimp 1
+	4
+geeky
+	alter
+	noise 135
+	debug 6
+	geeky 1
+	4
+scram
+	alter
+	chard 89
+	scram 2
+	3
+large
+	alter
+	regal 10
+	large 1
+	3
+skull
+	alter
+	silly 84
+	skull 1
+	3
+staff
+	alter
+	taint 56
+	stamp 6
+	stash 3
+	staff 2
+	5
+bunch
+	alter
+	sonic 196
+	punch 4
+	munch 3
+	hunch 2
+	bunch 1
+	6
+buggy
+	alter
+	sonic 196
+	dumpy 15
+	fuzzy 2
+	buggy 1
+	5
+tulip
+	alter
+	guilt 17
+	tulip 1
+	3
+shell
+	alter
+	belle 51
+	swell 6
+	smell 3
+	shell 2
+	5
+fauna
+	alter
+	candy 110
+	mason 6
+	fauna 1
+	4
+fiery
+	alter
+	prose 100
+	berry 15
+	every 3
+	fiery 2
+	5
+clang
+	alter
+	slack 30
+	claim 3
+	clang 1
+	4
+allow
+	alter
+	allow 10
+	2
+slash
+	alter
+	slack 30
+	slain 3
+	slash 1
+	4
+glove
+	alter
+	close 25
+	globe 4
+	glove 1
+	4
+loopy
+	alter
+	silly 84
+	lumpy 4
+	loopy 1
+	4
+nutty
+	alter
+	ditto 22
+	putty 2
+	nutty 1
+	4
+booby
+	alter
+	sonic 196
+	goody 16
+	booby 3
+	4
+impel
+	alter
+	bevel 23
+	impel 5
+	3
+patsy
+	alter
+	catty 17
+	patsy 1
+	3
+porch
+	alter
+	crony 108
+	micro 2
+	porch 1
+	4
+moose
+	alter
+	noise 135
+	moose 6
+	3
+terra
+	alter
+	trace 14
+	terra 1
+	3
+vomit
+	alter
+	shout 107
+	point 7
+	vomit 1
+	4
+marsh
+	alter
+	chard 89
+	harsh 4
+	marsh 1
+	4
+whiny
+	alter
+	sonic 196
+	vying 4
+	whiny 1
+	4
+valet
+	alter
+	valet 1
+	2
+blare
+	alter
+	flare 3
+	blare 2
+	3
+mound
+	alter
+	sonic 196
+	pound 8
+	found 5
+	bound 4
+	hound 3
+	mound 2
+	7
+tweak
+	alter
+	skate 34
+	tweak 1
+	3
+dizzy
+	alter
+	sonic 196
+	whiff 9
+	giddy 4
+	dizzy 1
+	5
+spied
+	alter
+	widen 40
+	spied 2
+	3
+befit
+	alter
+	heist 55
+	befit 2
+	3
+carol
+	alter
+	viral 17
+	carol 1
+	3
+sandy
+	alter
+	candy 110
+	handy 3
+	dandy 2
+	sandy 1
+	5
+assay
+	alter
+	again 20
+	assay 1
+	3
+sheik
+	alter
+	noise 135
+	sheik 1
+	3
+amiss
+	alter
+	again 20
+	axiom 2
+	amiss 1
+	4
+front
+	alter
+	trout 63
+	frost 3
+	front 1
+	4
+scarf
+	alter
+	chard 89
+	scarf 2
+	3
+atone
+	alter
+	agate 6
+	atone 1
+	3
+shrew
+	alter
+	pried 25
+	shrew 4
+	3
+crisp
+	alter
+	crony 108
+	crimp 6
+	crisp 1
+	4
+opera
+	alter
+	brace 45
+	opera 2
+	3
+cobra
+	alter
+	chard 89
+	carry 3
+	cobra 1
+	4
+outer
+	alter
+	enter 9
+	otter 4
+	outer 1
+	4
+roger
+	alter
+	riser 73
+	rover 5
+	roger 2
+	4
+borax
+	alter
+	chard 89
+	baron 14
+	borax 1
+	4
+ripen
+	alter
+	pried 25
+	ripen 1
+	3
+pouty
+	alter
+	shout 107
+	pouty 2
+	3
+folly
+	alter
+	silly 84
+	golly 9
+	folly 4
+	4
+ember
+	alter
+	riser 73
+	cower 30
+	under 10
+	ember 3
+	5
+gamma
+	alter
+	candy 110
+	mamma 8
+	gamma 1
+	4
+tying
+	alter
+	shout 107
+	timid 4
+	tying 1
+	4
+green
+	alter
+	pried 25
+	creek 2
+	green 1
+	4
+sigma
+	alter
+	candy 110
+	smash 11
+	sigma 1
+	4
+unify
+	alter
+	sonic 196
+	vying 4
+	unify 1
+	4
+quiet
+	alter
+	unset 20
+	duvet 2
+	quiet 1
+	4
+parka
+	alter
+	chard 89
+	baron 14
+	karma 2
+	parka 1
+	5
+range
+	alter
+	brace 45
+	raise 3
+	range 1
+	4
+stack
+	alter
+	taint 56
+	stamp 6
+	stash 3
+	staff 2
+	stack 1
+	6
+leech
+	alter
+	belle 51
+	leech 1
+	3
+delay
+	alter
+	scale 33
+	pedal 7
+	delay 1
+	4
+dunce
+	alter
+	noise 135
+	pence 7
+	dunce 1
+	4
+wring
+	alter
+	crony 108
+	bring 7
+	wring 1
+	4
+clerk
+	alter
+	clerk 1
+	2
+bosom
+	alter
+	sonic 196
+	bosom 3
+	3
+femme
+	alter
+	noise 135
+	fugue 9
+	femme 1
+	4
+troop
+	alter
+	trout 63
+	troop 1
+	3
+lever
+	alter
+	liver 10
+	lever 2
+	3
+broad
+	alter
+	chard 89
+	rapid 3
+	broad 1
+	4
+loath
+	alter
+	tally 14
+	loath 1
+	3
+roach
+	alter
+	chard 89
+	roach 1
+	3
+fever
+	alter
+	riser 73
+	power 30
+	defer 10
+	fever 1
+	5
+preen
+	alter
+	pried 25
+	preen 1
+	3
+error
+	alter
+	demur 5
+	error 1
+	3
+abbot
+	alter
+	adopt 12
+	abbot 2
+	3
+grove
+	alter
+	prose 100
+	drone 7
+	broke 3
+	froze 2
+	grove 1
+	6
+peach
+	alter
+	shame 63
+	heady 4
+	peach 2
+	4
+weary
+	alter
+	brace 45
+	ready 5
+	weary 1
+	4
+lusty
+	alter
+	split 17
+	lusty 1
+	3
+grade
+	alter
+	brace 45
+	grade 8
+	3
+blush
+	alter
+	slunk 52
+	flush 3
+	blush 2
+	4
+elude
+	alter
+	close 25
+	flume 6
+	elude 1
+	4
+clown
+	alter
+	slunk 52
+	flown 3
+	clown 2
+	4
+delve
+	alter
+	belle 51
+	delve 1
+	3
+smite
+	alter
+	heist 55
+	smite 3
+	3
+loser
+	alter
+	liver 10
+	loser 3
+	3
+gamer
+	alter
+	wager 17
+	gazer 3
+	gayer 2
+	gamer 1
+	5
+posit
+	alter
+	shout 107
+	joist 4
+	posit 1
+	4
+meant
+	alter
+	skate 34
+	exact 4
+	meant 1
+	4
+stink
+	alter
+	shout 107
+	stink 5
+	3
+steel
+	alter
+	islet 5
+	steel 1
+	3
+skulk
+	alter
+	silly 84
+	scold 2
+	skulk 1
+	4
+worry
+	alter
+	crony 108
+	wordy 5
+	worry 1
+	4
+brick
+	alter
+	crony 108
+	prick 2
+	brick 1
+	4
+synod
+	alter
+	sonic 196
+	synod 1
+	3
+moral
+	alter
+	viral 17
+	mural 4
+	moral 1
+	4
+rugby
+	alter
+	crony 108
+	furry 6
+	ruddy 2
+	rugby 1
+	5
+fewer
+	alter
+	riser 73
+	cower 30
+	newer 2
+	fewer 1
+	5
+chick
+	alter
+	sonic 196
+	chick 5
+	3
+stoic
+	alter
+	shout 107
+	stoop 7
+	stock 3
+	stoic 1
+	5
+perky
+	alter
+	prose 100
+	perch 2
+	perky 1
+	4
+treat
+	alter
+	trace 14
+	tread 2
+	treat 1
+	4
+speak
+	alter
+	shame 63
+	sepia 4
+	speak 1
+	4
+shown
+	alter
+	sonic 196
+	snowy 5
+	shown 1
+	4
+snail
+	alter
+	sally 60
+	shoal 3
+	snail 1
+	4
+manic
+	alter
+	candy 110
+	panic 2
+	manic 1
+	4
+bloat
+	alter
+	blast 7
+	bloat 1
+	3
+pulpy
+	alter
+	silly 84
+	pulpy 3
+	3
+whirl
+	alter
+	drill 22
+	swirl 2
+	whirl 1
+	4
+reply
+	alter
+	rifle 5
+	reply 1
+	3
+clout
+	alter
+	flint 8
+	clout 1
+	3
+grate
+	alter
+	trace 14
+	irate 2
+	grate 1
+	4
+hydro
+	alter
+	crony 108
+	hydro 1
+	3
+blade
+	alter
+	blade 15
+	2
+plane
+	alter
+	blame 15
+	glaze 6
+	plane 4
+	4
+event
+	alter
+	heist 55
+	event 2
+	3
+wrack
+	alter
+	chard 89
+	wrack 1
+	3
+essay
+	alter
+	shame 63
+	essay 1
+	3
+purer
+	alter
+	riser 73
+	order 5
+	purer 1
+	4
+cabin
+	alter
+	candy 110
+	cabin 1
+	3
+crown
+	alter
+	crony 108
+	crown 1
+	3
+grind
+	alter
+	crony 108
+	bring 7
+	grind 1
+	4
+chess
+	alter
+	noise 135
+	guess 2
+	chess 1
+	4
+setup
+	alter
+	cutie 11
+	fetus 2
+	setup 1
+	4
+puppy
+	alter
+	sonic 196
+	dumpy 15
+	puppy 2
+	4
+umbra
+	alter
+	chard 89
+	marry 4
+	umbra 1
+	4
+stead
+	alter
+	skate 34
+	steam 3
+	stead 1
+	4
+krill
+	alter
+	drill 22
+	grill 3
+	frill 2
+	krill 1
+	5
+remit
+	alter
+	trice 31
+	refit 4
+	remit 1
+	4
+snipe
+	alter
+	noise 135
+	spine 5
+	snipe 1
+	4
+taste
+	alter
+	skate 34
+	taste 6
+	3
+cliff
+	alter
+	slunk 52
+	blimp 8
+	cliff 1
+	4
+coast
+	alter
+	taint 56
+	coast 4
+	3
+covey
+	alter
+	widen 40
+	cheek 5
+	covey 1
+	4
+croup
+	alter
+	crony 108
+	crock 5
+	crowd 3
+	cross 2
+	croup 1
+	6
+sumac
+	alter
+	candy 110
+	scuba 8
+	sumac 1
+	4
+gravy
+	alter
+	chard 89
+	brain 11
+	grasp 3
+	gravy 1
+	5
+avail
+	alter
+	anvil 9
+	avail 1
+	3
+epoch
+	alter
+	noise 135
+	epoxy 4
+	epoch 1
+	4
+rabid
+	alter
+	chard 89
+	rapid 3
+	rabid 1
+	4
+merry
+	alter
+	prose 100
+	berry 15
+	merry 2
+	4
+ridge
+	alter
+	prose 100
+	verge 13
+	ridge 1
+	4
+pansy
+	alter
+	candy 110
+	fanny 4
+	pansy 2
+	4
+fibre
+	alter
+	prose 100
+	verge 13
+	rhyme 2
+	fibre 1
+	5
+buddy
+	alter
+	sonic 196
+	dumpy 15
+	buddy 1
+	4
+atoll
+	alter
+	atoll 2
+	2
+drape
+	alter
+	brace 45
+	grade 8
+	drake 2
+	drape 1
+	5
+moult
+	alter
+	guilt 17
+	moult 1
+	3
+beady
+	alter
+	shame 63
+	beady 1
+	3
+bilge
+	alter
+	belle 51
+	bilge 2
+	3
+flank
+	alter
+	slack 30
+	plank 3
+	blank 2
+	flank 1
+	5
+plumb
+	alter
+	slunk 52
+	bluff 6
+	plumb 1
+	4
+snoop
+	alter
+	sonic 196
+	snowy 5
+	snoop 1
+	4
+tally
+	alter
+	tally 14
+	2
+chump
+	alter
+	sonic 196
+	mucky 4
+	chump 1
+	4
+greet
+	alter
+	egret 8
+	greet 1
+	3
+hyena
+	alter
+	shame 63
+	hyena 1
+	3
+lapel
+	alter
+	laden 10
+	label 2
+	lapel 1
+	4
+serif
+	alter
+	prose 100
+	serum 4
+	serif 1
+	4
+diner
+	alter
+	riser 73
+	diner 12
+	3
+steed
+	alter
+	unset 20
+	steed 2
+	3
+turbo
+	alter
+	trout 63
+	turbo 1
+	3
+nasal
+	alter
+	sally 60
+	basal 4
+	nasal 1
+	4
+rogue
+	alter
+	prose 100
+	forge 8
+	rogue 1
+	4
+coral
+	alter
+	viral 17
+	mural 4
+	coral 1
+	4
+naval
+	alter
+	sally 60
+	canal 7
+	naval 1
+	4
+wheel
+	alter
+	bevel 23
+	wheel 4
+	3
+hippy
+	alter
+	sonic 196
+	whiff 9
+	hippy 1
+	4
+ocean
+	alter
+	shame 63
+	began 7
+	ocean 1
+	4
+slept
+	alter
+	cleft 5
+	slept 1
+	3
+hobby
+	alter
+	sonic 196
+	goody 16
+	bobby 3
+	hobby 1
+	5
+viola
+	alter
+	sally 60
+	koala 5
+	viola 1
+	4
+curvy
+	alter
+	crony 108
+	curvy 2
+	3
+wider
+	alter
+	riser 73
+	diner 12
+	cider 2
+	wider 1
+	5
+lunge
+	alter
+	belle 51
+	louse 4
+	lunge 1
+	4
+vodka
+	alter
+	candy 110
+	vodka 3
+	3
+brawl
+	alter
+	viral 17
+	drawl 4
+	brawl 2
+	4
+skier
+	alter
+	riser 73
+	skier 1
+	3
+horny
+	alter
+	crony 108
+	horny 1
+	3
+beach
+	alter
+	shame 63
+	heady 4
+	peach 2
+	beach 1
+	5
+since
+	alter
+	noise 135
+	since 2
+	3
+goody
+	alter
+	sonic 196
+	goody 16
+	3
+datum
+	alter
+	catty 17
+	baton 4
+	datum 1
+	4
+igloo
+	alter
+	silly 84
+	folio 2
+	igloo 1
+	4
+tardy
+	alter
+	tract 27
+	tardy 1
+	3
+pubic
+	alter
+	sonic 196
+	cubic 4
+	pubic 1
+	4
+money
+	alter
+	widen 40
+	boney 4
+	honey 2
+	money 1
+	5
+glint
+	alter
+	flint 8
+	glint 1
+	3
+bused
+	alter
+	widen 40
+	bused 4
+	3
+anger
+	alter
+	aider 3
+	anger 2
+	3
+trash
+	alter
+	tract 27
+	tramp 3
+	trash 2
+	4
+onion
+	alter
+	sonic 196
+	owing 4
+	onion 1
+	4
+rival
+	alter
+	viral 17
+	rival 1
+	3
+spelt
+	alter
+	style 11
+	smelt 2
+	spelt 1
+	4
+piggy
+	alter
+	sonic 196
+	whiff 9
+	giddy 4
+	piggy 1
+	5
+strip
+	alter
+	trout 63
+	girth 5
+	strip 1
+	4
+adage
+	alter
+	adobe 17
+	adage 1
+	3
+bulky
+	alter
+	silly 84
+	pulpy 3
+	bulky 1
+	4
+store
+	alter
+	trice 31
+	forte 3
+	store 1
+	4
+itchy
+	alter
+	shout 107
+	width 4
+	itchy 1
+	4
+gaffe
+	alter
+	shame 63
+	vague 9
+	badge 2
+	gaffe 1
+	5
+prior
+	alter
+	rigor 15
+	prior 1
+	3
+brink
+	alter
+	crony 108
+	bring 7
+	brink 1
+	4
+realm
+	alter
+	regal 10
+	realm 1
+	3
+fetch
+	alter
+	cutie 11
+	fetch 1
+	3
+debut
+	alter
+	heist 55
+	depot 2
+	debut 1
+	4
+plead
+	alter
+	blade 15
+	plead 1
+	3
+booty
+	alter
+	shout 107
+	booty 1
+	3
+ninth
+	alter
+	shout 107
+	width 4
+	fifth 2
+	ninth 1
+	5
+serve
+	alter
+	prose 100
+	surge 3
+	serve 1
+	4
+kinky
+	alter
+	sonic 196
+	pinky 6
+	kinky 1
+	4
+human
+	alter
+	candy 110
+	piano 7
+	human 1
+	4
+batch
+	alter
+	catty 17
+	match 5
+	watch 4
+	patch 3
+	hatch 2
+	batch 1
+	7
+fable
+	alter
+	scale 33
+	ladle 4
+	eagle 3
+	fable 2
+	5
+bossy
+	alter
+	sonic 196
+	bosom 3
+	bossy 1
+	4
+godly
+	alter
+	silly 84
+	wooly 5
+	nobly 3
+	godly 2
+	5
+burst
+	alter
+	trout 63
+	burnt 3
+	burst 1
+	4
+gripe
+	alter
+	prose 100
+	gripe 2
+	3
+cruel
+	alter
+	repel 5
+	cruel 2
+	3
+amber
+	alter
+	aider 3
+	anger 2
+	amber 1
+	4
+aloof
+	alter
+	allow 10
+	aloof 1
+	3
+group
+	alter
+	crony 108
+	droop 10
+	group 1
+	4
+moron
+	alter
+	crony 108
+	moron 3
+	3
+wager
+	alter
+	wager 17
+	2
+gayly
+	alter
+	sally 60
+	madly 6
+	gaily 2
+	gayly 1
+	5
+gloom
+	alter
+	slunk 52
+	blimp 8
+	gloom 1
+	4
+flirt
+	alter
+	blurt 2
+	flirt 1
+	3
+liver
+	alter
+	liver 10
+	2
+tulle
+	alter
+	style 11
+	tulle 1
+	3
+model
+	alter
+	bevel 23
+	impel 5
+	model 1
+	4
+moldy
+	alter
+	silly 84
+	pulpy 3
+	moldy 1
+	4
+rarer
+	alter
+	wager 17
+	parer 10
+	rarer 1
+	4
+sheet
+	alter
+	unset 20
+	sweet 2
+	sheet 1
+	4
+egret
+	alter
+	beret 8
+	egret 1
+	3
+adobe
+	alter
+	abode 17
+	adobe 1
+	3
+leant
+	alter
+	least 10
+	leapt 2
+	leant 1
+	4
+scone
+	alter
+	noise 135
+	shone 2
+	scone 1
+	4
+niche
+	alter
+	noise 135
+	niche 2
+	3
+stung
+	alter
+	shout 107
+	stunk 6
+	stung 1
+	4
+wrung
+	alter
+	crony 108
+	bring 7
+	wrung 1
+	4
+album
+	alter
+	allow 10
+	alibi 4
+	album 1
+	4
+dwarf
+	alter
+	chard 89
+	diary 2
+	dwarf 1
+	4
+radii
+	alter
+	chard 89
+	radio 3
+	radii 1
+	4
+graze
+	alter
+	brace 45
+	grade 8
+	graze 3
+	4
+ledge
+	alter
+	belle 51
+	ledge 1
+	3
+mangy
+	alter
+	candy 110
+	fanny 4
+	pansy 2
+	mangy 1
+	5
+primo
+	alter
+	crony 108
+	primo 1
+	3
+paste
+	alter
+	skate 34
+	taste 6
+	paste 5
+	4
+quick
+	alter
+	sonic 196
+	chick 5
+	quick 1
+	4
+spore
+	alter
+	prose 100
+	spore 1
+	3
+vocal
+	alter
+	sally 60
+	focal 9
+	local 2
+	vocal 1
+	5
+mango
+	alter
+	candy 110
+	manga 4
+	mango 1
+	4
+terse
+	alter
+	trice 31
+	there 2
+	terse 1
+	4
+magic
+	alter
+	candy 110
+	macho 5
+	magic 1
+	4
+gooey
+	alter
+	widen 40
+	cheek 5
+	gooey 1
+	4
+debit
+	alter
+	heist 55
+	befit 2
+	debit 1
+	4
+today
+	alter
+	taint 56
+	topaz 2
+	today 1
+	4
+quota
+	alter
+	taint 56
+	stamp 6
+	quota 1
+	4
+hefty
+	alter
+	heist 55
+	hefty 1
+	3
+place
+	alter
+	blade 15
+	flake 6
+	plane 4
+	place 1
+	5
+wrist
+	alter
+	trout 63
+	print 4
+	wrist 2
+	4
+oddly
+	alter
+	silly 84
+	wooly 5
+	oddly 1
+	4
+tasty
+	alter
+	taint 56
+	tasty 1
+	3
+ought
+	alter
+	shout 107
+	ought 1
+	3
+crash
+	alter
+	chard 89
+	crash 1
+	3
+crock
+	alter
+	crony 108
+	crock 5
+	3
+grout
+	alter
+	trout 63
+	grout 1
+	3
+boozy
+	alter
+	sonic 196
+	goody 16
+	booby 3
+	boozy 1
+	5
+blurb
+	alter
+	blurb 3
+	2
+enemy
+	alter
+	noise 135
+	wench 5
+	enemy 1
+	4
+lunar
+	alter
+	polar 6
+	lunar 1
+	3
+ditty
+	alter
+	ditto 22
+	ditty 1
+	3
+align
+	alter
+	allow 10
+	alibi 4
+	align 1
+	4
+idiot
+	alter
+	shout 107
+	point 7
+	idiot 1
+	4
+equal
+	alter
+	scale 33
+	pedal 7
+	equal 1
+	4
+gusty
+	alter
+	shout 107
+	dusty 3
+	gusty 2
+	4
+maple
+	alter
+	scale 33
+	ladle 4
+	eagle 3
+	fable 2
+	maple 1
+	6
+value
+	alter
+	scale 33
+	halve 3
+	value 1
+	4
+minor
+	alter
+	rigor 15
+	visor 2
+	minor 1
+	4
+mount
+	alter
+	shout 107
+	count 3
+	mount 1
+	4
+trite
+	alter
+	trice 31
+	tribe 3
+	trite 2
+	4
+slain
+	alter
+	slack 30
+	slain 3
+	3
+frame
+	alter
+	brace 45
+	grade 8
+	frame 2
+	4
+plump
+	alter
+	slunk 52
+	bluff 6
+	plump 2
+	4
+guild
+	alter
+	silly 84
+	build 4
+	guild 1
+	4
+fence
+	alter
+	noise 135
+	pence 7
+	hence 2
+	fence 1
+	5
+roomy
+	alter
+	crony 108
+	roomy 2
+	3
+haunt
+	alter
+	taint 56
+	jaunt 5
+	daunt 4
+	vaunt 3
+	haunt 2
+	6
+robin
+	alter
+	crony 108
+	moron 3
+	robin 1
+	4
+wedge
+	alter
+	noise 135
+	fugue 9
+	wedge 2
+	4
+sissy
+	alter
+	sonic 196
+	spiky 6
+	sissy 1
+	4
+below
+	alter
+	belle 51
+	below 2
+	3
+basil
+	alter
+	sally 60
+	basal 4
+	basil 1
+	4
+sauce
+	alter
+	shame 63
+	sauce 1
+	3
+gnome
+	alter
+	noise 135
+	ozone 4
+	gnome 1
+	4
+thyme
+	alter
+	heist 55
+	theme 3
+	thyme 1
+	4
+grant
+	alter
+	tract 27
+	draft 3
+	grant 1
+	4
+knock
+	alter
+	sonic 196
+	knock 1
+	3
+borne
+	alter
+	prose 100
+	forge 8
+	horde 2
+	borne 1
+	5
+frail
+	alter
+	viral 17
+	grail 2
+	frail 1
+	4
+ferry
+	alter
+	prose 100
+	berry 15
+	merry 2
+	ferry 1
+	5
+seize
+	alter
+	noise 135
+	spice 3
+	seize 1
+	4
+maize
+	alter
+	shame 63
+	mauve 4
+	maize 3
+	4
+scrap
+	alter
+	chard 89
+	scram 2
+	scrap 1
+	4
+fleck
+	alter
+	close 25
+	fleck 1
+	3
+dryly
+	alter
+	drill 22
+	dryly 1
+	3
+offer
+	alter
+	riser 73
+	cower 30
+	odder 2
+	offer 1
+	5
+quail
+	alter
+	sally 60
+	focal 9
+	quail 1
+	4
+shame
+	alter
+	shame 63
+	2
+puree
+	alter
+	pried 25
+	puree 1
+	3
+steal
+	alter
+	least 10
+	steal 1
+	3
+sheen
+	alter
+	widen 40
+	semen 6
+	sheen 1
+	4
+beret
+	alter
+	egret 8
+	beret 1
+	3
+disco
+	alter
+	sonic 196
+	disco 1
+	3
+maybe
+	alter
+	shame 63
+	mauve 4
+	maize 3
+	maybe 2
+	5
+yeast
+	alter
+	skate 34
+	feast 3
+	beast 2
+	yeast 1
+	5
+going
+	alter
+	sonic 196
+	doing 2
+	going 1
+	4
+crept
+	alter
+	trice 31
+	crest 2
+	crept 1
+	4
+tease
+	alter
+	skate 34
+	tease 1
+	3
+suite
+	alter
+	heist 55
+	smite 3
+	suite 2
+	4
+dully
+	alter
+	silly 84
+	golly 9
+	bully 3
+	dully 2
+	5
+sushi
+	alter
+	sonic 196
+	spiky 6
+	sushi 1
+	4
+alloy
+	alter
+	alloy 10
+	2
+choir
+	alter
+	rigor 15
+	choir 1
+	3
+dried
+	alter
+	pried 25
+	cried 3
+	fried 2
+	dried 1
+	5
+tuber
+	alter
+	truer 8
+	tuber 1
+	3
+covet
+	alter
+	unset 20
+	beget 4
+	covet 2
+	4
+glade
+	alter
+	blade 15
+	glade 1
+	3
+ruder
+	alter
+	riser 73
+	rover 5
+	refer 2
+	ruder 1
+	5
+straw
+	alter
+	tract 27
+	party 5
+	straw 1
+	4
+shark
+	alter
+	chard 89
+	shark 3
+	3
+sleek
+	alter
+	sleep 7
+	sleek 1
+	3
+harem
+	alter
+	raven 3
+	harem 1
+	3
+hairy
+	alter
+	chard 89
+	harry 2
+	hairy 1
+	4
+erode
+	alter
+	prose 100
+	drone 7
+	erode 1
+	4
+under
+	alter
+	riser 73
+	cower 30
+	under 10
+	4
+baler
+	alter
+	lager 4
+	paler 2
+	baler 1
+	4
+ficus
+	alter
+	sonic 196
+	ficus 1
+	3
+fluke
+	alter
+	close 25
+	flume 6
+	fluke 1
+	4
+pudgy
+	alter
+	sonic 196
+	dumpy 15
+	pudgy 1
+	4
+known
+	alter
+	sonic 196
+	phony 2
+	known 1
+	4
+cater
+	alter
+	hater 4
+	eater 3
+	cater 2
+	4
+beefy
+	alter
+	noise 135
+	debug 6
+	beech 2
+	beefy 1
+	5
+drift
+	alter
+	trout 63
+	print 4
+	wrist 2
+	drift 1
+	5
+mammy
+	alter
+	candy 110
+	gassy 10
+	jazzy 3
+	mammy 2
+	5
+zonal
+	alter
+	sally 60
+	focal 9
+	modal 2
+	zonal 1
+	5
+flaky
+	alter
+	slack 30
+	flaky 1
+	3
+butte
+	alter
+	cutie 11
+	butte 1
+	3
+stalk
+	alter
+	tally 14
+	stalk 2
+	3
+white
+	alter
+	heist 55
+	white 1
+	3
+gouge
+	alter
+	noise 135
+	vogue 5
+	gouge 1
+	4
+drone
+	alter
+	prose 100
+	drone 7
+	3
+court
+	alter
+	trout 63
+	court 1
+	3
+foamy
+	alter
+	candy 110
+	soapy 3
+	foamy 1
+	4
+slyly
+	alter
+	slunk 52
+	sloop 4
+	slimy 2
+	slyly 1
+	5
+tithe
+	alter
+	cutie 11
+	tithe 1
+	3
+sword
+	alter
+	crony 108
+	fjord 2
+	sword 1
+	4
+syrup
+	alter
+	crony 108
+	myrrh 2
+	syrup 1
+	4
+grape
+	alter
+	brace 45
+	grade 8
+	graze 3
+	grape 2
+	5
+throb
+	alter
+	trout 63
+	throb 4
+	3
+silky
+	alter
+	silly 84
+	silky 1
+	3
+cleat
+	alter
+	pleat 6
+	bleat 2
+	cleat 1
+	4
+mange
+	alter
+	shame 63
+	mauve 4
+	maize 3
+	maybe 2
+	mange 1
+	6
+rehab
+	alter
+	brace 45
+	zebra 2
+	rehab 1
+	4
+knack
+	alter
+	candy 110
+	snack 2
+	knack 1
+	4
+troll
+	alter
+	twirl 3
+	troll 1
+	3
+greed
+	alter
+	pried 25
+	creed 4
+	freed 3
+	greed 2
+	5
+cavil
+	alter
+	sally 60
+	canal 7
+	cavil 1
+	4
+ratio
+	alter
+	ratty 2
+	ratio 1
+	3
+vivid
+	alter
+	sonic 196
+	vivid 2
+	3
+coach
+	alter
+	candy 110
+	comma 7
+	coach 1
+	4
+shard
+	alter
+	chard 89
+	shard 1
+	3
+verse
+	alter
+	prose 100
+	curse 5
+	verse 1
+	4
+llama
+	alter
+	slack 30
+	plain 7
+	llama 1
+	4
+upset
+	alter
+	unset 20
+	upset 1
+	3
+argue
+	alter
+	arose 8
+	argue 1
+	3
+pagan
+	alter
+	candy 110
+	mason 6
+	pagan 1
+	4
+caste
+	alter
+	skate 34
+	taste 6
+	paste 5
+	caste 4
+	5
+gauze
+	alter
+	shame 63
+	vague 9
+	gauge 2
+	gauze 1
+	5
+saute
+	alter
+	skate 34
+	saute 1
+	3
+cedar
+	alter
+	spear 7
+	rebar 3
+	cedar 1
+	4
+ascot
+	alter
+	adopt 12
+	abbot 2
+	ascot 1
+	4
+newly
+	alter
+	belle 51
+	newly 1
+	3
+belch
+	alter
+	belle 51
+	below 2
+	belch 1
+	4
+tripe
+	alter
+	trice 31
+	tribe 3
+	trite 2
+	tripe 1
+	5
+suave
+	alter
+	shame 63
+	spade 4
+	snake 2
+	suave 1
+	5
+chasm
+	alter
+	candy 110
+	comma 7
+	chasm 1
+	4
+rigid
+	alter
+	crony 108
+	shrug 9
+	rigid 1
+	4
+wiser
+	alter
+	riser 73
+	miser 2
+	wiser 1
+	4
+surer
+	alter
+	riser 73
+	surer 1
+	3
+dealt
+	alter
+	least 10
+	dealt 1
+	3
+audit
+	alter
+	adopt 12
+	audit 1
+	3
+sinew
+	alter
+	widen 40
+	sinew 1
+	3
+glass
+	alter
+	slack 30
+	flash 2
+	glass 1
+	4
+eject
+	alter
+	heist 55
+	event 2
+	eject 1
+	4
+slang
+	alter
+	slack 30
+	slain 3
+	slang 1
+	4
+idyll
+	alter
+	silly 84
+	idyll 1
+	3
+decor
+	alter
+	demur 5
+	decor 1
+	3
+wreck
+	alter
+	prose 100
+	wreck 1
+	3
+flier
+	alter
+	flier 7
+	2
+loyal
+	alter
+	sally 60
+	loyal 1
+	3
+trial
+	alter
+	trawl 3
+	trial 1
+	3
+noise
+	alter
+	noise 135
+	2
+roast
+	alter
+	tract 27
+	smart 3
+	roast 1
+	4
+eaten
+	alter
+	matey 2
+	eaten 1
+	3
+deuce
+	alter
+	noise 135
+	fugue 9
+	deuce 1
+	4
+booze
+	alter
+	noise 135
+	vogue 5
+	booze 1
+	4
+mummy
+	alter
+	sonic 196
+	dumpy 15
+	gummy 2
+	mummy 1
+	5
+plume
+	alter
+	close 25
+	flume 6
+	plume 1
+	4
+force
+	alter
+	prose 100
+	forge 8
+	force 1
+	4
+beard
+	alter
+	brace 45
+	beard 1
+	3
+stave
+	alter
+	skate 34
+	stave 2
+	3
+pluck
+	alter
+	slunk 52
+	cluck 2
+	pluck 1
+	4
+towel
+	alter
+	islet 5
+	towel 1
+	3
+merge
+	alter
+	prose 100
+	verge 13
+	merge 1
+	4
+train
+	alter
+	tract 27
+	tramp 3
+	trash 2
+	train 1
+	5
+robot
+	alter
+	trout 63
+	robot 2
+	3
+block
+	alter
+	slunk 52
+	clock 5
+	flock 2
+	block 1
+	5
+erase
+	alter
+	brace 45
+	grade 8
+	frame 2
+	erase 1
+	5
+mulch
+	alter
+	silly 84
+	gulch 3
+	mulch 1
+	4
+spade
+	alter
+	shame 63
+	spade 4
+	3
+imply
+	alter
+	silly 84
+	imply 2
+	3
+brook
+	alter
+	crony 108
+	droop 10
+	groom 3
+	brook 1
+	5
+start
+	alter
+	tract 27
+	start 1
+	3
+chief
+	alter
+	widen 40
+	chief 1
+	3
+valve
+	alter
+	scale 33
+	halve 3
+	valve 1
+	4
+macaw
+	alter
+	candy 110
+	macho 5
+	macaw 1
+	4
+picky
+	alter
+	sonic 196
+	quick 5
+	picky 1
+	4
+coven
+	alter
+	widen 40
+	semen 6
+	coven 1
+	4
+vegan
+	alter
+	shame 63
+	began 7
+	vegan 1
+	4
+abide
+	alter
+	abode 17
+	abide 1
+	3
+hilly
+	alter
+	silly 84
+	filly 5
+	hilly 4
+	4
+swing
+	alter
+	sonic 196
+	suing 5
+	swing 1
+	4
+dense
+	alter
+	noise 135
+	dense 2
+	3
+glory
+	alter
+	blurb 3
+	glory 1
+	3
+chard
+	alter
+	chard 89
+	2
+dirge
+	alter
+	prose 100
+	verge 13
+	dirge 1
+	4
+thrum
+	alter
+	trout 63
+	thrum 1
+	3
+freer
+	alter
+	riser 73
+	order 5
+	freer 1
+	4
+lithe
+	alter
+	title 3
+	lithe 1
+	3
+empty
+	alter
+	heist 55
+	quote 3
+	empty 1
+	4
+sheep
+	alter
+	widen 40
+	cheek 5
+	sheep 1
+	4
+cling
+	alter
+	slunk 52
+	fling 4
+	cling 1
+	4
+clone
+	alter
+	close 25
+	clone 2
+	3
+gecko
+	alter
+	noise 135
+	epoxy 4
+	gecko 1
+	4
+grass
+	alter
+	chard 89
+	brain 11
+	grasp 3
+	grass 1
+	5
+yield
+	alter
+	belle 51
+	field 5
+	wield 2
+	yield 1
+	5
+staid
+	alter
+	taint 56
+	vista 2
+	staid 1
+	4
+posse
+	alter
+	noise 135
+	moose 6
+	posse 3
+	4
+agree
+	alter
+	agree 1
+	2
+breed
+	alter
+	pried 25
+	creed 4
+	freed 3
+	greed 2
+	breed 1
+	6
+conic
+	alter
+	sonic 196
+	conic 2
+	3
+tenth
+	alter
+	heist 55
+	teeth 3
+	tenth 1
+	4
+hutch
+	alter
+	ditto 22
+	butch 2
+	hutch 1
+	4
+phone
+	alter
+	noise 135
+	ozone 4
+	phone 1
+	4
+harpy
+	alter
+	chard 89
+	harsh 4
+	harpy 1
+	4
+doubt
+	alter
+	shout 107
+	count 3
+	doubt 1
+	4
+sooty
+	alter
+	shout 107
+	stoop 7
+	sooty 1
+	4
+bulge
+	alter
+	belle 51
+	bilge 2
+	bulge 1
+	4
+feral
+	alter
+	regal 10
+	feral 1
+	3
+sully
+	alter
+	silly 84
+	sully 1
+	3
+haven
+	alter
+	oaken 6
+	waxen 2
+	haven 1
+	4
+fella
+	alter
+	scale 33
+	fella 1
+	3
+sheer
+	alter
+	riser 73
+	sewer 8
+	sneer 2
+	sheer 1
+	5
+swine
+	alter
+	noise 135
+	spine 5
+	shine 2
+	swine 1
+	5
+ovine
+	alter
+	noise 135
+	opine 2
+	ovine 1
+	4
+honor
+	alter
+	rigor 15
+	humor 3
+	honor 1
+	4
+final
+	alter
+	sally 60
+	focal 9
+	final 1
+	4
+savoy
+	alter
+	candy 110
+	gassy 10
+	savvy 3
+	savoy 1
+	5
+slurp
+	alter
+	blurb 3
+	slurp 1
+	3
+fight
+	alter
+	shout 107
+	tight 5
+	might 4
+	wight 3
+	night 2
+	fight 1
+	7
+humph
+	alter
+	sonic 196
+	dumpy 15
+	humph 1
+	4
+flyer
+	alter
+	flier 7
+	flyer 1
+	3
+blame
+	alter
+	blade 15
+	blame 2
+	3
+renew
+	alter
+	pried 25
+	shrew 4
+	renew 1
+	4
+foggy
+	alter
+	sonic 196
+	goody 16
+	foggy 1
+	4
+pooch
+	alter
+	sonic 196
+	cough 6
+	pooch 1
+	4
+fanny
+	alter
+	candy 110
+	nanny 4
+	fanny 1
+	4
+react
+	alter
+	trace 14
+	react 1
+	3
+fudge
+	alter
+	noise 135
+	fugue 9
+	fudge 1
+	4
+pause
+	alter
+	shame 63
+	pause 2
+	3
+brunt
+	alter
+	trout 63
+	grunt 4
+	brunt 1
+	4
+moist
+	alter
+	shout 107
+	joist 4
+	foist 2
+	moist 1
+	5
+vying
+	alter
+	sonic 196
+	vying 4
+	3
+welch
+	alter
+	belle 51
+	welsh 5
+	welch 1
+	4
+slime
+	alter
+	close 25
+	slide 2
+	slime 1
+	4
+extol
+	alter
+	title 3
+	extol 1
+	3
+ahead
+	alter
+	abode 17
+	amend 2
+	ahead 1
+	4
+dolly
+	alter
+	silly 84
+	golly 9
+	jolly 4
+	folly 3
+	dolly 2
+	6
+stuck
+	alter
+	shout 107
+	stunk 6
+	stuck 1
+	4
+abort
+	alter
+	aorta 3
+	abort 1
+	3
+kayak
+	alter
+	candy 110
+	bayou 2
+	kayak 1
+	4
+mourn
+	alter
+	crony 108
+	moron 3
+	mourn 1
+	4
+shock
+	alter
+	sonic 196
+	scoop 4
+	smock 2
+	shock 1
+	5
+nosey
+	alter
+	widen 40
+	honey 4
+	nosey 1
+	4
+eclat
+	alter
+	least 10
+	eclat 1
+	3
+array
+	alter
+	adorn 11
+	array 1
+	3
+bliss
+	alter
+	slunk 52
+	floss 3
+	bliss 1
+	4
+leery
+	alter
+	rifle 5
+	leery 1
+	3
+space
+	alter
+	shame 63
+	spade 4
+	space 1
+	4
+lynch
+	alter
+	silly 84
+	lymph 2
+	lynch 1
+	4
+spell
+	alter
+	belle 51
+	swell 6
+	smell 3
+	shell 2
+	spell 1
+	6
+mecca
+	alter
+	shame 63
+	media 3
+	mecca 1
+	4
+sally
+	alter
+	sally 60
+	2
+spoil
+	alter
+	silly 84
+	spoil 1
+	3
+abase
+	alter
+	abode 17
+	abuse 2
+	abase 1
+	4
+embed
+	alter
+	widen 40
+	bused 4
+	embed 1
+	4
+fixer
+	alter
+	riser 73
+	diner 12
+	viper 5
+	fixer 2
+	5
+corer
+	alter
+	riser 73
+	order 5
+	corer 1
+	4
+tiger
+	alter
+	truer 8
+	tiger 3
+	3
+musty
+	alter
+	shout 107
+	dusty 3
+	gusty 2
+	musty 1
+	5
+gassy
+	alter
+	candy 110
+	gassy 10
+	3
+while
+	alter
+	belle 51
+	while 6
+	3
+grime
+	alter
+	prose 100
+	crude 9
+	bribe 3
+	grime 1
+	5
+elope
+	alter
+	close 25
+	globe 4
+	elope 1
+	4
+carat
+	alter
+	tract 27
+	carat 1
+	3
+angst
+	alter
+	adopt 12
+	await 2
+	angst 1
+	4
+ionic
+	alter
+	sonic 196
+	conic 2
+	ionic 1
+	4
+layer
+	alter
+	lager 4
+	layer 1
+	3
+tatty
+	alter
+	catty 17
+	fatty 4
+	batty 3
+	tatty 2
+	5
+lunch
+	alter
+	silly 84
+	mogul 3
+	lunch 1
+	4
+rocky
+	alter
+	crony 108
+	rocky 1
+	3
+rivet
+	alter
+	egret 8
+	rivet 1
+	3
+fritz
+	alter
+	trout 63
+	fritz 1
+	3
+morph
+	alter
+	crony 108
+	forgo 5
+	morph 1
+	4
+prude
+	alter
+	prose 100
+	pride 6
+	prude 1
+	4
+aphid
+	alter
+	again 20
+	audio 4
+	aphid 1
+	4
+clash
+	alter
+	slack 30
+	class 3
+	clasp 2
+	clash 1
+	5
+cairn
+	alter
+	chard 89
+	carry 3
+	cairn 1
+	4
+queue
+	alter
+	noise 135
+	fugue 9
+	queue 1
+	4
+swore
+	alter
+	prose 100
+	snore 4
+	swore 3
+	4
+trice
+	alter
+	trice 31
+	2
+vicar
+	alter
+	vicar 16
+	2
+pitch
+	alter
+	ditto 22
+	pitch 4
+	3
+torus
+	alter
+	trout 63
+	torus 1
+	3
+elbow
+	alter
+	close 25
+	elbow 1
+	3
+stout
+	alter
+	shout 107
+	snout 4
+	spout 3
+	scout 2
+	stout 1
+	6
+urban
+	alter
+	chard 89
+	baron 14
+	urban 1
+	4
+badly
+	alter
+	sally 60
+	madly 6
+	badly 1
+	4
+warty
+	alter
+	tract 27
+	party 5
+	warty 1
+	4
+price
+	alter
+	prose 100
+	pride 6
+	prize 3
+	price 2
+	5
+chill
+	alter
+	silly 84
+	chill 2
+	3
+rigor
+	alter
+	rigor 15
+	2
+spite
+	alter
+	heist 55
+	smite 3
+	suite 2
+	spite 1
+	5
+quill
+	alter
+	silly 84
+	chill 2
+	quill 1
+	4
+betel
+	alter
+	motel 3
+	betel 1
+	3
+baste
+	alter
+	skate 34
+	taste 6
+	paste 5
+	caste 4
+	baste 3
+	6
+dopey
+	alter
+	widen 40
+	bused 4
+	dopey 1
+	4
+grope
+	alter
+	prose 100
+	grope 1
+	3
+retry
+	alter
+	metro 5
+	retry 1
+	3
+pearl
+	alter
+	regal 10
+	pearl 1
+	3
+mouse
+	alter
+	noise 135
+	moose 6
+	mouse 1
+	4
+glare
+	alter
+	flare 3
+	blare 2
+	glare 1
+	4
+buyer
+	alter
+	riser 73
+	cower 30
+	under 10
+	queer 2
+	buyer 1
+	6
+armor
+	alter
+	abhor 5
+	ardor 2
+	armor 1
+	4
+riser
+	alter
+	riser 73
+	2
+patty
+	alter
+	catty 17
+	fatty 4
+	batty 3
+	tatty 2
+	patty 1
+	6
+aging
+	alter
+	again 20
+	aging 1
+	3
+aloft
+	alter
+	allot 2
+	aloft 1
+	3
+creak
+	alter
+	brace 45
+	cream 2
+	creak 1
+	4
+swash
+	alter
+	candy 110
+	smash 11
+	swash 1
+	4
+copse
+	alter
+	noise 135
+	moose 6
+	copse 3
+	4
+timer
+	alter
+	truer 8
+	tiger 3
+	timer 1
+	4
+scrub
+	alter
+	crony 108
+	birch 3
+	scrub 1
+	4
+swamp
+	alter
+	candy 110
+	smash 11
+	swamp 2
+	4
+witch
+	alter
+	ditto 22
+	pitch 4
+	witch 2
+	4
+round
+	alter
+	crony 108
+	rhino 2
+	round 1
+	4
+expel
+	alter
+	bevel 23
+	wheel 4
+	expel 2
+	4
+downy
+	alter
+	sonic 196
+	pound 8
+	downy 1
+	4
+shirt
+	alter
+	trout 63
+	skirt 4
+	shirt 1
+	4
+reset
+	alter
+	egret 8
+	reset 1
+	3
+forum
+	alter
+	crony 108
+	forgo 5
+	forum 1
+	4
+whine
+	alter
+	noise 135
+	knife 2
+	whine 1
+	4
+above
+	alter
+	abode 17
+	above 1
+	3
+gleam
+	alter
+	blade 15
+	glean 3
+	gleam 1
+	4
+would
+	alter
+	silly 84
+	would 2
+	3
+usual
+	alter
+	sally 60
+	usual 1
+	3
+lemon
+	alter
+	belle 51
+	lemon 3
+	3
+apple
+	alter
+	angle 7
+	ample 4
+	apple 1
+	4
+clove
+	alter
+	close 25
+	clone 2
+	clove 1
+	4
+quasi
+	alter
+	candy 110
+	smash 11
+	quasi 1
+	4
+worst
+	alter
+	trout 63
+	robot 2
+	worst 1
+	4
+guise
+	alter
+	noise 135
+	guise 1
+	3
+bylaw
+	alter
+	sally 60
+	bylaw 1
+	3
+given
+	alter
+	widen 40
+	vixen 2
+	given 1
+	4
+pithy
+	alter
+	ditto 22
+	pitch 4
+	pithy 1
+	4
+comfy
+	alter
+	sonic 196
+	cough 6
+	comfy 1
+	4
+shalt
+	alter
+	tally 14
+	stalk 2
+	shalt 1
+	4
+plied
+	alter
+	sleep 7
+	plied 1
+	3
+enact
+	alter
+	skate 34
+	exact 4
+	enact 1
+	4
+frond
+	alter
+	crony 108
+	wrong 3
+	frond 1
+	4
+taken
+	alter
+	facet 3
+	taken 1
+	3
+lipid
+	alter
+	silly 84
+	vigil 6
+	lipid 1
+	4
+enter
+	alter
+	enter 9
+	2
+freak
+	alter
+	brace 45
+	dream 4
+	wreak 2
+	freak 1
+	5
+inlay
+	alter
+	sally 60
+	inlay 1
+	3
+gawky
+	alter
+	candy 110
+	gassy 10
+	gawky 1
+	4
+piney
+	alter
+	widen 40
+	piney 1
+	3
+clung
+	alter
+	slunk 52
+	flung 2
+	clung 1
+	4
+billy
+	alter
+	silly 84
+	filly 5
+	billy 4
+	4
+poesy
+	alter
+	noise 135
+	poesy 1
+	3
+wispy
+	alter
+	sonic 196
+	gipsy 5
+	wispy 1
+	4
+throw
+	alter
+	trout 63
+	throb 4
+	throw 1
+	4
+graft
+	alter
+	tract 27
+	draft 3
+	graft 1
+	4
+repay
+	alter
+	brace 45
+	opera 2
+	repay 1
+	4
+nudge
+	alter
+	noise 135
+	nudge 1
+	3
+stake
+	alter
+	skate 34
+	stake 1
+	3
+scary
+	alter
+	chard 89
+	scarf 2
+	scary 1
+	4
+daisy
+	alter
+	candy 110
+	daisy 1
+	3
+sloth
+	alter
+	flint 8
+	sloth 2
+	3
+debar
+	alter
+	spear 7
+	rebar 3
+	debar 1
+	4
+drill
+	alter
+	drill 22
+	2
+cumin
+	alter
+	sonic 196
+	cumin 1
+	3
+patio
+	alter
+	catty 17
+	baton 4
+	patio 1
+	4
+happy
+	alter
+	candy 110
+	gassy 10
+	jazzy 3
+	mammy 2
+	happy 1
+	6
+coyly
+	alter
+	silly 84
+	wooly 5
+	nobly 3
+	godly 2
+	coyly 1
+	6
+pupil
+	alter
+	silly 84
+	lucid 4
+	pupil 1
+	4
+wimpy
+	alter
+	sonic 196
+	whiff 9
+	wimpy 1
+	4
+witty
+	alter
+	ditto 22
+	bitty 3
+	kitty 2
+	witty 1
+	5
+woken
+	alter
+	widen 40
+	woven 3
+	women 2
+	woken 1
+	5
+agony
+	alter
+	again 20
+	agony 1
+	3
+untie
+	alter
+	cutie 11
+	untie 1
+	3
+dogma
+	alter
+	candy 110
+	vodka 3
+	dogma 1
+	4
+exist
+	alter
+	heist 55
+	exist 1
+	3
+float
+	alter
+	blast 7
+	gloat 2
+	float 1
+	4
+polyp
+	alter
+	silly 84
+	nylon 2
+	polyp 1
+	4
+dusky
+	alter
+	sonic 196
+	mushy 10
+	fussy 2
+	dusky 1
+	5
+mouth
+	alter
+	shout 107
+	youth 4
+	mouth 1
+	4
+psalm
+	alter
+	sally 60
+	psalm 1
+	3
+forty
+	alter
+	trout 63
+	worth 4
+	forty 1
+	4
+shore
+	alter
+	prose 100
+	snore 4
+	swore 3
+	shore 2
+	5
+mower
+	alter
+	riser 73
+	cower 30
+	power 2
+	mower 1
+	5
+shied
+	alter
+	widen 40
+	spied 2
+	shied 1
+	4
+skimp
+	alter
+	sonic 196
+	spiky 6
+	skimp 1
+	4
+humid
+	alter
+	sonic 196
+	vivid 2
+	humid 1
+	4
+midst
+	alter
+	shout 107
+	visit 3
+	midst 1
+	4
+haste
+	alter
+	skate 34
+	taste 6
+	paste 5
+	caste 4
+	baste 3
+	haste 2
+	7
+cable
+	alter
+	scale 33
+	cable 1
+	3
+acorn
+	alter
+	adorn 11
+	acorn 1
+	3
+salon
+	alter
+	sally 60
+	salvo 4
+	salon 1
+	4
+crook
+	alter
+	crony 108
+	crock 5
+	crook 1
+	4
+swift
+	alter
+	shout 107
+	swift 2
+	3
+viper
+	alter
+	riser 73
+	diner 12
+	viper 5
+	4
+paper
+	alter
+	wager 17
+	parer 10
+	payer 2
+	paper 1
+	5
+agape
+	alter
+	abode 17
+	amuse 5
+	awake 2
+	agape 1
+	5
+genre
+	alter
+	prose 100
+	verge 13
+	genre 1
+	4
+hussy
+	alter
+	sonic 196
+	mushy 10
+	husky 2
+	hussy 1
+	5
+speed
+	alter
+	widen 40
+	bused 4
+	speed 1
+	4
+speck
+	alter
+	noise 135
+	pesky 3
+	speck 1
+	4
+dowry
+	alter
+	crony 108
+	wordy 5
+	dowry 1
+	4
+guava
+	alter
+	candy 110
+	smash 11
+	guava 1
+	4
+solve
+	alter
+	belle 51
+	pulse 2
+	solve 1
+	4
+trick
+	alter
+	trout 63
+	trick 1
+	3
+crick
+	alter
+	crony 108
+	crump 6
+	crick 1
+	4
+parer
+	alter
+	wager 17
+	parer 10
+	3
+laden
+	alter
+	laden 10
+	2
+quilt
+	alter
+	guilt 17
+	built 2
+	quilt 1
+	4
+water
+	alter
+	hater 4
+	eater 3
+	cater 2
+	water 1
+	5
+birth
+	alter
+	trout 63
+	girth 5
+	birth 2
+	4
+basic
+	alter
+	candy 110
+	macho 5
+	basic 1
+	4
+willy
+	alter
+	silly 84
+	filly 5
+	hilly 4
+	billy 3
+	willy 2
+	6
+holly
+	alter
+	silly 84
+	golly 9
+	jolly 4
+	folly 3
+	dolly 2
+	holly 1
+	7
+super
+	alter
+	riser 73
+	sewer 8
+	sober 2
+	super 1
+	5
+decoy
+	alter
+	noise 135
+	epoxy 4
+	decoy 1
+	4
+whole
+	alter
+	belle 51
+	while 6
+	whole 1
+	4
+shall
+	alter
+	sally 60
+	small 2
+	shall 1
+	4
+curry
+	alter
+	crony 108
+	curvy 2
+	curry 1
+	4
+stint
+	alter
+	shout 107
+	swift 2
+	stint 1
+	4
+score
+	alter
+	prose 100
+	snore 4
+	swore 3
+	shore 2
+	score 1
+	6
+sewer
+	alter
+	riser 73
+	sewer 8
+	3
+utter
+	alter
+	enter 9
+	otter 4
+	utter 1
+	4
+sever
+	alter
+	riser 73
+	sewer 8
+	sever 1
+	4
+alive
+	alter
+	alive 4
+	2
+twirl
+	alter
+	troll 3
+	twirl 1
+	3
+haute
+	alter
+	skate 34
+	haute 1
+	3
+trade
+	alter
+	trace 14
+	trade 1
+	3
+unmet
+	alter
+	unset 20
+	unmet 1
+	3
+credo
+	alter
+	prose 100
+	credo 1
+	3
+tenor
+	alter
+	their 2
+	tenor 1
+	3
+never
+	alter
+	riser 73
+	power 30
+	defer 10
+	never 1
+	5
+began
+	alter
+	shame 63
+	began 7
+	3
+mirth
+	alter
+	trout 63
+	girth 5
+	birth 2
+	mirth 1
+	5
+upper
+	alter
+	riser 73
+	cower 30
+	under 10
+	upper 1
+	5
+crawl
+	alter
+	viral 17
+	drawl 4
+	brawl 2
+	crawl 1
+	5
+minim
+	alter
+	sonic 196
+	minim 1
+	3
+meaty
+	alter
+	skate 34
+	heath 3
+	meaty 1
+	4
+chirp
+	alter
+	crony 108
+	chirp 1
+	3
+comic
+	alter
+	sonic 196
+	comic 1
+	3
+hunky
+	alter
+	sonic 196
+	funky 4
+	hunky 1
+	4
+strap
+	alter
+	tract 27
+	party 5
+	strap 1
+	4
+kebab
+	alter
+	shame 63
+	began 7
+	kebab 1
+	4
+think
+	alter
+	shout 107
+	thing 4
+	think 1
+	4
+shout
+	alter
+	shout 107
+	2
+arbor
+	alter
+	abhor 5
+	arbor 1
+	3
+helix
+	alter
+	belle 51
+	welsh 5
+	helix 1
+	4
+hitch
+	alter
+	ditto 22
+	pitch 4
+	witch 2
+	hitch 1
+	5
+opium
+	alter
+	sonic 196
+	idiom 4
+	opium 1
+	4
+spank
+	alter
+	candy 110
+	piano 7
+	spank 1
+	4
+gross
+	alter
+	crony 108
+	droop 10
+	gross 1
+	4
+smear
+	alter
+	spear 7
+	swear 3
+	shear 2
+	smear 1
+	5
+agora
+	alter
+	adorn 11
+	agora 1
+	3
+champ
+	alter
+	candy 110
+	comma 7
+	champ 1
+	4
+shady
+	alter
+	candy 110
+	shady 1
+	3
+felon
+	alter
+	belle 51
+	welsh 5
+	melon 2
+	felon 1
+	5
+shack
+	alter
+	candy 110
+	scuba 8
+	smack 2
+	shack 1
+	5
+furor
+	alter
+	rigor 15
+	juror 2
+	furor 1
+	4
+facet
+	alter
+	facet 3
+	2
+other
+	alter
+	truer 8
+	other 3
+	3
+prong
+	alter
+	crony 108
+	wrong 3
+	prong 1
+	4
+verve
+	alter
+	prose 100
+	verge 13
+	verve 1
+	4
+steer
+	alter
+	truer 8
+	other 3
+	steer 1
+	4
+thong
+	alter
+	shout 107
+	photo 2
+	thong 1
+	4
+hovel
+	alter
+	bevel 23
+	hovel 2
+	3
+quash
+	alter
+	candy 110
+	smash 11
+	quash 1
+	4
+usurp
+	alter
+	crony 108
+	shrug 9
+	usurp 1
+	4
+sappy
+	alter
+	candy 110
+	gassy 10
+	savvy 3
+	sappy 1
+	5
+close
+	alter
+	close 25
+	2
+chime
+	alter
+	noise 135
+	guide 4
+	chime 1
+	4
+safer
+	alter
+	wager 17
+	parer 10
+	maker 4
+	saner 2
+	safer 1
+	6
+onset
+	alter
+	unset 20
+	onset 1
+	3
+maxim
+	alter
+	candy 110
+	mamma 8
+	maxim 1
+	4
+truly
+	alter
+	troll 3
+	truly 1
+	3
+comet
+	alter
+	unset 20
+	beget 4
+	covet 2
+	comet 1
+	5
+seedy
+	alter
+	noise 135
+	pesky 3
+	seedy 1
+	4
+detox
+	alter
+	cutie 11
+	petty 3
+	detox 1
+	4
+brood
+	alter
+	crony 108
+	droop 10
+	brood 1
+	4
+rayon
+	alter
+	chard 89
+	baron 14
+	rayon 1
+	4
+plush
+	alter
+	slunk 52
+	flush 3
+	blush 2
+	plush 1
+	5
+udder
+	alter
+	riser 73
+	cower 30
+	under 10
+	udder 1
+	5
+forth
+	alter
+	trout 63
+	worth 4
+	north 2
+	forth 1
+	5
+tipsy
+	alter
+	shout 107
+	tipsy 1
+	3
+torso
+	alter
+	trout 63
+	throb 4
+	torso 1
+	4
+slave
+	alter
+	blade 15
+	flake 6
+	plane 4
+	glaze 2
+	slave 1
+	6
+cabal
+	alter
+	sally 60
+	canal 7
+	cabal 1
+	4
+lover
+	alter
+	liver 10
+	lever 2
+	lover 1
+	4
+whack
+	alter
+	candy 110
+	scuba 8
+	whack 1
+	4
+evoke
+	alter
+	noise 135
+	choke 2
+	evoke 1
+	4
+cramp
+	alter
+	chard 89
+	crank 5
+	crass 3
+	crazy 2
+	cramp 1
+	6
+femur
+	alter
+	demur 5
+	femur 1
+	3
+globe
+	alter
+	close 25
+	globe 4
+	3
+occur
+	alter
+	rigor 15
+	scour 2
+	occur 1
+	4
+nerve
+	alter
+	prose 100
+	verge 13
+	nerve 1
+	4
+those
+	alter
+	heist 55
+	those 2
+	3
+amity
+	alter
+	adopt 12
+	aunty 2
+	amity 1
+	4
+dodgy
+	alter
+	sonic 196
+	goody 16
+	dodgy 1
+	4
+motor
+	alter
+	rotor 3
+	motor 1
+	3
+cress
+	alter
+	prose 100
+	dress 3
+	cress 1
+	4
+shawl
+	alter
+	sally 60
+	shoal 3
+	shawl 1
+	4
+sting
+	alter
+	shout 107
+	stink 5
+	sting 1
+	4
+satin
+	alter
+	catty 17
+	baton 4
+	satin 1
+	4
+salsa
+	alter
+	sally 60
+	salvo 4
+	salad 2
+	salsa 1
+	5
+scoff
+	alter
+	sonic 196
+	scoop 4
+	scoff 1
+	4
+being
+	alter
+	noise 135
+	eking 5
+	being 1
+	4
+uncut
+	alter
+	shout 107
+	input 2
+	uncut 1
+	4
+boast
+	alter
+	taint 56
+	coast 4
+	boast 1
+	4
+gnash
+	alter
+	candy 110
+	piano 7
+	gnash 1
+	4
+linen
+	alter
+	bevel 23
+	liken 4
+	linen 1
+	4
+drown
+	alter
+	crony 108
+	frown 5
+	grown 3
+	brown 2
+	drown 1
+	6
+alike
+	alter
+	alive 4
+	alike 1
+	3
+kneel
+	alter
+	bevel 23
+	wheel 4
+	kneel 1
+	4
+apnea
+	alter
+	annex 5
+	apnea 1
+	3
+refit
+	alter
+	trice 31
+	remit 4
+	refit 1
+	4
+offal
+	alter
+	sally 60
+	focal 9
+	offal 1
+	4
+dying
+	alter
+	sonic 196
+	vying 4
+	dying 1
+	4
+icily
+	alter
+	silly 84
+	imply 2
+	icily 1
+	4
+right
+	alter
+	trout 63
+	skirt 4
+	right 1
+	4
+rajah
+	alter
+	chard 89
+	harsh 4
+	rajah 1
+	4
+snarl
+	alter
+	viral 17
+	drawl 4
+	snarl 1
+	4
+hotly
+	alter
+	until 2
+	hotly 1
+	3
+foyer
+	alter
+	riser 73
+	cower 30
+	mover 8
+	joker 5
+	goner 3
+	boxer 2
+	foyer 1
+	8
+clump
+	alter
+	slunk 52
+	bluff 6
+	plump 2
+	clump 1
+	5
+hippo
+	alter
+	sonic 196
+	idiom 4
+	hippo 1
+	4
+junto
+	alter
+	shout 107
+	pouty 2
+	junto 1
+	4
+waste
+	alter
+	skate 34
+	taste 6
+	paste 5
+	caste 4
+	baste 3
+	haste 2
+	waste 1
+	8
+sense
+	alter
+	noise 135
+	dense 2
+	sense 1
+	4
+flout
+	alter
+	flint 8
+	flout 1
+	3
+along
+	alter
+	allow 10
+	along 2
+	3
+blaze
+	alter
+	blade 15
+	blame 2
+	blaze 1
+	4
+flour
+	alter
+	floor 2
+	flour 1
+	3
+kappa
+	alter
+	candy 110
+	mamma 8
+	kappa 1
+	4
+demon
+	alter
+	noise 135
+	envoy 6
+	demon 1
+	4
+chose
+	alter
+	noise 135
+	whose 3
+	chose 1
+	4
+grave
+	alter
+	brace 45
+	grade 8
+	graze 3
+	grape 2
+	grave 1
+	6
+irony
+	alter
+	crony 108
+	irony 1
+	3
+cadet
+	alter
+	facet 3
+	cadet 1
+	3
+scorn
+	alter
+	crony 108
+	scorn 1
+	3
+nasty
+	alter
+	taint 56
+	nasty 1
+	3
+whale
+	alter
+	scale 33
+	whale 1
+	3
+chant
+	alter
+	taint 56
+	scant 2
+	chant 1
+	4
+skunk
+	alter
+	sonic 196
+	spunk 4
+	skunk 1
+	4
+stunt
+	alter
+	shout 107
+	stunt 1
+	3
+least
+	alter
+	least 10
+	2
+dough
+	alter
+	sonic 196
+	goody 16
+	dough 1
+	4
+cheap
+	alter
+	shame 63
+	cheap 1
+	3
+musky
+	alter
+	sonic 196
+	mushy 10
+	musky 1
+	4
+ivory
+	alter
+	crony 108
+	roomy 2
+	ivory 1
+	4
+apart
+	alter
+	aorta 3
+	apart 1
+	3
+puffy
+	alter
+	sonic 196
+	dumpy 15
+	puffy 1
+	4
+focal
+	alter
+	sally 60
+	focal 9
+	3
+charm
+	alter
+	chard 89
+	charm 1
+	3
+nanny
+	alter
+	candy 110
+	fanny 4
+	nanny 1
+	4
+grace
+	alter
+	brace 45
+	grace 1
+	3
+fully
+	alter
+	silly 84
+	golly 9
+	bully 3
+	dully 2
+	fully 1
+	6
+craze
+	alter
+	brace 45
+	crave 3
+	crane 2
+	craze 1
+	5
+about
+	alter
+	adopt 12
+	afoot 2
+	about 1
+	4
+screw
+	alter
+	pried 25
+	shrew 4
+	screw 1
+	4
+prose
+	alter
+	prose 100
+	2
+shake
+	alter
+	shame 63
+	shade 4
+	shave 3
+	shape 2
+	shake 1
+	6
+juice
+	alter
+	noise 135
+	guide 4
+	juice 1
+	4
+decay
+	alter
+	shame 63
+	began 7
+	decay 1
+	4
+stage
+	alter
+	skate 34
+	stave 2
+	stage 1
+	4
+arrow
+	alter
+	adorn 11
+	arrow 1
+	3
+wagon
+	alter
+	candy 110
+	mason 6
+	wagon 1
+	4
+pygmy
+	alter
+	sonic 196
+	dumpy 15
+	pygmy 1
+	4
+tweet
+	alter
+	unset 20
+	beget 4
+	tweet 1
+	4
+lyric
+	alter
+	drill 22
+	lyric 1
+	3
+caput
+	alter
+	taint 56
+	gamut 3
+	caput 1
+	4
+mossy
+	alter
+	sonic 196
+	bosom 3
+	mossy 1
+	4
+afire
+	alter
+	arose 8
+	aware 3
+	azure 2
+	afire 1
+	5
+hedge
+	alter
+	noise 135
+	fugue 9
+	wedge 2
+	hedge 1
+	5
+fiber
+	alter
+	riser 73
+	diner 12
+	viper 5
+	fixer 2
+	fiber 1
+	6
+ovate
+	alter
+	skate 34
+	ovate 1
+	3
+chaos
+	alter
+	candy 110
+	comma 7
+	chaos 1
+	4
+cacao
+	alter
+	candy 110
+	cacao 1
+	3
+swami
+	alter
+	candy 110
+	smash 11
+	swamp 2
+	swami 1
+	5
+agile
+	alter
+	angle 7
+	agile 1
+	3
+amaze
+	alter
+	abode 17
+	amuse 5
+	amaze 1
+	4
+ounce
+	alter
+	noise 135
+	ozone 4
+	ounce 1
+	4
+sharp
+	alter
+	chard 89
+	shark 3
+	sharp 1
+	4
+bison
+	alter
+	sonic 196
+	bison 1
+	3
+friar
+	alter
+	vicar 16
+	briar 2
+	friar 1
+	4
+jetty
+	alter
+	cutie 11
+	petty 3
+	jetty 1
+	4
+hardy
+	alter
+	chard 89
+	hardy 1
+	3
+mucus
+	alter
+	sonic 196
+	mucus 1
+	3
+medic
+	alter
+	noise 135
+	equip 2
+	medic 1
+	4
+ghost
+	alter
+	shout 107
+	ghost 1
+	3
+steak
+	alter
+	skate 34
+	steak 1
+	3
+gruel
+	alter
+	repel 5
+	cruel 2
+	gruel 1
+	4
+manly
+	alter
+	sally 60
+	madly 6
+	manly 1
+	4
+sauna
+	alter
+	candy 110
+	mason 6
+	sauna 1
+	4
+query
+	alter
+	prose 100
+	berry 15
+	every 3
+	fiery 2
+	query 1
+	6
+could
+	alter
+	silly 84
+	would 2
+	could 1
+	4
+adult
+	alter
+	atoll 2
+	adult 1
+	3
+hoist
+	alter
+	shout 107
+	hoist 1
+	3
+spiky
+	alter
+	sonic 196
+	spiky 6
+	3
+axion
+	alter
+	again 20
+	axion 1
+	3
+farce
+	alter
+	brace 45
+	farce 1
+	3
+ankle
+	alter
+	angle 7
+	ankle 1
+	3
+truck
+	alter
+	trout 63
+	trunk 4
+	truck 1
+	4
+aisle
+	alter
+	angle 7
+	ample 4
+	aisle 1
+	4
+clean
+	alter
+	blade 15
+	glean 3
+	clean 1
+	4
+scalp
+	alter
+	sally 60
+	scald 2
+	scalp 1
+	4
+zesty
+	alter
+	heist 55
+	testy 3
+	zesty 1
+	4
+crack
+	alter
+	chard 89
+	crank 5
+	crack 1
+	4
+sixth
+	alter
+	shout 107
+	smith 2
+	sixth 1
+	4
+rough
+	alter
+	crony 108
+	forgo 5
+	rough 1
+	4
+guile
+	alter
+	belle 51
+	while 6
+	smile 2
+	guile 1
+	5
+ovoid
+	alter
+	sonic 196
+	ovoid 1
+	3
+wound
+	alter
+	sonic 196
+	pound 8
+	found 5
+	bound 4
+	hound 3
+	mound 2
+	wound 1
+	8
+relay
+	alter
+	regal 10
+	relax 2
+	relay 1
+	4
+drove
+	alter
+	prose 100
+	drone 7
+	drove 1
+	4
+medal
+	alter
+	scale 33
+	pedal 7
+	medal 1
+	4
+blown
+	alter
+	slunk 52
+	flown 3
+	clown 2
+	blown 1
+	5
+ether
+	alter
+	truer 8
+	other 3
+	ether 1
+	4
+plant
+	alter
+	blast 7
+	plait 2
+	plant 1
+	4
+trust
+	alter
+	trout 63
+	trust 1
+	3
+gruff
+	alter
+	crony 108
+	brisk 6
+	gruff 1
+	4
+avoid
+	alter
+	again 20
+	audio 4
+	avoid 1
+	4
+prism
+	alter
+	crony 108
+	brisk 6
+	prism 1
+	4
+burly
+	alter
+	drill 22
+	surly 3
+	curly 2
+	burly 1
+	5
+crepe
+	alter
+	prose 100
+	gripe 2
+	crepe 1
+	4
+cheat
+	alter
+	skate 34
+	wheat 3
+	cheat 1
+	4
+smoky
+	alter
+	sonic 196
+	spook 6
+	smoky 1
+	4
+dilly
+	alter
+	silly 84
+	filly 5
+	hilly 4
+	billy 3
+	willy 2
+	dilly 1
+	7
+quack
+	alter
+	candy 110
+	scuba 8
+	quack 1
+	4
+tower
+	alter
+	truer 8
+	tiger 3
+	tower 1
+	4
+brawn
+	alter
+	chard 89
+	brain 11
+	brawn 1
+	4
+gaunt
+	alter
+	taint 56
+	jaunt 5
+	daunt 4
+	vaunt 3
+	haunt 2
+	gaunt 1
+	7
+swarm
+	alter
+	chard 89
+	spark 4
+	swarm 1
+	4
+royal
+	alter
+	viral 17
+	royal 1
+	3
+rupee
+	alter
+	pried 25
+	spree 2
+	rupee 1
+	4
+twist
+	alter
+	shout 107
+	visit 3
+	twist 1
+	4
+cease
+	alter
+	shame 63
+	usage 2
+	cease 1
+	4
+weigh
+	alter
+	noise 135
+	edify 2
+	weigh 1
+	4
+civil
+	alter
+	silly 84
+	vigil 6
+	civil 1
+	4
+shoot
+	alter
+	shout 107
+	shoot 1
+	3
+scene
+	alter
+	noise 135
+	ensue 2
+	scene 1
+	4
+sling
+	alter
+	slunk 52
+	sling 1
+	3
+spill
+	alter
+	silly 84
+	swill 3
+	skill 2
+	spill 1
+	5
+excel
+	alter
+	bevel 23
+	wheel 4
+	expel 2
+	excel 1
+	5
+abyss
+	alter
+	again 20
+	abyss 1
+	3
+knead
+	alter
+	shame 63
+	began 7
+	knead 1
+	4
+chain
+	alter
+	candy 110
+	china 2
+	chain 1
+	4
+singe
+	alter
+	noise 135
+	since 2
+	singe 1
+	4
+briny
+	alter
+	crony 108
+	briny 1
+	3
+vinyl
+	alter
+	silly 84
+	vinyl 1
+	3
+budge
+	alter
+	noise 135
+	fugue 9
+	judge 2
+	budge 1
+	5
+scree
+	alter
+	pried 25
+	shrew 4
+	scree 1
+	4
+cause
+	alter
+	shame 63
+	pause 2
+	cause 1
+	4
+niece
+	alter
+	noise 135
+	niche 2
+	niece 1
+	4
+login
+	alter
+	silly 84
+	lucid 4
+	login 1
+	4
+crime
+	alter
+	prose 100
+	crude 9
+	creme 2
+	crime 1
+	5
+exult
+	alter
+	style 11
+	knelt 3
+	exult 1
+	4
+spurt
+	alter
+	trout 63
+	burnt 3
+	spurt 1
+	4
+squat
+	alter
+	taint 56
+	coast 4
+	squat 1
+	4
+woozy
+	alter
+	sonic 196
+	goody 16
+	booby 3
+	woozy 1
+	5
+thigh
+	alter
+	shout 107
+	thing 4
+	thigh 1
+	4
+filet
+	alter
+	islet 5
+	filet 1
+	3
+heist
+	alter
+	heist 55
+	2
+cloth
+	alter
+	flint 8
+	sloth 2
+	cloth 1
+	4
+spawn
+	alter
+	candy 110
+	piano 7
+	spawn 1
+	4
+heard
+	alter
+	brace 45
+	ready 5
+	heard 1
+	4
+jewel
+	alter
+	bevel 23
+	jewel 1
+	3
+segue
+	alter
+	noise 135
+	segue 1
+	3
+gloss
+	alter
+	slunk 52
+	floss 3
+	gloss 1
+	4
+poker
+	alter
+	riser 73
+	cower 30
+	mover 8
+	joker 5
+	poker 1
+	6
+slush
+	alter
+	slunk 52
+	slump 2
+	slush 1
+	4
+stony
+	alter
+	shout 107
+	stoop 7
+	stock 3
+	stony 1
+	5
+steep
+	alter
+	unset 20
+	steed 2
+	steep 1
+	4
+novel
+	alter
+	bevel 23
+	hovel 2
+	novel 1
+	4
+manor
+	alter
+	vicar 16
+	mayor 4
+	major 2
+	manor 1
+	5
+inner
+	alter
+	riser 73
+	infer 2
+	inner 1
+	4
+lurch
+	alter
+	drill 22
+	lorry 2
+	lurch 1
+	4
+trump
+	alter
+	trout 63
+	trunk 4
+	truss 2
+	trump 1
+	5
+rower
+	alter
+	riser 73
+	rover 5
+	roger 2
+	rower 1
+	5
+twang
+	alter
+	taint 56
+	thank 2
+	twang 1
+	4
+yacht
+	alter
+	taint 56
+	gamut 3
+	yacht 1
+	4
+loamy
+	alter
+	sally 60
+	loamy 1
+	3
+aloud
+	alter
+	allow 10
+	along 2
+	aloud 1
+	4
+merit
+	alter
+	trice 31
+	remit 4
+	merit 1
+	4
+tumor
+	alter
+	tumor 1
+	2
+wryly
+	alter
+	drill 22
+	wryly 1
+	3
+vapor
+	alter
+	vicar 16
+	vapor 1
+	3
+shook
+	alter
+	sonic 196
+	spook 6
+	shook 1
+	4
+tryst
+	alter
+	trout 63
+	tryst 1
+	3
+growl
+	alter
+	drill 22
+	prowl 2
+	growl 1
+	4
+prime
+	alter
+	prose 100
+	pride 6
+	prize 3
+	price 2
+	prime 1
+	6
+alien
+	alter
+	alley 2
+	alien 1
+	3
+these
+	alter
+	heist 55
+	those 2
+	these 1
+	4
+chili
+	alter
+	silly 84
+	build 4
+	chili 1
+	4
+aside
+	alter
+	abode 17
+	aside 1
+	3
+retch
+	alter
+	metro 5
+	retch 1
+	3
+hurry
+	alter
+	crony 108
+	furry 6
+	hurry 1
+	4
+antic
+	alter
+	attic 2
+	antic 1
+	3

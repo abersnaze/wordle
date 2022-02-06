@@ -1,0 +1,13074 @@
+unlit
+	arose
+	child 183
+	unlit 9
+	3
+algae
+	arose
+	agile 18
+	algae 1
+	3
+rural
+	arose
+	harry 55
+	rural 1
+	3
+snuff
+	arose
+	stink 79
+	snuff 1
+	3
+spout
+	arose
+	stoop 36
+	spout 1
+	3
+dodgy
+	arose
+	donut 104
+	dodgy 3
+	3
+argue
+	arose
+	argue 1
+	2
+fluid
+	arose
+	child 183
+	livid 3
+	fluid 1
+	4
+giver
+	arose
+	rivet 103
+	giver 3
+	3
+daddy
+	arose
+	canal 148
+	datum 21
+	daddy 1
+	4
+lupus
+	arose
+	stink 79
+	humus 6
+	lupus 1
+	4
+dingo
+	arose
+	donut 104
+	dingo 1
+	3
+stilt
+	arose
+	stink 79
+	stilt 3
+	3
+ridge
+	arose
+	verge 19
+	ridge 1
+	3
+order
+	arose
+	order 3
+	2
+melee
+	arose
+	guile 79
+	melee 2
+	3
+denim
+	arose
+	inlet 120
+	feign 9
+	denim 1
+	4
+salon
+	arose
+	salon 6
+	2
+label
+	arose
+	metal 78
+	label 7
+	3
+snail
+	arose
+	slant 67
+	snail 1
+	3
+whine
+	arose
+	guile 79
+	whine 7
+	3
+speak
+	arose
+	steam 11
+	speak 2
+	3
+scarf
+	arose
+	strap 21
+	scarf 6
+	3
+retro
+	arose
+	rower 34
+	retro 1
+	3
+tibia
+	arose
+	canal 148
+	tibia 4
+	3
+brook
+	arose
+	prong 38
+	brood 15
+	brook 2
+	4
+delay
+	arose
+	metal 78
+	delay 1
+	3
+still
+	arose
+	stink 79
+	stilt 3
+	still 1
+	4
+horse
+	arose
+	horse 3
+	2
+build
+	arose
+	child 183
+	build 2
+	3
+chose
+	arose
+	loose 8
+	chose 3
+	3
+eager
+	arose
+	later 60
+	wager 15
+	eager 1
+	4
+pilot
+	arose
+	donut 104
+	pilot 3
+	3
+afire
+	arose
+	afire 4
+	2
+allow
+	arose
+	allot 9
+	allow 2
+	3
+syrup
+	arose
+	shirt 21
+	scrum 4
+	syrup 1
+	4
+resin
+	arose
+	sheer 24
+	resin 2
+	3
+spurn
+	arose
+	shirt 21
+	spurn 2
+	3
+lunch
+	arose
+	child 183
+	mulch 4
+	lunch 1
+	4
+risen
+	arose
+	sheer 24
+	risen 1
+	3
+budge
+	arose
+	guile 79
+	budge 5
+	3
+avian
+	arose
+	await 30
+	avian 2
+	3
+gravy
+	arose
+	train 43
+	wrack 11
+	gravy 4
+	4
+ditto
+	arose
+	donut 104
+	ditto 1
+	3
+noise
+	arose
+	poise 8
+	noise 1
+	3
+prong
+	arose
+	prong 38
+	2
+store
+	arose
+	store 6
+	2
+clump
+	arose
+	child 183
+	clump 3
+	3
+tenor
+	arose
+	rower 34
+	tenor 2
+	3
+infer
+	arose
+	rivet 103
+	infer 5
+	3
+aloft
+	arose
+	aloft 12
+	2
+moron
+	arose
+	north 49
+	moron 2
+	3
+patty
+	arose
+	canal 148
+	datum 21
+	patty 4
+	4
+thank
+	arose
+	canal 148
+	thank 3
+	3
+novel
+	arose
+	melon 47
+	novel 1
+	3
+cluck
+	arose
+	child 183
+	clump 3
+	cluck 2
+	4
+beret
+	arose
+	rivet 103
+	beret 2
+	3
+blond
+	arose
+	blood 39
+	blond 1
+	3
+grief
+	arose
+	creed 28
+	grief 4
+	3
+spawn
+	arose
+	slant 67
+	snack 3
+	spawn 1
+	4
+gaunt
+	arose
+	canal 148
+	taunt 10
+	gaunt 5
+	4
+filer
+	arose
+	rivet 103
+	finer 11
+	filer 3
+	4
+repel
+	arose
+	rivet 103
+	repel 6
+	3
+onset
+	arose
+	onset 4
+	2
+diner
+	arose
+	rivet 103
+	finer 11
+	diner 3
+	4
+penne
+	arose
+	guile 79
+	pence 9
+	penne 1
+	4
+grove
+	arose
+	prove 14
+	grove 3
+	3
+world
+	arose
+	north 49
+	world 6
+	3
+probe
+	arose
+	prove 14
+	probe 2
+	3
+often
+	arose
+	melon 47
+	woven 6
+	often 1
+	4
+guava
+	arose
+	canal 148
+	magma 6
+	guava 1
+	4
+fatty
+	arose
+	canal 148
+	datum 21
+	patty 4
+	fatty 3
+	5
+metro
+	arose
+	rower 34
+	metro 3
+	3
+sleep
+	arose
+	spelt 44
+	sleep 1
+	3
+surer
+	arose
+	sheer 24
+	surer 3
+	3
+coral
+	arose
+	carol 28
+	coral 1
+	3
+bingo
+	arose
+	donut 104
+	bingo 2
+	3
+shook
+	arose
+	stoop 36
+	shook 2
+	3
+miser
+	arose
+	sheer 24
+	miser 3
+	3
+slump
+	arose
+	stink 79
+	slump 4
+	3
+boule
+	arose
+	vogue 14
+	boule 2
+	3
+scram
+	arose
+	strap 21
+	scram 1
+	3
+cagey
+	arose
+	metal 78
+	haven 4
+	cagey 1
+	4
+suite
+	arose
+	snipe 24
+	slime 7
+	suite 2
+	4
+again
+	arose
+	await 30
+	again 2
+	3
+renew
+	arose
+	rivet 103
+	repel 6
+	renew 2
+	4
+brain
+	arose
+	train 43
+	brain 3
+	3
+crony
+	arose
+	prong 38
+	crony 4
+	3
+nadir
+	arose
+	harry 55
+	rabid 7
+	nadir 1
+	4
+elect
+	arose
+	inlet 120
+	elect 4
+	3
+morph
+	arose
+	north 49
+	morph 2
+	3
+daily
+	arose
+	canal 148
+	dally 13
+	daily 1
+	4
+delta
+	arose
+	metal 78
+	leapt 4
+	delta 1
+	4
+moose
+	arose
+	loose 8
+	moose 3
+	3
+weigh
+	arose
+	inlet 120
+	weigh 4
+	3
+cello
+	arose
+	melon 47
+	cello 2
+	3
+drink
+	arose
+	print 37
+	bring 6
+	drink 1
+	4
+deity
+	arose
+	inlet 120
+	tepid 5
+	deity 1
+	4
+lemon
+	arose
+	melon 47
+	lemon 1
+	3
+gland
+	arose
+	canal 148
+	plank 7
+	gland 2
+	4
+ardor
+	arose
+	ardor 4
+	2
+refer
+	arose
+	rivet 103
+	repel 6
+	renew 2
+	refer 1
+	5
+ninja
+	arose
+	canal 148
+	ninja 2
+	3
+grail
+	arose
+	train 43
+	grail 3
+	3
+chain
+	arose
+	canal 148
+	chain 3
+	3
+icily
+	arose
+	child 183
+	icily 1
+	3
+tooth
+	arose
+	blood 39
+	tooth 5
+	3
+draft
+	arose
+	train 43
+	draft 4
+	3
+finer
+	arose
+	rivet 103
+	finer 11
+	3
+stave
+	arose
+	slate 29
+	stave 3
+	3
+vixen
+	arose
+	inlet 120
+	vixen 4
+	3
+verso
+	arose
+	verso 1
+	2
+buxom
+	arose
+	donut 104
+	gumbo 3
+	buxom 1
+	4
+amaze
+	arose
+	agile 18
+	amaze 4
+	3
+block
+	arose
+	blood 39
+	block 2
+	3
+islet
+	arose
+	spelt 44
+	islet 1
+	3
+pedal
+	arose
+	metal 78
+	pedal 5
+	3
+plain
+	arose
+	canal 148
+	plank 7
+	plain 1
+	4
+cease
+	arose
+	lapse 10
+	cease 3
+	3
+opine
+	arose
+	vogue 14
+	opine 2
+	3
+blaze
+	arose
+	eagle 50
+	blame 8
+	blaze 2
+	4
+demur
+	arose
+	rivet 103
+	decry 16
+	demur 1
+	4
+vegan
+	arose
+	metal 78
+	began 5
+	vegan 1
+	4
+rerun
+	arose
+	rivet 103
+	rerun 4
+	3
+botch
+	arose
+	donut 104
+	botch 7
+	3
+remit
+	arose
+	rivet 103
+	remit 2
+	3
+basic
+	arose
+	slant 67
+	basic 2
+	3
+petal
+	arose
+	metal 78
+	petal 2
+	3
+plush
+	arose
+	sissy 17
+	plush 3
+	3
+fable
+	arose
+	eagle 50
+	fable 5
+	3
+sound
+	arose
+	sound 15
+	2
+minor
+	arose
+	north 49
+	minor 1
+	3
+sweat
+	arose
+	steam 11
+	sweat 1
+	3
+shied
+	arose
+	spelt 44
+	semen 4
+	shied 1
+	4
+paste
+	arose
+	slate 29
+	paste 6
+	3
+waive
+	arose
+	eagle 50
+	mauve 9
+	waive 2
+	4
+dodge
+	arose
+	vogue 14
+	dodge 2
+	3
+drove
+	arose
+	prove 14
+	grove 3
+	drove 2
+	4
+welsh
+	arose
+	chest 10
+	welsh 1
+	3
+craft
+	arose
+	train 43
+	draft 4
+	craft 2
+	4
+tidal
+	arose
+	canal 148
+	tidal 4
+	3
+visit
+	arose
+	stink 79
+	visit 1
+	3
+dried
+	arose
+	creed 28
+	dried 4
+	3
+vapor
+	arose
+	carol 28
+	rayon 7
+	vapor 3
+	4
+sling
+	arose
+	stink 79
+	sling 5
+	3
+crypt
+	arose
+	print 37
+	crypt 1
+	3
+trout
+	arose
+	prong 38
+	brood 15
+	trout 5
+	4
+alike
+	arose
+	agile 18
+	alike 2
+	3
+nasty
+	arose
+	slant 67
+	nasty 1
+	3
+revue
+	arose
+	verge 19
+	revue 1
+	3
+prism
+	arose
+	crust 11
+	brisk 3
+	prism 1
+	4
+scalp
+	arose
+	slant 67
+	scalp 6
+	3
+width
+	arose
+	child 183
+	width 1
+	3
+array
+	arose
+	array 1
+	2
+silly
+	arose
+	stink 79
+	squib 3
+	silly 1
+	4
+acorn
+	arose
+	acorn 4
+	2
+ralph
+	arose
+	harry 55
+	ralph 3
+	3
+alarm
+	arose
+	award 7
+	alarm 2
+	3
+sissy
+	arose
+	sissy 17
+	2
+rower
+	arose
+	rower 34
+	2
+briar
+	arose
+	train 43
+	briar 2
+	3
+scuba
+	arose
+	slant 67
+	scuba 7
+	3
+spire
+	arose
+	spree 6
+	spire 1
+	3
+plate
+	arose
+	eagle 50
+	blame 8
+	plate 4
+	4
+rabid
+	arose
+	harry 55
+	rabid 7
+	3
+synod
+	arose
+	sound 15
+	synod 1
+	3
+beard
+	arose
+	later 60
+	ready 11
+	beard 2
+	4
+swing
+	arose
+	stink 79
+	sling 5
+	swing 2
+	4
+sumac
+	arose
+	slant 67
+	scuba 7
+	sumac 1
+	4
+coast
+	arose
+	coast 4
+	2
+moult
+	arose
+	donut 104
+	moult 1
+	3
+musky
+	arose
+	stink 79
+	musky 3
+	3
+pasty
+	arose
+	slant 67
+	pasty 5
+	3
+bread
+	arose
+	tread 11
+	bread 2
+	3
+clerk
+	arose
+	rivet 103
+	decry 16
+	clerk 1
+	4
+bobby
+	arose
+	donut 104
+	folly 16
+	bobby 3
+	4
+slosh
+	arose
+	gloss 6
+	slosh 1
+	3
+lumpy
+	arose
+	child 183
+	flunk 11
+	lumpy 2
+	4
+smite
+	arose
+	snipe 24
+	slime 7
+	smite 1
+	4
+grasp
+	arose
+	brash 7
+	grasp 3
+	3
+talon
+	arose
+	tonal 44
+	talon 1
+	3
+avail
+	arose
+	await 30
+	again 2
+	avail 1
+	4
+piece
+	arose
+	guile 79
+	piece 7
+	3
+tatty
+	arose
+	canal 148
+	datum 21
+	patty 4
+	fatty 3
+	tatty 2
+	6
+exile
+	arose
+	guile 79
+	exile 2
+	3
+oddly
+	arose
+	donut 104
+	oddly 3
+	3
+bawdy
+	arose
+	canal 148
+	datum 21
+	bawdy 3
+	4
+phony
+	arose
+	blood 39
+	phony 6
+	3
+proxy
+	arose
+	prong 38
+	proxy 4
+	3
+layer
+	arose
+	later 60
+	layer 2
+	3
+madam
+	arose
+	canal 148
+	madam 2
+	3
+steam
+	arose
+	steam 11
+	2
+ruler
+	arose
+	rivet 103
+	repel 6
+	ruler 1
+	4
+slide
+	arose
+	snipe 24
+	slime 7
+	slide 2
+	4
+eaten
+	arose
+	metal 78
+	eaten 1
+	3
+grout
+	arose
+	prong 38
+	grout 3
+	3
+polar
+	arose
+	carol 28
+	polar 2
+	3
+gully
+	arose
+	child 183
+	gully 3
+	3
+waste
+	arose
+	slate 29
+	paste 6
+	waste 5
+	4
+adorn
+	arose
+	acorn 4
+	adorn 1
+	3
+trust
+	arose
+	crust 11
+	trust 1
+	3
+limit
+	arose
+	child 183
+	unlit 9
+	limit 1
+	4
+burly
+	arose
+	birch 33
+	burly 2
+	3
+circa
+	arose
+	harry 55
+	circa 3
+	3
+digit
+	arose
+	child 183
+	digit 7
+	3
+chump
+	arose
+	child 183
+	chuck 3
+	chump 1
+	4
+frock
+	arose
+	prong 38
+	brood 15
+	trout 5
+	frock 2
+	5
+pixie
+	arose
+	guile 79
+	piece 7
+	pixie 1
+	4
+abate
+	arose
+	agile 18
+	amaze 4
+	abate 2
+	4
+plank
+	arose
+	canal 148
+	plank 7
+	3
+flood
+	arose
+	blood 39
+	flood 1
+	3
+catch
+	arose
+	canal 148
+	catch 6
+	3
+butch
+	arose
+	child 183
+	butch 6
+	3
+elfin
+	arose
+	inlet 120
+	elfin 1
+	3
+enjoy
+	arose
+	melon 47
+	enjoy 3
+	3
+maple
+	arose
+	eagle 50
+	fable 5
+	maple 2
+	4
+tango
+	arose
+	tonal 44
+	tango 1
+	3
+curve
+	arose
+	verge 19
+	curve 1
+	3
+prize
+	arose
+	tripe 24
+	prize 4
+	3
+roger
+	arose
+	rower 34
+	roger 2
+	3
+drift
+	arose
+	print 37
+	drift 1
+	3
+scant
+	arose
+	slant 67
+	scant 1
+	3
+rivet
+	arose
+	rivet 103
+	2
+sully
+	arose
+	stink 79
+	slump 4
+	sully 1
+	4
+amber
+	arose
+	alert 7
+	amber 3
+	3
+pluck
+	arose
+	child 183
+	pluck 2
+	3
+rayon
+	arose
+	carol 28
+	rayon 7
+	3
+bused
+	arose
+	spelt 44
+	bused 1
+	3
+power
+	arose
+	rower 34
+	power 5
+	3
+plied
+	arose
+	inlet 120
+	plied 3
+	3
+whole
+	arose
+	clone 16
+	whole 1
+	3
+rally
+	arose
+	harry 55
+	rainy 4
+	rally 2
+	4
+fruit
+	arose
+	print 37
+	fruit 1
+	3
+snowy
+	arose
+	stoop 36
+	showy 9
+	snowy 1
+	4
+split
+	arose
+	stink 79
+	sixty 4
+	split 1
+	4
+purse
+	arose
+	purse 7
+	2
+rearm
+	arose
+	later 60
+	ready 11
+	rearm 2
+	4
+exert
+	arose
+	rivet 103
+	exert 1
+	3
+zonal
+	arose
+	tonal 44
+	zonal 1
+	3
+rabbi
+	arose
+	harry 55
+	rabid 7
+	rabbi 1
+	4
+rebus
+	arose
+	sheer 24
+	resin 2
+	rebus 1
+	4
+slimy
+	arose
+	stink 79
+	spicy 4
+	slimy 1
+	4
+irate
+	arose
+	grace 19
+	drake 7
+	irate 3
+	4
+taken
+	arose
+	metal 78
+	taken 6
+	3
+taper
+	arose
+	later 60
+	taper 3
+	3
+lithe
+	arose
+	guile 79
+	lithe 3
+	3
+perky
+	arose
+	rivet 103
+	decry 16
+	perky 2
+	4
+gnome
+	arose
+	clone 16
+	gnome 1
+	3
+eater
+	arose
+	later 60
+	eater 4
+	3
+cheat
+	arose
+	metal 78
+	cheat 3
+	3
+baton
+	arose
+	tonal 44
+	baton 1
+	3
+sweep
+	arose
+	spelt 44
+	sweep 2
+	3
+goody
+	arose
+	blood 39
+	goody 3
+	3
+ferry
+	arose
+	rivet 103
+	decry 16
+	ferry 4
+	4
+totem
+	arose
+	melon 47
+	totem 2
+	3
+lodge
+	arose
+	vogue 14
+	dodge 2
+	lodge 1
+	4
+worse
+	arose
+	horse 3
+	worse 1
+	3
+strut
+	arose
+	shirt 21
+	strut 1
+	3
+latte
+	arose
+	eagle 50
+	halve 6
+	latte 2
+	4
+phase
+	arose
+	lapse 10
+	phase 1
+	3
+twixt
+	arose
+	child 183
+	tying 5
+	twixt 1
+	4
+alive
+	arose
+	agile 18
+	alike 2
+	alive 1
+	4
+ashen
+	arose
+	ashen 3
+	2
+gamer
+	arose
+	later 60
+	wager 15
+	gamer 3
+	4
+birch
+	arose
+	birch 33
+	2
+crazy
+	arose
+	train 43
+	wrack 11
+	crazy 2
+	4
+spool
+	arose
+	stoop 36
+	spool 4
+	3
+droit
+	arose
+	prong 38
+	brood 15
+	droit 2
+	4
+quoth
+	arose
+	blood 39
+	phony 6
+	quoth 1
+	4
+aware
+	arose
+	afire 4
+	aware 2
+	3
+drama
+	arose
+	train 43
+	wrack 11
+	gravy 4
+	drama 2
+	5
+chock
+	arose
+	blood 39
+	phony 6
+	chock 1
+	4
+heath
+	arose
+	metal 78
+	heath 3
+	3
+ghoul
+	arose
+	blood 39
+	ghoul 2
+	3
+boozy
+	arose
+	blood 39
+	boozy 4
+	3
+irony
+	arose
+	prong 38
+	crony 4
+	irony 1
+	4
+froth
+	arose
+	prong 38
+	brood 15
+	trout 5
+	froth 1
+	5
+stool
+	arose
+	stoop 36
+	stool 2
+	3
+track
+	arose
+	train 43
+	track 4
+	3
+fatal
+	arose
+	canal 148
+	fatal 2
+	3
+stead
+	arose
+	steam 11
+	stead 3
+	3
+vigor
+	arose
+	north 49
+	vigor 5
+	3
+stern
+	arose
+	sheer 24
+	stern 2
+	3
+moldy
+	arose
+	donut 104
+	moldy 3
+	3
+noose
+	arose
+	loose 8
+	moose 3
+	noose 2
+	4
+feral
+	arose
+	later 60
+	regal 7
+	feral 1
+	4
+petty
+	arose
+	inlet 120
+	petty 8
+	3
+hurry
+	arose
+	birch 33
+	hurry 2
+	3
+prune
+	arose
+	tripe 24
+	prune 2
+	3
+sloth
+	arose
+	stoop 36
+	sloth 4
+	3
+hymen
+	arose
+	inlet 120
+	hymen 2
+	3
+tasty
+	arose
+	slant 67
+	pasty 5
+	tasty 2
+	4
+slave
+	arose
+	slate 29
+	slave 1
+	3
+enemy
+	arose
+	inlet 120
+	enemy 1
+	3
+skull
+	arose
+	stink 79
+	skull 2
+	3
+viral
+	arose
+	harry 55
+	circa 3
+	viral 1
+	4
+horny
+	arose
+	north 49
+	horny 1
+	3
+rainy
+	arose
+	harry 55
+	rainy 4
+	3
+femur
+	arose
+	rivet 103
+	decry 16
+	femur 2
+	4
+blunt
+	arose
+	child 183
+	flunk 11
+	blunt 1
+	4
+arrow
+	arose
+	ardor 4
+	arrow 1
+	3
+posit
+	arose
+	sound 15
+	posit 2
+	3
+slate
+	arose
+	slate 29
+	2
+sulky
+	arose
+	stink 79
+	skull 2
+	sulky 1
+	4
+magic
+	arose
+	canal 148
+	watch 10
+	magic 1
+	4
+debit
+	arose
+	inlet 120
+	edict 5
+	debit 1
+	4
+stock
+	arose
+	stoop 36
+	stock 4
+	3
+godly
+	arose
+	donut 104
+	moldy 3
+	godly 1
+	4
+chord
+	arose
+	floor 9
+	chord 3
+	3
+llama
+	arose
+	canal 148
+	llama 2
+	3
+natal
+	arose
+	canal 148
+	natal 2
+	3
+tease
+	arose
+	lapse 10
+	cease 3
+	tease 1
+	4
+salad
+	arose
+	slant 67
+	salad 3
+	3
+molar
+	arose
+	carol 28
+	polar 2
+	molar 1
+	4
+apron
+	arose
+	abhor 4
+	apron 1
+	3
+saner
+	arose
+	swear 6
+	saner 2
+	3
+crate
+	arose
+	grace 19
+	crate 4
+	3
+sower
+	arose
+	sower 4
+	2
+wrack
+	arose
+	train 43
+	wrack 11
+	3
+curry
+	arose
+	birch 33
+	curry 3
+	3
+giant
+	arose
+	canal 148
+	thank 3
+	giant 1
+	4
+smelt
+	arose
+	spelt 44
+	smelt 1
+	3
+mural
+	arose
+	harry 55
+	circa 3
+	mural 1
+	4
+motto
+	arose
+	donut 104
+	botch 7
+	motto 2
+	4
+cabal
+	arose
+	canal 148
+	cabal 1
+	3
+spoil
+	arose
+	stoop 36
+	spoil 1
+	3
+ovoid
+	arose
+	blood 39
+	ovoid 1
+	3
+scary
+	arose
+	strap 21
+	scarf 6
+	scary 1
+	4
+shorn
+	arose
+	short 11
+	shorn 1
+	3
+focal
+	arose
+	tonal 44
+	local 5
+	focal 2
+	4
+bathe
+	arose
+	eagle 50
+	mauve 9
+	bathe 3
+	4
+cruel
+	arose
+	creed 28
+	cruel 2
+	3
+brash
+	arose
+	brash 7
+	2
+fussy
+	arose
+	sissy 17
+	fussy 2
+	3
+smoky
+	arose
+	stoop 36
+	showy 9
+	smoky 1
+	4
+stare
+	arose
+	stare 5
+	2
+taffy
+	arose
+	canal 148
+	datum 21
+	taffy 4
+	4
+elope
+	arose
+	clone 16
+	globe 4
+	elope 1
+	4
+early
+	arose
+	later 60
+	early 1
+	3
+squad
+	arose
+	slant 67
+	scuba 7
+	squad 1
+	4
+valid
+	arose
+	canal 148
+	dally 13
+	valid 1
+	4
+ratio
+	arose
+	carol 28
+	ratio 2
+	3
+birth
+	arose
+	birch 33
+	birth 1
+	3
+dimly
+	arose
+	child 183
+	dimly 3
+	3
+sheep
+	arose
+	spelt 44
+	sweep 2
+	sheep 1
+	4
+wooly
+	arose
+	blood 39
+	wooly 2
+	3
+quart
+	arose
+	harry 55
+	quart 7
+	3
+bonus
+	arose
+	sound 15
+	bonus 1
+	3
+ready
+	arose
+	later 60
+	ready 11
+	3
+coyly
+	arose
+	donut 104
+	folly 16
+	coyly 1
+	4
+shady
+	arose
+	slant 67
+	smack 7
+	shady 1
+	4
+manga
+	arose
+	canal 148
+	manga 2
+	3
+pixel
+	arose
+	inlet 120
+	plied 3
+	pixel 1
+	4
+union
+	arose
+	donut 104
+	union 1
+	3
+spicy
+	arose
+	stink 79
+	spicy 4
+	3
+viola
+	arose
+	gloat 6
+	viola 1
+	3
+havoc
+	arose
+	tonal 44
+	havoc 4
+	3
+surly
+	arose
+	shirt 21
+	scrum 4
+	surly 1
+	4
+green
+	arose
+	creed 28
+	green 4
+	3
+gumbo
+	arose
+	donut 104
+	gumbo 3
+	3
+grill
+	arose
+	print 37
+	grill 7
+	3
+girth
+	arose
+	birch 33
+	girth 2
+	3
+rugby
+	arose
+	birch 33
+	rugby 1
+	3
+rough
+	arose
+	north 49
+	rough 1
+	3
+umbra
+	arose
+	harry 55
+	quart 7
+	umbra 1
+	4
+blush
+	arose
+	sissy 17
+	plush 3
+	blush 2
+	4
+fiber
+	arose
+	rivet 103
+	finer 11
+	filer 3
+	fiber 2
+	5
+gipsy
+	arose
+	sissy 17
+	gipsy 2
+	3
+erect
+	arose
+	creed 28
+	erect 1
+	3
+inert
+	arose
+	rivet 103
+	inert 2
+	3
+buggy
+	arose
+	child 183
+	pygmy 14
+	buggy 1
+	4
+clink
+	arose
+	child 183
+	clink 5
+	3
+hitch
+	arose
+	child 183
+	pitch 7
+	hitch 2
+	4
+hater
+	arose
+	later 60
+	eater 4
+	hater 3
+	4
+gourd
+	arose
+	north 49
+	rocky 5
+	gourd 1
+	4
+rebar
+	arose
+	later 60
+	rebar 3
+	3
+gusto
+	arose
+	sound 15
+	gusto 1
+	3
+raise
+	arose
+	raise 2
+	2
+drain
+	arose
+	train 43
+	brain 3
+	drain 2
+	4
+force
+	arose
+	forge 10
+	force 2
+	3
+banjo
+	arose
+	tonal 44
+	banjo 3
+	3
+cinch
+	arose
+	child 183
+	cinch 1
+	3
+abled
+	arose
+	angel 11
+	abled 2
+	3
+light
+	arose
+	child 183
+	light 2
+	3
+front
+	arose
+	prong 38
+	crony 4
+	front 2
+	4
+royal
+	arose
+	carol 28
+	royal 1
+	3
+frill
+	arose
+	print 37
+	grill 7
+	frill 3
+	4
+shave
+	arose
+	slate 29
+	shape 9
+	shave 4
+	4
+trope
+	arose
+	prove 14
+	trope 2
+	3
+erase
+	arose
+	erase 1
+	2
+druid
+	arose
+	print 37
+	druid 1
+	3
+overt
+	arose
+	rower 34
+	metro 3
+	overt 1
+	4
+welch
+	arose
+	inlet 120
+	belch 4
+	welch 1
+	4
+wiser
+	arose
+	sheer 24
+	miser 3
+	wiser 2
+	4
+preen
+	arose
+	creed 28
+	green 4
+	preen 1
+	4
+motor
+	arose
+	north 49
+	motor 4
+	3
+erode
+	arose
+	prove 14
+	drone 6
+	erode 1
+	4
+hinge
+	arose
+	guile 79
+	hinge 3
+	3
+kinky
+	arose
+	child 183
+	unfit 17
+	kinky 3
+	4
+patio
+	arose
+	tonal 44
+	patio 1
+	3
+scale
+	arose
+	slate 29
+	scale 2
+	3
+chief
+	arose
+	inlet 120
+	bicep 3
+	chief 1
+	4
+trawl
+	arose
+	train 43
+	track 4
+	trawl 2
+	4
+hello
+	arose
+	melon 47
+	cello 2
+	hello 1
+	4
+swash
+	arose
+	slash 24
+	swash 3
+	3
+ought
+	arose
+	donut 104
+	ought 1
+	3
+peril
+	arose
+	rivet 103
+	peril 2
+	3
+etude
+	arose
+	guile 79
+	etude 5
+	3
+plait
+	arose
+	canal 148
+	plait 7
+	3
+polyp
+	arose
+	donut 104
+	folly 16
+	polyp 1
+	4
+night
+	arose
+	child 183
+	night 9
+	3
+lanky
+	arose
+	canal 148
+	lanky 2
+	3
+murky
+	arose
+	birch 33
+	murky 2
+	3
+forgo
+	arose
+	north 49
+	world 6
+	forgo 2
+	4
+sieve
+	arose
+	snipe 24
+	sieve 2
+	3
+humus
+	arose
+	stink 79
+	humus 6
+	3
+blurb
+	arose
+	birch 33
+	blurb 2
+	3
+stack
+	arose
+	slant 67
+	stack 5
+	3
+wharf
+	arose
+	harry 55
+	chard 4
+	wharf 1
+	4
+board
+	arose
+	carol 28
+	board 3
+	3
+amiss
+	arose
+	amass 5
+	amiss 1
+	3
+tripe
+	arose
+	tripe 24
+	2
+splat
+	arose
+	slant 67
+	splat 1
+	3
+paint
+	arose
+	canal 148
+	taunt 10
+	paint 2
+	4
+fetus
+	arose
+	spelt 44
+	zesty 3
+	fetus 1
+	4
+crest
+	arose
+	cress 6
+	crest 1
+	3
+hound
+	arose
+	donut 104
+	hound 6
+	3
+covey
+	arose
+	melon 47
+	covey 5
+	3
+linen
+	arose
+	inlet 120
+	linen 2
+	3
+heard
+	arose
+	later 60
+	ready 11
+	beard 2
+	heard 1
+	5
+epoch
+	arose
+	epoch 4
+	2
+swoop
+	arose
+	stoop 36
+	swoop 4
+	3
+allot
+	arose
+	allot 9
+	2
+unite
+	arose
+	guile 79
+	unite 1
+	3
+valor
+	arose
+	carol 28
+	valor 2
+	3
+place
+	arose
+	eagle 50
+	blame 8
+	plate 4
+	place 2
+	5
+hence
+	arose
+	guile 79
+	pence 9
+	hence 2
+	4
+snide
+	arose
+	snipe 24
+	snide 1
+	3
+snoop
+	arose
+	stoop 36
+	swoop 4
+	snoop 3
+	4
+miner
+	arose
+	rivet 103
+	finer 11
+	diner 3
+	miner 2
+	5
+occur
+	arose
+	north 49
+	vigor 5
+	occur 1
+	4
+watch
+	arose
+	canal 148
+	watch 10
+	3
+recap
+	arose
+	later 60
+	ready 11
+	recap 2
+	4
+whack
+	arose
+	canal 148
+	whack 2
+	3
+pearl
+	arose
+	later 60
+	regal 7
+	pearl 1
+	4
+tarot
+	arose
+	carol 28
+	tarot 2
+	3
+older
+	arose
+	rower 34
+	otter 6
+	older 3
+	4
+scrap
+	arose
+	strap 21
+	scrap 1
+	3
+boxer
+	arose
+	rower 34
+	hover 11
+	joker 5
+	boxer 3
+	5
+paler
+	arose
+	later 60
+	paler 2
+	3
+frown
+	arose
+	prong 38
+	frown 4
+	3
+merit
+	arose
+	rivet 103
+	inert 2
+	merit 1
+	4
+aloud
+	arose
+	aloft 12
+	aloud 2
+	3
+shine
+	arose
+	snipe 24
+	shine 2
+	3
+whale
+	arose
+	eagle 50
+	whale 1
+	3
+mealy
+	arose
+	metal 78
+	mealy 1
+	3
+cable
+	arose
+	eagle 50
+	fable 5
+	cable 2
+	4
+river
+	arose
+	rivet 103
+	river 1
+	3
+urine
+	arose
+	tripe 24
+	brine 7
+	urine 1
+	4
+expel
+	arose
+	inlet 120
+	bleep 10
+	expel 1
+	4
+brine
+	arose
+	tripe 24
+	brine 7
+	3
+owner
+	arose
+	rower 34
+	owner 1
+	3
+emcee
+	arose
+	guile 79
+	pence 9
+	emcee 1
+	4
+using
+	arose
+	stink 79
+	using 1
+	3
+alert
+	arose
+	alert 7
+	2
+judge
+	arose
+	guile 79
+	budge 5
+	judge 3
+	4
+fancy
+	arose
+	canal 148
+	manic 3
+	fancy 1
+	4
+carve
+	arose
+	barge 8
+	carve 2
+	3
+drank
+	arose
+	train 43
+	brand 6
+	drank 1
+	4
+crook
+	arose
+	prong 38
+	brood 15
+	crook 1
+	4
+bloke
+	arose
+	clone 16
+	globe 4
+	bloke 1
+	4
+lying
+	arose
+	child 183
+	glint 7
+	lying 1
+	4
+qualm
+	arose
+	canal 148
+	plait 7
+	qualm 1
+	4
+swine
+	arose
+	snipe 24
+	shine 2
+	swine 1
+	4
+globe
+	arose
+	clone 16
+	globe 4
+	3
+shout
+	arose
+	stoop 36
+	sloth 4
+	shout 1
+	4
+pushy
+	arose
+	stink 79
+	humus 6
+	pushy 2
+	4
+three
+	arose
+	verge 19
+	three 2
+	3
+apnea
+	arose
+	angel 11
+	apnea 1
+	3
+moist
+	arose
+	moist 9
+	2
+sheer
+	arose
+	sheer 24
+	2
+teary
+	arose
+	later 60
+	teary 4
+	3
+nasal
+	arose
+	slant 67
+	nasal 1
+	3
+quiet
+	arose
+	inlet 120
+	quiet 1
+	3
+depot
+	arose
+	melon 47
+	depot 3
+	3
+bongo
+	arose
+	donut 104
+	ionic 4
+	bongo 1
+	4
+email
+	arose
+	metal 78
+	email 2
+	3
+flown
+	arose
+	blood 39
+	cloth 7
+	flown 1
+	4
+graph
+	arose
+	train 43
+	wrack 11
+	gravy 4
+	graph 1
+	5
+chuck
+	arose
+	child 183
+	chunk 3
+	chuck 1
+	4
+groom
+	arose
+	prong 38
+	grout 3
+	groom 2
+	4
+lever
+	arose
+	rivet 103
+	lever 3
+	3
+chant
+	arose
+	canal 148
+	chain 3
+	chant 1
+	4
+ovate
+	arose
+	ovate 2
+	2
+grape
+	arose
+	grace 19
+	grape 5
+	3
+spook
+	arose
+	stoop 36
+	spool 4
+	spook 3
+	4
+flour
+	arose
+	floor 9
+	flour 1
+	3
+grime
+	arose
+	tripe 24
+	brine 7
+	grime 3
+	4
+sugar
+	arose
+	strap 21
+	sugar 1
+	3
+stomp
+	arose
+	stoop 36
+	stomp 1
+	3
+dozen
+	arose
+	melon 47
+	woven 6
+	dozen 2
+	4
+later
+	arose
+	later 60
+	2
+ethic
+	arose
+	inlet 120
+	tepid 5
+	ethic 1
+	4
+lover
+	arose
+	rower 34
+	hover 11
+	lover 3
+	4
+sooth
+	arose
+	stoop 36
+	sooth 2
+	3
+guile
+	arose
+	guile 79
+	2
+forge
+	arose
+	forge 10
+	2
+liner
+	arose
+	rivet 103
+	finer 11
+	diner 3
+	miner 2
+	liner 1
+	6
+lofty
+	arose
+	donut 104
+	botch 7
+	lofty 1
+	4
+nerdy
+	arose
+	rivet 103
+	decry 16
+	nerdy 1
+	4
+agent
+	arose
+	angel 11
+	agent 1
+	3
+laden
+	arose
+	metal 78
+	laden 1
+	3
+gruff
+	arose
+	print 37
+	gruff 4
+	3
+foyer
+	arose
+	rower 34
+	hover 11
+	joker 5
+	boxer 3
+	foyer 2
+	6
+lobby
+	arose
+	donut 104
+	folly 16
+	lobby 1
+	4
+brawl
+	arose
+	train 43
+	wrack 11
+	brawl 2
+	4
+eject
+	arose
+	inlet 120
+	eject 3
+	3
+fixer
+	arose
+	rivet 103
+	finer 11
+	filer 3
+	fiber 2
+	fixer 1
+	6
+perch
+	arose
+	rivet 103
+	decry 16
+	perch 1
+	4
+under
+	arose
+	rivet 103
+	leper 18
+	under 4
+	4
+steep
+	arose
+	spelt 44
+	steep 1
+	3
+scare
+	arose
+	stare 5
+	scare 4
+	3
+bleep
+	arose
+	inlet 120
+	bleep 10
+	3
+spurt
+	arose
+	shirt 21
+	spurt 1
+	3
+viper
+	arose
+	rivet 103
+	viper 1
+	3
+gripe
+	arose
+	tripe 24
+	gripe 1
+	3
+sewer
+	arose
+	sheer 24
+	sewer 2
+	3
+ionic
+	arose
+	donut 104
+	ionic 4
+	3
+bulge
+	arose
+	guile 79
+	bulge 2
+	3
+sloop
+	arose
+	stoop 36
+	swoop 4
+	snoop 3
+	sloop 2
+	5
+aider
+	arose
+	alert 7
+	amber 3
+	aider 2
+	4
+spiel
+	arose
+	spelt 44
+	spiel 1
+	3
+sworn
+	arose
+	snort 11
+	shorn 3
+	sworn 2
+	4
+foist
+	arose
+	moist 9
+	foist 3
+	3
+plane
+	arose
+	eagle 50
+	blame 8
+	plate 4
+	place 2
+	plane 1
+	6
+cutie
+	arose
+	guile 79
+	cutie 1
+	3
+caddy
+	arose
+	canal 148
+	catch 6
+	caddy 2
+	4
+repay
+	arose
+	later 60
+	ready 11
+	repay 1
+	4
+aback
+	arose
+	await 30
+	aback 1
+	3
+route
+	arose
+	forge 10
+	route 1
+	3
+helix
+	arose
+	inlet 120
+	helix 1
+	3
+prime
+	arose
+	tripe 24
+	prize 4
+	prime 3
+	4
+cacti
+	arose
+	canal 148
+	catch 6
+	cacti 1
+	4
+sheen
+	arose
+	spelt 44
+	sheen 3
+	3
+tutor
+	arose
+	north 49
+	tutor 2
+	3
+stone
+	arose
+	stone 12
+	2
+click
+	arose
+	child 183
+	clink 5
+	click 1
+	4
+heron
+	arose
+	rower 34
+	metro 3
+	heron 1
+	4
+olive
+	arose
+	vogue 14
+	olive 2
+	3
+wimpy
+	arose
+	child 183
+	unfit 17
+	wimpy 2
+	4
+slept
+	arose
+	spelt 44
+	slept 1
+	3
+retry
+	arose
+	rivet 103
+	retry 2
+	3
+guard
+	arose
+	harry 55
+	quart 7
+	guard 1
+	4
+swell
+	arose
+	spelt 44
+	swell 4
+	3
+whisk
+	arose
+	sissy 17
+	whisk 2
+	3
+crash
+	arose
+	brash 7
+	crash 2
+	3
+eclat
+	arose
+	metal 78
+	eclat 4
+	3
+sally
+	arose
+	slant 67
+	salad 3
+	sally 1
+	4
+scald
+	arose
+	slant 67
+	scalp 6
+	scald 2
+	4
+vapid
+	arose
+	canal 148
+	datum 21
+	bawdy 3
+	vapid 1
+	5
+grunt
+	arose
+	print 37
+	grunt 2
+	3
+choke
+	arose
+	clone 16
+	choke 1
+	3
+friar
+	arose
+	train 43
+	briar 2
+	friar 1
+	4
+token
+	arose
+	melon 47
+	woven 6
+	dozen 2
+	token 1
+	5
+touch
+	arose
+	donut 104
+	touch 5
+	3
+trove
+	arose
+	prove 14
+	grove 3
+	drove 2
+	trove 1
+	5
+drawl
+	arose
+	train 43
+	wrack 11
+	brawl 2
+	drawl 1
+	5
+eking
+	arose
+	inlet 120
+	feign 9
+	eking 2
+	4
+elide
+	arose
+	guile 79
+	elide 2
+	3
+glare
+	arose
+	barge 8
+	glare 1
+	3
+gonad
+	arose
+	tonal 44
+	gonad 1
+	3
+ennui
+	arose
+	inlet 120
+	ennui 1
+	3
+stank
+	arose
+	slant 67
+	stank 2
+	3
+begun
+	arose
+	inlet 120
+	bench 5
+	begun 1
+	4
+otter
+	arose
+	rower 34
+	otter 6
+	3
+wafer
+	arose
+	later 60
+	wager 15
+	wafer 2
+	4
+waltz
+	arose
+	canal 148
+	dally 13
+	waltz 1
+	4
+ruder
+	arose
+	rivet 103
+	repel 6
+	ruder 1
+	4
+swear
+	arose
+	swear 6
+	2
+shyly
+	arose
+	stink 79
+	slump 4
+	shyly 1
+	4
+theme
+	arose
+	guile 79
+	pence 9
+	theme 1
+	4
+scoop
+	arose
+	stoop 36
+	swoop 4
+	snoop 3
+	sloop 2
+	scoop 1
+	6
+snack
+	arose
+	slant 67
+	snack 3
+	3
+stage
+	arose
+	slate 29
+	stave 3
+	stage 2
+	4
+sneer
+	arose
+	sheer 24
+	sneer 2
+	3
+awoke
+	arose
+	anode 7
+	awoke 2
+	3
+berth
+	arose
+	rivet 103
+	berth 2
+	3
+glint
+	arose
+	child 183
+	glint 7
+	3
+roach
+	arose
+	carol 28
+	roach 1
+	3
+humid
+	arose
+	child 183
+	humid 1
+	3
+civic
+	arose
+	child 183
+	cumin 4
+	civic 1
+	4
+quark
+	arose
+	harry 55
+	quart 7
+	quark 1
+	4
+abhor
+	arose
+	abhor 4
+	2
+gloat
+	arose
+	gloat 6
+	2
+dying
+	arose
+	child 183
+	dying 1
+	3
+gross
+	arose
+	gross 4
+	2
+spell
+	arose
+	spelt 44
+	spell 1
+	3
+adapt
+	arose
+	await 30
+	adapt 1
+	3
+chaos
+	arose
+	salon 6
+	chaos 1
+	3
+realm
+	arose
+	later 60
+	regal 7
+	realm 1
+	4
+reign
+	arose
+	rivet 103
+	reign 2
+	3
+befit
+	arose
+	inlet 120
+	edict 5
+	befit 1
+	4
+curvy
+	arose
+	birch 33
+	curry 3
+	curvy 2
+	4
+egret
+	arose
+	rivet 103
+	beret 2
+	egret 1
+	4
+flora
+	arose
+	flora 1
+	2
+quell
+	arose
+	inlet 120
+	whelp 7
+	quell 1
+	4
+stair
+	arose
+	strap 21
+	stark 3
+	stair 1
+	4
+break
+	arose
+	tread 11
+	break 5
+	3
+wench
+	arose
+	inlet 120
+	bench 5
+	wench 1
+	4
+brass
+	arose
+	brash 7
+	brass 1
+	3
+loamy
+	arose
+	tonal 44
+	koala 4
+	loamy 1
+	4
+filly
+	arose
+	child 183
+	filly 4
+	3
+dirty
+	arose
+	birch 33
+	dirty 2
+	3
+wordy
+	arose
+	north 49
+	world 6
+	wordy 1
+	4
+frond
+	arose
+	prong 38
+	crony 4
+	front 2
+	frond 1
+	5
+shone
+	arose
+	stone 12
+	shone 2
+	3
+goose
+	arose
+	loose 8
+	moose 3
+	noose 2
+	goose 1
+	5
+mound
+	arose
+	donut 104
+	hound 6
+	mound 5
+	4
+feign
+	arose
+	inlet 120
+	feign 9
+	3
+logic
+	arose
+	donut 104
+	folly 16
+	logic 1
+	4
+liver
+	arose
+	rivet 103
+	liver 3
+	3
+jewel
+	arose
+	inlet 120
+	bleep 10
+	jewel 3
+	4
+stump
+	arose
+	stink 79
+	stump 3
+	3
+brute
+	arose
+	tripe 24
+	brute 1
+	3
+smack
+	arose
+	slant 67
+	smack 7
+	3
+gavel
+	arose
+	metal 78
+	label 7
+	navel 4
+	gavel 1
+	5
+bugle
+	arose
+	guile 79
+	bugle 1
+	3
+floss
+	arose
+	gloss 6
+	floss 1
+	3
+forum
+	arose
+	north 49
+	world 6
+	forgo 2
+	forum 1
+	5
+chafe
+	arose
+	eagle 50
+	knave 4
+	chafe 1
+	4
+wheat
+	arose
+	metal 78
+	cheat 3
+	wheat 1
+	4
+blast
+	arose
+	slash 24
+	flask 3
+	blast 2
+	4
+seize
+	arose
+	snipe 24
+	slime 7
+	suite 2
+	seize 1
+	5
+alloy
+	arose
+	allot 9
+	allow 2
+	alloy 1
+	4
+bezel
+	arose
+	inlet 120
+	bleep 10
+	bezel 2
+	4
+favor
+	arose
+	carol 28
+	rayon 7
+	vapor 3
+	favor 1
+	5
+scrum
+	arose
+	shirt 21
+	scrum 4
+	3
+leggy
+	arose
+	inlet 120
+	whelp 7
+	leggy 1
+	4
+ranch
+	arose
+	harry 55
+	ralph 3
+	ranch 2
+	4
+heist
+	arose
+	chest 10
+	heist 1
+	3
+dream
+	arose
+	tread 11
+	dream 1
+	3
+cedar
+	arose
+	later 60
+	rebar 3
+	cedar 1
+	4
+livid
+	arose
+	child 183
+	livid 3
+	3
+clock
+	arose
+	blood 39
+	cloth 7
+	clock 2
+	4
+state
+	arose
+	slate 29
+	state 2
+	3
+jazzy
+	arose
+	canal 148
+	datum 21
+	gawky 4
+	jazzy 2
+	5
+awake
+	arose
+	agile 18
+	amaze 4
+	abate 2
+	awake 1
+	5
+shear
+	arose
+	swear 6
+	shear 3
+	3
+glean
+	arose
+	metal 78
+	glean 4
+	3
+mecca
+	arose
+	metal 78
+	mecca 2
+	3
+class
+	arose
+	slash 24
+	class 2
+	3
+scowl
+	arose
+	stoop 36
+	showy 9
+	scowl 1
+	4
+sever
+	arose
+	sheer 24
+	sewer 2
+	sever 1
+	4
+smoke
+	arose
+	stone 12
+	spoke 5
+	smoke 1
+	4
+blitz
+	arose
+	child 183
+	glint 7
+	blitz 1
+	4
+grade
+	arose
+	grace 19
+	grape 5
+	grade 4
+	4
+twine
+	arose
+	guile 79
+	whine 7
+	twine 1
+	4
+virus
+	arose
+	shirt 21
+	virus 2
+	3
+wider
+	arose
+	rivet 103
+	finer 11
+	wider 3
+	4
+mulch
+	arose
+	child 183
+	mulch 4
+	3
+riser
+	arose
+	sheer 24
+	miser 3
+	wiser 2
+	riser 1
+	5
+sword
+	arose
+	snort 11
+	sword 1
+	3
+chase
+	arose
+	lapse 10
+	cease 3
+	chase 1
+	4
+snort
+	arose
+	snort 11
+	2
+ankle
+	arose
+	agile 18
+	ample 4
+	ankle 1
+	4
+ensue
+	arose
+	snipe 24
+	ensue 1
+	3
+rogue
+	arose
+	forge 10
+	rogue 1
+	3
+twang
+	arose
+	canal 148
+	thank 3
+	twang 1
+	4
+heart
+	arose
+	later 60
+	teary 4
+	heart 1
+	4
+idyll
+	arose
+	child 183
+	dimly 3
+	idyll 1
+	4
+canny
+	arose
+	canal 148
+	canny 2
+	3
+swami
+	arose
+	slant 67
+	smack 7
+	swami 2
+	4
+noisy
+	arose
+	moist 9
+	noisy 1
+	3
+enema
+	arose
+	metal 78
+	enema 1
+	3
+while
+	arose
+	guile 79
+	exile 2
+	while 1
+	4
+artsy
+	arose
+	artsy 1
+	2
+spoon
+	arose
+	stoop 36
+	spool 4
+	spook 3
+	spoon 2
+	5
+spunk
+	arose
+	stink 79
+	spunk 3
+	3
+inept
+	arose
+	inlet 120
+	inept 1
+	3
+wooer
+	arose
+	wooer 1
+	2
+bilge
+	arose
+	guile 79
+	bilge 2
+	3
+trace
+	arose
+	grace 19
+	trace 2
+	3
+fleck
+	arose
+	inlet 120
+	whelp 7
+	fleck 2
+	4
+alter
+	arose
+	alert 7
+	alter 1
+	3
+focus
+	arose
+	sound 15
+	focus 2
+	3
+stark
+	arose
+	strap 21
+	stark 3
+	3
+false
+	arose
+	lapse 10
+	false 1
+	3
+women
+	arose
+	melon 47
+	women 1
+	3
+snarl
+	arose
+	strap 21
+	scarf 6
+	shark 4
+	snarl 2
+	5
+serum
+	arose
+	sheer 24
+	serum 2
+	3
+flesh
+	arose
+	chest 10
+	flesh 1
+	3
+coven
+	arose
+	melon 47
+	woven 6
+	coven 1
+	4
+growl
+	arose
+	prong 38
+	grout 3
+	groom 2
+	growl 1
+	5
+muddy
+	arose
+	child 183
+	dumpy 5
+	muddy 1
+	4
+facet
+	arose
+	metal 78
+	taken 6
+	facet 2
+	4
+hedge
+	arose
+	guile 79
+	hedge 2
+	3
+fudge
+	arose
+	guile 79
+	budge 5
+	judge 3
+	fudge 2
+	5
+purge
+	arose
+	verge 19
+	purge 2
+	3
+vital
+	arose
+	canal 148
+	tidal 4
+	vital 1
+	4
+scrub
+	arose
+	shirt 21
+	scrum 4
+	scrub 1
+	4
+fault
+	arose
+	canal 148
+	dally 13
+	fault 2
+	4
+human
+	arose
+	canal 148
+	human 2
+	3
+glide
+	arose
+	guile 79
+	glide 1
+	3
+major
+	arose
+	carol 28
+	rayon 7
+	vapor 3
+	major 1
+	5
+heavy
+	arose
+	metal 78
+	beady 5
+	heavy 1
+	4
+vigil
+	arose
+	child 183
+	unlit 9
+	vigil 1
+	4
+tacit
+	arose
+	canal 148
+	watch 10
+	tacit 2
+	4
+amuse
+	arose
+	abuse 3
+	amuse 1
+	3
+south
+	arose
+	sound 15
+	south 1
+	3
+hatch
+	arose
+	canal 148
+	watch 10
+	hatch 4
+	4
+glory
+	arose
+	floor 9
+	glory 1
+	3
+until
+	arose
+	child 183
+	unlit 9
+	until 1
+	4
+wacky
+	arose
+	canal 148
+	watch 10
+	wacky 1
+	4
+thick
+	arose
+	child 183
+	thick 2
+	3
+where
+	arose
+	verge 19
+	where 3
+	3
+plump
+	arose
+	child 183
+	flunk 11
+	plump 2
+	4
+lower
+	arose
+	rower 34
+	power 5
+	lower 4
+	4
+stood
+	arose
+	stoop 36
+	stool 2
+	stood 1
+	4
+brand
+	arose
+	train 43
+	brand 6
+	3
+whoop
+	arose
+	blood 39
+	whoop 1
+	3
+gecko
+	arose
+	melon 47
+	gecko 1
+	3
+poesy
+	arose
+	poesy 1
+	2
+quite
+	arose
+	guile 79
+	quite 2
+	3
+koala
+	arose
+	tonal 44
+	koala 4
+	3
+crowd
+	arose
+	prong 38
+	brood 15
+	crowd 1
+	4
+piggy
+	arose
+	child 183
+	unfit 17
+	wimpy 2
+	piggy 1
+	5
+blend
+	arose
+	inlet 120
+	blend 2
+	3
+iliac
+	arose
+	canal 148
+	iliac 2
+	3
+adore
+	arose
+	adore 1
+	2
+flake
+	arose
+	eagle 50
+	blame 8
+	plate 4
+	flake 1
+	5
+voter
+	arose
+	rower 34
+	hover 11
+	voter 1
+	4
+lunge
+	arose
+	guile 79
+	bulge 2
+	lunge 1
+	4
+torus
+	arose
+	torus 3
+	2
+manic
+	arose
+	canal 148
+	manic 3
+	3
+agony
+	arose
+	aloft 12
+	agony 3
+	3
+alley
+	arose
+	angel 11
+	alley 2
+	3
+tenth
+	arose
+	inlet 120
+	tenth 1
+	3
+dryly
+	arose
+	print 37
+	gruff 4
+	dryly 2
+	4
+plier
+	arose
+	rivet 103
+	infer 5
+	plier 1
+	4
+spear
+	arose
+	swear 6
+	shear 3
+	spear 2
+	4
+fauna
+	arose
+	canal 148
+	fauna 1
+	3
+spied
+	arose
+	spelt 44
+	spied 1
+	3
+thigh
+	arose
+	child 183
+	think 5
+	thigh 1
+	4
+lapel
+	arose
+	metal 78
+	label 7
+	lapel 1
+	4
+gawky
+	arose
+	canal 148
+	datum 21
+	gawky 4
+	4
+soggy
+	arose
+	sound 15
+	soggy 1
+	3
+wrath
+	arose
+	train 43
+	draft 4
+	wrath 1
+	4
+coach
+	arose
+	tonal 44
+	dogma 7
+	coach 1
+	4
+canal
+	arose
+	canal 148
+	2
+steed
+	arose
+	spelt 44
+	steed 2
+	3
+truck
+	arose
+	print 37
+	truck 3
+	3
+devil
+	arose
+	inlet 120
+	wield 4
+	devil 1
+	4
+downy
+	arose
+	donut 104
+	downy 2
+	3
+feast
+	arose
+	feast 5
+	2
+spray
+	arose
+	strap 21
+	spray 1
+	3
+crisp
+	arose
+	crust 11
+	crisp 1
+	3
+incur
+	arose
+	birch 33
+	incur 1
+	3
+earth
+	arose
+	later 60
+	earth 1
+	3
+spore
+	arose
+	store 6
+	spore 5
+	3
+stink
+	arose
+	stink 79
+	2
+armor
+	arose
+	ardor 4
+	armor 2
+	3
+crept
+	arose
+	creed 28
+	crept 1
+	3
+liege
+	arose
+	guile 79
+	bilge 2
+	liege 1
+	4
+above
+	arose
+	anode 7
+	awoke 2
+	above 1
+	4
+rouse
+	arose
+	horse 3
+	rouse 1
+	3
+tangy
+	arose
+	canal 148
+	tangy 6
+	3
+smith
+	arose
+	stink 79
+	shift 4
+	smith 1
+	4
+geeky
+	arose
+	inlet 120
+	geeky 6
+	3
+guest
+	arose
+	chest 10
+	guest 2
+	3
+sorry
+	arose
+	torus 3
+	sorry 1
+	3
+geese
+	arose
+	these 7
+	geese 1
+	3
+mason
+	arose
+	salon 6
+	mason 1
+	3
+decoy
+	arose
+	melon 47
+	depot 3
+	decoy 1
+	4
+heave
+	arose
+	eagle 50
+	heave 3
+	3
+tepid
+	arose
+	inlet 120
+	tepid 5
+	3
+fritz
+	arose
+	print 37
+	fritz 2
+	3
+joist
+	arose
+	moist 9
+	foist 3
+	joist 2
+	4
+dogma
+	arose
+	tonal 44
+	dogma 7
+	3
+align
+	arose
+	await 30
+	aging 4
+	align 1
+	4
+bough
+	arose
+	donut 104
+	couch 5
+	bough 1
+	4
+nobly
+	arose
+	donut 104
+	login 4
+	nobly 1
+	4
+haven
+	arose
+	metal 78
+	haven 4
+	3
+pubic
+	arose
+	child 183
+	pubic 4
+	3
+squat
+	arose
+	slant 67
+	squat 1
+	3
+creek
+	arose
+	creed 28
+	creek 2
+	3
+bleed
+	arose
+	inlet 120
+	bleep 10
+	bleed 1
+	4
+quest
+	arose
+	chest 10
+	guest 2
+	quest 1
+	4
+tapir
+	arose
+	harry 55
+	rabid 7
+	tapir 1
+	4
+teddy
+	arose
+	inlet 120
+	petty 8
+	teddy 1
+	4
+bench
+	arose
+	inlet 120
+	bench 5
+	3
+rocky
+	arose
+	north 49
+	rocky 5
+	3
+gayer
+	arose
+	later 60
+	wager 15
+	gamer 3
+	gayer 2
+	5
+grind
+	arose
+	print 37
+	bring 6
+	grind 1
+	4
+creep
+	arose
+	creed 28
+	creek 2
+	creep 1
+	4
+savoy
+	arose
+	salon 6
+	savoy 1
+	3
+tilde
+	arose
+	guile 79
+	lithe 3
+	tilde 1
+	4
+hover
+	arose
+	rower 34
+	hover 11
+	3
+betel
+	arose
+	inlet 120
+	betel 1
+	3
+equip
+	arose
+	inlet 120
+	weigh 4
+	equip 1
+	4
+north
+	arose
+	north 49
+	2
+spasm
+	arose
+	slash 24
+	spasm 1
+	3
+undid
+	arose
+	child 183
+	vivid 3
+	undid 1
+	4
+choir
+	arose
+	floor 9
+	choir 1
+	3
+shape
+	arose
+	slate 29
+	shape 9
+	3
+meaty
+	arose
+	metal 78
+	meaty 2
+	3
+missy
+	arose
+	sissy 17
+	missy 1
+	3
+ester
+	arose
+	sheer 24
+	ester 1
+	3
+taste
+	arose
+	slate 29
+	paste 6
+	waste 5
+	taste 4
+	5
+abuse
+	arose
+	amuse 3
+	abuse 1
+	3
+privy
+	arose
+	print 37
+	privy 2
+	3
+kayak
+	arose
+	canal 148
+	madam 2
+	kayak 1
+	4
+wrong
+	arose
+	prong 38
+	wrong 1
+	3
+fraud
+	arose
+	train 43
+	wrack 11
+	gravy 4
+	drama 2
+	fraud 1
+	6
+baron
+	arose
+	carol 28
+	tarot 2
+	baron 1
+	4
+skiff
+	arose
+	stink 79
+	skiff 4
+	3
+arise
+	arose
+	arise 1
+	2
+spree
+	arose
+	spree 6
+	2
+quirk
+	arose
+	birch 33
+	flirt 3
+	quirk 1
+	4
+quake
+	arose
+	eagle 50
+	knave 4
+	quake 1
+	4
+carry
+	arose
+	harry 55
+	carry 3
+	3
+suing
+	arose
+	stink 79
+	sling 5
+	swing 2
+	suing 1
+	5
+nutty
+	arose
+	child 183
+	pygmy 14
+	funky 5
+	nutty 1
+	5
+bitty
+	arose
+	child 183
+	unfit 17
+	bitty 3
+	4
+boney
+	arose
+	melon 47
+	boney 2
+	3
+magma
+	arose
+	canal 148
+	magma 5
+	3
+radio
+	arose
+	carol 28
+	ratio 2
+	radio 1
+	4
+caper
+	arose
+	later 60
+	wager 15
+	parer 8
+	caper 1
+	5
+willy
+	arose
+	child 183
+	filly 4
+	willy 2
+	4
+graze
+	arose
+	grace 19
+	grape 5
+	grade 4
+	graze 3
+	5
+recut
+	arose
+	rivet 103
+	recut 2
+	3
+cater
+	arose
+	later 60
+	eater 4
+	hater 3
+	cater 2
+	5
+error
+	arose
+	order 3
+	error 1
+	3
+toast
+	arose
+	coast 4
+	toast 2
+	3
+prank
+	arose
+	train 43
+	brand 6
+	prank 3
+	4
+local
+	arose
+	tonal 44
+	local 5
+	3
+cacao
+	arose
+	tonal 44
+	cacao 1
+	3
+dumpy
+	arose
+	child 183
+	dumpy 5
+	3
+hefty
+	arose
+	inlet 120
+	petty 8
+	hefty 1
+	4
+party
+	arose
+	harry 55
+	party 3
+	3
+harry
+	arose
+	harry 55
+	2
+drive
+	arose
+	tripe 24
+	brine 7
+	grime 3
+	drive 1
+	5
+toxin
+	arose
+	donut 104
+	toxin 2
+	3
+think
+	arose
+	child 183
+	think 5
+	3
+zesty
+	arose
+	spelt 44
+	zesty 3
+	3
+wreck
+	arose
+	creed 28
+	wreck 1
+	3
+bossy
+	arose
+	moist 9
+	bossy 2
+	3
+basil
+	arose
+	slant 67
+	basil 3
+	3
+yeast
+	arose
+	feast 5
+	yeast 3
+	3
+stray
+	arose
+	strap 21
+	stray 2
+	3
+claim
+	arose
+	canal 148
+	claim 4
+	3
+masse
+	arose
+	lapse 10
+	masse 2
+	3
+titan
+	arose
+	canal 148
+	human 2
+	titan 1
+	4
+regal
+	arose
+	later 60
+	regal 7
+	3
+ample
+	arose
+	agile 18
+	ample 4
+	3
+filet
+	arose
+	inlet 120
+	filet 1
+	3
+panic
+	arose
+	canal 148
+	manic 3
+	panic 1
+	4
+pygmy
+	arose
+	child 183
+	pygmy 14
+	3
+pinto
+	arose
+	donut 104
+	pinto 1
+	3
+thyme
+	arose
+	guile 79
+	pence 9
+	thyme 1
+	4
+hovel
+	arose
+	melon 47
+	hovel 6
+	3
+hoard
+	arose
+	carol 28
+	board 3
+	hoard 1
+	4
+penal
+	arose
+	metal 78
+	pedal 5
+	penal 1
+	4
+sandy
+	arose
+	slant 67
+	sandy 1
+	3
+scree
+	arose
+	spree 6
+	scree 1
+	3
+stamp
+	arose
+	slant 67
+	stack 5
+	stamp 3
+	4
+odder
+	arose
+	rower 34
+	otter 6
+	older 3
+	odder 1
+	5
+chest
+	arose
+	chest 10
+	2
+endow
+	arose
+	melon 47
+	enjoy 3
+	endow 1
+	4
+cabby
+	arose
+	canal 148
+	catch 6
+	caddy 2
+	cabby 1
+	5
+pinky
+	arose
+	child 183
+	unfit 17
+	kinky 3
+	pinky 1
+	5
+bacon
+	arose
+	tonal 44
+	bacon 3
+	3
+spade
+	arose
+	slate 29
+	shape 9
+	spade 2
+	4
+wagon
+	arose
+	tonal 44
+	bacon 3
+	wagon 1
+	4
+epoxy
+	arose
+	epoch 4
+	epoxy 1
+	3
+mangy
+	arose
+	canal 148
+	tangy 6
+	mangy 1
+	4
+booty
+	arose
+	blood 39
+	boozy 4
+	booty 2
+	4
+gorge
+	arose
+	forge 10
+	gorge 1
+	3
+plunk
+	arose
+	child 183
+	flunk 11
+	plunk 1
+	4
+buddy
+	arose
+	child 183
+	dumpy 5
+	buddy 1
+	4
+chute
+	arose
+	guile 79
+	etude 5
+	chute 1
+	4
+teeth
+	arose
+	inlet 120
+	petty 8
+	teeth 1
+	4
+clone
+	arose
+	clone 16
+	2
+furor
+	arose
+	north 49
+	furor 3
+	3
+wound
+	arose
+	donut 104
+	mound 6
+	hound 5
+	wound 4
+	5
+banal
+	arose
+	canal 148
+	banal 1
+	3
+march
+	arose
+	harry 55
+	march 1
+	3
+paddy
+	arose
+	canal 148
+	datum 21
+	bawdy 3
+	paddy 1
+	5
+pesky
+	arose
+	spelt 44
+	pesky 1
+	3
+flyer
+	arose
+	rivet 103
+	leper 18
+	bluer 3
+	flyer 1
+	5
+glyph
+	arose
+	child 183
+	glyph 2
+	3
+smirk
+	arose
+	shirt 21
+	smirk 2
+	3
+squib
+	arose
+	stink 79
+	squib 3
+	3
+saint
+	arose
+	slant 67
+	saint 1
+	3
+bliss
+	arose
+	sissy 17
+	bliss 1
+	3
+stoke
+	arose
+	stone 12
+	stoke 3
+	3
+mirth
+	arose
+	birch 33
+	girth 2
+	mirth 1
+	4
+arbor
+	arose
+	ardor 4
+	armor 2
+	arbor 1
+	4
+genie
+	arose
+	guile 79
+	genie 1
+	3
+cloth
+	arose
+	blood 39
+	cloth 7
+	3
+comma
+	arose
+	tonal 44
+	dogma 7
+	comma 1
+	4
+broke
+	arose
+	prove 14
+	drone 6
+	broke 3
+	4
+fungi
+	arose
+	child 183
+	unfit 17
+	fungi 1
+	4
+payer
+	arose
+	later 60
+	wager 15
+	parer 8
+	payer 2
+	5
+aside
+	arose
+	aside 2
+	2
+grant
+	arose
+	train 43
+	grant 1
+	3
+vivid
+	arose
+	child 183
+	timid 3
+	vivid 1
+	4
+rarer
+	arose
+	later 60
+	wager 15
+	parer 8
+	rarer 1
+	5
+reply
+	arose
+	rivet 103
+	rerun 4
+	reply 2
+	4
+mower
+	arose
+	rower 34
+	power 5
+	lower 4
+	mower 3
+	5
+dread
+	arose
+	tread 11
+	bread 2
+	dread 1
+	4
+never
+	arose
+	rivet 103
+	lever 3
+	never 2
+	4
+login
+	arose
+	donut 104
+	login 4
+	3
+sinew
+	arose
+	spelt 44
+	semen 4
+	sinew 1
+	4
+siege
+	arose
+	snipe 24
+	sieve 2
+	siege 1
+	4
+exact
+	arose
+	metal 78
+	taken 6
+	exact 1
+	4
+slung
+	arose
+	stink 79
+	slung 3
+	3
+worth
+	arose
+	north 49
+	worth 2
+	3
+rinse
+	arose
+	purse 7
+	rinse 1
+	3
+unfit
+	arose
+	child 183
+	unfit 17
+	3
+coupe
+	arose
+	vogue 14
+	boule 2
+	coupe 1
+	4
+candy
+	arose
+	canal 148
+	canny 2
+	candy 1
+	4
+fairy
+	arose
+	harry 55
+	fairy 2
+	3
+belch
+	arose
+	inlet 120
+	belch 4
+	3
+those
+	arose
+	loose 8
+	chose 3
+	those 2
+	4
+tumor
+	arose
+	north 49
+	tutor 2
+	tumor 1
+	4
+basin
+	arose
+	slant 67
+	basin 1
+	3
+myrrh
+	arose
+	birch 33
+	myrrh 1
+	3
+barge
+	arose
+	barge 8
+	2
+dowel
+	arose
+	melon 47
+	hovel 6
+	dowel 3
+	4
+donor
+	arose
+	north 49
+	round 4
+	donor 1
+	4
+dingy
+	arose
+	child 183
+	digit 7
+	dingy 1
+	4
+tonic
+	arose
+	donut 104
+	tonic 2
+	3
+album
+	arose
+	await 30
+	album 4
+	3
+ramen
+	arose
+	later 60
+	ramen 3
+	3
+smell
+	arose
+	spelt 44
+	swell 4
+	smell 2
+	4
+knack
+	arose
+	canal 148
+	knack 1
+	3
+biddy
+	arose
+	child 183
+	digit 7
+	biddy 2
+	4
+acrid
+	arose
+	award 7
+	acrid 1
+	3
+igloo
+	arose
+	donut 104
+	igloo 3
+	3
+venom
+	arose
+	melon 47
+	venom 1
+	3
+begin
+	arose
+	inlet 120
+	feign 9
+	begin 1
+	4
+frame
+	arose
+	grace 19
+	drake 7
+	irate 3
+	frame 2
+	5
+macho
+	arose
+	tonal 44
+	havoc 4
+	macho 1
+	4
+pride
+	arose
+	tripe 24
+	prize 4
+	prime 3
+	pride 2
+	5
+snaky
+	arose
+	slant 67
+	snack 3
+	snaky 1
+	4
+chunk
+	arose
+	child 183
+	chuck 3
+	chunk 1
+	4
+parka
+	arose
+	harry 55
+	parka 4
+	3
+snore
+	arose
+	store 6
+	spore 5
+	snore 4
+	4
+donut
+	arose
+	donut 104
+	2
+lingo
+	arose
+	donut 104
+	bingo 2
+	lingo 1
+	4
+aptly
+	arose
+	await 30
+	aptly 2
+	3
+greet
+	arose
+	creed 28
+	green 4
+	greet 1
+	4
+peach
+	arose
+	metal 78
+	beady 5
+	peach 1
+	4
+usage
+	arose
+	slate 29
+	usage 1
+	3
+shirk
+	arose
+	shirt 21
+	shirk 1
+	3
+mania
+	arose
+	canal 148
+	manga 2
+	mania 1
+	4
+sappy
+	arose
+	slant 67
+	scuba 7
+	sappy 2
+	4
+cried
+	arose
+	creed 28
+	cried 1
+	3
+guise
+	arose
+	these 7
+	guise 2
+	3
+sting
+	arose
+	stink 79
+	sting 2
+	3
+idiom
+	arose
+	donut 104
+	oddly 3
+	idiom 1
+	4
+brick
+	arose
+	print 37
+	grill 7
+	brick 2
+	4
+minty
+	arose
+	child 183
+	unfit 17
+	minty 1
+	4
+wield
+	arose
+	inlet 120
+	wield 4
+	3
+prove
+	arose
+	prove 14
+	2
+dummy
+	arose
+	child 183
+	dumpy 5
+	dummy 1
+	4
+first
+	arose
+	first 2
+	2
+inbox
+	arose
+	donut 104
+	inbox 4
+	3
+karma
+	arose
+	harry 55
+	parka 4
+	karma 1
+	4
+midge
+	arose
+	guile 79
+	hinge 3
+	midge 1
+	4
+chess
+	arose
+	chest 10
+	chess 1
+	3
+fishy
+	arose
+	stink 79
+	fishy 4
+	3
+solve
+	arose
+	solve 1
+	2
+throb
+	arose
+	north 49
+	throb 2
+	3
+ethos
+	arose
+	onset 4
+	ethos 1
+	3
+drier
+	arose
+	creed 28
+	drier 2
+	3
+diary
+	arose
+	harry 55
+	diary 1
+	3
+tread
+	arose
+	tread 11
+	2
+ebony
+	arose
+	epoch 4
+	ebony 1
+	3
+dusty
+	arose
+	stink 79
+	dusty 4
+	3
+scour
+	arose
+	snort 11
+	scour 1
+	3
+hotly
+	arose
+	donut 104
+	botch 7
+	hotly 1
+	4
+truly
+	arose
+	print 37
+	truck 3
+	truly 2
+	4
+prior
+	arose
+	prior 3
+	2
+freer
+	arose
+	creed 28
+	green 4
+	freer 1
+	4
+parse
+	arose
+	raise 2
+	parse 1
+	3
+ovine
+	arose
+	vogue 14
+	olive 2
+	ovine 1
+	4
+picky
+	arose
+	child 183
+	pubic 4
+	picky 1
+	4
+borax
+	arose
+	carol 28
+	borax 2
+	3
+onion
+	arose
+	donut 104
+	inbox 4
+	onion 1
+	4
+abbot
+	arose
+	allot 9
+	abbot 1
+	3
+rifle
+	arose
+	verge 19
+	rifle 3
+	3
+belie
+	arose
+	guile 79
+	lithe 3
+	belie 1
+	4
+navel
+	arose
+	metal 78
+	label 7
+	navel 4
+	4
+bosom
+	arose
+	sound 15
+	posit 2
+	bosom 1
+	4
+clack
+	arose
+	canal 148
+	claim 4
+	clack 1
+	4
+utter
+	arose
+	rivet 103
+	meter 7
+	utter 1
+	4
+grace
+	arose
+	grace 19
+	2
+stint
+	arose
+	stink 79
+	sting 2
+	stint 1
+	4
+bound
+	arose
+	donut 104
+	hound 6
+	mound 5
+	wound 4
+	bound 3
+	6
+prose
+	arose
+	prose 1
+	2
+flack
+	arose
+	canal 148
+	flack 2
+	3
+unmet
+	arose
+	inlet 120
+	unmet 1
+	3
+rehab
+	arose
+	later 60
+	ready 11
+	recap 2
+	rehab 1
+	5
+rhyme
+	arose
+	verge 19
+	rifle 3
+	rhyme 1
+	4
+tryst
+	arose
+	crust 11
+	tryst 2
+	3
+knock
+	arose
+	blood 39
+	phony 6
+	knock 2
+	4
+rigor
+	arose
+	north 49
+	vigor 5
+	rigor 1
+	4
+crepe
+	arose
+	tripe 24
+	crepe 1
+	3
+spiky
+	arose
+	stink 79
+	skiff 4
+	spiky 1
+	4
+entry
+	arose
+	rivet 103
+	berth 2
+	entry 1
+	4
+relic
+	arose
+	rivet 103
+	reign 2
+	relic 1
+	4
+waist
+	arose
+	slash 24
+	waist 4
+	3
+found
+	arose
+	donut 104
+	hound 6
+	mound 5
+	bound 4
+	wound 3
+	found 2
+	7
+legal
+	arose
+	metal 78
+	pedal 5
+	legal 2
+	4
+tonal
+	arose
+	tonal 44
+	2
+shale
+	arose
+	slate 29
+	scale 2
+	shale 1
+	4
+merry
+	arose
+	rivet 103
+	decry 16
+	ferry 4
+	merry 2
+	5
+creak
+	arose
+	tread 11
+	break 5
+	creak 3
+	4
+atone
+	arose
+	anode 7
+	atone 2
+	3
+golly
+	arose
+	donut 104
+	folly 16
+	golly 3
+	4
+humor
+	arose
+	north 49
+	humor 2
+	3
+unset
+	arose
+	spelt 44
+	unset 2
+	3
+pupal
+	arose
+	canal 148
+	tidal 4
+	pupal 1
+	4
+mayor
+	arose
+	carol 28
+	rayon 7
+	mayor 1
+	4
+treat
+	arose
+	tread 11
+	treat 1
+	3
+flier
+	arose
+	rivet 103
+	infer 5
+	flier 1
+	4
+close
+	arose
+	loose 8
+	close 1
+	3
+rover
+	arose
+	rower 34
+	roger 2
+	rover 1
+	4
+arson
+	arose
+	arson 1
+	2
+nanny
+	arose
+	canal 148
+	tangy 6
+	nanny 4
+	4
+cheap
+	arose
+	metal 78
+	cheap 2
+	3
+robin
+	arose
+	north 49
+	robin 4
+	3
+chore
+	arose
+	chore 1
+	2
+maize
+	arose
+	eagle 50
+	mauve 9
+	maize 2
+	4
+skirt
+	arose
+	shirt 21
+	skirt 1
+	3
+cairn
+	arose
+	harry 55
+	cairn 1
+	3
+scone
+	arose
+	stone 12
+	shone 2
+	scone 1
+	4
+spiny
+	arose
+	stink 79
+	sling 5
+	spiny 2
+	4
+smear
+	arose
+	swear 6
+	shear 3
+	spear 2
+	smear 1
+	5
+shiny
+	arose
+	stink 79
+	sling 5
+	spiny 2
+	shiny 1
+	5
+imply
+	arose
+	child 183
+	filly 4
+	imply 1
+	4
+ahead
+	arose
+	angel 11
+	ahead 2
+	3
+octal
+	arose
+	tonal 44
+	octal 1
+	3
+rouge
+	arose
+	forge 10
+	rouge 1
+	3
+sport
+	arose
+	snort 11
+	sport 2
+	3
+grave
+	arose
+	grace 19
+	grape 5
+	grade 4
+	graze 3
+	grave 2
+	6
+slain
+	arose
+	slant 67
+	slain 1
+	3
+groan
+	arose
+	groan 3
+	2
+skate
+	arose
+	slate 29
+	state 2
+	skate 1
+	4
+swept
+	arose
+	spelt 44
+	swept 1
+	3
+bowel
+	arose
+	melon 47
+	hovel 6
+	dowel 3
+	bowel 2
+	5
+baggy
+	arose
+	canal 148
+	datum 21
+	gawky 4
+	baggy 1
+	5
+juice
+	arose
+	guile 79
+	quite 2
+	juice 1
+	4
+gamma
+	arose
+	canal 148
+	magma 5
+	gamma 1
+	4
+shrug
+	arose
+	shirt 21
+	shrug 2
+	3
+allay
+	arose
+	await 30
+	allay 2
+	3
+badge
+	arose
+	eagle 50
+	gauze 5
+	badge 2
+	4
+booth
+	arose
+	blood 39
+	boozy 4
+	booth 1
+	4
+lurch
+	arose
+	birch 33
+	lurch 1
+	3
+erupt
+	arose
+	creed 28
+	erupt 1
+	3
+micro
+	arose
+	north 49
+	vigor 5
+	micro 1
+	4
+exist
+	arose
+	chest 10
+	exist 1
+	3
+goner
+	arose
+	rower 34
+	hover 11
+	joker 5
+	boxer 3
+	foyer 2
+	goner 1
+	7
+chasm
+	arose
+	slash 24
+	chasm 1
+	3
+blimp
+	arose
+	child 183
+	glint 7
+	blimp 1
+	4
+drown
+	arose
+	prong 38
+	frown 4
+	drown 3
+	4
+envoy
+	arose
+	melon 47
+	enjoy 3
+	envoy 1
+	4
+forth
+	arose
+	north 49
+	worth 2
+	forth 1
+	4
+ledge
+	arose
+	guile 79
+	ledge 1
+	3
+shoal
+	arose
+	shoal 1
+	2
+smash
+	arose
+	slash 24
+	swash 3
+	smash 2
+	4
+parry
+	arose
+	harry 55
+	carry 3
+	parry 2
+	4
+shawl
+	arose
+	slant 67
+	scalp 6
+	shawl 1
+	4
+joker
+	arose
+	rower 34
+	hover 11
+	joker 5
+	4
+boost
+	arose
+	gloss 6
+	boost 2
+	3
+pitch
+	arose
+	child 183
+	pitch 7
+	3
+pound
+	arose
+	donut 104
+	hound 6
+	mound 5
+	wound 4
+	bound 3
+	found 2
+	pound 1
+	8
+prone
+	arose
+	prove 14
+	probe 2
+	prone 1
+	4
+witch
+	arose
+	child 183
+	pitch 7
+	hitch 2
+	witch 1
+	5
+terse
+	arose
+	curse 7
+	terse 2
+	3
+agate
+	arose
+	agile 18
+	agate 2
+	3
+refit
+	arose
+	rivet 103
+	remit 2
+	refit 1
+	4
+hairy
+	arose
+	harry 55
+	hairy 1
+	3
+mocha
+	arose
+	tonal 44
+	dogma 7
+	mocha 1
+	4
+snipe
+	arose
+	snipe 24
+	2
+spark
+	arose
+	strap 21
+	spark 1
+	3
+these
+	arose
+	these 7
+	2
+antic
+	arose
+	await 30
+	antic 2
+	3
+libel
+	arose
+	inlet 120
+	plied 3
+	libel 1
+	4
+defer
+	arose
+	rivet 103
+	leper 18
+	defer 3
+	4
+swish
+	arose
+	sissy 17
+	swish 1
+	3
+caste
+	arose
+	slate 29
+	paste 6
+	waste 5
+	taste 4
+	caste 3
+	6
+aglow
+	arose
+	allot 9
+	aglow 1
+	3
+craze
+	arose
+	grace 19
+	crate 4
+	craze 3
+	4
+stony
+	arose
+	stoop 36
+	stock 4
+	stony 2
+	4
+spank
+	arose
+	slant 67
+	spank 2
+	3
+dally
+	arose
+	canal 148
+	dally 13
+	3
+yearn
+	arose
+	later 60
+	ready 11
+	yearn 1
+	4
+spice
+	arose
+	snipe 24
+	spice 3
+	3
+shell
+	arose
+	spelt 44
+	swell 4
+	smell 2
+	shell 1
+	5
+scaly
+	arose
+	slant 67
+	scalp 6
+	scald 2
+	scaly 1
+	5
+staff
+	arose
+	slant 67
+	stack 5
+	stamp 3
+	staff 2
+	5
+flick
+	arose
+	child 183
+	flick 1
+	3
+deuce
+	arose
+	guile 79
+	etude 5
+	deuce 1
+	4
+salve
+	arose
+	slate 29
+	salve 1
+	3
+clear
+	arose
+	later 60
+	clear 1
+	3
+kiosk
+	arose
+	ghost 6
+	floss 2
+	kiosk 1
+	4
+fiery
+	arose
+	rivet 103
+	fiery 1
+	3
+daunt
+	arose
+	canal 148
+	taunt 10
+	gaunt 5
+	daunt 4
+	5
+loyal
+	arose
+	tonal 44
+	local 5
+	loyal 1
+	4
+paper
+	arose
+	later 60
+	wager 15
+	parer 8
+	payer 2
+	paper 1
+	6
+gassy
+	arose
+	slash 24
+	gassy 1
+	3
+movie
+	arose
+	vogue 14
+	movie 1
+	3
+halve
+	arose
+	eagle 50
+	halve 6
+	3
+conic
+	arose
+	donut 104
+	ionic 4
+	conic 1
+	4
+skunk
+	arose
+	stink 79
+	spunk 3
+	skunk 2
+	4
+widow
+	arose
+	donut 104
+	oddly 3
+	widow 1
+	4
+plant
+	arose
+	canal 148
+	plank 7
+	plant 1
+	4
+stoic
+	arose
+	stoop 36
+	stock 4
+	stoic 1
+	4
+biome
+	arose
+	clone 16
+	biome 5
+	3
+after
+	arose
+	alert 7
+	after 1
+	3
+toxic
+	arose
+	donut 104
+	botch 7
+	toxic 2
+	4
+pence
+	arose
+	guile 79
+	pence 9
+	3
+exult
+	arose
+	inlet 120
+	elect 4
+	exult 1
+	4
+carol
+	arose
+	carol 28
+	2
+match
+	arose
+	canal 148
+	watch 10
+	hatch 4
+	match 3
+	5
+truer
+	arose
+	creed 28
+	grief 4
+	truer 1
+	4
+snare
+	arose
+	scare 5
+	snare 4
+	3
+apply
+	arose
+	await 30
+	album 4
+	apply 1
+	4
+debar
+	arose
+	later 60
+	rebar 3
+	debar 1
+	4
+harem
+	arose
+	later 60
+	ramen 3
+	harem 1
+	4
+belle
+	arose
+	guile 79
+	belle 2
+	3
+pouty
+	arose
+	donut 104
+	touch 5
+	pouty 1
+	4
+aloof
+	arose
+	aloft 12
+	aloof 1
+	3
+debut
+	arose
+	inlet 120
+	eject 3
+	debut 1
+	4
+crush
+	arose
+	crust 11
+	crush 1
+	3
+aging
+	arose
+	await 30
+	aging 4
+	3
+spoke
+	arose
+	stone 12
+	spoke 5
+	3
+young
+	arose
+	donut 104
+	young 1
+	3
+dusky
+	arose
+	stink 79
+	musky 3
+	dusky 2
+	4
+fizzy
+	arose
+	child 183
+	unfit 17
+	fizzy 1
+	4
+stoop
+	arose
+	stoop 36
+	2
+outer
+	arose
+	rower 34
+	otter 6
+	outer 1
+	4
+azure
+	arose
+	afire 4
+	aware 2
+	azure 1
+	4
+fetid
+	arose
+	inlet 120
+	tepid 5
+	fetid 1
+	4
+white
+	arose
+	guile 79
+	whine 7
+	white 1
+	4
+whirl
+	arose
+	birch 33
+	whirl 2
+	3
+thing
+	arose
+	child 183
+	think 5
+	thing 1
+	4
+shark
+	arose
+	strap 21
+	scarf 6
+	shark 4
+	4
+cleft
+	arose
+	inlet 120
+	elect 4
+	cleft 1
+	4
+alone
+	arose
+	anode 7
+	atone 2
+	alone 1
+	4
+puree
+	arose
+	verge 19
+	three 2
+	puree 1
+	4
+usurp
+	arose
+	shirt 21
+	usurp 1
+	3
+lucid
+	arose
+	child 183
+	lucid 1
+	3
+brisk
+	arose
+	crust 11
+	brisk 3
+	3
+camel
+	arose
+	metal 78
+	email 2
+	camel 1
+	4
+given
+	arose
+	inlet 120
+	vixen 4
+	given 1
+	4
+evoke
+	arose
+	clone 16
+	biome 5
+	evoke 2
+	4
+bride
+	arose
+	tripe 24
+	brine 7
+	bride 2
+	4
+edict
+	arose
+	inlet 120
+	edict 5
+	3
+loath
+	arose
+	tonal 44
+	loath 1
+	3
+abode
+	arose
+	anode 7
+	abode 1
+	3
+water
+	arose
+	later 60
+	eater 4
+	hater 3
+	cater 2
+	water 1
+	6
+hotel
+	arose
+	melon 47
+	hovel 6
+	hotel 1
+	4
+prawn
+	arose
+	train 43
+	prawn 3
+	3
+hardy
+	arose
+	harry 55
+	hardy 2
+	3
+trash
+	arose
+	brash 7
+	crash 2
+	trash 1
+	4
+decry
+	arose
+	rivet 103
+	decry 16
+	3
+rapid
+	arose
+	harry 55
+	rabid 7
+	rapid 1
+	4
+sharp
+	arose
+	strap 21
+	sharp 1
+	3
+verve
+	arose
+	verge 19
+	verve 1
+	3
+witty
+	arose
+	child 183
+	unfit 17
+	bitty 3
+	witty 2
+	5
+point
+	arose
+	donut 104
+	point 2
+	3
+grand
+	arose
+	train 43
+	brand 6
+	grand 1
+	4
+finch
+	arose
+	child 183
+	pitch 7
+	finch 2
+	4
+sheik
+	arose
+	spelt 44
+	sheen 3
+	sheik 1
+	4
+broad
+	arose
+	groan 3
+	broad 2
+	3
+chalk
+	arose
+	canal 148
+	claim 4
+	chalk 1
+	4
+level
+	arose
+	inlet 120
+	bleep 10
+	jewel 3
+	level 1
+	5
+start
+	arose
+	strap 21
+	stark 3
+	start 1
+	4
+relax
+	arose
+	later 60
+	regal 7
+	relax 2
+	4
+photo
+	arose
+	blood 39
+	tooth 5
+	photo 1
+	4
+fresh
+	arose
+	cress 6
+	fresh 2
+	3
+flirt
+	arose
+	birch 33
+	flirt 3
+	3
+tiara
+	arose
+	harry 55
+	quart 7
+	tiara 1
+	4
+gloom
+	arose
+	blood 39
+	gloom 1
+	3
+covet
+	arose
+	melon 47
+	covey 5
+	covet 1
+	4
+crack
+	arose
+	train 43
+	wrack 11
+	crack 1
+	4
+dandy
+	arose
+	canal 148
+	tangy 6
+	nanny 4
+	dandy 2
+	5
+oxide
+	arose
+	vogue 14
+	opine 2
+	oxide 1
+	4
+dilly
+	arose
+	child 183
+	dimly 3
+	dilly 1
+	4
+anime
+	arose
+	agile 18
+	anime 2
+	3
+beast
+	arose
+	feast 5
+	yeast 3
+	beast 2
+	4
+gamut
+	arose
+	canal 148
+	datum 21
+	gamut 1
+	4
+milky
+	arose
+	child 183
+	unlit 9
+	milky 2
+	4
+drape
+	arose
+	grace 19
+	drake 7
+	drape 1
+	4
+trend
+	arose
+	creed 28
+	trend 1
+	3
+small
+	arose
+	slant 67
+	scalp 6
+	small 2
+	4
+torso
+	arose
+	torso 2
+	2
+untie
+	arose
+	guile 79
+	pique 3
+	untie 1
+	4
+laugh
+	arose
+	canal 148
+	dally 13
+	laugh 1
+	4
+relay
+	arose
+	later 60
+	regal 7
+	relax 2
+	relay 1
+	5
+gouge
+	arose
+	vogue 14
+	gouge 1
+	3
+lymph
+	arose
+	child 183
+	glyph 2
+	lymph 1
+	4
+noble
+	arose
+	vogue 14
+	noble 1
+	3
+acute
+	arose
+	agile 18
+	amaze 4
+	acute 1
+	4
+every
+	arose
+	rivet 103
+	every 1
+	3
+speed
+	arose
+	spelt 44
+	speed 3
+	3
+taboo
+	arose
+	tonal 44
+	taboo 1
+	3
+crone
+	arose
+	prove 14
+	drone 6
+	crone 1
+	4
+round
+	arose
+	north 49
+	robin 4
+	round 1
+	4
+guilt
+	arose
+	child 183
+	guilt 4
+	3
+putty
+	arose
+	child 183
+	pygmy 14
+	putty 3
+	4
+shoot
+	arose
+	stoop 36
+	shoot 1
+	3
+essay
+	arose
+	steam 11
+	essay 1
+	3
+angry
+	arose
+	award 7
+	angry 1
+	3
+stung
+	arose
+	stink 79
+	stung 2
+	3
+stick
+	arose
+	stink 79
+	stick 1
+	3
+pleat
+	arose
+	metal 78
+	eclat 4
+	pleat 2
+	4
+flail
+	arose
+	canal 148
+	flail 2
+	3
+froze
+	arose
+	prove 14
+	drone 6
+	broke 3
+	froze 2
+	5
+truss
+	arose
+	crust 11
+	truss 1
+	3
+baler
+	arose
+	later 60
+	paler 2
+	baler 1
+	4
+tying
+	arose
+	child 183
+	tying 5
+	3
+fetch
+	arose
+	inlet 120
+	petty 8
+	fetch 1
+	4
+mucky
+	arose
+	child 183
+	mucky 2
+	3
+cliff
+	arose
+	child 183
+	clink 5
+	cliff 2
+	4
+blame
+	arose
+	eagle 50
+	blame 8
+	3
+silky
+	arose
+	stink 79
+	silky 1
+	3
+copse
+	arose
+	poise 8
+	copse 1
+	3
+gummy
+	arose
+	child 183
+	pygmy 14
+	gummy 1
+	4
+their
+	arose
+	rivet 103
+	their 1
+	3
+datum
+	arose
+	canal 148
+	datum 21
+	3
+cross
+	arose
+	gross 4
+	cross 2
+	3
+foray
+	arose
+	carol 28
+	borax 2
+	foray 1
+	4
+puffy
+	arose
+	child 183
+	pygmy 14
+	putty 3
+	puffy 2
+	5
+tract
+	arose
+	train 43
+	track 4
+	tract 1
+	4
+booze
+	arose
+	clone 16
+	biome 5
+	booze 1
+	4
+shift
+	arose
+	stink 79
+	shift 4
+	3
+conch
+	arose
+	donut 104
+	ionic 4
+	conch 1
+	4
+adept
+	arose
+	angel 11
+	ahead 2
+	adept 1
+	4
+inlay
+	arose
+	canal 148
+	inlay 1
+	3
+patch
+	arose
+	canal 148
+	watch 10
+	hatch 4
+	match 3
+	patch 2
+	6
+knave
+	arose
+	eagle 50
+	knave 4
+	3
+amity
+	arose
+	await 30
+	amity 1
+	3
+comfy
+	arose
+	donut 104
+	folly 16
+	comfy 1
+	4
+felon
+	arose
+	melon 47
+	felon 1
+	3
+extra
+	arose
+	later 60
+	extra 1
+	3
+patsy
+	arose
+	slash 24
+	waist 4
+	patsy 1
+	4
+modal
+	arose
+	tonal 44
+	local 5
+	modal 1
+	4
+poise
+	arose
+	poise 8
+	2
+blink
+	arose
+	child 183
+	glint 7
+	blink 1
+	4
+knoll
+	arose
+	blood 39
+	ghoul 2
+	knoll 1
+	4
+trice
+	arose
+	tripe 24
+	trice 3
+	3
+gauze
+	arose
+	eagle 50
+	gauze 5
+	3
+slang
+	arose
+	slant 67
+	slang 1
+	3
+manly
+	arose
+	canal 148
+	lanky 2
+	manly 1
+	4
+quack
+	arose
+	canal 148
+	whack 2
+	quack 1
+	4
+solid
+	arose
+	sound 15
+	solid 1
+	3
+weird
+	arose
+	rivet 103
+	peril 2
+	weird 1
+	4
+filth
+	arose
+	child 183
+	light 2
+	filth 1
+	4
+fling
+	arose
+	child 183
+	glint 7
+	fling 1
+	4
+happy
+	arose
+	canal 148
+	datum 21
+	gawky 4
+	jazzy 2
+	happy 1
+	6
+wryly
+	arose
+	print 37
+	gruff 4
+	dryly 2
+	wryly 1
+	5
+decor
+	arose
+	rower 34
+	tenor 2
+	decor 1
+	4
+guess
+	arose
+	chest 10
+	guess 2
+	3
+sheet
+	arose
+	spelt 44
+	sheet 3
+	3
+dwelt
+	arose
+	inlet 120
+	elect 4
+	dwelt 1
+	4
+semen
+	arose
+	spelt 44
+	semen 4
+	3
+easel
+	arose
+	steam 11
+	easel 1
+	3
+leery
+	arose
+	rivet 103
+	decry 16
+	ferry 4
+	leery 1
+	5
+shame
+	arose
+	slate 29
+	shape 9
+	shave 4
+	shame 3
+	5
+creed
+	arose
+	creed 28
+	2
+aorta
+	arose
+	abhor 4
+	aorta 1
+	3
+guild
+	arose
+	child 183
+	build 2
+	guild 1
+	4
+locus
+	arose
+	sound 15
+	focus 2
+	locus 1
+	4
+child
+	arose
+	child 183
+	2
+stove
+	arose
+	stone 12
+	stoke 3
+	stove 2
+	4
+kitty
+	arose
+	child 183
+	unfit 17
+	bitty 3
+	witty 2
+	kitty 1
+	6
+thorn
+	arose
+	floor 9
+	chord 3
+	thorn 1
+	4
+giddy
+	arose
+	child 183
+	digit 7
+	giddy 1
+	4
+toddy
+	arose
+	donut 104
+	toddy 1
+	3
+quota
+	arose
+	gloat 6
+	quota 1
+	3
+motel
+	arose
+	melon 47
+	motel 2
+	3
+khaki
+	arose
+	canal 148
+	tibia 4
+	khaki 1
+	4
+chill
+	arose
+	child 183
+	chill 2
+	3
+slick
+	arose
+	stink 79
+	slick 1
+	3
+gaily
+	arose
+	canal 148
+	dally 13
+	gaily 2
+	4
+spill
+	arose
+	stink 79
+	spicy 4
+	spill 1
+	4
+baste
+	arose
+	slate 29
+	paste 6
+	waste 5
+	taste 4
+	caste 3
+	baste 2
+	7
+timid
+	arose
+	child 183
+	vivid 3
+	timid 1
+	4
+gypsy
+	arose
+	sissy 17
+	gypsy 1
+	3
+month
+	arose
+	donut 104
+	tonic 2
+	month 1
+	4
+funky
+	arose
+	child 183
+	pygmy 14
+	funky 5
+	4
+cheek
+	arose
+	inlet 120
+	embed 2
+	cheek 1
+	4
+pupil
+	arose
+	child 183
+	unlit 9
+	pupil 1
+	4
+elite
+	arose
+	guile 79
+	elide 2
+	elite 1
+	4
+float
+	arose
+	gloat 6
+	float 2
+	3
+ideal
+	arose
+	metal 78
+	ideal 2
+	3
+ozone
+	arose
+	clone 16
+	ozone 2
+	3
+scorn
+	arose
+	snort 11
+	shorn 3
+	sworn 2
+	scorn 1
+	5
+drone
+	arose
+	prove 14
+	drone 6
+	3
+lefty
+	arose
+	inlet 120
+	lefty 1
+	3
+raspy
+	arose
+	strap 21
+	raspy 1
+	3
+flaky
+	arose
+	canal 148
+	plait 7
+	llama 2
+	flaky 1
+	5
+usher
+	arose
+	sheer 24
+	usher 1
+	3
+chard
+	arose
+	harry 55
+	chard 4
+	3
+video
+	arose
+	melon 47
+	covey 5
+	video 1
+	4
+aping
+	arose
+	await 30
+	aging 4
+	aping 1
+	4
+serif
+	arose
+	sheer 24
+	serum 2
+	serif 1
+	4
+fleet
+	arose
+	inlet 120
+	fleet 1
+	3
+whose
+	arose
+	loose 8
+	chose 3
+	those 2
+	whose 1
+	5
+sadly
+	arose
+	slant 67
+	salad 3
+	sadly 1
+	4
+femme
+	arose
+	guile 79
+	pence 9
+	femme 1
+	4
+fibre
+	arose
+	verge 19
+	rifle 3
+	fibre 1
+	4
+latch
+	arose
+	canal 148
+	latch 1
+	3
+ruddy
+	arose
+	birch 33
+	ruddy 1
+	3
+chide
+	arose
+	guile 79
+	whine 7
+	chide 2
+	4
+flint
+	arose
+	child 183
+	glint 7
+	flint 1
+	4
+arose
+	arose
+	-1
+crumb
+	arose
+	print 37
+	gruff 4
+	crumb 1
+	4
+gaffe
+	arose
+	eagle 50
+	gauze 5
+	gaffe 1
+	4
+rebut
+	arose
+	rivet 103
+	recut 2
+	rebut 1
+	4
+revel
+	arose
+	rivet 103
+	revel 1
+	3
+clove
+	arose
+	clone 16
+	clove 1
+	3
+clash
+	arose
+	slash 24
+	clash 2
+	3
+pasta
+	arose
+	slant 67
+	pasty 5
+	pasta 1
+	4
+melon
+	arose
+	melon 47
+	2
+pecan
+	arose
+	metal 78
+	began 5
+	pecan 1
+	4
+serve
+	arose
+	spree 6
+	serve 1
+	3
+dully
+	arose
+	child 183
+	dully 1
+	3
+clued
+	arose
+	inlet 120
+	bleep 10
+	clued 1
+	4
+salvo
+	arose
+	salon 6
+	salvo 1
+	3
+trade
+	arose
+	grace 19
+	drake 7
+	trade 1
+	4
+couch
+	arose
+	donut 104
+	couch 5
+	3
+civil
+	arose
+	child 183
+	civil 1
+	3
+tight
+	arose
+	child 183
+	night 9
+	tight 4
+	4
+berry
+	arose
+	rivet 103
+	decry 16
+	ferry 4
+	merry 2
+	berry 1
+	6
+avoid
+	arose
+	aloft 12
+	agony 3
+	avoid 1
+	4
+grown
+	arose
+	prong 38
+	grown 2
+	3
+sonar
+	arose
+	sonar 3
+	2
+punch
+	arose
+	child 183
+	butch 6
+	punch 3
+	4
+tawny
+	arose
+	canal 148
+	taunt 10
+	tawny 1
+	4
+glove
+	arose
+	clone 16
+	globe 4
+	glove 1
+	4
+cyber
+	arose
+	rivet 103
+	leper 18
+	under 4
+	cyber 1
+	5
+eagle
+	arose
+	eagle 50
+	2
+whiff
+	arose
+	child 183
+	think 5
+	whiff 1
+	4
+dopey
+	arose
+	melon 47
+	covey 5
+	dopey 1
+	4
+worst
+	arose
+	torso 2
+	worst 1
+	3
+rowdy
+	arose
+	north 49
+	rocky 5
+	rowdy 1
+	4
+lucky
+	arose
+	child 183
+	pluck 2
+	lucky 1
+	4
+slice
+	arose
+	snipe 24
+	slime 7
+	slide 2
+	slice 1
+	5
+wispy
+	arose
+	stink 79
+	fishy 4
+	wispy 1
+	4
+plaid
+	arose
+	canal 148
+	plait 7
+	plaid 1
+	4
+sonic
+	arose
+	sound 15
+	sonic 1
+	3
+super
+	arose
+	sheer 24
+	surer 3
+	super 1
+	4
+moody
+	arose
+	blood 39
+	goody 3
+	moody 2
+	4
+horde
+	arose
+	forge 10
+	horde 2
+	3
+honey
+	arose
+	melon 47
+	boney 2
+	honey 1
+	4
+shall
+	arose
+	slant 67
+	scalp 6
+	small 2
+	shall 1
+	5
+unity
+	arose
+	child 183
+	tying 5
+	unity 1
+	4
+cache
+	arose
+	eagle 50
+	mauve 9
+	bathe 3
+	cache 1
+	5
+chair
+	arose
+	harry 55
+	chair 1
+	3
+groin
+	arose
+	prong 38
+	grown 2
+	groin 1
+	4
+large
+	arose
+	barge 8
+	large 1
+	3
+poker
+	arose
+	rower 34
+	hover 11
+	joker 5
+	poker 1
+	5
+lapse
+	arose
+	lapse 10
+	2
+trunk
+	arose
+	print 37
+	trunk 1
+	3
+dryer
+	arose
+	creed 28
+	drier 2
+	dryer 1
+	4
+holly
+	arose
+	donut 104
+	folly 16
+	golly 3
+	holly 2
+	5
+reedy
+	arose
+	rivet 103
+	rerun 4
+	reply 2
+	reedy 1
+	5
+papal
+	arose
+	canal 148
+	fatal 2
+	papal 1
+	4
+stunk
+	arose
+	stink 79
+	stunk 1
+	3
+blank
+	arose
+	canal 148
+	plank 7
+	blank 2
+	4
+shire
+	arose
+	spree 6
+	shire 1
+	3
+puppy
+	arose
+	child 183
+	pygmy 14
+	putty 3
+	puffy 2
+	puppy 1
+	6
+bluff
+	arose
+	child 183
+	flunk 11
+	bluff 1
+	4
+singe
+	arose
+	snipe 24
+	singe 2
+	3
+tweak
+	arose
+	metal 78
+	cheat 3
+	tweak 1
+	4
+angel
+	arose
+	angel 11
+	2
+plume
+	arose
+	guile 79
+	flume 5
+	plume 1
+	4
+gauge
+	arose
+	eagle 50
+	gauze 5
+	gauge 1
+	4
+lorry
+	arose
+	north 49
+	world 6
+	lorry 1
+	4
+sense
+	arose
+	these 7
+	sense 2
+	3
+briny
+	arose
+	print 37
+	bring 6
+	briny 2
+	4
+beady
+	arose
+	metal 78
+	beady 5
+	3
+trick
+	arose
+	print 37
+	fritz 2
+	trick 1
+	4
+thrum
+	arose
+	birch 33
+	hurry 2
+	thrum 1
+	4
+canon
+	arose
+	tonal 44
+	banjo 3
+	canon 1
+	4
+hydro
+	arose
+	north 49
+	humor 2
+	hydro 1
+	4
+surge
+	arose
+	spree 6
+	surge 1
+	3
+prude
+	arose
+	tripe 24
+	prune 2
+	prude 1
+	4
+skimp
+	arose
+	stink 79
+	skiff 4
+	skimp 2
+	4
+slunk
+	arose
+	stink 79
+	spunk 3
+	skunk 2
+	slunk 1
+	5
+haste
+	arose
+	slate 29
+	paste 6
+	waste 5
+	taste 4
+	caste 3
+	baste 2
+	haste 1
+	8
+munch
+	arose
+	child 183
+	butch 6
+	punch 3
+	munch 2
+	5
+satyr
+	arose
+	strap 21
+	satyr 2
+	3
+pique
+	arose
+	guile 79
+	pique 3
+	3
+borne
+	arose
+	forge 10
+	horde 2
+	borne 1
+	4
+purer
+	arose
+	rivet 103
+	leper 18
+	purer 1
+	4
+upper
+	arose
+	rivet 103
+	leper 18
+	upper 2
+	4
+reset
+	arose
+	sheer 24
+	reset 1
+	3
+stake
+	arose
+	slate 29
+	stave 3
+	stage 2
+	stake 1
+	5
+mucus
+	arose
+	stink 79
+	humus 6
+	mucus 1
+	4
+buyer
+	arose
+	rivet 103
+	leper 18
+	under 4
+	buyer 1
+	5
+husky
+	arose
+	stink 79
+	musky 3
+	dusky 2
+	husky 1
+	5
+villa
+	arose
+	canal 148
+	plait 7
+	villa 1
+	4
+bevel
+	arose
+	inlet 120
+	bleep 10
+	bezel 2
+	bevel 1
+	5
+cress
+	arose
+	cress 6
+	2
+comic
+	arose
+	donut 104
+	folly 16
+	comic 1
+	4
+thong
+	arose
+	blood 39
+	phony 6
+	thong 1
+	4
+dirge
+	arose
+	verge 19
+	purge 2
+	dirge 1
+	4
+minus
+	arose
+	stink 79
+	minus 1
+	3
+award
+	arose
+	award 7
+	2
+shack
+	arose
+	slant 67
+	smack 7
+	shack 1
+	4
+nomad
+	arose
+	tonal 44
+	nomad 2
+	3
+clown
+	arose
+	blood 39
+	cloth 7
+	clock 2
+	clown 1
+	5
+mince
+	arose
+	guile 79
+	piece 7
+	mince 2
+	4
+opium
+	arose
+	donut 104
+	opium 1
+	3
+brace
+	arose
+	grace 19
+	trace 2
+	brace 1
+	4
+edify
+	arose
+	inlet 120
+	weigh 4
+	edify 1
+	4
+handy
+	arose
+	canal 148
+	tangy 6
+	nanny 4
+	dandy 2
+	handy 1
+	6
+amend
+	arose
+	angel 11
+	amend 1
+	3
+binge
+	arose
+	guile 79
+	hinge 3
+	binge 1
+	4
+group
+	arose
+	prong 38
+	group 1
+	3
+climb
+	arose
+	child 183
+	clink 5
+	cliff 2
+	climb 1
+	5
+hunch
+	arose
+	child 183
+	butch 6
+	munch 3
+	punch 2
+	hunch 1
+	6
+sixty
+	arose
+	stink 79
+	sixty 4
+	3
+fever
+	arose
+	rivet 103
+	lever 3
+	never 2
+	fever 1
+	5
+lasso
+	arose
+	coast 4
+	lasso 1
+	3
+prowl
+	arose
+	prong 38
+	proxy 4
+	prowl 3
+	4
+clank
+	arose
+	canal 148
+	clank 2
+	3
+vying
+	arose
+	child 183
+	tying 5
+	vying 1
+	4
+tepee
+	arose
+	guile 79
+	pence 9
+	tepee 1
+	4
+tense
+	arose
+	these 7
+	tense 1
+	3
+tabby
+	arose
+	canal 148
+	datum 21
+	taffy 4
+	tabby 1
+	5
+broth
+	arose
+	prong 38
+	brood 15
+	broth 2
+	4
+cloud
+	arose
+	blood 39
+	cloud 1
+	3
+cycle
+	arose
+	guile 79
+	belle 2
+	cycle 1
+	4
+ombre
+	arose
+	forge 10
+	ombre 1
+	3
+elude
+	arose
+	guile 79
+	flume 5
+	elude 1
+	4
+drake
+	arose
+	grace 19
+	drake 7
+	3
+worry
+	arose
+	north 49
+	world 6
+	worry 1
+	4
+wrote
+	arose
+	prove 14
+	drone 6
+	broke 3
+	froze 2
+	wrote 1
+	6
+porch
+	arose
+	north 49
+	morph 2
+	porch 1
+	4
+folio
+	arose
+	donut 104
+	folly 16
+	folio 1
+	4
+chaff
+	arose
+	canal 148
+	chaff 2
+	3
+pivot
+	arose
+	donut 104
+	pilot 3
+	pivot 1
+	4
+bigot
+	arose
+	donut 104
+	pilot 3
+	bigot 1
+	4
+swamp
+	arose
+	slant 67
+	smack 7
+	swami 2
+	swamp 1
+	5
+gnash
+	arose
+	slash 24
+	gnash 2
+	3
+flask
+	arose
+	slash 24
+	blast 3
+	flask 2
+	4
+cheer
+	arose
+	rivet 103
+	leper 18
+	cheer 3
+	4
+scamp
+	arose
+	slant 67
+	smack 7
+	scamp 1
+	4
+quote
+	arose
+	clone 16
+	biome 5
+	evoke 2
+	quote 1
+	5
+demon
+	arose
+	melon 47
+	demon 1
+	3
+moral
+	arose
+	carol 28
+	moral 1
+	3
+chick
+	arose
+	child 183
+	chick 1
+	3
+balmy
+	arose
+	canal 148
+	dally 13
+	balmy 1
+	4
+apart
+	arose
+	award 7
+	alarm 2
+	apart 1
+	4
+alibi
+	arose
+	await 30
+	aging 4
+	alibi 1
+	4
+arena
+	arose
+	arena 1
+	2
+seven
+	arose
+	spelt 44
+	semen 4
+	seven 1
+	4
+ficus
+	arose
+	stink 79
+	fishy 4
+	ficus 1
+	4
+apple
+	arose
+	agile 18
+	ample 4
+	apple 1
+	4
+cameo
+	arose
+	cameo 4
+	2
+clean
+	arose
+	metal 78
+	glean 4
+	clean 1
+	4
+idler
+	arose
+	rivet 103
+	infer 5
+	idler 1
+	4
+rumor
+	arose
+	north 49
+	vigor 5
+	rumor 1
+	4
+grimy
+	arose
+	print 37
+	grill 7
+	grimy 1
+	4
+showy
+	arose
+	stoop 36
+	showy 9
+	3
+frail
+	arose
+	train 43
+	grail 3
+	frail 1
+	4
+randy
+	arose
+	harry 55
+	rainy 4
+	randy 1
+	4
+octet
+	arose
+	melon 47
+	covey 5
+	octet 1
+	4
+creme
+	arose
+	tripe 24
+	creme 2
+	3
+jaunt
+	arose
+	canal 148
+	taunt 10
+	gaunt 5
+	daunt 4
+	jaunt 3
+	6
+unzip
+	arose
+	child 183
+	unfit 17
+	unzip 1
+	4
+bicep
+	arose
+	inlet 120
+	bicep 3
+	3
+timer
+	arose
+	rivet 103
+	timer 2
+	3
+kneel
+	arose
+	inlet 120
+	kneel 1
+	3
+spend
+	arose
+	spelt 44
+	speed 3
+	spend 1
+	4
+gazer
+	arose
+	later 60
+	wager 15
+	gamer 3
+	gayer 2
+	gazer 1
+	6
+boast
+	arose
+	coast 4
+	toast 2
+	boast 1
+	4
+leapt
+	arose
+	metal 78
+	leapt 4
+	3
+agree
+	arose
+	afire 4
+	agree 1
+	3
+shake
+	arose
+	slate 29
+	shape 9
+	shave 4
+	shame 3
+	shake 2
+	6
+lilac
+	arose
+	canal 148
+	iliac 2
+	lilac 1
+	4
+setup
+	arose
+	spelt 44
+	setup 1
+	3
+lemur
+	arose
+	rivet 103
+	decry 16
+	femur 2
+	lemur 1
+	5
+write
+	arose
+	tripe 24
+	write 1
+	3
+credo
+	arose
+	order 3
+	credo 1
+	3
+stand
+	arose
+	slant 67
+	stank 2
+	stand 1
+	4
+verse
+	arose
+	purse 7
+	terse 2
+	verse 1
+	4
+minim
+	arose
+	child 183
+	unfit 17
+	minim 1
+	4
+foggy
+	arose
+	donut 104
+	folly 16
+	foggy 1
+	4
+queer
+	arose
+	rivet 103
+	leper 18
+	cheer 3
+	queer 1
+	5
+flunk
+	arose
+	child 183
+	flunk 11
+	3
+churn
+	arose
+	birch 33
+	churn 1
+	3
+fuzzy
+	arose
+	child 183
+	pygmy 14
+	funky 5
+	fuzzy 1
+	5
+tardy
+	arose
+	harry 55
+	party 3
+	tardy 1
+	4
+equal
+	arose
+	metal 78
+	ideal 2
+	equal 1
+	4
+check
+	arose
+	inlet 120
+	geeky 6
+	check 1
+	4
+weave
+	arose
+	eagle 50
+	heave 3
+	weave 1
+	4
+queen
+	arose
+	inlet 120
+	hymen 2
+	queen 1
+	4
+impel
+	arose
+	inlet 120
+	impel 1
+	3
+harpy
+	arose
+	harry 55
+	hardy 2
+	harpy 1
+	4
+mauve
+	arose
+	eagle 50
+	mauve 9
+	3
+agile
+	arose
+	agile 18
+	2
+great
+	arose
+	tread 11
+	great 1
+	3
+index
+	arose
+	inlet 120
+	index 1
+	3
+ratty
+	arose
+	harry 55
+	rainy 4
+	rally 2
+	ratty 1
+	5
+mambo
+	arose
+	tonal 44
+	havoc 4
+	mambo 1
+	4
+haute
+	arose
+	eagle 50
+	mauve 9
+	haute 1
+	4
+corny
+	arose
+	north 49
+	moron 2
+	corny 1
+	4
+lurid
+	arose
+	birch 33
+	lurid 1
+	3
+proof
+	arose
+	prong 38
+	proxy 4
+	prowl 3
+	proof 2
+	5
+aroma
+	arose
+	aroma 1
+	2
+dense
+	arose
+	these 7
+	sense 2
+	dense 1
+	4
+admit
+	arose
+	await 30
+	admit 2
+	3
+siren
+	arose
+	sheer 24
+	siren 2
+	3
+swift
+	arose
+	stink 79
+	shift 4
+	swift 1
+	4
+await
+	arose
+	await 30
+	2
+evict
+	arose
+	inlet 120
+	edict 5
+	evict 1
+	4
+pinch
+	arose
+	child 183
+	pitch 7
+	pinch 1
+	4
+suave
+	arose
+	slate 29
+	shape 9
+	suave 2
+	4
+vocal
+	arose
+	tonal 44
+	local 5
+	focal 2
+	vocal 1
+	5
+crass
+	arose
+	brash 7
+	grasp 3
+	crass 1
+	4
+storm
+	arose
+	snort 11
+	storm 3
+	3
+afoul
+	arose
+	aloft 12
+	afoul 1
+	3
+theft
+	arose
+	inlet 120
+	eject 3
+	theft 1
+	4
+event
+	arose
+	inlet 120
+	event 1
+	3
+tough
+	arose
+	donut 104
+	touch 5
+	tough 1
+	4
+weary
+	arose
+	later 60
+	ready 11
+	weary 1
+	4
+money
+	arose
+	melon 47
+	money 1
+	3
+swirl
+	arose
+	shirt 21
+	smirk 2
+	swirl 1
+	4
+ember
+	arose
+	rivet 103
+	leper 18
+	cheer 3
+	ember 1
+	5
+intro
+	arose
+	north 49
+	intro 1
+	3
+brake
+	arose
+	grace 19
+	drake 7
+	brake 1
+	4
+avert
+	arose
+	alert 7
+	avert 1
+	3
+broil
+	arose
+	prong 38
+	brood 15
+	broth 2
+	broil 1
+	5
+habit
+	arose
+	canal 148
+	datum 21
+	taffy 4
+	habit 1
+	5
+wring
+	arose
+	print 37
+	bring 6
+	wring 1
+	4
+blood
+	arose
+	blood 39
+	2
+crock
+	arose
+	prong 38
+	brood 15
+	trout 5
+	frock 2
+	crock 1
+	6
+billy
+	arose
+	child 183
+	filly 4
+	willy 2
+	billy 1
+	5
+junta
+	arose
+	canal 148
+	ninja 2
+	junta 1
+	4
+mamma
+	arose
+	canal 148
+	magma 5
+	mamma 1
+	4
+basis
+	arose
+	slant 67
+	basic 2
+	basis 1
+	4
+tenet
+	arose
+	inlet 120
+	tenet 1
+	3
+angst
+	arose
+	amass 5
+	angst 1
+	3
+niche
+	arose
+	guile 79
+	piece 7
+	niche 1
+	4
+tempo
+	arose
+	melon 47
+	tempo 1
+	3
+thump
+	arose
+	child 183
+	thump 2
+	3
+leave
+	arose
+	eagle 50
+	leave 1
+	3
+warty
+	arose
+	harry 55
+	party 3
+	warty 1
+	4
+study
+	arose
+	stink 79
+	stump 3
+	study 2
+	4
+table
+	arose
+	eagle 50
+	fable 5
+	cable 2
+	table 1
+	5
+maybe
+	arose
+	eagle 50
+	mauve 9
+	maize 2
+	maybe 1
+	5
+visor
+	arose
+	torus 3
+	visor 1
+	3
+omega
+	arose
+	cameo 4
+	omega 1
+	3
+plaza
+	arose
+	canal 148
+	llama 2
+	plaza 1
+	4
+brunt
+	arose
+	print 37
+	grunt 2
+	brunt 1
+	4
+amply
+	arose
+	await 30
+	album 4
+	amply 1
+	4
+mummy
+	arose
+	child 183
+	pygmy 14
+	mummy 1
+	4
+ovary
+	arose
+	carol 28
+	board 3
+	ovary 1
+	4
+bulky
+	arose
+	child 183
+	flunk 11
+	bulky 1
+	4
+crank
+	arose
+	train 43
+	brand 6
+	prank 3
+	crank 2
+	5
+excel
+	arose
+	inlet 120
+	bleep 10
+	jewel 3
+	excel 1
+	5
+droop
+	arose
+	prong 38
+	droop 3
+	3
+sunny
+	arose
+	stink 79
+	slung 3
+	sunny 1
+	4
+flume
+	arose
+	guile 79
+	flume 5
+	3
+agape
+	arose
+	agile 18
+	agate 2
+	agape 1
+	4
+grass
+	arose
+	brash 7
+	grasp 3
+	grass 1
+	4
+breed
+	arose
+	creed 28
+	breed 3
+	3
+imbue
+	arose
+	guile 79
+	imbue 3
+	3
+adage
+	arose
+	agile 18
+	adage 1
+	3
+urban
+	arose
+	train 43
+	urban 1
+	3
+begat
+	arose
+	metal 78
+	begat 1
+	3
+trite
+	arose
+	tripe 24
+	trice 3
+	trite 2
+	4
+mount
+	arose
+	donut 104
+	mount 2
+	3
+booby
+	arose
+	blood 39
+	boozy 4
+	booty 2
+	booby 1
+	5
+woven
+	arose
+	melon 47
+	woven 6
+	3
+tonga
+	arose
+	tonal 44
+	tonga 1
+	3
+mossy
+	arose
+	moist 9
+	mossy 1
+	3
+leaky
+	arose
+	metal 78
+	leaky 4
+	3
+slack
+	arose
+	slant 67
+	slack 1
+	3
+uncut
+	arose
+	child 183
+	mucky 2
+	uncut 1
+	4
+trail
+	arose
+	train 43
+	trail 2
+	3
+madly
+	arose
+	canal 148
+	dally 13
+	madly 2
+	4
+medic
+	arose
+	inlet 120
+	weigh 4
+	medic 1
+	4
+fluke
+	arose
+	guile 79
+	flume 5
+	fluke 2
+	4
+dunce
+	arose
+	guile 79
+	dunce 3
+	3
+torch
+	arose
+	north 49
+	torch 1
+	3
+spilt
+	arose
+	stink 79
+	shift 4
+	spilt 1
+	4
+fight
+	arose
+	child 183
+	night 9
+	tight 4
+	fight 3
+	5
+taunt
+	arose
+	canal 148
+	taunt 10
+	3
+drawn
+	arose
+	train 43
+	prawn 3
+	drawn 2
+	4
+bison
+	arose
+	sound 15
+	bison 1
+	3
+scene
+	arose
+	snipe 24
+	scene 1
+	3
+lusty
+	arose
+	stink 79
+	dusty 4
+	lusty 3
+	4
+diode
+	arose
+	clone 16
+	biome 5
+	diode 1
+	4
+abide
+	arose
+	agile 18
+	anime 2
+	abide 1
+	4
+batty
+	arose
+	canal 148
+	datum 21
+	patty 4
+	fatty 3
+	tatty 2
+	batty 1
+	7
+girly
+	arose
+	birch 33
+	dirty 2
+	girly 1
+	4
+pouch
+	arose
+	donut 104
+	couch 5
+	pouch 2
+	4
+query
+	arose
+	rivet 103
+	decry 16
+	query 1
+	4
+final
+	arose
+	canal 148
+	final 1
+	3
+train
+	arose
+	train 43
+	2
+ditch
+	arose
+	child 183
+	ditch 1
+	3
+other
+	arose
+	rower 34
+	otter 6
+	other 1
+	4
+slime
+	arose
+	snipe 24
+	slime 7
+	3
+aisle
+	arose
+	aside 2
+	aisle 1
+	3
+scold
+	arose
+	stoop 36
+	showy 9
+	scold 3
+	4
+radar
+	arose
+	harry 55
+	radar 1
+	3
+gloss
+	arose
+	ghost 6
+	gloss 1
+	3
+maker
+	arose
+	later 60
+	wager 15
+	parer 8
+	maker 2
+	5
+least
+	arose
+	feast 5
+	yeast 3
+	beast 2
+	least 1
+	5
+kebab
+	arose
+	metal 78
+	began 5
+	kebab 1
+	4
+unify
+	arose
+	child 183
+	tying 5
+	unify 1
+	4
+slurp
+	arose
+	shirt 21
+	spurn 2
+	slurp 1
+	4
+lynch
+	arose
+	child 183
+	mulch 4
+	lynch 1
+	4
+scope
+	arose
+	stone 12
+	spoke 5
+	scope 2
+	4
+solar
+	arose
+	sonar 3
+	solar 1
+	3
+staid
+	arose
+	slant 67
+	stack 5
+	stamp 3
+	staff 2
+	staid 1
+	6
+gaudy
+	arose
+	canal 148
+	datum 21
+	gaudy 1
+	4
+crawl
+	arose
+	train 43
+	wrack 11
+	crawl 1
+	4
+primo
+	arose
+	prior 3
+	primo 1
+	3
+bless
+	arose
+	chest 10
+	guess 2
+	bless 1
+	4
+basal
+	arose
+	slant 67
+	basil 3
+	basal 1
+	4
+poser
+	arose
+	sower 4
+	poser 2
+	3
+crane
+	arose
+	grace 19
+	crate 4
+	craze 3
+	crane 2
+	5
+fence
+	arose
+	guile 79
+	pence 9
+	hence 2
+	fence 1
+	5
+enter
+	arose
+	rivet 103
+	meter 7
+	enter 1
+	4
+value
+	arose
+	eagle 50
+	halve 6
+	value 1
+	4
+crier
+	arose
+	creed 28
+	cruel 2
+	crier 1
+	4
+mourn
+	arose
+	north 49
+	robin 4
+	mourn 1
+	4
+cider
+	arose
+	rivet 103
+	finer 11
+	wider 3
+	cider 1
+	5
+croup
+	arose
+	prong 38
+	droop 3
+	croup 1
+	4
+dairy
+	arose
+	harry 55
+	fairy 2
+	dairy 1
+	4
+hutch
+	arose
+	child 183
+	butch 6
+	hutch 1
+	4
+vicar
+	arose
+	harry 55
+	vicar 6
+	3
+youth
+	arose
+	donut 104
+	touch 5
+	youth 2
+	4
+pried
+	arose
+	creed 28
+	dried 4
+	pried 3
+	4
+spare
+	arose
+	stare 5
+	scare 4
+	snare 3
+	spare 2
+	5
+learn
+	arose
+	later 60
+	learn 1
+	3
+ascot
+	arose
+	ascot 1
+	2
+louse
+	arose
+	poise 8
+	louse 3
+	3
+right
+	arose
+	birch 33
+	right 1
+	3
+canoe
+	arose
+	ovate 2
+	canoe 1
+	3
+windy
+	arose
+	child 183
+	digit 7
+	biddy 2
+	windy 1
+	5
+elate
+	arose
+	eagle 50
+	elate 1
+	3
+unfed
+	arose
+	inlet 120
+	unfed 3
+	3
+axiom
+	arose
+	allot 9
+	axiom 3
+	3
+print
+	arose
+	print 37
+	2
+blare
+	arose
+	barge 8
+	blare 1
+	3
+organ
+	arose
+	organ 2
+	2
+riper
+	arose
+	rivet 103
+	riper 3
+	3
+cause
+	arose
+	lapse 10
+	masse 2
+	cause 1
+	4
+maxim
+	arose
+	canal 148
+	datum 21
+	maxim 1
+	4
+leafy
+	arose
+	metal 78
+	leaky 4
+	leafy 1
+	4
+which
+	arose
+	child 183
+	thick 2
+	which 1
+	4
+frisk
+	arose
+	crust 11
+	brisk 3
+	frisk 1
+	4
+motif
+	arose
+	donut 104
+	botch 7
+	motto 2
+	motif 1
+	5
+ultra
+	arose
+	harry 55
+	quart 7
+	ultra 1
+	4
+spoof
+	arose
+	stoop 36
+	spool 4
+	spook 3
+	spoon 2
+	spoof 1
+	6
+rodeo
+	arose
+	rower 34
+	rodeo 1
+	3
+meant
+	arose
+	metal 78
+	meaty 2
+	meant 1
+	4
+icing
+	arose
+	child 183
+	quick 3
+	icing 1
+	4
+sober
+	arose
+	sower 4
+	sober 1
+	3
+wrest
+	arose
+	cress 6
+	fresh 2
+	wrest 1
+	4
+lowly
+	arose
+	donut 104
+	folly 16
+	lowly 1
+	4
+cocoa
+	arose
+	tonal 44
+	dogma 7
+	cocoa 1
+	4
+freak
+	arose
+	tread 11
+	break 5
+	creak 3
+	freak 2
+	5
+abbey
+	arose
+	angel 11
+	abbey 1
+	3
+would
+	arose
+	donut 104
+	would 2
+	3
+larva
+	arose
+	harry 55
+	parka 4
+	larva 1
+	4
+strap
+	arose
+	strap 21
+	2
+mammy
+	arose
+	canal 148
+	datum 21
+	mammy 1
+	4
+fugue
+	arose
+	guile 79
+	budge 5
+	fugue 1
+	4
+dicey
+	arose
+	inlet 120
+	bicep 3
+	dicey 1
+	4
+below
+	arose
+	melon 47
+	below 1
+	3
+sauna
+	arose
+	slant 67
+	sauna 1
+	3
+quilt
+	arose
+	child 183
+	guilt 4
+	quilt 2
+	4
+quasi
+	arose
+	slash 24
+	quasi 1
+	3
+rival
+	arose
+	harry 55
+	vicar 6
+	rival 1
+	4
+shard
+	arose
+	strap 21
+	scarf 6
+	shark 4
+	shard 1
+	5
+grate
+	arose
+	grace 19
+	grape 5
+	grade 4
+	graze 3
+	grave 2
+	grate 1
+	7
+palsy
+	arose
+	slash 24
+	palsy 1
+	3
+trump
+	arose
+	print 37
+	trump 1
+	3
+naive
+	arose
+	eagle 50
+	mauve 9
+	waive 2
+	naive 1
+	5
+stain
+	arose
+	slant 67
+	stain 1
+	3
+pansy
+	arose
+	slash 24
+	waist 4
+	pansy 1
+	4
+loser
+	arose
+	sower 4
+	poser 2
+	loser 1
+	4
+sweet
+	arose
+	spelt 44
+	sheet 3
+	sweet 1
+	4
+steak
+	arose
+	steam 11
+	stead 3
+	steak 2
+	4
+duvet
+	arose
+	inlet 120
+	tweet 3
+	duvet 1
+	4
+liken
+	arose
+	inlet 120
+	linen 2
+	liken 1
+	4
+bunch
+	arose
+	child 183
+	butch 6
+	bunch 1
+	4
+death
+	arose
+	metal 78
+	heath 3
+	death 1
+	4
+fetal
+	arose
+	metal 78
+	petal 2
+	fetal 1
+	4
+meter
+	arose
+	rivet 103
+	meter 7
+	3
+bully
+	arose
+	child 183
+	gully 3
+	bully 2
+	4
+honor
+	arose
+	north 49
+	honor 1
+	3
+flush
+	arose
+	sissy 17
+	plush 3
+	blush 2
+	flush 1
+	5
+spite
+	arose
+	snipe 24
+	spice 3
+	spite 2
+	4
+utile
+	arose
+	guile 79
+	utile 1
+	3
+fifth
+	arose
+	child 183
+	night 9
+	fifth 1
+	4
+fully
+	arose
+	child 183
+	gully 3
+	bully 2
+	fully 1
+	5
+plumb
+	arose
+	child 183
+	flunk 11
+	plump 2
+	plumb 1
+	5
+comet
+	arose
+	melon 47
+	totem 2
+	comet 1
+	4
+quail
+	arose
+	canal 148
+	flail 2
+	quail 1
+	4
+vista
+	arose
+	slant 67
+	pasty 5
+	vista 1
+	4
+chart
+	arose
+	harry 55
+	chard 4
+	chart 2
+	4
+ivory
+	arose
+	floor 9
+	chord 3
+	ivory 1
+	4
+hippy
+	arose
+	child 183
+	night 9
+	hippy 1
+	4
+snout
+	arose
+	stoop 36
+	sloth 4
+	snout 2
+	4
+ocean
+	arose
+	cameo 4
+	ocean 1
+	3
+shirt
+	arose
+	shirt 21
+	2
+piety
+	arose
+	inlet 120
+	tepid 5
+	piety 1
+	4
+pulse
+	arose
+	these 7
+	guise 2
+	pulse 1
+	4
+bloat
+	arose
+	gloat 6
+	float 2
+	bloat 1
+	4
+rupee
+	arose
+	verge 19
+	where 3
+	rupee 1
+	4
+shrew
+	arose
+	sheer 24
+	shrew 1
+	3
+vague
+	arose
+	eagle 50
+	vague 1
+	3
+dealt
+	arose
+	metal 78
+	leapt 4
+	dealt 1
+	4
+croak
+	arose
+	groan 3
+	broad 2
+	croak 1
+	4
+woken
+	arose
+	melon 47
+	woven 6
+	woken 1
+	4
+leash
+	arose
+	feast 5
+	leash 1
+	3
+radii
+	arose
+	harry 55
+	rabid 7
+	radii 1
+	4
+segue
+	arose
+	snipe 24
+	segue 2
+	3
+weedy
+	arose
+	inlet 120
+	geeky 6
+	weedy 2
+	4
+hasty
+	arose
+	slant 67
+	pasty 5
+	tasty 2
+	hasty 1
+	5
+there
+	arose
+	verge 19
+	where 3
+	there 1
+	4
+junto
+	arose
+	donut 104
+	junto 1
+	3
+music
+	arose
+	stink 79
+	fishy 4
+	music 1
+	4
+fried
+	arose
+	creed 28
+	dried 4
+	pried 3
+	fried 2
+	5
+notch
+	arose
+	donut 104
+	toxin 2
+	notch 1
+	4
+stuff
+	arose
+	stink 79
+	stump 3
+	study 2
+	stuff 1
+	5
+altar
+	arose
+	award 7
+	altar 1
+	3
+corer
+	arose
+	rower 34
+	corer 1
+	3
+dross
+	arose
+	gross 4
+	cross 2
+	dross 1
+	4
+inter
+	arose
+	rivet 103
+	inter 1
+	3
+vomit
+	arose
+	donut 104
+	vomit 1
+	3
+bluer
+	arose
+	rivet 103
+	leper 18
+	bluer 3
+	4
+tweed
+	arose
+	inlet 120
+	tweed 1
+	3
+uncle
+	arose
+	guile 79
+	uncle 1
+	3
+decay
+	arose
+	metal 78
+	began 5
+	decay 1
+	4
+built
+	arose
+	child 183
+	guilt 4
+	quilt 2
+	built 1
+	5
+adobe
+	arose
+	anode 7
+	adobe 1
+	3
+price
+	arose
+	tripe 24
+	prize 4
+	prime 3
+	pride 2
+	price 1
+	6
+being
+	arose
+	inlet 120
+	feign 9
+	being 1
+	4
+marry
+	arose
+	harry 55
+	carry 3
+	parry 2
+	marry 1
+	5
+bland
+	arose
+	canal 148
+	plank 7
+	gland 2
+	bland 1
+	5
+clung
+	arose
+	child 183
+	clump 3
+	cluck 2
+	clung 1
+	5
+whelp
+	arose
+	inlet 120
+	whelp 7
+	3
+cloak
+	arose
+	gloat 6
+	cloak 1
+	3
+voice
+	arose
+	vogue 14
+	voice 1
+	3
+actor
+	arose
+	abhor 4
+	actor 1
+	3
+manor
+	arose
+	carol 28
+	rayon 7
+	manor 1
+	4
+blind
+	arose
+	child 183
+	blind 1
+	3
+slyly
+	arose
+	stink 79
+	slump 4
+	slyly 1
+	4
+dough
+	arose
+	donut 104
+	dough 1
+	3
+beech
+	arose
+	inlet 120
+	geeky 6
+	beech 1
+	4
+stole
+	arose
+	stone 12
+	stoke 3
+	stove 2
+	stole 1
+	5
+brief
+	arose
+	creed 28
+	grief 4
+	brief 1
+	4
+pulpy
+	arose
+	child 183
+	flunk 11
+	lumpy 2
+	pulpy 1
+	5
+poppy
+	arose
+	donut 104
+	folly 16
+	bobby 3
+	poppy 1
+	5
+sassy
+	arose
+	slash 24
+	sassy 1
+	3
+sperm
+	arose
+	sheer 24
+	stern 2
+	sperm 1
+	4
+flash
+	arose
+	slash 24
+	clash 2
+	flash 1
+	4
+carat
+	arose
+	harry 55
+	parka 4
+	carat 1
+	4
+swung
+	arose
+	stink 79
+	slung 3
+	swung 1
+	4
+cabin
+	arose
+	canal 148
+	cabin 1
+	3
+vodka
+	arose
+	tonal 44
+	dogma 7
+	vodka 1
+	4
+taker
+	arose
+	later 60
+	taper 3
+	taker 2
+	4
+bring
+	arose
+	print 37
+	bring 6
+	3
+chili
+	arose
+	child 183
+	chill 2
+	chili 1
+	4
+crave
+	arose
+	grace 19
+	crate 4
+	craze 3
+	crane 2
+	crave 1
+	6
+cover
+	arose
+	rower 34
+	hover 11
+	lover 3
+	cover 2
+	5
+hobby
+	arose
+	donut 104
+	folly 16
+	bobby 3
+	hobby 1
+	5
+range
+	arose
+	barge 8
+	range 1
+	3
+bylaw
+	arose
+	canal 148
+	bylaw 1
+	3
+elder
+	arose
+	rivet 103
+	leper 18
+	elder 1
+	4
+lipid
+	arose
+	child 183
+	livid 3
+	lipid 1
+	4
+slope
+	arose
+	stone 12
+	spoke 5
+	scope 2
+	slope 1
+	5
+quick
+	arose
+	child 183
+	quick 3
+	3
+unwed
+	arose
+	inlet 120
+	unfed 3
+	unwed 1
+	4
+tried
+	arose
+	creed 28
+	dried 4
+	pried 3
+	fried 2
+	tried 1
+	6
+undue
+	arose
+	guile 79
+	etude 5
+	undue 1
+	4
+venue
+	arose
+	guile 79
+	etude 5
+	venue 1
+	4
+bayou
+	arose
+	tonal 44
+	havoc 4
+	bayou 1
+	4
+panel
+	arose
+	metal 78
+	label 7
+	navel 4
+	panel 1
+	5
+known
+	arose
+	blood 39
+	phony 6
+	knock 2
+	known 1
+	5
+wince
+	arose
+	guile 79
+	piece 7
+	mince 2
+	wince 1
+	5
+skulk
+	arose
+	stink 79
+	skulk 2
+	3
+peace
+	arose
+	eagle 50
+	heave 3
+	peace 1
+	4
+pesto
+	arose
+	onset 4
+	pesto 1
+	3
+waver
+	arose
+	later 60
+	wager 15
+	wafer 2
+	waver 1
+	5
+flout
+	arose
+	blood 39
+	cloth 7
+	flout 1
+	4
+rebel
+	arose
+	rivet 103
+	repel 6
+	rebel 1
+	4
+sprig
+	arose
+	shirt 21
+	sprig 1
+	3
+elbow
+	arose
+	melon 47
+	elbow 2
+	3
+opera
+	arose
+	opera 1
+	2
+flung
+	arose
+	child 183
+	flunk 11
+	flung 1
+	4
+ripen
+	arose
+	rivet 103
+	riper 3
+	ripen 1
+	4
+salsa
+	arose
+	slash 24
+	salsa 1
+	3
+scion
+	arose
+	sound 15
+	scion 1
+	3
+voila
+	arose
+	tonal 44
+	koala 4
+	voila 1
+	4
+faint
+	arose
+	canal 148
+	taunt 10
+	paint 2
+	faint 1
+	5
+batch
+	arose
+	canal 148
+	watch 10
+	hatch 4
+	match 3
+	patch 2
+	batch 1
+	7
+howdy
+	arose
+	donut 104
+	moldy 3
+	howdy 1
+	4
+dolly
+	arose
+	donut 104
+	dodgy 3
+	dolly 1
+	4
+condo
+	arose
+	donut 104
+	condo 1
+	3
+deter
+	arose
+	rivet 103
+	meter 7
+	deter 1
+	4
+parer
+	arose
+	later 60
+	wager 15
+	parer 8
+	4
+terra
+	arose
+	later 60
+	teary 4
+	terra 1
+	4
+doubt
+	arose
+	donut 104
+	doubt 1
+	3
+evade
+	arose
+	eagle 50
+	evade 1
+	3
+title
+	arose
+	guile 79
+	title 2
+	3
+doing
+	arose
+	donut 104
+	downy 2
+	doing 1
+	4
+sixth
+	arose
+	stink 79
+	sixty 4
+	sixth 1
+	4
+leper
+	arose
+	rivet 103
+	leper 18
+	3
+abort
+	arose
+	acorn 4
+	abort 2
+	3
+roomy
+	arose
+	floor 9
+	roomy 1
+	3
+brave
+	arose
+	grace 19
+	drake 7
+	irate 3
+	frame 2
+	brave 1
+	6
+renal
+	arose
+	later 60
+	regal 7
+	renal 1
+	4
+skill
+	arose
+	stink 79
+	skiff 4
+	skimp 2
+	skill 1
+	5
+steel
+	arose
+	spelt 44
+	steel 1
+	3
+sleek
+	arose
+	spelt 44
+	sleek 1
+	3
+nerve
+	arose
+	verge 19
+	nerve 1
+	3
+scoff
+	arose
+	stoop 36
+	showy 9
+	scold 3
+	scoff 1
+	5
+owing
+	arose
+	donut 104
+	inbox 4
+	owing 1
+	4
+limbo
+	arose
+	donut 104
+	igloo 3
+	limbo 1
+	4
+fifty
+	arose
+	child 183
+	unfit 17
+	fifty 1
+	4
+audit
+	arose
+	await 30
+	admit 2
+	audit 1
+	4
+clout
+	arose
+	blood 39
+	cloth 7
+	clout 1
+	4
+savvy
+	arose
+	slant 67
+	scuba 7
+	sappy 2
+	savvy 1
+	5
+blown
+	arose
+	blood 39
+	blown 2
+	3
+saucy
+	arose
+	slant 67
+	scuba 7
+	saucy 1
+	4
+woozy
+	arose
+	blood 39
+	tooth 5
+	woozy 2
+	4
+jerky
+	arose
+	rivet 103
+	decry 16
+	perky 2
+	jerky 1
+	5
+flock
+	arose
+	blood 39
+	cloth 7
+	flock 1
+	4
+bleat
+	arose
+	metal 78
+	eclat 4
+	pleat 2
+	bleat 1
+	5
+cobra
+	arose
+	carol 28
+	cobra 1
+	3
+recur
+	arose
+	rivet 103
+	rerun 4
+	recur 1
+	4
+graft
+	arose
+	train 43
+	draft 4
+	craft 2
+	graft 1
+	5
+charm
+	arose
+	harry 55
+	chard 4
+	chart 2
+	charm 1
+	5
+tower
+	arose
+	rower 34
+	power 5
+	lower 4
+	mower 3
+	tower 2
+	6
+eight
+	arose
+	inlet 120
+	edict 5
+	eight 1
+	4
+ninth
+	arose
+	child 183
+	night 9
+	ninth 1
+	4
+brown
+	arose
+	prong 38
+	frown 4
+	drown 3
+	brown 2
+	5
+pizza
+	arose
+	canal 148
+	tibia 4
+	pizza 1
+	4
+drunk
+	arose
+	print 37
+	drunk 2
+	3
+loose
+	arose
+	loose 8
+	2
+dizzy
+	arose
+	child 183
+	digit 7
+	dizzy 1
+	4
+stall
+	arose
+	slant 67
+	stall 2
+	3
+goofy
+	arose
+	blood 39
+	tooth 5
+	woozy 2
+	goofy 1
+	5
+hussy
+	arose
+	sissy 17
+	fussy 2
+	hussy 1
+	4
+fecal
+	arose
+	metal 78
+	pedal 5
+	legal 2
+	fecal 1
+	5
+folly
+	arose
+	donut 104
+	folly 16
+	3
+duchy
+	arose
+	child 183
+	duchy 2
+	3
+mushy
+	arose
+	stink 79
+	humus 6
+	mushy 1
+	4
+depth
+	arose
+	inlet 120
+	petty 8
+	depth 1
+	4
+hippo
+	arose
+	donut 104
+	igloo 3
+	hippo 1
+	4
+swarm
+	arose
+	strap 21
+	scarf 6
+	shark 4
+	snarl 2
+	swarm 1
+	6
+nudge
+	arose
+	guile 79
+	budge 5
+	judge 3
+	fudge 2
+	nudge 1
+	6
+scent
+	arose
+	spelt 44
+	sheet 3
+	scent 1
+	4
+skier
+	arose
+	sheer 24
+	surer 3
+	skier 1
+	4
+prick
+	arose
+	print 37
+	privy 2
+	prick 1
+	4
+vogue
+	arose
+	vogue 14
+	2
+towel
+	arose
+	melon 47
+	hovel 6
+	dowel 3
+	bowel 2
+	towel 1
+	6
+golem
+	arose
+	melon 47
+	golem 1
+	3
+flame
+	arose
+	eagle 50
+	blame 8
+	flame 1
+	4
+newly
+	arose
+	inlet 120
+	blend 2
+	newly 1
+	4
+stale
+	arose
+	slate 29
+	stale 1
+	3
+twirl
+	arose
+	birch 33
+	flirt 3
+	twirl 1
+	4
+colon
+	arose
+	donut 104
+	login 4
+	colon 1
+	4
+thumb
+	arose
+	child 183
+	thump 2
+	thumb 1
+	4
+midst
+	arose
+	sissy 17
+	midst 1
+	3
+newer
+	arose
+	rivet 103
+	leper 18
+	defer 3
+	newer 1
+	5
+widen
+	arose
+	inlet 120
+	vixen 4
+	widen 1
+	4
+macaw
+	arose
+	canal 148
+	macaw 1
+	3
+grain
+	arose
+	train 43
+	brain 3
+	drain 2
+	grain 1
+	5
+naval
+	arose
+	canal 148
+	natal 2
+	naval 1
+	4
+obese
+	arose
+	poise 8
+	obese 1
+	3
+afoot
+	arose
+	aloft 12
+	afoot 1
+	3
+heady
+	arose
+	metal 78
+	beady 5
+	heady 1
+	4
+bushy
+	arose
+	stink 79
+	humus 6
+	pushy 2
+	bushy 1
+	5
+swill
+	arose
+	stink 79
+	spicy 4
+	swill 1
+	4
+blurt
+	arose
+	birch 33
+	blurb 2
+	blurt 1
+	4
+flare
+	arose
+	barge 8
+	flare 1
+	3
+augur
+	arose
+	award 7
+	augur 1
+	3
+agora
+	arose
+	acorn 4
+	abort 2
+	agora 1
+	4
+piper
+	arose
+	rivet 103
+	finer 11
+	wider 3
+	piper 1
+	5
+testy
+	arose
+	spelt 44
+	zesty 3
+	testy 1
+	4
+shade
+	arose
+	slate 29
+	shape 9
+	shave 4
+	shame 3
+	shake 2
+	shade 1
+	7
+gruel
+	arose
+	creed 28
+	grief 4
+	gruel 1
+	4
+tiger
+	arose
+	rivet 103
+	timer 2
+	tiger 1
+	4
+medal
+	arose
+	metal 78
+	medal 1
+	3
+crown
+	arose
+	prong 38
+	frown 4
+	drown 3
+	brown 2
+	crown 1
+	6
+brink
+	arose
+	print 37
+	bring 6
+	briny 2
+	brink 1
+	5
+derby
+	arose
+	rivet 103
+	decry 16
+	derby 1
+	4
+butte
+	arose
+	guile 79
+	dunce 3
+	butte 2
+	4
+homer
+	arose
+	rower 34
+	hover 11
+	homer 1
+	4
+annoy
+	arose
+	allot 9
+	axiom 3
+	annoy 1
+	4
+savor
+	arose
+	sonar 3
+	savor 1
+	3
+shock
+	arose
+	stoop 36
+	showy 9
+	shock 1
+	4
+vowel
+	arose
+	melon 47
+	hovel 6
+	vowel 1
+	4
+waxen
+	arose
+	metal 78
+	haven 4
+	waxen 1
+	4
+brood
+	arose
+	prong 38
+	brood 15
+	3
+frank
+	arose
+	train 43
+	brand 6
+	prank 3
+	crank 2
+	frank 1
+	6
+third
+	arose
+	birch 33
+	whirl 2
+	third 1
+	4
+lathe
+	arose
+	eagle 50
+	halve 6
+	lathe 1
+	4
+snake
+	arose
+	slate 29
+	shape 9
+	suave 2
+	snake 1
+	5
+lumen
+	arose
+	inlet 120
+	lumen 1
+	3
+cleat
+	arose
+	metal 78
+	eclat 4
+	cleat 1
+	4
+hyena
+	arose
+	metal 78
+	waxen 4
+	hyena 1
+	4
+lousy
+	arose
+	moist 9
+	bossy 2
+	lousy 1
+	4
+atoll
+	arose
+	aloft 12
+	atoll 1
+	3
+pooch
+	arose
+	blood 39
+	tooth 5
+	pooch 1
+	4
+cynic
+	arose
+	child 183
+	cumin 4
+	cynic 1
+	4
+inane
+	arose
+	eagle 50
+	knave 4
+	inane 1
+	4
+tally
+	arose
+	canal 148
+	dally 13
+	tally 1
+	4
+macro
+	arose
+	carol 28
+	macro 1
+	3
+stout
+	arose
+	stoop 36
+	stock 4
+	stony 2
+	stout 1
+	5
+bravo
+	arose
+	organ 2
+	bravo 1
+	3
+pithy
+	arose
+	child 183
+	night 9
+	pithy 1
+	4
+reach
+	arose
+	later 60
+	ready 11
+	rearm 2
+	reach 1
+	5
+glass
+	arose
+	slash 24
+	class 2
+	glass 1
+	4
+kneed
+	arose
+	inlet 120
+	unfed 3
+	kneed 1
+	4
+orbit
+	arose
+	prior 3
+	orbit 1
+	3
+ulcer
+	arose
+	rivet 103
+	leper 18
+	bluer 3
+	ulcer 1
+	5
+saute
+	arose
+	slate 29
+	saute 1
+	3
+beefy
+	arose
+	inlet 120
+	geeky 6
+	weedy 2
+	beefy 1
+	5
+jelly
+	arose
+	inlet 120
+	belch 4
+	jelly 1
+	4
+quash
+	arose
+	slash 24
+	gnash 2
+	quash 1
+	4
+dress
+	arose
+	cress 6
+	dress 2
+	3
+sigma
+	arose
+	slant 67
+	scuba 7
+	sigma 1
+	4
+empty
+	arose
+	inlet 120
+	petty 8
+	empty 1
+	4
+shaky
+	arose
+	slant 67
+	smack 7
+	shaky 1
+	4
+loopy
+	arose
+	blood 39
+	wooly 2
+	loopy 1
+	4
+hazel
+	arose
+	metal 78
+	label 7
+	navel 4
+	hazel 1
+	5
+spine
+	arose
+	snipe 24
+	spine 1
+	3
+wreak
+	arose
+	tread 11
+	break 5
+	creak 3
+	freak 2
+	wreak 1
+	6
+asset
+	arose
+	ashen 3
+	asset 2
+	3
+posse
+	arose
+	poise 8
+	posse 1
+	3
+strip
+	arose
+	shirt 21
+	strip 1
+	3
+wrist
+	arose
+	crust 11
+	tryst 2
+	wrist 1
+	4
+tithe
+	arose
+	guile 79
+	piece 7
+	tithe 1
+	4
+cavil
+	arose
+	canal 148
+	cavil 1
+	3
+burnt
+	arose
+	birch 33
+	burly 2
+	burnt 1
+	4
+throw
+	arose
+	north 49
+	throb 2
+	throw 1
+	4
+bloom
+	arose
+	blood 39
+	bloom 1
+	3
+frost
+	arose
+	gross 4
+	frost 1
+	3
+audio
+	arose
+	allot 9
+	audio 1
+	3
+sushi
+	arose
+	stink 79
+	squib 3
+	sushi 1
+	4
+retch
+	arose
+	rivet 103
+	retry 2
+	retch 1
+	4
+tweet
+	arose
+	inlet 120
+	tweet 3
+	3
+jumpy
+	arose
+	child 183
+	pygmy 14
+	jumpy 1
+	4
+score
+	arose
+	store 6
+	spore 5
+	snore 4
+	score 3
+	5
+attic
+	arose
+	await 30
+	antic 2
+	attic 1
+	4
+going
+	arose
+	donut 104
+	login 4
+	going 1
+	4
+swoon
+	arose
+	stoop 36
+	shook 2
+	swoon 1
+	4
+queue
+	arose
+	guile 79
+	dunce 3
+	butte 2
+	queue 1
+	5
+mogul
+	arose
+	donut 104
+	mogul 1
+	3
+disco
+	arose
+	sound 15
+	disco 1
+	3
+furry
+	arose
+	birch 33
+	murky 2
+	furry 1
+	4
+usual
+	arose
+	slant 67
+	basil 3
+	usual 1
+	4
+fluff
+	arose
+	child 183
+	flunk 11
+	fluff 1
+	4
+vouch
+	arose
+	donut 104
+	couch 5
+	pouch 2
+	vouch 1
+	5
+udder
+	arose
+	rivet 103
+	leper 18
+	under 4
+	udder 1
+	5
+delve
+	arose
+	guile 79
+	melee 2
+	delve 1
+	4
+adult
+	arose
+	await 30
+	adult 1
+	3
+tamer
+	arose
+	later 60
+	taper 3
+	taker 2
+	tamer 1
+	5
+slink
+	arose
+	stink 79
+	slink 1
+	3
+cough
+	arose
+	donut 104
+	couch 5
+	cough 1
+	4
+dowry
+	arose
+	north 49
+	rocky 5
+	dowry 1
+	4
+affix
+	arose
+	await 30
+	admin 4
+	affix 1
+	4
+fiend
+	arose
+	inlet 120
+	feign 9
+	fiend 1
+	4
+wrung
+	arose
+	print 37
+	drunk 2
+	wrung 1
+	4
+aunty
+	arose
+	await 30
+	aptly 2
+	aunty 1
+	4
+hilly
+	arose
+	child 183
+	hilly 1
+	3
+glade
+	arose
+	eagle 50
+	glade 2
+	3
+black
+	arose
+	canal 148
+	flack 2
+	black 1
+	4
+whiny
+	arose
+	child 183
+	think 5
+	whiny 1
+	4
+joust
+	arose
+	moist 9
+	joust 1
+	3
+oaken
+	arose
+	cameo 4
+	oaken 1
+	3
+shown
+	arose
+	stoop 36
+	showy 9
+	shown 1
+	4
+itchy
+	arose
+	child 183
+	pitch 7
+	itchy 1
+	4
+shunt
+	arose
+	stink 79
+	shunt 1
+	3
+smart
+	arose
+	strap 21
+	satyr 2
+	smart 1
+	4
+flute
+	arose
+	guile 79
+	flume 5
+	fluke 2
+	flute 1
+	5
+mouth
+	arose
+	donut 104
+	touch 5
+	youth 2
+	mouth 1
+	5
+aphid
+	arose
+	await 30
+	admin 4
+	aphid 1
+	4
+caput
+	arose
+	canal 148
+	catch 6
+	caput 1
+	4
+outgo
+	arose
+	donut 104
+	outgo 1
+	3
+ounce
+	arose
+	vogue 14
+	ounce 1
+	3
+woody
+	arose
+	blood 39
+	goody 3
+	moody 2
+	woody 1
+	5
+racer
+	arose
+	later 60
+	wager 15
+	parer 8
+	racer 1
+	5
+bleak
+	arose
+	metal 78
+	glean 4
+	bleak 2
+	4
+court
+	arose
+	north 49
+	motor 4
+	court 1
+	4
+shuck
+	arose
+	stink 79
+	skulk 2
+	shuck 1
+	4
+ninny
+	arose
+	child 183
+	unfit 17
+	kinky 3
+	ninny 1
+	5
+shalt
+	arose
+	slant 67
+	shalt 1
+	3
+bribe
+	arose
+	tripe 24
+	brine 7
+	bride 2
+	bribe 1
+	5
+share
+	arose
+	stare 5
+	scare 4
+	snare 3
+	spare 2
+	share 1
+	6
+sneak
+	arose
+	steam 11
+	speak 2
+	sneak 1
+	4
+swore
+	arose
+	store 6
+	spore 5
+	snore 4
+	score 3
+	swore 2
+	6
+smile
+	arose
+	snipe 24
+	slime 7
+	smile 1
+	4
+penny
+	arose
+	inlet 120
+	bench 5
+	penny 1
+	4
+abyss
+	arose
+	amass 5
+	abyss 1
+	3
+grope
+	arose
+	prove 14
+	trope 2
+	grope 1
+	4
+gulch
+	arose
+	child 183
+	mulch 4
+	gulch 1
+	4
+detox
+	arose
+	melon 47
+	depot 3
+	detox 1
+	4
+input
+	arose
+	child 183
+	unfit 17
+	input 1
+	4
+extol
+	arose
+	melon 47
+	elbow 2
+	extol 1
+	4
+bunny
+	arose
+	child 183
+	pygmy 14
+	funky 5
+	bunny 1
+	5
+valve
+	arose
+	eagle 50
+	halve 6
+	valve 1
+	4
+rajah
+	arose
+	harry 55
+	ralph 3
+	ranch 2
+	rajah 1
+	5
+tulle
+	arose
+	guile 79
+	tulle 1
+	3
+twice
+	arose
+	guile 79
+	whine 7
+	twice 1
+	4
+raven
+	arose
+	later 60
+	ramen 3
+	raven 1
+	4
+could
+	arose
+	donut 104
+	would 2
+	could 1
+	4
+sauce
+	arose
+	slate 29
+	sauce 1
+	3
+badly
+	arose
+	canal 148
+	dally 13
+	madly 2
+	badly 1
+	5
+eying
+	arose
+	inlet 120
+	feign 9
+	eking 2
+	eying 1
+	5
+fella
+	arose
+	metal 78
+	leaky 4
+	fella 1
+	4
+foamy
+	arose
+	tonal 44
+	dogma 7
+	foamy 1
+	4
+shove
+	arose
+	stone 12
+	scope 5
+	smoke 2
+	shove 1
+	5
+yield
+	arose
+	inlet 120
+	wield 4
+	yield 2
+	4
+crust
+	arose
+	crust 11
+	2
+salty
+	arose
+	slant 67
+	salty 1
+	3
+troop
+	arose
+	prong 38
+	droop 3
+	troop 1
+	4
+vaunt
+	arose
+	canal 148
+	taunt 10
+	daunt 5
+	gaunt 4
+	jaunt 3
+	vaunt 2
+	7
+ether
+	arose
+	rivet 103
+	meter 7
+	ether 1
+	4
+genre
+	arose
+	verge 19
+	genre 1
+	3
+gleam
+	arose
+	metal 78
+	gleam 1
+	3
+shaft
+	arose
+	slant 67
+	shaft 1
+	3
+matey
+	arose
+	metal 78
+	matey 1
+	3
+shrub
+	arose
+	shirt 21
+	shrug 2
+	shrub 1
+	4
+beset
+	arose
+	spelt 44
+	unset 2
+	beset 1
+	4
+woman
+	arose
+	tonal 44
+	nomad 2
+	woman 1
+	4
+mimic
+	arose
+	child 183
+	pubic 4
+	mimic 1
+	4
+mango
+	arose
+	tonal 44
+	banjo 3
+	mango 1
+	4
+daisy
+	arose
+	slash 24
+	waist 4
+	daisy 1
+	4
+proud
+	arose
+	prong 38
+	proxy 4
+	prowl 3
+	proof 2
+	proud 1
+	6
+rider
+	arose
+	rivet 103
+	riper 3
+	rider 1
+	4
+space
+	arose
+	slate 29
+	shape 9
+	spade 2
+	space 1
+	5
+steal
+	arose
+	stead 11
+	steam 3
+	steak 2
+	steal 1
+	5
+topaz
+	arose
+	tonal 44
+	topaz 2
+	3
+jiffy
+	arose
+	child 183
+	unfit 17
+	jiffy 1
+	4
+lance
+	arose
+	eagle 50
+	halve 6
+	latte 2
+	lance 1
+	5
+mafia
+	arose
+	canal 148
+	magma 5
+	mafia 1
+	4
+nylon
+	arose
+	donut 104
+	inbox 4
+	nylon 1
+	4
+tulip
+	arose
+	child 183
+	unlit 9
+	tulip 1
+	4
+cubic
+	arose
+	child 183
+	cumin 4
+	cubic 1
+	4
+straw
+	arose
+	strap 21
+	stray 2
+	straw 1
+	4
+fewer
+	arose
+	rivet 103
+	leper 18
+	defer 3
+	fewer 1
+	5
+idiot
+	arose
+	donut 104
+	idiot 1
+	3
+verge
+	arose
+	verge 19
+	2
+about
+	arose
+	aloft 12
+	about 2
+	3
+anode
+	arose
+	anode 7
+	2
+mercy
+	arose
+	rivet 103
+	decry 16
+	mercy 1
+	4
+beget
+	arose
+	inlet 120
+	tweet 3
+	beget 1
+	4
+mange
+	arose
+	eagle 50
+	gauze 5
+	badge 2
+	mange 1
+	5
+press
+	arose
+	cress 6
+	dress 2
+	press 1
+	4
+smote
+	arose
+	stone 12
+	smote 1
+	3
+turbo
+	arose
+	north 49
+	turbo 1
+	3
+curse
+	arose
+	purse 7
+	nurse 2
+	curse 1
+	4
+nymph
+	arose
+	child 183
+	nymph 3
+	3
+spent
+	arose
+	spelt 44
+	spent 1
+	3
+gooey
+	arose
+	epoch 4
+	gooey 1
+	3
+color
+	arose
+	north 49
+	rocky 5
+	color 1
+	4
+cream
+	arose
+	tread 11
+	break 5
+	cream 1
+	4
+nurse
+	arose
+	purse 7
+	curse 2
+	nurse 1
+	4
+lager
+	arose
+	later 60
+	layer 2
+	lager 1
+	4
+brawn
+	arose
+	train 43
+	prawn 3
+	drawn 2
+	brawn 1
+	5
+tunic
+	arose
+	child 183
+	pubic 4
+	tunic 1
+	4
+media
+	arose
+	metal 78
+	mecca 2
+	media 1
+	4
+crick
+	arose
+	print 37
+	grill 7
+	brick 2
+	crick 1
+	5
+twist
+	arose
+	sissy 17
+	whisk 2
+	twist 1
+	4
+began
+	arose
+	metal 78
+	began 5
+	3
+droll
+	arose
+	prong 38
+	brood 15
+	droit 2
+	droll 1
+	5
+bagel
+	arose
+	metal 78
+	label 7
+	bagel 1
+	4
+slush
+	arose
+	sissy 17
+	slush 2
+	3
+snuck
+	arose
+	stink 79
+	snuck 1
+	3
+baker
+	arose
+	later 60
+	wager 15
+	parer 8
+	maker 2
+	baker 1
+	6
+nosey
+	arose
+	onset 4
+	nosey 1
+	3
+beach
+	arose
+	metal 78
+	beady 5
+	beach 1
+	4
+ladle
+	arose
+	eagle 50
+	fable 5
+	maple 2
+	ladle 1
+	5
+outdo
+	arose
+	donut 104
+	outdo 1
+	3
+truce
+	arose
+	tripe 24
+	truce 1
+	3
+stalk
+	arose
+	slant 67
+	stall 2
+	stalk 1
+	4
+upset
+	arose
+	spelt 44
+	upset 1
+	3
+braid
+	arose
+	train 43
+	grail 3
+	braid 1
+	4
+knead
+	arose
+	metal 78
+	cheap 2
+	knead 1
+	4
+awful
+	arose
+	await 30
+	awful 1
+	3
+lunar
+	arose
+	harry 55
+	vicar 6
+	lunar 1
+	4
+kappa
+	arose
+	canal 148
+	magma 5
+	kappa 1
+	4
+quill
+	arose
+	child 183
+	guilt 4
+	quill 1
+	4
+metal
+	arose
+	metal 78
+	2
+chime
+	arose
+	guile 79
+	whine 7
+	chide 2
+	chime 1
+	5
+clamp
+	arose
+	canal 148
+	claim 4
+	clamp 1
+	4
+freed
+	arose
+	creed 28
+	breed 3
+	freed 2
+	4
+lyric
+	arose
+	birch 33
+	lyric 1
+	3
+shore
+	arose
+	store 6
+	spore 5
+	snore 4
+	score 3
+	swore 2
+	shore 1
+	7
+steer
+	arose
+	sheer 24
+	sneer 2
+	steer 1
+	4
+mouse
+	arose
+	poise 8
+	louse 3
+	mouse 2
+	4
+cumin
+	arose
+	child 183
+	cumin 4
+	3
+forte
+	arose
+	forge 10
+	force 2
+	forte 1
+	4
+alien
+	arose
+	angel 11
+	alien 1
+	3
+topic
+	arose
+	donut 104
+	botch 7
+	toxic 2
+	topic 1
+	5
+seedy
+	arose
+	spelt 44
+	sheen 3
+	seedy 1
+	4
+dutch
+	arose
+	child 183
+	duchy 2
+	dutch 1
+	4
+psalm
+	arose
+	slant 67
+	psalm 1
+	3
+annul
+	arose
+	await 30
+	album 4
+	annul 1
+	4
+annex
+	arose
+	angel 11
+	annex 1
+	3
+sight
+	arose
+	stink 79
+	sixty 4
+	sight 1
+	4
+juicy
+	arose
+	child 183
+	quick 3
+	juicy 1
+	4
+yacht
+	arose
+	canal 148
+	watch 10
+	yacht 1
+	4
+wager
+	arose
+	later 60
+	wager 15
+	3
+humph
+	arose
+	child 183
+	nymph 3
+	humph 1
+	4
+gayly
+	arose
+	canal 148
+	dally 13
+	gaily 2
+	gayly 1
+	5
+thief
+	arose
+	inlet 120
+	thief 1
+	3
+funny
+	arose
+	child 183
+	pygmy 14
+	funky 5
+	funny 1
+	5
+dwell
+	arose
+	inlet 120
+	whelp 7
+	dwell 1
+	4
+tacky
+	arose
+	canal 148
+	watch 10
+	tacit 2
+	tacky 1
+	5
+zebra
+	arose
+	later 60
+	ready 11
+	zebra 1
+	4
+askew
+	arose
+	ashen 3
+	asset 2
+	askew 1
+	4
+olden
+	arose
+	melon 47
+	olden 1
+	3
+nicer
+	arose
+	rivet 103
+	finer 11
+	nicer 1
+	4
+cigar
+	arose
+	harry 55
+	vicar 6
+	cigar 1
+	4
+payee
+	arose
+	eagle 50
+	payee 1
+	3
+along
+	arose
+	aloft 12
+	aloud 2
+	along 1
+	4
+slant
+	arose
+	slant 67
+	2
+curio
+	arose
+	north 49
+	furor 3
+	curio 1
+	4
+hyper
+	arose
+	rivet 103
+	leper 18
+	upper 2
+	hyper 1
+	5
+mover
+	arose
+	rower 34
+	hover 11
+	lover 3
+	cover 2
+	mover 1
+	6
+adopt
+	arose
+	aloft 12
+	about 2
+	adopt 1
+	4
+haunt
+	arose
+	canal 148
+	taunt 10
+	gaunt 5
+	daunt 4
+	jaunt 3
+	vaunt 2
+	haunt 1
+	8
+truth
+	arose
+	print 37
+	truck 3
+	truly 2
+	truth 1
+	5
+debug
+	arose
+	inlet 120
+	geeky 6
+	debug 1
+	4
+blade
+	arose
+	eagle 50
+	blame 8
+	blaze 2
+	blade 1
+	5
+caulk
+	arose
+	canal 148
+	caulk 1
+	3
+rotor
+	arose
+	north 49
+	motor 4
+	rotor 1
+	4
+optic
+	arose
+	donut 104
+	optic 1
+	3
+swath
+	arose
+	slant 67
+	stack 5
+	swath 1
+	4
+knife
+	arose
+	guile 79
+	whine 7
+	knife 1
+	4
+roast
+	arose
+	roast 1
+	2
+flank
+	arose
+	canal 148
+	plank 7
+	blank 2
+	flank 1
+	5
+trial
+	arose
+	train 43
+	trial 2
+	3
+flair
+	arose
+	harry 55
+	vicar 6
+	flair 1
+	4
+since
+	arose
+	snipe 24
+	singe 2
+	since 1
+	4
+cling
+	arose
+	child 183
+	clink 5
+	cling 1
+	4
+valet
+	arose
+	metal 78
+	valet 2
+	3
+abase
+	arose
+	amuse 3
+	abase 1
+	3
+ghost
+	arose
+	gloss 6
+	ghost 1
+	3
+stork
+	arose
+	snort 11
+	storm 3
+	stork 2
+	4
+glaze
+	arose
+	eagle 50
+	glade 2
+	glaze 1
+	4
+brush
+	arose
+	crust 11
+	brush 1
+	3
+juror
+	arose
+	north 49
+	furor 3
+	juror 1
+	4
+neigh
+	arose
+	inlet 120
+	feign 9
+	neigh 1
+	4
+deign
+	arose
+	inlet 120
+	feign 9
+	deign 1
+	4
+soapy
+	arose
+	salon 6
+	soapy 1
+	3
+decal
+	arose
+	metal 78
+	pedal 5
+	decal 1
+	4
+satin
+	arose
+	slant 67
+	satin 1
+	3
+wedge
+	arose
+	guile 79
+	hedge 2
+	wedge 1
+	4
+jetty
+	arose
+	inlet 120
+	petty 8
+	jetty 1
+	4
+axial
+	arose
+	await 30
+	avian 2
+	axial 1
+	4
+greed
+	arose
+	creed 28
+	breed 3
+	freed 2
+	greed 1
+	5
+jumbo
+	arose
+	donut 104
+	jumbo 3
+	3
+leant
+	arose
+	metal 78
+	leapt 4
+	leant 1
+	4
+house
+	arose
+	poise 8
+	louse 3
+	mouse 2
+	house 1
+	5
+teach
+	arose
+	metal 78
+	heath 3
+	teach 1
+	4
+drool
+	arose
+	prong 38
+	brood 15
+	drool 1
+	4
+rigid
+	arose
+	birch 33
+	rigid 1
+	3
+krill
+	arose
+	print 37
+	grill 7
+	frill 3
+	krill 2
+	5
+spike
+	arose
+	snipe 24
+	spice 3
+	spite 2
+	spike 1
+	5
+crump
+	arose
+	print 37
+	crump 1
+	3
+roost
+	arose
+	roost 1
+	2
+model
+	arose
+	melon 47
+	motel 2
+	model 1
+	4
+theta
+	arose
+	metal 78
+	taken 6
+	theta 1
+	4
+sniff
+	arose
+	stink 79
+	sniff 1
+	3
+pudgy
+	arose
+	child 183
+	dumpy 5
+	pudgy 1
+	4
+tubal
+	arose
+	canal 148
+	tidal 4
+	tubal 1
+	4
+burst
+	arose
+	first 2
+	burst 1
+	3
+chirp
+	arose
+	birch 33
+	chirp 1
+	3
+stein
+	arose
+	spelt 44
+	steed 2
+	stein 1
+	4
+leach
+	arose
+	metal 78
+	leaky 4
+	leach 1
+	4
+jolly
+	arose
+	donut 104
+	folly 16
+	golly 3
+	holly 2
+	jolly 1
+	6
+assay
+	arose
+	assay 1
+	2
+piney
+	arose
+	inlet 120
+	vixen 4
+	piney 1
+	4
+react
+	arose
+	later 60
+	teary 4
+	react 1
+	4
+sooty
+	arose
+	stoop 36
+	sooth 2
+	sooty 1
+	4
+catty
+	arose
+	canal 148
+	catch 6
+	catty 1
+	4
+rumba
+	arose
+	harry 55
+	vicar 6
+	rumba 1
+	4
+offal
+	arose
+	tonal 44
+	offal 1
+	3
+among
+	arose
+	aloft 12
+	agony 3
+	among 1
+	4
+tramp
+	arose
+	train 43
+	track 4
+	trawl 2
+	tramp 1
+	5
+sedan
+	arose
+	steam 11
+	sedan 1
+	3
+elegy
+	arose
+	inlet 120
+	whelp 7
+	fleck 2
+	elegy 1
+	5
+cadet
+	arose
+	metal 78
+	taken 6
+	facet 2
+	cadet 1
+	5
+niece
+	arose
+	guile 79
+	piece 7
+	niece 1
+	4
+filmy
+	arose
+	child 183
+	unlit 9
+	milky 2
+	filmy 1
+	5
+crude
+	arose
+	tripe 24
+	creme 2
+	crude 1
+	4
+exalt
+	arose
+	metal 78
+	valet 2
+	exalt 1
+	4
+screw
+	arose
+	sheer 24
+	siren 2
+	screw 1
+	4
+dwarf
+	arose
+	harry 55
+	quart 7
+	dwarf 1
+	4
+cramp
+	arose
+	train 43
+	wrack 11
+	crazy 2
+	cramp 1
+	5
+broom
+	arose
+	prong 38
+	brood 15
+	brook 2
+	broom 1
+	5
+admin
+	arose
+	await 30
+	admin 4
+	3
+anvil
+	arose
+	await 30
+	admin 4
+	anvil 1
+	4
+bible
+	arose
+	guile 79
+	title 2
+	bible 1
+	4
+shank
+	arose
+	slant 67
+	spank 2
+	shank 1
+	4
+knelt
+	arose
+	inlet 120
+	knelt 1
+	3
+vault
+	arose
+	canal 148
+	dally 13
+	fault 2
+	vault 1
+	5
+stash
+	arose
+	slash 24
+	swash 3
+	smash 2
+	stash 1
+	5
+clasp
+	arose
+	slash 24
+	blast 3
+	flask 2
+	clasp 1
+	5
+tuber
+	arose
+	rivet 103
+	meter 7
+	tuber 1
+	4
+guppy
+	arose
+	child 183
+	pygmy 14
+	guppy 1
+	4
+razor
+	arose
+	carol 28
+	rayon 7
+	razor 1
+	4
+joint
+	arose
+	donut 104
+	point 2
+	joint 1
+	4
+eerie
+	arose
+	verge 19
+	eerie 1
+	3
+spelt
+	arose
+	spelt 44
+	2
+piano
+	arose
+	tonal 44
+	bacon 3
+	piano 1
+	4
+rusty
+	arose
+	shirt 21
+	rusty 1
+	3
+slash
+	arose
+	slash 24
+	2
+safer
+	arose
+	swear 6
+	saner 2
+	safer 1
+	4
+tribe
+	arose
+	tripe 24
+	trice 3
+	trite 2
+	tribe 1
+	5
+threw
+	arose
+	rivet 103
+	meter 7
+	threw 1
+	4
+inner
+	arose
+	rivet 103
+	infer 5
+	inner 1
+	4
+cargo
+	arose
+	carol 28
+	cargo 1
+	3
+hoist
+	arose
+	moist 9
+	foist 3
+	joist 2
+	hoist 1
+	5
+stuck
+	arose
+	stink 79
+	stuck 1
+	3
+trait
+	arose
+	train 43
+	trail 2
+	trait 1
+	4
+taint
+	arose
+	canal 148
+	taunt 10
+	taint 1
+	4
+floor
+	arose
+	floor 9
+	2
+issue
+	arose
+	snipe 24
+	issue 1
+	3
+troll
+	arose
+	prong 38
+	brood 15
+	trout 5
+	troll 1
+	5
+china
+	arose
+	canal 148
+	chain 3
+	china 1
+	4
+anger
+	arose
+	alert 7
+	amber 3
+	aider 2
+	anger 1
+	5
+clang
+	arose
+	canal 148
+	clank 2
+	clang 1
+	4
+smock
+	arose
+	stoop 36
+	showy 9
+	scold 3
+	smock 1
+	5
+reuse
+	arose
+	purse 7
+	reuse 1
+	3
+stunt
+	arose
+	stink 79
+	stung 2
+	stunt 1
+	4
+pause
+	arose
+	lapse 10
+	pause 1
+	3
+gusty
+	arose
+	stink 79
+	dusty 4
+	lusty 3
+	gusty 2
+	5
+modem
+	arose
+	melon 47
+	modem 1
+	3
+diver
+	arose
+	rivet 103
+	giver 3
+	liver 2
+	diver 1
+	5
+hunky
+	arose
+	child 183
+	nymph 3
+	hunky 1
+	4
+fjord
+	arose
+	floor 9
+	fjord 1
+	3
+crime
+	arose
+	tripe 24
+	brine 7
+	grime 3
+	crime 1
+	5
+fanny
+	arose
+	canal 148
+	tangy 6
+	nanny 4
+	fanny 1
+	5
+wight
+	arose
+	child 183
+	night 9
+	tight 4
+	fight 3
+	wight 2
+	6
+amble
+	arose
+	agile 18
+	ample 4
+	amble 1
+	4
+winch
+	arose
+	child 183
+	pitch 7
+	finch 2
+	winch 1
+	5
+field
+	arose
+	inlet 120
+	wield 4
+	yield 2
+	field 1
+	5
+champ
+	arose
+	canal 148
+	chaff 2
+	champ 1
+	4
+offer
+	arose
+	rower 34
+	otter 6
+	older 3
+	offer 1
+	5
+today
+	arose
+	tonal 44
+	topaz 2
+	today 1
+	4
+axion
+	arose
+	allot 9
+	axiom 3
+	axion 1
+	4
+speck
+	arose
+	spelt 44
+	speed 3
+	speck 1
+	4
+dowdy
+	arose
+	donut 104
+	dodgy 3
+	dowdy 1
+	4
+count
+	arose
+	donut 104
+	mount 2
+	count 1
+	4
+needy
+	arose
+	inlet 120
+	bench 5
+	needy 1
+	4
+forty
+	arose
+	north 49
+	forty 1
+	3
+alpha
+	arose
+	await 30
+	allay 2
+	alpha 1
+	4
+drill
+	arose
+	print 37
+	grill 7
+	frill 3
+	krill 2
+	drill 1
+	6
+tipsy
+	arose
+	sissy 17
+	gipsy 2
+	tipsy 1
+	4
+angle
+	arose
+	agile 18
+	angle 1
+	3
+stiff
+	arose
+	stink 79
+	stilt 3
+	stiff 1
+	4
+story
+	arose
+	snort 11
+	storm 3
+	stork 2
+	story 1
+	5
+rhino
+	arose
+	north 49
+	rhino 1
+	3
+shush
+	arose
+	sissy 17
+	slush 2
+	shush 1
+	4
+inlet
+	arose
+	inlet 120
+	2
+lease
+	arose
+	lapse 10
+	lease 1
+	3
+merge
+	arose
+	verge 19
+	merge 1
+	3
+phone
+	arose
+	clone 16
+	ozone 2
+	phone 1
+	4
+harsh
+	arose
+	harsh 2
+	2
+wheel
+	arose
+	inlet 120
+	bleep 10
+	wheel 1
+	4
+ingot
+	arose
+	donut 104
+	ingot 1
+	3
+risky
+	arose
+	shirt 21
+	virus 2
+	risky 1
+	4
+shelf
+	arose
+	spelt 44
+	swell 4
+	shelf 1
+	4
+triad
+	arose
+	train 43
+	trial 2
+	triad 1
+	4
+sleet
+	arose
+	spelt 44
+	sleet 1
+	3
+faith
+	arose
+	canal 148
+	datum 21
+	taffy 4
+	faith 1
+	5
+belly
+	arose
+	inlet 120
+	belch 4
+	belly 1
+	4
+total
+	arose
+	tonal 44
+	total 1
+	3
+robot
+	arose
+	north 49
+	motor 4
+	robot 1
+	4
+style
+	arose
+	snipe 24
+	segue 2
+	style 1
+	4
+vinyl
+	arose
+	child 183
+	unlit 9
+	vinyl 1
+	4
+embed
+	arose
+	inlet 120
+	cheek 2
+	embed 1
+	4
+sepia
+	arose
+	steam 11
+	sepia 1
+	3
+musty
+	arose
+	stink 79
+	dusty 4
+	lusty 3
+	gusty 2
+	musty 1
+	6
+farce
+	arose
+	barge 8
+	carve 2
+	farce 1
+	4
+image
+	arose
+	eagle 50
+	image 1
+	3
+awash
+	arose
+	amass 5
+	awash 1
+	3
+ditty
+	arose
+	child 183
+	digit 7
+	ditty 1
+	4
+enact
+	arose
+	metal 78
+	taken 6
+	enact 1
+	4
+plead
+	arose
+	metal 78
+	glean 4
+	bleak 2
+	plead 1
+	5
+pagan
+	arose
+	canal 148
+	pagan 1
+	3
+leech
+	arose
+	inlet 120
+	whelp 7
+	leech 1
+	4
+crimp
+	arose
+	print 37
+	crimp 1
+	3
+polka
+	arose
+	tonal 44
+	koala 4
+	polka 1
+	4
+might
+	arose
+	child 183
+	night 9
+	tight 4
+	fight 3
+	wight 2
+	might 1
+	7
+short
+	arose
+	snort 11
+	sport 2
+	short 1
+	4
+amass
+	arose
+	amass 5
+	2
+labor
+	arose
+	carol 28
+	valor 2
+	labor 1
+	4
+curly
+	arose
+	birch 33
+	curry 3
+	curvy 2
+	curly 1
+	5
+guide
+	arose
+	guile 79
+	guide 1
+	3
+dance
+	arose
+	eagle 50
+	mauve 9
+	bathe 3
+	dance 1
+	5
+marsh
+	arose
+	harsh 2
+	marsh 1
+	3
+cower
+	arose
+	rower 34
+	power 5
+	lower 4
+	mower 3
+	tower 2
+	cower 1
+	7
+scout
+	arose
+	stoop 36
+	sloth 4
+	snout 2
+	scout 1
+	5
