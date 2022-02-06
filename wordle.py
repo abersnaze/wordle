@@ -1,10 +1,11 @@
 #!python3
 
-from enum import Enum
 import fileinput
-from collections import Counter, defaultdict
-from typing import Dict, List, Set
+import sys
+from collections import Counter
+from enum import Enum
 from multiprocessing import Pool
+from typing import Dict, List, Set
 
 
 class Mode(Enum):
@@ -14,8 +15,11 @@ class Mode(Enum):
 
 
 class Constraint:
+    # how many of each letter must there be
     at_least: Dict[str, int]
+    # what letters are allowed in each of the 5 positions
     allows: List[Set[str]]
+    # what words were used so far
     used: Set[str]
 
     def __init__(
@@ -25,6 +29,7 @@ class Constraint:
         used=None,
     ) -> None:
         self.at_least = at_least if at_least else {}
+        # allow a to z in any possion
         self.allows = (
             allows
             if allows
@@ -40,25 +45,37 @@ class Constraint:
 
     @staticmethod
     def parse(line: str) -> None:
+        """
+        parse the result of a guess for a five letter word.
+        each letter prefixed with:
+        _ == absent letter
+        - == present but in the wrong place
+        + == correct letter in the right place.
+        """
         out = Constraint()
         out.used.add("".join(map(line.__getitem__, range(1, 10, 2))))
 
+        # parse the 10 characters into 5 tuples.
         clues = []
         for pos in range(0, 10, 2):
             mode = Mode(line[pos])
             ltr = line[pos + 1]
             clues.append((pos // 2, mode, ltr))
 
+        # discard the absent letters
         for pos, mode, ltr in filter(lambda x: x[1] == Mode.absent, clues):
             for allow in out.allows:
                 allow.discard(ltr)
+        # add back the present letters
         for pos, mode, ltr in filter(lambda x: x[1] == Mode.present, clues):
             for allow in out.allows:
                 allow.add(ltr)
             out.allows[pos].discard(ltr)
             out.at_least[ltr] = out.at_least.get(ltr, 0) + 1
+        # discard the present letters from where they were wrong
         for pos, mode, ltr in filter(lambda x: x[1] == Mode.absent, clues):
             out.allows[pos].discard(ltr)
+        # set the correct positions to one letter allowed
         for pos, mode, ltr in filter(lambda x: x[1] == Mode.correct, clues):
             out.allows[pos] = {ltr}
             out.at_least[ltr] = out.at_least.get(ltr, 0) + 1
@@ -66,7 +83,10 @@ class Constraint:
         return out
 
     @staticmethod
-    def diff(mystry, guess: str):
+    def diff(mystry: str, guess: str):
+        """
+        for a given mystry word what would the constraints be if we you made this guess
+        """
         mguess = guess
         mapping = [-1, -1, -1, -1, -1]
         for pos in range(5):
@@ -94,6 +114,9 @@ class Constraint:
         return Constraint.parse(clues)
 
     def __and__(self, othr):
+        """
+        override the & operator to combine two constraints into one.
+        """
         return Constraint(
             {
                 k: max(othr.at_least.get(k, 0), self.at_least.get(k, 0))
@@ -104,13 +127,23 @@ class Constraint:
         )
 
     def __repr__(self) -> str:
+        """
+        for the humans
+        """
         pass
         out = f"words used: [{', '.join(self.used)}], "
         out += f"at least: [{', '.join([f'{c}:{ltr}' for ltr, c in self.at_least.items()])}], "
-        out += f"allowed: [{', '.join(map(str, map(len, self.allows)))}]"
+        # out += f"allowed: [{', '.join(map(str, map(len, self.allows)))}]"
+        def func(ltrs):
+            return "".join(sorted(list(ltrs)))
+
+        out += f"allowed: [{', '.join(map(str, map(func, self.allows)))}]"
         return out
 
     def match(self, word: str) -> bool:
+        """
+        does the word fit these constraints
+        """
         fail = False
         if word in self.used:
             fail = True
@@ -125,6 +158,8 @@ class Constraint:
 
     def score(self):
         """
+        depricated: i don't like how this is a guess at how good the filter is.
+
         how specific the constraints are. inverse how many letters are
         allowed in each posision. if all 26 letters are allowed then
         the score is 1/26. if only one letter is allowed then the score
@@ -142,13 +177,21 @@ def do_score(args):
         if guess == mystry:
             continue
         cons = Constraint.diff(mystry, guess)
-        total += cons.score()
-    return guess, total / len(candidates)
+        # changed
+        # - from: cons.score()
+        # - to: use the filter and see how good it is for reals.
+        #
+        # O(n^3) for small values of n is fine. right?
+        total += sum(
+            1 for _ in filter(lambda candidate: not cons.match(candidate), candidates)
+        )
+    return guess, total
 
 
 def make_guess(candidates, constraints):
     candidates = list(filter(constraints.match, candidates))
 
+    # compute the scores in parallel
     with Pool() as p:
         scores = list(
             p.imap_unordered(
@@ -157,11 +200,13 @@ def make_guess(candidates, constraints):
         )
 
     scores.sort(key=lambda x: x[1], reverse=True)
-    return list(map(lambda x: x[0], scores))
+    return scores
 
 
-def solve(mystry):
-    starting = "adieu"
+def solve(mystry, starting):
+    """
+    auto guess the top pick and fold the constraints in until you run out of candidates
+    """
     candidates = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     constraints = Constraint.diff(mystry, starting)
     rounds = 1
@@ -170,14 +215,20 @@ def solve(mystry):
     while True:
         guesses = make_guess(candidates, constraints)
         if len(guesses) == 0:
-            break
+            print("\t-1")
+            return
         rounds += 1
-        print(f"\t{guesses[0]}")
-        constraints &= Constraint.diff(mystry, guesses[0])
+        print(f"\t{guesses[0][0]} {len(guesses)}")
+        if guesses[0][0] == mystry:
+            break
+        constraints &= Constraint.diff(mystry, guesses[0][0])
     print(f"\t{rounds}")
 
 
 def daily():
+    """
+    parse the constraints from 'input.txt' and produce the next guess
+    """
     constraints = Constraint()
     for line in map(lambda x: x.strip().lower(), fileinput.input("input.txt")):
         if line.startswith("#") or not line:
@@ -188,19 +239,25 @@ def daily():
 
     words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     hist = set(map(lambda x: x.strip().lower(), open("history.txt", "r")))
-    words -= hist
-    guesses = make_guess(words, constraints)
+    candidates = words - hist
+    guesses = make_guess(candidates, constraints, words)
     print("number of candidates", len(guesses))
     for n in range(min(len(guesses), 20)):
-        guess = guesses[n]
-        print(guess)
+        guess, score = guesses[n]
+        print(guess, score)
 
 
-def historical():
+def historical(starting):
+    """
+    see what happens for every possible mystry word.
+    """
     words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     for mystry in words:
-        solve(mystry)
+        solve(mystry, starting)
 
 
 if __name__ == "__main__":
-    daily()
+    if len(sys.argv) == 2:
+        historical(sys.argv[1])
+    else:
+        daily()
