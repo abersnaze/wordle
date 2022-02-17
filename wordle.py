@@ -177,14 +177,12 @@ def do_score(args):
     return guess, total
 
 
-def make_guess(candidates, constraints):
-    candidates = list(filter(constraints.match, candidates))
-
+def make_guess(candidates, guessable):
     # compute the scores in parallel
     with Pool() as p:
         scores = list(
             p.imap_unordered(
-                do_score, map(lambda guess: (guess, candidates), candidates)
+                do_score, map(lambda guess: (guess, candidates), guessable)
             )
         )
 
@@ -202,6 +200,7 @@ def solve(mystry, starting):
     print(mystry)
     print(f"\t{starting}")
     while True:
+        candidates = list(filter(constraints.match, candidates))
         guesses = make_guess(candidates, constraints)
         if len(guesses) == 0:
             print("\t-1")
@@ -226,10 +225,15 @@ def daily():
 
     print(constraints)
 
+    allowed = set(map(lambda x: x.strip().lower(), open("allowed.txt", "r")))
     words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     hist = set(map(lambda x: x.strip().lower(), open("history.txt", "r")))
     candidates = words - hist
-    guesses = make_guess(candidates, constraints)
+    candidates = list(filter(constraints.match, candidates))
+
+    # guesses = make_guess(candidates, allowed)  # easy mode
+    guesses = make_guess(candidates, candidates)  # hard mode
+
     print("number of candidates", len(guesses))
     for n in range(min(len(guesses), 20)):
         guess, score = guesses[n]

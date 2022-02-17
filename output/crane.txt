@@ -1,0 +1,12877 @@
+cabal
+	crane
+	cacti 13
+	cabal 4
+	3
+eject
+	crane
+	leech 20
+	eject 1
+	3
+metal
+	crane
+	steal 46
+	metal 3
+	3
+banal
+	crane
+	talon 47
+	lanky 5
+	banal 1
+	4
+swine
+	crane
+	shone 12
+	swine 2
+	3
+mauve
+	crane
+	aisle 49
+	gauze 10
+	mauve 2
+	4
+stank
+	crane
+	stank 16
+	2
+guest
+	crane
+	sleet 127
+	guest 2
+	3
+grown
+	crane
+	grown 5
+	2
+torch
+	crane
+	scrub 11
+	torch 3
+	3
+usage
+	crane
+	slate 43
+	abase 3
+	usage 1
+	4
+fully
+	crane
+	lousy 263
+	bully 6
+	fully 3
+	4
+thing
+	crane
+	stung 58
+	thing 3
+	3
+break
+	crane
+	tread 9
+	break 3
+	3
+debit
+	crane
+	sleet 127
+	debit 5
+	3
+reach
+	crane
+	reach 2
+	2
+snoop
+	crane
+	unity 55
+	known 3
+	snoop 1
+	4
+motto
+	crane
+	lousy 263
+	motto 5
+	3
+panel
+	crane
+	laden 21
+	panel 2
+	3
+niece
+	crane
+	niece 11
+	2
+glare
+	crane
+	glare 7
+	2
+truce
+	crane
+	truce 3
+	2
+elite
+	crane
+	stole 102
+	lithe 4
+	elite 1
+	4
+taken
+	crane
+	laden 21
+	taken 5
+	3
+label
+	crane
+	steal 46
+	label 5
+	3
+sworn
+	crane
+	thorn 13
+	sworn 1
+	3
+hence
+	crane
+	niece 11
+	hence 3
+	3
+truly
+	crane
+	droit 51
+	truly 4
+	3
+karma
+	crane
+	ratio 64
+	harpy 10
+	karma 2
+	4
+mummy
+	crane
+	lousy 263
+	dumpy 14
+	mummy 2
+	4
+color
+	crane
+	court 9
+	color 1
+	3
+hyena
+	crane
+	amend 3
+	hyena 1
+	3
+audio
+	crane
+	salty 133
+	audio 8
+	3
+crock
+	crane
+	crisp 13
+	crock 4
+	3
+mossy
+	crane
+	lousy 263
+	mossy 2
+	3
+moody
+	crane
+	lousy 263
+	goody 16
+	moody 2
+	4
+elate
+	crane
+	slate 43
+	elate 2
+	3
+start
+	crane
+	shard 24
+	stark 5
+	start 1
+	4
+which
+	crane
+	stuck 55
+	which 2
+	3
+roach
+	crane
+	scary 3
+	roach 1
+	3
+sieve
+	crane
+	stole 102
+	sieve 5
+	3
+cloak
+	crane
+	cacti 13
+	cloak 2
+	3
+infer
+	crane
+	inter 27
+	infer 2
+	3
+bride
+	crane
+	trope 26
+	bride 4
+	3
+skill
+	crane
+	lousy 263
+	spilt 7
+	skill 2
+	4
+wooly
+	crane
+	lousy 263
+	dolly 9
+	wooly 2
+	4
+manic
+	crane
+	manic 5
+	2
+flask
+	crane
+	shalt 49
+	flask 2
+	3
+forth
+	crane
+	torus 90
+	forth 3
+	3
+yeast
+	crane
+	dealt 18
+	yeast 3
+	3
+gaunt
+	crane
+	taint 20
+	gaunt 5
+	3
+mogul
+	crane
+	lousy 263
+	mogul 1
+	3
+lying
+	crane
+	stung 58
+	doing 7
+	lying 3
+	4
+fungi
+	crane
+	unity 55
+	fungi 2
+	3
+slimy
+	crane
+	lousy 263
+	silly 5
+	slimy 1
+	4
+booth
+	crane
+	lousy 263
+	motto 5
+	booth 1
+	4
+cheap
+	crane
+	cleat 7
+	cheap 1
+	3
+trice
+	crane
+	truce 3
+	trice 1
+	3
+flint
+	crane
+	stung 58
+	point 4
+	flint 1
+	4
+silly
+	crane
+	lousy 263
+	silly 5
+	3
+mouse
+	crane
+	stole 102
+	mouse 5
+	3
+woody
+	crane
+	lousy 263
+	goody 16
+	moody 2
+	woody 1
+	5
+chill
+	crane
+	couch 25
+	chill 3
+	3
+cadet
+	crane
+	cleat 7
+	cadet 1
+	3
+empty
+	crane
+	sleet 127
+	depth 11
+	empty 1
+	4
+giver
+	crane
+	reset 122
+	lover 34
+	giver 2
+	4
+blend
+	crane
+	eying 10
+	blend 3
+	3
+rogue
+	crane
+	terse 39
+	ridge 6
+	rogue 1
+	4
+diode
+	crane
+	stole 102
+	biome 4
+	diode 1
+	4
+thigh
+	crane
+	lousy 263
+	fight 12
+	thigh 1
+	4
+plane
+	crane
+	plane 2
+	2
+undue
+	crane
+	snide 21
+	undue 1
+	3
+attic
+	crane
+	latch 27
+	attic 1
+	3
+scope
+	crane
+	spice 9
+	scope 1
+	3
+video
+	crane
+	sleet 127
+	video 4
+	3
+topic
+	crane
+	stuck 55
+	topic 3
+	3
+decoy
+	crane
+	leech 20
+	decoy 3
+	3
+wiser
+	crane
+	reset 122
+	wiser 4
+	3
+aunty
+	crane
+	talon 47
+	aunty 3
+	3
+valve
+	crane
+	aisle 49
+	halve 5
+	valve 1
+	4
+shyly
+	crane
+	lousy 263
+	silly 5
+	shyly 1
+	4
+thank
+	crane
+	stank 16
+	thank 1
+	3
+snide
+	crane
+	snide 21
+	2
+exist
+	crane
+	sleet 127
+	exist 2
+	3
+cabby
+	crane
+	cacti 13
+	cabal 4
+	cabby 1
+	4
+broad
+	crane
+	arbor 12
+	broad 1
+	3
+minim
+	crane
+	unity 55
+	bison 6
+	minim 1
+	4
+oddly
+	crane
+	lousy 263
+	oddly 1
+	3
+snail
+	crane
+	snail 8
+	2
+swash
+	crane
+	shalt 49
+	swash 2
+	3
+admit
+	crane
+	salty 133
+	audit 8
+	admit 1
+	4
+frill
+	crane
+	droit 51
+	frisk 8
+	frill 1
+	4
+waver
+	crane
+	later 50
+	wager 14
+	waver 2
+	4
+putty
+	crane
+	lousy 263
+	dumpy 14
+	putty 2
+	4
+grout
+	crane
+	droit 51
+	grout 3
+	3
+robin
+	crane
+	thorn 13
+	robin 2
+	3
+envoy
+	crane
+	olden 58
+	envoy 3
+	3
+major
+	crane
+	ratio 64
+	valor 7
+	major 2
+	4
+condo
+	crane
+	conch 8
+	condo 1
+	3
+route
+	crane
+	reuse 39
+	route 2
+	3
+exert
+	crane
+	reset 122
+	exert 1
+	3
+mangy
+	crane
+	talon 47
+	sandy 7
+	mangy 1
+	4
+bible
+	crane
+	stole 102
+	guile 6
+	bible 1
+	4
+tower
+	crane
+	reset 122
+	outer 10
+	tower 1
+	4
+colon
+	crane
+	conch 8
+	colon 1
+	3
+known
+	crane
+	unity 55
+	knoll 3
+	known 1
+	4
+dryly
+	crane
+	droit 51
+	dryly 1
+	3
+privy
+	crane
+	droit 51
+	frisk 8
+	privy 3
+	4
+cluck
+	crane
+	couch 25
+	cluck 1
+	3
+salsa
+	crane
+	salty 133
+	salsa 3
+	3
+bleep
+	crane
+	sleet 127
+	bleep 2
+	3
+fable
+	crane
+	aisle 49
+	fable 5
+	3
+angel
+	crane
+	laden 21
+	angel 1
+	3
+loath
+	crane
+	shalt 49
+	loath 1
+	3
+pulpy
+	crane
+	lousy 263
+	bully 6
+	pulpy 1
+	4
+rivet
+	crane
+	reset 122
+	rivet 1
+	3
+siege
+	crane
+	stole 102
+	sieve 5
+	siege 1
+	4
+horde
+	crane
+	reuse 39
+	forge 6
+	horde 1
+	4
+testy
+	crane
+	sleet 127
+	testy 5
+	3
+wagon
+	crane
+	talon 47
+	wagon 2
+	3
+photo
+	crane
+	lousy 263
+	bigot 10
+	photo 1
+	4
+board
+	crane
+	shard 24
+	board 3
+	3
+forum
+	crane
+	torus 90
+	forum 1
+	3
+drunk
+	crane
+	grind 17
+	drunk 1
+	3
+goody
+	crane
+	lousy 263
+	goody 16
+	3
+unwed
+	crane
+	olden 58
+	unwed 3
+	3
+afoul
+	crane
+	salty 133
+	afoul 12
+	3
+sleek
+	crane
+	sleet 127
+	sleep 2
+	sleek 1
+	4
+deign
+	crane
+	olden 58
+	deign 1
+	3
+shift
+	crane
+	lousy 263
+	shift 9
+	3
+crank
+	crane
+	crank 1
+	2
+quark
+	crane
+	shard 24
+	tiara 6
+	quark 2
+	4
+gauze
+	crane
+	aisle 49
+	gauze 10
+	3
+claim
+	crane
+	clasp 13
+	claim 2
+	3
+bigot
+	crane
+	lousy 263
+	bigot 10
+	3
+today
+	crane
+	salty 133
+	today 1
+	3
+chain
+	crane
+	chain 1
+	2
+comet
+	crane
+	cleft 11
+	comet 2
+	3
+gorge
+	crane
+	terse 39
+	horde 5
+	gorge 2
+	4
+noisy
+	crane
+	unity 55
+	noisy 1
+	3
+bison
+	crane
+	unity 55
+	bison 6
+	3
+lusty
+	crane
+	lousy 263
+	lusty 1
+	3
+fizzy
+	crane
+	lousy 263
+	ditty 15
+	wimpy 5
+	fizzy 2
+	5
+dryer
+	crane
+	freed 22
+	dryer 3
+	3
+shout
+	crane
+	lousy 263
+	shout 4
+	3
+wreak
+	crane
+	tread 9
+	break 3
+	wreak 2
+	4
+scour
+	crane
+	scrub 11
+	scour 1
+	3
+stilt
+	crane
+	lousy 263
+	split 7
+	stilt 1
+	4
+olden
+	crane
+	olden 58
+	2
+fifty
+	crane
+	lousy 263
+	ditty 15
+	fifty 1
+	4
+ennui
+	crane
+	olden 58
+	ennui 5
+	3
+tried
+	crane
+	freed 22
+	tried 3
+	3
+motel
+	crane
+	sleet 127
+	motel 3
+	3
+tiger
+	crane
+	reset 122
+	outer 10
+	tiger 2
+	4
+sally
+	crane
+	salty 133
+	sally 1
+	3
+prude
+	crane
+	trope 26
+	prude 4
+	3
+solid
+	crane
+	lousy 263
+	solid 1
+	3
+large
+	crane
+	large 8
+	2
+actor
+	crane
+	scram 7
+	actor 1
+	3
+jelly
+	crane
+	sleet 127
+	belly 7
+	jelly 1
+	4
+spell
+	crane
+	sleet 127
+	spell 5
+	3
+rally
+	crane
+	ratio 64
+	ralph 5
+	rally 1
+	4
+tempo
+	crane
+	sleet 127
+	tepid 11
+	tempo 1
+	4
+peace
+	crane
+	peace 4
+	2
+snaky
+	crane
+	snail 8
+	snaky 1
+	3
+worst
+	crane
+	torus 90
+	worst 1
+	3
+where
+	crane
+	reuse 39
+	where 3
+	3
+stray
+	crane
+	ratio 64
+	stray 3
+	3
+lemur
+	crane
+	reset 122
+	berry 11
+	lemur 3
+	4
+lanky
+	crane
+	talon 47
+	lanky 5
+	3
+quota
+	crane
+	salty 133
+	quota 1
+	3
+local
+	crane
+	latch 27
+	local 2
+	3
+entry
+	crane
+	inter 27
+	entry 1
+	3
+exalt
+	crane
+	dealt 18
+	exalt 1
+	3
+thick
+	crane
+	stuck 55
+	thick 1
+	3
+bylaw
+	crane
+	salty 133
+	bylaw 1
+	3
+boney
+	crane
+	olden 58
+	boney 4
+	3
+aloft
+	crane
+	salty 133
+	bloat 10
+	aloft 1
+	4
+baker
+	crane
+	later 50
+	wager 14
+	parer 7
+	baker 3
+	5
+kebab
+	crane
+	steal 46
+	kebab 1
+	3
+ready
+	crane
+	ready 9
+	2
+these
+	crane
+	stole 102
+	these 1
+	3
+comfy
+	crane
+	couch 25
+	comfy 2
+	3
+gloom
+	crane
+	lousy 263
+	bloom 6
+	gloom 1
+	4
+audit
+	crane
+	salty 133
+	audit 8
+	3
+coyly
+	crane
+	couch 25
+	comfy 2
+	coyly 1
+	4
+savvy
+	crane
+	salty 133
+	savvy 4
+	3
+swift
+	crane
+	lousy 263
+	shift 9
+	swift 1
+	4
+stint
+	crane
+	stung 58
+	stint 3
+	3
+booze
+	crane
+	stole 102
+	biome 4
+	booze 1
+	4
+khaki
+	crane
+	shalt 49
+	khaki 1
+	3
+tally
+	crane
+	salty 133
+	tally 1
+	3
+soapy
+	crane
+	shalt 49
+	swamp 4
+	soapy 1
+	4
+untie
+	crane
+	snide 21
+	untie 1
+	3
+spent
+	crane
+	eying 10
+	blend 3
+	spent 1
+	4
+shirk
+	crane
+	torus 90
+	shirk 4
+	3
+basin
+	crane
+	talon 47
+	basin 2
+	3
+gully
+	crane
+	lousy 263
+	bully 6
+	fully 3
+	gully 2
+	5
+shaft
+	crane
+	shalt 49
+	shaft 1
+	3
+anvil
+	crane
+	talon 47
+	anvil 3
+	3
+ficus
+	crane
+	stuck 55
+	focus 5
+	ficus 1
+	4
+plank
+	crane
+	stank 16
+	plank 3
+	3
+chump
+	crane
+	couch 25
+	chump 1
+	3
+frail
+	crane
+	graft 22
+	frail 2
+	3
+petty
+	crane
+	sleet 127
+	depth 11
+	petty 1
+	4
+latte
+	crane
+	aisle 49
+	halve 5
+	latte 1
+	4
+pasty
+	crane
+	salty 133
+	pasty 3
+	3
+penal
+	crane
+	laden 21
+	penal 1
+	3
+edict
+	crane
+	leech 20
+	edict 2
+	3
+abhor
+	crane
+	ratio 64
+	solar 8
+	abhor 1
+	4
+mania
+	crane
+	talon 47
+	sandy 7
+	mania 2
+	4
+setup
+	crane
+	sleet 127
+	setup 1
+	3
+check
+	crane
+	cleft 11
+	check 3
+	3
+musky
+	crane
+	lousy 263
+	mushy 9
+	musky 2
+	4
+berry
+	crane
+	reset 122
+	berry 11
+	3
+joist
+	crane
+	lousy 263
+	joist 5
+	3
+ample
+	crane
+	aisle 49
+	ample 3
+	3
+hyper
+	crane
+	reset 122
+	lover 34
+	upper 9
+	hyper 1
+	5
+quick
+	crane
+	stuck 55
+	quick 1
+	3
+gusto
+	crane
+	lousy 263
+	shout 4
+	gusto 1
+	4
+spike
+	crane
+	stole 102
+	sieve 5
+	spike 1
+	4
+chief
+	crane
+	cleft 11
+	chief 1
+	3
+grove
+	crane
+	trope 26
+	drove 5
+	grove 1
+	4
+funny
+	crane
+	stung 58
+	funny 2
+	3
+crown
+	crane
+	crown 1
+	2
+prank
+	crane
+	grand 6
+	prank 2
+	3
+chuck
+	crane
+	couch 25
+	chuck 1
+	3
+scout
+	crane
+	stuck 55
+	scout 1
+	3
+clink
+	crane
+	clink 5
+	2
+learn
+	crane
+	learn 2
+	2
+lofty
+	crane
+	lousy 263
+	lofty 4
+	3
+chaff
+	crane
+	clasp 13
+	chaff 2
+	3
+spree
+	crane
+	reuse 39
+	spree 1
+	3
+scion
+	crane
+	punch 17
+	scion 1
+	3
+waste
+	crane
+	aisle 49
+	waste 6
+	3
+saucy
+	crane
+	latch 27
+	saucy 1
+	3
+whack
+	crane
+	scaly 13
+	whack 3
+	3
+undid
+	crane
+	unity 55
+	undid 2
+	3
+theta
+	crane
+	steal 46
+	theta 2
+	3
+waive
+	crane
+	aisle 49
+	waive 2
+	3
+sappy
+	crane
+	salty 133
+	savvy 4
+	sappy 2
+	4
+dutch
+	crane
+	stuck 55
+	dutch 3
+	3
+hedge
+	crane
+	stole 102
+	imbue 13
+	hedge 2
+	4
+saint
+	crane
+	taint 20
+	saint 3
+	3
+puffy
+	crane
+	lousy 263
+	dumpy 14
+	putty 2
+	puffy 1
+	5
+cargo
+	crane
+	cargo 8
+	2
+ethos
+	crane
+	sleet 127
+	testy 5
+	ethos 1
+	4
+piper
+	crane
+	reset 122
+	lover 34
+	upper 9
+	piper 1
+	5
+crude
+	crane
+	creme 4
+	crude 1
+	3
+eater
+	crane
+	later 50
+	eater 3
+	3
+wordy
+	crane
+	torus 90
+	wordy 6
+	3
+plaid
+	crane
+	shalt 49
+	flail 8
+	plaid 1
+	4
+maple
+	crane
+	aisle 49
+	fable 5
+	maple 3
+	4
+legal
+	crane
+	steal 46
+	medal 4
+	legal 1
+	4
+chest
+	crane
+	cleft 11
+	chest 1
+	3
+smear
+	crane
+	later 50
+	smear 6
+	3
+blurt
+	crane
+	torus 90
+	blurt 1
+	3
+fiery
+	crane
+	reset 122
+	fiery 3
+	3
+gouge
+	crane
+	stole 102
+	gouge 5
+	3
+mecca
+	crane
+	decal 6
+	mecca 1
+	3
+apple
+	crane
+	aisle 49
+	ample 3
+	apple 1
+	4
+hitch
+	crane
+	stuck 55
+	hitch 5
+	3
+aider
+	crane
+	later 50
+	aider 2
+	3
+front
+	crane
+	grind 17
+	front 3
+	3
+ditto
+	crane
+	lousy 263
+	bigot 10
+	ditto 1
+	4
+vinyl
+	crane
+	unity 55
+	vinyl 1
+	3
+phony
+	crane
+	stung 58
+	downy 7
+	phony 1
+	4
+watch
+	crane
+	latch 27
+	watch 5
+	3
+skate
+	crane
+	slate 43
+	skate 2
+	3
+baggy
+	crane
+	salty 133
+	gaudy 9
+	baggy 1
+	4
+cough
+	crane
+	couch 25
+	cough 1
+	3
+crumb
+	crane
+	crisp 13
+	crock 4
+	crumb 1
+	4
+small
+	crane
+	shalt 49
+	small 1
+	3
+asset
+	crane
+	steal 46
+	asset 1
+	3
+three
+	crane
+	horse 39
+	three 1
+	3
+fluff
+	crane
+	lousy 263
+	bluff 5
+	fluff 1
+	4
+awake
+	crane
+	slate 43
+	adage 9
+	awake 2
+	4
+afire
+	crane
+	large 8
+	afire 3
+	3
+warty
+	crane
+	ratio 64
+	warty 3
+	3
+grate
+	crane
+	grade 13
+	grate 4
+	3
+cagey
+	crane
+	cleat 7
+	cagey 2
+	3
+shoot
+	crane
+	lousy 263
+	stomp 8
+	shoot 1
+	4
+groan
+	crane
+	groan 4
+	2
+wryly
+	crane
+	droit 51
+	brush 3
+	wryly 1
+	4
+raspy
+	crane
+	ratio 64
+	ralph 5
+	raspy 1
+	4
+topaz
+	crane
+	salty 133
+	audit 8
+	topaz 1
+	4
+elide
+	crane
+	stole 102
+	glide 13
+	elide 1
+	4
+camel
+	crane
+	cleat 7
+	camel 1
+	3
+leech
+	crane
+	leech 20
+	2
+zesty
+	crane
+	sleet 127
+	testy 5
+	zesty 1
+	4
+abase
+	crane
+	slate 43
+	abase 3
+	3
+segue
+	crane
+	stole 102
+	sieve 5
+	segue 1
+	4
+upper
+	crane
+	reset 122
+	lover 34
+	upper 9
+	4
+chasm
+	crane
+	chasm 13
+	2
+amend
+	crane
+	amend 3
+	2
+hoist
+	crane
+	lousy 263
+	hoist 5
+	3
+tonic
+	crane
+	punch 17
+	tonic 3
+	3
+meter
+	crane
+	reset 122
+	meter 2
+	3
+corny
+	crane
+	corny 1
+	2
+adage
+	crane
+	slate 43
+	adage 9
+	3
+abate
+	crane
+	slate 43
+	abate 3
+	3
+snore
+	crane
+	nurse 5
+	snore 1
+	3
+diver
+	crane
+	reset 122
+	lover 34
+	giver 2
+	diver 1
+	5
+pivot
+	crane
+	lousy 263
+	bigot 10
+	pivot 1
+	4
+blunt
+	crane
+	stung 58
+	blunt 2
+	3
+spade
+	crane
+	slate 43
+	spade 7
+	3
+again
+	crane
+	snail 8
+	again 1
+	3
+nomad
+	crane
+	talon 47
+	nomad 2
+	3
+blink
+	crane
+	stung 58
+	downy 7
+	blink 1
+	4
+chirp
+	crane
+	court 9
+	chirp 1
+	3
+guava
+	crane
+	shalt 49
+	guava 2
+	3
+nerdy
+	crane
+	inter 27
+	rerun 3
+	nerdy 1
+	4
+medal
+	crane
+	steal 46
+	pedal 4
+	medal 1
+	4
+threw
+	crane
+	reset 122
+	outer 10
+	threw 1
+	4
+range
+	crane
+	range 1
+	2
+lance
+	crane
+	lance 2
+	2
+flesh
+	crane
+	sleet 127
+	flesh 2
+	3
+vocal
+	crane
+	latch 27
+	vocal 3
+	3
+clump
+	crane
+	couch 25
+	clump 1
+	3
+tenth
+	crane
+	olden 58
+	ennui 5
+	tenth 1
+	4
+aroma
+	crane
+	arbor 12
+	aroma 1
+	3
+leery
+	crane
+	reset 122
+	leery 1
+	3
+flung
+	crane
+	stung 58
+	flung 2
+	3
+level
+	crane
+	sleet 127
+	bevel 5
+	level 1
+	4
+hardy
+	crane
+	ratio 64
+	harpy 10
+	hardy 2
+	4
+dizzy
+	crane
+	lousy 263
+	ditty 15
+	dizzy 1
+	4
+plump
+	crane
+	lousy 263
+	bluff 5
+	plump 1
+	4
+venue
+	crane
+	snide 21
+	venue 3
+	3
+billy
+	crane
+	lousy 263
+	filly 9
+	billy 4
+	4
+quiet
+	crane
+	sleet 127
+	quiet 2
+	3
+sheep
+	crane
+	sleet 127
+	sheep 3
+	3
+stead
+	crane
+	steal 46
+	stead 3
+	3
+stare
+	crane
+	glare 7
+	stare 4
+	3
+juicy
+	crane
+	stuck 55
+	mulch 3
+	juicy 1
+	4
+alarm
+	crane
+	shard 24
+	tiara 6
+	alarm 1
+	4
+missy
+	crane
+	lousy 263
+	missy 5
+	3
+acrid
+	crane
+	scram 7
+	acrid 1
+	3
+lupus
+	crane
+	lousy 263
+	lupus 1
+	3
+stung
+	crane
+	stung 58
+	2
+aloof
+	crane
+	salty 133
+	afoul 12
+	aloof 1
+	4
+upset
+	crane
+	sleet 127
+	upset 1
+	3
+stein
+	crane
+	olden 58
+	stein 4
+	3
+hunch
+	crane
+	punch 17
+	hunch 4
+	3
+glass
+	crane
+	shalt 49
+	flask 2
+	glass 1
+	4
+class
+	crane
+	chasm 13
+	class 3
+	3
+rupee
+	crane
+	terse 39
+	where 2
+	rupee 1
+	4
+suite
+	crane
+	stole 102
+	suite 3
+	3
+knock
+	crane
+	punch 17
+	knock 1
+	3
+ramen
+	crane
+	ramen 5
+	2
+towel
+	crane
+	sleet 127
+	motel 3
+	towel 1
+	4
+among
+	crane
+	taint 20
+	among 3
+	3
+align
+	crane
+	talon 47
+	align 1
+	3
+voter
+	crane
+	reset 122
+	outer 10
+	voter 1
+	4
+bilge
+	crane
+	stole 102
+	glide 13
+	bilge 2
+	4
+agent
+	crane
+	amend 3
+	agent 1
+	3
+slope
+	crane
+	stole 102
+	slope 1
+	3
+conch
+	crane
+	conch 8
+	2
+fjord
+	crane
+	torus 90
+	ivory 7
+	fjord 1
+	4
+chess
+	crane
+	cleft 11
+	check 3
+	chess 1
+	4
+retro
+	crane
+	reset 122
+	retro 2
+	3
+chafe
+	crane
+	chafe 3
+	2
+demur
+	crane
+	reset 122
+	berry 11
+	lemur 3
+	demur 2
+	5
+fatty
+	crane
+	salty 133
+	fatty 4
+	3
+liner
+	crane
+	inter 27
+	liner 4
+	3
+snout
+	crane
+	unity 55
+	snout 1
+	3
+spurn
+	crane
+	thorn 13
+	spurn 1
+	3
+cream
+	crane
+	cream 2
+	2
+perky
+	crane
+	reset 122
+	berry 11
+	perky 2
+	4
+bough
+	crane
+	lousy 263
+	bough 5
+	3
+value
+	crane
+	aisle 49
+	halve 5
+	value 1
+	4
+merit
+	crane
+	reset 122
+	merit 1
+	3
+pouch
+	crane
+	stuck 55
+	pouch 2
+	3
+press
+	crane
+	freed 22
+	press 2
+	3
+clerk
+	crane
+	cower 7
+	clerk 1
+	3
+offal
+	crane
+	salty 133
+	afoul 12
+	offal 1
+	4
+chord
+	crane
+	court 9
+	chord 1
+	3
+death
+	crane
+	dealt 18
+	death 1
+	3
+lithe
+	crane
+	stole 102
+	lithe 4
+	3
+devil
+	crane
+	sleet 127
+	belly 7
+	devil 1
+	4
+frost
+	crane
+	droit 51
+	grout 3
+	frost 1
+	4
+stunk
+	crane
+	stung 58
+	stunk 2
+	3
+scrub
+	crane
+	scrub 11
+	2
+focal
+	crane
+	latch 27
+	vocal 3
+	focal 1
+	4
+blush
+	crane
+	lousy 263
+	blush 4
+	3
+moult
+	crane
+	lousy 263
+	moult 2
+	3
+fetus
+	crane
+	sleet 127
+	testy 5
+	fetus 1
+	4
+gavel
+	crane
+	steal 46
+	label 5
+	gavel 2
+	4
+beady
+	crane
+	dealt 18
+	beady 2
+	3
+patio
+	crane
+	salty 133
+	patio 5
+	3
+spook
+	crane
+	lousy 263
+	stomp 8
+	spook 2
+	4
+strip
+	crane
+	torus 90
+	strip 2
+	3
+hurry
+	crane
+	torus 90
+	hurry 5
+	3
+fudge
+	crane
+	stole 102
+	imbue 13
+	fudge 2
+	4
+picky
+	crane
+	stuck 55
+	picky 1
+	3
+arose
+	crane
+	arose 3
+	2
+weave
+	crane
+	slate 43
+	adage 9
+	weave 3
+	4
+liken
+	crane
+	olden 58
+	liken 3
+	3
+poesy
+	crane
+	sleet 127
+	guess 2
+	poesy 1
+	4
+waxen
+	crane
+	laden 21
+	taken 5
+	waxen 2
+	4
+leggy
+	crane
+	sleet 127
+	belly 7
+	leggy 1
+	4
+place
+	crane
+	peace 4
+	place 1
+	3
+dwarf
+	crane
+	shard 24
+	dwarf 2
+	3
+pooch
+	crane
+	stuck 55
+	which 2
+	pooch 1
+	4
+buyer
+	crane
+	reset 122
+	lover 34
+	upper 9
+	buyer 1
+	5
+drape
+	crane
+	grade 13
+	drape 2
+	3
+crass
+	crane
+	crass 7
+	2
+nudge
+	crane
+	snide 21
+	nudge 1
+	3
+crave
+	crane
+	crave 3
+	2
+decor
+	crane
+	recut 10
+	decor 2
+	3
+awash
+	crane
+	shalt 49
+	awash 2
+	3
+agree
+	crane
+	large 8
+	agree 1
+	3
+daddy
+	crane
+	salty 133
+	gaudy 9
+	daddy 3
+	4
+cutie
+	crane
+	chose 11
+	cutie 2
+	3
+slash
+	crane
+	shalt 49
+	slash 1
+	3
+blurb
+	crane
+	torus 90
+	blurb 4
+	3
+plume
+	crane
+	stole 102
+	glide 13
+	plume 3
+	4
+lobby
+	crane
+	lousy 263
+	lofty 4
+	lobby 3
+	4
+dwelt
+	crane
+	sleet 127
+	dwelt 1
+	3
+prone
+	crane
+	prone 5
+	2
+brace
+	crane
+	brace 3
+	2
+graph
+	crane
+	graft 22
+	grasp 5
+	graph 1
+	4
+mower
+	crane
+	reset 122
+	lover 34
+	mower 8
+	4
+argue
+	crane
+	arose 3
+	argue 1
+	3
+human
+	crane
+	talon 47
+	human 3
+	3
+fiend
+	crane
+	eying 10
+	fiend 1
+	3
+gravy
+	crane
+	graft 22
+	grasp 5
+	gravy 2
+	4
+flour
+	crane
+	torus 90
+	flour 1
+	3
+minty
+	crane
+	unity 55
+	minty 1
+	3
+brush
+	crane
+	droit 51
+	brush 3
+	3
+grass
+	crane
+	graft 22
+	grasp 5
+	grass 1
+	4
+vista
+	crane
+	salty 133
+	vista 1
+	3
+grasp
+	crane
+	graft 22
+	grasp 5
+	3
+world
+	crane
+	torus 90
+	wordy 6
+	world 1
+	4
+geeky
+	crane
+	sleet 127
+	geeky 3
+	3
+sorry
+	crane
+	torus 90
+	sorry 1
+	3
+downy
+	crane
+	stung 58
+	downy 7
+	3
+abyss
+	crane
+	salty 133
+	abyss 1
+	3
+shorn
+	crane
+	thorn 13
+	shorn 1
+	3
+ovary
+	crane
+	shard 24
+	tiara 6
+	quark 2
+	ovary 1
+	5
+grade
+	crane
+	grade 13
+	2
+print
+	crane
+	grind 17
+	briny 3
+	print 1
+	4
+bingo
+	crane
+	unity 55
+	bison 6
+	bingo 1
+	4
+baron
+	crane
+	rayon 10
+	baron 1
+	3
+puppy
+	crane
+	lousy 263
+	dumpy 14
+	puppy 2
+	4
+kappa
+	crane
+	salty 133
+	mamma 9
+	kappa 1
+	4
+disco
+	crane
+	stuck 55
+	disco 1
+	3
+cross
+	crane
+	croup 13
+	crock 4
+	cross 2
+	4
+smite
+	crane
+	stole 102
+	suite 3
+	smite 2
+	4
+clasp
+	crane
+	chasm 13
+	class 3
+	clasp 1
+	4
+lefty
+	crane
+	sleet 127
+	lefty 2
+	3
+phase
+	crane
+	slate 43
+	abase 3
+	phase 1
+	4
+loose
+	crane
+	stole 102
+	loose 1
+	3
+round
+	crane
+	round 4
+	2
+imply
+	crane
+	lousy 263
+	filly 9
+	imply 1
+	4
+ester
+	crane
+	reset 122
+	ester 2
+	3
+apply
+	crane
+	salty 133
+	apply 2
+	3
+radio
+	crane
+	ratio 64
+	radio 1
+	3
+flood
+	crane
+	lousy 263
+	blood 6
+	flood 1
+	4
+borne
+	crane
+	borne 1
+	2
+shave
+	crane
+	slate 43
+	spade 7
+	shave 4
+	4
+cycle
+	crane
+	chose 11
+	cutie 2
+	cycle 1
+	4
+friar
+	crane
+	arbor 12
+	friar 1
+	3
+funky
+	crane
+	unity 55
+	funky 2
+	3
+islet
+	crane
+	sleet 127
+	islet 1
+	3
+cower
+	crane
+	cower 7
+	2
+bleed
+	crane
+	sleet 127
+	bleep 2
+	bleed 1
+	4
+right
+	crane
+	torus 90
+	right 2
+	3
+spoon
+	crane
+	unity 55
+	blown 6
+	spoon 1
+	4
+slunk
+	crane
+	stung 58
+	slunk 4
+	3
+ascot
+	crane
+	latch 27
+	ascot 1
+	3
+tense
+	crane
+	snide 21
+	tense 2
+	3
+rayon
+	crane
+	rayon 10
+	2
+shark
+	crane
+	shard 24
+	shark 2
+	3
+gloss
+	crane
+	lousy 263
+	gloss 3
+	3
+dingy
+	crane
+	unity 55
+	dingy 4
+	3
+drill
+	crane
+	droit 51
+	drill 1
+	3
+deuce
+	crane
+	spice 9
+	deuce 1
+	3
+ounce
+	crane
+	niece 11
+	ounce 2
+	3
+owner
+	crane
+	inter 27
+	owner 4
+	3
+bacon
+	crane
+	manic 5
+	bacon 1
+	3
+spare
+	crane
+	glare 7
+	stare 4
+	spare 2
+	4
+swamp
+	crane
+	shalt 49
+	swami 4
+	swamp 1
+	4
+rarer
+	crane
+	later 50
+	wager 14
+	parer 7
+	rarer 1
+	5
+clout
+	crane
+	couch 25
+	clout 2
+	3
+hazel
+	crane
+	steal 46
+	label 5
+	gavel 2
+	hazel 1
+	5
+pushy
+	crane
+	lousy 263
+	mushy 9
+	pushy 2
+	4
+adult
+	crane
+	salty 133
+	bloat 10
+	adult 1
+	4
+throw
+	crane
+	torus 90
+	throw 2
+	3
+medic
+	crane
+	leech 20
+	decoy 3
+	medic 1
+	4
+carve
+	crane
+	carve 1
+	2
+crept
+	crane
+	creed 10
+	crept 3
+	3
+honor
+	crane
+	thorn 13
+	honor 1
+	3
+flier
+	crane
+	reset 122
+	lover 34
+	flier 6
+	4
+dunce
+	crane
+	niece 11
+	ounce 2
+	dunce 1
+	4
+chili
+	crane
+	couch 25
+	chill 3
+	chili 2
+	4
+bribe
+	crane
+	trope 26
+	bride 4
+	bribe 1
+	4
+alter
+	crane
+	later 50
+	alter 1
+	3
+bosom
+	crane
+	lousy 263
+	bosom 3
+	3
+rough
+	crane
+	torus 90
+	rough 2
+	3
+outer
+	crane
+	reset 122
+	outer 10
+	3
+otter
+	crane
+	reset 122
+	outer 10
+	otter 1
+	4
+slump
+	crane
+	lousy 263
+	skulk 3
+	slump 1
+	4
+slink
+	crane
+	stung 58
+	shiny 3
+	slink 1
+	4
+ankle
+	crane
+	mange 6
+	ankle 2
+	3
+stave
+	crane
+	slate 43
+	stave 3
+	3
+natal
+	crane
+	talon 47
+	natal 1
+	3
+droll
+	crane
+	droit 51
+	drool 4
+	droll 1
+	4
+madly
+	crane
+	salty 133
+	madly 5
+	3
+liege
+	crane
+	stole 102
+	glide 13
+	bilge 2
+	liege 1
+	5
+wrest
+	crane
+	freed 22
+	press 2
+	wrest 1
+	4
+taffy
+	crane
+	salty 133
+	taffy 2
+	3
+twice
+	crane
+	spice 9
+	twice 3
+	3
+extra
+	crane
+	later 50
+	extra 1
+	3
+shake
+	crane
+	slate 43
+	spade 7
+	shave 4
+	shake 2
+	5
+reedy
+	crane
+	reset 122
+	reedy 1
+	3
+blast
+	crane
+	shalt 49
+	blast 1
+	3
+chase
+	crane
+	chafe 3
+	chase 1
+	3
+reply
+	crane
+	reset 122
+	reply 1
+	3
+yield
+	crane
+	sleet 127
+	dwell 6
+	yield 2
+	4
+briar
+	crane
+	ardor 12
+	friar 2
+	briar 1
+	4
+layer
+	crane
+	later 50
+	layer 2
+	3
+braid
+	crane
+	graft 22
+	drawl 7
+	braid 1
+	4
+pithy
+	crane
+	lousy 263
+	ditty 15
+	pithy 1
+	4
+smoky
+	crane
+	lousy 263
+	smoky 2
+	3
+cyber
+	crane
+	cower 7
+	cyber 3
+	3
+bused
+	crane
+	sleet 127
+	bused 1
+	3
+elegy
+	crane
+	sleet 127
+	elegy 1
+	3
+slate
+	crane
+	slate 43
+	2
+slosh
+	crane
+	lousy 263
+	gloss 3
+	slosh 1
+	4
+hotly
+	crane
+	lousy 263
+	dolly 9
+	wooly 2
+	hotly 1
+	5
+hello
+	crane
+	sleet 127
+	belly 7
+	hello 1
+	4
+bloke
+	crane
+	stole 102
+	globe 4
+	bloke 1
+	4
+cynic
+	crane
+	conch 8
+	cynic 1
+	3
+orbit
+	crane
+	droit 51
+	orbit 1
+	3
+defer
+	crane
+	reset 122
+	fever 5
+	defer 1
+	4
+overt
+	crane
+	reset 122
+	exert 2
+	overt 1
+	4
+flyer
+	crane
+	reset 122
+	lover 34
+	flier 6
+	flyer 1
+	5
+smack
+	crane
+	scald 13
+	smack 3
+	3
+diary
+	crane
+	shard 24
+	dwarf 2
+	diary 1
+	4
+house
+	crane
+	stole 102
+	mouse 5
+	house 1
+	4
+spoil
+	crane
+	lousy 263
+	spoil 5
+	3
+month
+	crane
+	unity 55
+	month 1
+	3
+psalm
+	crane
+	shalt 49
+	psalm 1
+	3
+flunk
+	crane
+	stung 58
+	flunk 8
+	3
+dozen
+	crane
+	olden 58
+	dozen 1
+	3
+blank
+	crane
+	stank 16
+	plank 3
+	blank 2
+	4
+dully
+	crane
+	lousy 263
+	bully 6
+	fully 3
+	gully 2
+	dully 1
+	6
+choir
+	crane
+	court 9
+	choir 1
+	3
+tiara
+	crane
+	shard 24
+	tiara 6
+	3
+birth
+	crane
+	torus 90
+	birth 4
+	3
+drain
+	crane
+	drain 7
+	2
+trace
+	crane
+	brace 3
+	trace 2
+	3
+guise
+	crane
+	stole 102
+	guise 3
+	3
+sauna
+	crane
+	taint 20
+	fauna 4
+	sauna 1
+	4
+focus
+	crane
+	stuck 55
+	focus 5
+	3
+forte
+	crane
+	terse 39
+	forte 1
+	3
+motor
+	crane
+	torus 90
+	motor 3
+	3
+stale
+	crane
+	slate 43
+	stale 1
+	3
+clack
+	crane
+	chasm 13
+	clack 1
+	3
+trout
+	crane
+	droit 51
+	grout 3
+	trout 1
+	4
+macaw
+	crane
+	latch 27
+	macaw 4
+	3
+adept
+	crane
+	steal 46
+	theta 2
+	adept 1
+	4
+squib
+	crane
+	lousy 263
+	stuff 3
+	squib 1
+	4
+cigar
+	crane
+	cargo 8
+	cigar 1
+	3
+using
+	crane
+	stung 58
+	using 1
+	3
+nylon
+	crane
+	unity 55
+	nylon 3
+	3
+equip
+	crane
+	sleet 127
+	equip 5
+	3
+musty
+	crane
+	lousy 263
+	mushy 9
+	musky 2
+	musty 1
+	5
+weary
+	crane
+	ready 9
+	weary 2
+	3
+metro
+	crane
+	reset 122
+	metro 2
+	3
+rhino
+	crane
+	round 4
+	rhino 1
+	3
+rifle
+	crane
+	reuse 39
+	rifle 3
+	3
+gleam
+	crane
+	steal 46
+	gleam 3
+	3
+hovel
+	crane
+	sleet 127
+	bowel 9
+	hovel 2
+	4
+bleat
+	crane
+	steal 46
+	bleat 2
+	3
+blare
+	crane
+	glare 7
+	blare 2
+	3
+clone
+	crane
+	clone 1
+	2
+bloom
+	crane
+	lousy 263
+	bloom 6
+	3
+urine
+	crane
+	prone 5
+	urine 2
+	3
+amiss
+	crane
+	salty 133
+	amiss 1
+	3
+creed
+	crane
+	creed 10
+	2
+daily
+	crane
+	salty 133
+	madly 5
+	daily 1
+	4
+mural
+	crane
+	ratio 64
+	mural 5
+	3
+cheat
+	crane
+	cleat 7
+	cheat 1
+	3
+spurt
+	crane
+	torus 90
+	spurt 2
+	3
+stomp
+	crane
+	lousy 263
+	stomp 8
+	3
+wispy
+	crane
+	lousy 263
+	wispy 4
+	3
+willy
+	crane
+	lousy 263
+	filly 9
+	billy 4
+	dilly 3
+	hilly 2
+	willy 1
+	7
+event
+	crane
+	eying 10
+	event 1
+	3
+latch
+	crane
+	latch 27
+	2
+rusty
+	crane
+	torus 90
+	spurt 2
+	rusty 1
+	4
+teary
+	crane
+	ready 9
+	weary 2
+	teary 1
+	4
+ladle
+	crane
+	aisle 49
+	fable 5
+	maple 3
+	ladle 2
+	5
+aorta
+	crane
+	ratio 64
+	aorta 2
+	3
+alien
+	crane
+	laden 21
+	alien 1
+	3
+evade
+	crane
+	slate 43
+	adage 9
+	evade 1
+	4
+vapid
+	crane
+	salty 133
+	mamma 9
+	vapid 1
+	4
+buddy
+	crane
+	lousy 263
+	dumpy 14
+	buddy 1
+	4
+mound
+	crane
+	stung 58
+	flunk 8
+	mound 5
+	4
+rider
+	crane
+	reset 122
+	rider 9
+	3
+jetty
+	crane
+	sleet 127
+	depth 11
+	jetty 1
+	4
+woozy
+	crane
+	lousy 263
+	goody 16
+	woozy 4
+	4
+coven
+	crane
+	coven 1
+	2
+jaunt
+	crane
+	taint 20
+	gaunt 5
+	jaunt 4
+	4
+baste
+	crane
+	aisle 49
+	waste 6
+	baste 4
+	4
+stick
+	crane
+	stuck 55
+	stick 2
+	3
+older
+	crane
+	reset 122
+	lover 34
+	older 1
+	4
+roger
+	crane
+	reset 122
+	rider 9
+	roger 4
+	4
+leaky
+	crane
+	dealt 18
+	leaky 3
+	3
+belie
+	crane
+	stole 102
+	glide 13
+	belie 1
+	4
+quack
+	crane
+	scald 13
+	whack 3
+	quack 2
+	4
+bring
+	crane
+	grind 17
+	bring 2
+	3
+sting
+	crane
+	stung 58
+	sting 1
+	3
+depot
+	crane
+	sleet 127
+	debit 5
+	depot 1
+	4
+evoke
+	crane
+	stole 102
+	biome 4
+	evoke 1
+	4
+apart
+	crane
+	shard 24
+	tiara 6
+	apart 1
+	4
+artsy
+	crane
+	ardor 12
+	artsy 1
+	3
+paste
+	crane
+	aisle 49
+	waste 6
+	baste 4
+	paste 3
+	5
+corer
+	crane
+	cower 7
+	corer 2
+	3
+cleat
+	crane
+	cleat 7
+	2
+piety
+	crane
+	sleet 127
+	piety 1
+	3
+smock
+	crane
+	stuck 55
+	smock 3
+	3
+steer
+	crane
+	reset 122
+	ester 2
+	steer 1
+	4
+wider
+	crane
+	reset 122
+	lover 34
+	upper 9
+	fixer 3
+	wider 1
+	6
+easel
+	crane
+	steal 46
+	easel 1
+	3
+drank
+	crane
+	grand 6
+	drank 1
+	3
+inbox
+	crane
+	unity 55
+	inbox 1
+	3
+mafia
+	crane
+	salty 133
+	mamma 9
+	mafia 1
+	4
+abide
+	crane
+	aisle 49
+	abide 1
+	3
+scent
+	crane
+	scent 1
+	2
+amaze
+	crane
+	slate 43
+	adage 9
+	awake 2
+	amaze 1
+	5
+shoal
+	crane
+	salty 133
+	shoal 1
+	3
+pleat
+	crane
+	steal 46
+	bleat 2
+	pleat 1
+	4
+vigil
+	crane
+	lousy 263
+	blitz 4
+	vigil 1
+	4
+coral
+	crane
+	cargo 8
+	coral 1
+	3
+goofy
+	crane
+	lousy 263
+	goody 16
+	goofy 1
+	4
+proxy
+	crane
+	droit 51
+	proof 9
+	proxy 2
+	4
+slant
+	crane
+	stank 16
+	slant 1
+	3
+marry
+	crane
+	ratio 64
+	harpy 10
+	marry 1
+	4
+sleep
+	crane
+	sleet 127
+	sleek 2
+	sleep 1
+	4
+dusky
+	crane
+	lousy 263
+	mushy 9
+	dusty 3
+	dusky 1
+	5
+teddy
+	crane
+	sleet 127
+	depth 11
+	teddy 2
+	4
+goose
+	crane
+	stole 102
+	goose 3
+	3
+rural
+	crane
+	ratio 64
+	rural 2
+	3
+steal
+	crane
+	steal 46
+	2
+lodge
+	crane
+	stole 102
+	lodge 2
+	3
+vying
+	crane
+	stung 58
+	doing 7
+	lying 3
+	vying 1
+	5
+fight
+	crane
+	lousy 263
+	fight 12
+	3
+agony
+	crane
+	taint 20
+	among 3
+	agony 1
+	4
+storm
+	crane
+	torus 90
+	storm 5
+	3
+ranch
+	crane
+	ranch 2
+	2
+tibia
+	crane
+	salty 133
+	audit 8
+	tibia 1
+	4
+grave
+	crane
+	grade 13
+	grate 4
+	grave 3
+	4
+tread
+	crane
+	tread 9
+	2
+agile
+	crane
+	aisle 49
+	agile 1
+	3
+dicey
+	crane
+	leech 20
+	dicey 3
+	3
+spice
+	crane
+	spice 9
+	2
+ditty
+	crane
+	lousy 263
+	ditty 15
+	3
+rocky
+	crane
+	scrub 11
+	rocky 2
+	3
+bleak
+	crane
+	steal 46
+	gleam 3
+	bleak 2
+	4
+wrist
+	crane
+	droit 51
+	wrist 1
+	3
+wooer
+	crane
+	reset 122
+	lover 34
+	mower 8
+	wooer 1
+	5
+binge
+	crane
+	snide 21
+	binge 3
+	3
+sully
+	crane
+	lousy 263
+	sully 2
+	3
+wince
+	crane
+	niece 11
+	wince 3
+	3
+magma
+	crane
+	salty 133
+	mamma 9
+	magma 1
+	4
+gecko
+	crane
+	leech 20
+	decoy 3
+	gecko 1
+	4
+awful
+	crane
+	salty 133
+	afoul 12
+	awful 1
+	4
+ninny
+	crane
+	stung 58
+	downy 7
+	ninny 1
+	4
+belle
+	crane
+	stole 102
+	exile 6
+	belle 1
+	4
+risen
+	crane
+	inter 27
+	risen 3
+	3
+aback
+	crane
+	scalp 13
+	whack 3
+	quack 2
+	aback 1
+	5
+paint
+	crane
+	taint 20
+	saint 3
+	paint 2
+	4
+crush
+	crane
+	crisp 13
+	crush 3
+	3
+havoc
+	crane
+	latch 27
+	havoc 2
+	3
+tamer
+	crane
+	later 50
+	tamer 3
+	3
+fever
+	crane
+	reset 122
+	fever 5
+	3
+piano
+	crane
+	stank 16
+	gland 3
+	piano 1
+	4
+surly
+	crane
+	torus 90
+	surly 1
+	3
+siren
+	crane
+	inter 27
+	risen 3
+	siren 1
+	4
+elder
+	crane
+	reset 122
+	elder 3
+	3
+safer
+	crane
+	later 50
+	wager 14
+	parer 7
+	baker 3
+	safer 1
+	6
+dummy
+	crane
+	lousy 263
+	dumpy 14
+	dummy 1
+	4
+caddy
+	crane
+	cacti 13
+	cabal 4
+	caddy 1
+	4
+badge
+	crane
+	aisle 49
+	gauze 10
+	badge 1
+	4
+stage
+	crane
+	slate 43
+	stave 3
+	stage 2
+	4
+ovoid
+	crane
+	lousy 263
+	bigot 10
+	ovoid 1
+	4
+ralph
+	crane
+	ratio 64
+	ralph 5
+	3
+curio
+	crane
+	court 9
+	curio 1
+	3
+chard
+	crane
+	chard 4
+	2
+mange
+	crane
+	mange 6
+	2
+width
+	crane
+	lousy 263
+	fight 12
+	width 1
+	4
+uncle
+	crane
+	niece 11
+	uncle 1
+	3
+duvet
+	crane
+	sleet 127
+	quiet 2
+	duvet 1
+	4
+opium
+	crane
+	lousy 263
+	outgo 8
+	opium 1
+	4
+churn
+	crane
+	churn 1
+	2
+angst
+	crane
+	talon 47
+	aunty 3
+	angst 1
+	4
+cramp
+	crane
+	crass 7
+	cramp 5
+	3
+frock
+	crane
+	trick 5
+	frock 1
+	3
+welch
+	crane
+	leech 20
+	welch 2
+	3
+admin
+	crane
+	talon 47
+	human 3
+	admin 1
+	4
+skulk
+	crane
+	lousy 263
+	skulk 3
+	3
+filer
+	crane
+	reset 122
+	lover 34
+	flier 6
+	filer 1
+	5
+derby
+	crane
+	reset 122
+	berry 11
+	derby 1
+	4
+bitty
+	crane
+	lousy 263
+	ditty 15
+	bitty 3
+	4
+twang
+	crane
+	stank 16
+	twang 3
+	3
+whiff
+	crane
+	lousy 263
+	fight 12
+	whiff 1
+	4
+freer
+	crane
+	freed 22
+	freer 1
+	3
+drift
+	crane
+	droit 51
+	drift 1
+	3
+earth
+	crane
+	later 50
+	earth 1
+	3
+froth
+	crane
+	droit 51
+	froth 4
+	3
+curse
+	crane
+	curse 3
+	2
+gauge
+	crane
+	aisle 49
+	gauge 10
+	3
+flail
+	crane
+	shalt 49
+	flail 8
+	3
+nicer
+	crane
+	nicer 1
+	2
+spool
+	crane
+	lousy 263
+	spoil 5
+	spool 1
+	4
+truth
+	crane
+	droit 51
+	truly 4
+	truth 3
+	4
+toxin
+	crane
+	unity 55
+	toxin 2
+	3
+mount
+	crane
+	stung 58
+	blunt 2
+	mount 1
+	4
+blood
+	crane
+	lousy 263
+	bloom 6
+	blood 1
+	4
+libel
+	crane
+	sleet 127
+	bowel 9
+	libel 1
+	4
+finer
+	crane
+	inter 27
+	liner 4
+	finer 3
+	4
+swoop
+	crane
+	lousy 263
+	stomp 8
+	swoop 1
+	4
+bluer
+	crane
+	reset 122
+	lover 34
+	flier 6
+	bluer 1
+	5
+pinky
+	crane
+	unity 55
+	dingy 4
+	pinky 2
+	4
+boule
+	crane
+	stole 102
+	boule 1
+	3
+dealt
+	crane
+	dealt 18
+	2
+write
+	crane
+	trope 26
+	write 2
+	3
+steed
+	crane
+	sleet 127
+	steed 2
+	3
+wedge
+	crane
+	stole 102
+	imbue 13
+	hedge 2
+	wedge 1
+	5
+wrath
+	crane
+	graft 22
+	wrath 5
+	3
+vague
+	crane
+	aisle 49
+	gauze 10
+	vague 1
+	4
+wheel
+	crane
+	sleet 127
+	wheel 1
+	3
+begin
+	crane
+	olden 58
+	stein 4
+	begin 1
+	4
+pilot
+	crane
+	lousy 263
+	bloom 6
+	pilot 1
+	4
+handy
+	crane
+	talon 47
+	sandy 7
+	handy 2
+	4
+usurp
+	crane
+	torus 90
+	usurp 2
+	3
+foamy
+	crane
+	shalt 49
+	guava 2
+	foamy 1
+	4
+dilly
+	crane
+	lousy 263
+	filmy 9
+	billy 4
+	willy 3
+	dilly 2
+	6
+annoy
+	crane
+	talon 47
+	annoy 1
+	3
+verve
+	crane
+	reuse 39
+	verge 4
+	verve 1
+	4
+split
+	crane
+	lousy 263
+	split 7
+	3
+rumba
+	crane
+	ratio 64
+	rural 2
+	rumba 1
+	4
+weird
+	crane
+	reset 122
+	berry 11
+	weird 1
+	4
+creme
+	crane
+	creme 4
+	2
+forge
+	crane
+	reuse 39
+	forge 6
+	3
+swami
+	crane
+	shalt 49
+	swamp 4
+	swami 1
+	4
+roost
+	crane
+	torus 90
+	roost 1
+	3
+femur
+	crane
+	reset 122
+	berry 11
+	lemur 3
+	demur 2
+	femur 1
+	6
+below
+	crane
+	sleet 127
+	belly 7
+	below 1
+	4
+purer
+	crane
+	reset 122
+	lover 34
+	upper 9
+	purer 1
+	5
+stamp
+	crane
+	shalt 49
+	stamp 3
+	3
+unite
+	crane
+	snide 21
+	unite 2
+	3
+foist
+	crane
+	lousy 263
+	joist 5
+	hoist 3
+	foist 2
+	5
+wheat
+	crane
+	steal 46
+	wheat 2
+	3
+cleft
+	crane
+	cleft 11
+	2
+beast
+	crane
+	dealt 18
+	yeast 3
+	beast 2
+	4
+pulse
+	crane
+	stole 102
+	pulse 1
+	3
+viola
+	crane
+	salty 133
+	afoul 12
+	viola 1
+	4
+vegan
+	crane
+	laden 21
+	vegan 2
+	3
+beefy
+	crane
+	sleet 127
+	geeky 3
+	beefy 2
+	4
+risky
+	crane
+	torus 90
+	shirk 4
+	risky 1
+	4
+suave
+	crane
+	slate 43
+	spade 7
+	shave 4
+	suave 1
+	5
+donut
+	crane
+	unity 55
+	donut 1
+	3
+prime
+	crane
+	trope 26
+	prude 4
+	prime 2
+	4
+blitz
+	crane
+	lousy 263
+	blitz 4
+	3
+faith
+	crane
+	salty 133
+	faith 1
+	3
+feign
+	crane
+	olden 58
+	stein 4
+	feign 1
+	4
+ruddy
+	crane
+	torus 90
+	blurb 4
+	ruddy 1
+	4
+until
+	crane
+	unity 55
+	until 3
+	3
+micro
+	crane
+	scrub 11
+	rocky 2
+	micro 1
+	4
+mushy
+	crane
+	lousy 263
+	mushy 9
+	3
+morph
+	crane
+	torus 90
+	wordy 6
+	morph 2
+	4
+prick
+	crane
+	trick 5
+	prick 2
+	3
+uncut
+	crane
+	punch 17
+	uncut 1
+	3
+wrack
+	crane
+	wrack 3
+	2
+amply
+	crane
+	salty 133
+	apply 2
+	amply 1
+	4
+shell
+	crane
+	sleet 127
+	spell 5
+	shell 3
+	4
+inert
+	crane
+	inter 27
+	inert 1
+	3
+prize
+	crane
+	tripe 26
+	prime 3
+	prize 2
+	4
+begat
+	crane
+	steal 46
+	begat 1
+	3
+judge
+	crane
+	stole 102
+	imbue 13
+	fudge 2
+	judge 1
+	5
+whose
+	crane
+	stole 102
+	goose 3
+	whose 1
+	4
+drink
+	crane
+	grind 17
+	drink 1
+	3
+talon
+	crane
+	talon 47
+	2
+nosey
+	crane
+	olden 58
+	boney 4
+	nosey 1
+	4
+trash
+	crane
+	graft 22
+	wrath 5
+	trash 1
+	4
+plant
+	crane
+	stank 16
+	twang 3
+	plant 1
+	4
+brain
+	crane
+	drain 7
+	brain 3
+	3
+youth
+	crane
+	lousy 263
+	youth 1
+	3
+relic
+	crane
+	recut 10
+	relic 1
+	3
+alive
+	crane
+	aisle 49
+	alive 2
+	3
+frisk
+	crane
+	droit 51
+	frisk 8
+	3
+heard
+	crane
+	ready 9
+	heard 2
+	3
+tulip
+	crane
+	lousy 263
+	guilt 8
+	tulip 1
+	4
+worry
+	crane
+	torus 90
+	wordy 6
+	worry 1
+	4
+loser
+	crane
+	reset 122
+	wiser 4
+	loser 2
+	4
+brunt
+	crane
+	grind 17
+	front 3
+	brunt 1
+	4
+widen
+	crane
+	olden 58
+	widen 1
+	3
+album
+	crane
+	salty 133
+	afoul 12
+	album 1
+	4
+baler
+	crane
+	later 50
+	baler 2
+	3
+lapel
+	crane
+	steal 46
+	label 5
+	lapel 1
+	4
+idler
+	crane
+	reset 122
+	lover 34
+	flier 6
+	idler 1
+	5
+token
+	crane
+	olden 58
+	token 4
+	3
+ruder
+	crane
+	reset 122
+	rider 9
+	ruder 1
+	4
+spelt
+	crane
+	sleet 127
+	spelt 2
+	3
+ember
+	crane
+	reset 122
+	elder 3
+	ember 1
+	4
+chunk
+	crane
+	clink 5
+	chunk 1
+	3
+manga
+	crane
+	talon 47
+	sandy 7
+	mania 2
+	manga 1
+	5
+cameo
+	crane
+	cleat 7
+	cagey 2
+	cameo 1
+	4
+gamma
+	crane
+	salty 133
+	mamma 9
+	gamma 1
+	4
+couch
+	crane
+	couch 25
+	2
+owing
+	crane
+	stung 58
+	doing 7
+	owing 1
+	4
+crisp
+	crane
+	crisp 13
+	2
+flout
+	crane
+	lousy 263
+	flout 2
+	3
+joust
+	crane
+	lousy 263
+	joust 1
+	3
+flaky
+	crane
+	shalt 49
+	flail 8
+	flaky 1
+	4
+nymph
+	crane
+	unity 55
+	nylon 3
+	nymph 1
+	4
+prose
+	crane
+	trope 26
+	prose 3
+	3
+saute
+	crane
+	aisle 49
+	saute 2
+	3
+fixer
+	crane
+	reset 122
+	lover 34
+	upper 9
+	fixer 3
+	5
+rigor
+	crane
+	torus 90
+	ivory 7
+	rigor 1
+	4
+flute
+	crane
+	stole 102
+	tilde 4
+	flute 1
+	4
+woken
+	crane
+	olden 58
+	token 4
+	woken 1
+	4
+cried
+	crane
+	creed 10
+	cried 1
+	3
+tweed
+	crane
+	sleet 127
+	tweed 1
+	3
+rebus
+	crane
+	reset 122
+	rebus 1
+	3
+flank
+	crane
+	stank 16
+	plank 3
+	blank 2
+	flank 1
+	5
+react
+	crane
+	reach 2
+	react 1
+	3
+stunt
+	crane
+	stung 58
+	stunk 2
+	stunt 1
+	4
+hymen
+	crane
+	olden 58
+	seven 7
+	hymen 1
+	4
+viral
+	crane
+	ratio 64
+	viral 1
+	3
+budge
+	crane
+	stole 102
+	imbue 13
+	budge 1
+	4
+inane
+	crane
+	plane 2
+	inane 1
+	3
+regal
+	crane
+	later 50
+	relax 4
+	regal 1
+	4
+torso
+	crane
+	torus 90
+	torso 1
+	3
+mouth
+	crane
+	lousy 263
+	bough 5
+	mouth 1
+	4
+koala
+	crane
+	shalt 49
+	koala 2
+	3
+moron
+	crane
+	thorn 13
+	robin 2
+	moron 1
+	4
+serum
+	crane
+	reset 122
+	serum 3
+	3
+crime
+	crane
+	creme 4
+	crime 1
+	3
+scary
+	crane
+	scary 3
+	2
+creep
+	crane
+	creed 10
+	creep 2
+	3
+store
+	crane
+	reuse 39
+	spire 6
+	store 3
+	4
+dwell
+	crane
+	sleet 127
+	dwell 6
+	3
+state
+	crane
+	slate 43
+	skate 2
+	state 1
+	4
+brash
+	crane
+	graft 22
+	drawl 7
+	brash 3
+	4
+tonal
+	crane
+	talon 47
+	tonal 1
+	3
+pizza
+	crane
+	salty 133
+	audio 8
+	pizza 1
+	4
+steep
+	crane
+	sleet 127
+	steed 2
+	steep 1
+	4
+style
+	crane
+	stole 102
+	style 1
+	3
+trial
+	crane
+	arbor 12
+	trial 2
+	3
+about
+	crane
+	salty 133
+	audit 8
+	about 1
+	4
+pause
+	crane
+	aisle 49
+	saute 2
+	pause 1
+	4
+peach
+	crane
+	peach 5
+	2
+igloo
+	crane
+	lousy 263
+	bloom 6
+	igloo 1
+	4
+rebar
+	crane
+	later 50
+	smear 6
+	rebar 2
+	4
+hound
+	crane
+	stung 58
+	flunk 8
+	mound 5
+	hound 4
+	5
+heavy
+	crane
+	dealt 18
+	heavy 1
+	3
+quite
+	crane
+	stole 102
+	white 7
+	quite 1
+	4
+stoke
+	crane
+	stole 102
+	stoke 2
+	3
+erase
+	crane
+	grade 13
+	brave 5
+	erase 3
+	4
+etude
+	crane
+	stole 102
+	etude 1
+	3
+semen
+	crane
+	olden 58
+	seven 7
+	semen 1
+	4
+icily
+	crane
+	stuck 55
+	icily 3
+	3
+paper
+	crane
+	later 50
+	wager 14
+	parer 7
+	paper 2
+	5
+flare
+	crane
+	glare 7
+	blare 2
+	flare 1
+	4
+never
+	crane
+	inter 27
+	owner 4
+	never 1
+	4
+sedan
+	crane
+	laden 21
+	sedan 1
+	3
+scone
+	crane
+	scone 2
+	2
+spark
+	crane
+	shard 24
+	stark 5
+	spark 1
+	4
+hunky
+	crane
+	unity 55
+	funky 2
+	hunky 1
+	4
+count
+	crane
+	clink 5
+	count 1
+	3
+sheet
+	crane
+	sleet 127
+	sheet 2
+	3
+vouch
+	crane
+	stuck 55
+	pouch 2
+	vouch 1
+	4
+shiny
+	crane
+	stung 58
+	spiny 3
+	shiny 1
+	4
+splat
+	crane
+	salty 133
+	splat 1
+	3
+vogue
+	crane
+	stole 102
+	vogue 5
+	3
+candy
+	crane
+	candy 4
+	2
+eerie
+	crane
+	reuse 39
+	verge 4
+	eerie 1
+	4
+occur
+	crane
+	scrub 11
+	occur 1
+	3
+brave
+	crane
+	grade 13
+	brave 5
+	3
+grace
+	crane
+	brace 3
+	trace 2
+	grace 1
+	4
+bugle
+	crane
+	stole 102
+	guile 6
+	bugle 1
+	4
+dingo
+	crane
+	unity 55
+	bison 6
+	dingo 2
+	4
+white
+	crane
+	stole 102
+	white 7
+	3
+pouty
+	crane
+	lousy 263
+	pouty 1
+	3
+staff
+	crane
+	shalt 49
+	stamp 3
+	staff 2
+	4
+sunny
+	crane
+	stung 58
+	sunny 1
+	3
+smirk
+	crane
+	torus 90
+	shirk 4
+	smirk 1
+	4
+dairy
+	crane
+	ratio 64
+	dairy 3
+	3
+sharp
+	crane
+	shard 24
+	shark 2
+	sharp 1
+	4
+swish
+	crane
+	lousy 263
+	swish 4
+	3
+share
+	crane
+	glare 7
+	stare 4
+	spare 2
+	share 1
+	5
+woven
+	crane
+	olden 58
+	token 4
+	woven 2
+	4
+triad
+	crane
+	arbor 12
+	trial 2
+	triad 1
+	4
+honey
+	crane
+	olden 58
+	boney 4
+	honey 2
+	4
+prong
+	crane
+	grind 17
+	prong 3
+	3
+finch
+	crane
+	punch 17
+	finch 2
+	3
+ratio
+	crane
+	ratio 64
+	2
+skimp
+	crane
+	lousy 263
+	shift 9
+	skimp 1
+	4
+terra
+	crane
+	later 50
+	terra 2
+	3
+erode
+	crane
+	trope 26
+	drove 5
+	erode 1
+	4
+sinew
+	crane
+	olden 58
+	sinew 5
+	3
+score
+	crane
+	score 3
+	2
+genie
+	crane
+	snide 21
+	binge 3
+	genie 1
+	4
+treat
+	crane
+	tread 9
+	treat 1
+	3
+third
+	crane
+	torus 90
+	third 2
+	3
+flash
+	crane
+	shalt 49
+	flash 1
+	3
+heart
+	crane
+	ready 9
+	heart 2
+	3
+found
+	crane
+	stung 58
+	flunk 8
+	found 1
+	4
+bound
+	crane
+	stung 58
+	flunk 8
+	mound 5
+	hound 4
+	bound 3
+	6
+petal
+	crane
+	steal 46
+	metal 3
+	petal 2
+	4
+clang
+	crane
+	clang 3
+	2
+freed
+	crane
+	freed 22
+	2
+armor
+	crane
+	arbor 12
+	armor 2
+	3
+murky
+	crane
+	torus 90
+	hurry 5
+	murky 2
+	4
+bread
+	crane
+	tread 9
+	bread 2
+	3
+midst
+	crane
+	lousy 263
+	swish 4
+	midst 1
+	4
+plaza
+	crane
+	shalt 49
+	flail 8
+	plaza 1
+	4
+wimpy
+	crane
+	lousy 263
+	ditty 15
+	wimpy 5
+	4
+quart
+	crane
+	shard 24
+	apart 6
+	quart 1
+	4
+vital
+	crane
+	salty 133
+	bloat 10
+	vital 2
+	4
+nurse
+	crane
+	nurse 5
+	2
+blond
+	crane
+	stung 58
+	downy 7
+	blond 1
+	4
+pluck
+	crane
+	stuck 55
+	pluck 1
+	3
+woman
+	crane
+	talon 47
+	woman 1
+	3
+track
+	crane
+	wrack 3
+	track 1
+	3
+howdy
+	crane
+	lousy 263
+	goody 16
+	howdy 3
+	4
+index
+	crane
+	olden 58
+	index 1
+	3
+marsh
+	crane
+	ratio 64
+	harpy 10
+	marsh 1
+	4
+daisy
+	crane
+	salty 133
+	daisy 2
+	3
+noise
+	crane
+	snide 21
+	noise 1
+	3
+point
+	crane
+	stung 58
+	point 4
+	3
+kiosk
+	crane
+	lousy 263
+	kiosk 2
+	3
+ingot
+	crane
+	unity 55
+	ingot 1
+	3
+modem
+	crane
+	sleet 127
+	video 4
+	modem 1
+	4
+twirl
+	crane
+	torus 90
+	third 2
+	twirl 1
+	4
+navel
+	crane
+	laden 21
+	panel 2
+	navel 1
+	4
+demon
+	crane
+	olden 58
+	demon 1
+	3
+avoid
+	crane
+	salty 133
+	audio 8
+	avoid 1
+	4
+penny
+	crane
+	eying 10
+	penny 1
+	3
+relax
+	crane
+	later 50
+	relax 4
+	3
+plumb
+	crane
+	lousy 263
+	bluff 5
+	plumb 1
+	4
+above
+	crane
+	aisle 49
+	above 4
+	3
+noose
+	crane
+	snide 21
+	tense 2
+	noose 1
+	4
+power
+	crane
+	reset 122
+	lover 34
+	mower 8
+	power 1
+	5
+sheen
+	crane
+	olden 58
+	seven 7
+	sheen 1
+	4
+thrum
+	crane
+	torus 90
+	thrum 1
+	3
+credo
+	crane
+	creed 10
+	credo 1
+	3
+crook
+	crane
+	crisp 13
+	crock 4
+	crook 1
+	4
+eager
+	crane
+	later 50
+	wager 14
+	eager 1
+	4
+gaudy
+	crane
+	salty 133
+	gaudy 9
+	3
+sniff
+	crane
+	unity 55
+	sniff 2
+	3
+stark
+	crane
+	shard 24
+	stark 5
+	3
+vigor
+	crane
+	torus 90
+	ivory 7
+	vigor 1
+	4
+hairy
+	crane
+	ratio 64
+	dairy 3
+	hairy 2
+	4
+maxim
+	crane
+	salty 133
+	mamma 9
+	maxim 1
+	4
+brawn
+	crane
+	drain 7
+	brawn 2
+	3
+tepee
+	crane
+	stole 102
+	white 7
+	tepee 1
+	4
+broke
+	crane
+	trope 26
+	drove 5
+	broke 2
+	4
+blaze
+	crane
+	slate 43
+	blaze 7
+	3
+slang
+	crane
+	stank 16
+	slang 1
+	3
+enema
+	crane
+	laden 21
+	enema 2
+	3
+pedal
+	crane
+	steal 46
+	medal 4
+	pedal 1
+	4
+boast
+	crane
+	shalt 49
+	boast 2
+	3
+alibi
+	crane
+	salty 133
+	afoul 12
+	alibi 2
+	4
+quirk
+	crane
+	torus 90
+	blurb 4
+	quirk 1
+	4
+foyer
+	crane
+	reset 122
+	lover 34
+	mower 8
+	poker 4
+	foyer 2
+	6
+alley
+	crane
+	steal 46
+	alley 3
+	3
+minor
+	crane
+	thorn 13
+	minor 2
+	3
+bless
+	crane
+	sleet 127
+	flesh 2
+	bless 1
+	4
+miner
+	crane
+	inter 27
+	liner 4
+	finer 3
+	miner 2
+	5
+plied
+	crane
+	sleet 127
+	plied 1
+	3
+grope
+	crane
+	trope 26
+	grope 1
+	3
+humid
+	crane
+	lousy 263
+	humid 2
+	3
+newly
+	crane
+	olden 58
+	newly 2
+	3
+banjo
+	crane
+	talon 47
+	banjo 2
+	3
+craft
+	crane
+	crass 7
+	cramp 5
+	craft 4
+	4
+surge
+	crane
+	reuse 39
+	surge 1
+	3
+clock
+	crane
+	couch 25
+	clock 1
+	3
+creek
+	crane
+	creed 10
+	creep 2
+	creek 1
+	4
+lilac
+	crane
+	latch 27
+	local 2
+	lilac 1
+	4
+juror
+	crane
+	torus 90
+	juror 2
+	3
+labor
+	crane
+	ratio 64
+	valor 7
+	labor 1
+	4
+paler
+	crane
+	later 50
+	baler 2
+	paler 1
+	4
+mince
+	crane
+	niece 11
+	wince 3
+	mince 2
+	4
+fifth
+	crane
+	lousy 263
+	fight 12
+	fifth 1
+	4
+charm
+	crane
+	chard 4
+	charm 2
+	3
+thong
+	crane
+	stung 58
+	thing 3
+	thong 1
+	4
+dowel
+	crane
+	sleet 127
+	bowel 9
+	dowel 2
+	4
+arise
+	crane
+	arose 3
+	arise 1
+	3
+onion
+	crane
+	unity 55
+	sniff 2
+	onion 1
+	4
+fishy
+	crane
+	lousy 263
+	fishy 4
+	3
+unity
+	crane
+	unity 55
+	2
+voila
+	crane
+	salty 133
+	afoul 12
+	voila 1
+	4
+oxide
+	crane
+	stole 102
+	gouge 5
+	oxide 1
+	4
+rajah
+	crane
+	ratio 64
+	ralph 5
+	rajah 1
+	4
+breed
+	crane
+	freed 22
+	breed 2
+	3
+stuck
+	crane
+	stuck 55
+	2
+leant
+	crane
+	leant 2
+	2
+pinch
+	crane
+	punch 17
+	pinch 1
+	3
+think
+	crane
+	stung 58
+	point 4
+	think 1
+	4
+fairy
+	crane
+	ratio 64
+	dairy 3
+	hairy 2
+	fairy 1
+	5
+whine
+	crane
+	shone 12
+	whine 1
+	3
+crepe
+	crane
+	creme 4
+	crepe 1
+	3
+rearm
+	crane
+	ready 9
+	rearm 2
+	3
+eclat
+	crane
+	decal 6
+	eclat 1
+	3
+dense
+	crane
+	snide 21
+	dense 1
+	3
+scoff
+	crane
+	stuck 55
+	scold 4
+	scoff 2
+	4
+flume
+	crane
+	stole 102
+	glide 13
+	plume 3
+	flume 1
+	5
+sushi
+	crane
+	lousy 263
+	sushi 2
+	3
+fussy
+	crane
+	lousy 263
+	fussy 2
+	3
+beach
+	crane
+	peach 5
+	beach 3
+	3
+steam
+	crane
+	steal 46
+	stead 3
+	steam 2
+	4
+north
+	crane
+	thorn 13
+	north 1
+	3
+lathe
+	crane
+	aisle 49
+	halve 5
+	lathe 1
+	4
+avail
+	crane
+	shalt 49
+	flail 8
+	avail 2
+	4
+idyll
+	crane
+	lousy 263
+	idyll 2
+	3
+shrub
+	crane
+	torus 90
+	shrub 3
+	3
+dopey
+	crane
+	sleet 127
+	video 4
+	dopey 1
+	4
+flake
+	crane
+	slate 43
+	blaze 7
+	flake 3
+	4
+laugh
+	crane
+	salty 133
+	laugh 2
+	3
+coach
+	crane
+	chasm 13
+	coach 1
+	3
+newer
+	crane
+	inter 27
+	owner 4
+	newer 1
+	4
+avert
+	crane
+	later 50
+	terra 2
+	avert 1
+	4
+bossy
+	crane
+	lousy 263
+	mossy 2
+	bossy 1
+	4
+snarl
+	crane
+	snarl 1
+	2
+crust
+	crane
+	crisp 13
+	crush 3
+	crust 1
+	4
+fritz
+	crane
+	droit 51
+	fritz 1
+	3
+venom
+	crane
+	olden 58
+	envoy 3
+	venom 1
+	4
+stern
+	crane
+	inter 27
+	stern 1
+	3
+salty
+	crane
+	salty 133
+	2
+posse
+	crane
+	stole 102
+	mouse 5
+	poise 2
+	posse 1
+	5
+guilt
+	crane
+	lousy 263
+	guilt 8
+	3
+jolly
+	crane
+	lousy 263
+	dolly 9
+	holly 4
+	jolly 3
+	5
+knack
+	crane
+	knack 2
+	2
+whelp
+	crane
+	sleet 127
+	dwell 6
+	whelp 1
+	4
+pixie
+	crane
+	stole 102
+	imbue 13
+	pixie 1
+	4
+borax
+	crane
+	ratio 64
+	solar 8
+	borax 2
+	4
+datum
+	crane
+	salty 133
+	patio 5
+	datum 1
+	4
+atone
+	crane
+	atone 2
+	2
+bawdy
+	crane
+	salty 133
+	gaudy 9
+	daddy 3
+	bawdy 1
+	5
+bayou
+	crane
+	salty 133
+	bayou 2
+	3
+short
+	crane
+	torus 90
+	storm 5
+	short 2
+	4
+covet
+	crane
+	cleft 11
+	comet 2
+	covet 1
+	4
+rival
+	crane
+	ratio 64
+	rival 1
+	3
+sixty
+	crane
+	lousy 263
+	wispy 4
+	sixty 1
+	4
+knead
+	crane
+	laden 21
+	knead 1
+	3
+ensue
+	crane
+	snide 21
+	ensue 1
+	3
+trump
+	crane
+	droit 51
+	truly 4
+	truth 3
+	trump 2
+	5
+burst
+	crane
+	torus 90
+	burst 1
+	3
+tatty
+	crane
+	salty 133
+	fatty 4
+	tatty 3
+	4
+strap
+	crane
+	ratio 64
+	stray 3
+	strap 2
+	4
+proof
+	crane
+	droit 51
+	proof 9
+	3
+image
+	crane
+	slate 43
+	adage 9
+	image 1
+	4
+dough
+	crane
+	lousy 263
+	bough 5
+	dough 2
+	4
+junto
+	crane
+	unity 55
+	junto 1
+	3
+rouse
+	crane
+	terse 39
+	rouse 1
+	3
+award
+	crane
+	shard 24
+	board 3
+	award 2
+	4
+troll
+	crane
+	droit 51
+	froth 4
+	troll 2
+	4
+gamer
+	crane
+	later 50
+	wager 14
+	gamer 3
+	4
+sheer
+	crane
+	reset 122
+	sheer 1
+	3
+eying
+	crane
+	eying 10
+	2
+tasty
+	crane
+	salty 133
+	pasty 3
+	tasty 2
+	4
+fiber
+	crane
+	reset 122
+	lover 34
+	upper 9
+	fixer 3
+	fiber 1
+	6
+after
+	crane
+	later 50
+	after 1
+	3
+afoot
+	crane
+	salty 133
+	audit 8
+	afoot 2
+	4
+clank
+	crane
+	clang 3
+	clank 1
+	3
+smote
+	crane
+	stole 102
+	smote 1
+	3
+harsh
+	crane
+	ratio 64
+	harpy 10
+	harsh 1
+	4
+pecan
+	crane
+	pecan 2
+	2
+lucky
+	crane
+	stuck 55
+	lucky 2
+	3
+smell
+	crane
+	sleet 127
+	spell 5
+	shell 3
+	smell 2
+	5
+cocoa
+	crane
+	cacti 13
+	cocoa 1
+	3
+conic
+	crane
+	conch 8
+	conic 1
+	3
+angry
+	crane
+	rayon 10
+	angry 1
+	3
+cliff
+	crane
+	couch 25
+	cliff 3
+	3
+crawl
+	crane
+	crass 7
+	cramp 5
+	craft 4
+	crawl 3
+	5
+ionic
+	crane
+	punch 17
+	tonic 3
+	ionic 2
+	4
+virus
+	crane
+	torus 90
+	virus 1
+	3
+rainy
+	crane
+	rainy 1
+	2
+nasty
+	crane
+	talon 47
+	nasty 1
+	3
+sweet
+	crane
+	sleet 127
+	sheet 2
+	sweet 1
+	4
+growl
+	crane
+	droit 51
+	proof 9
+	growl 2
+	4
+taker
+	crane
+	later 50
+	tamer 3
+	taker 2
+	4
+merge
+	crane
+	terse 39
+	verge 4
+	merge 1
+	4
+cache
+	crane
+	caste 4
+	cache 2
+	3
+minus
+	crane
+	unity 55
+	fungi 2
+	minus 1
+	4
+beech
+	crane
+	leech 20
+	beech 1
+	3
+midge
+	crane
+	stole 102
+	imbue 13
+	midge 1
+	4
+parse
+	crane
+	large 8
+	parse 1
+	3
+fauna
+	crane
+	taint 20
+	fauna 4
+	3
+offer
+	crane
+	reset 122
+	lover 34
+	offer 2
+	4
+scree
+	crane
+	score 3
+	scree 1
+	3
+vapor
+	crane
+	ratio 64
+	valor 7
+	vapor 1
+	4
+resin
+	crane
+	inter 27
+	resin 2
+	3
+junta
+	crane
+	talon 47
+	aunty 3
+	junta 1
+	4
+prism
+	crane
+	droit 51
+	frisk 8
+	prism 1
+	4
+peril
+	crane
+	reset 122
+	berry 11
+	peril 1
+	4
+glaze
+	crane
+	slate 43
+	blaze 7
+	glaze 1
+	4
+dread
+	crane
+	tread 9
+	bread 2
+	dread 1
+	4
+slick
+	crane
+	stuck 55
+	smock 3
+	slick 1
+	4
+outgo
+	crane
+	lousy 263
+	outgo 8
+	3
+belch
+	crane
+	leech 20
+	welch 2
+	belch 1
+	4
+stand
+	crane
+	stank 16
+	stand 1
+	3
+tryst
+	crane
+	droit 51
+	tryst 2
+	3
+quill
+	crane
+	lousy 263
+	guilt 8
+	quill 2
+	4
+rugby
+	crane
+	torus 90
+	blurb 4
+	rugby 1
+	4
+slung
+	crane
+	stung 58
+	slung 2
+	3
+sonar
+	crane
+	rayon 10
+	sonar 1
+	3
+porch
+	crane
+	scrub 11
+	torch 3
+	porch 1
+	4
+brood
+	crane
+	droit 51
+	brood 2
+	3
+fanny
+	crane
+	taint 20
+	fanny 4
+	3
+stalk
+	crane
+	shalt 49
+	stalk 2
+	3
+badly
+	crane
+	salty 133
+	madly 5
+	badly 1
+	4
+crier
+	crane
+	creed 10
+	crier 2
+	3
+weigh
+	crane
+	sleet 127
+	equip 5
+	weigh 1
+	4
+opine
+	crane
+	shone 12
+	opine 2
+	3
+sissy
+	crane
+	lousy 263
+	missy 5
+	sissy 1
+	4
+panic
+	crane
+	manic 5
+	panic 1
+	3
+villa
+	crane
+	salty 133
+	villa 4
+	3
+still
+	crane
+	lousy 263
+	split 7
+	still 1
+	4
+crazy
+	crane
+	crass 7
+	cramp 5
+	craft 4
+	crawl 3
+	crazy 2
+	6
+often
+	crane
+	olden 58
+	often 1
+	3
+tonga
+	crane
+	talon 47
+	tonga 1
+	3
+eight
+	crane
+	sleet 127
+	debit 5
+	eight 1
+	4
+gooey
+	crane
+	sleet 127
+	video 4
+	gooey 1
+	4
+mammy
+	crane
+	salty 133
+	gaudy 9
+	mammy 3
+	4
+welsh
+	crane
+	sleet 127
+	welsh 1
+	3
+canal
+	crane
+	candy 4
+	canal 2
+	3
+flora
+	crane
+	ratio 64
+	solar 8
+	flora 1
+	4
+furry
+	crane
+	torus 90
+	hurry 5
+	furry 1
+	4
+shone
+	crane
+	shone 12
+	2
+sulky
+	crane
+	lousy 263
+	sulky 2
+	3
+fetal
+	crane
+	steal 46
+	metal 3
+	petal 2
+	fetal 1
+	5
+qualm
+	crane
+	shalt 49
+	koala 2
+	qualm 1
+	4
+heath
+	crane
+	dealt 18
+	heath 2
+	3
+train
+	crane
+	drain 7
+	brain 3
+	train 2
+	4
+light
+	crane
+	lousy 263
+	lipid 4
+	light 1
+	4
+lager
+	crane
+	later 50
+	layer 2
+	lager 1
+	4
+climb
+	crane
+	couch 25
+	cliff 3
+	climb 1
+	4
+adapt
+	crane
+	shalt 49
+	adapt 2
+	3
+black
+	crane
+	scalp 13
+	black 2
+	3
+sheik
+	crane
+	sleet 127
+	sheik 1
+	3
+vowel
+	crane
+	sleet 127
+	bowel 9
+	dowel 2
+	vowel 1
+	5
+spire
+	crane
+	terse 39
+	spire 5
+	3
+guppy
+	crane
+	lousy 263
+	dumpy 14
+	puppy 2
+	guppy 1
+	5
+stout
+	crane
+	lousy 263
+	shout 4
+	stout 2
+	4
+cheer
+	crane
+	cower 7
+	cyber 3
+	cheer 2
+	4
+heist
+	crane
+	sleet 127
+	exist 2
+	heist 1
+	4
+brown
+	crane
+	grown 5
+	brown 3
+	3
+felon
+	crane
+	olden 58
+	felon 3
+	3
+unset
+	crane
+	olden 58
+	sinew 5
+	unset 1
+	4
+slyly
+	crane
+	lousy 263
+	silly 5
+	slyly 1
+	4
+comic
+	crane
+	couch 25
+	comic 1
+	3
+dodge
+	crane
+	stole 102
+	gouge 5
+	dodge 1
+	4
+fault
+	crane
+	salty 133
+	fault 3
+	3
+ditch
+	crane
+	stuck 55
+	hitch 5
+	ditch 3
+	4
+broom
+	crane
+	droit 51
+	proof 9
+	broom 3
+	4
+ovine
+	crane
+	shone 12
+	opine 2
+	ovine 1
+	4
+munch
+	crane
+	punch 17
+	hunch 4
+	munch 3
+	4
+widow
+	crane
+	lousy 263
+	pivot 10
+	widow 1
+	4
+llama
+	crane
+	shalt 49
+	flail 8
+	llama 1
+	4
+wreck
+	crane
+	wreck 2
+	2
+scorn
+	crane
+	scorn 2
+	2
+novel
+	crane
+	olden 58
+	novel 1
+	3
+boozy
+	crane
+	lousy 263
+	goody 16
+	woozy 4
+	boozy 1
+	5
+story
+	crane
+	torus 90
+	storm 5
+	story 2
+	4
+prove
+	crane
+	trope 26
+	prose 3
+	prove 2
+	4
+purse
+	crane
+	reuse 39
+	purse 1
+	3
+spoof
+	crane
+	lousy 263
+	stomp 8
+	spook 2
+	spoof 1
+	5
+swoon
+	crane
+	unity 55
+	blown 6
+	swoon 1
+	4
+steel
+	crane
+	sleet 127
+	steel 1
+	3
+diner
+	crane
+	inter 27
+	liner 4
+	finer 3
+	miner 2
+	diner 1
+	6
+filly
+	crane
+	lousy 263
+	filmy 9
+	filly 1
+	4
+thumb
+	crane
+	lousy 263
+	thumb 2
+	3
+tweet
+	crane
+	sleet 127
+	tweet 1
+	3
+chide
+	crane
+	chose 11
+	chide 3
+	3
+prawn
+	crane
+	drain 7
+	brawn 2
+	prawn 1
+	4
+clung
+	crane
+	clink 5
+	clung 1
+	3
+flack
+	crane
+	scalp 13
+	black 2
+	flack 1
+	4
+first
+	crane
+	torus 90
+	strip 2
+	first 1
+	4
+fleck
+	crane
+	leech 20
+	fleck 1
+	3
+lunge
+	crane
+	snide 21
+	venue 3
+	lunge 1
+	4
+fried
+	crane
+	freed 22
+	fried 1
+	3
+taunt
+	crane
+	taint 20
+	taunt 1
+	3
+scant
+	crane
+	scant 1
+	2
+sense
+	crane
+	snide 21
+	sense 1
+	3
+swarm
+	crane
+	shard 24
+	stark 5
+	swarm 1
+	4
+aging
+	crane
+	taint 20
+	aging 2
+	3
+canny
+	crane
+	canny 2
+	2
+suing
+	crane
+	stung 58
+	suing 1
+	3
+wacky
+	crane
+	latch 27
+	macaw 4
+	wacky 1
+	4
+octal
+	crane
+	latch 27
+	octal 1
+	3
+optic
+	crane
+	stuck 55
+	topic 3
+	optic 1
+	4
+spank
+	crane
+	stank 16
+	spank 2
+	3
+wafer
+	crane
+	later 50
+	wager 14
+	waver 2
+	wafer 1
+	5
+gourd
+	crane
+	torus 90
+	rough 2
+	gourd 1
+	4
+biome
+	crane
+	stole 102
+	biome 4
+	3
+mulch
+	crane
+	stuck 55
+	mulch 3
+	3
+study
+	crane
+	lousy 263
+	study 1
+	3
+donor
+	crane
+	thorn 13
+	minor 2
+	donor 1
+	4
+jumbo
+	crane
+	lousy 263
+	outgo 8
+	jumbo 1
+	4
+basil
+	crane
+	salty 133
+	basil 3
+	3
+close
+	crane
+	chose 11
+	close 1
+	3
+timid
+	crane
+	lousy 263
+	fight 12
+	timid 1
+	4
+verge
+	crane
+	reuse 39
+	verge 4
+	3
+aglow
+	crane
+	salty 133
+	villa 4
+	aglow 1
+	4
+agate
+	crane
+	slate 43
+	abate 3
+	agate 1
+	4
+botch
+	crane
+	stuck 55
+	hitch 5
+	botch 1
+	4
+leper
+	crane
+	reset 122
+	fever 5
+	leper 1
+	4
+evict
+	crane
+	leech 20
+	edict 2
+	evict 1
+	4
+burly
+	crane
+	torus 90
+	hurry 5
+	murky 2
+	burly 1
+	5
+forgo
+	crane
+	torus 90
+	wordy 6
+	morph 2
+	forgo 1
+	5
+brass
+	crane
+	graft 22
+	drawl 7
+	brash 3
+	brass 1
+	5
+might
+	crane
+	lousy 263
+	fight 12
+	might 3
+	4
+kneed
+	crane
+	olden 58
+	unwed 3
+	kneed 1
+	4
+pried
+	crane
+	freed 22
+	tried 3
+	pried 2
+	4
+plain
+	crane
+	snail 8
+	plain 1
+	3
+antic
+	crane
+	manic 5
+	antic 1
+	3
+embed
+	crane
+	sleet 127
+	embed 1
+	3
+cubic
+	crane
+	couch 25
+	cubic 1
+	3
+solar
+	crane
+	ratio 64
+	solar 8
+	3
+hasty
+	crane
+	salty 133
+	pasty 3
+	tasty 2
+	hasty 1
+	5
+pupil
+	crane
+	lousy 263
+	guilt 8
+	pupil 1
+	4
+scarf
+	crane
+	scary 3
+	scarf 1
+	3
+await
+	crane
+	shalt 49
+	adapt 2
+	await 1
+	4
+horny
+	crane
+	round 4
+	horny 1
+	3
+lapse
+	crane
+	aisle 49
+	lapse 3
+	3
+humor
+	crane
+	torus 90
+	humor 2
+	3
+rerun
+	crane
+	inter 27
+	rerun 3
+	3
+enter
+	crane
+	inter 27
+	enter 1
+	3
+prior
+	crane
+	droit 51
+	prior 2
+	3
+would
+	crane
+	lousy 263
+	moult 2
+	would 1
+	4
+blind
+	crane
+	stung 58
+	downy 7
+	blind 1
+	4
+valet
+	crane
+	steal 46
+	valet 2
+	3
+repel
+	crane
+	reset 122
+	repel 4
+	3
+synod
+	crane
+	unity 55
+	nylon 3
+	synod 1
+	4
+wound
+	crane
+	stung 58
+	flunk 8
+	mound 5
+	hound 4
+	bound 3
+	pound 2
+	wound 1
+	8
+cause
+	crane
+	cause 4
+	2
+meaty
+	crane
+	dealt 18
+	heath 2
+	meaty 1
+	4
+maize
+	crane
+	aisle 49
+	waive 2
+	maize 1
+	4
+teach
+	crane
+	peach 5
+	beach 3
+	teach 2
+	4
+shire
+	crane
+	reuse 39
+	spire 6
+	shire 1
+	4
+bonus
+	crane
+	unity 55
+	bonus 1
+	3
+swell
+	crane
+	sleet 127
+	spell 5
+	shell 3
+	smell 2
+	swell 1
+	6
+quash
+	crane
+	shalt 49
+	awash 2
+	quash 1
+	4
+wager
+	crane
+	later 50
+	wager 14
+	3
+shaky
+	crane
+	shalt 49
+	shaky 2
+	3
+taint
+	crane
+	taint 20
+	2
+ethic
+	crane
+	leech 20
+	ethic 1
+	3
+bicep
+	crane
+	leech 20
+	dicey 3
+	bicep 1
+	4
+trunk
+	crane
+	grind 17
+	front 3
+	trunk 1
+	4
+glint
+	crane
+	stung 58
+	glint 1
+	3
+valor
+	crane
+	ratio 64
+	valor 7
+	3
+gloat
+	crane
+	salty 133
+	bloat 10
+	gloat 2
+	4
+aptly
+	crane
+	salty 133
+	aptly 1
+	3
+chart
+	crane
+	chard 4
+	charm 2
+	chart 1
+	4
+email
+	crane
+	dealt 18
+	email 1
+	3
+title
+	crane
+	stole 102
+	title 2
+	3
+tying
+	crane
+	stung 58
+	thing 3
+	tying 1
+	4
+primo
+	crane
+	droit 51
+	prior 2
+	primo 1
+	4
+drool
+	crane
+	droit 51
+	drool 4
+	3
+fruit
+	crane
+	droit 51
+	fruit 1
+	3
+thorn
+	crane
+	thorn 13
+	2
+built
+	crane
+	lousy 263
+	quilt 8
+	guilt 2
+	built 1
+	5
+smart
+	crane
+	shard 24
+	stark 5
+	smart 1
+	4
+rouge
+	crane
+	reuse 39
+	route 2
+	rouge 1
+	4
+coast
+	crane
+	chasm 13
+	class 3
+	coast 1
+	4
+scrum
+	crane
+	scrub 11
+	scrum 1
+	3
+hinge
+	crane
+	snide 21
+	binge 3
+	hinge 1
+	4
+butch
+	crane
+	stuck 55
+	dutch 3
+	butch 2
+	4
+graft
+	crane
+	graft 22
+	2
+quilt
+	crane
+	lousy 263
+	guilt 8
+	built 2
+	quilt 1
+	5
+plush
+	crane
+	lousy 263
+	blush 4
+	plush 3
+	4
+dally
+	crane
+	salty 133
+	dally 2
+	3
+amble
+	crane
+	aisle 49
+	ample 3
+	amble 1
+	4
+reuse
+	crane
+	horse 39
+	reuse 1
+	3
+hefty
+	crane
+	sleet 127
+	depth 11
+	hefty 1
+	4
+enact
+	crane
+	enact 1
+	2
+heady
+	crane
+	dealt 18
+	beady 2
+	heady 1
+	4
+raise
+	crane
+	barge 8
+	raise 1
+	3
+molar
+	crane
+	ratio 64
+	solar 8
+	molar 2
+	4
+lymph
+	crane
+	lousy 263
+	lymph 1
+	3
+usual
+	crane
+	salty 133
+	usual 1
+	3
+whiny
+	crane
+	stung 58
+	downy 7
+	whiny 1
+	4
+stool
+	crane
+	lousy 263
+	spoil 5
+	stool 1
+	4
+scram
+	crane
+	scram 7
+	2
+freak
+	crane
+	tread 9
+	break 3
+	wreak 2
+	freak 1
+	5
+ozone
+	crane
+	shone 12
+	ozone 1
+	3
+stuff
+	crane
+	lousy 263
+	stuff 3
+	3
+gipsy
+	crane
+	lousy 263
+	missy 5
+	gipsy 2
+	4
+adorn
+	crane
+	rayon 10
+	adorn 1
+	3
+liver
+	crane
+	reset 122
+	lover 34
+	liver 1
+	4
+rinse
+	crane
+	nurse 5
+	rinse 1
+	3
+whoop
+	crane
+	lousy 263
+	bigot 10
+	whoop 1
+	4
+arbor
+	crane
+	arbor 12
+	2
+outdo
+	crane
+	lousy 263
+	outgo 8
+	outdo 1
+	4
+shove
+	crane
+	stole 102
+	smoke 3
+	shove 1
+	4
+carat
+	crane
+	cargo 8
+	carat 2
+	3
+robot
+	crane
+	torus 90
+	motor 3
+	robot 1
+	4
+vivid
+	crane
+	lousy 263
+	fight 12
+	vivid 1
+	4
+shalt
+	crane
+	shalt 49
+	2
+terse
+	crane
+	terse 39
+	2
+hussy
+	crane
+	lousy 263
+	fussy 2
+	hussy 1
+	4
+pesto
+	crane
+	sleet 127
+	testy 5
+	pesto 1
+	4
+quote
+	crane
+	stole 102
+	quote 1
+	3
+pixel
+	crane
+	sleet 127
+	bowel 9
+	pixel 2
+	4
+trade
+	crane
+	grade 13
+	trade 1
+	3
+eking
+	crane
+	eying 10
+	eking 1
+	3
+noble
+	crane
+	snide 21
+	venue 3
+	noble 1
+	4
+brick
+	crane
+	trick 5
+	prick 2
+	brick 1
+	4
+ghoul
+	crane
+	lousy 263
+	flout 2
+	ghoul 1
+	4
+night
+	crane
+	unity 55
+	toxin 2
+	night 1
+	4
+elude
+	crane
+	stole 102
+	glide 13
+	elude 1
+	4
+trope
+	crane
+	trope 26
+	2
+shuck
+	crane
+	stuck 55
+	shuck 1
+	3
+boost
+	crane
+	lousy 263
+	joist 5
+	boost 1
+	4
+snort
+	crane
+	thorn 13
+	snort 1
+	3
+lowly
+	crane
+	lousy 263
+	lofty 4
+	lobby 3
+	lowly 2
+	5
+singe
+	crane
+	snide 21
+	singe 1
+	3
+melee
+	crane
+	stole 102
+	glide 13
+	melee 1
+	4
+later
+	crane
+	later 50
+	2
+clean
+	crane
+	clean 1
+	2
+tango
+	crane
+	talon 47
+	tango 1
+	3
+leafy
+	crane
+	dealt 18
+	leaky 3
+	leafy 1
+	4
+gaffe
+	crane
+	aisle 49
+	gauze 10
+	gaffe 1
+	4
+myrrh
+	crane
+	torus 90
+	myrrh 2
+	3
+equal
+	crane
+	steal 46
+	medal 4
+	equal 1
+	4
+rodeo
+	crane
+	reset 122
+	rider 9
+	rodeo 1
+	4
+godly
+	crane
+	lousy 263
+	golly 9
+	godly 1
+	4
+mamma
+	crane
+	salty 133
+	mamma 9
+	3
+trick
+	crane
+	trick 5
+	2
+drier
+	crane
+	freed 22
+	dryer 3
+	drier 1
+	4
+snipe
+	crane
+	snide 21
+	snipe 1
+	3
+druid
+	crane
+	droit 51
+	druid 1
+	3
+amuse
+	crane
+	aisle 49
+	amuse 2
+	3
+butte
+	crane
+	stole 102
+	white 7
+	butte 1
+	4
+great
+	crane
+	tread 9
+	great 1
+	3
+solve
+	crane
+	stole 102
+	solve 1
+	3
+batty
+	crane
+	salty 133
+	fatty 4
+	tatty 3
+	batty 2
+	5
+scold
+	crane
+	stuck 55
+	scold 4
+	3
+being
+	crane
+	eying 10
+	being 1
+	3
+tenet
+	crane
+	olden 58
+	sinew 5
+	tenet 1
+	4
+flock
+	crane
+	stuck 55
+	flock 3
+	3
+vodka
+	crane
+	salty 133
+	audio 8
+	vodka 1
+	4
+tumor
+	crane
+	torus 90
+	tumor 2
+	3
+money
+	crane
+	olden 58
+	boney 4
+	honey 2
+	money 1
+	5
+tooth
+	crane
+	lousy 263
+	motto 5
+	tooth 1
+	4
+rigid
+	crane
+	torus 90
+	rigid 2
+	3
+gruel
+	crane
+	freed 22
+	gruel 2
+	3
+motif
+	crane
+	lousy 263
+	motto 5
+	motif 1
+	4
+other
+	crane
+	reset 122
+	outer 10
+	other 1
+	4
+stump
+	crane
+	lousy 263
+	stuff 3
+	stump 1
+	4
+caper
+	crane
+	caper 4
+	2
+guess
+	crane
+	sleet 127
+	poesy 2
+	guess 1
+	4
+lingo
+	crane
+	unity 55
+	bison 6
+	dingo 2
+	lingo 1
+	5
+plait
+	crane
+	shalt 49
+	plait 1
+	3
+sperm
+	crane
+	reset 122
+	sperm 1
+	3
+inept
+	crane
+	olden 58
+	ennui 5
+	inept 1
+	4
+dying
+	crane
+	stung 58
+	doing 7
+	dying 1
+	4
+swung
+	crane
+	stung 58
+	slung 2
+	swung 1
+	4
+posit
+	crane
+	lousy 263
+	bosom 3
+	posit 1
+	4
+snare
+	crane
+	snare 1
+	2
+booty
+	crane
+	lousy 263
+	goody 16
+	woozy 4
+	booty 2
+	5
+cider
+	crane
+	cower 7
+	cyber 3
+	cheer 2
+	cider 1
+	5
+savoy
+	crane
+	salty 133
+	savvy 4
+	savoy 1
+	4
+chock
+	crane
+	couch 25
+	chock 1
+	3
+lumpy
+	crane
+	lousy 263
+	lumpy 1
+	3
+thump
+	crane
+	lousy 263
+	thumb 2
+	thump 1
+	4
+hydro
+	crane
+	torus 90
+	ivory 7
+	hydro 1
+	4
+twist
+	crane
+	lousy 263
+	swish 4
+	twist 1
+	4
+spite
+	crane
+	stole 102
+	suite 3
+	smite 2
+	spite 1
+	5
+flair
+	crane
+	shard 24
+	flair 1
+	3
+sooth
+	crane
+	lousy 263
+	bosom 3
+	sooth 1
+	4
+court
+	crane
+	court 9
+	2
+vaunt
+	crane
+	taint 20
+	gaunt 5
+	jaunt 4
+	vaunt 3
+	5
+faint
+	crane
+	taint 20
+	saint 3
+	paint 2
+	faint 1
+	5
+truer
+	crane
+	freed 22
+	gruel 2
+	truer 1
+	4
+rapid
+	crane
+	ratio 64
+	rapid 3
+	3
+tramp
+	crane
+	graft 22
+	wrath 5
+	tramp 2
+	4
+hoard
+	crane
+	shard 24
+	hoard 1
+	3
+mealy
+	crane
+	dealt 18
+	mealy 1
+	3
+itchy
+	crane
+	stuck 55
+	itchy 1
+	3
+pubic
+	crane
+	stuck 55
+	pubic 3
+	3
+snuff
+	crane
+	unity 55
+	snuff 1
+	3
+mucus
+	crane
+	stuck 55
+	focus 5
+	mucus 1
+	4
+impel
+	crane
+	sleet 127
+	bowel 9
+	pixel 2
+	impel 1
+	5
+spilt
+	crane
+	lousy 263
+	spilt 7
+	3
+curry
+	crane
+	court 9
+	curry 1
+	3
+canon
+	crane
+	candy 4
+	canal 2
+	canon 1
+	4
+repay
+	crane
+	later 50
+	repay 4
+	3
+haute
+	crane
+	aisle 49
+	gauze 10
+	mauve 2
+	haute 1
+	5
+cruel
+	crane
+	creed 10
+	crier 2
+	cruel 1
+	4
+filmy
+	crane
+	lousy 263
+	filmy 9
+	3
+ninja
+	crane
+	talon 47
+	ninja 1
+	3
+coupe
+	crane
+	chose 11
+	coupe 1
+	3
+croup
+	crane
+	crisp 13
+	croup 2
+	3
+along
+	crane
+	taint 20
+	among 3
+	along 1
+	4
+buxom
+	crane
+	lousy 263
+	outgo 8
+	buxom 1
+	4
+ratty
+	crane
+	ratio 64
+	ratty 1
+	3
+women
+	crane
+	olden 58
+	token 4
+	woven 2
+	women 1
+	5
+brief
+	crane
+	freed 22
+	brief 2
+	3
+grunt
+	crane
+	grind 17
+	grunt 1
+	3
+slack
+	crane
+	scald 13
+	slack 1
+	3
+shack
+	crane
+	scald 13
+	smack 3
+	shack 2
+	4
+debar
+	crane
+	later 50
+	smear 6
+	rebar 2
+	debar 1
+	5
+paddy
+	crane
+	salty 133
+	gaudy 9
+	daddy 3
+	paddy 1
+	5
+shush
+	crane
+	lousy 263
+	shush 1
+	3
+china
+	crane
+	canny 2
+	china 1
+	3
+final
+	crane
+	talon 47
+	anvil 3
+	final 1
+	4
+genre
+	crane
+	nurse 5
+	genre 1
+	3
+madam
+	crane
+	salty 133
+	mamma 9
+	madam 1
+	4
+vixen
+	crane
+	olden 58
+	seven 7
+	vixen 1
+	4
+scald
+	crane
+	scald 13
+	2
+apron
+	crane
+	rayon 10
+	apron 1
+	3
+clamp
+	crane
+	chasm 13
+	clamp 1
+	3
+erupt
+	crane
+	freed 22
+	erupt 2
+	3
+bezel
+	crane
+	sleet 127
+	bevel 5
+	bezel 1
+	4
+biddy
+	crane
+	lousy 263
+	ditty 15
+	biddy 2
+	4
+taper
+	crane
+	later 50
+	tamer 3
+	taker 2
+	taper 1
+	5
+payee
+	crane
+	aisle 49
+	gauge 10
+	payee 3
+	4
+theft
+	crane
+	sleet 127
+	theft 1
+	3
+trait
+	crane
+	graft 22
+	trait 1
+	3
+juice
+	crane
+	spice 9
+	twice 3
+	juice 2
+	4
+jewel
+	crane
+	sleet 127
+	bevel 5
+	jewel 1
+	4
+teeth
+	crane
+	sleet 127
+	teeth 1
+	3
+folio
+	crane
+	lousy 263
+	folio 1
+	3
+swath
+	crane
+	shalt 49
+	swath 2
+	3
+jiffy
+	crane
+	lousy 263
+	ditty 15
+	wimpy 5
+	fizzy 2
+	jiffy 1
+	6
+curve
+	crane
+	curse 3
+	curve 1
+	3
+bloat
+	crane
+	salty 133
+	bloat 10
+	3
+blimp
+	crane
+	lousy 263
+	blitz 4
+	blimp 1
+	4
+basic
+	crane
+	latch 27
+	macaw 4
+	basic 1
+	4
+tulle
+	crane
+	stole 102
+	title 2
+	tulle 1
+	4
+shown
+	crane
+	unity 55
+	blown 6
+	shown 1
+	4
+moral
+	crane
+	ratio 64
+	solar 8
+	moral 1
+	4
+croak
+	crane
+	croak 1
+	2
+rowdy
+	crane
+	torus 90
+	rowdy 3
+	3
+toddy
+	crane
+	lousy 263
+	goody 16
+	howdy 3
+	toddy 1
+	5
+tacit
+	crane
+	latch 27
+	tacit 2
+	3
+abbot
+	crane
+	salty 133
+	audit 8
+	afoot 2
+	abbot 1
+	5
+poser
+	crane
+	reset 122
+	wiser 4
+	loser 2
+	poser 1
+	5
+trawl
+	crane
+	graft 22
+	wrath 5
+	trawl 1
+	4
+shirt
+	crane
+	torus 90
+	shirt 2
+	3
+milky
+	crane
+	lousy 263
+	filly 9
+	milky 1
+	4
+guile
+	crane
+	stole 102
+	guile 6
+	3
+lease
+	crane
+	slate 43
+	lease 1
+	3
+rower
+	crane
+	reset 122
+	rider 9
+	roger 4
+	rower 2
+	5
+input
+	crane
+	unity 55
+	input 1
+	3
+intro
+	crane
+	thorn 13
+	intro 1
+	3
+awoke
+	crane
+	aisle 49
+	above 4
+	awoke 1
+	4
+altar
+	crane
+	ratio 64
+	altar 2
+	3
+zonal
+	crane
+	talon 47
+	zonal 1
+	3
+bliss
+	crane
+	lousy 263
+	bliss 1
+	3
+smith
+	crane
+	lousy 263
+	shift 9
+	smith 1
+	4
+krill
+	crane
+	droit 51
+	frisk 8
+	krill 1
+	4
+given
+	crane
+	olden 58
+	seven 7
+	given 1
+	4
+tidal
+	crane
+	salty 133
+	tubal 10
+	tidal 2
+	4
+pesky
+	crane
+	sleet 127
+	pesky 1
+	3
+swirl
+	crane
+	torus 90
+	shirk 4
+	swirl 1
+	4
+drawl
+	crane
+	graft 22
+	drawl 7
+	3
+inlay
+	crane
+	talon 47
+	inlay 1
+	3
+guild
+	crane
+	lousy 263
+	quilt 8
+	guild 2
+	4
+roomy
+	crane
+	torus 90
+	rowdy 3
+	roomy 1
+	4
+quasi
+	crane
+	shalt 49
+	quasi 2
+	3
+wrong
+	crane
+	grind 17
+	prong 3
+	wrong 1
+	4
+party
+	crane
+	ratio 64
+	warty 3
+	party 1
+	4
+bowel
+	crane
+	sleet 127
+	bowel 9
+	3
+relay
+	crane
+	later 50
+	relax 4
+	relay 1
+	4
+super
+	crane
+	reset 122
+	super 7
+	3
+blown
+	crane
+	unity 55
+	blown 6
+	3
+maker
+	crane
+	later 50
+	wager 14
+	parer 7
+	baker 3
+	maker 1
+	6
+pitch
+	crane
+	stuck 55
+	hitch 5
+	ditch 3
+	pitch 2
+	5
+grain
+	crane
+	drain 7
+	brain 3
+	train 2
+	grain 1
+	5
+tipsy
+	crane
+	lousy 263
+	missy 5
+	gipsy 2
+	tipsy 1
+	5
+thyme
+	crane
+	stole 102
+	white 7
+	thyme 2
+	4
+aisle
+	crane
+	aisle 49
+	2
+beard
+	crane
+	ready 9
+	heard 2
+	beard 1
+	4
+chaos
+	crane
+	chasm 13
+	chaos 1
+	3
+plier
+	crane
+	reset 122
+	lover 34
+	flier 6
+	plier 1
+	5
+meant
+	crane
+	leant 2
+	meant 1
+	3
+build
+	crane
+	lousy 263
+	guilt 8
+	quill 2
+	build 1
+	5
+pence
+	crane
+	niece 11
+	hence 3
+	pence 2
+	4
+shape
+	crane
+	slate 43
+	spade 7
+	shape 1
+	4
+elfin
+	crane
+	olden 58
+	elfin 1
+	3
+quell
+	crane
+	sleet 127
+	dwell 6
+	quell 1
+	4
+torus
+	crane
+	torus 90
+	2
+harry
+	crane
+	ratio 64
+	harpy 10
+	hardy 2
+	harry 1
+	5
+crimp
+	crane
+	crisp 13
+	crimp 1
+	3
+piney
+	crane
+	olden 58
+	sinew 5
+	piney 1
+	4
+angle
+	crane
+	mange 6
+	angle 1
+	3
+erect
+	crane
+	wreck 2
+	erect 1
+	3
+basis
+	crane
+	salty 133
+	basis 1
+	3
+scowl
+	crane
+	stuck 55
+	scold 4
+	scowl 1
+	4
+decal
+	crane
+	decal 6
+	2
+ivory
+	crane
+	torus 90
+	ivory 7
+	3
+gruff
+	crane
+	droit 51
+	brush 3
+	gruff 1
+	4
+flirt
+	crane
+	torus 90
+	right 2
+	flirt 1
+	4
+blame
+	crane
+	slate 43
+	blaze 7
+	blame 2
+	4
+knelt
+	crane
+	olden 58
+	newly 2
+	knelt 1
+	4
+udder
+	crane
+	reset 122
+	lover 34
+	upper 9
+	udder 1
+	5
+poker
+	crane
+	reset 122
+	lover 34
+	mower 8
+	poker 4
+	5
+dandy
+	crane
+	talon 47
+	sandy 7
+	handy 2
+	dandy 1
+	5
+feast
+	crane
+	dealt 18
+	yeast 3
+	beast 2
+	feast 1
+	5
+nanny
+	crane
+	taint 20
+	fauna 4
+	nanny 1
+	4
+scuba
+	crane
+	latch 27
+	scuba 2
+	3
+horse
+	crane
+	reuse 39
+	horse 2
+	3
+curly
+	crane
+	court 9
+	curly 2
+	3
+elope
+	crane
+	stole 102
+	globe 4
+	elope 1
+	4
+punch
+	crane
+	punch 17
+	2
+tenor
+	crane
+	inter 27
+	tenor 1
+	3
+scoop
+	crane
+	stuck 55
+	scold 4
+	scoff 2
+	scoop 1
+	5
+essay
+	crane
+	steal 46
+	essay 1
+	3
+worth
+	crane
+	torus 90
+	forth 3
+	worth 1
+	4
+doubt
+	crane
+	lousy 263
+	bough 5
+	doubt 1
+	4
+worse
+	crane
+	terse 39
+	horse 3
+	worse 1
+	4
+nasal
+	crane
+	talon 47
+	lanky 5
+	nasal 2
+	4
+swill
+	crane
+	lousy 263
+	split 7
+	skill 2
+	swill 1
+	5
+grind
+	crane
+	grind 17
+	2
+naval
+	crane
+	talon 47
+	lanky 5
+	nasal 2
+	naval 1
+	5
+seize
+	crane
+	stole 102
+	sieve 5
+	seize 1
+	4
+vicar
+	crane
+	scram 7
+	vicar 1
+	3
+gayly
+	crane
+	salty 133
+	madly 5
+	gayly 2
+	4
+sneer
+	crane
+	inter 27
+	sneer 2
+	3
+amber
+	crane
+	later 50
+	aider 2
+	amber 1
+	4
+tight
+	crane
+	lousy 263
+	fight 12
+	might 3
+	tight 2
+	5
+lunch
+	crane
+	punch 17
+	hunch 4
+	munch 3
+	lunch 2
+	5
+lurch
+	crane
+	scrub 11
+	lurch 1
+	3
+helix
+	crane
+	sleet 127
+	belly 7
+	helix 1
+	4
+lucid
+	crane
+	stuck 55
+	pubic 3
+	lucid 1
+	4
+valid
+	crane
+	salty 133
+	valid 1
+	3
+dirty
+	crane
+	torus 90
+	birth 4
+	dirty 1
+	4
+gayer
+	crane
+	later 50
+	wager 14
+	gamer 3
+	gayer 2
+	5
+payer
+	crane
+	later 50
+	wager 14
+	parer 7
+	paper 2
+	payer 1
+	6
+mourn
+	crane
+	thorn 13
+	mourn 1
+	3
+idiom
+	crane
+	lousy 263
+	bigot 10
+	idiom 1
+	4
+pudgy
+	crane
+	lousy 263
+	dumpy 14
+	pudgy 1
+	4
+vault
+	crane
+	salty 133
+	fault 3
+	vault 1
+	4
+under
+	crane
+	inter 27
+	sneer 2
+	under 1
+	4
+syrup
+	crane
+	torus 90
+	shrub 3
+	syrup 1
+	4
+sober
+	crane
+	reset 122
+	super 7
+	sober 3
+	4
+silky
+	crane
+	lousy 263
+	silly 5
+	silky 1
+	4
+chute
+	crane
+	chose 11
+	chide 3
+	chute 1
+	4
+lurid
+	crane
+	torus 90
+	hurry 5
+	lurid 1
+	4
+pansy
+	crane
+	talon 47
+	sandy 7
+	pansy 1
+	4
+clove
+	crane
+	chose 11
+	clove 1
+	3
+ultra
+	crane
+	ratio 64
+	altar 2
+	ultra 1
+	4
+reign
+	crane
+	inter 27
+	resin 2
+	reign 1
+	4
+smoke
+	crane
+	stole 102
+	smoke 3
+	3
+shelf
+	crane
+	sleet 127
+	spell 5
+	shelf 1
+	4
+fluke
+	crane
+	stole 102
+	glide 13
+	plume 3
+	fluke 1
+	5
+farce
+	crane
+	farce 1
+	2
+habit
+	crane
+	salty 133
+	patio 5
+	habit 1
+	4
+geese
+	crane
+	stole 102
+	guise 3
+	geese 1
+	4
+drove
+	crane
+	trope 26
+	drove 5
+	3
+loopy
+	crane
+	lousy 263
+	lofty 4
+	lobby 3
+	lowly 2
+	loopy 1
+	6
+theme
+	crane
+	stole 102
+	white 7
+	thyme 2
+	theme 1
+	5
+randy
+	crane
+	rayon 10
+	randy 1
+	3
+riper
+	crane
+	reset 122
+	rider 9
+	riper 2
+	4
+whole
+	crane
+	stole 102
+	whole 1
+	3
+smelt
+	crane
+	sleet 127
+	spelt 2
+	smelt 1
+	4
+macho
+	crane
+	latch 27
+	havoc 2
+	macho 1
+	4
+sling
+	crane
+	stung 58
+	sling 2
+	3
+cling
+	crane
+	clink 5
+	cling 1
+	3
+canoe
+	crane
+	canoe 1
+	2
+least
+	crane
+	dealt 18
+	least 2
+	3
+bagel
+	crane
+	steal 46
+	label 5
+	bagel 1
+	4
+surer
+	crane
+	reset 122
+	super 7
+	surer 1
+	4
+tabby
+	crane
+	salty 133
+	taffy 2
+	tabby 1
+	4
+brute
+	crane
+	trope 26
+	write 2
+	brute 1
+	4
+cinch
+	crane
+	conch 8
+	cinch 1
+	3
+grape
+	crane
+	grade 13
+	grate 4
+	grave 3
+	grape 2
+	5
+mimic
+	crane
+	stuck 55
+	icily 3
+	mimic 1
+	4
+frown
+	crane
+	grown 5
+	brown 3
+	frown 2
+	4
+modal
+	crane
+	salty 133
+	afoul 12
+	modal 1
+	4
+rabid
+	crane
+	ratio 64
+	rapid 3
+	rabid 1
+	4
+spine
+	crane
+	shone 12
+	swine 2
+	spine 1
+	4
+abbey
+	crane
+	steal 46
+	abbey 2
+	3
+chalk
+	crane
+	chasm 13
+	chaff 2
+	chalk 1
+	4
+leach
+	crane
+	peach 5
+	beach 3
+	teach 2
+	leach 1
+	5
+dowry
+	crane
+	torus 90
+	rowdy 3
+	dowry 1
+	4
+unzip
+	crane
+	unity 55
+	undid 2
+	unzip 1
+	4
+shank
+	crane
+	stank 16
+	spank 2
+	shank 1
+	4
+shady
+	crane
+	shalt 49
+	shaky 2
+	shady 1
+	4
+nadir
+	crane
+	rayon 10
+	nadir 1
+	3
+serve
+	crane
+	reuse 39
+	serve 1
+	3
+cairn
+	crane
+	cairn 1
+	2
+civil
+	crane
+	couch 25
+	cliff 3
+	civil 1
+	4
+bobby
+	crane
+	lousy 263
+	goody 16
+	bobby 3
+	4
+razor
+	crane
+	ratio 64
+	razor 1
+	3
+quoth
+	crane
+	lousy 263
+	outgo 8
+	quoth 1
+	4
+pasta
+	crane
+	salty 133
+	pasta 1
+	3
+beget
+	crane
+	sleet 127
+	beget 1
+	3
+brake
+	crane
+	grade 13
+	brave 5
+	brake 1
+	4
+gypsy
+	crane
+	lousy 263
+	missy 5
+	gypsy 1
+	4
+louse
+	crane
+	stole 102
+	louse 1
+	3
+gumbo
+	crane
+	lousy 263
+	outgo 8
+	gumbo 1
+	4
+total
+	crane
+	salty 133
+	bloat 10
+	total 1
+	4
+digit
+	crane
+	lousy 263
+	fight 12
+	digit 1
+	4
+lover
+	crane
+	reset 122
+	lover 34
+	3
+tawny
+	crane
+	taint 20
+	tawny 1
+	3
+quail
+	crane
+	shalt 49
+	flail 8
+	avail 2
+	quail 1
+	5
+spasm
+	crane
+	shalt 49
+	swamp 4
+	spasm 1
+	4
+fence
+	crane
+	niece 11
+	hence 3
+	pence 2
+	fence 1
+	5
+crony
+	crane
+	crony 1
+	2
+unlit
+	crane
+	unity 55
+	until 3
+	unlit 1
+	4
+bully
+	crane
+	lousy 263
+	bully 6
+	3
+enemy
+	crane
+	olden 58
+	ennui 5
+	enemy 1
+	4
+assay
+	crane
+	salty 133
+	assay 1
+	3
+mason
+	crane
+	talon 47
+	wagon 2
+	mason 1
+	4
+skier
+	crane
+	reset 122
+	super 7
+	sober 3
+	skier 1
+	5
+floor
+	crane
+	torus 90
+	ivory 7
+	floor 1
+	4
+frond
+	crane
+	grind 17
+	frond 1
+	3
+elect
+	crane
+	leech 20
+	elect 1
+	3
+leave
+	crane
+	slate 43
+	leave 2
+	3
+drawn
+	crane
+	drain 7
+	drawn 1
+	3
+gazer
+	crane
+	later 50
+	wager 14
+	gamer 3
+	gayer 2
+	gazer 1
+	6
+sneak
+	crane
+	laden 21
+	enema 2
+	sneak 1
+	4
+lyric
+	crane
+	scrub 11
+	torch 3
+	lyric 1
+	4
+cello
+	crane
+	cleft 11
+	cello 1
+	3
+hippo
+	crane
+	lousy 263
+	bigot 10
+	hippo 1
+	4
+carry
+	crane
+	cargo 8
+	carat 2
+	carry 1
+	4
+cacao
+	crane
+	cacti 13
+	cacao 1
+	3
+laden
+	crane
+	laden 21
+	2
+reset
+	crane
+	reset 122
+	2
+salve
+	crane
+	aisle 49
+	lapse 3
+	salve 1
+	4
+exult
+	crane
+	sleet 127
+	exult 1
+	3
+match
+	crane
+	latch 27
+	watch 5
+	match 4
+	4
+adopt
+	crane
+	salty 133
+	audit 8
+	adopt 1
+	4
+melon
+	crane
+	olden 58
+	felon 3
+	melon 1
+	4
+verse
+	crane
+	terse 39
+	verse 1
+	3
+joker
+	crane
+	reset 122
+	lover 34
+	mower 8
+	poker 4
+	joker 1
+	6
+stash
+	crane
+	shalt 49
+	swath 2
+	stash 1
+	4
+spout
+	crane
+	lousy 263
+	shout 4
+	stout 2
+	spout 1
+	5
+arson
+	crane
+	groan 4
+	arson 1
+	3
+those
+	crane
+	stole 102
+	those 1
+	3
+polka
+	crane
+	salty 133
+	villa 4
+	polka 1
+	4
+spear
+	crane
+	later 50
+	smear 6
+	spear 3
+	4
+squad
+	crane
+	salty 133
+	squad 2
+	3
+flown
+	crane
+	unity 55
+	blown 6
+	flown 1
+	4
+recut
+	crane
+	recut 10
+	2
+tweak
+	crane
+	steal 46
+	wheat 2
+	tweak 1
+	4
+hilly
+	crane
+	lousy 263
+	filly 9
+	billy 4
+	willy 3
+	dilly 2
+	hilly 1
+	7
+epoch
+	crane
+	leech 20
+	epoch 1
+	3
+humph
+	crane
+	lousy 263
+	humid 2
+	humph 1
+	4
+mercy
+	crane
+	recut 10
+	mercy 2
+	3
+glove
+	crane
+	stole 102
+	globe 4
+	glove 1
+	4
+snack
+	crane
+	knack 2
+	snack 1
+	3
+bravo
+	crane
+	graft 22
+	drawl 7
+	brash 3
+	bravo 1
+	5
+caste
+	crane
+	cause 4
+	caste 1
+	3
+parer
+	crane
+	later 50
+	wager 14
+	parer 7
+	4
+timer
+	crane
+	reset 122
+	outer 10
+	tiger 2
+	timer 1
+	5
+girly
+	crane
+	torus 90
+	myrrh 2
+	girly 1
+	4
+radii
+	crane
+	ratio 64
+	rapid 3
+	radii 1
+	4
+satyr
+	crane
+	ratio 64
+	satyr 1
+	3
+witty
+	crane
+	lousy 263
+	ditty 15
+	bitty 3
+	witty 2
+	5
+covey
+	crane
+	cleft 11
+	covey 1
+	3
+tapir
+	crane
+	ratio 64
+	tapir 1
+	3
+fuzzy
+	crane
+	lousy 263
+	dumpy 14
+	fuzzy 2
+	4
+magic
+	crane
+	latch 27
+	macaw 4
+	magic 1
+	4
+larva
+	crane
+	ratio 64
+	harpy 10
+	karma 2
+	larva 1
+	5
+needy
+	crane
+	olden 58
+	needy 2
+	3
+chair
+	crane
+	chard 4
+	chair 1
+	3
+flick
+	crane
+	stuck 55
+	flock 3
+	flick 1
+	4
+giant
+	crane
+	stank 16
+	twang 3
+	giant 1
+	4
+stink
+	crane
+	stung 58
+	stint 3
+	stink 1
+	4
+exile
+	crane
+	stole 102
+	guile 6
+	exile 2
+	4
+polar
+	crane
+	ratio 64
+	solar 8
+	molar 2
+	polar 1
+	5
+clash
+	crane
+	chasm 13
+	clash 1
+	3
+shawl
+	crane
+	shalt 49
+	shawl 1
+	3
+seedy
+	crane
+	sleet 127
+	seedy 1
+	3
+anger
+	crane
+	ramen 5
+	anger 1
+	3
+inner
+	crane
+	inter 27
+	inner 2
+	3
+stoic
+	crane
+	stuck 55
+	stoic 1
+	3
+emcee
+	crane
+	spice 9
+	emcee 1
+	3
+sower
+	crane
+	reset 122
+	super 7
+	sober 3
+	sower 1
+	5
+moist
+	crane
+	lousy 263
+	joist 5
+	hoist 3
+	foist 2
+	moist 1
+	6
+gross
+	crane
+	droit 51
+	proof 9
+	growl 2
+	gross 1
+	5
+spore
+	crane
+	reuse 39
+	spire 6
+	spore 1
+	4
+sweat
+	crane
+	steal 46
+	sweat 1
+	3
+chore
+	crane
+	curse 3
+	chore 1
+	3
+tacky
+	crane
+	latch 27
+	tacit 2
+	tacky 1
+	4
+lumen
+	crane
+	olden 58
+	liken 3
+	lumen 1
+	4
+inter
+	crane
+	inter 27
+	2
+parry
+	crane
+	ratio 64
+	harpy 10
+	parry 1
+	4
+slime
+	crane
+	stole 102
+	slime 2
+	3
+glean
+	crane
+	laden 21
+	glean 1
+	3
+spray
+	crane
+	ratio 64
+	mural 5
+	spray 1
+	4
+touch
+	crane
+	stuck 55
+	touch 1
+	3
+visor
+	crane
+	torus 90
+	visor 2
+	3
+barge
+	crane
+	large 8
+	barge 1
+	3
+click
+	crane
+	couch 25
+	click 1
+	3
+stole
+	crane
+	stole 102
+	2
+sprig
+	crane
+	torus 90
+	sprig 1
+	3
+zebra
+	crane
+	later 50
+	repay 4
+	zebra 1
+	4
+harpy
+	crane
+	ratio 64
+	harpy 10
+	3
+login
+	crane
+	unity 55
+	bison 6
+	login 1
+	4
+excel
+	crane
+	leech 20
+	excel 1
+	3
+prowl
+	crane
+	droit 51
+	proof 9
+	proxy 2
+	prowl 1
+	5
+turbo
+	crane
+	torus 90
+	turbo 1
+	3
+cover
+	crane
+	cower 7
+	corer 2
+	cover 1
+	4
+axion
+	crane
+	talon 47
+	axion 1
+	3
+snake
+	crane
+	snake 2
+	2
+draft
+	crane
+	graft 22
+	draft 1
+	3
+logic
+	crane
+	stuck 55
+	icily 3
+	logic 1
+	4
+dusty
+	crane
+	lousy 263
+	mushy 9
+	dusky 3
+	dusty 1
+	5
+trite
+	crane
+	trope 26
+	trite 2
+	3
+stoop
+	crane
+	lousy 263
+	stomp 8
+	stoop 1
+	4
+hutch
+	crane
+	stuck 55
+	dutch 3
+	butch 2
+	hutch 1
+	5
+fancy
+	crane
+	manic 5
+	fancy 1
+	3
+puree
+	crane
+	reuse 39
+	puree 1
+	3
+pique
+	crane
+	stole 102
+	imbue 13
+	pique 1
+	4
+sweep
+	crane
+	sleet 127
+	sheep 3
+	sweep 1
+	4
+query
+	crane
+	reset 122
+	fiery 3
+	query 2
+	4
+spill
+	crane
+	lousy 263
+	split 7
+	spill 1
+	4
+bathe
+	crane
+	aisle 49
+	gauze 10
+	payee 3
+	bathe 1
+	5
+amity
+	crane
+	salty 133
+	amity 1
+	3
+salvo
+	crane
+	salty 133
+	salsa 3
+	salvo 1
+	4
+stall
+	crane
+	shalt 49
+	stalk 2
+	stall 1
+	4
+tease
+	crane
+	slate 43
+	tease 1
+	3
+acorn
+	crane
+	ranch 2
+	acorn 1
+	3
+jazzy
+	crane
+	salty 133
+	gaudy 9
+	mammy 3
+	jazzy 2
+	5
+sumac
+	crane
+	latch 27
+	scuba 2
+	sumac 1
+	4
+fresh
+	crane
+	freed 22
+	fresh 1
+	3
+fetid
+	crane
+	sleet 127
+	depth 11
+	teddy 2
+	fetid 1
+	5
+unmet
+	crane
+	olden 58
+	sinew 5
+	unmet 1
+	4
+sloop
+	crane
+	lousy 263
+	spoil 5
+	sloop 1
+	4
+scale
+	crane
+	peace 4
+	scale 1
+	3
+ferry
+	crane
+	reset 122
+	berry 11
+	ferry 2
+	4
+dolly
+	crane
+	lousy 263
+	dolly 9
+	3
+whisk
+	crane
+	lousy 263
+	swish 4
+	whisk 1
+	4
+allot
+	crane
+	salty 133
+	allot 1
+	3
+music
+	crane
+	stuck 55
+	focus 5
+	music 1
+	4
+ocean
+	crane
+	pecan 2
+	ocean 1
+	3
+bongo
+	crane
+	unity 55
+	blown 6
+	bongo 1
+	4
+flush
+	crane
+	lousy 263
+	blush 4
+	plush 3
+	flush 2
+	5
+omega
+	crane
+	steal 46
+	omega 1
+	3
+ebony
+	crane
+	eying 10
+	ebony 1
+	3
+favor
+	crane
+	ratio 64
+	valor 7
+	favor 2
+	4
+totem
+	crane
+	sleet 127
+	totem 2
+	3
+tough
+	crane
+	lousy 263
+	bough 5
+	dough 2
+	tough 1
+	5
+revel
+	crane
+	reset 122
+	repel 4
+	revel 2
+	4
+lousy
+	crane
+	lousy 263
+	2
+shunt
+	crane
+	stung 58
+	shunt 1
+	3
+slide
+	crane
+	stole 102
+	slime 2
+	slide 1
+	4
+spiky
+	crane
+	lousy 263
+	wispy 4
+	spiky 1
+	4
+while
+	crane
+	stole 102
+	guile 6
+	exile 2
+	while 1
+	5
+drone
+	crane
+	prone 5
+	drone 1
+	3
+adore
+	crane
+	large 8
+	afire 3
+	adore 2
+	4
+begun
+	crane
+	olden 58
+	stein 4
+	begun 1
+	4
+debut
+	crane
+	sleet 127
+	debit 5
+	debut 1
+	4
+stood
+	crane
+	lousy 263
+	stomp 8
+	stood 1
+	4
+azure
+	crane
+	large 8
+	afire 3
+	adore 2
+	azure 1
+	5
+golly
+	crane
+	lousy 263
+	holly 9
+	jolly 4
+	dolly 3
+	golly 2
+	6
+titan
+	crane
+	talon 47
+	titan 1
+	3
+slain
+	crane
+	snail 8
+	slain 1
+	3
+spend
+	crane
+	eying 10
+	blend 3
+	spend 1
+	4
+tribe
+	crane
+	trope 26
+	trite 2
+	tribe 1
+	4
+egret
+	crane
+	reset 122
+	egret 1
+	3
+homer
+	crane
+	reset 122
+	lover 34
+	mower 8
+	homer 1
+	5
+refit
+	crane
+	reset 122
+	refit 3
+	3
+depth
+	crane
+	sleet 127
+	depth 11
+	3
+tripe
+	crane
+	trope 26
+	tripe 1
+	3
+limit
+	crane
+	lousy 263
+	livid 4
+	limit 1
+	4
+creak
+	crane
+	cream 2
+	creak 1
+	3
+betel
+	crane
+	sleet 127
+	betel 1
+	3
+cable
+	crane
+	cause 4
+	cache 2
+	cable 1
+	4
+salon
+	crane
+	talon 47
+	salon 1
+	3
+shale
+	crane
+	slate 43
+	shale 1
+	3
+chant
+	crane
+	clang 3
+	chant 1
+	3
+their
+	crane
+	reset 122
+	their 1
+	3
+aping
+	crane
+	taint 20
+	aging 2
+	aping 1
+	4
+chime
+	crane
+	chose 11
+	chide 3
+	chime 1
+	4
+civic
+	crane
+	couch 25
+	civic 1
+	3
+quest
+	crane
+	sleet 127
+	guest 2
+	quest 1
+	4
+green
+	crane
+	green 2
+	2
+tithe
+	crane
+	stole 102
+	white 7
+	tithe 1
+	4
+stony
+	crane
+	stung 58
+	stint 3
+	stony 1
+	4
+realm
+	crane
+	ready 9
+	rearm 2
+	realm 1
+	4
+sewer
+	crane
+	reset 122
+	sewer 2
+	3
+eaten
+	crane
+	laden 21
+	taken 5
+	eaten 1
+	4
+stork
+	crane
+	torus 90
+	storm 5
+	story 2
+	stork 1
+	5
+drown
+	crane
+	grown 5
+	brown 3
+	frown 2
+	drown 1
+	5
+stove
+	crane
+	stole 102
+	stoke 2
+	stove 1
+	4
+miser
+	crane
+	reset 122
+	wiser 4
+	miser 1
+	4
+tubal
+	crane
+	salty 133
+	bloat 10
+	tubal 1
+	4
+wring
+	crane
+	grind 17
+	bring 2
+	wring 1
+	4
+grime
+	crane
+	tripe 26
+	bride 4
+	grime 1
+	4
+slush
+	crane
+	lousy 263
+	blush 4
+	plush 3
+	flush 2
+	slush 1
+	6
+weedy
+	crane
+	sleet 127
+	geeky 3
+	beefy 2
+	weedy 1
+	5
+umbra
+	crane
+	ratio 64
+	mural 5
+	umbra 1
+	4
+expel
+	crane
+	sleet 127
+	bevel 5
+	expel 1
+	4
+avian
+	crane
+	talon 47
+	human 3
+	avian 1
+	4
+force
+	crane
+	score 3
+	force 1
+	3
+agape
+	crane
+	slate 43
+	adage 9
+	agape 1
+	4
+scare
+	crane
+	scare 1
+	2
+poppy
+	crane
+	lousy 263
+	goody 16
+	bobby 3
+	poppy 1
+	5
+belly
+	crane
+	sleet 127
+	belly 7
+	3
+curvy
+	crane
+	court 9
+	curly 2
+	curvy 1
+	4
+crump
+	crane
+	crisp 13
+	croup 2
+	crump 1
+	4
+scalp
+	crane
+	scald 13
+	scalp 2
+	3
+brook
+	crane
+	droit 51
+	proof 9
+	broom 3
+	brook 1
+	5
+sandy
+	crane
+	talon 47
+	sandy 7
+	3
+swept
+	crane
+	sleet 127
+	swept 1
+	3
+idiot
+	crane
+	lousy 263
+	bigot 10
+	idiot 1
+	4
+bulky
+	crane
+	lousy 263
+	bully 6
+	bulky 1
+	4
+scrap
+	crane
+	scram 7
+	scrap 1
+	3
+visit
+	crane
+	lousy 263
+	swift 9
+	visit 1
+	4
+harem
+	crane
+	later 50
+	harem 1
+	3
+lasso
+	crane
+	salty 133
+	basil 3
+	lasso 1
+	4
+tardy
+	crane
+	ratio 64
+	warty 3
+	tardy 1
+	4
+tutor
+	crane
+	torus 90
+	tumor 2
+	tutor 1
+	4
+foggy
+	crane
+	lousy 263
+	goody 16
+	foggy 1
+	4
+buggy
+	crane
+	lousy 263
+	dumpy 14
+	fuzzy 2
+	buggy 1
+	5
+cumin
+	crane
+	conch 8
+	cumin 1
+	3
+shade
+	crane
+	slate 43
+	spade 7
+	shade 1
+	4
+giddy
+	crane
+	lousy 263
+	ditty 15
+	biddy 2
+	giddy 1
+	5
+shine
+	crane
+	shone 12
+	shine 1
+	3
+ether
+	crane
+	reset 122
+	ether 1
+	3
+twine
+	crane
+	shone 12
+	twine 2
+	3
+wight
+	crane
+	lousy 263
+	fight 12
+	might 3
+	tight 2
+	wight 1
+	6
+irate
+	crane
+	grade 13
+	brave 5
+	erase 3
+	irate 2
+	5
+ought
+	crane
+	lousy 263
+	outgo 8
+	ought 1
+	4
+clear
+	crane
+	caper 4
+	clear 2
+	3
+mayor
+	crane
+	ratio 64
+	valor 7
+	major 2
+	mayor 1
+	5
+beret
+	crane
+	reset 122
+	beret 1
+	3
+shied
+	crane
+	sleet 127
+	shied 2
+	3
+queue
+	crane
+	stole 102
+	imbue 13
+	queue 2
+	4
+pagan
+	crane
+	talon 47
+	basin 2
+	pagan 1
+	4
+crypt
+	crane
+	crisp 13
+	crypt 1
+	3
+parka
+	crane
+	ratio 64
+	harpy 10
+	parka 1
+	4
+grail
+	crane
+	graft 22
+	grasp 5
+	gravy 2
+	grail 1
+	5
+exact
+	crane
+	peach 5
+	exact 1
+	3
+spicy
+	crane
+	stuck 55
+	spicy 1
+	3
+crone
+	crane
+	crone 1
+	2
+showy
+	crane
+	lousy 263
+	smoky 2
+	showy 1
+	4
+viper
+	crane
+	reset 122
+	lover 34
+	viper 1
+	4
+decay
+	crane
+	decal 6
+	decay 1
+	3
+could
+	crane
+	couch 25
+	could 1
+	3
+rhyme
+	crane
+	reuse 39
+	rifle 3
+	rhyme 1
+	4
+gripe
+	crane
+	trope 26
+	gripe 1
+	3
+circa
+	crane
+	cargo 8
+	circa 1
+	3
+trove
+	crane
+	trope 26
+	trove 1
+	3
+skirt
+	crane
+	torus 90
+	shirt 2
+	skirt 1
+	4
+ghost
+	crane
+	lousy 263
+	kiosk 2
+	ghost 1
+	4
+snowy
+	crane
+	unity 55
+	snowy 1
+	3
+denim
+	crane
+	olden 58
+	needy 2
+	denim 1
+	4
+rebut
+	crane
+	reset 122
+	refit 3
+	rebut 1
+	4
+sadly
+	crane
+	salty 133
+	sadly 1
+	3
+foray
+	crane
+	ratio 64
+	solar 8
+	borax 2
+	foray 1
+	5
+jerky
+	crane
+	reset 122
+	berry 11
+	perky 2
+	jerky 1
+	5
+spied
+	crane
+	sleet 127
+	shied 2
+	spied 1
+	4
+manor
+	crane
+	rayon 10
+	manor 1
+	3
+usher
+	crane
+	reset 122
+	super 7
+	usher 1
+	4
+twixt
+	crane
+	lousy 263
+	fight 12
+	twixt 1
+	4
+limbo
+	crane
+	lousy 263
+	limbo 1
+	3
+retch
+	crane
+	recut 10
+	retch 1
+	3
+spunk
+	crane
+	stung 58
+	slunk 4
+	spunk 2
+	4
+papal
+	crane
+	salty 133
+	laugh 2
+	papal 1
+	4
+sugar
+	crane
+	ratio 64
+	mural 5
+	sugar 1
+	4
+every
+	crane
+	reset 122
+	leery 2
+	every 1
+	4
+droop
+	crane
+	droit 51
+	drool 4
+	droop 1
+	4
+arrow
+	crane
+	arbor 12
+	arrow 1
+	3
+serif
+	crane
+	reset 122
+	serum 3
+	serif 1
+	4
+batch
+	crane
+	latch 27
+	watch 5
+	match 4
+	batch 3
+	5
+sooty
+	crane
+	lousy 263
+	sooty 2
+	3
+haven
+	crane
+	laden 21
+	taken 5
+	waxen 2
+	haven 1
+	5
+lipid
+	crane
+	lousy 263
+	lipid 4
+	3
+femme
+	crane
+	stole 102
+	imbue 13
+	femme 1
+	4
+remit
+	crane
+	reset 122
+	refit 3
+	remit 1
+	4
+flame
+	crane
+	slate 43
+	blaze 7
+	flake 3
+	flame 1
+	5
+froze
+	crane
+	trope 26
+	drove 5
+	broke 2
+	froze 1
+	5
+boxer
+	crane
+	reset 122
+	lover 34
+	mower 8
+	poker 4
+	foyer 2
+	boxer 1
+	7
+gassy
+	crane
+	salty 133
+	daisy 2
+	gassy 1
+	4
+voice
+	crane
+	spice 9
+	twice 3
+	juice 2
+	voice 1
+	5
+spiny
+	crane
+	stung 58
+	shiny 3
+	spiny 1
+	4
+mucky
+	crane
+	stuck 55
+	lucky 2
+	mucky 1
+	4
+furor
+	crane
+	torus 90
+	juror 2
+	furor 1
+	4
+dross
+	crane
+	droit 51
+	drool 4
+	dross 1
+	4
+sigma
+	crane
+	salty 133
+	squad 2
+	sigma 1
+	4
+fluid
+	crane
+	lousy 263
+	bluff 5
+	fluid 1
+	4
+truss
+	crane
+	droit 51
+	truly 4
+	truth 3
+	trump 2
+	truss 1
+	6
+groin
+	crane
+	grown 5
+	groin 1
+	3
+revue
+	crane
+	reuse 39
+	revue 1
+	3
+aside
+	crane
+	aisle 49
+	aside 1
+	3
+sport
+	crane
+	torus 90
+	story 5
+	short 2
+	sport 1
+	5
+stain
+	crane
+	slain 8
+	stain 1
+	3
+epoxy
+	crane
+	sleet 127
+	equip 5
+	epoxy 1
+	4
+oaken
+	crane
+	laden 21
+	taken 5
+	oaken 1
+	4
+utter
+	crane
+	reset 122
+	outer 10
+	utter 1
+	4
+whirl
+	crane
+	torus 90
+	rigid 2
+	whirl 1
+	4
+basal
+	crane
+	salty 133
+	basil 3
+	basal 1
+	4
+speed
+	crane
+	sleet 127
+	sheep 3
+	speed 1
+	4
+abort
+	crane
+	ratio 64
+	aorta 2
+	abort 1
+	4
+skull
+	crane
+	lousy 263
+	skulk 3
+	skull 1
+	4
+unfit
+	crane
+	unity 55
+	until 3
+	unfit 1
+	4
+shear
+	crane
+	later 50
+	smear 6
+	spear 3
+	shear 2
+	5
+proud
+	crane
+	droit 51
+	brood 2
+	proud 1
+	4
+opera
+	crane
+	later 50
+	repay 4
+	opera 1
+	4
+cabin
+	crane
+	candy 4
+	cabin 1
+	3
+screw
+	crane
+	recut 10
+	screw 1
+	3
+crate
+	crane
+	crave 3
+	crate 2
+	3
+happy
+	crane
+	salty 133
+	gaudy 9
+	mammy 3
+	jazzy 2
+	happy 1
+	6
+raven
+	crane
+	ramen 5
+	raven 1
+	3
+clown
+	crane
+	conch 8
+	clown 1
+	3
+decry
+	crane
+	recut 10
+	decor 2
+	decry 1
+	4
+wield
+	crane
+	sleet 127
+	dwell 6
+	wield 1
+	4
+space
+	crane
+	peace 4
+	space 1
+	3
+brisk
+	crane
+	droit 51
+	frisk 8
+	brisk 1
+	4
+kitty
+	crane
+	lousy 263
+	ditty 15
+	bitty 3
+	witty 2
+	kitty 1
+	6
+gamut
+	crane
+	salty 133
+	patio 5
+	gamut 1
+	4
+hippy
+	crane
+	lousy 263
+	ditty 15
+	wimpy 5
+	hippy 1
+	5
+blade
+	crane
+	slate 43
+	blaze 7
+	blame 2
+	blade 1
+	5
+briny
+	crane
+	grind 17
+	briny 3
+	3
+deter
+	crane
+	reset 122
+	meter 2
+	deter 1
+	4
+drake
+	crane
+	grade 13
+	drape 2
+	drake 1
+	4
+royal
+	crane
+	ratio 64
+	royal 1
+	3
+quake
+	crane
+	slate 43
+	adage 9
+	weave 3
+	quake 1
+	5
+perch
+	crane
+	recut 10
+	mercy 2
+	perch 1
+	4
+renew
+	crane
+	inter 27
+	renew 1
+	3
+aphid
+	crane
+	salty 133
+	audio 8
+	aphid 1
+	4
+beset
+	crane
+	sleet 127
+	beset 1
+	3
+eagle
+	crane
+	aisle 49
+	fable 5
+	maple 3
+	ladle 2
+	eagle 1
+	6
+racer
+	crane
+	racer 2
+	2
+merry
+	crane
+	reset 122
+	berry 11
+	ferry 2
+	merry 1
+	5
+water
+	crane
+	later 50
+	eater 3
+	water 2
+	4
+stiff
+	crane
+	lousy 263
+	shift 9
+	stiff 1
+	4
+augur
+	crane
+	ratio 64
+	mural 5
+	augur 1
+	4
+allay
+	crane
+	salty 133
+	allay 2
+	3
+leash
+	crane
+	dealt 18
+	leaky 3
+	leash 1
+	4
+ovate
+	crane
+	slate 43
+	abate 3
+	ovate 1
+	4
+bench
+	crane
+	bench 1
+	2
+saner
+	crane
+	ramen 5
+	saner 1
+	3
+waist
+	crane
+	salty 133
+	waist 1
+	3
+odder
+	crane
+	reset 122
+	lover 34
+	offer 2
+	odder 1
+	5
+sloth
+	crane
+	lousy 263
+	spoil 5
+	sloth 1
+	4
+field
+	crane
+	sleet 127
+	dwell 6
+	yield 2
+	field 1
+	5
+taste
+	crane
+	aisle 49
+	waste 6
+	baste 4
+	paste 3
+	taste 2
+	6
+catch
+	crane
+	cacti 13
+	catch 1
+	3
+mover
+	crane
+	reset 122
+	lover 34
+	mover 2
+	4
+nutty
+	crane
+	unity 55
+	nutty 1
+	3
+savor
+	crane
+	ratio 64
+	valor 7
+	favor 2
+	savor 1
+	5
+dirge
+	crane
+	reuse 39
+	forge 6
+	dirge 1
+	4
+mirth
+	crane
+	torus 90
+	birth 4
+	mirth 2
+	4
+catty
+	crane
+	cacti 13
+	catty 1
+	3
+sassy
+	crane
+	salty 133
+	savvy 4
+	sappy 2
+	sassy 1
+	5
+tarot
+	crane
+	ratio 64
+	tarot 1
+	3
+march
+	crane
+	scrap 7
+	march 1
+	3
+gonad
+	crane
+	talon 47
+	nomad 2
+	gonad 1
+	4
+cater
+	crane
+	caper 4
+	cater 1
+	3
+radar
+	crane
+	ratio 64
+	ralph 5
+	radar 1
+	4
+fleet
+	crane
+	sleet 127
+	fleet 1
+	3
+abode
+	crane
+	aisle 49
+	above 4
+	abode 1
+	4
+loamy
+	crane
+	shalt 49
+	flail 8
+	loamy 1
+	4
+delve
+	crane
+	stole 102
+	glide 13
+	delve 1
+	4
+steak
+	crane
+	steal 46
+	stead 3
+	steam 2
+	steak 1
+	5
+clued
+	crane
+	cleft 11
+	clued 1
+	3
+drive
+	crane
+	trope 26
+	bride 4
+	drive 1
+	4
+trust
+	crane
+	droit 51
+	tryst 2
+	trust 1
+	4
+salad
+	crane
+	salty 133
+	salsa 3
+	salad 1
+	4
+groom
+	crane
+	droit 51
+	proof 9
+	broom 3
+	groom 1
+	5
+globe
+	crane
+	stole 102
+	globe 4
+	3
+palsy
+	crane
+	salty 133
+	palsy 1
+	3
+sever
+	crane
+	reset 122
+	sewer 2
+	sever 1
+	4
+scaly
+	crane
+	scald 13
+	scalp 2
+	scaly 1
+	4
+niche
+	crane
+	niece 11
+	niche 1
+	3
+taboo
+	crane
+	salty 133
+	habit 5
+	taboo 1
+	4
+verso
+	crane
+	reset 122
+	serum 3
+	verso 1
+	4
+ashen
+	crane
+	laden 21
+	ashen 1
+	3
+gnash
+	crane
+	snail 8
+	gnash 1
+	3
+pearl
+	crane
+	ready 9
+	heart 2
+	pearl 1
+	4
+whale
+	crane
+	slate 43
+	leave 2
+	whale 1
+	4
+toxic
+	crane
+	stuck 55
+	topic 3
+	toxic 1
+	4
+block
+	crane
+	stuck 55
+	flock 3
+	block 1
+	4
+wharf
+	crane
+	shard 24
+	wharf 1
+	3
+aloud
+	crane
+	salty 133
+	afoul 12
+	aloud 1
+	4
+grimy
+	crane
+	droit 51
+	frisk 8
+	privy 3
+	grimy 1
+	5
+gawky
+	crane
+	salty 133
+	gaudy 9
+	gawky 1
+	4
+crest
+	crane
+	creed 10
+	crept 3
+	crest 1
+	4
+guide
+	crane
+	stole 102
+	imbue 13
+	guide 1
+	4
+unfed
+	crane
+	olden 58
+	unwed 3
+	unfed 1
+	4
+hover
+	crane
+	reset 122
+	lover 34
+	mover 2
+	hover 1
+	5
+cress
+	crane
+	creed 10
+	crept 3
+	cress 1
+	4
+array
+	crane
+	arbor 12
+	array 1
+	3
+detox
+	crane
+	sleet 127
+	depth 11
+	detox 1
+	4
+lever
+	crane
+	reset 122
+	fever 5
+	lever 1
+	4
+icing
+	crane
+	icing 1
+	2
+dogma
+	crane
+	salty 133
+	audio 8
+	dogma 1
+	4
+sonic
+	crane
+	punch 17
+	tonic 3
+	ionic 2
+	sonic 1
+	5
+piggy
+	crane
+	lousy 263
+	ditty 15
+	wimpy 5
+	piggy 1
+	5
+crack
+	crane
+	crass 7
+	cramp 5
+	craft 4
+	crawl 3
+	crazy 2
+	crack 1
+	7
+scene
+	crane
+	scone 2
+	scene 1
+	3
+mocha
+	crane
+	latch 27
+	mocha 1
+	3
+tangy
+	crane
+	talon 47
+	tangy 1
+	3
+balmy
+	crane
+	salty 133
+	dally 2
+	balmy 1
+	4
+toast
+	crane
+	shalt 49
+	boast 2
+	toast 1
+	4
+kneel
+	crane
+	olden 58
+	inlet 2
+	kneel 1
+	4
+seven
+	crane
+	olden 58
+	seven 7
+	3
+burnt
+	crane
+	round 4
+	burnt 1
+	3
+rebel
+	crane
+	reset 122
+	repel 4
+	revel 2
+	rebel 1
+	5
+feral
+	crane
+	later 50
+	relax 4
+	feral 1
+	4
+fewer
+	crane
+	reset 122
+	fever 5
+	fewer 1
+	4
+pygmy
+	crane
+	lousy 263
+	ditty 15
+	pygmy 1
+	4
+gaily
+	crane
+	salty 133
+	madly 5
+	gayly 2
+	gaily 1
+	5
+graze
+	crane
+	grade 13
+	grate 4
+	grave 3
+	grape 2
+	graze 1
+	6
+ridge
+	crane
+	horse 39
+	rupee 4
+	rifle 2
+	ridge 1
+	5
+alloy
+	crane
+	salty 133
+	allay 2
+	alloy 1
+	4
+bunny
+	crane
+	stung 58
+	funny 2
+	bunny 1
+	4
+grief
+	crane
+	freed 22
+	brief 2
+	grief 1
+	4
+alert
+	crane
+	later 50
+	alert 1
+	3
+naive
+	crane
+	mange 6
+	naive 1
+	3
+joint
+	crane
+	stung 58
+	point 4
+	joint 1
+	4
+there
+	crane
+	terse 39
+	there 1
+	3
+movie
+	crane
+	stole 102
+	gouge 5
+	movie 1
+	4
+facet
+	crane
+	decal 6
+	facet 1
+	3
+holly
+	crane
+	lousy 263
+	dolly 9
+	jolly 4
+	golly 3
+	holly 2
+	6
+pinto
+	crane
+	unity 55
+	pinto 2
+	3
+rumor
+	crane
+	torus 90
+	humor 2
+	rumor 1
+	4
+shock
+	crane
+	stuck 55
+	smock 3
+	shock 1
+	4
+utile
+	crane
+	stole 102
+	utile 1
+	3
+cobra
+	crane
+	cargo 8
+	cobra 1
+	3
+began
+	crane
+	laden 21
+	vegan 2
+	began 1
+	4
+glide
+	crane
+	stole 102
+	glide 13
+	3
+patty
+	crane
+	salty 133
+	fatty 4
+	tatty 3
+	batty 2
+	patty 1
+	6
+hotel
+	crane
+	sleet 127
+	motel 3
+	hotel 1
+	4
+masse
+	crane
+	aisle 49
+	waste 6
+	masse 1
+	4
+gummy
+	crane
+	lousy 263
+	dumpy 14
+	mummy 2
+	gummy 1
+	5
+roast
+	crane
+	shard 24
+	roast 1
+	3
+staid
+	crane
+	shalt 49
+	stamp 3
+	staff 2
+	staid 1
+	5
+iliac
+	crane
+	latch 27
+	vocal 3
+	iliac 1
+	4
+endow
+	crane
+	olden 58
+	endow 1
+	3
+plunk
+	crane
+	stung 58
+	flunk 8
+	plunk 1
+	4
+gnome
+	crane
+	snide 21
+	gnome 1
+	3
+dance
+	crane
+	lance 2
+	dance 1
+	3
+grant
+	crane
+	grand 6
+	grant 1
+	3
+child
+	crane
+	couch 25
+	chill 3
+	chili 2
+	child 1
+	5
+dodgy
+	crane
+	lousy 263
+	goody 16
+	dodgy 1
+	4
+speak
+	crane
+	steal 46
+	speak 1
+	3
+ombre
+	crane
+	reuse 39
+	forge 6
+	ombre 1
+	4
+river
+	crane
+	reset 122
+	rider 9
+	riper 2
+	river 1
+	5
+filth
+	crane
+	lousy 263
+	blitz 4
+	filth 1
+	4
+ahead
+	crane
+	steal 46
+	ahead 1
+	3
+media
+	crane
+	steal 46
+	abbey 2
+	media 1
+	4
+manly
+	crane
+	talon 47
+	lanky 5
+	manly 1
+	4
+muddy
+	crane
+	lousy 263
+	dumpy 14
+	muddy 1
+	4
+shard
+	crane
+	shard 24
+	2
+stone
+	crane
+	shone 12
+	stone 1
+	3
+onset
+	crane
+	olden 58
+	onset 1
+	3
+husky
+	crane
+	lousy 263
+	mushy 9
+	husky 1
+	4
+unify
+	crane
+	unity 55
+	unify 1
+	3
+chick
+	crane
+	couch 25
+	chick 1
+	3
+bluff
+	crane
+	lousy 263
+	bluff 5
+	3
+imbue
+	crane
+	stole 102
+	imbue 13
+	3
+crick
+	crane
+	crisp 13
+	crick 1
+	3
+frank
+	crane
+	grand 6
+	prank 2
+	frank 1
+	4
+adobe
+	crane
+	aisle 49
+	above 4
+	adobe 1
+	4
+fraud
+	crane
+	graft 22
+	frail 2
+	fraud 1
+	4
+trend
+	crane
+	trend 1
+	2
+glade
+	crane
+	slate 43
+	blaze 7
+	flake 3
+	glade 1
+	5
+leapt
+	crane
+	dealt 18
+	least 2
+	leapt 1
+	4
+organ
+	crane
+	groan 4
+	organ 1
+	3
+rotor
+	crane
+	torus 90
+	motor 3
+	rotor 1
+	4
+axial
+	crane
+	salty 133
+	afoul 12
+	axial 1
+	4
+broil
+	crane
+	droit 51
+	broil 1
+	3
+delta
+	crane
+	steal 46
+	valet 2
+	delta 1
+	4
+caput
+	crane
+	cacti 13
+	caput 1
+	3
+champ
+	crane
+	chasm 13
+	champ 1
+	3
+sword
+	crane
+	torus 90
+	visor 2
+	sword 1
+	4
+crane
+	crane
+	-1
+crash
+	crane
+	crass 7
+	crash 1
+	3
+skiff
+	crane
+	lousy 263
+	shift 9
+	skiff 1
+	4
+spiel
+	crane
+	sleet 127
+	spiel 1
+	3
+dimly
+	crane
+	lousy 263
+	filmy 9
+	dimly 1
+	4
+ruler
+	crane
+	reset 122
+	rider 9
+	roger 4
+	ruler 1
+	5
+sight
+	crane
+	lousy 263
+	shift 9
+	sight 1
+	4
+order
+	crane
+	freed 22
+	dryer 3
+	order 1
+	4
+smile
+	crane
+	stole 102
+	smile 1
+	3
+renal
+	crane
+	ramen 5
+	renal 1
+	3
+crowd
+	crane
+	crisp 13
+	crock 4
+	crowd 1
+	4
+brand
+	crane
+	grand 6
+	brand 1
+	3
+tepid
+	crane
+	sleet 127
+	depth 11
+	tepid 1
+	4
+recur
+	crane
+	recut 10
+	recur 1
+	3
+going
+	crane
+	stung 58
+	doing 7
+	going 1
+	4
+urban
+	crane
+	groan 4
+	urban 1
+	3
+hater
+	crane
+	later 50
+	eater 3
+	water 2
+	hater 1
+	5
+squat
+	crane
+	salty 133
+	squat 1
+	3
+goner
+	crane
+	inter 27
+	owner 4
+	goner 1
+	4
+cease
+	crane
+	chafe 3
+	cease 1
+	3
+patch
+	crane
+	latch 27
+	watch 5
+	match 4
+	batch 3
+	patch 2
+	6
+group
+	crane
+	droit 51
+	proof 9
+	group 1
+	4
+queen
+	crane
+	olden 58
+	seven 7
+	queen 1
+	4
+sleet
+	crane
+	sleet 127
+	2
+girth
+	crane
+	torus 90
+	birth 4
+	mirth 2
+	girth 1
+	5
+bunch
+	crane
+	punch 17
+	hunch 4
+	munch 3
+	lunch 2
+	bunch 1
+	6
+berth
+	crane
+	reset 122
+	metro 2
+	berth 1
+	4
+poise
+	crane
+	stole 102
+	mouse 5
+	posse 2
+	poise 1
+	5
+spawn
+	crane
+	snail 8
+	spawn 1
+	3
+annul
+	crane
+	talon 47
+	anvil 3
+	annul 1
+	4
+knife
+	crane
+	snide 21
+	unite 2
+	knife 1
+	4
+notch
+	crane
+	punch 17
+	notch 1
+	3
+tuber
+	crane
+	reset 122
+	outer 10
+	tuber 1
+	4
+baton
+	crane
+	talon 47
+	baton 1
+	3
+comma
+	crane
+	cacti 13
+	cloak 2
+	comma 1
+	4
+preen
+	crane
+	green 2
+	preen 1
+	3
+shore
+	crane
+	reuse 39
+	spire 6
+	store 3
+	shore 2
+	5
+gusty
+	crane
+	lousy 263
+	mushy 9
+	dusky 3
+	gusty 1
+	5
+inlet
+	crane
+	olden 58
+	kneel 2
+	inlet 1
+	4
+phone
+	crane
+	shone 12
+	phone 1
+	3
+forty
+	crane
+	torus 90
+	forth 3
+	forty 1
+	4
+moldy
+	crane
+	lousy 263
+	dolly 9
+	moldy 1
+	4
+sixth
+	crane
+	lousy 263
+	shift 9
+	sixth 1
+	4
+throb
+	crane
+	torus 90
+	throw 2
+	throb 1
+	4
+obese
+	crane
+	stole 102
+	mouse 5
+	obese 1
+	4
+hatch
+	crane
+	latch 27
+	watch 5
+	match 4
+	batch 3
+	patch 2
+	hatch 1
+	7
+queer
+	crane
+	reset 122
+	elder 3
+	queer 1
+	4
+deity
+	crane
+	sleet 127
+	depth 11
+	deity 1
+	4
+float
+	crane
+	salty 133
+	bloat 10
+	gloat 2
+	float 1
+	5
+retry
+	crane
+	reset 122
+	retro 2
+	retry 1
+	4
+young
+	crane
+	stung 58
+	flung 2
+	young 1
+	4
+doing
+	crane
+	stung 58
+	doing 7
+	3
+filet
+	crane
+	sleet 127
+	filet 1
+	3
+plead
+	crane
+	steal 46
+	gleam 3
+	bleak 2
+	plead 1
+	5
+tract
+	crane
+	wrack 3
+	tract 1
+	3
+tunic
+	crane
+	punch 17
+	tunic 1
+	3
+broth
+	crane
+	droit 51
+	froth 4
+	broth 1
+	4
+arena
+	crane
+	arena 1
+	2
+south
+	crane
+	lousy 263
+	south 1
+	3
+speck
+	crane
+	leech 20
+	speck 1
+	3
+frame
+	crane
+	grade 13
+	brave 5
+	erase 3
+	irate 2
+	frame 1
+	6
+askew
+	crane
+	steal 46
+	askew 1
+	3
+scamp
+	crane
+	scalp 13
+	scamp 1
+	3
+maybe
+	crane
+	aisle 49
+	gauze 10
+	payee 3
+	maybe 1
+	5
+stock
+	crane
+	stuck 55
+	stick 2
+	stock 1
+	4
+thief
+	crane
+	sleet 127
+	totem 2
+	thief 1
+	4
+pound
+	crane
+	stung 58
+	flunk 8
+	mound 5
+	hound 4
+	bound 3
+	wound 2
+	pound 1
+	8
+shrew
+	crane
+	reset 122
+	super 7
+	shrew 1
+	4
+halve
+	crane
+	aisle 49
+	halve 5
+	3
+false
+	crane
+	aisle 49
+	lapse 3
+	false 1
+	4
+dumpy
+	crane
+	lousy 263
+	dumpy 14
+	3
+slept
+	crane
+	sleet 127
+	slept 1
+	3
+spoke
+	crane
+	stole 102
+	smoke 3
+	spoke 1
+	4
+shook
+	crane
+	lousy 263
+	stomp 8
+	shook 1
+	4
+octet
+	crane
+	leech 20
+	dicey 3
+	octet 1
+	4
+duchy
+	crane
+	stuck 55
+	pubic 3
+	duchy 1
+	4
+enjoy
+	crane
+	olden 58
+	envoy 3
+	enjoy 1
+	4
+algae
+	crane
+	aisle 49
+	algae 1
+	3
+satin
+	crane
+	talon 47
+	satin 1
+	3
+glyph
+	crane
+	lousy 263
+	idyll 2
+	glyph 1
+	4
+alike
+	crane
+	aisle 49
+	alive 2
+	alike 1
+	4
+chose
+	crane
+	chose 11
+	2
+troop
+	crane
+	droit 51
+	froth 4
+	troll 2
+	troop 1
+	5
+extol
+	crane
+	sleet 127
+	lefty 2
+	extol 1
+	4
+guard
+	crane
+	shard 24
+	board 3
+	award 2
+	guard 1
+	5
+prune
+	crane
+	prone 5
+	prune 1
+	3
+haste
+	crane
+	aisle 49
+	waste 6
+	baste 4
+	paste 3
+	taste 2
+	haste 1
+	7
+patsy
+	crane
+	salty 133
+	patsy 1
+	3
+price
+	crane
+	truce 3
+	price 1
+	3
+early
+	crane
+	later 50
+	early 1
+	3
+jumpy
+	crane
+	lousy 263
+	dumpy 14
+	jumpy 1
+	4
+lemon
+	crane
+	olden 58
+	felon 3
+	lemon 1
+	4
+sauce
+	crane
+	sauce 2
+	2
+model
+	crane
+	sleet 127
+	bowel 9
+	hovel 2
+	model 1
+	5
+dream
+	crane
+	tread 9
+	dream 1
+	3
+locus
+	crane
+	stuck 55
+	focus 5
+	locus 1
+	4
+truck
+	crane
+	trick 5
+	truck 1
+	3
+delay
+	crane
+	steal 46
+	delay 1
+	3
+waltz
+	crane
+	salty 133
+	waltz 1
+	3
+macro
+	crane
+	scram 7
+	macro 1
+	3
+dress
+	crane
+	freed 22
+	dress 1
+	3
+wrung
+	crane
+	grind 17
+	prong 3
+	wrung 1
+	4
+drama
+	crane
+	graft 22
+	drawl 7
+	drama 1
+	4
+heron
+	crane
+	inter 27
+	rerun 3
+	heron 1
+	4
+incur
+	crane
+	scorn 2
+	incur 1
+	3
+ledge
+	crane
+	stole 102
+	glide 13
+	ledge 1
+	4
+bevel
+	crane
+	sleet 127
+	bevel 5
+	3
+refer
+	crane
+	reset 122
+	repel 4
+	refer 1
+	4
+abuse
+	crane
+	aisle 49
+	amuse 2
+	abuse 1
+	4
+anime
+	crane
+	mange 6
+	anime 1
+	3
+bulge
+	crane
+	stole 102
+	glide 13
+	bulge 1
+	4
+carol
+	crane
+	cargo 8
+	carol 1
+	3
+aware
+	crane
+	glare 7
+	stare 4
+	aware 1
+	4
+winch
+	crane
+	punch 17
+	finch 2
+	winch 1
+	4
+fatal
+	crane
+	salty 133
+	fault 3
+	fatal 1
+	4
+lower
+	crane
+	reset 122
+	lover 34
+	lower 1
+	4
+riser
+	crane
+	reset 122
+	riser 1
+	3
+union
+	crane
+	unity 55
+	union 1
+	3
+probe
+	crane
+	trope 26
+	prose 3
+	prove 2
+	probe 1
+	5
+droit
+	crane
+	droit 51
+	2
+rehab
+	crane
+	later 50
+	repay 4
+	rehab 1
+	4
+soggy
+	crane
+	lousy 263
+	sooty 2
+	soggy 1
+	4
+haunt
+	crane
+	taint 20
+	jaunt 5
+	gaunt 4
+	vaunt 3
+	haunt 2
+	6
+befit
+	crane
+	sleet 127
+	debit 5
+	befit 1
+	4
+shrug
+	crane
+	torus 90
+	shrub 3
+	shrug 1
+	4
+wrote
+	crane
+	trope 26
+	wrote 1
+	3
+error
+	crane
+	freed 22
+	erupt 2
+	error 1
+	4
+caulk
+	crane
+	cacti 13
+	cabal 4
+	caulk 1
+	4
+humus
+	crane
+	lousy 263
+	sushi 2
+	humus 1
+	4
+knave
+	crane
+	snake 2
+	knave 1
+	3
+olive
+	crane
+	stole 102
+	lodge 2
+	olive 1
+	4
+allow
+	crane
+	salty 133
+	villa 4
+	allow 1
+	4
+livid
+	crane
+	lousy 263
+	lipid 4
+	livid 1
+	4
+gland
+	crane
+	stank 16
+	gland 3
+	3
+loyal
+	crane
+	salty 133
+	loyal 1
+	3
+pride
+	crane
+	trope 26
+	prude 4
+	pride 1
+	4
+since
+	crane
+	niece 11
+	wince 3
+	mince 2
+	since 1
+	5
+grand
+	crane
+	grand 6
+	2
+amass
+	crane
+	shalt 49
+	quasi 2
+	amass 1
+	4
+yacht
+	crane
+	latch 27
+	yacht 1
+	3
+ideal
+	crane
+	steal 46
+	ideal 1
+	3
+witch
+	crane
+	stuck 55
+	hitch 5
+	ditch 3
+	pitch 2
+	witch 1
+	6
+debug
+	crane
+	sleet 127
+	equip 5
+	debug 1
+	4
+hobby
+	crane
+	lousy 263
+	goody 16
+	bobby 3
+	hobby 1
+	5
+ardor
+	crane
+	arbor 12
+	armor 2
+	ardor 1
+	4
+swear
+	crane
+	later 50
+	smear 6
+	spear 3
+	shear 2
+	swear 1
+	6
+fugue
+	crane
+	stole 102
+	imbue 13
+	queue 2
+	fugue 1
+	5
+grill
+	crane
+	droit 51
+	frisk 8
+	privy 3
+	grill 1
+	5
+alone
+	crane
+	atone 2
+	alone 1
+	3
+recap
+	crane
+	racer 2
+	recap 1
+	3
+birch
+	crane
+	scrub 11
+	birch 1
+	3
+ulcer
+	crane
+	recut 10
+	ulcer 1
+	3
+lunar
+	crane
+	rayon 10
+	lunar 1
+	3
+acute
+	crane
+	sauce 2
+	acute 1
+	3
+gulch
+	crane
+	stuck 55
+	mulch 3
+	gulch 1
+	4
+sepia
+	crane
+	steal 46
+	sepia 1
+	3
+daunt
+	crane
+	taint 20
+	gaunt 5
+	jaunt 4
+	vaunt 3
+	haunt 2
+	daunt 1
+	7
+snuck
+	crane
+	punch 17
+	snuck 1
+	3
+greed
+	crane
+	freed 22
+	breed 2
+	greed 1
+	4
+stake
+	crane
+	slate 43
+	stave 3
+	stage 2
+	stake 1
+	5
+issue
+	crane
+	stole 102
+	guise 3
+	issue 1
+	4
+cloth
+	crane
+	couch 25
+	cloth 1
+	3
+kayak
+	crane
+	salty 133
+	bayou 2
+	kayak 1
+	4
+skunk
+	crane
+	stung 58
+	slunk 4
+	spunk 2
+	skunk 1
+	5
+booby
+	crane
+	lousy 263
+	goody 16
+	woozy 4
+	booty 2
+	booby 1
+	6
+purge
+	crane
+	reuse 39
+	purge 1
+	3
+smash
+	crane
+	shalt 49
+	swash 2
+	smash 1
+	4
+floss
+	crane
+	lousy 263
+	gloss 3
+	floss 1
+	4
+fecal
+	crane
+	decal 6
+	fecal 1
+	3
+stack
+	crane
+	scalp 13
+	smack 3
+	shack 2
+	stack 1
+	5
+dowdy
+	crane
+	lousy 263
+	goody 16
+	howdy 3
+	dowdy 1
+	5
+alpha
+	crane
+	salty 133
+	afoul 12
+	alibi 2
+	alpha 1
+	5
+cloud
+	crane
+	couch 25
+	clout 2
+	cloud 1
+	4
+atoll
+	crane
+	salty 133
+	bloat 10
+	atoll 1
+	4
+penne
+	crane
+	shone 12
+	twine 2
+	penne 1
+	4
+kinky
+	crane
+	unity 55
+	dingy 4
+	pinky 2
+	kinky 1
+	5
+glory
+	crane
+	torus 90
+	ivory 7
+	glory 1
+	4
+moose
+	crane
+	stole 102
+	goose 3
+	moose 1
+	4
+linen
+	crane
+	olden 58
+	liken 3
+	linen 1
+	4
+shame
+	crane
+	slate 43
+	spade 7
+	shave 4
+	shake 2
+	shame 1
+	6
+shall
+	crane
+	shalt 49
+	shall 1
+	3
+lorry
+	crane
+	torus 90
+	wordy 6
+	lorry 1
+	4
+piece
+	crane
+	spice 9
+	piece 1
+	3
+fling
+	crane
+	stung 58
+	doing 7
+	lying 3
+	fling 1
+	5
+strut
+	crane
+	torus 90
+	strut 1
+	3
+cedar
+	crane
+	caper 4
+	clear 2
+	cedar 1
+	4
+cavil
+	crane
+	cacti 13
+	cavil 1
+	3
+nerve
+	crane
+	nurse 5
+	nerve 1
+	3
+tilde
+	crane
+	stole 102
+	lithe 4
+	tilde 1
+	4
+edify
+	crane
+	sleet 127
+	equip 5
+	edify 1
+	4
+affix
+	crane
+	salty 133
+	audio 8
+	affix 1
+	4
+windy
+	crane
+	unity 55
+	dingy 4
+	windy 1
+	4
+copse
+	crane
+	chose 11
+	copse 1
+	3
+brink
+	crane
+	grind 17
+	briny 3
+	brink 1
+	4
+nobly
+	crane
+	unity 55
+	nobly 1
+	3
+heave
+	crane
+	slate 43
+	adage 9
+	weave 3
+	heave 1
+	5
+trail
+	crane
+	graft 22
+	wrath 5
+	tramp 2
+	trail 1
+	5
+polyp
+	crane
+	lousy 263
+	polyp 1
+	3
+dried
+	crane
+	freed 22
+	tried 3
+	pried 2
+	dried 1
+	5
+ripen
+	crane
+	inter 27
+	risen 3
+	ripen 1
+	4
+brawl
+	crane
+	graft 22
+	drawl 7
+	brawl 1
+	4
+matey
+	crane
+	steal 46
+	matey 1
+	3
+straw
+	crane
+	ratio 64
+	stray 3
+	strap 2
+	straw 1
+	5
+cacti
+	crane
+	cacti 13
+	2
+vomit
+	crane
+	lousy 263
+	motto 5
+	vomit 1
+	4
+folly
+	crane
+	lousy 263
+	holly 9
+	jolly 4
+	dolly 3
+	golly 2
+	folly 1
+	7
+craze
+	crane
+	crave 3
+	crate 2
+	craze 1
+	4
+neigh
+	crane
+	olden 58
+	ennui 5
+	neigh 1
+	4
+mango
+	crane
+	talon 47
+	banjo 2
+	mango 1
+	4
+table
+	crane
+	aisle 49
+	fable 5
+	table 1
+	4
+brine
+	crane
+	prone 5
+	urine 2
+	brine 1
+	4
+irony
+	crane
+	grind 17
+	irony 1
+	3
+slurp
+	crane
+	torus 90
+	usurp 2
+	slurp 1
+	4
+stair
+	crane
+	shard 24
+	stair 1
+	3
+abled
+	crane
+	steal 46
+	alley 3
+	abled 1
+	4
+rover
+	crane
+	reset 122
+	rider 9
+	roger 4
+	rower 2
+	rover 1
+	6
+greet
+	crane
+	freed 22
+	greet 1
+	3
+yearn
+	crane
+	learn 2
+	yearn 1
+	3
+annex
+	crane
+	laden 21
+	annex 2
+	3
+rabbi
+	crane
+	ratio 64
+	rabbi 1
+	3
+swing
+	crane
+	stung 58
+	sling 2
+	swing 1
+	4
+fella
+	crane
+	steal 46
+	alley 3
+	fella 1
+	4
+apnea
+	crane
+	laden 21
+	annex 2
+	apnea 1
+	4
+fetch
+	crane
+	leech 20
+	fetch 1
+	3
+slice
+	crane
+	spice 9
+	slice 1
+	3
+ninth
+	crane
+	unity 55
+	pinto 2
+	ninth 1
+	4
+sound
+	crane
+	stung 58
+	slunk 4
+	sound 1
+	4
+elbow
+	crane
+	sleet 127
+	elbow 1
+	3
+axiom
+	crane
+	salty 133
+	audio 8
+	axiom 1
+	4
+bland
+	crane
+	stank 16
+	gland 3
+	bland 1
+	4
+cheek
+	crane
+	cleft 11
+	check 3
+	cheek 1
+	4
+golem
+	crane
+	sleet 127
+	bowel 9
+	golem 1
+	4
+knoll
+	crane
+	unity 55
+	known 3
+	knoll 1
+	4
+mambo
+	crane
+	salty 133
+	mamma 9
+	mambo 1
+	4
+anode
+	crane
+	mange 6
+	ankle 2
+	anode 1
+	4
+bushy
+	crane
+	lousy 263
+	mushy 9
+	bushy 2
+	4
+plate
+	crane
+	slate 43
+	elate 2
+	plate 1
+	4
+swore
+	crane
+	terse 39
+	spire 5
+	shore 2
+	swore 1
+	5
+choke
+	crane
+	chose 11
+	choke 1
+	3
