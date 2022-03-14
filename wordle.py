@@ -1,5 +1,6 @@
 #! /usr/local/bin/python3
 
+import datetime
 import fileinput
 import sys
 from collections import Counter
@@ -213,6 +214,10 @@ def solve(mystry, starting):
     print(f"\t{rounds}")
 
 
+def rot13(x: str) -> str:
+    return "".join(map(lambda ltr: chr(ord("a") + (ord(ltr.lower()) + 13 - ord("a"))%26), x))
+
+
 def daily():
     """
     parse the constraints from 'input.txt' and produce the next guess
@@ -227,7 +232,13 @@ def daily():
 
     allowed = set(map(lambda x: x.strip().lower(), open("allowed.txt", "r")))
     words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
-    hist = set(map(lambda x: x.strip().lower(), open("history.txt", "r")))
+
+    start = datetime.date(2021, 6, 19)
+    end = datetime.date.today()
+    day = (end - start).days
+    print(f"day #{day}")
+
+    hist = set(list(map(rot13, map(lambda x: x.strip().lower(), open("history.txt", "r"))))[:day])
     candidates = words - hist
     candidates = list(filter(constraints.match, candidates))
 
