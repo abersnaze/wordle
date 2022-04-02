@@ -3,10 +3,13 @@
 import datetime
 import fileinput
 import sys
+import argparse
 from collections import Counter
 from enum import Enum
 from multiprocessing import Pool
 from typing import Dict, List, Set
+
+from pyrsistent import optional
 
 
 class Mode(Enum):
@@ -141,6 +144,9 @@ class Constraint:
         out += f"allowed: [{', '.join(map(str, map(func, self.allows)))}]"
         return out
 
+    def not_match(self, word: str) -> bool:
+        return not self.match(word)
+
     def match(self, word: str) -> bool:
         """
         does the word fit these constraints
@@ -215,10 +221,12 @@ def solve(mystry, starting):
 
 
 def rot13(x: str) -> str:
-    return "".join(map(lambda ltr: chr(ord("a") + (ord(ltr.lower()) + 13 - ord("a"))%26), x))
+    return "".join(
+        map(lambda ltr: chr(ord("a") + (ord(ltr.lower()) + 13 - ord("a")) % 26), x)
+    )
 
 
-def daily():
+def daily(easy, words):
     """
     parse the constraints from 'input.txt' and produce the next guess
     """
@@ -230,38 +238,55 @@ def daily():
 
     print(constraints)
 
-    allowed = set(map(lambda x: x.strip().lower(), open("allowed.txt", "r")))
-    words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
-
     start = datetime.date(2021, 6, 19)
     end = datetime.date.today()
     day = (end - start).days
     print(f"day #{day}")
 
-    hist = set(list(map(rot13, map(lambda x: x.strip().lower(), open("history.txt", "r"))))[:day])
+    foo = list(map(rot13, map(lambda x: x.strip().lower(), open("history.txt", "r"))))[
+        :day
+    ]
+    print("yesterday's word was", foo[-1])
+    hist = set(foo)
     candidates = words - hist
     candidates = list(filter(constraints.match, candidates))
+    print("number of candidates", len(candidates))
 
-    # guesses = make_guess(candidates, allowed)  # easy mode
-    guesses = make_guess(candidates, candidates)  # hard mode
+    if easy:
+        guesses = make_guess(candidates, words)
+    else:
+        guesses = make_guess(candidates, candidates)  # hard mode
 
-    print("number of candidates", len(guesses))
     for n in range(min(len(guesses), 20)):
         guess, score = guesses[n]
         print(guess, score)
 
 
-def historical(starting):
+def historical(starting, easy, words):
     """
     see what happens for every possible mystry word.
     """
-    words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     for mystry in words:
         solve(mystry, starting)
 
 
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        historical(sys.argv[1])
+    parser = argparse.ArgumentParser(description="wordle solver")
+    parser.add_argument("--first", type=str, help="try this word as the first guess")
+    parser.add_argument(
+        "--easy",
+        action="store_true",
+        default=False,
+        help="allow the guesses to not use all the clues",
+    )
+    args = parser.parse_args()
+
+    if args.easy:
+        words = set(map(lambda x: x.strip().lower(), open("allowed.txt", "r")))
     else:
-        daily()
+        words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
+
+    if args.first is not None:
+        historical(args.first, easy=args.easy, words=words)
+    else:
+        daily(easy=args.easy, words=words)
