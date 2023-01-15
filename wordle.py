@@ -1,4 +1,4 @@
-#! /usr/local/bin/python3
+#! /usr/bin/python3
 
 import datetime
 import fileinput
@@ -8,9 +8,6 @@ from collections import Counter
 from enum import Enum
 from multiprocessing import Pool
 from typing import Dict, FrozenSet, List, Set, Tuple
-
-from pyrsistent import optional
-
 
 class Mode(Enum):
     absent = "_"
@@ -264,12 +261,7 @@ def daily(easy, candidate_words, allowed_words):
     day = (end - start).days
     print(f"day #{day}")
 
-    hist = list(map(rot13, map(lambda x: x.strip().lower(), open("history.txt", "r"))))[
-        :day
-    ]
-    print("yesterday's word was", hist[-1])
-    hist = frozenset(hist)
-    candidates = candidate_words - hist
+    candidates = candidate_words
     candidates = frozenset(filter(constraints.match, candidates))
     print("number of candidates", len(candidates))
 
