@@ -292,9 +292,13 @@ if __name__ == "__main__":
         default=False,
         help="allow the guesses to not use all the clues",
     )
+    parser.add_argument("--all", action="store_true", default=False)
     args = parser.parse_args()
     candidate_words = set(map(lambda x: x.strip().lower(), open("words.txt", "r")))
     allowed_words = set(map(lambda x: x.strip().lower(), open("allowed.txt", "r")))
+    if args.all:
+        print("using all words", len(candidate_words), len(allowed_words))
+        candidate_words = allowed_words
 
     if args.first is not None:
         historical(args.first, args.easy, candidate_words, allowed_words)
